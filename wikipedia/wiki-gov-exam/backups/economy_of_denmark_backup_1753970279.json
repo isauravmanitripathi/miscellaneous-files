@@ -1,0 +1,579 @@
+[
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "1",
+    "section_name": "Introduction",
+    "text": "Denmark has a modern high-income and highly developed mixed economy, dominated\nby the service sector with 80% of all jobs; about 11% of employees work in\nmanufacturing and 2% in agriculture. The nominal gross national income per\ncapita was the ninth-highest in the world at $68,827 in 2023.\n\nCorrecting for purchasing power, per capita income was Int$57,781 or 10th-\nhighest globally. The income distribution is relatively equal but inequality\nhas somewhat increased during the last decades. In 2017, Denmark had the\nseventh-lowest Gini coefficient (a measure of economic inequality) of the then\n28 European Union countries. With 5,932,654 inhabitants as of 1 January 2023,\nDenmark has the 38th largest national economy in the world measured by nominal\ngross domestic product (GDP), and the 52nd largest in the world measured by\npurchasing power parity (PPP). Among OECD nations, Denmark has a highly\nefficient and strong social security system; social expenditure stood at\nroughly 26.2% of GDP.\n\nDenmark has a very long tradition of adhering to a fixed exchange-rate system\nand still does so today. It is unique among OECD countries to do so while\nmaintaining an independent currency: the Danish Krone, which is pegged to the\neuro. Though eligible to join the EU's Economic and Monetary Union (EMU),\nDanish voters in a referendum in 2000 rejected exchanging the krone for the\neuro. Whereas Denmark's neighbours like Norway, Sweden, Poland and the United\nKingdom generally follow inflation targeting in their monetary policy, the\npriority of Denmark's central bank is to maintain exchange rate stability.\nConsequently, the central bank has no role in a domestic stabilization policy.\n\nIn an international context, a relatively large proportion of the population\nis part of the labour force, in particular because the female participation\nrate is very high. 78.8% of all 15-to-64-year-olds were active on the labour\nmarket in 2017, the sixth-highest number among all OECD countries. With a 4.8%\nunemployment rate, unemployment is relatively low in comparison to other\nEuropean countries, where the average unemployment rate is 6.7%. The labour\nmarket is traditionally characterized by a high degree of union membership\nrates and collective agreement coverage. Denmark invests heavily in active\nlabor market policies and the concept of flexicurity has been important\nhistorically.\n\nDenmark is an example of the Nordic model, characterized by an internationally\nhigh tax level, and a correspondingly high level of government-provided\nservices (e.g. health care, child care and education services). There are also\nincome transfers to various groups, such as retirees, disabled people, the\nunemployed, and students. Altogether, the amount of revenue from taxes paid in\n2017 amounted to 46.1% of GDP. The Danish fiscal policy is generally\nconsidered healthy. The net government debt is very close to zero, amounting\nto 1.3% of GDP in 2017. The Danish fiscal policy is characterized by a long-\nterm outlook, taking into account likely future fiscal demands. During the\n2000s, a challenge was perceived to government expenditures in future decades.\nIt was ultimately a challenge to fiscal sustainability from demographic\ndevelopment, in particular higher longevity. Responding to this, age\neligibility rules for receiving public age-related transfers were changed.\nSince 2012, calculations of future fiscal challenges, from both the government\nand independent analysts, have generally perceived Danish fiscal policy to be\nsustainable. In recent years, it was considered overly sustainable.",
+    "openai_summarised_points": [
+      "• Denmark possesses a modern, high-income, and highly developed mixed economy characterized by a dominant service sector accounting for 80% of all employment.",
+      "• Approximately 11% of Danish employees work in manufacturing industries, while about 2% are employed in agriculture.",
+      "• The nominal gross national income (GNI) per capita in Denmark was $68,827 in 2023, ranking ninth globally.",
+      "• When adjusted for purchasing power parity (PPP), Denmark’s per capita income was Int$57,781, making it the tenth-highest in the world.",
+      "• The income distribution in Denmark is relatively equal; however, income inequality has increased somewhat over recent decades.",
+      "• In 2017, Denmark had the seventh-lowest Gini coefficient among the 28 European Union countries, indicating low levels of income inequality.",
+      "• As of 1 January 2023, Denmark had a population of 5,932,654 inhabitants, making it the 38th largest economy in the world by nominal gross domestic product (GDP).",
+      "• When measured by purchasing power parity (PPP), Denmark’s economy ranks as the 52nd largest globally.",
+      "• Denmark’s economy is among the strongest in OECD countries, supported by a highly efficient social security system with social expenditures constituting approximately 26.2% of GDP.",
+      "• The country maintains a long-standing tradition of adhering to a fixed exchange-rate system, with the Danish Krone pegged to the euro, despite being eligible to join the EU’s Economic and Monetary Union (EMU).",
+      "• In a 2000 referendum, Danish voters rejected adopting the euro, opting to retain the krone and its independent currency.",
+      "• Unlike neighboring countries such as Norway, Sweden, Poland, and the United Kingdom, which generally follow inflation targeting monetary policies, Denmark’s central bank prioritizes exchange rate stability, with no role in domestic stabilization policy.",
+      "• Denmark has a high female participation rate in the labor force, contributing to a total labor force participation of 78.8% among 15-64-year-olds in 2017, the sixth-highest among OECD countries.",
+      "• The country’s unemployment rate was 4.8% in 2017, notably lower than the OECD average of 6.7%, indicating relatively low unemployment levels.",
+      "• The Danish labor market is characterized by high union membership rates and extensive collective agreement coverage.",
+      "• Denmark invests significantly in active labor market policies, with the concept of flexicurity playing a central role in its employment strategy.",
+      "• The Danish economy exemplifies the Nordic model, featuring high tax levels and extensive government-provided services such as healthcare, childcare, and education.",
+      "• Income transfers are provided to various groups, including retirees, disabled individuals, the unemployed, and students.",
+      "• In 2017, total tax revenue amounted to 46.1% of GDP, reflecting the high tax burden characteristic of the Nordic welfare state.",
+      "• Denmark’s fiscal policy is generally considered healthy, with net government debt close to zero at 1.3% of GDP in 2017.",
+      "• The country’s fiscal approach is long-term oriented, accounting for future fiscal demands, particularly demographic challenges such as increased longevity.",
+      "• During the 2000s, concerns arose regarding the sustainability of government expenditures due to demographic changes, prompting reforms such as adjustments to age eligibility rules for public age-related transfers.",
+      "• Since 2012, analyses by the government and independent experts have indicated that Danish fiscal policy is sustainable, with recent assessments describing it as overly sustainable."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:26:12.780854",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 3581,
+      "bullet_points_count": 23
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "1",
+    "section_name": "History",
+    "text": "Development of real GDP per capita, 1820 to 2018\n\nDenmark's long-term economic development has largely followed the same pattern\nas other Northwestern European countries. In most of recorded history Denmark\nhas been an agricultural country with most of the population living on a\nsubsistence level. Since the 19th century, Denmark has gone through an intense\ntechnological and institutional development. The material standard of living\nhas experienced formerly unknown rates of growth, and the country has been\nindustrialized and later turned into a modern service society.\n\nAlmost all of the land area of Denmark is arable. Unlike most of its\nneighbours, Denmark has not had extractable deposits of minerals or fossil\nfuels, except for the deposits of oil and natural gas in the North Sea, which\nstarted playing an economic role only during the 1980s. On the other hand,\nDenmark has had a logistic advantage through its long coastal line and the\nfact that no point on Danish land is more than 50 kilometers from the sea – an\nimportant fact for the whole period before the industrial revolution when sea\ntransport was cheaper than land transport. Consequently, foreign trade has\nalways been very important for the economic development of Denmark.\n\nDanish silver penning from the time of Valdemar I of Denmark.\n\nAlready during the Stone Age there was some foreign trade, and even though\ntrade has made up only a very modest share of total Danish value added until\nthe 19th century, it has been decisive for economic development, both in terms\nof procuring vital import goods (like metals) and because new knowledge and\ntechnological skills have often come to Denmark as a byproduct of goods\nexchange with other countries. The emerging trade implied specialization which\ncreated demand for means of payments, and the earliest known Danish coins date\nfrom the time of Svend Tveskæg around 995.\n\nCount Otto Thott was the foremost representative of mercantilist thought in\nDenmark.\n\nImprovements in shipping technology allowed traders to sail around Jutland and\ninto the Baltic Sea directly, and Danish warships collected the Sound Toll\nfrom these mainly Dutch merchants, in exchange for protection. Nordic rulers\nbefore the mid-seventeenth century welcomed the Dutch merchants for their\nefficient shipping services and inflow of investments which boosted industrial\ndevelopment. According to economic historian Angus Maddison, Denmark was the\nsixth-most prosperous country in the world around 1600. The population size\nrelative to arable agricultural land was small so that the farmers were\nrelatively affluent, and Denmark was geographically close to the most dynamic\nand economically leading European areas since the 16th century: the\nNetherlands, the northern parts of Germany, and Britain. Still, 80 to 85% of\nthe population lived in small villages on a subsistence level.\n\nMercantilism was the leading economic doctrine during the 17th and 18th\ncentury in Denmark, leading to the establishment of monopolies like Asiatisk\nKompagni, development of physical and financial infrastructure like the first\nDanish bank Kurantbanken in 1736 and the first \"kreditforening\" (a kind of\nbuilding society) in 1797, and the acquisition of some minor Danish colonies\nlike Tranquebar.\n\nAt the end of the 18th century major agricultural reforms took place that\nentailed decisive structural changes. However, the Napoleonic Wars caused\nCopenhagen to lose its status as an international centre of finance and trade.\nPolitically, mercantilism was gradually replaced by liberal thoughts among the\nruling elite. Following a monetary reform after the Napoleonic wars, the\npresent Danish central bank Danmarks Nationalbank was founded in 1818.\n\nThere exists national accounting data for Denmark from 1820 onwards thanks to\nthe pioneering work of Danish economic historian Svend Aage Hansen. They find\nthat there has been a substantial and permanent, though fluctuating, economic\ngrowth all the time since 1820. The period 1822–94 saw on average an annual\ngrowth in factor incomes of 2% (0.9% per capita) From around 1830 the\nagricultural sector experienced a major boom lasting several decades,\nproducing and exporting grains, not least to Britain after 1846 when British\ngrain import duties were abolished. When grain production became less\nprofitable in the second half of the century, the Danish farmers made an\nimpressive and uniquely successful change from vegetarian to animal production\nleading to a new boom period. Parallelly industrialization took off in Denmark\nfrom the 1870s. At the turn of the century industry (including artisanry) fed\nalmost 30% of the population.\n\nDuring the 20th century agriculture slowly dwindled in importance relative to\nindustry, but agricultural employment was only during the 1950s surpassed by\nindustrial employment. The first half of the century was marked by the two\nworld wars and the Great Depression during the 1930s. After World War II\nDenmark took part in the increasingly close international cooperation, joining\nthe OECD, IMF, WTO, and from 1972 the European Economic Community, later\nEuropean Union. Foreign trade increased heavily relative to GDP. The economic\nrole of the public sector increased considerably, and the country was\nincreasingly transformed from an industrial country to a country dominated by\nproduction of services. The years 1958–73 were an unprecedented high-growth\nperiod. The 1960s are the decade with the highest registered real per capita\ngrowth in GDP ever, i.e. 4.5% annually.\n\nAs a chairman of the Danish Economic Council and of several policy-preparing\ncommissions, Professor Torben M. Andersen has played an important role in\nDanish economic policy debates for the last decades.\n\nDuring the 1970s Denmark was plunged into a crisis, initiated by the 1973 oil\ncrisis leading to the hitherto unknown phenomenon stagflation. For the next\ndecades the Danish economy struggled with several major so-called \"balance\nproblems\": High unemployment, current account deficits, inflation, and\ngovernment debt. From the 1980s economic policies have increasingly been\noriented towards a long-term perspective, and gradually a series of structural\nreforms have solved these problems. In 1994 active labour market policies were\nintroduced that via a series of labour market reforms have helped reducing\nstructural unemployment considerably. A series of tax reforms from 1987\nonwards, reducing tax deductions on interest payments, and the increasing\nimportance of compulsory labour market-based funded pensions from the 1990s\nhave increased private savings rates considerably, consequently transforming\nsecular current account deficits to secular surpluses. The announcement of a\nconsistent and hence more credible fixed exchange rate in 1982 has helped\nreducing the inflation rate.\n\nIn the first decade of the 21st century new economic policy issues have\nemerged. A growing awareness that future demographic changes, in particular\nincreasing longevity, could threaten fiscal sustainability, implying very\nlarge fiscal deficits in future decades, led to major political agreements in\n2006 and 2011, both increasing the future eligibility age of receiving public\nage-related pensions. Mainly because of these changes, from 2012 onwards the\nDanish fiscal sustainability problem is generally considered to be solved.\nInstead, issues like decreasing productivity growth rates and increasing\ninequality in income distribution and consumption possibilities are prevalent\nin the public debate.\n\nThe global Great Recession during the late 2000s, the accompanying Euro area\ndebt crisis and their repercussions marked the Danish economy for several\nyears. Until 2017, unemployment rates have generally been considered to be\nabove their structural level, implying a relatively stagnating economy from a\nbusiness-cycle point of view. From 2017/18 this is no longer considered to be\nthe case, and attention has been redirected to the need of avoiding a\npotential overheating situation.\n\nIn 2022 the popularity of Novo Nordisk's Ozempic and Wegovy for weight loss\nbegan greatly affecting the Danish economy. The pharmaceutical industry\ncontributed two thirds of growth that year, and 1.7 points of the 1.9% year-\nover-year growth in the first quarter of 2023. As of August 2023[update] Novo\nNordisk's market capitalization—Europe's second-largest, after LVMH—exceeded\nthe size of the entire national economy, and it is the largest payer of\ncorporate taxes to the Danish state. Economists discussed whether the\ngovernment needed to publish data including and excluding the company; as the\nenormous economic growth did not similarly increase employment, data including\nNovo Nordisk is misleading regarding the Danish business cycle. Some worried\nthat the nation might become overdependent on the company, similar to what\nhappened to the economy of Finland with Nokia, or that Novo Nordisk's success\nmight cause Dutch disease.",
+    "openai_summarised_points": [
+      "• Denmark's long-term economic development has largely mirrored that of other Northwestern European countries, characterized by an initial agricultural economy with most of the population living at subsistence levels until the 19th century.",
+      "• Since the 19th century, Denmark has undergone significant technological and institutional development, leading to rapid growth in material living standards and a transition from an agrarian society to an industrialized and modern service-oriented economy.",
+      "• Nearly all of Denmark's land is arable, but unlike many neighbors, it lacks significant mineral or fossil fuel deposits, except for oil and natural gas in the North Sea, which only became economically relevant in the 1980s.",
+      "• Denmark's geographical advantage includes a long coastline and no point on land being more than 50 kilometers from the sea, facilitating cheaper sea transport before the industrial revolution, thus making foreign trade crucial for its economic development.",
+      "• Foreign trade has historically been vital for Denmark, dating back to the Stone Age, primarily for importing vital goods like metals and acquiring technological knowledge through exchange, with the earliest Danish coins dating from around 995 during Svend Tveskæg's reign.",
+      "• Count Otto Thott was a prominent advocate of mercantilist thought in Denmark, emphasizing the importance of trade and national wealth accumulation during the 17th and 18th centuries.",
+      "• Improvements in shipping technology enabled Danish traders to navigate around Jutland into the Baltic Sea, with Danish warships collecting the Sound Toll from mainly Dutch merchants in exchange for protection, fostering economic ties with the Netherlands, Germany, and Britain.",
+      "• Around 1600, Denmark was the sixth-most prosperous country globally, according to historian Angus Maddison, with a relatively affluent farming population due to its small size relative to arable land and proximity to leading European economic regions.",
+      "• Despite prosperity, 80 to 85% of the Danish population lived in small villages on subsistence levels during this period.",
+      "• Mercantilism dominated Denmark's economic doctrine in the 17th and 18th centuries, leading to monopolies such as Asiatisk Kompagni, infrastructure development like Kurantbanken (established in 1736), and the first \"kreditforening\" (building society) in 1797, alongside minor colonial holdings like Tranquebar.",
+      "• Major agricultural reforms occurred at the end of the 18th century, but the Napoleonic Wars caused Copenhagen to lose its status as an international financial and trade hub.",
+      "• Politically, mercantilism was gradually replaced by liberal economic ideas among Denmark's ruling elite, and the Danish central bank, Danmarks Nationalbank, was established in 1818 following a monetary reform after the Napoleonic Wars.",
+      "• From 1820 onward, Danish national accounting data, pioneered by historian Svend Aage Hansen, shows consistent, though fluctuating, economic growth; between 1822–94, annual growth in factor incomes averaged 2%, with per capita growth at 0.9%.",
+      "• Starting around 1830, Denmark experienced a significant agricultural boom, especially in grain production and export, notably to Britain after 1846 when British grain import duties were abolished.",
+      "• When grain profitability declined later in the 19th century, Danish farmers successfully transitioned from vegetarian to animal husbandry, leading to another economic boom.",
+      "• Industrialization accelerated from the 1870s, with industry and artisanry employing nearly 30% of the population by the turn of the 20th century.",
+      "• Throughout the 20th century, agriculture's relative importance declined, but agricultural employment only fell below industrial employment in the 1950s.",
+      "• The first half of the 20th century was marked by the impacts of World War I, the Great Depression in the 1930s, and World War II.",
+      "• Post-World War II, Denmark integrated into international organizations such as the OECD, IMF, WTO, and joined the European Economic Community (later the European Union) in 1972.",
+      "• Foreign trade grew substantially relative to GDP, and the public sector's role expanded, shifting Denmark from an industrial to a service-dominated economy.",
+      "• The period 1958–73 was an exceptional high-growth phase, with the 1960s recording the highest annual real per capita GDP growth at 4.5%.",
+      "• Professor Torben M. Andersen has significantly influenced Danish economic policy as chairman of the Danish Economic Council and through various policy commissions over recent decades.",
+      "• The 1970s brought a crisis triggered by the 1973 oil crisis, leading to stagflation, with persistent issues such as high unemployment, current account deficits, inflation, and government debt over subsequent decades.",
+      "• From the 1980s, Denmark adopted long-term oriented economic policies and structural reforms to address these problems, including active labor market policies introduced in 1994 that reduced structural unemployment.",
+      "• Tax reforms from 1987 onward reduced deductions on interest payments, and the expansion of mandatory funded pensions in the 1990s increased private savings, transforming current account deficits into surpluses.",
+      "• The fixed exchange rate policy announced in 1982 helped curb inflation.",
+      "• In the early 21st century, demographic challenges, especially increasing longevity, prompted political agreements in 2006 and 2011 to raise the pension eligibility age, which is considered to have addressed Denmark’s fiscal sustainability issues from 2012 onward.",
+      "• Current debates focus on decreasing productivity growth and rising income inequality and consumption disparities.",
+      "• The late 2000s Great Recession, coupled with the Euro area debt crisis, affected Denmark, with unemployment rates remaining above their structural levels until around 2017, indicating a stagnating economy from a business-cycle perspective.",
+      "• Post-2017/18, Denmark's economy is viewed as no longer overheated, with policy focus shifting to avoiding potential overheating.",
+      "• In 2022, the pharmaceutical industry, led by Novo Nordisk, significantly contributed to economic growth due to the popularity of weight-loss drugs Ozempic and Wegovy, accounting for two-thirds of growth that year and 1.7 points of the 1.9% year-over-year growth in early 2023.",
+      "• As of August 2023, Novo Nordisk's market capitalization exceeded that of Denmark's entire economy, making it Europe's second-largest company after LVMH and the largest corporate tax contributor to Denmark.",
+      "• Economists debated whether to publish data including or excluding Novo Nordisk, as its rapid growth did not proportionally increase employment, raising concerns about misleading indicators of the Danish business cycle.",
+      "• There are concerns about overdependence on Novo Nordisk, similar to Finland's economy with Nokia, and potential Dutch disease effects due to the company's dominance."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:26:27.820036",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 8950,
+      "bullet_points_count": 34
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "2",
+    "section_name": "Income, wealth and income distribution",
+    "text": "Average per capita income is high in an international context. According to\nthe World Bank, gross national income per capita was the tenth-highest in the\nworld at $55,220 in 2017. Correcting for purchasing power, income was\nInt$52,390 or 16th-highest among the 187 countries.\n\nDuring the last three decades household saving rates in Denmark have increased\nconsiderably. This is to a large extent caused by two major institutional\nchanges: A series of tax reforms from 1987 to 2009 considerably reduced the\neffective subsidization of private debt implicit in the rules for tax\ndeductions of household interest payments. Secondly, compulsory funded pension\nschemes became normal for most employees from the 1990s. Over the years, the\nwealth of the Danish pension funds have accumulated so that in 2016 it\nconstituted twice the size of Denmark's GDP. The pension wealth consequently\nis a very important both for the life-cycle of a typical individual Danish\nhousehold and for the national economy. A large part of the pension wealth is\ninvested abroad, thus giving rise to a fair amount of foreign capital income.\nIn 2015, average household assets were more than 600% of their disposable\nincome, among OECD countries second only to the Netherlands. At the same time,\naverage household gross debt was almost 300% of disposable income, which is\nalso at the highest level in OECD. Household balance sheets are consequently\nvery large in Denmark compared to most other countries. Danmarks Nationalbank,\nthe Danish central bank, has attributed this to a well-developed financial\nsystem.",
+    "openai_summarised_points": [
+      "• The average per capita income in Denmark is high on an international scale, with the World Bank reporting a gross national income (GNI) per capita of $55,220 in 2017, making Denmark the tenth-highest globally.",
+      "• When adjusted for purchasing power, the GNI per capita was Int$52,390 in 2017, ranking 16th among 187 countries.",
+      "• Over the past three decades, household saving rates in Denmark have increased significantly.",
+      "• This rise in savings is largely attributed to two major institutional changes:",
+      "• By 2016, the wealth accumulated in Danish pension funds had grown to twice the size of Denmark’s Gross Domestic Product (GDP).",
+      "• Pension wealth plays a crucial role in the life-cycle of typical Danish households and significantly impacts the national economy.",
+      "• A considerable portion of pension wealth is invested abroad, generating substantial foreign capital income for Denmark.",
+      "• In 2015, the average household assets in Denmark exceeded 600% of disposable income, ranking second among OECD countries, with only the Netherlands surpassing this level.",
+      "• During the same year, the average household gross debt was nearly 300% of disposable income, also the highest among OECD nations.",
+      "• Consequently, Danish household balance sheets are notably large compared to those in most other countries.",
+      "• The Danish central bank, Danmarks Nationalbank, attributes the large household balance sheets to Denmark’s well-developed financial system."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:26:31.185009",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 1578,
+      "bullet_points_count": 11
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "2.1",
+    "section_name": "Income inequality",
+    "text": "Income inequality has traditionally been low in Denmark. According to OECD\nfigures, in 2000 Denmark had the lowest Gini coefficient of all countries.\nHowever, inequality has increased during the last decades. According to data\nfrom Statistics Denmark, the Gini coefficient for disposable income has\nincreased from 22.1 in 1987 to 29.3 in 2017. The Danish Economic Council found\nin an analysis from 2016 that the increasing inequality in Denmark is due to\nseveral components: Pre-tax labour income is more unequally distributed today\nthan before, capital income, which is generally less equally distributed than\nlabour income, has increased as share of total income, and economic policy is\nless redistributive today, both because public income transfers play a smaller\nrole today and because the tax system has become less progressive.\n\nIn international comparisons, Denmark has a relatively equal income\ndistribution. According to the CIA World Factbook, Denmark had the twentieth-\nlowest Gini coefficient (29.0) of 158 countries in 2016. According to data\nfrom Eurostat, Denmark was the EU country with the seventh-lowest Gini\ncoefficient in 2017. Slovakia, Slovenia, Czechia, Finland, Belgium and the\nNetherlands had a lower Gini coefficient for disposable income than Denmark.",
+    "openai_summarised_points": [
+      "• Income inequality in Denmark has historically been low, with the country exhibiting some of the most equal income distributions globally.",
+      "• According to OECD figures, in the year 2000, Denmark had the lowest Gini coefficient among all countries, indicating the most equal income distribution at that time.",
+      "• Over recent decades, income inequality in Denmark has increased; data from Statistics Denmark shows the Gini coefficient for disposable income rose from 22.1 in 1987 to 29.3 in 2017.",
+      "• The Danish Economic Council's 2016 analysis attributes the rise in inequality to multiple factors:",
+      "• Pre-tax labour income has become more unequally distributed compared to the past.",
+      "• Capital income, which is generally less equally distributed than labour income, has increased as a share of total income.",
+      "• Economic policy has become less redistributive, due to a decline in the role of public income transfers and a less progressive tax system.",
+      "• Despite the increase, Denmark remains relatively equal in international comparisons:",
+      "• The CIA World Factbook ranked Denmark as having the twentieth-lowest Gini coefficient (29.0) out of 158 countries in 2016.",
+      "• Eurostat data from 2017 indicates Denmark had the seventh-lowest Gini coefficient among EU countries.",
+      "• Countries with lower Gini coefficients than Denmark include Slovakia, Slovenia, Czechia, Finland, Belgium, and the Netherlands."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:26:36.151319",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 1279,
+      "bullet_points_count": 11
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "3",
+    "section_name": "Labour market and employment",
+    "text": "The Danish labour market is characterized by a high degree of union membership\nrates and collective agreement coverage dating back from _Septemberforliget_\n(The September Settlement) in 1899 when the Danish Confederation of Trade\nUnions and the Confederation of Danish Employers recognized each other's right\nto organise and negotiate. The labour market is also traditionally\ncharacterized by a high degree of flexicurity, i.e. a combination of labour\nmarket flexibility and economic security for workers. The degree of\nflexibility is in part maintained through active labour market policies.\nDenmark first introduced active labour market policies (ALMPs) in the 1990s\nafter an economic recession that resulted in high unemployment rates. Its\nlabour market policies are decided through tripartite cooperation between\nemployers, employees and the government. Denmark has one of the highest\nexpenditures on ALMPs and in 2005, spent about 1.7% of its GDP on labour\nmarket policies. This was the highest amongst the OECD countries. Similarly,\nin 2010 Denmark was ranked number one amongst Nordic countries for expenditure\non ALMPs.\n\nDenmark's active labour market policies particularly focus on tackling youth\nunemployment. They have had a \"youth initiative\" or the Danish Youth\nUnemployment Programme in place since 1996. This includes mandatory activation\nfor those unemployed under the age of 30. While unemployment benefits are\nprovided, the policies are designed to motivate job-seeking. For example,\nunemployment benefits decrease by 50% after 6 months. This is combined with\neducation, skill development and work training programs. For instance, the\nBuilding Bridge to Education program was started in 2014 to provide mentors\nand skill development classes to youth that are at risk of unemployment. Such\nactive labour market policies have been successful for Denmark in the short-\nterm and the long-term. For example, 80% of participants in the Building\nBridge for Education program felt that \"the initiative has helped them to move\ntowards completing an education\". On a more macro scale, a study of the impact\nof ALMPs in Denmark between 1995 and 2005 showed that such policies had\npositive impact not just on employment but also on earnings. The effective\ncompensation rate for unemployed workers has been declining for the last\ndecades, however. Unlike in most Western countries there is no legal minimum\nwage in Denmark.\n\nA relatively large proportion of the population is active on the labour\nmarket, not least because of a very high female participation rate. The total\nparticipation rate for people aged 15 to 64 years was 78.8% in 2017. This was\nthe 6th-highest number among OECD countries, only surpassed by Iceland,\nSwitzerland, Sweden, New Zealand and the Netherlands. The average for all OECD\ncountries together was 72.1%.\n\nAccording to Eurostat, the unemployment rate was 5.7% in 2017. This places\nunemployment in Denmark somewhat below the EU average, which was 7.6%. 10 EU\nmember countries had a lower unemployment rate than Denmark in 2017.\n\nAltogether, total employment in 2017 amounted to 2,919,000 people according to\nStatistics Denmark.\n\nThe share of employees leaving jobs every year (for a new job, retirement or\nunemployment) in the private sector is around 30% – a level also observed in\nthe U.K. and U.S.- but much higher than in continental Europe, where the\ncorresponding figure is around 10%, and in Sweden. This attrition can be very\ncostly, with new and old employees requiring half a year to return to old\nproductivity levels, but with attrition bringing the number of people that\nhave to be fired down.",
+    "openai_summarised_points": [
+      "• The Danish labour market is characterized by a high degree of union membership rates and collective agreement coverage, dating back to the September Settlement (_Septemberforliget_) in 1899, when the Danish Confederation of Trade Unions and the Confederation of Danish Employers recognized each other's right to organize and negotiate.",
+      "• The labour market in Denmark is traditionally marked by a high level of flexicurity, which combines labour market flexibility with economic security for workers.",
+      "• Flexicurity in Denmark is partly maintained through active labour market policies (ALMPs), which aim to balance flexibility with security.",
+      "• Denmark first introduced active labour market policies (ALMPs) in the 1990s following an economic recession that resulted in high unemployment rates.",
+      "• Labour market policies in Denmark are decided through tripartite cooperation involving employers, employees, and the government.",
+      "• In 2005, Denmark spent approximately 1.7% of its GDP on labour market policies, making it the highest among OECD countries in terms of expenditure on ALMPs.",
+      "• By 2010, Denmark was ranked number one among Nordic countries for expenditure on ALMPs.",
+      "• Denmark’s active labour market policies primarily focus on addressing youth unemployment, with a \"youth initiative\" or Danish Youth Unemployment Programme in place since 1996.",
+      "• The youth unemployment policies include mandatory activation for unemployed individuals under 30, with unemployment benefits decreasing by 50% after 6 months to incentivize job seeking.",
+      "• Unemployment benefits are provided to unemployed youth, but policies emphasize motivation through education, skill development, and work training programs.",
+      "• The Building Bridge to Education program, initiated in 2014, offers mentors and skill development classes to youth at risk of unemployment, aiming to facilitate educational completion.",
+      "• Short-term success of these policies is evidenced by 80% of participants in the Building Bridge for Education program reporting that the initiative helped them move toward completing an education.",
+      "• A study of ALMPs in Denmark between 1995 and 2005 indicated positive impacts not only on employment rates but also on earnings.",
+      "• The effective compensation rate for unemployed workers in Denmark has been declining over recent decades.",
+      "• Unlike most Western countries, Denmark has no legal minimum wage.",
+      "• The total labour force participation rate for individuals aged 15 to 64 was 78.8% in 2017, making Denmark the 6th-highest among OECD countries, surpassed only by Iceland, Switzerland, Sweden, New Zealand, and the Netherlands.",
+      "• The OECD average participation rate for the same age group was 72.1% in 2017.",
+      "• According to Eurostat, Denmark’s unemployment rate was 5.7% in 2017, which is below the EU average of 7.6%.",
+      "• Ten EU member countries had lower unemployment rates than Denmark in 2017.",
+      "• Total employment in Denmark in 2017 was 2,919,000 people, as reported by Statistics Denmark.",
+      "• The annual turnover rate in the private sector, representing employees leaving jobs for new employment, retirement, or unemployment, is approximately 30%, which is comparable to the UK and US but significantly higher than the roughly 10% observed in continental Europe and Sweden.",
+      "• Employee attrition in Denmark can be costly, as it takes about half a year for new and former employees to regain their previous productivity levels, although high attrition reduces the need for layoffs."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:26:46.143702",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 3638,
+      "bullet_points_count": 22
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "4",
+    "section_name": "Foreign trade",
+    "text": "As a small open economy, Denmark is very dependent on its foreign trade. In\n2017, the value of total exports of goods and services made up 55% of GDP,\nwhereas the value of total imports amounted to 47% of GDP. Trade in goods made\nup slightly more than 60% of both exports and imports, and trade in services\nthe remaining close to 40%.\n\nMachinery, chemicals and related products like medicine and agricultural\nproducts were the largest groups of export goods in 2017. Service exports were\ndominated by freight sea transport services from the Danish merchant navy.\nMost of Denmark's most important trading partners are neighbouring countries.\nThe five main importers of Danish goods and services in 2017 were Germany,\nSweden, United Kingdom, United States and Norway. The five countries from\nwhich Denmark imported most goods and services in 2017 were Germany, Sweden,\nthe Netherlands, China and United Kingdom.\n\nAfter having almost consistently an external balance of payments current\naccount deficit since the beginning of the 1960s, Denmark has maintained a\nsurplus on its BOP current account for every year since 1990, with the single\nexception of 1998. In 2017, the current account surplus amounted to\napproximately 8% of GDP. Consequently, Denmark has changed from a net debtor\nto a net creditor country. By 1 July 2018, the net foreign wealth or net\ninternational investment position of Denmark was equal to 64.6% of GDP,\nDenmark thus having the largest net foreign wealth relative to GDP of any EU\ncountry.\n\nAs the annual current account is equal to the value of domestic saving minus\ntotal domestic investment, the change from a structural deficit to a\nstructural surplus is due to changes in these two national account components.\nIn particular, the Danish national saving rate in financial assets increased\nby 11 per cent of GDP from 1980 to 2015. Two main reasons for this large\nchange in domestic saving behaviour were the growing importance of large-scale\ncompulsory pension schemes and several Danish fiscal policy reforms during the\nperiod which considerably decreased tax deductions of household interest\nexpense, thus reducing the tax subsidy to private debt.",
+    "openai_summarised_points": [
+      "• Denmark, as a small open economy, exhibits a high dependency on foreign trade, with 2017 data indicating that total exports of goods and services constituted 55% of GDP, while total imports accounted for 47% of GDP.",
+      "• Trade in goods represented slightly more than 60% of both Denmark's exports and imports in 2017, with the remaining share attributed to trade in services, which was close to 40%.",
+      "• The primary export goods in 2017 included machinery, chemicals, and related products such as medicine and agricultural products.",
+      "• Service exports were predominantly composed of freight sea transport services provided by the Danish merchant navy.",
+      "• Denmark's most significant trading partners are neighboring countries; in 2017, the five main importers of Danish goods and services were Germany, Sweden, the United Kingdom, the United States, and Norway.",
+      "• The five leading countries from which Denmark imported the most goods and services in 2017 were Germany, Sweden, the Netherlands, China, and the United Kingdom.",
+      "• Since the early 1960s, Denmark experienced an almost continuous external balance of payments current account deficit; however, from 1990 onwards, Denmark maintained a current account surplus every year, except for 1998.",
+      "• In 2017, Denmark's current account surplus was approximately 8% of GDP, marking a significant shift from a net debtor to a net creditor country.",
+      "• As of 1 July 2018, Denmark's net foreign wealth or net international investment position was valued at 64.6% of GDP, making it the EU country with the largest net foreign wealth relative to GDP.",
+      "• The annual current account balance equals domestic saving minus total domestic investment; the transition from a structural deficit to a surplus reflects changes in these components.",
+      "• Between 1980 and 2015, Denmark's national saving rate in financial assets increased by 11 percentage points of GDP.",
+      "• Two primary factors contributed to this increase in domestic savings: the growing importance of large-scale compulsory pension schemes and several fiscal policy reforms that reduced tax deductions for household interest expenses, thereby decreasing the tax subsidy to private debt."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:26:54.306196",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 2175,
+      "bullet_points_count": 12
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5",
+    "section_name": "Currency and monetary policy",
+    "text": "The building of Danmarks Nationalbank, the central bank of Denmark, built by\nthe Danish architect Arne Jacobsen.\n\nThe Danish currency is the Danish krone, subdivided into 100 øre. The krone\nand øre were introduced in 1875, replacing the former rigsdaler and skilling.\nDenmark has a very long tradition of maintaining a fixed exchange-rate system,\ndating back to the period of the gold standard during the time of the\nScandinavian Monetary Union from 1873 to 1914. After the breakdown of the\ninternational Bretton Woods system in 1971, Denmark devalued the krone\nrepeatedly during the 1970s and the start of the 1980s, effectively\nmaintaining a policy of \"fixed, but adjustable\" exchange rates. Rising\ninflation led to Denmark declaring a more consistent fixed exchange-rate\npolicy in 1982. At first, the krone was pegged to the European Currency Unit\nor ECU, from 1987 to the Deutsche Mark, and from 1999 to the euro.\n\nAlthough eligible, Denmark chose not to join the European Monetary Union when\nit was founded. In 2000, the Danish government advocated Danish EMU membership\nand called a referendum to settle the issue. With a turn-out of 87.6%, 53% of\nthe voters rejected Danish membership. Occasionally, the question of calling\nanother referendum on the issue has been discussed, but since the 2008\nfinancial crisis, opinion polls have shown a clear majority against Denmark\njoining the EMU, and the question is not high on the political agenda\npresently.\n\nMaintenance of the fixed exchange rate is the responsibility of Danmarks\nNationalbank, the Danish central bank. As a consequence of the exchange rate\npolicy, the bank must always adjust its interest rates to ensure a stable\nexchange rate and consequently cannot at the same time conduct monetary policy\nto stabilize e.g. domestic inflation or unemployment rates. This makes the\nconduct of stabilization policy fundamentally different from the situation in\nDenmark's neighbouring countries like Norway, Sweden, Poland and the United\nKingdom, in which the central banks have a central stabilizing role. Denmark\nis presently the only OECD member country maintaining an independent currency\nwith a fixed exchange rate. Consequently, the Danish krone is the only\ncurrency in the European Exchange Rate Mechanism II (ERM II), before Bulgaria\nand Croatia joined in 2020 (the latter uses the euro since 2023)\n\nIn the first months of 2015, Denmark experienced the largest pressure against\nthe fixed exchange rate for many years because of very large capital inflows,\ncausing a tendency for the Danish krone to appreciate. Danmarks Nationalbank\nreacted in various ways, chiefly by lowering its interest rates to record low\nlevels. On 6 February 2015 the certificates of deposit rate, one of the four\nofficial Danish central bank rates, was lowered to −0.75%. In January 2016 the\nrate was raised to −0.65%, at which level it has been maintained since then.\n\nInflation in Denmark as measured by the official consumer price index of\nStatistics Denmark was 1.1% in 2017. Inflation has generally been low and\nstable for the last decades. Whereas in 1980 annual inflation was more than\n12%, in the period 2000–2017 the average inflation rate was 1.8%.",
+    "openai_summarised_points": [
+      "• The central bank of Denmark, Danmarks Nationalbank, was constructed by renowned Danish architect Arne Jacobsen.",
+      "• The official currency of Denmark is the Danish krone, subdivided into 100 øre.",
+      "• The krone and øre were introduced in 1875, replacing the previous currency units, the rigsdaler and skilling.",
+      "• Denmark has a longstanding tradition of maintaining a fixed exchange-rate system, tracing back to the gold standard era during the Scandinavian Monetary Union from 1873 to 1914.",
+      "• Following the collapse of the Bretton Woods system in 1971, Denmark engaged in multiple devaluations of the krone during the 1970s and early 1980s, adopting a policy of \"fixed, but adjustable\" exchange rates.",
+      "• In 1982, Denmark committed to a more consistent fixed exchange-rate policy due to rising inflation.",
+      "• The krone was initially pegged to the European Currency Unit (ECU), then to the Deutsche Mark from 1987, and subsequently to the euro from 1999.",
+      "• Denmark was eligible but chose not to join the European Monetary Union (EMU) at its inception.",
+      "• In 2000, the Danish government supported EMU membership and organized a referendum, which resulted in 87.6% voter turnout, with 53% voting against joining.",
+      "• Since the 2008 financial crisis, opinion polls have consistently shown a majority against Denmark joining the EMU, and the issue has become less prominent politically.",
+      "• The responsibility for maintaining the fixed exchange rate lies with Danmarks Nationalbank, which must adjust interest rates to stabilize the exchange rate, limiting its ability to pursue domestic monetary policy objectives such as controlling inflation or unemployment.",
+      "• This policy approach makes Denmark's stabilization policy fundamentally different from neighboring countries like Norway, Sweden, Poland, and the UK, where central banks play a central stabilizing role.",
+      "• Denmark is currently the only OECD member country maintaining an independent currency with a fixed exchange rate.",
+      "• The Danish krone is the sole currency in the European Exchange Rate Mechanism II (ERM II), prior to Bulgaria and Croatia joining in 2020; Croatia adopted the euro in 2023.",
+      "• In early 2015, Denmark faced significant pressure against its fixed exchange rate due to substantial capital inflows, which caused the krone to appreciate.",
+      "• In response, Danmarks Nationalbank lowered interest rates to record lows, including reducing the certificates of deposit rate to −0.75% on 6 February 2015.",
+      "• The interest rate was increased to −0.65% in January 2016, a level maintained since then.",
+      "• Denmark's inflation rate, as measured by Statistics Denmark's consumer price index, was 1.1% in 2017.",
+      "• Over the past decades, inflation in Denmark has been generally low and stable; in 1980, annual inflation exceeded 12%, whereas from 2000 to 2017, the average inflation rate was approximately 1.8%."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:02.036820",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 3195,
+      "bullet_points_count": 19
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.1",
+    "section_name": "Overall organization",
+    "text": "Since a local-government reform in 2007, the general government organization\nin Denmark is carried out on three administrative levels: central government,\nregions, and municipalities. Regions administer mainly health care services,\nwhereas municipalities administer primary education and social services.\nMunicipalities in principle independently levy income and property taxes, but\nthe scope for total municipal taxation and expenditure is closely regulated by\nannual negotiations between the municipalities and the Finance Minister of\nDenmark. At the central government level, the Ministry of Finance carries out\nthe coordinating role of conducting economic policy. In 2012, the Danish\nparliament passed a Budget Law (effective from January 2014) which governs the\nover-all fiscal framework, stating among other things that the structural\ndeficit must never exceed 0.5% of GDP, and that Danish fiscal policy is\nrequired to be sustainable, i.e. have a non-negative fiscal sustainability\nindicator. The Budget Law also assigned the role of independent fiscal\ninstitution (IFI, informally known as \"fiscal watchdog\") to the already-\nexisting independent advisory body of the Danish Economic Councils.",
+    "openai_summarised_points": [
+      "• Since the local-government reform in 2007, Denmark's overall government organization is structured into three administrative levels: central government, regions, and municipalities.",
+      "• Regions in Denmark primarily oversee health care services, focusing on the administration and delivery of healthcare.",
+      "• Municipalities are responsible for administering primary education and social services within their jurisdictions.",
+      "• Municipalities have the constitutional authority to independently levy income and property taxes; however, their total taxation and expenditure are subject to regulation through annual negotiations with the Danish Finance Minister.",
+      "• The scope of municipal taxation and expenditure is closely regulated to ensure fiscal discipline and coordination across municipalities.",
+      "• The central government’s role in economic policy coordination is primarily carried out by the Ministry of Finance.",
+      "• In 2012, the Danish parliament enacted a Budget Law, which became effective from January 2014, establishing the overarching fiscal framework for Denmark.",
+      "• The Budget Law stipulates that the structural deficit must never exceed 0.5% of GDP, ensuring fiscal discipline and stability.",
+      "• It mandates that Danish fiscal policy must be sustainable, requiring the fiscal sustainability indicator to be non-negative.",
+      "• The Budget Law designated the Danish Economic Councils, an existing independent advisory body, as Denmark’s independent fiscal institution (IFI), often referred to as the \"fiscal watchdog.\""
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:05.374215",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 1199,
+      "bullet_points_count": 10
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.2",
+    "section_name": "Budget and fiscal position",
+    "text": "Danish fiscal policy is generally considered healthy. Government net debt was\nclose to zero at the end of 2017, amounting to DKK 27.3 billion, or 1.3% of\nGDP. The government sector having a fair amount of financial assets as well as\nliabilities, government gross debt amounted to 36.1% of GDP at the same date.\nThe gross EMU-debt as percentage of GDP was the sixth-lowest among all 28 EU\nmember countries, only Estonia, Luxembourg, Bulgaria, the Czech Republic and\nRomania having a lower gross debt. Denmark had a government budget surplus of\n1.1% of GDP in 2017.\n\nLong-run annual fiscal projections from the Danish government as well as the\nindependent Danish Economic Council, taking into account likely future fiscal\ndevelopments caused by demographic developments etc. (e.g. a likely ageing of\nthe population caused by a considerable expansion of life expectancy),\nconsider the Danish fiscal policy to be overly sustainable in the long run. In\nSpring 2018, the so-called Fiscal Sustainability Indicator was calculated by\nthe Danish government and the Danish Economic Council to be 1.2% and 0.9% of\nGDP, respectively. This implies that under the assumptions employed in the\nprojections, fiscal policy could be permanently loosened (via more generous\npublic expenditures and/or lower taxes) by c. 1% of GDP while still\nmaintaining a stable government debt-to-GDP ratio in the long run.",
+    "openai_summarised_points": [
+      "• Danish fiscal policy is generally regarded as healthy, reflecting sound management of government finances.",
+      "• At the end of 2017, Denmark's government net debt was approximately DKK 27.3 billion, which equates to about 1.3% of GDP.",
+      "• The government sector possessed a significant amount of both financial assets and liabilities, resulting in a gross government debt of 36.1% of GDP as of 2017.",
+      "• Denmark's gross EMU-debt as a percentage of GDP was the sixth-lowest among all 28 EU member countries, with only Estonia, Luxembourg, Bulgaria, the Czech Republic, and Romania having lower gross debt levels.",
+      "• In 2017, Denmark achieved a government budget surplus of 1.1% of GDP.",
+      "• Long-term fiscal projections from the Danish government and the independent Danish Economic Council, which consider future demographic developments such as population aging and increased life expectancy, suggest that Denmark’s fiscal policy is overly sustainable in the long run.",
+      "• In Spring 2018, the Danish government and the Danish Economic Council calculated the Fiscal Sustainability Indicator to be 1.2% and 0.9% of GDP, respectively.",
+      "• These indicators imply that, based on the employed assumptions, Denmark could permanently loosen fiscal policy—through increased public expenditures and/or reduced taxes—by approximately 1% of GDP while maintaining a stable government debt-to-GDP ratio over the long term."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:10.189658",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 1387,
+      "bullet_points_count": 8
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.3",
+    "section_name": "Taxation",
+    "text": "The tax level as well as the government expenditure level in Denmark ranks\namong the highest in the world, which is traditionally ascribed to the Nordic\nmodel of which Denmark is an example, including the welfare state principles\nwhich historically evolved during the 20th century. In 2022, the official\nDanish tax level amounted to 42.2% of GDP. The all-record highest Danish tax\nlevel was 49.8% of GDP, reached in 2014 because of high extraordinary one-time\ntax revenues caused by a reorganization of the Danish-funded pension system.\nThe Danish tax-to-GDP-ratio of 42% was the seventh-highest among all OECD\ncountries in 2022, after France, Norway, Austria, Finland, Italy and Belgium.\nThe OECD average was 34%. The tax structure of Denmark (the relative weight of\ndifferent taxes) also differs from the OECD average, as the Danish tax system\nin 2015 was characterized by substantially higher revenues from taxes on\npersonal income, whereas on the other hand, no revenues at all derive from\nsocial security contributions. A lower proportion of revenues in Denmark\nderive from taxes on corporate income and gains and property taxes than in\nOECD generally, whereas the proportion deriving from payroll taxes, VAT, and\nother taxes on goods and services correspond to the OECD average.\n\nIn 2016, the average marginal tax rate on labour income for all Danish tax-\npayers was 38.9%. The average marginal tax on personal capital income was\n30.7%.\n\nProfessor of Economics at Princeton University Henrik Kleven has suggested\nthat three distinct policies in Denmark and its Scandinavian neighbours imply\nthat the high tax rates cause only relatively small distortions to the\neconomy:\n\n* widespread use of third-party information reporting for tax collection purposes (ensuring a low level of tax evasion)\n* broad tax bases (ensuring a low level of tax avoidance)\n* a strong subsidization of goods that are complementary to working (ensuring a high level of labour force participation).\n\nin 2023, Denmark considered methods to increase taxes on energy dealers.",
+    "openai_summarised_points": [
+      "• The overall tax level and government expenditure in Denmark are among the highest globally, traditionally attributed to the Nordic model and its welfare state principles that developed during the 20th century.",
+      "• In 2022, Denmark's official tax-to-GDP ratio was 42.2%, representing the proportion of the country's gross domestic product collected through taxes.",
+      "• The highest recorded Danish tax-to-GDP ratio was 49.8%, achieved in 2014 due to elevated extraordinary one-time revenues resulting from a reorganization of the Danish-funded pension system.",
+      "• In 2022, Denmark's tax-to-GDP ratio of 42% ranked as the seventh-highest among all OECD countries, following France, Norway, Austria, Finland, Italy, and Belgium.",
+      "• The OECD average tax-to-GDP ratio in 2022 was 34%.",
+      "• The Danish tax structure in 2015 was characterized by significantly higher revenues from taxes on personal income compared to the OECD average, while no revenues were derived from social security contributions.",
+      "• Denmark's proportion of revenue from taxes on corporate income, gains, and property taxes is lower than the OECD average, whereas revenues from payroll taxes, VAT, and other taxes on goods and services are aligned with the OECD average.",
+      "• In 2016, the average marginal tax rate on labor income for all Danish taxpayers was 38.9%.",
+      "• The average marginal tax rate on personal capital income in Denmark in 2016 was 30.7%.",
+      "• Economist Henrik Kleven of Princeton University proposed that three policies in Denmark and other Scandinavian countries mitigate the economic distortions typically caused by high tax rates:",
+      "• Widespread use of third-party information reporting for tax collection, which reduces tax evasion.",
+      "• Broad tax bases that limit opportunities for tax avoidance.",
+      "• Strong subsidization of goods that are complementary to working, which promotes high labor force participation.",
+      "• In 2023, Denmark was considering methods to increase taxes on energy dealers as part of its fiscal policy discussions."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:15.726858",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 2052,
+      "bullet_points_count": 14
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.4",
+    "section_name": "Government expenditure",
+    "text": "Parallel to the high tax level, government expenditure makes up a large part\nof GDP, and the government sector carries out many different tasks. By\nSeptember 2018, 831,000 people worked in the general government sector,\ncorresponding to 29.9% of all employees. In 2017, total government expenditure\namounted to 50.9% of GDP. Government consumption took up precisely 25% of GDP\n(e.g. education and health care expenditure), and government investment\n(infrastructure etc.) expenditure another 3.4% of GDP. Personal income\ntransfers (for e.g. elderly or unemployed people) amounted to 16.8% of GDP.\n\nDenmark has an unemployment insurance system called the A-kasse\n(_arbejdsløshedskasse_). This system requires a paying membership of a state-\nrecognized unemployment fund. Most of these funds are managed by trade unions,\nand part of their expenses are financed through the tax system. Members of an\nA-kasse are not obliged to be members of a trade union. Not every Danish\ncitizen or employee qualifies for a membership of an unemployment fund, and\nmembership benefits will be terminated after 2 years of unemployment. A person\nthat is not a member of an A-kasse cannot receive unemployment benefits.\nUnemployment funds do not pay benefits to sick members, who will be\ntransferred to a municipal social support system instead. Denmark has a\ncountrywide, but municipally administered social support system against\npoverty, securing that qualified citizens have a minimum living income. All\nDanish citizens above 18 years of age can apply for some financial support if\nthey cannot support themselves or their family. Approval is not automatic, and\nthe extent of this system has generally been diminished since the 1980s. Sick\npeople can receive some financial support throughout the extent of their\nillness. Their ability to work will be re-evaluated by the municipality after\n5 months of illness.\n\nThe welfare system related to the labor market has experienced several reforms\nand financial cuts since the late 1990s due to political agendas for\nincreasing the labor supply. Several reforms of the rights of the unemployed\nhave followed up, partially inspired by the Danish Economic Council. Halving\nthe time unemployment benefits can be received from four to two years, and\nmaking it twice as hard to regain this right, was implemented in 2010 for\nexample.\n\nDisabled people can apply for permanent social pensions. The extent of the\nsupport depends on the ability to work, and people below 40 are not eligible\nunless deemed incapable of any kind of work.",
+    "openai_summarised_points": [
+      "• As of September 2018, approximately 831,000 individuals were employed in the general government sector in Denmark, representing 29.9% of all employees.",
+      "• In 2017, Denmark's total government expenditure equaled 50.9% of the country's Gross Domestic Product (GDP).",
+      "• Government consumption, including sectors such as education and health care, accounted for exactly 25% of GDP.",
+      "• Government investment in infrastructure and related projects constituted an additional 3.4% of GDP.",
+      "• Personal income transfers, which include payments to the elderly and unemployed individuals, made up 16.8% of GDP.",
+      "• Denmark maintains an unemployment insurance system known as the A-kasse (_arbejdsløshedskasse_), which requires individuals to be members of a state-recognized unemployment fund to qualify for benefits.",
+      "• Most A-kasse funds are managed by trade unions, with part of their operational expenses financed through the Danish tax system.",
+      "• Membership in an A-kasse is not mandatory for Danish citizens or employees, and benefits are terminated after 2 years of unemployment.",
+      "• Non-members of an A-kasse are ineligible to receive unemployment benefits; benefits are only available to members.",
+      "• Unemployed individuals who are not members of an A-kasse do not receive benefits from the unemployment fund but are transferred to the municipal social support system.",
+      "• Denmark has a nationwide, municipally administered social support system aimed at combating poverty, ensuring that qualified citizens have a minimum living income.",
+      "• All Danish citizens over 18 years of age can apply for financial support if they cannot support themselves or their families; however, approval is not automatic.",
+      "• The scope of the social support system has generally been reduced since the 1980s.",
+      "• Sick individuals can receive financial support throughout their illness, with their ability to work being re-evaluated by the municipality after 5 months of illness.",
+      "• The Danish welfare system related to the labor market has undergone multiple reforms and financial cuts since the late 1990s, driven by political efforts to increase labor supply.",
+      "• Reforms have included changes to unemployment benefits, such as halving the maximum duration from four years to two years and making it twice as difficult to regain this right, with these changes implemented in 2010.",
+      "• Disabled individuals can apply for permanent social pensions, with the level of support depending on their ability to work; those under 40 are generally ineligible unless deemed incapable of any work."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:24.603424",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 2550,
+      "bullet_points_count": 17
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.5",
+    "section_name": "Agriculture",
+    "text": "Pasture grazing cattle (Rømø)\n\nAgriculture was once the most important industry in Denmark. Nowadays, it is\nof minor economic importance. In 2016, 62,000 people, or 2.5% of all employed\npeople worked in agriculture and horticulture. Another 2,000 people worked in\nfishing. As value added per person is relatively low, the share of national\nvalue added is somewhat lower. Total gross value added in agriculture,\nforestry and fishing amounted to 1.6% of total output in Denmark (in 2017).\nDespite this, Denmark is still home to various types of agricultural\nproduction. Within animal husbandry, it includes dairy and beef cattle, pigs,\npoultry and fur animals – all sectors that produce mainly for export.\nRegarding vegetable production, Denmark is a leading producer of grass-,\nclover- and horticultural seeds. The agriculture and food sector as a whole\nrepresented 25% of total Danish commodity exports in 2015.\n\n63% of the land area of Denmark is used for agricultural production – the\nhighest share in the world according to a report from University of Copenhagen\nin 2017. The Danish agricultural industry is historically characterized by\nfreehold and family ownership, but due to structural development farms have\nbecome fewer and larger. In 2020 the number of farms was approximately 33,000,\nof which approximately 10,000 were owned by full-time farmers.",
+    "openai_summarised_points": [
+      "• Agriculture was historically the most significant industry in Denmark but has since become of minor economic importance.",
+      "• In 2016, approximately 62,000 people, representing 2.5% of the total employed population, worked in agriculture and horticulture in Denmark.",
+      "• An additional 2,000 people were employed in fishing activities.",
+      "• The value added per person in agriculture is relatively low, resulting in a proportionally lower contribution to the overall national value added.",
+      "• In 2017, the total gross value added in agriculture, forestry, and fishing accounted for 1.6% of Denmark’s total economic output.",
+      "• Denmark maintains diverse agricultural production sectors, including animal husbandry—comprising dairy and beef cattle, pigs, poultry, and fur animals—all primarily oriented toward export markets.",
+      "• The country is a leading producer of vegetable seeds, specifically grass, clover, and horticultural seeds.",
+      "• The agriculture and food sector constituted 25% of Denmark’s total commodity exports in 2015.",
+      "• A significant 63% of Denmark’s land area is dedicated to agricultural use, the highest percentage globally according to a 2017 report by the University of Copenhagen.",
+      "• The Danish agricultural industry has a historical pattern of freehold and family ownership; however, structural developments have led to fewer but larger farms.",
+      "• As of 2020, Denmark had approximately 33,000 farms, with about 10,000 operated by full-time farmers."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:28.575660",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 1358,
+      "bullet_points_count": 11
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.5.1",
+    "section_name": "Animal production",
+    "text": "The tendency toward fewer and larger farms has been accompanied by an increase\nin animal production, using fewer resources per produced unit.\n\nThe number of dairy farmers has reduced to about 3,800 with an average herd\nsize of 150 cows. The milk quota is 1,142 tonnes. More than half of the cows\nlive in new loose-housing systems. Export of dairy products accounts for more\nthan 20 percent of the total Danish agricultural export. The total number of\ncattle in 2011 was approximately 1.5 million. Of these, 565,000 were dairy\ncows and 99,000 were suckler cows. The yearly number of slaughtering of beef\ncattle is around 550,000.\n\nFor more than 100 years the production of pigs and pig meat was a major source\nof income in Denmark. Approximately 90 percent of the production is exported.\nThis accounts for almost half of all agricultural exports and for around 5\npercent of Denmark's total exports. About 4,200 farmers produce 28 million\npigs annually. Of these, 20.9 million are slaughtered in Denmark.\n\nFur animal production on an industrial scale started in the 1930s in Denmark.\nPrior to a government-mandated culling during the COVID-19 pandemic, Denmark\nwas the world's largest producer of mink furs, with 1,400 mink farmers\nfostering 17.2 million mink and producing around 14 million furs of the\nhighest quality every year (see mink industry in Denmark). Approximately 98\npercent of the skins sold at Kopenhagen Fur Auction were exported. Fur ranked\nas Danish agriculture's third largest export article, at more than DKK 7\nbillion annually. The number of farms peaked in the late 1980s at more than\n5,000 farms, but the number has declined steadily since, as individual farms\ngrew in size. Danish mink farmers claim their business to be sustainable,\nfeeding the mink food industry waste and using all parts of the dead animal as\nmeat, bone meal and biofuel. Special attention is given to the welfare of the\nmink, and regular \"Open Farm\" arrangements are made for the general public.\nMink thrive in, but are not a native to Denmark, and it is considered an\ninvasive species. American Mink are now widespread in Denmark and continues to\ncause problems for the native wildlife, in particular waterfowl. Denmark also\nhas a small production of fox, chinchilla and rabbit furs.\n\nTwo hundred professional producers are responsible for the Danish egg\nproduction, which was 66 million kg in 2011. Chickens for slaughter are often\nproduced in units with 40,000 broilers. In 2012, 100 million chickens were\nslaughtered. In the minor productions of poultry, 13 million ducks, 1.4\nmillion geese and 5.0 million turkeys were slaughtered in 2012.",
+    "openai_summarised_points": [
+      "• The trend toward fewer and larger farms in Denmark has been accompanied by an increase in animal production efficiency, utilizing fewer resources per unit of output.",
+      "• The number of dairy farmers in Denmark has decreased to approximately 3,800, with an average herd size of 150 cows per farm.",
+      "• The milk quota for Denmark is set at 1,142 tonnes.",
+      "• Over half of the dairy cows in Denmark are housed in modern loose-housing systems.",
+      "• Dairy product exports constitute more than 20 percent of Denmark’s total agricultural exports.",
+      "• In 2011, the total cattle population in Denmark was approximately 1.5 million, including 565,000 dairy cows and 99,000 suckler (beef) cows.",
+      "• The annual slaughtering of beef cattle in Denmark is around 550,000 animals.",
+      "• Pigs and pig meat production has been a major economic activity in Denmark for over 100 years, with approximately 90 percent of pig production exported.",
+      "• Pig exports account for nearly half of all Danish agricultural exports and about 5 percent of Denmark’s total exports.",
+      "• About 4,200 Danish farmers produce 28 million pigs annually, with 20.9 million pigs slaughtered domestically each year.",
+      "• Denmark’s pig industry remains a significant contributor to the national economy, emphasizing export-oriented production.",
+      "• Industrial-scale fur animal production in Denmark began in the 1930s, with the country becoming the world’s largest mink fur producer prior to the COVID-19 pandemic culling.",
+      "• Before culling, Denmark had 1,400 mink farms housing 17.2 million mink, producing approximately 14 million high-quality mink furs annually.",
+      "• Around 98 percent of mink skins sold at Kopenhagen Fur Auction were exported.",
+      "• Mink fur ranked as Denmark’s third-largest agricultural export, valued at over DKK 7 billion annually.",
+      "• The number of mink farms peaked in the late 1980s at over 5,000 but has steadily declined as individual farms increased in size.",
+      "• Danish mink farmers claim their industry is sustainable, utilizing waste for mink feed and converting all animal parts into meat, bone meal, and biofuel.",
+      "• Mink welfare is a priority, with regular “Open Farm” events for the public to view operations.",
+      "• Mink are not native to Denmark and are considered an invasive species; American Mink are widespread and cause ecological problems, particularly affecting waterfowl.",
+      "• Denmark also produces small quantities of fox, chinchilla, and rabbit furs.",
+      "• Approximately 200 professional producers are responsible for Denmark’s egg production, which totaled 66 million kilograms in 2011.",
+      "• Poultry for slaughter is often produced in large units with around 40,000 broilers; in 2012, 100 million chickens were slaughtered.",
+      "• In 2012, Denmark slaughtered 13 million ducks, 1.4 million geese, and 5.0 million turkeys for meat."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:36.852616",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 2637,
+      "bullet_points_count": 23
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.5.2",
+    "section_name": "Organic production",
+    "text": "Organic farming and production has increased considerably and continuously in\nDenmark since 1987 when the first official regulations of this particular\nagricultural method came into effect. In 2017, the export of organic products\nreached DK 2.95 billion, a 153% increase from 2012 five years earlier, and a\n21% increase from 2016. The import of organic products has always been higher\nthan the exports though and reached DK 3.86 billion in 2017. After some years\nof stagnation, close to 10% of the cultivated land is now categorized as\norganically farmed, and 13.6% for the dairy industry, as of 2017.\n\nDenmark has the highest retail consumption share for organic products in the\nworld. In 2017, the share was at 13.3%, accounting for a total of DKK 12.1\nbillion.",
+    "openai_summarised_points": [
+      "• Organic farming and production in Denmark have experienced significant and continuous growth since 1987, the year when the first official regulations governing this agricultural method were implemented.",
+      "• In 2017, Denmark's export of organic products amounted to DK 2.95 billion, representing a 153% increase compared to 2012, and a 21% increase relative to 2016.",
+      "• Despite the growth in exports, Denmark's organic product imports have consistently exceeded exports, reaching DK 3.86 billion in 2017.",
+      "• After several years of stagnation, approximately 10% of Denmark's cultivated land was classified as organically farmed as of 2017.",
+      "• The organic dairy industry accounted for 13.6% of the total dairy production in Denmark in 2017.",
+      "• Denmark holds the highest retail consumption share of organic products globally, with a 2017 share of 13.3%.",
+      "• In 2017, the retail consumption of organic products in Denmark was valued at DKK 12.1 billion."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:39.819499",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 763,
+      "bullet_points_count": 7
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.6",
+    "section_name": "Natural resource extraction",
+    "text": "Denmark has large proven reserves of oil and natural gas in the North Sea with\nEsbjerg being the main city for the oil and gas industry. Production has\ndecreased in recent years, though. Whereas in 2006 output (measured as gross\nvalue added or GVA) in mining and quarrying industries made up more than 4% of\nDenmark's total GVA, in 2023 it amounted to 1.1%. The sector is very capital-\nintensive, so the share of employment is much lower: About 1,000 persons\nworked in the oil and gas extraction sector in 2022, and another 1,000 persons\nin extraction of gravel and stone, or in total less than 0.1% of total\nemployment in Denmark.",
+    "openai_summarised_points": [
+      "• Denmark possesses substantial proven reserves of oil and natural gas located in the North Sea, making these resources significant to its economy.",
+      "• The city of Esbjerg serves as the primary hub for Denmark's oil and gas industry, hosting key infrastructure and operations.",
+      "• Oil and gas production in Denmark has experienced a decline in recent years, reflecting changing economic and geological factors.",
+      "• In 2006, the gross value added (GVA) from Denmark's mining and quarrying industries, including oil and gas extraction, accounted for over 4% of the country's total GVA.",
+      "• By 2023, the GVA contribution from this sector had decreased to 1.1%, indicating a significant reduction in its economic share over the years.",
+      "• The oil and gas sector is highly capital-intensive, requiring substantial investment in infrastructure and technology, which results in a relatively low employment share.",
+      "• In 2022, approximately 1,000 individuals were employed directly in oil and gas extraction activities in Denmark.",
+      "• An additional 1,000 persons worked in the extraction of gravel and stone, collectively representing less than 0.1% of Denmark's total employment, highlighting the sector's limited employment footprint despite its capital intensity."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:44.222496",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 631,
+      "bullet_points_count": 8
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.7",
+    "section_name": "Engineering and high-tech",
+    "text": "Denmark houses a number of significant engineering and high-technology firms,\nwithin the sectors of industrial equipment, aerospace, robotics,\npharmaceutical and electronics.",
+    "openai_summarised_points": [
+      "• Denmark is home to a variety of prominent engineering and high-technology companies operating across multiple advanced sectors.",
+      "• The key sectors within Denmark's high-tech industry include industrial equipment, aerospace, robotics, pharmaceuticals, and electronics.",
+      "• These firms contribute significantly to Denmark's economy and technological development, positioning the country as a notable player in these high-tech industries."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:46.372940",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 174,
+      "bullet_points_count": 3
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.7.1",
+    "section_name": "Electronics and industrial equipment",
+    "text": "Danfoss, headquartered in Nordborg, designs and manufactures industrial\nelectronics, heating and cooling equipment, as well as drivetrains and power\nsolutions.\n\nDenmark is also a large exporter of pumps, with the company Grundfos holding\n50% of the market share, manufacturing circulation pumps.",
+    "openai_summarised_points": [
+      "• Danfoss, headquartered in Nordborg, Denmark, specializes in the design and manufacturing of industrial electronics, heating and cooling equipment, as well as drivetrains and power solutions.",
+      "• Denmark is a significant exporter of pumps, with the company Grundfos holding a dominant 50% market share in the pump industry.",
+      "• Grundfos primarily manufactures circulation pumps, which are widely used in various applications such as heating, cooling, and water supply systems."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:48.318619",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 295,
+      "bullet_points_count": 3
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.8",
+    "section_name": "Manufacturing",
+    "text": "In 2017, the total output (gross value added) in the manufacturing industry\namounted to 14.4% of total output in Denmark. 325,000 people or a little less\nthan 12% of all employed persons worked in manufacturing (including utilities,\nmining and quarrying) in 2016. Main sub-industries are manufacture of\npharmaceuticals, machinery, and food products.",
+    "openai_summarised_points": [
+      "• In 2017, the manufacturing industry in Denmark contributed a gross value added (GVA) amounting to 14.4% of the country's total economic output.",
+      "• In 2016, approximately 325,000 individuals were employed in manufacturing sectors, representing just under 12% of the total employed population in Denmark.",
+      "• The manufacturing workforce includes employment in utilities, mining, and quarrying sectors.",
+      "• The primary sub-industries within Danish manufacturing are the manufacture of pharmaceuticals, machinery, and food products."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:50.879867",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 349,
+      "bullet_points_count": 4
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.9",
+    "section_name": "Service industry",
+    "text": "In 2017, the total output (gross value added) in the service industry amounted\nto 75.2% of total output in Denmark, and 79.9% of all employed people worked\nin this industry in 2016. Apart from public administration, education and\nhealth services, main service sub-industries were trade and transport\nservices, and business services.",
+    "openai_summarised_points": [
+      "• In 2017, the service industry in Denmark contributed a total output (gross value added) amounting to 75.2% of the country's total economic output.",
+      "• In 2016, 79.9% of all employed individuals in Denmark worked within the service industry, highlighting its significant role in employment.",
+      "• The primary sub-industries within Denmark's service sector, aside from public administration, education, and health services, included trade and transport services, as well as business services."
+    ],
+    "processing_metadata": {
+      "processed_timestamp": "2025-07-31T19:27:53.642786",
+      "openai_model": "gpt-4.1-nano-2025-04-14",
+      "content_length": 332,
+      "bullet_points_count": 3
+    }
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.10",
+    "section_name": "Transport",
+    "text": "Copenhagen Central Station with S-Trains.\n\nSignificant investment has been made in building road and rail links between\nCopenhagen and Malmö, Sweden (the Øresund Bridge), and between Zealand and\nFunen (the Great Belt Fixed Link). The Copenhagen Malmö Port was also formed\nbetween the two cities as the common port for the cities of both nations.\n\nThe main railway operator is Danske Statsbaner (Danish State Railways) for\npassenger services and DB Schenker Rail for freight trains. The railway tracks\nare maintained by Banedanmark. Copenhagen has a small Metro system, the\nCopenhagen Metro and the greater Copenhagen area has an extensive electrified\nsuburban railway network, the S-train.\n\nPrivate vehicles are increasingly used as a means of transport. New cars are\ntaxed by means of a registration tax (85% to 150%) and VAT (25%). The motorway\nnetwork now covers 1,300 km.\n\nDenmark is in a strong position in terms of integrating fluctuating and\nunpredictable energy sources such as wind power in the grid. It is this\nknowledge that Denmark now aims to exploit in the transport sector by focusing\non intelligent battery systems (V2G) and plug-in vehicles."
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "5.11",
+    "section_name": "Energy",
+    "text": "Denmark has invested heavily in windfarms. In 2015, 42% of the domestic\nelectricity consumption comes from wind. Fossil fuel consumption in Denmark.\n\nDenmark has changed its energy consumption from 99% fossil fuels (92% oil (all\nimported) and 7% coal) and 1% biofuels in 1972 to 73% fossil fuels (37% oil\n(all domestic), 18% coal, 18% natural gas (all domestic)), and 27% renewables\n(largely biofuels) in 2015. The goal is a full independence of fossil fuels by\n2050. This drastic change was initially inspired largely by the discovery of\nDanish oil and gas reserves in the North Sea in 1972 and the 1973 oil crisis.\nThe course took a giant leap forward in 1984, when the Danish North Sea oil\nand gas fields, developed by native industry in close cooperation with the\nstate, started major production. In 1997, Denmark became self-sufficient with\nenergy, and the overall CO2 emission from the energy sector began to fall by\n1996. Wind energy contribution to the total energy consumption has risen from\n1% in 1997 to 5% in 2015.\n\nSince 2000, Denmark has increased gross domestic product (GDP) and at the same\ntime decreased energy consumption. Since 1972, the overall energy consumption\nhas dropped by 6%, even though the GDP has doubled in the same period. Denmark\nhad the 6th best energy security in the world in 2014. Denmark has had\nrelatively high energy taxation to encourage careful use of energy since the\noil crises in the 1970s, and Danish industry has adapted to this and gained a\ncompetitive edge. The so-called \"green taxes\" have been broadly criticised\npartly for being higher than in other countries, but also for being more of a\ntool for gathering government revenue than a method of promoting \"greener\"\nbehaviour.\n\n**2015 overall energy taxes, in billionsDKK** | Oil | Gasoline | Natural gas | Coal | Electricity\n---|---|---|---|---|---\nExcise&VAT | 9.3 | 7.3 | 3.3 | 2.5 | 11.7\n\nDenmark has low electricity costs (including costs for cleaner energy) in EU,\nbut general taxes (11.7 billion DKK in 2015) make the electricity price for\nhouseholds the highest in Europe. As of 2015[update], Denmark has no\nenvironmental tax on electricity.\n\nDenmark is a long-time leader in wind energy and a prominent exporter of\nVestas and Siemens wind turbines, and in 2019 Denmark's exports of wind-\nturbine technology and services amounted to €8.9 billion. It has integrated\nfluctuating and less predictable energy sources such as wind power into the\ngrid. Wind produced the equivalent of 43% of Denmark's total electricity\nconsumption in 2017. The share of total energy production is smaller: In 2015,\nwind accounted for 5% of total Danish energy production.\n\nEnerginet.dk is the Danish national transmission system operator for\nelectricity and natural gas. The electricity grids of western Denmark and\neastern Denmark were not connected until 2010 when the 600MW Great Belt Power\nLink went into operation.\n\nCogeneration plants are the norm in Denmark, usually with district heating\nwhich serves almost 1.9 million households (January 1, 2025), 68% of all\nhouseholds.\n\nWaste-to-energy incinerators produce mostly heating and hot water.\nVestforbrænding in Glostrup Municipality operates Denmark's largest\nincinerator, a cogeneration plant which supplies electricity to 80,000\nhouseholds and heating equivalent to the consumption in 63,000 households\n(2016). Amager Bakke is an example of a new incinerator."
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "6",
+    "section_name": "Greenland and the Faroe Islands",
+    "text": "In addition to Denmark proper, the Kingdom of Denmark comprises two autonomous\nconstituent countries in the North Atlantic Ocean: Greenland and the Faroe\nIslands. Both use the Danish krone as their currency, but form separate\neconomies, having separate national accounts etc. Both countries receive an\nannual fiscal subsidy from Denmark which amounts to about 25% of Greenland's\nGDP and 11% of Faroese GDP. For both countries, the fishing industry is a\nmajor economic activity.\n\nNeither Greenland nor the Faroe Islands are members of the European Union.\nGreenland left the European Economic Community in 1986, and the Faroe Islands\ndeclined membership in 1973, when Denmark joined."
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "7",
+    "section_name": "Data",
+    "text": "The following table shows the main economic indicators in 1980–2023. Inflation\nunder 2% is in green.\n\nYear  | GDP\n(in bn. US$ PPP) | GDP per capita\n(in US$ PPP) | GDP\n(in bn. US$\nnominal)  | GDP growth\n(real) | Inflation rate\n(in Percent) | Unemployment\n(in Percent) | Government debt\n(in % of GDP)\n---|---|---|---|---|---|---|---\n1980  | 60.8  | 11,870  | 71.1  | −0.5%  | 11.3%  | 5.3%  | n/a\n1981  | 66.1  | 12,903  | 61.9  | −0.7%  | 11.7%  | 7.1%  | n/a\n1982  | 72.8  | 14,217  | 60.4  | 3.7%  | 10.1%  | 7.6%  | n/a\n1983  | 77.6  | 15,165  | 60.6  | 2.6%  | 6.8%  | 8.4%  | n/a\n1984  | 83.7  | 16,382  | 59.1  | 4.2%  | 6.3%  | 7.9%  | n/a\n1985  | 89.9  | 17,580  | 62.7  | 4.0%  | 4.7%  | 6.6%  | n/a\n1986  | 96.2  | 18,794  | 88.1  | 4.9%  | 3.7%  | 5.0%  | n/a\n1987  | 98.8  | 19,276  | 109.4  | 0.3%  | 4.0%  | 5.0%  | n/a\n1988  | 102.3  | 19,936  | 115.6  | 0.0%  | 4.5%  | 5.7%  | n/a\n1989  | 107.0  | 20,849  | 112.4  | 0.6%  | 4.8%  | 6.8%  | n/a\n1990  | 112.6  | 21,924  | 138.2  | 1.5%  | 2.6%  | 7.2%  | n/a\n1991  | 118.0  | 22,932  | 139.2  | 1.4%  | 2.4%  | 7.9%  | n/a\n1992  | 123.1  | 23,842  | 152.9  | 2.0%  | 2.1%  | 8.6%  | 66.8\n1993  | 126.0  | 24,322  | 143.2  | 0.0%  | 1.2%  | 9.5%  | 78.6%\n1994  | 135.6  | 26,084  | 156.2  | 5.3%  | 2.0%  | 7.7%  | 75.2%\n1995  | 142.6  | 27,338  | 185.0  | 3.0%  | 2.0%  | 6.8%  | 71.4%\n1996  | 149.4  | 28,454  | 187.6  | 2.9%  | 2.2%  | 6.3%  | 68.3%\n1997  | 156.9  | 29,752  | 173.5  | 3.3%  | 2.2%  | 5.2%  | 64.3%\n1998  | 162.2  | 30,638  | 177.0  | 2.2%  | 1.8%  | 4.9%  | 60.3%\n1999  | 169.4  | 31,873  | 178.0  | 2.9%  | 2.5%  | 5.1%  | 56.8%\n2000  | 179.7  | 33,713  | 164.2  | 3.7%  | 2.9%  | 4.3%  | 52.4%\n2001  | 185.3  | 34,631  | 164.8  | 0.8%  | 2.4%  | 4.5%  | 48.5%\n2002  | 189.0  | 35,209  | 178.6  | 0.5%  | 2.4%  | 4.6%  | 49.1%\n2003  | 193.5  | 35,942  | 218.1  | 0.4%  | 2.1%  | 5.4%  | 46.2%\n2004  | 204.0  | 37,792  | 251.4  | 2.7%  | 1.1%  | 5.5%  | 44.2%\n2005  | 215.3  | 39,789  | 264.5  | 2.3%  | 1.8%  | 4.8%  | 37.4%\n2006  | 230.6  | 42,495  | 282.9  | 3.9%  | 1.9%  | 3.9%  | 31.5%\n2007  | 239.0  | 43,881  | 319.4  | 0.9%  | 1.7%  | 3.8%  | 27.3%\n2008  | 242.3  | 44,261  | 353.4  | −0.5%  | 3.4%  | 3.5%  | 33.3%\n2009  | 232.0  | 42,085  | 321.2  | −4.9%  | 1.3%  | 6.0%  | 40.2%\n2010  | 239.1  | 43,204  | 322.0  | 1.9%  | 2.3%  | 7.5%  | 42.6%\n2011  | 247.4  | 44,483  | 344.0  | 1.3%  | 1.1%  | 7.6%  | 46.1%\n2012  | 250.5  | 44,893  | 327.1  | 0.2%  | 2.4%  | 7.5%  | 44.9%\n2013  | 262.4  | 46,829  | 343.6  | 0.9%  | 0.8%  | 7.0%  | 44.0%\n2014  | 270.3  | 48,040  | 353.0  | 1.6%  | 0.6%  | 6.5%  | 43.9%\n2015  | 278.8  | 49,265  | 302.7  | 1.6%  | 0.5%  | 6.2%  | 39.6%\n2016  | 297.7  | 52,160  | 313.1  | 2.0%  | 0.3%  | 6.2%  | 37.8%\n2017  | 320.1  | 55,673  | 332.1  | 2.8%  | 1.1%  | 5.8%  | 35.9%\n2018  | 334.3  | 57,821  | 334.2  | 2.0%  | 0.7%  | 5.2%  | 34.0%\n2019  | 345.3  | 59,480  | 346.5  | 1.5%  | 0.7%  | 5.0%  | 33.7%\n2020  | 341.4  | 58,628  | 354.8  | −2.4%  | 0.3%  | 5.6%  | 42.3%\n2021  | 381.1  | 65,261  | 405.7  | 6.8%  | 1.9%  | 5.1%  | 36.9%\n2022  | 419.0  | 71,332  | 401.1  | 2.7%  | 8.5%  | 4.5%  | 29.7%\n2023  | 441.8  | 74,958  | 420.8  | 1.7%  | 4.1%  | 5.0%  | 30.1%"
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "8",
+    "section_name": "Major companies",
+    "text": "Denmark has fostered and is home to many multi-national companies. Many of the\nlargest are interdisciplinary with business – and sometimes research\nactivities – in several fields. The most notable companies include:\n\nAgribusiness\n\n* Arla Foods (dairy)\n* Dansk Landbrugs Grovvareselskab (DLG) (agricultural coop (Danish _a.m.b.a._). Main focus is agricultural supply and trade)\n* Danish Crown (meat products)\n\nBanking\n\n* Danske Bank (commercial banking and mortgage lending)\n* Nordea\n* Nykredit\n* Jyske Bank\n* Saxo Bank\n* Sydbank\n\nClothing and attire\n\n* ECCO (shoe and leather accessories manufacturer and retailer)\n* Bestseller\n\nConstruction\n\n* FLSmidth (global supplier of equipment and services to the cement and minerals industries)\n* Rockwool (mineral wool producer with production in 28 countries)\n* Velux (windows and skylights production, owned by Villum Foundation)\n* Rambøll\n* COWI\n\nEnergy technology\n\n* Vestas (wind turbines)\n* Siemens Wind Power (wind turbines)\n* Danfoss (climate and energy)\n* Grundfos (the world's largest pump manufacturer)\n* NKT Cables Group A/S (Power cables and subsea umbilicals, owner of subsidiary Nilfisk-Advance)\n* Ørsted (company) (Formerly known as DONG energy)\n\nElectronics\n\n* Linak\n* Bang and Olufsen (hi-fi equipment)\n* Nilfisk\n* Ortofon\n* Danfoss\n\nFood and drink\n\n* Carlsberg (brewing company)\n* Royal Unibrew\n* Chr. Hansen (food ingredients and enzymes)\n* Danisco (enzymes, biotechnology and pharmaceutical supplier)\n\nInsurance\n\n* Alm. Brand\n* Tryg\n\nMedical equipment\n\n* Widex\n* William Demant\n\nPharmaceutical and biotechnology\n\nMany of the largest food producers are also engaged in biotechnology and\nresearch. Notable companies dedicated to the pharmaceutical and biotechnology\nsector, includes:\n\n* H. Lundbeck\n* Novo Nordisk\n* LEO Pharma\n* Coloplast\n* Dansac (owner Hollister Inc)\n* Novozymes\n* Pharma Nord\n* Pharmacosmos\n* ALK-Abelló\n* Genmab\n* RosePharma\n* Santaris Pharma A/S\n* Veloxis Pharmaceuticals\n* Zealand Pharma\n\nRetail\n\n* Salling Group (retail business)\n* Coop Danmark, (part of the multi-sector Coop amba, formerly known as FDB until 2013)\n* Dagrofa\n\nTransport\n\n* A. P. Moller-Maersk Group (Maersk – conglomerate: shipping)\n* Blue Water Shipping\n* DFDS\n* DSV\n* Scan Global Logistics\n* USTC (conglomerate: shipping, trading)\n\nMiscellaneous\n\n* ISS (facility services)\n* The Lego Group, as of 2014 the world's largest toy manufacturer by sales (in the first half of 2015, it made $2.1 billion in sales)\n* Terma A/S, aerospace and defense"
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "8.1",
+    "section_name": "Cooperatives",
+    "text": "Denmark has a long tradition for cooperative production and trade on a large\nscale. The most notable cooperative societies today includes the agricultural\ncoop of Dansk Landbrugs Grovvareselskab (DLG), dairy producer Arla Foods and\nthe retail cooperative Coop Danmark. Coop Danmark started out as\n_\"Fællesforeningen for Danmarks Brugsforeninger\"_ (FDB) in 1896 and now has\naround 1.4 million members in Denmark as of 2017. It is part of the larger\nmulti-sector cooperative Coop amba which has 1.7 million members in that same\nyear.\n\nThe cooperative structure also extends to both the housing and banking sector.\nArbejdernes Landsbank, founded in 1919, is the largest bank cooperative and it\nis currently the 6th largest bank in the country as of 2018. The municipality\nof Copenhagen alone holds a total of 153 housing cooperatives and\n_\"Arbejdernes Andelsboligforening Århus\"_ (AAB Århus) is the largest\nindividual housing cooperative in Denmark, with 23,000 homes in Aarhus."
+  },
+  {
+    "chapter_name": "Economy of Denmark",
+    "chapter_id": "1",
+    "section_number": "8.2",
+    "section_name": "Statistics",
+    "text": "In 2022, the sector with the highest number of companies registered in Denmark\nis Finance, Insurance, and Real Estate with 204,853 companies followed by\nServices and Retail Trade with 204,050 and 30,563 companies respectively."
+  }
+]
