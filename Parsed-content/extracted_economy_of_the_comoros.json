@@ -1,0 +1,283 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_comoros.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.131866",
+    "total_sections_in_source": 10,
+    "extracted_sections_count": 10,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Comoros is primarily based on subsistence agriculture and fishing, reflecting the limited industrial and commercial development within the country.",
+        "• The Comoros faces significant infrastructural challenges, including inadequate transportation links, which hinder economic integration and development.",
+        "• The population of the Comoros is young and rapidly increasing, placing additional pressure on the limited economic resources and employment opportunities.",
+        "• The country possesses few natural resources, limiting its capacity for economic diversification and growth.",
+        "• A low educational level among the labor force contributes to subsistence-level economic activity, high unemployment rates, and a heavy reliance on foreign grants and technical assistance for economic support.",
+        "• With an estimated gross domestic product (GDP) per capita income of about $700, the Comoros ranks among the world’s poorest and least developed nations.",
+        "• Agricultural potential varies across the islands, but much of the land consists of widespread lava-encrusted soil formations that are unsuitable for agriculture, restricting productive farming activities.",
+        "• Consequently, the majority of the population relies on subsistence agriculture and fishing for their livelihoods.",
+        "• Average daily wages in 2007 were approximately $3 to $4, indicating low income levels for most workers.",
+        "• Agriculture, including fishing, hunting, and forestry, is the leading economic sector, contributing 40% to the GDP and employing 80% of the labor force.",
+        "• This sector also provides the majority of the country’s exports, underscoring its central role in the Comorian economy.",
+        "• The Comoros is not self-sufficient in food production; rice, the main staple food, constitutes the bulk of the country’s imports, highlighting a dependency on external food sources.",
+        "• The government has prioritized several development goals, including upgrading education and technical training, privatizing commercial and industrial enterprises, improving health services, diversifying exports, promoting tourism, and reducing the high population growth rate.",
+        "• Continued foreign support is deemed essential to achieve the government’s target of 4% annual GDP growth.",
+        "• Remittances from abroad represent a significant source of economic inflows, accounting for 24% of the Comoros’ GDP.",
+        "• The GDP per capita of the Comoros experienced a 55% growth during the 1980s, reflecting a period of economic expansion.",
+        "• However, this growth was not sustainable, and the GDP per capita subsequently shrank by 42% during the 1990s, indicating a severe economic contraction in that decade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:31.434024",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the colonial period, French and local elites established plantations in the Comoros to cultivate cash crops for export, with French companies such as Société Bambao, Établissements Grimaldi, Kalfane and Company, and later President Abdallah's Établissements Abdallah et Fils dominating the economy.",
+        "• These dominant firms diverted most profits overseas and invested minimally in island infrastructure beyond what was necessary for plantation management or to benefit their associates, leading to stagnation in the food-crop agricultural sector and dependence on imported food, particularly rice.",
+        "• In 1993, the Comoros remained vulnerable to volatile international prices for key export crops including vanilla, ylang-ylang, and cloves.",
+        "• The Comoros is among the world's poorest countries, with a per capita gross national product (GNP) estimated at US$400 in 1994 after the January devaluation of the Comorian franc.",
+        "• Although the GNP grew at an average annual real rate of 3.1% during the 1980s, rapid population growth caused a 0.6% average annual decline in per capita GNP.",
+        "• Real GDP growth rates were 4.2% per year from 1980 to 1985, 1.8% from 1985 to 1988, and 1.5% in 1990.",
+        "• In 1991, due to balance of payments difficulties, the Comoros qualified for the International Development Association’s (IDA) Special Program of Assistance for debt-distressed sub-Saharan African countries.",
+        "• The Comoran economy is primarily based on private ownership, often by foreign investors; nationalization has been limited even during the Soilih regime, which expropriated a foreign oil company only after Madagascar’s government nationalized the same company’s plants.",
+        "• The Abdallah government nationalized Société Bambao and the French-capitalized Comoran Meat Company (Société Comorienne des Viandes—Socovia), specializing in meat and food sales, but these nationalizations were short-lived as Socovia and other government enterprises were liquidated or privatized during 1992 economic restructuring.",
+        "• After the Abdallah regime’s 1978 rapprochement with France, the Comoran economy became increasingly dependent on French aid and assistance from other governments and international organizations.",
+        "• By 1990, the Comoros’ total external public debt was US$162.4 million, approximately 75% of its GNP.",
+        "• The government delayed implementing an IMF-negotiated structural adjustment plan, which was mandated by the World Bank and IMF to be enacted by September 1992; the plan included measures such as dismissing about 2,800 of 9,000 civil servants.",
+        "• In March 1994, the IMF granted the Comoros a US$1.9 million credit under the Structural Adjustment Facility.",
+        "• For 1994–96, the Comoros targeted a 4% economic growth rate and a 4% inflation rate for 1995–96; however, 1994 growth was only 0.7% and inflation reached 15%.",
+        "• In May 1993, the United Nations Development Programme (UNDP) provided a US$2 million credit to promote private enterprise and reduce unemployment.",
+        "• In January 1994, the European Development Fund (EDF) granted 1.3 million European Currency Units (ECUs) to support small business development.",
+        "• The Comoros also received 5.7 million French francs from the French Aid and Cooperation Fund for agriculture and rural development.",
+        "• Foreign aid results have been mixed; funds were used for large projects such as expanding the seaport at Moroni and developing a new port at Mutsamuda on Nzwani, neither of which showed significant progress by early 1994.",
+        "• The islands struggled to develop local resources or infrastructure necessary for economic development, with limited successes including the establishment of national news media and modest improvements in public health, education, and telecommunications.",
+        "• U.S. developmental assistance totaled US$700,000 in fiscal year 1991, administered by the NGO CARE, focusing on reforestation, soil conservation, and sustainable agriculture.",
+        "• The Comoros has been an official member of the African Franc Zone (Communauté Financière Africaine—CFA) since 1979, with the CFA franc pegged at parity to the French franc.",
+        "• The Union of Comoran Workers (Union des Travailleurs des Comores), a national labor organization headquartered in Moroni, frequently organized strikes and demonstrations in response to political crises, IMF-mandated economic restructuring, and government failures to pay civil servants for extended periods.",
+        "• Mean wages in the Comoros were approximately US$0.80 per man-hour in 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:36.991749",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Agriculture, fishing, and forestry",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture in the Comoros involves more than 80% of the population and contributes approximately 40% to the gross domestic product (GDP), serving as the primary source of foreign exchange earnings for the country.",
+        "• The remainder of the GDP is composed of services sectors, including tourism, construction, and commercial activities.",
+        "• Plantations employ a significant portion of the population in the cultivation of the islands' major cash crops, which are primarily produced for export purposes.",
+        "• The major cash crops cultivated in the Comoros include vanilla, cloves, perfume essences, and copra.",
+        "• The Comoros holds the distinction of being the world’s leading producer of essence of ylang-ylang, a key ingredient used in the manufacturing of perfumes.",
+        "• In addition, the Comoros is the world’s second-largest producer of vanilla, ranking just behind Madagascar.",
+        "• The principal food crops grown in the Comoros are coconuts, bananas, and cassava, which support local food consumption.",
+        "• Foodstuffs account for 32% of the total imports into the Comoros, indicating a significant reliance on imported food products."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:24.497740",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agriculture and livestock",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the early 1990s, agriculture supported about 80 percent of the Comoros population and accounted for approximately 95 percent of the country's exports.",
+        "• The agricultural landscape of the Comoros is divided into two main zones: the coastal area, ranging from sea level to 400 meters in elevation, which produces cash crops such as vanilla, ylang-ylang, and cloves; and the highlands, which are primarily used for cultivating food crops for domestic consumption including cassava, bananas, rain rice, and sweet potatoes.",
+        "• Despite agricultural activity, food production per capita declined by about 12 percent between 1980 and 1987, as reported by the World Bank, leading to increased reliance on food imports.",
+        "• The Comoros imported virtually all its meat and vegetables during this period, with rice imports alone sometimes constituting up to 30 percent of the total value of all imports.",
+        "• The Comoros is the world’s leading producer of ylang-ylang essence, derived from flowers of a tree originally introduced from Indonesia, used extensively in perfumes and soaps; notably, ylang-ylang essence is a major ingredient in Chanel No. 5 perfume.",
+        "• The country is the world’s second largest producer of vanilla after Madagascar, and cloves are also a significant cash crop.",
+        "• In 1991, the Comoros exported 237 tons of vanilla at approximately CF19 per kilogram, 2,750 tons of cloves at about CF397 per kilogram, and 43 tons of ylang-ylang essence at roughly CF23,000 per kilogram.",
+        "• Production levels of vanilla, cloves, and ylang-ylang fluctuated significantly due to variations in global demand and natural disasters such as cyclones, causing volatile government revenues and complicating fiscal planning.",
+        "• The European Community’s Stabex (Stabilization of Export Earnings) system provided aid to the Comoros and other developing countries to help mitigate the impact of export commodity price fluctuations.",
+        "• In the early 1990s, the long-term market prospects for vanilla and ylang-ylang were weak due to increased competition from synthetic vanilla flavorings and shifting consumer preferences away from the sweet fragrance of ylang-ylang.",
+        "• Copra, once an important export derived from dried coconut meat for coconut oil, lost economic significance by the late 1980s as global demand shifted from high-fat coconut oil to \"leaner\" oils such as palm oil.",
+        "• Clove production and revenues experienced fluctuations but did not face the same market challenges as vanilla and ylang-ylang in the early 1990s.",
+        "• Most vanilla cultivation occurred on the island of Njazidja, while Nzwani was the primary source of ylang-ylang.",
+        "• Numerous international rural development programs aimed to reduce the Comoros’ dependence on food imports, particularly rice, which heavily drained export earnings.",
+        "• Key organizations involved in these programs included the European Development Fund (EDF), the International Fund for Agricultural Development (IFAD), the World Food Program, the Arab Bank for Economic Development in Africa, the United Nations Food and Agriculture Organization (FAO), and the governments of France and the United States.",
+        "• Despite up to seventeen international rural development initiatives by 1984, food production per capita in the Comoros declined throughout the 1980s.",
+        "• Resistance to agricultural restructuring efforts came from major clove and vanilla plantation owners occupying fertile coastal lands, as well as rice-importing firms like Établissements Abdallah et Fils, the country’s largest importer.",
+        "• Food-crop farmers, pushed onto fragile mountain slopes by cash crop plantations, caused deforestation and soil erosion in the highlands.",
+        "• In response, international aid increasingly focused on reforestation, soil restoration, and environmentally sustainable cultivation methods.",
+        "• In 1991, all United States agricultural aid to the Comoros, amounting to US$700,000, was dedicated to environmentally sensitive agricultural projects.",
+        "• The IFAD provided a US$4 million loan in 1991 to initiate a small producers’ support program on the island of Nzwani.",
+        "• The livestock sector in the Comoros was small in 1990, with approximately 47,000 cattle, 120,000 goats, 13,000 sheep, and 4,000 asses.",
+        "• Despite local livestock, the Comoros continued to import most of the meat consumed domestically."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:53.128863",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the late 1980s, the Comoros has made significant progress in developing its fisheries sector as a source of export earnings.",
+        "• In 1988, the Comoran government signed a three-year agreement with the European Community (EC) allowing forty French and Spanish fishing vessels to operate in Comoran waters, primarily targeting tuna.",
+        "• Under this agreement, the Comoros was to receive ECU300,000 in compensation, with an additional ECU50,000 allocated specifically for fisheries research.",
+        "• Fishing vessel operators were required to pay ECU20 per ton of tuna caught within Comoran waters as part of the agreement.",
+        "• The deep waters beyond the islands' reefs, although not rich in fish, are estimated to have the potential to yield up to 30,000 tons of fish annually from Comoran waters, which extend 320 kilometers offshore.",
+        "• The total fish catch recorded in 1990 was 5,500 tons, indicating underutilization relative to the estimated potential.",
+        "• Japan has contributed aid to support the development of the Comoros fishing industry.",
+        "• The fisheries sector development and management are overseen by a state agency named the Development Company for Small-Scale Fisheries of the Comoros (Société de Développement de la Pêche Artisanale des Comores)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:26.196848",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Forestry",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the year 2000, the total forested areas in the Comoros amounted to approximately 8,000 hectares, equivalent to 20,000 acres.",
+        "• The forests of the Comoros contain a variety of fruit trees and tropical hardwood species, contributing to the biodiversity and economic resources of the islands.",
+        "• Timber production occurs within the Comoros, with significant activity noted particularly on the island of Grande Comore, which contains about half of the nation's remaining forested land.",
+        "• In 2003, the production of roundwood in the Comoros reached a volume of 9,000 cubic meters, equivalent to 300,000 cubic feet, indicating the scale of timber extraction during that period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:25.210417",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Industry",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Industrial activities accounted for approximately 5 percent of the Comoros' GDP in 1994, indicating a minimal contribution to the national economy.",
+        "• The principal industries in the Comoros focus on processing cash crops for export, specifically the preparation of vanilla and the distillation of ylang-ylang into perfume essence.",
+        "• Historically, these cash crop processing industries were almost entirely controlled by French companies; however, as these companies closed unprofitable plantations, individual Comoran farmers established numerous small and inefficient distilleries.",
+        "• In addition to cash crop processing, Comorans produce handicrafts intended for export markets.",
+        "• Other industrial activities in the Comoros are small-scale and primarily serve internal markets, including sawmills, printing, carpentry, and the manufacture of shoes, plastics, yogurt, handicrafts (notably jewelry associated with the grand marriage tradition), and small fishing boats.",
+        "• The growth of industry in the Comoros faces significant obstacles due to the islands' geographic isolation, the physical distance between the islands themselves, a scarcity of raw materials and skilled labor, and the high costs associated with electricity and transportation.",
+        "• Energy production in the Comoros relies on a combination of hydropower, imported petroleum, and wood products, contributing to elevated electricity costs.",
+        "• Value added in the industrial sector experienced a gradual decline throughout the 1980s, reflecting challenges in industrial growth and development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:29.513243",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The primary outcome of South African economic involvement in the Comoros during Ahmed Abdallah's regime was the development of the tourism sector.",
+        "• South African investors, with support from both the South African and Comoran governments, constructed or renovated several hotels throughout the 1980s.",
+        "• By late 1992, only one major resort, the 182-room Galawa Beach located on the island of Njazidja, was operational.",
+        "• Apart from Galawa Beach, approximately 100 additional hotel rooms were available across the Comoran islands.",
+        "• Tourism growth was hindered by political instability within the Comoros, a waning South African interest following the dismantling of the apartheid regime, and increased competition from other tropical destinations that became more accessible and appealing.",
+        "• The necessity to import most construction materials and consumable supplies further constrained tourism development despite the islands’ natural physical beauty.",
+        "• Tourism numbers increased significantly from 7,627 visitors in 1990 to 16,942 visitors in 1991, largely attributable to the reopening of Galawa Beach, which had been closed during 1990.",
+        "• The majority of tourists visiting the Comoros during this period were Europeans, with French nationals constituting the largest group."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:30.432769",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "5",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Comoros lacks sufficient infrastructure necessary for economic development, with some villages not connected to the main road system or accessible only by tracks suitable for four-wheel-drive vehicles.",
+        "• The islands' ports are rudimentary; however, a deepwater facility was recently completed on the island of Anjouan to improve maritime access.",
+        "• Existing quays in Moroni on Grande Comore can only accommodate small vessels despite recent improvements, limiting the docking capacity for larger ships.",
+        "• Long-distance, ocean-going ships must anchor offshore and unload cargo via smaller boats, a process that becomes dangerous during the cyclone season, causing reluctance among ships to call at the island.",
+        "• Most freight destined for the Comoros is first shipped to Mombasa (Kenya) or Réunion and then transshipped to the islands, reflecting logistical challenges in direct shipping.",
+        "• The banking system in the Comoros includes the Central Bank of the Comoros (Banque Centrale des Comores), established in 1981, with three offices located in Moroni (Grande Comore), Mutsamudu (Anjouan), and Fomboni (Mohéli).",
+        "• The Banque pour l'Industrie et le Commerce des Comores, a commercial bank established in 1990, had six branches by 1993 and operated as a subsidiary of the Banque Nationale de Paris.",
+        "• The Development Bank of the Comoros (Banque de Développement des Comores), founded in 1982, supports small and midsize development projects and is majority-owned by the Comoran government and the central bank.",
+        "• Minority shares of the Development Bank of the Comoros are held by the European Investment Bank and the Caisse Centrale de Coopération Économique, a French government development agency.",
+        "• Additional banks operating in the Comoros include the Federal Bank of Commerce (Banque Fédérale de Commerce) and the Exim Bank Comores Ltd.",
+        "• All aforementioned banks have their headquarters located in Moroni, the capital city of the Comoros."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:38.010517",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "6",
+      "section_name": "External trade",
+      "chapter_name": "Economy of the Comoros",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• France is the Comoros' major trading partner, primarily financing only small projects within the country.",
+        "• The United States is an increasingly significant destination for Comoran exports but accounts for less than 1% of the country's imports.",
+        "• The Comoros' reliance on foreign aid has resulted in persistent trade deficits and chronic budget deficits.",
+        "• In 1992, the total value of Comoran exports was US$21 million, whereas total imports were valued at US$50 million.",
+        "• In 1991, the Comoros had receipts of approximately US$34.7 million (CF9.7 trillion) and expenditures of about US$93.8 million (CF26.2 trillion).",
+        "• The 1991 budget shortfall, amounting to roughly 170% of receipts, was covered through international grants and loans, utilization of existing credit lines, and debt rescheduling.",
+        "• In 1991, France received 55% of Comoran exports, followed by the United States with 19%, and Germany with 16%.",
+        "• The primary export products of the Comoros are vanilla, ylang-ylang, and cloves.",
+        "• The main import suppliers to the Comoros in 1991 were France (56% of imports), the Belgium-Luxembourg economic union (11%), and Japan (5%).",
+        "• Comoran imports mainly consisted of basic foodstuffs such as rice and meat, petroleum products, and construction materials.",
+        "• The Comoros is served by an international airport, Prince Said Ibrahim International Airport, located at Hahaya on the island of Grande Comore.",
+        "• The Comoros is a member of the franc zone, with a fixed exchange rate of 491.9677 Comorian francs (KMF) to 1 Euro."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:35.247871",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_the_comoros.json",
+      "original_index": 9
+    }
+  ]
+}

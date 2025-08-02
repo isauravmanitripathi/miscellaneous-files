@@ -1,0 +1,364 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_guyana.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.995326",
+    "total_sections_in_source": 15,
+    "extracted_sections_count": 15,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Guyana is recognized as one of the fastest growing economies globally, experiencing a significant GDP growth rate of 19.9% in the year 2021.",
+        "• As of 2024, Guyana's per capita gross domestic product (GDP) based on purchasing power parity (PPP) stands at Int$80,137.",
+        "• Over the previous decade, Guyana's economy has maintained an average GDP growth rate of 4.2%.",
+        "• The economic transformation of Guyana was notably influenced by the discovery of an offshore oil field in 2015, located approximately 190 kilometers from Georgetown.",
+        "• The offshore oil field discovery led to the commencement of commercial crude oil production in December 2019, marking a significant milestone for the country's economy.",
+        "• The crude oil produced from this offshore field is exported abroad for refining, indicating the development of Guyana’s oil export industry.",
+        "• The article referencing these economic details was noted as needing updates as of December 2024, suggesting that recent developments may not be fully reflected."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:16.146045",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economic recovery program in Guyana was developed in collaboration with the World Bank and the International Monetary Fund (IMF).",
+        "• The program significantly reduced the government's role in the economy, promoting a shift towards a more market-oriented system.",
+        "• It facilitated the clearance of all arrears on loan repayments to foreign governments and multilateral banks, improving Guyana's international financial standing.",
+        "• The program led to the privatization of 15 out of 41 government-owned (parastatal) businesses, including key sectors such as telecommunications, timber, rice, and fishing industries.",
+        "• The cellphone company and assets in the timber, rice, and fishing industries were among the entities privatized during this reform process.",
+        "• International corporations were engaged to manage major state enterprises, including the large state sugar company, GuySuCo, and the most significant state bauxite mine.",
+        "• An American company was authorized to open a bauxite mine, marking foreign investment in the mining sector.",
+        "• Two Canadian companies were permitted to develop the largest open-pit gold mine in South America, indicating increased foreign participation in resource extraction.",
+        "• Efforts to privatize the two state-owned bauxite mining companies, Berbice Mining Company and Linden Mining Company, have so far been unsuccessful.",
+        "• Most price controls previously in place were removed, liberalizing the pricing mechanisms within the economy.",
+        "• Laws affecting mining and oil exploration were revised and improved to encourage resource development.",
+        "• An investment policy was announced that was receptive to foreign investment, aiming to attract international capital and expertise.",
+        "• Tax reforms were enacted with the goal of promoting exports and boosting agricultural production in the private sector, fostering economic growth and diversification."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:20.754166",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Debt",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1986, Guyana has received its entire wheat supply from the United States under a concessional arrangement through the PL 480 Food for Peace programme, which is now provided on a grant basis.",
+        "• The revenue generated from the sale of wheat in Guyana is utilized for purposes mutually agreed upon by the U.S. and Guyana Governments.",
+        "• Like many developing countries, Guyana is heavily indebted, making debt reduction a top priority for the current administration.",
+        "• In 1999, Guyana negotiated $256 million in debt forgiveness through the Paris Club \"Lyons terms\" and the Heavily Indebted Poor Countries (HIPC) initiative.",
+        "• The HIPC assistance enabled Guyana for the first time to qualify for a reduction of its multilateral debt.",
+        "• Approximately 50% of Guyana’s debt is owed to multilateral development banks, and 20% is owed to Trinidad and Tobago, which was its principal supplier of petroleum products until 1986.",
+        "• Almost all debt owed to the U.S. government has been forgiven.",
+        "• In late 1999, Guyana’s net international reserves stood at $123.2 million, a decrease from $254 million in 1994.",
+        "• By January 2001, net international reserves had increased to $174.1 million, indicating a partial rebound.",
+        "• Guyana’s high debt burden to foreign creditors has led to limited foreign exchange availability, reducing the capacity to import raw materials, spare parts, and equipment, which in turn hampers production.",
+        "• Rising global fuel costs have contributed to declines in production and an increasing trade deficit.",
+        "• The decline in production has resulted in higher unemployment, with estimates of combined unemployment and underemployment reaching approximately 30%, though precise statistics are unavailable.",
+        "• Emigration remains significant, primarily to the U.S. and Canada, with net emigration estimated at about 1.4% of the population in 1998 and 1.2% in 1999.",
+        "• After years of a state-dominated economy, mechanisms for private domestic and foreign investment are still developing; the transition from a state-controlled to a mixed economy began under Desmond Hoyte and continued under PPP/CIVIC governments.",
+        "• The current PPP/C administration recognizes the importance of foreign investment for creating jobs, improving technical capabilities, and boosting export-oriented goods.",
+        "• The foreign exchange market was fully liberalized in 1991, allowing the Guyana dollar to be freely traded without restrictions.",
+        "• The exchange rate is subject to daily fluctuations, and the Guyana dollar depreciated by 17.6% from 1998 to 2000, with potential for further depreciation depending on post-election stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:30.805026",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "European settlement and plantation workforce",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Dutch were the first European settlers in Guyana during the 1600s, initiating trade with the Indigenous Amerindian populations and establishing plantations.",
+        "• It was soon found that Guyana's soil and climate were highly suitable for sugar cane cultivation, leading to the development of plantation agriculture.",
+        "• To work on these plantations, enslaved Africans were imported in large numbers, establishing a system based on African slave labor.",
+        "• The colonies of the Guianas, including Guyana, were eventually merged and incorporated into the British Empire.",
+        "• Following the abolition of slavery, the British introduced a new labor force by bringing indentured servants from India to work on the plantations.",
+        "• The political landscape was heavily influenced and controlled by powerful plantation owners, who held significant economic and political power.",
+        "• In addition to Africans and Indians, Portuguese and Chinese migrants also arrived in Guyana to work as agricultural laborers.",
+        "• Over time, Portuguese and Chinese migrants established their own distinct service industries within the country, integrating into the local economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:34.167403",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Nationalization",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Upon gaining independence from British rule, Guyana faced the critical need to establish a locally-owned economy after centuries of foreign dominance and involvement.",
+        "• During the 1970s, under the presidency of Forbes Burnham, Guyana adopted socialist policies, leading to the nationalization of nearly every sector of industry.",
+        "• The government established new agencies aimed at supporting the poor and working-class populations as part of its socialist agenda.",
+        "• Initial government investments in nationalized industries were successful in promoting economic growth; however, these efforts were hampered by a lack of management skills within the government.",
+        "• The nationalized sectors faced challenges due to fluctuating world commodity prices and increasing international competition, which undermined their stability.",
+        "• The combination of economic difficulties and political strife contributed to a decline in the population, driven by waves of emigration as citizens sought better opportunities abroad."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:38.524825",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Opening of markets",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Guyana experienced significant progress following President Hoyte's 1989 economic recovery program.",
+        "• As a result of these reforms, Guyana's Gross Domestic Product (GDP) increased by 6% in 1991, after 15 years of economic decline.",
+        "• From 1992 to 1995, economic growth remained consistently above 6% annually.",
+        "• In 1995, the growth rate declined slightly to 5.1%.",
+        "• The government officially reported that the economy grew by 7.9% in 1996.",
+        "• In 1997, the GDP growth rate was 6.2%.",
+        "• In 1998, the economy contracted by 1.3%.",
+        "• The growth rate in 1999 was 3%.",
+        "• The unofficial estimate of economic growth in 2005 was 0.5%.",
+        "• In 2006, the growth rate increased to 3.2%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:40.722187",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Infrastructure in Guyana is predominantly concentrated along the coast, where the majority of the population and economic activities are situated.",
+        "• The development of industries in the hinterland regions faces significant challenges primarily due to limited access, which hampers transportation and connectivity.",
+        "• Energy supply in the hinterland areas is also constrained, further impeding industrial growth and infrastructure development outside the coastal zone."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:42.262593",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3",
+      "section_name": "Major economic sectors",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture and mining are the most significant sectors of Guyana's economy, forming the foundation of its economic activities.",
+        "• The primary commodities contributing to export earnings are sugar, bauxite, rice, and gold, which together account for approximately 70 to 75 percent of total export revenue.",
+        "• In the year 2000, the rice sector experienced a notable decline, with export earnings decreasing by 27 percent during the first three quarters of that year.",
+        "• Ocean shrimp exports faced a setback in 1999 due to a one-month import ban imposed by the United States, which heavily impacted the sector's performance.",
+        "• Despite the 1999 setback, shrimp exports recovered in 2000, accounting for 11 percent of Guyana’s export earnings through the third quarter of that year.",
+        "• In 1999, shrimp exports contributed only 3.5 percent to total export earnings, reflecting the impact of the import ban.",
+        "• Other significant exports from Guyana include timber, diamonds, garments, rum, and pharmaceuticals, with the value of these exports increasing over time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:48.916776",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sugar has historically been the most significant agricultural product of Guyana, serving as a cornerstone of the country's economy.",
+        "• The sugar industry in Guyana has experienced a decline over time, primarily due to increased global competition and other unspecified factors.",
+        "• Despite the decline, sugar remains a major export commodity for Guyana, along with its related products molasses and rum.",
+        "• The country's rum industry is represented by two main distillers: Banks DIH and Demerara Distilleries.",
+        "• Guyana ranks as the 14th largest exporter of rum worldwide.",
+        "• In the year 2018, Guyana produced approximately 1.2 million tons of sugar cane.",
+        "• In the same year, the country produced about 964 thousand tons of rice.",
+        "• Guyana also produced around 136 thousand tons of coconut in 2018.",
+        "• Other notable agricultural products and their 2018 production figures include: eggplant (47 thousand tons), pepper (37 thousand tons), pineapple (34 thousand tons), banana (23 thousand tons), orange (21 thousand tons), and cassava (20 thousand tons)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:51.576035",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In recent years, mining has overtaken sugar as the most economically significant sector in Guyana, constituting a substantial portion of the country's Gross Domestic Product (GDP).",
+        "• The large-scale gold and bauxite mining operations in Guyana are predominantly owned and operated by foreign entities.",
+        "• Despite the dominance of large-scale operations, the majority of gold and diamond extraction is carried out by small and medium-scale miners, indicating a significant contribution from smaller-scale artisanal and semi-mechanized mining activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:54.953568",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Petroleum",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 2010s, significant offshore oil discoveries by ExxonMobil revitalized foreign investment interest in Guyana.",
+        "• A 2018 estimate projected that Guyana's oilfields contained over 3.2 billion barrels of recoverable oil reserves.",
+        "• Offshore crude oil extraction in Guyana commenced in 2019.",
+        "• By 2024, Guyana's oil production had increased to approximately 645,000 barrels per day (bpd), representing a substantial rise from 98,000 bpd in its first full year of production.",
+        "• From 2020 to 2023, Guyana increased its crude oil production by an average of 98,000 b/d annually, making it the third-fastest growing non-OPEC oil-producing country during this period.",
+        "• The expansion of the petroleum sector has significantly contributed to Guyana's economy, with the industry driving a 62.3 percent growth in GDP in 2022, the highest globally according to the International Monetary Fund (IMF).",
+        "• Guyana aims to further increase its oil production capacity to approximately 1.3 million bpd by 2027 through the development of new projects such as Yellowtail, Uaru, and Whiptail.",
+        "• In December 2024, Guyana became the third largest per capita petroleum producing country in the world."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:58.741934",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.3.1",
+      "section_name": "2025",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the first quarter of 2025, Guyana’s Natural Resource Fund (NRF) received a total of USD 605.5 million in oil revenues.",
+        "• These revenues included seven profit oil payments and one royalty payment.",
+        "• The payments corresponded to oil produced from January to March 2025, with two payments related to lifts from December 2024.",
+        "• Despite an increase in daily oil production, Guyana’s overall earnings are expected to decline due to a projected 10.9% decrease in oil prices, with an estimated average price of USD 71.9 per barrel for 2025.",
+        "• In 2024, Guyana’s oil production increased by 57.7%, reaching a total of 225.4 million barrels.",
+        "• The 2024 oil production generated approximately USD 2.6 billion in revenue for Guyana.",
+        "• Under the terms of the 2016 Production Sharing Agreement, Guyana receives a 2% share of the total oil sold.",
+        "• Additionally, Guyana is entitled to a 12.5% profit share after deducting ExxonMobil’s expenses.",
+        "• In 2025, Guyana is projected to have 246 oil lifts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:01.509715",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Forestry",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Guyana is home to the \"largest unspoiled rainforests on the continent,\" highlighting its extensive and pristine forest ecosystems.",
+        "• Despite the extensive forest cover, the timber industry in Guyana remains relatively small.",
+        "• The limited size of the timber industry is primarily due to infrastructural challenges, including undeveloped road networks and unreliable or absent electricity supplies necessary for milling operations.",
+        "• The country benefits financially from international organizations that invest in forest conservation efforts, contributing significant funds aimed at protecting Guyana's forest resources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:04.364162",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The majority of fish caught in Guyana is consumed domestically, serving local dietary and economic needs.",
+        "• There exists a significant export market for ocean shrimp, indicating its importance in Guyana's fishing industry.",
+        "• Overfishing has adversely affected shrimp populations, leading to Atlantic seabob (Xiphopenaeus kroyeri) becoming the most commercially important catch in Guyana.",
+        "• Commercial fishing activities in Guyana are predominantly marine, focusing on oceanic and coastal waters.",
+        "• Inland fishing in Guyana is primarily subsistence-based, mainly carried out by Amerindian communities, and does not significantly contribute to commercial exports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:06.645235",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4",
+      "section_name": "Data",
+      "chapter_name": "Economy of Guyana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents main economic indicators of Guyana from 1980 to 2028, with IMF staff estimates for the years 2021–2028.",
+        "• Inflation rates below 3% are highlighted in green within the data.",
+        "• In 1980, Guyana's GDP measured approximately 1.88 billion US dollars in PPP terms, with a GDP per capita of 2,421.5 US dollars PPP.",
+        "• The nominal GDP in 1980 was about 0.84 billion US dollars, with a per capita value of 1,101.9 US dollars.",
+        "• The real GDP growth rate in 1980 was -2.1%, indicating economic contraction, and inflation was at 14.1%.",
+        "• Unemployment in 1980 was 7.1%, with no available data on government debt as a percentage of GDP.",
+        "• Over the years, Guyana's GDP in PPP terms increased significantly, reaching approximately 116.2 billion US dollars by 2028, with a steady growth trend.",
+        "• The nominal GDP grew from 0.84 billion US dollars in 1980 to an estimated 31.43 billion US dollars in 2028.",
+        "• The GDP per capita in PPP terms rose from 2,421.5 US dollars in 1980 to approximately 144,160.3 US dollars in 2028, reflecting substantial economic growth.",
+        "• Nominal GDP per capita increased from 1,101.9 US dollars in 1980 to an estimated 38,998.6 US dollars in 2028.",
+        "• Guyana experienced periods of negative GDP growth, notably -8.9% in 1982, -11.5% in 1983, and -6.0% in 1988, with positive growth resuming in subsequent years.",
+        "• The inflation rate fluctuated widely, reaching as high as 89.5% in 1989, but generally declining over time, with estimates below 3% from 2014 onward.",
+        "• Inflation was 14.1% in 1980, peaked at 89.5% in 1989, and decreased to below 3% from 2014 onwards, with the lowest being 0.7% in 2014.",
+        "• The unemployment rate varied, with figures around 7.1% in 1980, decreasing to approximately 3.5% in 2022, and remaining around 3.9% in 2024–2028.",
+        "• Guyana's government debt as a percentage of GDP was not available until 1997, when it was 101.4%, then fluctuated, reaching 108.0% in 1998, and generally declining thereafter.",
+        "• By 2028, Guyana's government debt is projected to be approximately 18.6% of GDP, indicating significant debt reduction over time.",
+        "• The data demonstrates rapid economic growth particularly from 2020 onward, with GDP in PPP terms increasing from 15.52 billion US dollars in 2020 to an estimated 116.2 billion in 2028.",
+        "• The years 2022 and 2023 show notable increases in GDP, with 2022 at 33.80 billion US dollars PPP and 2023 at 48.16 billion US dollars PPP, reflecting accelerated economic expansion.",
+        "• The trend indicates continuous growth in both nominal and PPP GDP, GDP per capita, and overall economic indicators, with consistent inflation rates around 5% from 2024 to 2028."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:20.759294",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_guyana.json",
+      "original_index": 14
+    }
+  ]
+}

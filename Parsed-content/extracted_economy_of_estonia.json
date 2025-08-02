@@ -1,0 +1,523 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_estonia.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.819576",
+    "total_sections_in_source": 18,
+    "extracted_sections_count": 18,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Estonia is classified as advanced by the World Bank, characterized by a high quality of life and sophisticated infrastructure relative to less industrialized nations.",
+        "• Estonia is a member of the European Union, the eurozone, and the Organisation for Economic Co-operation and Development (OECD).",
+        "• The Estonian economy is significantly influenced by economic developments in Finland and Sweden.",
+        "• Following Estonia's restoration of independence in 1991 and transition to a market economy, it emerged as a pioneer in the global economy.",
+        "• Estonia positioned itself as a bridge between Eastern and Western Europe, implementing substantial economic reforms and technological innovations.",
+        "• In 1992, Estonia adopted the Estonian kroon as its national currency, which contributed to economic stabilization.",
+        "• In 1994, Estonia became the first country in the world to implement a flat tax system, with a uniform rate of 26% applied regardless of personal income.",
+        "• During the late 1990s, Estonia attracted more foreign investment per capita than any other country in Central and Eastern Europe.",
+        "• The country has been progressively catching up with the EU-15, the group of the more economically developed European countries; its GDP per capita increased from 35% of the EU-15 average in 1996 to 65% in 2007.",
+        "• Estonia's GDP per capita was $30,133 in 2023, according to the World Bank, placing it between the Czech Republic and Bahrain, but below Saudi Arabia.",
+        "• The 2008 global financial crisis was less severe for Estonia due to its consistently balanced budget policy, resulting in the lowest public debt relative to GDP in Europe.",
+        "• Estonia's economy recovered by 2010 following the financial crisis.",
+        "• In January 2011, Estonia adopted the euro, officially joining the eurozone.",
+        "• Estonia has demonstrated economic resilience, supported by a robust service sector, especially in information technology (IT), driven by the Tiigrihüpe project, and advanced e-government services.",
+        "• The country emphasizes a circular economy, innovation, and maintaining a balanced budget, low public debt, and a competitive tax system.",
+        "• Estonia is regarded as a model of economic reform and growth in post-Soviet Europe due to its policies and economic stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:58:28.168976",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the decades prior to World War I and Estonia's independence, a significant industrial sector developed in the country under Czarist rule.",
+        "• The industrial growth included the establishment of large-scale manufacturing enterprises, notably in textiles and related industries.",
+        "• The Kreenholm Manufacturing Company, located in Estonia, was recognized as the world's largest cotton mill at that time.",
+        "• This period marked a substantial expansion of Estonia’s industrial capacity, laying a foundation for its economic development in the early 20th century."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:58:30.624348",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Independence",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After declaring independence in 1918, Estonia engaged in the War of Independence, culminating in the signing of the Treaty of Tartu in 1920, which recognized Estonia's sovereignty.",
+        "• The newly independent Estonian state inherited a devastated post-war economy and an inflated ruble currency, reflecting the economic turmoil following World War I.",
+        "• Despite facing significant hardships, including economic dislocation and high unemployment, Estonia dedicated the first decade of independence to transforming its economy.",
+        "• In 1918, the Czarist ruble was replaced by the Estonian mark, which remained in circulation until 1927.",
+        "• By 1929, Estonia had established a stable national currency, the kroon, issued by the Bank of Estonia, the country's central bank.",
+        "• The Estonian government compensated German landowners for their holdings by confiscating estates and dividing them into small farms, which became the foundation of Estonia’s economic prosperity.",
+        "• Estonia's trade was primarily focused on the local market and Western Europe, especially Germany and the United Kingdom, with only 3% of commerce conducted with the USSR.",
+        "• Historically, Estonia's economy was predominantly agricultural, but it underwent significant modernization after independence from Russia in 1918.",
+        "• Estonia developed a notable knowledge sector centered in Tartu and an expanding industrial sector, exemplified by the Kreenholm Manufacturing Company.",
+        "• Estonian dairy products were well-known in Western European markets, with Germany and the UK serving as the main trade partners.",
+        "• The standard of living in Estonia was comparable to that of Finland during the interwar period.",
+        "• The USSR's annexation of Estonia in 1940 and the destruction caused during World War II severely crippled the Estonian economy.",
+        "• Following the annexation, Estonia's economy was further Sovietized, integrating into the USSR's centrally planned economic system."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:58:36.665670",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Soviet occupation",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The USSR's forcible annexation of Estonia occurred in 1940, leading to significant economic disruption.",
+        "• During World War II, Estonia experienced destruction caused by both Nazi and Soviet forces, which severely damaged its economy.",
+        "• Following the war, Estonia entered a period of Soviet occupation characterized by Sovietisation of societal and economic life.",
+        "• Estonia's economy and industry were integrated into the USSR's centrally planned economic system during this period.",
+        "• In April 1949, over 56% of Estonian farms were collectivised as part of Soviet agricultural policies.",
+        "• The collectivisation of Estonian farms in April 1949 followed a month of mass deportations to Siberia, which occurred in March 1949.",
+        "• The Soviet authorities expanded on industries in Estonia that utilized locally available raw materials, specifically oil shale mining and phosphorite extraction."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:58:39.338537",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Restoration of independence, modernisation and liberalisation",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Maakri has become the central business district of Tallinn in the 21st century, reflecting urban and economic development in the capital city.",
+        "• The development of real GDP per capita for Estonia, Latvia, and Lithuania has been a key indicator of economic progress in the Baltic region.",
+        "• Following Estonia's restoration of independence in 1991 and its transition to a market economy, the country emerged as a pioneer in the global economy, adopting innovative reforms and technological advancements.",
+        "• Estonia positioned itself as a bridge between Eastern and Western Europe, facilitating economic integration and reform.",
+        "• In June 1992, Estonia replaced the Soviet ruble with its own currency, the Estonian kroon, which was a freely convertible currency.",
+        "• A currency board was established in Estonia, pegging the kroon to the German Mark at a fixed rate of 8 kroons per Deutsche Mark.",
+        "• When Germany adopted the euro, Estonia adjusted its currency peg to 15.6 kroons per euro.",
+        "• In 1994, Estonia became the first country in the world to implement a flat tax system, setting a uniform rate of 26% regardless of personal income.",
+        "• Between 2005 and 2008, the flat tax rate was gradually reduced from 26% to 21% through multiple steps.",
+        "• Early 1992 saw a banking crisis caused by liquidity shortages and structural weaknesses inherited from the communist era, prompting significant financial reforms.",
+        "• Effective bankruptcy legislation was enacted to stabilize the banking sector, leading to the emergence of privately owned and well-managed banks as market leaders.",
+        "• The Tallinn Stock Exchange, fully electronic, was launched in early 1996 and was later acquired by Finland's Helsinki Stock Exchange in 2001.",
+        "• Estonia joined the World Trade Organization (WTO) in 1999, integrating further into global trade networks.",
+        "• From the early 2000s to the late 2000s, Estonia experienced substantial economic growth, with GDP increasing by 6.4% in 2000.",
+        "• Following Estonia's accession to the European Union in 2004, the economy saw double-digit growth rates, including an 8% GDP increase in 2007.",
+        "• Economic inflation in 2009 was driven by rising labor costs and external pressures such as increased prices for tobacco, alcohol, electricity, fuel, gas, and global increases in oil and food prices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:58:45.370047",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "2008 financial crisis, response and recovery",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section discusses Estonia's economic performance from 2002 to 2012, focusing on the impact of the 2008 financial crisis and subsequent recovery efforts.",
+        "• The 2008 financial crisis profoundly affected Estonia's economy, primarily due to a sharp decline in investment and consumption following the burst of a real estate market bubble that had been developing prior to the crisis.",
+        "• In December 2008, Estonia became a donor country to an IMF-led rescue package for Latvia, indicating its financial stability and willingness to support regional economic stability despite its own economic downturn.",
+        "• The Ansip government responded to the crisis by implementing fiscal consolidation and retrenchment measures, emphasizing fiscal discipline and maintaining a balanced budget through austerity policies.",
+        "• These austerity measures included increasing taxes and reducing public spending, specifically by slashing expenditures and public sector salaries across the board.",
+        "• Prior to the crisis, Estonia experienced a period of very high GDP growth; however, in 2008, GDP growth slowed significantly, with only 0.1% growth in the first quarter, followed by negative growth in subsequent quarters: −1.4% in Q2, just over −3% year-on-year in Q3, and −9.4% in Q4.",
+        "• The government enacted a supplementary negative budget for 2008, which was approved by the Riigikogu, involving a decrease in revenue by EEK 6.1 billion and a reduction in expenditure by EEK 3.2 billion.",
+        "• Although a current account deficit persisted, it began to decrease in late 2008, signaling some stabilization in external balances.",
+        "• In 2009, Estonia's economy contracted further by 15% in the first quarter, driven by low domestic and foreign demand that depressed overall output.",
+        "• Estonia experienced the steepest decline in industrial production within the European Union, with a 34% drop, marking one of the most severe industrial downturns in the EU during the crisis.",
+        "• Estonia ranked among the five worst-performing economies globally in terms of annual growth and had one of the highest unemployment rates in the EU, which increased from 4% in May 2008 to 16% in May 2009.",
+        "• In July 2009, Estonia increased its value-added tax (VAT) from 18% to 20% as part of fiscal measures to address economic challenges.",
+        "• The recorded budget deficit for 2009 was only 1.7% of GDP, making Estonia one of only five EU countries that year to meet the Maastricht criteria for debt and deficit levels.",
+        "• Estonia had the third-lowest budget deficit among EU countries in 2009, after Luxembourg and Sweden, and notably did not seek financial support from the IMF.",
+        "• Despite experiencing the third-largest GDP decline in 2009, Estonia maintained the lowest public debt and budget deficit among Central and Eastern European nations.",
+        "• The Estonian economy began to recover in the latter half of 2010, with economic growth resuming and unemployment rates decreasing to pre-recession levels.",
+        "• In 2010, Estonia was granted permission to join the eurozone, with accession planned for 2011, signifying confidence in its economic stability and fiscal discipline."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:58:53.466891",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Joining the euro",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Before adopting the euro, the Estonian kroon (EEK) was pegged to the euro at a fixed rate of 15.64664 EEK to one euro.",
+        "• Prior to this, the kroon was pegged to the German mark at approximately 8 EEK to 1 DEM.",
+        "• The design of Estonian euro coins was finalized in late 2004.",
+        "• Estonia’s transition to the euro was delayed beyond initial projections due to inflation rates consistently exceeding the required 3% threshold before 2010, which prevented meeting the convergence criteria.",
+        "• Estonia originally planned to adopt the euro on 1 January 2007; this target date was subsequently postponed twice—first to 1 January 2008, and later to 1 January 2011.",
+        "• On 12 May 2010, the European Commission announced that Estonia had fulfilled all the necessary criteria to join the eurozone.",
+        "• Following this, on 8 June 2010, EU finance ministers approved Estonia’s accession to the eurozone.",
+        "• In July 2010, Estonia received final approval from the Economic and Financial Affairs Council (ECOFIN) to adopt the euro starting from 1 January 2011.",
+        "• Estonia officially became the 17th member of the eurozone on 1 January 2011, circulating the euro alongside the kroon until 14 January 2011.",
+        "• Estonia was among the first post-Soviet states to join the eurozone.",
+        "• In August 2011, Standard & Poor’s upgraded Estonia’s credit rating from A to AA-, citing confidence in Estonia’s ability to sustain strong economic growth as a key factor.",
+        "• Estonia’s GDP growth rate in 2011 exceeded 8%, despite experiencing negative population growth during the same period.",
+        "• The Estonian economy was affected by the COVID-19 recession but recovered with an 8.6% increase in GDP in 2021.",
+        "• The Russian invasion of Ukraine in February 2022 caused Estonia’s GDP to decline by 1.3% in 2022.",
+        "• During this period, inflation surged to 24% before decreasing to single digits in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:00.114314",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "The economy today",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since reestablishing independence, Estonia has positioned itself as a strategic gateway between Eastern and Western Europe, actively pursuing economic reforms and integration with Western institutions.",
+        "• Estonia's market reforms have elevated it to one of the leading economies within the former COMECON (Council for Mutual Economic Assistance) area, demonstrating significant economic development and liberalization.",
+        "• Key features of Estonia's economy include a balanced national budget, nearly non-existent public debt, and a flat-rate income tax system, which collectively contribute to fiscal stability and simplicity.",
+        "• The country maintains a free trade regime, facilitating open international commerce and investment.",
+        "• Estonia adopted the euro as its official currency, integrating into the Eurozone monetary system.",
+        "• The banking sector in Estonia is highly competitive and well-developed, creating a hospitable environment for foreign investment and financial services.",
+        "• Estonia is renowned for its innovative e-Services and mobile-based services, positioning itself as a digital leader in public and private sector solutions.",
+        "• The privatization process of state-owned enterprises is virtually complete, with only the port and main power plants remaining under government ownership.",
+        "• The Estonian constitution mandates a balanced budget, ensuring fiscal discipline and stability.",
+        "• Estonia's intellectual property laws offer protections comparable to those of the European Union, fostering innovation and safeguarding creators’ rights.",
+        "• The banking sector benefits from near-ideal operating conditions, with no restrictions on foreigners purchasing bank shares or acquiring majority stakes in financial institutions.",
+        "• In 2013, the average monthly gross wage in Estonia was €980 (approximately US$1,330), with wages steadily increasing to €2,065 (approximately US$2,217) by December 2023.",
+        "• Estonia provides highly favorable tax conditions for businesses, notably a 0% tax rate on undistributed profits, enabling companies to reinvest earnings without tax liabilities and promoting growth and expansion.",
+        "• In 2024, Estonia ranked first in the International Tax Competitiveness Index, reflecting its attractive tax environment for businesses.",
+        "• The country consistently ranks highly in global indices, holding the 8th position in the Economic Freedom Index and the 18th position in the Ease of Doing Business Index, indicating a favorable environment for economic activity and entrepreneurship."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:07.386788",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3",
+      "section_name": "Projections and circular economy",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2011, projections made by CEPII indicated that by 2050, Estonia could become the most productive country in the European Union, second only to Luxembourg, thereby joining the top five most productive nations globally.",
+        "• The Estonian Ministry of Environment committed to developing a strategic document and action plan focused on a circular economy by the year 2021.",
+        "• In March 2020, the Estonian Circular Economy Industries Association emphasized that Estonia should incorporate the principles of the circular economy and the new European Green Deal into its investment strategies to facilitate economic recovery following the COVID-19 pandemic."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:10.560678",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4",
+      "section_name": "Employment participation",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to Statistics Estonia, the unemployment rate in Estonia is expressed as a percentage of the labor force.",
+        "• Estonia has approximately 600,000 employed individuals.",
+        "• The country faces a shortage of skilled labor, a challenge common across Europe.",
+        "• To address skill shortages, the Estonian government has increased the working visa quota for non-EEA (European Economic Area) citizens.",
+        "• Despite the increase, the visa quota has been criticized for being insufficient to fully address the labor shortages.",
+        "• During the late-2000s global recession, Estonia experienced a significant rise in unemployment, reaching 18.8%, coinciding with a local property market collapse and legislative changes aimed at increasing labor market flexibility, such as easing layoffs for companies.",
+        "• The unemployment rate stabilized at 13.8% by summer 2011 as Estonia's economy recovered, driven by strong export performance.",
+        "• The recession period saw a sharp decline in internal consumption and imports, alongside cuts in public finances.",
+        "• Some reduction in unemployment during this period is attributed to Estonians emigrating for employment opportunities to countries including Finland, the UK, and Australia.",
+        "• Post-recession, Estonia's unemployment rate decreased, returning to levels similar to those before the economic downturn, with rates around just above 6% during 2015 and 2016.",
+        "• Between 2020 and 2023, the unemployment rate fluctuated between 5.2% and 7.7%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:15.859879",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "5",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tallinn has established itself as Estonia's primary financial center, serving as the hub for banking and financial activities within the country.",
+        "• The advantages of Estonia's financial sector, as highlighted by Invest in Estonia, include unbureaucratic cooperation between companies and government authorities, facilitating efficient business operations.",
+        "• Estonia benefits from a relatively high level of educated human capital; however, young educated Estonians often emigrate to Western Europe seeking higher income opportunities.",
+        "• The largest banks operating in Estonia are Swedbank, SEB Pank, and Nordea, which dominate the country's banking sector.",
+        "• Several initial public offerings (IPOs) have been conducted recently on the Tallinn Stock Exchange, which is part of the OMX system, indicating active capital market development.",
+        "• The service sector in Estonia employs over 60% of the country's workforce, making it the dominant sector in terms of employment.",
+        "• Estonia has a robust information technology (IT) sector, largely attributable to the Tiigrihüpe project initiated in the mid-1990s, which aimed to develop digital infrastructure and e-government services.",
+        "• Estonia has been recognized as the most \"wired\" and technologically advanced country in Europe in terms of e-government services and digital connectivity.",
+        "• The agricultural sector, which was forcibly collectivized during the Soviet era, has transitioned to privatization and increased efficiency since Estonia's independence restoration in 1991.",
+        "• Following independence, the total farming area increased, and the share of agriculture in gross domestic product (GDP) decreased from 15% in 1991 to 3.3% in 2000.",
+        "• Employment in agriculture declined from 15% in 1991 to 5.2% in 2000, reflecting structural shifts in the economy.",
+        "• The mining industry accounts for approximately 1% of Estonia's GDP, with key mined commodities including oil shale, peat, and industrial minerals such as clays, limestone, sand, and gravel.",
+        "• The Soviet-era industrialization in the 1950s led to heavily polluting industries concentrated in northeastern Estonia, notably in Ida-Virumaa, primarily due to oil shale extraction.",
+        "• The socialist economy and military installations left Estonia with significant environmental pollution, especially from the oil shale industry, resulting in sulfur dioxide emissions per capita nearly as high as in the Czech Republic.",
+        "• Coastal seawater pollution is localized mainly in eastern regions, with ongoing government efforts to further reduce environmental contamination.",
+        "• Environmental improvements have been significant: in 2000, emissions were reduced by 80% compared to 1980, and unpurified wastewater discharged into water bodies decreased by 95% since 1980.",
+        "• Estonia's productivity has been growing rapidly, leading to a swift increase in wages and private consumption, which rose by approximately 8% in 2005.",
+        "• Key contributors to Estonia's GDP growth in 2005 included the processing industry, financial intermediation, retail and wholesale trade, as well as transport and communications sectors, according to the Estonian Institute of Economic Research."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:28.175188",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Estonia produced approximately 450,000 tons of wheat, representing a significant component of its cereal output.",
+        "• The country also produced around 347,000 tons of barley, indicating barley's importance in Estonian agriculture.",
+        "• Rapeseed production in 2018 amounted to approximately 113,000 tons, contributing to oilseed cultivation in Estonia.",
+        "• Potato production reached about 88,000 tons, underscoring its role as a staple crop within the nation's agricultural sector.",
+        "• Oat production was approximately 78,000 tons, reflecting oats as a notable cereal crop in Estonia.",
+        "• Pea production was around 53,000 tons, highlighting leguminous crop cultivation.",
+        "• Rye production totaled approximately 29,000 tons, indicating its presence but relatively smaller scale compared to other cereals.",
+        "• Besides these main crops, Estonia also produced smaller quantities of various other agricultural products, contributing to the diversity of its agricultural output."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:32.063936",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Largest companies by revenue",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section lists the largest companies in Estonia by revenue, providing specific financial figures in euros (EUR millions).",
+        "• Eesti Energia is the largest Estonian company by revenue, generating EUR 2,218.2 million.",
+        "• Bolt Technology ranks second among Estonian companies, with a revenue of EUR 1,263.8 million.",
+        "• Eesti Gaas is the third-largest, with a revenue of EUR 1,012.6 million.",
+        "• Orlen Eesti follows with a revenue of EUR 958.0 million, highlighting its significant market presence.",
+        "• Tallinna Kaubamaja, a major retail company, has a revenue of EUR 862.8 million.",
+        "• Tallink Grupp, a prominent transportation and shipping company, reports EUR 771.4 million in revenue.",
+        "• Tavid, a financial services company, has a revenue of EUR 738.8 million.",
+        "• Olerex, an oil and energy company, generates EUR 637.7 million in revenue.",
+        "• Alexela, involved in energy and retail sectors, reports EUR 620.4 million in revenue.",
+        "• Graanul Invest, a biomass and renewable energy company, has a revenue of EUR 589.9 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:36.262554",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Largest companies by profit",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The list of the largest companies in Estonia by profit includes a diverse range of sectors, with profits measured in millions of euros (EUR).",
+        "• Eesti Energia ranks as the most profitable company with a profit of EUR 215.7 million.",
+        "• Swedbank follows closely with a profit of EUR 206.7 million, indicating its significant role in Estonia's financial sector.",
+        "• The State Forest Management Centre (Riigimetsa Majandamise Keskus) reported a profit of EUR 138.4 million, highlighting the importance of the forestry sector.",
+        "• Luminor Pank achieved a profit of EUR 124.7 million, and SEB Pank recorded EUR 115.9 million, both representing major banking institutions in Estonia.",
+        "• Graanul Invest, a key player in the biomass and forestry industry, posted a profit of EUR 111.6 million.",
+        "• Eesti Gaas, involved in the energy supply sector, reported a profit of EUR 95.2 million.",
+        "• Baltic Maritime Logistics Group, operating in maritime logistics, had a profit of EUR 73.3 million.",
+        "• LHV Group, a prominent financial services provider, earned EUR 61.4 million in profit.",
+        "• Telia Eesti, a telecommunications company, recorded a profit of EUR 54.0 million.",
+        "• In the year 2022, Estonia's economy was characterized by a high prevalence of service-oriented companies, with the service sector registering the highest number of registered companies at 144,514.",
+        "• The finance, insurance, and real estate sector comprised 47,001 companies, making it a significant part of the Estonian economy.",
+        "• Retail trade was represented by 26,635 companies, indicating a substantial retail industry presence in Estonia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:42.115705",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "6",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Oil shale supplies approximately 70% of Estonia's primary energy, with extraction primarily conducted at the VKG Ojamaa mine.",
+        "• The country's energy infrastructure relies heavily on oil shale, with Narva hosting the largest oil shale power stations.",
+        "• Alternative energy sources include natural gas imported from Russia, wood, motor fuels, and fuel oils.",
+        "• Wind power capacity in Estonia is 58.1 megawatts, with an additional approximately 399 megawatts of wind projects currently under development.",
+        "• Estonia's energy liberalization process is significantly behind the Nordic energy market; during EU accession negotiations, Estonia committed to opening at least 35% of its energy market by 2009 and all non-household market (about 77% of consumption) by 2013.",
+        "• There are concerns within Estonia that Russia could leverage energy markets for political pressure.",
+        "• In 2009, the Estonian government considered issuing permits to nuclear power companies and had plans for a shared nuclear facility with Latvia and Lithuania; however, these plans were shelved following the Fukushima Daiichi nuclear disaster in March 2011.",
+        "• Estonia's railway transport sector dominates cargo movement, accounting for 70% of all goods transported domestically and internationally.",
+        "• Road transport is predominant in passenger transportation, carrying over 90% of all passengers.",
+        "• The country has five major cargo ports characterized by easy navigational access, deep waters, and favorable ice conditions.",
+        "• Estonia has 12 airports and 1 heliport; Lennart Meri Tallinn Airport is the largest, handling 1.73 million passengers and 22,764 tons of cargo in 2007, with annual cargo growth of 119.7%.",
+        "• International airlines such as SAS, Finnair, Lufthansa, EasyJet, and Nordic Aviation Group operate direct flights to 27 destinations from Estonia.",
+        "• Approximately 7.5% of Estonia's workforce is employed in the transportation sector, which contributes over 10% to the country's GDP.",
+        "• Estonia benefits economically from transit trade between the European Union and Russia, especially oil cargo through Estonian ports; however, the share of transit trade in GDP is disputed and believed to be decreasing due to increased hostility from Russia.",
+        "• The country's transportation infrastructure and energy sector are integral to its economy, with ongoing developments and strategic concerns related to energy security and market liberalization.",
+        "• Estonia has high Internet penetration, with widespread connectivity available throughout most parts of the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:47.835421",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "7",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Estonia's main trading partners by export share are Finland (17%), Latvia (12%), Sweden (9%), Lithuania (8%), Germany (7%), and the Netherlands (4%).",
+        "• In terms of imports, Estonia's primary sources are Finland (15%), Latvia (11%), Sweden (8%), Lithuania (10%), Germany (12%), and the Netherlands (6%).",
+        "• Estonia exports electrical equipment accounting for 14% of its total annual exports, making it a significant sector in its trade profile.",
+        "• Wood and wooden articles constitute 11% of Estonia's total exports annually, highlighting the importance of forestry and wood processing industries.",
+        "• Food and agricultural products also represent 11% of Estonia's exports, indicating a notable agricultural sector contributing to international trade.",
+        "• Mineral products comprise 10% of Estonia's exports, reflecting the country's natural resource extraction and processing activities.",
+        "• Transport equipment accounts for 10% of Estonia's annual exports, emphasizing its role in the country's manufacturing and export economy.",
+        "• Estonia imports electrical and transport equipment, each constituting 13% of total imports annually, underscoring the reliance on foreign manufactured goods in these sectors.",
+        "• Mineral products make up 12% of Estonia's imports, indicating ongoing demand for raw materials or processed mineral commodities.",
+        "• Food and agricultural products account for 11% of Estonia's imports, showing continued dependence on imported foodstuffs and agricultural goods.",
+        "• Machinery and mechanical appliances constitute 10% of Estonia's total imports, reflecting the need for industrial machinery and equipment to support domestic industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T21:59:52.239140",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "8",
+      "section_name": "Natural resources",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Estonia possesses significant natural resources distributed across various regions, including oil shale, sea mud, construction materials, and mineral deposits, which are vital to its economy and industrial activities.",
+        "• Oil shale reserves are concentrated in the north-east of Estonia, totaling approximately 1,137,700,000 million tonnes, making it a major energy resource for the country.",
+        "• Sea mud with medical applications is found predominantly in the south, with estimated reserves of about 1,356,400,000 million tonnes, utilized in health and therapeutic industries.",
+        "• Construction sand is widely distributed across Estonia, with total reserves reaching approximately 166,700,000 million cubic meters, essential for the construction sector.",
+        "• Construction gravel reserves are located mainly in the north, amounting to roughly 32,800,000 million cubic meters, supporting infrastructure development.",
+        "• Lake mud suitable for medical use is available throughout the country, with reserves estimated at about 1,133,300 million tonnes, used in therapeutic treatments.",
+        "• Lake mud suitable for fertilizer production is found in the east, with reserves of approximately 170,900 tonnes.",
+        "• Ceramic clay deposits are widespread across Estonia, with reserves totaling about 10,600,000 million cubic meters, used in ceramic manufacturing.",
+        "• Ceramsid clay, used for gravel production, is also distributed nationwide, with reserves of roughly 2,600,000 million cubic meters.",
+        "• Technological dolomite reserves are located in the west, amounting to approximately 16,600,000 million cubic meters, utilized in industrial processes.",
+        "• Technological limestone is found mainly in the north, with reserves of about 13,800,000 million cubic meters, supporting various technological applications.",
+        "• Decoration dolomite deposits are situated in the west, with reserves around 2,900,000 million cubic meters, used for decorative stone products.",
+        "• Construction dolomite reserves are also in the west, totaling approximately 32,900,000 million cubic meters, serving the construction industry.",
+        "• Blue clay, distributed across Estonia, has reserves of about 2,044,000 million tonnes, used in ceramics and brick manufacturing.",
+        "• Granite reserves are spread throughout the country, with an estimated volume of 1,245,100,000 million cubic meters, important for construction and sculpture.",
+        "• Peat deposits are widespread, with reserves estimated at 230,300,000 million tonnes, primarily used for energy and horticultural purposes.",
+        "• Construction limestone is mainly in the north, with reserves of approximately 110,300,000 million cubic meters, essential for cement and construction materials.",
+        "• Limestone cement reserves in the north amount to about 9,400,000 million cubic meters, supporting cement production.",
+        "• Clay cement deposits are also in the north, with reserves of roughly 15,600,000 million cubic meters, used in cement manufacturing.",
+        "• Graftolitic argillite, a significant mineral resource, is located in the north with estimated reserves exceeding 64,000,000,000 million tonnes, valuable for industrial use.",
+        "• Wood resources are abundant across Estonia, with reserves estimated at 15,600,000 million cubic meters, supporting the forestry and timber industries.",
+        "• Technological sand deposits are primarily in the north, with reserves of about 3,300,000 million cubic meters, used in glass and construction industries.",
+        "• Lake lime reserves are found in both the north and south, totaling approximately 808,000 tonnes, used in lime production and construction.",
+        "• Phosphorite deposits are located in the north, with estimated reserves exceeding 350,000,000 million tonnes, significant for fertilizer and chemical industries.",
+        "• The total subsoil resources across Estonia are estimated at approximately 21.1 cubic kilometers, encompassing all mineral and resource deposits."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:01.662865",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "9",
+      "section_name": "Data",
+      "chapter_name": "Economy of Estonia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section provides a comprehensive overview of Estonia's main economic indicators from 1993 to 2018, including data on GDP (both PPP and nominal), GDP per capita, GDP growth rates, inflation rates, unemployment rates, and government debt as a percentage of GDP.",
+        "• In 1993, Estonia's GDP was 11.2 billion US dollars (PPP), with a GDP per capita of 7,338 US dollars (PPP), and a government debt of 6.5% of GDP; data on inflation and unemployment are partially available.",
+        "• By 1994, GDP slightly increased to 11.3 billion US dollars (PPP), but specific GDP per capita and other indicators are not provided; government debt data remains unavailable.",
+        "• In 1995, Estonia's GDP rose to 11.7 billion US dollars (PPP), with a GDP per capita of 8,022 US dollars (PPP), a GDP growth rate of 2.2%, inflation at 29.0%, unemployment at 9.6%, and government debt at 9% of GDP.",
+        "• From 1996 to 1999, GDP in PPP terms increased gradually from 12.5 billion to 15.3 billion US dollars, with GDP per capita rising correspondingly; specific inflation, unemployment, and government debt data are largely unavailable for these years.",
+        "• In 2000, GDP in PPP was 17.3 billion US dollars, with a GDP per capita of 12,113 US dollars, a GDP growth of 10.6%, inflation at 3.9%, unemployment at 14.6%, and government debt at 5% of GDP.",
+        "• The years 2001-2004 saw continued growth in GDP (PPP), reaching 24.5 billion US dollars in 2004, with GDP per capita increasing to 19,765 US dollars in 2005; inflation rates ranged from 9.4% to 12.2%, and government debt remained around 5-9% of GDP.",
+        "• In 2005, Estonia's GDP (PPP) was 27.7 billion US dollars, with a GDP per capita of 19,765 US dollars, inflation at 9.4%, unemployment at 4.1%, and government debt at 8.0% of GDP.",
+        "• Between 2006 and 2007, GDP (PPP) increased to 31.3 billion US dollars and 34.6 billion US dollars respectively, with GDP per capita reaching 22,600 and 25,144 US dollars; inflation was around 10.3-7.7%, unemployment decreased slightly, and government debt was stable at approximately 4-5%.",
+        "• In 2008, GDP (PPP) slightly declined to 33.4 billion US dollars amid a negative GDP growth of -5.4%, with inflation at 10.6%, unemployment at 5.5%, and government debt at 4%.",
+        "• The 2009 economic crisis caused GDP (PPP) to fall to 28.7 billion US dollars, with a significant GDP contraction of -14.7%, inflation at 0.2%, unemployment rising sharply to 13.5%, and government debt increasing to 7%.",
+        "• Recovery began in 2010, with GDP (PPP) rising to 29.8 billion US dollars, GDP growth at 2.3%, inflation at 2.7%, unemployment at 16.7%, and government debt at 7%.",
+        "• From 2011 to 2013, Estonia experienced steady growth: GDP (PPP) reached 36.2 billion US dollars in 2013, with GDP per capita at 26,508 US dollars, inflation decreasing to 1.9%, unemployment at 8.6%, and government debt stabilizing around 10%.",
+        "• In 2014, GDP (PPP) increased to 38.1 billion US dollars, with GDP per capita at 27,856 US dollars, inflation at 2.9%, unemployment at 7.4%, and government debt at 11%.",
+        "• The year 2015 saw GDP (PPP) slightly rise to 38.4 billion US dollars, with GDP per capita at 28,685 euros, inflation at 1.7%, unemployment at 6.2%, and government debt at 10%.",
+        "• In 2016, GDP (PPP) grew to 41.2 billion US dollars, GDP per capita reached 29,684 euros, inflation was 2.1%, unemployment was 6.8%, and government debt was 9%.",
+        "• By 2017, Estonia's GDP (PPP) increased further to 44.7 billion US dollars, with GDP per capita at 31,750 euros, inflation at 4.9%, unemployment at 5.8%, and government debt at 9%.",
+        "• In 2018, GDP (PPP) was 47.5 billion US dollars, with GDP per capita data not specified; GDP in nominal terms was 30.6 billion US dollars; other indicators are not provided.",
+        "• In 2019, GDP (PPP) reached 50.3 billion US dollars, with nominal GDP at 31.3 billion US dollars; other data points are not specified.",
+        "• The section also includes data on GDP per capita by county in 2023, expressed in euros, with the whole country averaging 27,868.5 euros.",
+        "• Harju County, including Tallinn, has the highest GDP per capita at 36,709.5 euros, with Tallinn itself at 41,916.7 euros.",
+        "• Hiiu County has the lowest at 18,034.7 euros, followed by Ida-Viru County at 19,678.1 euros, and Jõgeva County at 16,973.3 euros.",
+        "• Other counties such as Järva (19,483.0 euros), Lääne (16,022.8 euros), Lääne-Viru (18,277.6 euros), Põlva (14,623.7 euros), Pärnu (18,889.2 euros), Rapla (15,946.1 euros), Saare (17,084.9 euros), Tartu (27,021.8 euros), Tartu city (32,183.3 euros), Valga (14,592.1 euros), Viljandi (19,320.5 euros), and Võru (16,664.2 euros) are also listed, illustrating regional disparities in economic output."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:14.867978",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_estonia.json",
+      "original_index": 17
+    }
+  ]
+}

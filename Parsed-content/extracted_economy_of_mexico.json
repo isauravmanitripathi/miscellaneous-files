@@ -1,0 +1,1142 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_mexico.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.365127",
+    "total_sections_in_source": 43,
+    "extracted_sections_count": 43,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Mexico is classified as a developing mixed-market economy and ranks as the 13th largest globally by both nominal GDP and purchasing power parity as of 2024.",
+        "• Since the 1994 economic crisis, successive Mexican administrations have strengthened the country’s macroeconomic fundamentals, contributing to improved economic stability.",
+        "• Mexico was largely unaffected by the 2002 South American crisis, maintaining positive, though modest, economic growth following a brief stagnation in 2001.",
+        "• The 2008 global recession severely impacted Mexico, with its gross domestic product contracting by more than 6% in that year, marking it as one of the Latin American countries most affected by the downturn.",
+        "• Among OECD member countries, Mexico possesses a relatively strong social security system, with social expenditure amounting to approximately 7.5% of GDP.",
+        "• The Mexican economy has achieved high macroeconomic stability, characterized by significant reductions in inflation and interest rates to historically low levels.",
+        "• Despite macroeconomic improvements, Mexico continues to face substantial disparities between urban and rural populations, northern and southern states, and wealthy and poor segments of society.",
+        "• Key unresolved economic challenges include the need for infrastructure upgrades, modernization of the tax system and labor laws, and reduction of income inequality.",
+        "• In 2013, Mexico’s tax revenues were 19.6% of GDP, the lowest among the 34 OECD countries, highlighting fiscal challenges.",
+        "• Persistent issues such as high poverty rates, regional inequalities, widespread informality in employment, financial exclusion, and corruption have constrained productivity growth.",
+        "• Medium-term economic growth prospects are hindered by a relatively low participation rate of women in the workforce and weak investment levels since 2015.",
+        "• Mexico’s economy features rapidly developing modern industrial and service sectors, with increasing private sector ownership and participation.",
+        "• Recent government initiatives have promoted competition and modernization in key infrastructure sectors including ports, railroads, telecommunications, electricity generation, natural gas distribution, and airports.",
+        "• Mexico is an export-oriented economy, with over 90% of its trade conducted under free trade agreements (FTAs) with more than 40 countries, including the European Union, Japan, Israel, and many Central and South American nations.",
+        "• The most significant trade agreement is the United States–Mexico–Canada Agreement (USMCA), signed in 2018 and effective from 2020, involving the governments of the United States, Canada, and Mexico.",
+        "• In 2006, trade with Mexico’s two northern neighbors, the United States and Canada, accounted for nearly 90% of its exports and 55% of its imports, underscoring the importance of North American trade relations.",
+        "• The Mexican Congress has recently approved important reforms in tax policy, pensions, and the judicial system, although further clarification on these reforms is noted as needed.",
+        "• As of 2023, Mexico had 13 companies listed in the Forbes Global 2000 ranking of the world’s largest companies, reflecting the presence of significant corporate entities.",
+        "• The Mexican labor force numbered 52.8 million people in 2015, with Mexican workers ranked by both the OECD and the World Trade Organization (WTO) as the hardest-working globally based on annual hours worked.",
+        "• Despite high work hours, hourly wages in Mexico remain low, indicating challenges in labor compensation.",
+        "• Mexico exhibits high wealth inequality, with 0.2% of the population owning 60% of the country’s wealth, while approximately 46.8 million people lived in poverty as of 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:33:38.928432",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Porfirio Díaz’s presidency (1876–1911), known as the Porfiriato, was marked by rapid industrialization fueled by foreign capital, leading to unprecedented economic growth in Mexico during the last quarter of the 19th century.",
+        "• Between 1876 and 1910, Mexico’s annual economic growth averaged 3.3%, accompanied by significant foreign investment, European immigration, railroad network expansion, and exploitation of natural resources.",
+        "• Large-scale land ownership advanced significantly during the Porfiriato, with foreign land companies acquiring millions of hectares; by the end of Díaz’s dictatorship, 97% of arable land was owned by 1% of the population, while 95% of peasants were landless and worked as laborers on vast haciendas or formed an impoverished urban proletariat.",
+        "• The concentration of land ownership in latifundios—large haciendas owned by few but worked by millions of impoverished peasants living in precarious conditions—combined with political repression, electoral fraud, and extreme income inequality, contributed to the outbreak of the Mexican Revolution (1910–1920).",
+        "• The Mexican Revolution was an armed conflict that drastically transformed Mexico’s political, social, cultural, and economic structures during the 20th century, causing a severe toll on the economy and population, which declined between 1910 and 1921; reconstruction efforts took place in subsequent decades.",
+        "• The period from 1940 to 1970, known as the Mexican Miracle, was characterized by rapid economic growth following the Revolution and resumption of capital accumulation in peacetime, with Mexico adopting an import substitution industrialization (ISI) model to protect and promote national industries.",
+        "• During the Mexican Miracle, Mexico experienced an economic boom with rapid industrial expansion, free land distribution to peasants under the ejido system, nationalization of oil and railroad companies, introduction of social rights into the 1917 Constitution, emergence of large labor unions, and infrastructure upgrades.",
+        "• From 1940 to 1970, Mexico’s population doubled while GDP increased sixfold, reflecting the significant economic and demographic growth during the Mexican Miracle.",
+        "• President José López Portillo’s administration (1976–1982) initially saw economic growth fueled by the discovery of vast oil fields and rising oil prices, leading Mexico to become the world’s fourth-largest oil exporter, but the economy crashed when oil prices dropped sharply.",
+        "• During the 1970s, Presidents Luis Echeverría (1970–1976) and José López Portillo (1976–1982) increased public spending to promote social development, financed by borrowing from international capital markets during a period of low interest rates and high oil prices.",
+        "• Average annual GDP growth rates by period were: 3.4% (1900–1929), 4.2% (1929–1945), 6.5% (1945–1972), 5.5% (1972–1981), 1.5% (1981–1995), with negative growth during crises: -4.2% (1983 Debt Crisis), -6.2% (1995 Peso Crisis), and -0.2% (2001 US Recession), and -6.5% (2009 Great Recession); growth rebounded to 5.1% between 1995 and 2000.",
+        "• In 1981–1982, the international economic environment shifted abruptly as oil prices plunged and interest rates rose, leading President López Portillo to suspend foreign debt payments, devalue the peso, and nationalize the banking system and several industries, including steel.",
+        "• By the 1980s, Mexico’s prolonged protection of domestic industries under the ISI model resulted in an uncompetitive industrial sector with low productivity gains.",
+        "• President Miguel de la Madrid (1982–1988) initiated neoliberal economic reforms following the 1982 crisis, including currency devaluations to maintain current account balance, which triggered unprecedented inflation, peaking at 139.7% in 1987.",
+        "• Mexico signed the General Agreement on Tariffs and Trade (GATT) in 1986 under de la Madrid, marking the beginning of trade liberalization policies.",
+        "• During President Carlos Salinas de Gortari’s administration (1988–1994), many state-owned companies were privatized, including the telephone monopoly Telmex (sold to Carlos Slim), while the oil company Pemex and the energy sector remained government monopolies.",
+        "• The banking system, nationalized in 1982, was privatized under Salinas but excluded foreign banks; Salinas also negotiated Mexico’s inclusion in the North American Free Trade Agreement (NAFTA), expanding it from a U.S.-Canada agreement to include Mexico.",
+        "• NAFTA was signed in 1992 with supplementary agreements on environmental and labor standards and came into effect on January 1, 1994.",
+        "• Salinas implemented strict price controls and negotiated smaller minimum wage increases with labor unions led by Fidel Velázquez to curb inflation, successfully reducing inflation but resulting in modest GDP growth averaging 2.8% annually.",
+        "• Fixing the exchange rate under Salinas caused the peso to become overvalued, increasing consumer spending and causing the current account deficit to reach 7% of GDP in 1994, financed through tesobonos—public debt instruments payable in U.S. dollars.",
+        "• The January 1994 Chiapas uprising and the assassinations of ruling party presidential candidate Luis Donaldo Colosio in March 1994 and party Secretary-General José Francisco Ruiz Massieu later that year undermined investor confidence, triggering rapid sell-offs of tesobonos and depletion of Central Bank reserves.",
+        "• Portfolio investments, which accounted for 90% of total investment flows, exited Mexico rapidly, creating an unsustainable economic situation that forced the incoming President Ernesto Zedillo administration (1994–2000) to adopt a floating exchange rate.",
+        "• The peso sharply devalued in December 1994, precipitating an economic crisis mitigated by a boom in exports and an international rescue package orchestrated by U.S. President Bill Clinton, allowing the economy to resume growth within 18 months.",
+        "• Annual GDP growth averaged 5.1% between 1995 and 2000, although some critics argue the crisis and bailout reinforced unequal social and economic power structures characteristic of finance-led neoliberal capitalism, with growth driven by one-time privatizations.",
+        "• Per capita economic growth in Mexico during the 2000s was low despite overall GDP growth.",
+        "• President Vicente Fox (2000–2006), from the National Action Party (PAN)—the first opposition party candidate to win the presidency since 1929—continued trade liberalization policies initiated by Zedillo.",
+        "• During Fox’s administration, Mexico signed several free trade agreements (FTAs) with Latin American and European countries, Japan, and Israel, maintaining macroeconomic stability and further opening the economy to international trade.",
+        "• Between 1991 and 2003, total trade between Mexico, the United States, and Canada tripled, while total exports and imports nearly quadrupled, reflecting Mexico’s transformation into one of the most open economies globally.",
+        "• The nature of foreign investment shifted during this period, with a greater share of foreign direct investment (FDI) replacing portfolio investment.",
+        "• The wealth of Mexico’s leading billionaires, such as Carlos Slim (telecoms/Telmex), German Larrea (trains/Ferromex), and Ricardo Salinas (television/TV Azteca), largely originated from the privatizations of state-owned companies in the 1990s, when these assets were sold at low prices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:34:21.527326",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Macroeconomic, financial and welfare indicators",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section on the macroeconomic, financial, and welfare indicators of Mexico includes data on the country's inflation rate spanning from 1970 to 2022, highlighting long-term trends in price stability and economic conditions over more than five decades.",
+        "• It provides detailed information on Mexican government bonds categorized by maturity periods, specifically focusing on 30-year, 10-year, 1-year, and 3-month bonds, which reflect the country's debt instruments and their respective yields or interest rates.",
+        "• The inclusion of various bond maturities—30-year, 10-year, 1-year, and 3-month—illustrates the spectrum of Mexico’s debt market, indicating short-term, medium-term, and long-term financial instruments available for investment and government financing.",
+        "• The data on inflation and bond yields collectively serve as key indicators of Mexico’s macroeconomic stability, financial market conditions, and overall economic welfare, providing insights into monetary policy effectiveness and investor confidence over time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:34:26.543690",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Main indicators",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico's GDP per capita in purchasing power parity (PPP) was US$16,900 during the period 2012–2015, with a Gross National Income (GNI) per capita PPP of US$16,500 in the same timeframe.",
+        "• As of February 2021, Mexico's inflation rate measured by the Consumer Price Index (CPI) was 3.7%, while the unemployment rate stood at 4.5% in January 2021.",
+        "• The Gini index, indicating income inequality, was recorded at 43.4 by the World Bank in 2016, and the Human Development Index (HDI) was 0.779 in 2020.",
+        "• Mexico's labor force numbered approximately 78.4 million in 2011, with 13.8% of the population living in poverty.",
+        "• In 2014, Mexico's GDP in PPP was estimated at US$2,143.499 billion, and US$1,261.642 billion in nominal terms, positioning Mexico as the leader of the MINT group of emerging economies.",
+        "• The World Bank reported in 2009 that Mexico had the second highest Gross National Income in Latin America at US$1,830.392 billion, after Brazil, with the highest income per capita in the region at US$14,400, classifying Mexico as an upper middle-income country.",
+        "• After a slowdown in 2001, Mexico's economy grew by 4.2%, 3.0%, and 4.8% in 2004, 2005, and 2006 respectively, though these rates were considered below the country's potential growth.",
+        "• The Mexican peso (ISO 4217: MXN; symbol: $) is subdivided into 100 centavos; it replaced the old peso (MXP) in 1993 at a rate of 1000 MXP per 1 MXN.",
+        "• Between 1998 and 2006, the peso's exchange rate against the US dollar remained stable, fluctuating between 10.20 and 13.50 MXN per US$.",
+        "• Under President Enrique Peña Nieto, the peso depreciated by 19.87% in one year, reaching an exchange rate of 20.37 MXN per US$ in 2017.",
+        "• Interest rates in Mexico were around 7% in 2007, having reached a historic low below 5% in 2002; inflation rates were also low, with 4.1% in 2006 and 3% by the end of 2007.",
+        "• Since 1910, the Mexican peso has devalued by over 7,500% against the US dollar (citation needed).",
+        "• Mexico’s unemployment rate is the lowest among OECD member countries at 3.2%, though underemployment is estimated at 25%.",
+        "• The Human Development Index (HDI) in 2008 was 0.829, composed of a life expectancy index of 0.84, an education index of 0.86, and a GDP index of 0.77, ranking Mexico 52nd globally in the high-development category.",
+        "• From 1980 to 2023, Mexico's GDP in PPP grew from US$404.3 billion to an estimated US$3,277.6 billion, with GDP per capita in PPP rising from US$5,984.8 to US$24,976.0.",
+        "• Nominal GDP increased from US$228.6 billion in 1980 to US$1,811.5 billion in 2023, and nominal GDP per capita rose from US$3,383.7 to US$13,803.7 in the same period.",
+        "• Real GDP growth fluctuated significantly, with peaks such as 9.5% in 1980 and lows including -8.1% in 2020 due to economic contractions.",
+        "• Inflation rates were extremely high in the 1980s, reaching 132.0% in 1987, but have generally decreased to below 5% since the early 2000s, with some exceptions such as 8.0% in 2022.",
+        "• Unemployment rates have varied from a low of 0.9% in 1981 to a high of 6.2% in 1995, stabilizing around 3% in recent years.",
+        "• Government debt as a percentage of GDP was not available for the early years but has been recorded since 1996, rising from 44.7% to a peak of 60.1% in 2020, then slightly declining to an estimated 52.7% in 2023.",
+        "• IMF staff estimates project continued growth in Mexico’s GDP and GDP per capita in PPP and nominal terms through 2028, with GDP expected to reach US$3,968.9 billion (PPP) and US$2,356.8 billion (nominal) by 2028.",
+        "• Projected real GDP growth rates from 2024 to 2028 range between 1.5% and 2.1%, with inflation rates forecasted to remain around 3.0% to 3.8%, and unemployment rates between 3.0% and 3.7%.",
+        "• Government debt is projected to gradually increase from 54.8% of GDP in 2024 to 56.3% in 2028."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:34:44.362568",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Poverty",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Poverty in Mexico is measured using multiple parameters including nutrition, access to clean water, shelter, education, health care, social security, quality and basic household services, income, and social cohesion, as defined by the country's social development laws.",
+        "• The measurement of poverty in Mexico is categorized into two distinct groups: Moderate poverty and Extreme poverty.",
+        "• According to World Bank data from 1998 to 2018, less than 2% of Mexico’s population lives below the international poverty line set at $5.50 a day (2011 PPP).",
+        "• As of 2013, the Mexican government estimates that 33% of the population lives in moderate poverty, while 9% lives in extreme poverty, resulting in a total of 42% of the population living below the national poverty line.",
+        "• The discrepancy between the low international poverty rate and higher national poverty rate is attributed to Mexico’s adoption of a multidimensional poverty measurement method, which considers social rights deficiencies alongside income.",
+        "• Under the multidimensional poverty method, individuals with income above the international poverty line may still be classified as moderately poor if they experience one or more social rights deficiencies such as incomplete education, malnutrition or obesity, or inadequate living standards including lack of water, electricity, or household assets like refrigerators.",
+        "• Extreme poverty, as defined by the Mexican government, applies to individuals who suffer from both social rights deficiencies and have an income below the \"well-being income line\" established by the government.",
+        "• Additional estimates from SEDESOL, Mexico’s social development agency, report that 6% of the population (approximately 7.4 million people) live in extreme poverty and experience food insecurity.",
+        "• Mexico underwent significant economic policy changes including privatization of several sectors and reduction of government interference, which helped maintain its status as the largest economy in Latin America until 2005, after which it became the second-largest economy in the region.",
+        "• Mexico is recognized as a member of the \"trillion dollar club,\" reflecting its large economic size despite ongoing social challenges.",
+        "• Despite economic reforms, Mexico continues to face significant social inequality and limited opportunities for many citizens.",
+        "• The administration of President Enrique Peña Nieto implemented initiatives aimed at reducing poverty by increasing access to jobs, education, and establishing universal healthcare to improve social welfare."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:35:06.276908",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.2.1",
+      "section_name": "Income inequality",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, the GDP per capita of Mexican states was measured in USD, highlighting regional economic disparities within the country.",
+        "• Carlos Slim, a single individual in Mexico, possessed a net worth equivalent to six percent of the entire national GDP, illustrating significant wealth concentration.",
+        "• Ten percent of the Mexican population accounts for 25% of the country's GDP, indicating a substantial concentration of economic resources among a small segment of the population.",
+        "• An even smaller group, comprising 3.5% of Mexicans, controls 12.5% of the national GDP, further emphasizing income inequality.",
+        "• The Organisation for Economic Co-operation and Development (OECD) identifies Mexico as having the second highest degree of economic disparity between the extremely poor and extremely rich, ranking just after Chile.",
+        "• Despite this high level of inequality, the economic gap in Mexico has been diminishing over the past decade, according to OECD reports.",
+        "• The bottom ten percent of Mexico's income distribution controls only 1.36% of the country's resources, whereas the top ten percent controls nearly 36%, demonstrating a stark imbalance in resource allocation.",
+        "• OECD data reveals that Mexico's government budget for poverty alleviation and social development is approximately one-third of the OECD average, both in absolute terms and relative to the size of the economy.",
+        "• According to the World Bank in 2004, 17.6% of Mexico's population lived in extreme poverty, while an additional 21% lived in moderate poverty, underscoring the widespread nature of poverty in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:35:14.475398",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Remittances",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Mexico was the fourth-largest recipient of remittances globally, receiving $28.5 billion from Mexicans living abroad, predominantly in the United States, sent to their families in Mexico.",
+        "• By 2015, remittances had surpassed oil revenues to become the largest single foreign source of income for Mexico, exceeding all other economic sectors.",
+        "• The volume of remittances to Mexico has more than doubled since 1997, indicating significant growth in financial transfers from migrants over two decades.",
+        "• In 2003, recorded remittance transactions to Mexico exceeded 41 million, with 86 percent of these transactions conducted via electronic transfer methods.",
+        "• The Mexican government responded to the needs of migrant workers by issuing an upgraded version of the _Matrícula Consular de Alta Seguridad_ (MACS), a high-security consular identification card distributed at Mexican consulates abroad.",
+        "• The MACS card is recognized as a valid form of identification in 32 U.S. states, as well as by thousands of police agencies, hundreds of cities and counties, and numerous banking institutions, facilitating migrants’ access to services.",
+        "• In 2014, the Mexican states of Michoacán, Guanajuato, Jalisco, the State of Mexico, and Puebla collectively received 45% of the total remittances sent to Mexico, marking them as the primary beneficiaries of migrant financial inflows.",
+        "• Several state governments, supported by the federal government, have implemented the _Dos por Uno_ (Two for One) program, which allocates remittance funds to public infrastructure projects in migrants’ home communities.",
+        "• The _Dos por Uno_ program operates on the principle that for every peso contributed by migrants from their remittances, the state and federal governments will invest two pesos in building local infrastructure, thereby tripling the impact of remittance contributions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:35:23.172958",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Regional economies",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Regional disparities and income inequality are prominent features of the Mexican economy, with all constituent states having a Human Development Index (HDI) above 0.70, indicating medium to high development levels.",
+        "• Northern and central Mexican states exhibit higher HDI levels compared to southern states, reflecting regional economic imbalances.",
+        "• The states of Nuevo León, Jalisco, and the Federal District possess HDI levels comparable to those of European countries, demonstrating relatively advanced development.",
+        "• In contrast, the southern states of Oaxaca and Chiapas have HDI levels similar to those of developing countries such as China or Vietnam.",
+        "• At the municipal level, economic disparities intensify; for example, Benito Juárez borough in Mexico City has an HDI comparable to Germany or New Zealand, whereas Metlatónoc in Guerrero has an HDI equivalent to Malawi.",
+        "• Most northern federal entities have high development with HDI values exceeding 0.80, as do the states of Colima, Jalisco, Aguascalientes, the Federal District, Querétaro, and the southeastern states of Quintana Roo and Campeche.",
+        "• The less developed states, with medium HDI values above 0.70, are primarily located along the southern Pacific coast.",
+        "• In 2004, the largest contributors to Mexico’s agricultural GDP were Jalisco (9.7%), Sinaloa (7.7%), and Veracruz (7.6%).",
+        "• The leading contributors to industrial production in 2004 were the Federal District (15.8%), the State of México (11.8%), and Nuevo León (7.9%).",
+        "• The service sector’s greatest contributors in 2004 were the Federal District (25.3%), the State of México (8.9%), and Nuevo León (7.5%).",
+        "• Since the 1980s, Mexico’s economy has gradually become less centralized, with the Federal District experiencing the smallest annual GDP growth rate among federal entities from 2003 to 2004, at 0.2%, due to significant declines in agriculture and industrial sectors.",
+        "• Despite slow growth, the Federal District still accounted for 21.8% of the nation’s GDP during this period.",
+        "• The states with the highest GDP growth rates from 2003 to 2004 were Quintana Roo (9.0%), Baja California (8.9%), and San Luis Potosí (8.2%).",
+        "• In 2000, the federal entities with the highest GDP per capita were the Federal District (US$26,320), Campeche (US$18,900), and Nuevo León (US$30,250).",
+        "• Conversely, the states with the lowest GDP per capita in 2000 were Chiapas (US$3,302), Oaxaca (US$4,100), and Guerrero (US$6,800)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:35:32.456746",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Companies",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Of the world's 2000 largest companies ranked in the Forbes Global 2000, 13 are headquartered in Mexico, with three of these also included among the 500 largest companies as measured by the Fortune Global 500.",
+        "• América Móvil, headquartered in Mexico City, is the highest-ranked Mexican company on the Forbes Global 2000 list in 2023, positioned at rank 177 globally, with reported revenues of 43.57 billion US dollars, operating in the telecommunications industry.",
+        "• Fomento Económico Mexicano, based in Monterrey, ranks 312th globally on the Forbes Global 2000 list for 2023, generating revenues of 35.86 billion US dollars, and operates within the beverages industry.",
+        "• Banorte, a financial services company headquartered in Monterrey, holds the 375th position on the Forbes Global 2000 list in 2023, with revenues amounting to 16.82 billion US dollars.",
+        "• Grupo México, located in Mexico City, is ranked 496th globally on the Forbes Global 2000 list in 2023, with revenues of 13.93 billion US dollars, and is active in the mining sector.",
+        "• Grupo Bimbo, a food processing company headquartered in Mexico City, is ranked 610th on the Forbes Global 2000 list in 2023, reporting revenues of 20.74 billion US dollars.",
+        "• Inbursa, a financial services firm based in Mexico City, is positioned at rank 1048 on the Forbes Global 2000 list in 2023, with revenues of 4 billion US dollars.",
+        "• Cemex, a building materials company headquartered in Monterrey, ranks 1071st globally on the Forbes Global 2000 list in 2023, with revenues totaling 15.93 billion US dollars.",
+        "• Arca Continental, operating in the beverages industry and headquartered in Monterrey, is ranked 1130th on the Forbes Global 2000 list in 2023, with revenues of 10.8 billion US dollars.",
+        "• Grupo Carso, a conglomerate based in Mexico City, holds the 1188th position on the Forbes Global 2000 list in 2023, with revenues of 10.18 billion US dollars.",
+        "• ALFA, a conglomerate headquartered in Monterrey, is ranked 1384th on the Forbes Global 2000 list in 2023, generating revenues of 18.27 billion US dollars.",
+        "• El Puerto de Liverpool, a retail company based in Mexico City, is positioned at rank 1558 on the Forbes Global 2000 list in 2023, with revenues of 8.75 billion US dollars.",
+        "• Grupo Elektra, a financial services company headquartered in Mexico City, ranks 1606th on the Forbes Global 2000 list in 2023, with revenues of 8.19 billion US dollars.",
+        "• Fibra Uno, a real estate company based in Mexico City, is the lowest-ranked Mexican company on the Forbes Global 2000 list in 2023 at position 1743, with revenues of 1.17 billion US dollars."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:35:46.929504",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3",
+      "section_name": "Economic sectors",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2024, Mexico's Gross Domestic Product (GDP) measured by purchasing power parity (PPP) was estimated at US$3.43 trillion, reflecting the overall economic output adjusted for cost of living and inflation differences.",
+        "• The GDP per capita in PPP for Mexico in 2024 was estimated at US$25,963, indicating the average economic output per person when adjusted for purchasing power.",
+        "• The service sector constitutes the largest share of Mexico's GDP, accounting for 70.5% of the total economic output as of 2006 estimates, highlighting the dominance of services in the economy.",
+        "• The industrial sector represents 25.7% of Mexico's GDP based on 2006 estimates, making it the second-largest contributor to the national economy after services.",
+        "• Agriculture contributes a relatively small portion to Mexico's GDP, representing only 3.9% according to 2006 estimates, underscoring its limited role in the overall economic structure.",
+        "• The Mexican labor force was estimated at 38 million people in 2003, providing a snapshot of the working population size at that time.",
+        "• Of the total labor force in 2003, 18% were employed in agriculture, indicating a significant but minority portion of workers engaged in farming and related activities.",
+        "• Approximately 24% of Mexico's labor force in 2003 was employed in the industrial sector, reflecting the workforce distribution in manufacturing, construction, and related industries.",
+        "• The service sector employed 58% of Mexico's labor force in 2003, demonstrating its role as the primary employer across the country.",
+        "• Remittances, or money sent home by Mexicans working abroad, constitute Mexico's largest source of foreign income, emphasizing the economic importance of migrant workers' financial contributions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:35:55.325427",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture's contribution to Mexico's total GDP has been steadily declining over the decades, reflecting a trend similar to that of developed nations where agriculture plays a smaller economic role.",
+        "• In 2006, agriculture accounted for 3.9% of Mexico's GDP, a significant decrease from 7% in 1990 and a much larger 25% in 1970.",
+        "• Despite its reduced share of GDP, agriculture employs a relatively high percentage of Mexico’s workforce due to the historic structure of ejidos, communal land holdings used for farming.",
+        "• In 2003, 18% of Mexico’s workforce was employed in agriculture, predominantly engaged in growing basic crops for subsistence purposes.",
+        "• This employment figure contrasts sharply with developed nations, where only 2–5% of the workforce is employed in agriculture, a sector characterized by high mechanization and productivity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:36:00.241484",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.1.1",
+      "section_name": "History",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico ranks first globally in the production of avocados (1,040,390 metric tons), onions and chayote (1,130,660 metric tons), limes and lemons (1,824,890 metric tons), and sunflower seed (212,765 metric tons), according to FAO data.",
+        "• The country holds the second world rank in the production of dry fruits (95,150 metric tons), papaya (955,694 metric tons), and chillies and peppers (1,853,610 metric tons).",
+        "• Mexico is ranked third worldwide in the production of whole beans (93,000 metric tons), oranges (3,969,810 metric tons), anise, badian, fennel (32,500 metric tons), and chicken meat (2,245,000 metric tons).",
+        "• The fourth global rank is held by Mexico for the production of asparagus (67,247 metric tons), mangoes (1,503,010 metric tons), and corn (20,000,000 metric tons).",
+        "• Following the Mexican Revolution, an agrarian reform was initiated based on Article 27 of the Mexican Constitution, which included land transfer and free land distribution to peasants and small farmers under the ejido system.",
+        "• This agrarian reform was expanded during President Lázaro Cárdenas' administration in the 1930s and continued at varying rates into the 1960s.",
+        "• The cooperative agrarian reform guaranteed small farmers a subsistence livelihood but resulted in land fragmentation and limited capital investment because communal land could not be used as collateral.",
+        "• To improve rural productivity and living standards, Article 27 was amended in 1992 to allow transfer of property rights of communal lands to the farmers cultivating them, enabling renting or selling of land.",
+        "• This amendment facilitated the creation of larger farms and allowed for economies of scale, with large mechanized farms now operating primarily in northwestern states such as Sinaloa.",
+        "• Despite this, privatization of ejidos remains slow in central and southern states, where most peasants produce mainly for subsistence.",
+        "• Until the 1980s, the Mexican government supported basic crop production (mainly corn and beans) by maintaining support prices and controlling imports through the National Company for Popular Subsistence (CONASUPO).",
+        "• With trade liberalization, CONASUPO was gradually dismantled, and two new support mechanisms were introduced: Alianza and Procampo.",
+        "• The Alianza program provides income payments and incentives for mechanization and advanced irrigation systems to farmers.",
+        "• Procampo is an income transfer subsidy targeting farmers producing basic commodities, mostly corn, offering fixed payments per unit of cropland area.",
+        "• Procampo supports approximately 3.5 million farmers, representing 64% of all farmers in Mexico.",
+        "• During President Vicente Fox's administration, Procampo subsidies increased substantially, primarily benefiting white corn producers to reduce imports from the United States.",
+        "• The Procampo program has been successful in reducing white corn imports, which are used for human consumption and mostly grown in Mexico; by 2004, only about 15% of corn imports were white corn.",
+        "• Conversely, 85% of corn imports consisted of yellow and crushed corn, which is primarily used for livestock feed and is scarcely produced domestically in Mexico."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:36:14.375968",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.1.2",
+      "section_name": "Crops",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Despite corn being a staple in the Mexican diet, Mexico's comparative advantage in agriculture lies not in corn production but in horticulture, tropical fruits, and vegetables.",
+        "• Negotiators of the North American Free Trade Agreement (NAFTA) anticipated that liberalization and mechanization of agriculture would lead two-thirds of Mexican corn producers to transition from corn cultivation to horticultural and other labor-intensive crops such as fruits, nuts, vegetables, coffee, and sugar cane.",
+        "• Although horticultural trade has significantly increased as a result of NAFTA, it has not successfully absorbed the approximately 600,000 workers displaced from corn production.",
+        "• Corn production in Mexico has remained stable at 20 million metric tons despite expectations of decline, which may be attributed to income support programs for farmers or cultural reluctance to abandon the millennia-old tradition of corn cultivation.",
+        "• Corn holds deep cultural significance in Mexico, being a crop cultivated by peasants for thousands of years and originating in the country itself.",
+        "• Mexico ranks as the seventh largest corn producer globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:36:19.800790",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3.1.2.1",
+      "section_name": "Potatoes",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The area dedicated to potato cultivation in Mexico has remained relatively stable since 1980, showing little change over this period.",
+        "• Average potato yields in Mexico have nearly tripled since 1961, indicating significant improvements in productivity.",
+        "• Potato production in Mexico reached a record high of 1.7 million tonnes in the year 2003.",
+        "• The per capita consumption of potatoes in Mexico is approximately 17 kilograms annually, which is considerably low when compared to the per capita maize consumption of 400 kilograms.",
+        "• On average, potato farms in Mexico tend to be larger in size than farms dedicated to more basic staple food crops.",
+        "• The majority of potato production in Mexico is oriented towards commercial markets, with only a very small proportion produced for household consumption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:36:24.203809",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "3.1.2.2",
+      "section_name": "Avocado",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2020, Mexico is the world's leading producer of avocados, supplying nearly 30% of the global avocado harvest in that year.",
+        "• Mexico holds the position as the largest avocado growing country worldwide, producing several times more avocados than the second largest producer.",
+        "• In 2013, the total area dedicated to avocado production in Mexico was 188,723 hectares (466,340 acres).",
+        "• By 2017, Mexico’s avocado harvest reached 2.03 million tonnes.",
+        "• The Mexican state of Michoacán is the predominant avocado producer, accounting for nearly 75% of all avocados produced in Mexico."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:36:28.399494",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "3.1.2.3",
+      "section_name": "Sugar cane",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Approximately 160,000 medium-sized farmers cultivate sugar cane across 15 Mexican states, contributing significantly to the national sugar industry.",
+        "• As of the 2010 crop, there were 54 operational sugar mills in Mexico, which collectively produced 4.96 million tons of sugar.",
+        "• The sugar production in 2010 (4.96 million tons) showed a decline compared to the 5.8 million tons produced in 2001.",
+        "• Mexico's sugar industry is marked by high production costs and a notable lack of investment, impacting its overall efficiency and growth potential.",
+        "• The country produces more sugar than it consumes domestically, indicating a surplus in sugar production.",
+        "• Sugar cane cultivation in Mexico spans approximately 700,000 farms, with an average yield of 72 metric tons per farm, reflecting the scale and productivity of the sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:36:31.096227",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico is recognized as the world's leading producer of silver, underscoring its significant role in the global precious metals market.",
+        "• The former Acosta mine, located in Hidalgo, Mexico, has been converted into a museum, reflecting the historical importance of mining in the region.",
+        "• In 2019, Mexico ranked as the world's largest producer of silver, demonstrating its dominance in silver extraction.",
+        "• That same year, Mexico was the 9th largest global producer of gold, indicating its substantial contribution to gold mining.",
+        "• Mexico held the position of the 8th largest producer of copper worldwide in 2019, highlighting its role in base metal production.",
+        "• The country was the 5th largest producer of lead globally in 2019, emphasizing its importance in lead mining.",
+        "• Mexico ranked as the 6th largest producer of zinc in the world in 2019, further showcasing its diverse mineral output.",
+        "• In 2019, Mexico was the 5th largest producer of molybdenum worldwide, a metal critical for steel alloys.",
+        "• The nation was the 3rd largest global producer of mercury in 2019, indicating a significant output of this metal.",
+        "• Mexico was the 5th largest producer of bismuth globally in 2019, contributing notably to this less common metal market.",
+        "• In 2019, Mexico ranked as the 13th largest producer of manganese worldwide, a key element in steel production.",
+        "• The country was the 23rd largest producer of phosphate globally in 2019, important for agricultural fertilizers.",
+        "• Mexico also stood as the 8th largest world producer of salt in 2019, reflecting its mineral diversity beyond metals.",
+        "• In April 2022, the Mexican Senate passed legislation nationalizing the lithium mining industry, marking a significant policy shift.",
+        "• The new law mandates that the federal government will monopolize all new lithium mining operations in Mexico.",
+        "• Existing lithium mining operations prior to the law's enactment are permitted to continue under private ownership.",
+        "• Critics argue that the Mexican constitution already establishes government control over mineral resources, rendering the new law redundant.",
+        "• Opponents also contend that the government currently lacks the technical expertise required to effectively mine lithium, especially given that major lithium reserves are primarily found in challenging clay deposits.",
+        "• The Mexican government previously attempted to nationalize uranium mining in the 1980s, but that effort was unsuccessful, providing historical context to the lithium nationalization attempt."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:36:41.511006",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The industrial sector in Mexico encompasses key industries including aircraft manufacturing, automobile production, petrochemicals, cement and construction, textiles, food and beverages, mining, consumer durables, and tourism.",
+        "• In 2006, Mexico's industrial sector experienced a growth rate of 3.6%, employed 29% of the total labor force, and contributed 25.7% to the country's total GDP.",
+        "• Trade liberalization has significantly benefited Mexico's industrial sector, which accounted for nearly 50% of all export earnings in the year 2000.",
+        "• The automotive industry is one of Mexico's most important industrial manufacturers, recognized internationally for its quality standards and technological complexity, producing components and engaging in research and development, exemplified by the Volkswagen Jetta model with up to 70% of parts designed in Mexico.",
+        "• The \"Big Three\" American automakers—General Motors, Ford, and Chrysler—have operated in Mexico since the 1930s, while Volkswagen and Nissan established plants in the 1960s; subsequently, Toyota, Honda, BMW, and Mercedes-Benz also entered the Mexican market.",
+        "• Due to the high demand for North American automotive components, numerous European and Asian parts suppliers have relocated to Mexico; for instance, in Puebla, approximately 70 industrial part-makers cluster around the Volkswagen plant.",
+        "• Mexico's relatively small domestic car industry includes companies such as DINA Camiones, the world's largest bus manufacturer through domestic production and foreign acquisitions; Vehizero, which builds hybrid trucks; Mastretta Design, producer of the Mastretta MXT sports car; and Autobuses King, which planned to build 10,000 microbuses by 2015.",
+        "• Emerging new car companies include CIMEX, which developed the sport utility truck Conin scheduled for release in September 2010 at Mexico's national auto show, and Grupo Electrico Motorizado, a new electric car manufacturer.",
+        "• Major Mexican industrial corporations include Cemex, the world's largest construction company and third largest cement producer; Grupo Modelo, a globally recognized alcohol beverage producer; FEMSA, the largest single producer of alcoholic beverages and owner of the OXXO convenience store chain as well as the second-largest Coca-Cola bottler worldwide; Gruma, the largest producer of corn flour and tortillas globally; and Grupo Bimbo, Telmex, and Televisa.",
+        "• According to the World Bank in 2005, high-tech industrial production constituted 19.6% of Mexico's total exports.",
+        "• The original Cuauhtémoc Moctezuma Brewery, founded in Monterrey in 1889, continues to operate as a brewery and houses two museums.",
+        "• Maquiladoras—manufacturing plants that import raw materials to produce goods for domestic consumption and export on behalf of foreign companies—have become emblematic of Mexico's trade, benefiting from NAFTA with a 15.5% increase in real income since 1994, although non-maquiladora industries have grown at a faster pace.",
+        "• Maquiladora products have enjoyed duty-free entry into the United States since a 1960s industry agreement, and the share of exports from non-border states has increased over the past five years, while exports from maquiladora-border states have decreased.",
+        "• Mexico is actively developing its aerospace industry, with assembly of helicopter and regional jet aircraft fuselages conducted by foreign firms such as MD Helicopters, Bell, Cessna, and Bombardier.",
+        "• Mexican aerospace firms include Aeromarmi, which builds light propeller airplanes; Hydra Technologies, creator of Unmanned Aerial Vehicles like the S4 Ehécatl; Frisa Aerospace, manufacturer of jet engine parts for the Mitsubishi Regional Jet and supplier to Pratt & Whitney and Rolls-Royce; and Kuo Aerospace, which produces aircraft landing gear parts and supplies Bombardier’s plant in Querétaro.",
+        "• Compared to the United States and Western Europe, Mexico's industrial economy has a larger food manufacturing sector, featuring several world-class companies alongside numerous local small-scale producers, but the regional food manufacturing industry remains underdeveloped."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:36:59.225597",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Electronics",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico's electronics industry has experienced significant growth over the past decade, establishing itself as a major global player.",
+        "• As of the data provided, Mexico holds the position of the sixth largest electronics industry worldwide, ranking after China, the United States, Japan, South Korea, and Taiwan.",
+        "• Mexico is the second largest exporter of electronics to the United States, highlighting its critical role in the North American electronics supply chain.",
+        "• In 2011, Mexico exported electronics valued at $71.4 billion, underscoring the sector's substantial contribution to the national economy.",
+        "• The Mexican electronics industry primarily focuses on the manufacture and original equipment manufacturer (OEM) design of a diverse range of products, including televisions, displays, computers, mobile phones, circuit boards, semiconductors, electronic appliances, communications equipment, and LCD modules.",
+        "• Between 2010 and 2011, the electronics industry in Mexico grew by 20%, an acceleration from the steady growth rate of 17% observed between 2003 and 2009.",
+        "• Electronics constitute 30% of Mexico's total exports, reflecting the sector's significant weight within the country's export economy.",
+        "• The Mexican company Meebox is noted for producing tablet PCs and touch screen computer/television devices, exemplifying domestic innovation within the electronics sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:04.549570",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "4.1.1",
+      "section_name": "Televisions",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The design and manufacture of flat panel plasma, LCD, and LED televisions constitute the single largest sector within the Mexican electronics industry.",
+        "• This sector accounts for 25% of Mexico's total electronics export revenue, highlighting its significant economic contribution.",
+        "• In 2009, Mexico surpassed both South Korea and China to become the largest manufacturer of televisions globally.",
+        "• Major international and domestic companies manufacturing televisions in Mexico include Sony, Toshiba, Samsung, Sharp (operating through Semex), Zenith, LG, Lanix, TCL, RCA, Phillips, Elcoteq, Tatung, Panasonic, and Vizio.",
+        "• These companies produce a range of television types in Mexico, including CRT, LCD, LED, and Plasma televisions.",
+        "• Mexico's leading role in television manufacturing has earned it the designation as the \"television capital of the world\" within the electronics industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:08.647514",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "4.1.2",
+      "section_name": "Computers",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico ranks as the third largest manufacturer of computers globally, reflecting its significant role in the international computer production industry.",
+        "• The country hosts a mix of domestic and foreign companies involved in computer manufacturing, including domestic firms such as Lanix, Texa, Meebox, Spaceit, and Kyoto.",
+        "• Prominent foreign companies manufacturing computers in Mexico include Dell, Sony, HP, Acer Compaq, Samsung, and Lenovo, indicating Mexico's attractiveness to multinational corporations.",
+        "• The majority of computers produced in Mexico are manufactured by foreign companies, highlighting the dominance of international firms in the Mexican computer manufacturing sector.",
+        "• Mexico holds the position as Latin America’s largest producer of electronics and appliances, a status achieved primarily through the efforts of domestic companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:11.207033",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "4.1.3",
+      "section_name": "OEM and ODM manufacturing",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico hosts numerous OEM (Original Equipment Manufacturer) and ODM (Original Design Manufacturer) companies, encompassing both foreign and domestic enterprises.",
+        "• Key OEM and ODM manufacturers operating in Mexico include Foxconn, Celestica, Sanmina-SCI, Jabil, Elcoteq, Falco, Kimball International, Compal, Benchmark Electronics, Plexus, Lanix, and Flextronics.",
+        "• These companies are engaged in assembling finished electronic products or designing and manufacturing electronic components on behalf of major multinational corporations such as Sony and Microsoft.",
+        "• The manufacturing processes often utilize locally sourced components, demonstrating integration with domestic suppliers within Mexico’s electronics industry.",
+        "• An example of this local supply chain integration is Flextronics, an ODM company that manufactures Xbox video game systems in Guadalajara, Mexico, for Microsoft.",
+        "• Flextronics uses components such as power systems and printed circuit boards supplied by Falco Electronics, a local company functioning as the OEM in this production arrangement.",
+        "• The Lanix LT10.1 high definition LCD is an example of a product assembled under an OEM contract by Lanix for use in Sharp LCD televisions, illustrating Mexico’s role in high-definition electronics assembly."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:18.886269",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "4.1.4",
+      "section_name": "Engineering and design",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The rapid growth and success of Mexico’s electronics sector are primarily driven by the country’s relatively low manufacturing and design costs, strategic position as a major consumer electronics market, and proximity to large North and South American markets with which Mexico has free trade agreements.",
+        "• Government support plays a crucial role in the sector’s expansion, offering low business taxes, simplified access to loans and capital for both foreign multinational corporations and domestic startup tech firms.",
+        "• Mexico benefits from a very large pool of highly skilled and educated labor across all sectors of the technology industry, contributing significantly to the electronics sector’s development.",
+        "• German multinational engineering and electronics conglomerate Siemens maintains a significant operational base in Mexico, which also functions as its business and strategy hub for Central American countries and the Caribbean region.",
+        "• The Monterrey Institute of Technology and Higher Education is recognized as one of Mexico’s most prestigious technology and engineering universities and is ranked among the leading engineering institutions in Latin America.",
+        "• Approximately 451,000 students are enrolled in electronics engineering programs in Mexico, with an additional 114,000 electronics engineers entering the Mexican workforce annually.",
+        "• In 2007, Mexico employed over 580,000 certified electronic engineering professionals, reflecting the sector’s substantial human capital.",
+        "• Since the late 1990s, the Mexican electronics industry has transitioned from simple line assembly to more advanced activities including research, design, and manufacturing of sophisticated electronics systems such as LCD panels, semiconductors, printed circuit boards, microelectronics, microprocessors, chipsets, and heavy electronic industrial equipment.",
+        "• By 2006, the annual number of certified engineers graduating in Mexico surpassed that of the United States, indicating a significant growth in technical education and workforce capacity.",
+        "• Many Korean, Japanese, and American consumer appliances sold in the United States are actually designed and originated in Mexico but marketed under the original equipment manufacturers’ (OEM) client brand names.",
+        "• In 2008, one out of every four consumer appliances sold in the United States was of Mexican design, underscoring Mexico’s important role in the North American electronics supply chain."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:26.871455",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "4.1.5",
+      "section_name": "Joint production",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Many foreign companies such as Phillips, Vizio, and LG establish wholly owned factories in Mexico, while others create semi-independent joint venture companies with Mexican businesses to manufacture and design components locally.",
+        "• These joint venture companies operate independently from their foreign parent companies, are registered under Mexican law, and retain a significant portion of their revenue within Mexico.",
+        "• Typically, these joint ventures serve dual roles as in-company OEM development and design facilities as well as manufacturing centers, producing most components required for the finished products.",
+        "• Sharp exemplifies this model through its joint venture Semex, which was founded as a partnership between Sharp and Mexican investors, functioning as an autonomous independent company with Sharp maintaining only partial control.",
+        "• Semex manufactures complete products such as televisions and designs individual components like LCD modules on behalf of Sharp, while gaining access to Sharp’s capital, technology, research capacity, and branding.",
+        "• Samsung also established a joint venture named Semex in Mexico, which acts as a local designer and manufacturer of finished televisions, white goods, and electronic components including printed circuit boards, LCD panels, and semiconductors.",
+        "• Toshiba formed Toshiba de México, S.A. de C.V., an administratively autonomous subsidiary that produces electronic parts, televisions, and heavy industrial equipment within Mexico.",
+        "• Some joint venture subsidiaries have expanded into multiple branches, evolving into autonomous conglomerates within their parent companies.",
+        "• Sony began operations in Mexico in 1976 with Mexican investors by founding the joint venture Sony de Mexico, which produces LED panels, LCD modules, automotive electronics, appliances, and printed circuit boards for its Japanese parent company, Sony KG.",
+        "• Sony de Mexico maintains research facilities in Monterrey and Mexico City, designs many Sony products manufactured in Mexico, and has expanded to establish its own finance, music, and entertainment subsidiaries that are Mexican-registered and independent from the Japanese parent corporation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:37.011499",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "4.1.6",
+      "section_name": "Domestic industry",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico's electronics industry, while largely driven by foreign companies, also includes a significant domestic sector with several notable electronics companies.",
+        "• Mabe is a major Mexican appliance manufacturer and original equipment manufacturer (OEM) established in the 1950s, which has expanded its operations into the global market.",
+        "• Meebox is a Mexican company engaged in the design and manufacture of desktop and tablet computers, solar power panels, and electronic components.",
+        "• Texa is a Mexican manufacturer specializing in computers, laptops, and servers.",
+        "• Falco is an international manufacturer of electronic components such as printed circuit boards, power systems, semiconductors, and gate drives, with production facilities located in Mexico, India, and China.",
+        "• Lanix is Mexico's largest electronics company, producing a wide range of products including computers, laptops, smartphones, LED and LCD displays, flash memory, tablets, servers, hard drives, RAM, optical disk drives, and printed circuit boards.",
+        "• Lanix employs over 11,000 people across Mexico and Chile and distributes its products throughout Latin America.",
+        "• Mexico is developing its robotics industry, exemplified by the creation of the Mexone robot, which has been designed with the goal of achieving future commercial applications for advanced robotics technology."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:42.133506",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Oil",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mineral resources in Mexico are constitutionally designated as public property, resulting in government administration of the energy sector with varying levels of private investment.",
+        "• Mexico ranks as the fourteenth-largest oil producer globally, with a production rate of 1,710,303 barrels per day (271,916.4 cubic meters per day).",
+        "• Pemex, the state-owned company responsible for the research, exploration, and sales of oil, is the largest company in Mexico and the second largest in Latin America, following Brazil's Petrobras.",
+        "• Pemex is subject to heavy taxation, with nearly 62 percent of the company's sales revenue collected by the government, making it a significant source of public revenue.",
+        "• Due to insufficient funds for investment in new oil sources and infrastructure upgrades, combined with constitutional protections against private and foreign investment, there are predictions that Pemex may face institutional collapse.",
+        "• Although the oil industry remains important for the Mexican government’s budget, its contribution to the national GDP and export economy has steadily declined since the 1980s.",
+        "• Specifically, oil exports constituted 61.6 percent of Mexico’s total exports in 1980, but this figure dropped sharply to only 7.3 percent by the year 2000."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:48.377934",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, Mexico's installed electricity capacity totaled 58 gigawatts (GW).",
+        "• Of this installed capacity, 75% was derived from thermal sources, 19% from hydroelectric power, 2% from nuclear energy, and 3% from renewable sources other than hydro.",
+        "• The general trend in Mexico's thermal electricity generation showed a decline in the use of petroleum-based fuels.",
+        "• Concurrently, there was growth in the use of natural gas and coal for thermal electricity generation.",
+        "• Mexico is a net importer of natural gas, indicating that increased consumption of natural gas for power generation depends on higher imports.",
+        "• These natural gas imports are likely to come from the United States or through liquefied natural gas (LNG) shipments."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:51.554773",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Manufacturing in Mexico experienced rapid growth in the late 1960s following the termination of the US farm labor agreement known as the bracero program, which resulted in many displaced farm laborers returning to the Northern border region without income sources.",
+        "• In response to this labor displacement, the US and Mexican governments established The Border Industrialization Program, allowing US companies to assemble products in Mexico using raw materials and components imported from the US with reduced import duties.",
+        "• The Border Industrialization Program became widely known as The Maquiladora Program, or simply The Maquila Program, facilitating cross-border manufacturing operations.",
+        "• Initially focused on simple assembly tasks, manufacturing operations in Mexico have progressively evolved into complex production processes, including the manufacture of televisions, automobiles, and various industrial and personal products.",
+        "• Although low-cost commodity manufacturing has largely shifted to China, Mexico continues to attract US manufacturers seeking low-cost production solutions in close proximity for higher-value end products and just-in-time component supply."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:37:55.954285",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "4.4.1",
+      "section_name": "Automobiles",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Mastretta MXT is a lightweight and agile two-seat sports car, distinguished by its sleek design and notable performance capabilities.",
+        "• The automotive sector constitutes 17.6% of Mexico's manufacturing industry, highlighting its significant role in the national economy.",
+        "• Major automobile manufacturers operating in Mexico include General Motors, Chrysler, Ford Motor Company, Nissan, Fiat, Renault, Honda, Toyota, and Volkswagen.",
+        "• These companies collectively produce approximately 2.8 million vehicles annually across 20 manufacturing plants, with the majority located in the state of Puebla.",
+        "• Mexico leads North America in automobile production volume, manufacturing more vehicles than any other country on the continent.",
+        "• The Mexican automotive industry not only produces vehicles but also manufactures technologically complex components and actively engages in research and development activities.",
+        "• The \"Big Three\" American automakers—General Motors, Ford, and Chrysler—have maintained operations in Mexico since the 1930s.",
+        "• Volkswagen and Nissan established their manufacturing plants in Mexico during the 1960s.",
+        "• In Puebla, a significant industrial cluster exists with 70 parts manufacturers supporting Volkswagen’s operations, indicating a concentrated automotive supply chain in the region.",
+        "• The 2010s witnessed a surge in the expansion of Mexico’s automotive sector, marked by substantial investment commitments.",
+        "• In 2014 alone, over $10 billion in investments were pledged within the first few months, reflecting strong confidence in the industry’s growth potential.",
+        "• In August 2014, Kia Motors announced plans to build a $1 billion manufacturing plant in the state of Nuevo León.",
+        "• Concurrently, Mercedes-Benz and Nissan were constructing a $1.4 billion automotive plant near Aguascalientes.",
+        "• BMW was planning a $1 billion assembly plant in San Luis Potosí around the same period.",
+        "• Audi commenced construction of a $1.3 billion factory in 2013 at San José Chiapa, near Puebla, further expanding the region’s automotive manufacturing capacity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:02.509132",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "5",
+      "section_name": "Retailing",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The retail sector in Mexico was valued at MXN 4.027 trillion in 2013, equivalent to approximately US$300 billion based on the 2013 exchange rate.",
+        "• E-commerce within Mexico's retail sector was estimated to be worth US$12 billion in 2015.",
+        "• Walmart is identified as the largest retailer operating in Mexico.",
+        "• The largest Mexico-based retail chains include Soriana super/hypermarkets, FEMSA with its OXXO convenience stores, Coppel department stores, Liverpool department stores, Chedraui super/hypermarkets, and Comercial Mexicana super/hypermarkets.",
+        "• Grupo Sanborns is a significant retail chain in Mexico, having originated in the early 20th century.",
+        "• Urban centers such as Mexico City, Monterrey, and Guadalajara dominate Mexico’s retail infrastructure and consumer spending power.",
+        "• Rural areas and smaller towns in Mexico continue to offer retail opportunities, particularly for stores that cater to local needs and preferences.",
+        "• Seasonal shopping patterns play a crucial role in Mexico’s retail sales, with major holidays like Christmas, Día de los Muertos (Day of the Dead), and Easter driving increased consumer spending on gifts, food, and decorations.",
+        "• International luxury brands have expanded their presence in Mexico by opening flagship stores in prestigious shopping districts such as Polanco in Mexico City and Santa Fe.",
+        "• Upscale shopping malls like Antara Polanco and Centro Santa Fe serve as important locations for international luxury retailers in Mexico.",
+        "• OXXO convenience stores, part of FEMSA, are a prominent retail format widely present across Mexico, including locations like Cancún, Quintana Roo."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:07.937087",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "6",
+      "section_name": "Services",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, the tertiary sector was estimated to account for 59.8% of Mexico's Gross Domestic Product (GDP).",
+        "• In 2011, services employed 61.9% of Mexico's working population, indicating the sector's significant role in employment.",
+        "• The services sector in Mexico encompasses a wide range of activities including transportation, commerce, warehousing, restaurants and hotels, arts and entertainment, health, education, financial and banking services, telecommunications, as well as public administration and defense.",
+        "• Mexico's service sector is notably strong and, in 2001, it surpassed Brazil's service sector to become the largest in Latin America in terms of dollar value."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:11.418706",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism constitutes one of the most significant industries within Mexico's economy, playing a crucial role in national economic activity.",
+        "• It ranks as the fourth largest source of foreign exchange earnings for Mexico, highlighting its importance in generating international revenue.",
+        "• Mexico holds the position of the eighth most visited country globally, attracting over 20 million tourists annually.",
+        "• The beach in Cancún, México, is a notable example of the country's prominent tourist destinations, contributing to its high visitor numbers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:13.773713",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "6.1.1",
+      "section_name": "Banking system",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the International Monetary Fund (IMF), the Mexican banking system is strong, characterized by profitable and well-capitalized private banks.",
+        "• The financial and banking sector in Mexico is increasingly dominated by foreign companies or mergers between foreign and Mexican companies, with Banorte being a notable exception as a major Mexican-owned institution.",
+        "• The acquisition of Banamex, one of Mexico's oldest financial institutions, by Citigroup represented the largest US-Mexico corporate merger, valued at US$12.5 billion.",
+        "• The largest financial institution in Mexico is Bancomer, which is associated with the Spanish banking group BBVA.",
+        "• The development of Mexico’s financial sector institutions has progressed alongside efforts toward financial liberalization and deeper integration into global markets.",
+        "• In recent years, there has been a significant wave of acquisitions by foreign financial institutions, including US-based Citigroup, Spain's BBVA, and the UK's HSBC.",
+        "• The presence of these foreign institutions, combined with improvements in the regulatory framework, has enabled Mexico’s banking system to recover from the 1994–95 peso crisis.",
+        "• Lending activities to both the public and private sectors have been increasing, alongside growth in insurance, leasing, and mortgage sectors.",
+        "• Despite growth, bank credit in Mexico accounts for only 22% of GDP, which is considerably low compared to 70% in Chile.",
+        "• Credit to the agricultural sector has declined by 45.5% over six years (from 2001 to 2007), now constituting approximately 1% of total bank loans.",
+        "• Other significant financial institutions in Mexico include savings and loans organizations, credit unions known as \"cajas populares,\" government development banks, “non-bank banks,” bonded warehouses, bonding companies, and foreign-exchange firms.",
+        "• The wave of acquisitions has resulted in Mexico’s financial sector being predominantly controlled by foreign entities.",
+        "• These foreign-run affiliates compete with independent Mexican financial firms operating as commercial banks, brokerage and securities houses, insurance companies, retirement-fund administrators, mutual funds, and leasing companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:20.343119",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "6.1.2",
+      "section_name": "Securities market",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico has a single securities market, the Mexican Stock Exchange (Bolsa Mexicana de Valores, known as the Bolsa), which has experienced steady growth with its main indices increasing by more than 600% over the last decade.",
+        "• The Mexican Stock Exchange is Latin America's second largest exchange, following Brazil's stock exchange.",
+        "• The total domestic market capitalization of the Bolsa Mexicana de Valores was US$409 billion at the end of 2011 and increased to US$451 billion by the end of February 2012.",
+        "• Since 2014, the Mexican Stock Exchange has been part of the Mercado Integrado Latinoamericano (MILA), a unified securities market of the Pacific Alliance countries.",
+        "• The benchmark stock index on the Bolsa is the Índice de Precios y Cotizaciones (IPC), which is a general equities index.",
+        "• In 2005, the IPC surged by 37.8%, rising from 12,917.88 points to 17,802.71 points, driven by a stronger Mexican economy and lower interest rates.",
+        "• The IPC continued its sharp rise into early 2006, reaching 19,272.63 points by the end of March 2006.",
+        "• The Mexican stock market posted a record low vacancy rate according to the central bank during this period.",
+        "• Local stock market capitalization totaled US$236 billion at the end of 2005, up from US$170 billion at the end of 2004.",
+        "• As of March 2006, there were 135 listed companies on the Mexican Stock Exchange, down from 153 companies a year earlier.",
+        "• Only a small number of the listed companies are foreign-owned; the majority are Mexican companies primarily based in Mexico City or Monterrey, with these two cities accounting for 67% of the total listed companies.",
+        "• The IPC consists of a sample of 35 shares weighted according to their market capitalization.",
+        "• The largest companies included in the IPC are América Telecom (holding company for América Móvil, Latin America's largest mobile company), Telmex (Mexico's largest telephone company), Grupo Bimbo (the world's biggest bakery), and Wal-Mart de México (a subsidiary of the US retail company Wal-Mart).",
+        "• The composition of the IPC is adjusted every six months, with the selection criteria focused on including the most liquid shares based on value, volume, and number of trades.",
+        "• Mexico's stock market performance is closely linked to developments in the United States, with volatility in the New York and Nasdaq stock exchanges, as well as US interest rate changes and economic expectations, influencing Mexican equities.",
+        "• This linkage is due to Mexico's economic dependence on the US and the significant volume of trading in Mexican equities through American Depositary Receipts (ADRs).",
+        "• The recent decline in the value of the US dollar has made non-US markets, including Mexico's, more attractive to investors.",
+        "• Despite recent gains in the market, investors remain cautious about investing in second-tier initial public offerings (IPOs) due to past disappointments when prices fell for many medium-sized companies that conducted IPOs in 1996 and 1997.",
+        "• IPO activity in Mexico remains subdued, with the market for second-tier IPOs being barely visible; only three IPOs were recorded in 2005."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:33.843902",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "6.1.3",
+      "section_name": "Banco de México",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Banco de México serves as Mexico's central bank and operates as an internally autonomous public institution.",
+        "• The governor of Banco de México is appointed by the President of Mexico and must be approved by the legislature, to which the bank is fully accountable.",
+        "• The functions of Banco de México are established in Article 28 of the Mexican Constitution and further detailed in the Monetary Law of the United Mexican States.",
+        "• The primary objective of Banco de México is to maintain stability in the purchasing power of the national currency.",
+        "• Banco de México also fulfills the role of lender of last resort within the Mexican financial system.",
+        "• As of February 27, 2024, the currency exchange rate was 17.08 Mexican Pesos (MXN) per one United States Dollar (US$1).",
+        "• The foreign reserves held by Banco de México amounted to US $214.413 billion in 2023.",
+        "• The Mexican government budget recorded revenues of US $196.5 billion.",
+        "• Public debt in Mexico was 20.7% of the Gross Domestic Product (GDP) as of 2006.",
+        "• External debt for Mexico stood at US $178.3 billion in 2006.",
+        "• The bank funding rate was set at 5.25% as of May 15, 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:37.532950",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "6.1.4",
+      "section_name": "Currency policy",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico operates under a floating exchange rate regime, a system established following reforms initiated after the December 1994 peso crash, which had resulted from an unsustainable adherence to a fixed short band for the peso exchange rate.",
+        "• Under the current floating exchange rate system, Banco de México does not commit to maintaining a specific peso exchange rate level but employs an automatic mechanism to accumulate foreign reserves and utilizes tools designed to smooth out exchange rate volatility.",
+        "• The Exchange Rate Commission, responsible for setting currency policy in Mexico, consists of six members—three representatives each from the Ministry of Finance and Public Credit (Secretaría de Hacienda y Crédito Publico—SHCP) and Banco de México—with the SHCP holding the deciding vote in policy decisions.",
+        "• In August 1996, Banco de México introduced a mechanism to acquire foreign reserves when the peso is strong, deliberately avoiding signaling any target exchange rate range to the market, thereby accumulating high levels of reserves primarily sourced from petroleum revenues.",
+        "• The accumulation of substantial foreign reserves has contributed to improved terms and conditions for Mexico’s debt issuance in foreign markets; however, concerns persist regarding the government’s heavy reliance on oil income as the foundation for building these reserves.",
+        "• According to Banco de México, international reserves reached US$75.8 billion in 2007, reflecting the success of reserve accumulation policies.",
+        "• In May 2003, Banco de México launched a program involving monthly auctions to sell U.S. dollars, aiming to maintain a stable yet moderate level of foreign reserves.",
+        "• Between April 1, 1998, and April 1, 2008, the Mexican peso traded within a range from a low of 8.46 MXN per US$1.00 on April 21, 1998, to a high of 11.69 MXN per US$1.00 on May 11, 2004, representing a peak depreciation of 38.18% over this ten-year period before the peso began to recover.",
+        "• Following the acceleration of the U.S. credit crisis in October 2008, the peso’s exchange rate fluctuated significantly between October 1, 2008, and April 1, 2009, ranging from 10.96 MXN per US$1.00 on October 1, 2008, to a peak depreciation low of 15.42 MXN per US$1.00 on March 9, 2009, marking a 28.92% year-to-date depreciation during this six-month interval before recovery.",
+        "• Comparing the peso’s exchange rate from the 2004 low of 11.69 MXN per US$1.00 to the 2009 low of 15.42 MXN per US$1.00 reveals a depreciation of 31.91%, a period coinciding with the U.S. recession, the Iraq War of 2003-2004, and the 2008 global credit crisis.",
+        "• Some economic experts, including analysts at Goldman Sachs—who originally coined the term BRIC to describe the emerging economies of Brazil, Russia, India, and China—project that Mexico will become the world’s 5th or 6th largest economy by 2050, ranking behind China, the United States, India, Brazil, and possibly Russia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:51.458287",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "6.1.5",
+      "section_name": "Monetary system",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the 1994–95 financial crisis, Mexico revised its monetary policy, prioritizing the maintenance of general price stability as the optimal strategy to support sustained employment growth and overall economic activity.",
+        "• Banco de México, the central bank, established its primary objective as maintaining stability in the purchasing power of the Mexican peso, reflecting a shift towards inflation targeting.",
+        "• To achieve this objective, Banco de México sets an explicit inflation target and establishes corresponding quantitative targets for the growth of the monetary base and the expansion of net domestic credit.",
+        "• The central bank continuously monitors a range of economic indicators to inform its policy decisions, including the exchange rate, discrepancies between observed and projected inflation, survey results on inflation expectations from the public and specialists, revisions in collective employment contracts, producer price indices, and the balances of the current and capital accounts.",
+        "• There is an ongoing debate within Mexico regarding the potential adoption of a US-style interest rate-targeting system; proponents argue that such a system would provide greater control over interest rates, which is increasingly important due to rising consumer credit levels.",
+        "• Until 2008, Mexico employed a unique inflation control mechanism known as the _corto_ (literally \"shortage\"), distinct among OECD countries, which allowed the central bank to influence market interest rates by deliberately leaving the banking system short of its daily demand for money by a predetermined amount.",
+        "• Under the _corto_ system, the central bank adjusted the size of the shortage to influence interest rates: increasing the _corto_ to raise interest rates and decreasing it to lower them.",
+        "• In April 2004, Banco de México began setting a referential overnight interest rate as part of its monetary policy framework, marking a transition in its approach to interest rate management."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:38:55.656197",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "6.1.6",
+      "section_name": "Corruption",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Petty corruption in Mexico, particularly involving administrative discretion in zoning and business permits, is widespread and contributes approximately 10% to the cost of consumer goods and services.",
+        "• An April 2012 article in _The New York Times_ exposed widespread bribery payments to officials across Mexico to secure construction permits, access information, and obtain other favors, prompting investigations in both the United States and Mexico.",
+        "• Analysis using recent night light data and electricity consumption compared with Gross County Product revealed that the informal sector of Veracruz state's local economy expanded during the Fox Administration, despite the regional government remaining under the Institutional Revolutionary Party (PRI).",
+        "• The common assumption that Mexico’s informal economy consistently represents 30% of total economic activity is not supported by local-level data from Veracruz.",
+        "• Spatial analysis found only a small degree of local spatial autocorrelation in literacy rates among municipios in Veracruz, with a few clusters of high and low literacy, but not enough to justify including an I-statistic as a regressor in the study.",
+        "• Global spatial autocorrelation was identified at the macro-regional level, especially concerning literacy rates, indicating a need for further research beyond the scope of the current study.",
+        "• Improved literacy positively influences both the informal and formal economies in Veracruz, highlighting the importance of literacy-enhancing policies for regional economic growth.",
+        "• Although indigenous populations in Veracruz are relatively poor, there is little evidence that municipios with higher shares of indigenous people have a larger informal economy as a percentage of total economic activity.",
+        "• Between 2000 and 2006, the formal economy initially appeared to be expanding relative to the informal economy, but by 2006 this trend reversed, showing increased informality.",
+        "• Rural municipios in Veracruz have smaller economies compared to urban municipios, but the proportion of the economy that is informal does not significantly differ between rural and urban areas.",
+        "• Previous programs aimed at shifting economic activity from the informal to the formal sector in Veracruz have not been successful, indicating ongoing challenges with public finance issues such as tax evasion.",
+        "• The persistence of a large informal economy and associated tax evasion problems contributes to low government revenues in Veracruz state."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:39:02.414116",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "7",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, Mexico's international trade figures included exports valued at US $248.8 billion f.o.b. and imports at US $253.1 billion f.o.b., with a current account surplus of US $400.1 million.",
+        "• The primary export partners of Mexico in 2006 were the United States (90.9%), Canada (2.2%), Spain (1.4%), Germany (1.3%), and Colombia (0.9%).",
+        "• In 2005, Mexico's main import partners were the United States (53.4%), China (8%), and Japan (5.9%).",
+        "• Mexico's economy is highly trade-oriented, with imports and exports comprising 78% of its GDP in 2019.",
+        "• Mexico is recognized as a significant global trade power based on the value of merchandise traded and holds the distinction of having the greatest number of free trade agreements worldwide.",
+        "• In 2020, Mexico ranked as the world’s eleventh largest merchandise exporter and thirteenth largest merchandise importer, accounting for 2.4% and 2.2% of global trade respectively; these rankings improve to seventh and ninth when the European Union is considered a single trading entity.",
+        "• Between 1991 and 2005, Mexican trade expanded fivefold, demonstrating rapid growth in international commerce.",
+        "• Mexico is the largest exporter and importer in Latin America; in 2020, it exported US $417.7 billion, an amount approximately equal to the combined exports of the next five largest Latin American exporters: Brazil, Chile, Argentina, Peru, and Colombia.",
+        "• Mexican trade is deeply integrated with its North American partners, with approximately 80% of Mexican exports and 50% of its imports traded with the United States and Canada as of 2019.",
+        "• The North American Free Trade Agreement (NAFTA) did not cause trade diversion; from 1993 to 2002, trade with the United States increased by 183%, and trade with Canada rose by 165%.",
+        "• Other trade agreements yielded even greater increases in trade volumes during the same period: trade with Chile grew by 285%, with Costa Rica by 528%, and with Honduras by 420%.",
+        "• Trade between Mexico and the European Union increased by 105% from 1993 to 2002, reflecting significant growth in transatlantic commerce."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:39:10.299279",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Free trade agreements",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mexico became a member of the General Agreement on Tariffs and Trade (GATT) in 1986 and is currently an active and constructive participant in the World Trade Organization (WTO).",
+        "• During Vicente Fox's administration, Mexico promoted the establishment of a Free Trade Area of the Americas (FTAA); the city of Puebla served as the temporary headquarters for the FTAA negotiations, and several other Mexican cities are candidates for its permanent headquarters if the agreement is finalized and implemented.",
+        "• Mexico has signed a total of 12 free trade agreements (FTAs) covering 44 countries.",
+        "• The North American Free Trade Agreement (NAFTA), signed in 1992 with the United States and Canada, was later updated and replaced by the United States–Mexico–Canada Agreement (USMCA) in 2019.",
+        "• The Grupo de los Tres (G-3) agreement, signed in 1994 with Colombia and Venezuela, was partially terminated when Venezuela withdrew from the agreement in 2006.",
+        "• Mexico signed a Free Trade Agreement with Costa Rica in 1994, which was later superseded by the integrated Free Trade Agreement with Central American countries in 2011.",
+        "• The Free Trade Agreement with Bolivia was signed in 1994 but was terminated in 2010.",
+        "• Mexico entered into a Free Trade Agreement with Nicaragua in 1997, which was also superseded by the 2011 integrated Free Trade Agreement with Central American countries.",
+        "• Mexico signed a Free Trade Agreement with Chile in 1998.",
+        "• The Free Trade Agreement with the European Union was signed in 2000.",
+        "• Mexico signed a Free Trade Agreement with Israel in 2000.",
+        "• The Northern Triangle Free Trade Agreement, signed in 2000 with Guatemala, El Salvador, and Honduras, was superseded by the 2011 integrated Free Trade Agreement with Central American countries.",
+        "• Mexico signed a Free Trade Agreement with the European Free Trade Association (EFTA), comprising Iceland, Norway, Liechtenstein, and Switzerland, in 2001.",
+        "• A Free Trade Agreement with Uruguay was signed in 2003.",
+        "• Mexico signed a Free Trade Agreement with Japan in 2004.",
+        "• The Free Trade Agreement with Peru was signed in 2011.",
+        "• In 2011, Mexico signed an integrated Free Trade Agreement with five Central American countries: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua.",
+        "• Mexico signed a Free Trade Agreement with Panama in 2014.",
+        "• Mexico became a party to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) in 2018.",
+        "• Mexico has expressed interest in becoming an associate member of Mercosur, the South American trade bloc.",
+        "• The Mexican government has initiated negotiations for free trade agreements with South Korea, Singapore, and Peru.",
+        "• Mexico also intends to commence negotiations for a trade agreement with Australia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:39:21.462479",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 39
+    },
+    {
+      "section_number": "7.1.1",
+      "section_name": "North American Trade Agreement and the USMCA Agreement",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 1994 North American Free Trade Agreement (NAFTA) is the most significant trade agreement Mexico has signed, notable for the magnitude of reciprocal trade and its comprehensive scope compared to Mexico’s other Free Trade Agreements.",
+        "• NAFTA was complemented by two supplementary agreements: the North American Agreement for Environmental Cooperation (NAAEC) and the North American Agreement on Labor Cooperation (NAALC), enhancing environmental and labor standards cooperation among the U.S., Mexico, and Canada.",
+        "• An updated version of NAFTA, known as the United States-Mexico-Canada Agreement (USMCA), was pending ratification by Canada in early 2020; the United States and Mexico had already ratified the agreement by that time.",
+        "• The NAAEC was established in response to environmental concerns that companies might relocate to Mexico or that the U.S. might lower environmental standards without unanimous regulations across the three countries.",
+        "• The NAAEC created the North American Commission for Environmental Cooperation (NACEC) to address trade and environmental issues, the North American Development Bank (NADBank) to finance pollution reduction investments, and the Border Environmental Cooperation Commission (BECC).",
+        "• NADBank and BECC have financed 36 projects primarily in Mexico’s water sector, providing significant economic and environmental benefits; this environmental cooperation has led NAFTA to be described as the \"greenest\" trade agreement.",
+        "• The NAALC aimed to foster cooperation among the three countries to resolve labor issues and promote collaboration among trade unions and social organizations to improve labor conditions.",
+        "• While economists find it difficult to measure the direct impact of NAALC, there has been a general convergence of labor standards in North America; however, NAALC was not intended to, nor has it achieved, convergence in employment levels, productivity, or wage trends.",
+        "• NAFTA did not liberalize the movement of people extensively across the three countries but allowed limited immigration of skilled Mexican and Canadian workers to the U.S. under the TN visa status.",
+        "• The TN status permits citizens of Mexico and Canada in a wide range of professions, mostly requiring at least a bachelor’s degree, to temporarily work in the U.S. without sponsorship, requiring only a job offer letter.",
+        "• On November 30, 2018, Mexican President Enrique Peña Nieto, U.S. President Donald Trump, and Canadian Prime Minister Justin Trudeau signed the USMCA agreement during the G20 summit in Buenos Aires, Argentina.",
+        "• Multiple economic studies, including those by the World Bank and the Institute for International Economics, have concluded that NAFTA positively impacted Mexico by reducing poverty rates and increasing real income salaries, even after the 1994–1995 economic crisis.",
+        "• Despite these benefits, NAFTA has not been sufficient or rapid enough to achieve full economic convergence with its partners, substantially reduce poverty, or significantly accelerate economic growth in Mexico.",
+        "• The textile industry in Mexico experienced considerable growth due to NAFTA, gaining open access to the U.S. market; Mexican cotton and apparel exports to the U.S. increased from $3 billion in 1995 to $8.4 billion in 2002, peaking at $9.4 billion in 2000.",
+        "• The U.S. share of Mexico’s cotton textile market rose from 8 percent in 1995 to 13 percent in 2002, indicating increased integration and export capacity in this sector.",
+        "• Analysts suggest that to fully capitalize on NAFTA’s benefits, Mexico should invest more in education, innovation, infrastructure, and agriculture.",
+        "• The maquiladora program, which predates NAFTA by nearly three decades (originating in 1965), involves importing raw materials into Mexico tariff-free or at reduced rates for temporary periods (18 months) to manufacture goods using Mexico’s lower labor costs for export.",
+        "• Before NAFTA, maquiladora companies importing raw materials globally received preferential tariff rates from Mexico if the finished goods were for export; the U.S. allowed maquiladora goods to enter with tariffs applied only to the value of non-U.S. raw materials, reducing tariffs relative to other countries.",
+        "• NAFTA eliminated all tariffs on goods traded between the U.S. and Mexico but increased tariff rates significantly for maquiladora goods sourced from outside the NAFTA region.",
+        "• Despite the large volume of trade between Mexico and the United States, trade disputes are relatively few and involve small dollar amounts; these disputes are typically resolved through World Trade Organization (WTO) or NAFTA dispute panels or bilateral negotiations.",
+        "• The primary areas of trade friction between Mexico and the U.S. include trucking regulations, sugar, high-fructose corn syrup, and various other agricultural products.",
+        "• Mexico has improved its highway infrastructure, particularly dual carriageway highways (marked in red on trade maps), to facilitate trade and exports, especially to the United States."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:39:41.330624",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 40
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "Mexican trade facilitation and competitiveness",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Avenida Presidente Masaryk, located in Polanco, is recognized as one of the most expensive streets in the Americas, highlighting the area's economic prominence within Mexico City.",
+        "• The buildings situated to the left of the Scotiabank tower are geographically located in Lomas de Chapultepec, not in Polanco, indicating distinct neighborhood boundaries within Mexico City.",
+        "• A 2008 research brief published by the World Bank, as part of its Trade Costs and Facilitation Project, analyzed Mexico's potential to significantly enhance trade flows and economic growth through targeted trade facilitation reforms.",
+        "• The World Bank study focused on four critical areas for trade facilitation reform in Mexico: port efficiency, customs administration, information technology, and the regulatory environment, including standards.",
+        "• The study projected that domestic reforms in these areas could generate overall trade increments valued at approximately $31.8 billion, which corresponds to 22.4 percent of Mexico’s total manufacturing exports during the period 2000–2003.",
+        "• On the import side, the projected benefits of trade facilitation reforms were estimated at $17.1 billion, equivalent to 11.2 percent of Mexico’s total imports for the same 2000–2003 period.",
+        "• Export increases, notably in textiles, were expected to result primarily from enhancements in port efficiency and improvements in the regulatory environment.",
+        "• Exports of transport equipment were projected to experience the largest growth due to improvements in port efficiency, underscoring the importance of port infrastructure for this sector.",
+        "• Exports of food and machinery were anticipated to benefit mainly from reforms in the regulatory environment, reflecting the role of standards and regulations in these industries.",
+        "• On the import side, improvements in port efficiency were identified as the most significant factor contributing to increased imports overall.",
+        "• For imports of transport equipment specifically, enhancements in service sector infrastructure were also considered relatively important alongside port efficiency improvements."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:39:48.911625",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 41
+    },
+    {
+      "section_number": "7.3",
+      "section_name": "Major trade partners",
+      "chapter_name": "Economy of Mexico",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Mexico's largest trading partner by total trade value was the United States, with a trade value of 609.67 billion USD, comprising imports worth 221.31 billion USD and exports totaling 388.36 billion USD, resulting in a positive trade balance of 167.05 billion USD.",
+        "• China was Mexico's second-largest trading partner in 2021, with a total trade value of 120.16 billion USD; Mexico imported goods valued at 101.02 billion USD from China and exported 19.14 billion USD, leading to a significant trade deficit of 81.88 billion USD.",
+        "• Canada ranked third among Mexico's trade partners in 2021, with a total trade value of 37.93 billion USD, including imports of 11.22 billion USD and exports of 26.71 billion USD, yielding a positive trade balance of 15.49 billion USD.",
+        "• South Korea was Mexico's fourth-largest trading partner in 2021, with a total trade value of 26.85 billion USD; imports from South Korea amounted to 18.96 billion USD, exports were 7.89 billion USD, resulting in a trade deficit of 11.08 billion USD.",
+        "• Germany held the fifth position in Mexico's trade partnerships in 2021, with a total trade value of 26.50 billion USD, consisting of 17.21 billion USD in imports and 9.29 billion USD in exports, producing a trade deficit of 7.93 billion USD.",
+        "• Japan was Mexico's sixth-largest trading partner in 2021, with a total trade value of 22.85 billion USD; imports from Japan were 17.08 billion USD, exports were 5.78 billion USD, and the trade balance showed a deficit of 11.30 billion USD.",
+        "• Brazil ranked seventh among Mexico's trade partners in 2021, with a total trade value of 13.49 billion USD, including imports valued at 8.72 billion USD and exports at 4.77 billion USD, resulting in a trade deficit of 3.95 billion USD.",
+        "• Malaysia was Mexico's eighth-largest trading partner in 2021, with a total trade value of 12.95 billion USD; imports from Malaysia were 12.39 billion USD, exports were 0.556 billion USD, leading to a trade deficit of 11.83 billion USD.",
+        "• Spain ranked ninth in Mexico's trade partnerships in 2021, with a total trade value of 10.10 billion USD, comprising imports of 4.58 billion USD and exports of 5.52 billion USD, resulting in a positive trade balance of 0.935 billion USD.",
+        "• India was the tenth-largest trading partner of Mexico in 2021, with a total trade value of 10.06 billion USD; imports from India were 5.92 billion USD, exports were 4.14 billion USD, and the trade balance showed a deficit of 1.78 billion USD."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:40:03.958565",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_mexico.json",
+      "original_index": 42
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_lesotho.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.256520",
+    "total_sections_in_source": 8,
+    "extracted_sections_count": 8,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Lesotho",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Lesotho is primarily based on tourism, manufacturing, mining, and agriculture, with a significant reliance on remittances from its diaspora population.",
+        "• Lesotho is classified as a lower middle income country and is geographically surrounded by South Africa, with which it maintains strong economic integration.",
+        "• A substantial portion of Lesotho’s population depends on subsistence farming, although there is a gradual and ongoing economic transition towards tourism and manufacturing sectors.",
+        "• Lesotho is a member of the Southern African Customs Union (SACU), which includes Botswana, Namibia, South Africa, and Eswatini; within SACU, tariffs on trade goods between member countries have been eliminated.",
+        "• Lesotho, along with Eswatini, Namibia, and South Africa, forms part of the Rand Monetary Area, a common currency and exchange control zone that uses the South African rand as its common currency.",
+        "• In 1980, Lesotho introduced its own currency called the loti (plural: maloti), which is pegged at par with the South African rand.",
+        "• The loti is subdivided into 100 lisente, establishing the currency’s basic unit structure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:47.728351",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_lesotho.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Lesotho",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lesotho's early economic history was characterized by integration into the Southern African regional economy, with a heavy reliance on labor migration and agricultural productivity.",
+        "• In the 19th century, Lesotho was a significant agricultural exporter, supplying grain and mohair to South African mining camps.",
+        "• By the early 20th century, worsening land shortages and unfavorable climate conditions caused Lesotho to become a net food importer and a labor reserve for South African mines and farms.",
+        "• Labor migration became a central economic pillar throughout the 20th century, with tens of thousands of Basotho men seeking employment in South Africa.",
+        "• By 1982, over 100,000 Basotho were employed in South African industries.",
+        "• Lesotho gained independence on 4 October 1966, which marked the beginning of increased international aid flows from Britain, Sweden, and multilateral donors.",
+        "• Early aid efforts focused largely on agriculture, based on the assumption that Lesotho was a purely agrarian society.",
+        "• Large-scale rural development projects funded by the World Bank and USAID repeatedly failed due to poor planning and lack of local participation.",
+        "• Political instability affected aid patterns; after a 1970 coup, British and Swedish aid was temporarily suspended but resumed later that year.",
+        "• Lesotho leveraged its opposition to apartheid to attract more aid, especially after the 1976 Soweto Uprising and Transkei border conflicts.",
+        "• By 1979, development assistance to Lesotho had increased to $64 million.",
+        "• From 1992 until September 1998, Lesotho's economy experienced steady growth.",
+        "• The political insecurity and riots in September 1998 destroyed nearly 80% of commercial infrastructure in Maseru and two other major towns, severely damaging the economy.",
+        "• Despite setbacks, Lesotho completed several IMF Structural Adjustment Programs during the 1990s, resulting in a substantial decline in inflation.",
+        "• Lesotho’s trade deficit remains large, with exports constituting only a small fraction of imports.",
+        "• The global economic crisis negatively impacted Lesotho’s economy through multiple channels: loss of textile exports and jobs due to the U.S. economic slowdown (a major export market), reduced diamond mining and exports amid weak diamond prices, decreased Southern African Customs Union (SACU) revenues due to South Africa’s economic slowdown, and reduced worker remittances caused by contraction in South Africa’s mining sector and related job losses.",
+        "• In 2009, Lesotho’s GDP growth slowed significantly to 0.9 percent."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:07:02.575706",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_lesotho.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic progress",
+      "chapter_name": "Economy of Lesotho",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lesotho has transitioned from a predominantly subsistence-oriented economy to a lower middle income, diversified economy that exports natural resources and manufactured goods, resulting in higher and more secure incomes for a significant portion of its population.",
+        "• The proportion of Lesotho's population living below the international poverty threshold of USD PPP US$1.25 per day decreased from 48 percent in 1995 to 44 percent in 2003.",
+        "• The national unemployment rate was recorded at 25.29% in 2008, increased to 27.2% in 2012, and subsequently declined to 23.06% by 2017.",
+        "• The percentage of the population living below the poverty line dropped from 58% in 2002 to 49.2% in 2017, indicating gradual poverty reduction over this period.",
+        "• Despite economic progress, Lesotho remains classified by the United Nations Development Programme (UNDP) as a \"Low Human Development\" country, ranking 155th out of 192 countries.",
+        "• The average life expectancy at birth in Lesotho is 42.3 years, reflecting ongoing health and development challenges.",
+        "• Adult literacy in Lesotho is notably high at 82%, demonstrating significant educational attainment among the adult population.",
+        "• The prevalence of underweight children under the age of five is 20%, indicating persistent nutritional and health issues among young children.",
+        "• Lesotho has received economic aid and development assistance from multiple international sources, including the United States, the World Bank, the United Kingdom, the European Union, and Germany.",
+        "• The country's transportation infrastructure includes nearly 6,000 kilometers of roads, comprising both unpaved and modern all-weather roads.",
+        "• Lesotho possesses a short freight rail line that connects it to South Africa; this rail line is entirely owned and operated by South Africa."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:07:10.562716",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_lesotho.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Apparel",
+      "chapter_name": "Economy of Lesotho",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lesotho has leveraged the African Growth and Opportunity Act (AGOA) to become the largest exporter of garments to the United States from sub-Saharan Africa.",
+        "• Prominent American brands and retailers sourcing garments from Lesotho include Foot Locker, Gap, Gloria Vanderbilt, JCPenney, Levi Strauss, Saks, Sears, Timberland, and Wal-Mart.",
+        "• By mid-2004, employment in Lesotho's garment sector exceeded 50,000 workers, predominantly female, marking the first instance where manufacturing sector employment surpassed that of government employees.",
+        "• In 2008, Lesotho's garment exports reached a value of 487 million US dollars, with the majority of exports directed to the United States.",
+        "• Since 2004, employment in the garment sector declined to approximately 45,000 workers by mid-2011, attributed to intense international competition within the global garment industry.",
+        "• Despite the reduction in workforce, the garment sector remained the largest formal sector employer in Lesotho as of 2011.",
+        "• The garment industry in Lesotho established a significant HIV/AIDS intervention program known as the Apparel Lesotho Alliance to Fight AIDS (ALAFA).",
+        "• ALAFA is an industry-wide initiative designed to provide both prevention and treatment services for workers within the garment sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:07:15.896308",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_lesotho.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Husbandry",
+      "chapter_name": "Economy of Lesotho",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The western lowlands of Lesotho constitute the primary agricultural zone within the country.",
+        "• Approximately 50% of Lesotho's population derive income through informal crop cultivation or animal husbandry activities.",
+        "• Nearly two-thirds of Lesotho's national income is generated by the agricultural sector, underscoring its economic significance.",
+        "• Around 70% of Lesotho's population resides in rural areas and is engaged in agricultural work, highlighting the sector's role in rural livelihoods."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:07:18.449790",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_lesotho.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Women in the economy",
+      "chapter_name": "Economy of Lesotho",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Women in Lesotho face greater challenges in accessing secondary education compared to men, yet men earn 1.5 times more income than women on average.",
+        "• Prior to the 1950s, Basotho women migrated to South Africa for employment opportunities due to a decline in agricultural productivity in Lesotho.",
+        "• Among the Basotho women who migrated to South Africa, a significant number were unmarried and many chose to remain in South Africa rather than return to Lesotho.",
+        "• Married Basotho couples also migrated together to South Africa for work during this period.",
+        "• In 1923, South Africa enacted the pass law known as the Natives (Urban Areas) Act, which mandated that black men carry passports at all times when present in white-designated urban areas for work purposes.",
+        "• An amendment to the Natives (Urban Areas) Act in 1952 extended the passport-carrying requirement to black women, significantly impacting female labor migration.",
+        "• The 1952 amendment caused a decline in the migration of female laborers from Lesotho to South Africa.",
+        "• By the 1970s, only 36.1% of women over the age of 39 in Lesotho had ever worked in South Africa, reflecting the long-term effects of migration restrictions.",
+        "• Lesotho women historically did not participate in mining work in South Africa.",
+        "• In the 1980s, Lesotho received international aid aimed at developing its manufacturing sector, particularly the textile industry.",
+        "• The textile industry in Lesotho primarily employed young women during the 1980s.",
+        "• By 1990, women constituted 92% of the workforce in Lesotho’s textile industry, highlighting the gendered nature of employment in this sector.",
+        "• Approximately 86% of the female population in Lesotho is employed in the textile industry, indicating its critical role in women’s economic participation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:07:26.948825",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_lesotho.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4",
+      "section_name": "Natural resources",
+      "chapter_name": "Economy of Lesotho",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lesotho's only significant natural resources are water and diamonds, which play a crucial role in the country's economy.",
+        "• The Lesotho Highlands Water Project (LHWP), a 30-year, multibillion-dollar initiative, was launched in 1986 to extract and manage water resources.",
+        "• The LHWP aims to capture, store, and transfer water from the Orange River system to South Africa's Free State and the greater Johannesburg area, regions characterized by a high concentration of industry, population, and agriculture.",
+        "• Upon completion, the LHWP is expected to enable Lesotho to achieve near-complete self-sufficiency in electricity production.",
+        "• Additionally, Lesotho will generate revenue by selling electricity to South Africa as part of the LHWP outcomes.",
+        "• The project receives financial support from major international institutions, including the World Bank, African Development Bank, European Investment Bank, and numerous bilateral donors.",
+        "• Diamonds are mined in Lesotho at the Letšeng, Mothae, Liqhobong, and Kao mines, representing a significant sector of the economy.",
+        "• The diamond mining sector experienced a downturn in 2008 due to the global recession but showed recovery in 2010 and 2011.",
+        "• Diamond production constitutes a major component of Lesotho's export economy, contributing substantially to the country's foreign exchange earnings."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:07:32.375665",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_lesotho.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "5",
+      "section_name": "Other statistics",
+      "chapter_name": "Economy of Lesotho",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The main economic indicators of Lesotho from 1980 to 2017 include GDP measured in billion US dollars at purchasing power parity (PPP), GDP per capita in US$ PPP, nominal GDP in billion US dollars, real GDP growth rates, inflation rates in percent, and government debt as a percentage of GDP.",
+        "• In 1980, Lesotho's GDP was 0.65 billion US$ PPP, with a GDP per capita of 512 US$ PPP, nominal GDP of 0.43 billion US$, a real GDP growth rate of −0.8%, inflation at 19.6%, and government debt data not specified.",
+        "• By 1985, GDP increased to 1.01 billion US$ PPP, GDP per capita rose to 736 US$ PPP, nominal GDP decreased to 0.29 billion US$, real GDP growth was 3.3%, inflation dropped to 15.0%, and government debt data remained unspecified.",
+        "• In 1990, GDP reached 1.50 billion US$ PPP, GDP per capita was 935 US$ PPP, nominal GDP was 0.64 billion US$, real GDP growth was 5.2%, inflation was 12.0%, and government debt was 18% of GDP.",
+        "• The year 1995 saw GDP at 2.10 billion US$ PPP, GDP per capita at 1,131 US$ PPP, nominal GDP at 1.03 billion US$, real GDP growth of 2.8%, inflation at 9.7%, and government debt rose significantly to 62% of GDP.",
+        "• In 2000, GDP was 2.68 billion US$ PPP, GDP per capita 1,440 US$ PPP, nominal GDP 0.92 billion US$, real GDP growth 4.9%, inflation 6.1%, and government debt increased to 88% of GDP.",
+        "• By 2005, GDP had grown to 3.47 billion US$ PPP, GDP per capita to 1,841 US$ PPP, nominal GDP to 1.73 billion US$, real GDP growth was 3.1%, inflation declined to 3.6%, and government debt decreased to 49% of GDP.",
+        "• In 2006, GDP was 3.73 billion US$ PPP, GDP per capita 1,994 US$ PPP, nominal GDP 1.72 billion US$, real GDP growth 4.4%, inflation rose to 6.3%, and government debt slightly increased to 51% of GDP.",
+        "• The 2007 indicators showed GDP at 4.02 billion US$ PPP, GDP per capita 2,144 US$ PPP, nominal GDP 1.76 billion US$, real GDP growth 5.0%, inflation at 9.2%, and government debt stable at 51% of GDP.",
+        "• In 2008, GDP reached 4.33 billion US$ PPP, GDP per capita 2,301 US$ PPP, nominal GDP 1.65 billion US$, real GDP growth 5.5%, inflation increased to 10.7%, and government debt declined to 45% of GDP.",
+        "• For 2009, GDP was 4.50 billion US$ PPP, GDP per capita 2,385 US$ PPP, nominal GDP 1.94 billion US$, real GDP growth slowed to 3.1%, inflation dropped to 5.8%, and government debt further decreased to 35% of GDP.",
+        "• In 2010, GDP rose to 4.84 billion US$ PPP, GDP per capita to 2,560 US$ PPP, nominal GDP to 2.36 billion US$, real GDP growth peaked at 6.3%, inflation was low at 3.3%, and government debt was 31% of GDP.",
+        "• The 2011 data showed GDP at 5.27 billion US$ PPP, GDP per capita 2,780 US$ PPP, nominal GDP 2.57 billion US$, real GDP growth 6.7%, inflation increased to 6.0%, and government debt slightly increased to 33% of GDP.",
+        "• In 2012, GDP was 5.63 billion US$ PPP, GDP per capita 2,963 US$ PPP, nominal GDP 2.47 billion US$, real GDP growth slowed to 4.9%, inflation was 5.5%, and government debt rose to 35% of GDP.",
+        "• For 2013, GDP reached 5.85 billion US$ PPP, GDP per capita 3,068 US$ PPP, nominal GDP 2.35 billion US$, real GDP growth further slowed to 2.2%, inflation was 5.0%, and government debt increased to 37% of GDP.",
+        "• In 2014, GDP was 6.13 billion US$ PPP, GDP per capita 3,208 US$ PPP, nominal GDP 2.48 billion US$, real GDP growth was 3.0%, inflation decreased to 4.6%, and government debt remained at 37% of GDP.",
+        "• The 2015 figures showed GDP at 6.35 billion US$ PPP, GDP per capita 3,296 US$ PPP, nominal GDP 2.20 billion US$, real GDP growth was 2.5%, inflation at 4.3%, and government debt increased to 41% of GDP.",
+        "• In 2016, GDP rose to 6.63 billion US$ PPP, GDP per capita to 3,425 US$ PPP, nominal GDP was 2.21 billion US$, real GDP growth was 3.1%, inflation increased to 6.2%, and government debt decreased to 35% of GDP.",
+        "• By 2017, GDP reached 6.96 billion US$ PPP, GDP per capita was 3,581 US$ PPP, nominal GDP was 2.42 billion US$, real GDP growth remained at 3.1%, inflation was 5.6%, and government debt remained stable at 35% of GDP.",
+        "• Household income or consumption distribution in 1986–87 showed the lowest 10% of the population accounted for 0.9% of income or consumption, whereas the highest 10% accounted for 43.4%.",
+        "• The industrial production growth rate in Lesotho was recorded at 3% in 2010.",
+        "• Electricity consumption in Lesotho was 626 gigawatt-hours (GWh) during the 2010/11 period.",
+        "• The primary agricultural products of Lesotho include maize, wheat, pulses, sorghum, barley, and livestock.",
+        "• The national currency of Lesotho is the loti (L), subdivided into 100 lisente, with the plural form of loti being maloti (M).",
+        "• Exchange rates for the maloti against the US dollar were 7.32 maloti per US$1 in 2010, 6.10948 maloti per US$1 in 1999, and 3.62709 maloti per US$1 in 1995.",
+        "• The Basotho loti is pegged at par with the South African rand, indicating a fixed exchange rate between the two currencies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:05.040460",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_lesotho.json",
+      "original_index": 7
+    }
+  ]
+}

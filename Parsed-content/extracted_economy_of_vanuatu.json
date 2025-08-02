@@ -1,0 +1,241 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_vanuatu.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.382032",
+    "total_sections_in_source": 10,
+    "extracted_sections_count": 10,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Vanuatu's economy is predominantly agricultural, with approximately 80% of the population involved in agricultural activities.",
+        "• Agricultural activities in Vanuatu encompass a spectrum from subsistence farming to smallholder farming focused on coconuts and other cash crops.",
+        "• Copra is the most significant cash crop in Vanuatu, accounting for more than 35% of the country's exports.",
+        "• Other notable export commodities include timber, beef, and cocoa.",
+        "• Exports of kava root extract have recently gained importance in Vanuatu's economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:27.892365",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Financial sector",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Vanuatu government has preserved the country's pre-independence status as a tax haven and international financial center, supporting a significant offshore financial services sector.",
+        "• Approximately 2,000 registered institutions operate in Vanuatu, providing a diverse array of offshore banking, investment, legal, accounting, insurance, and trust company services.",
+        "• In the Tax Justice Network's 2011 Financial Secrecy Index, Vanuatu received a high \"secrecy score\" of 88 out of 100, indicating a strong level of financial secrecy.",
+        "• Despite the high secrecy score, Vanuatu's relatively small market share placed it near the bottom of the weighted list in the 2011 Financial Secrecy Index.",
+        "• In December 1999, Vanuatu was one of three Pacific island nations—along with Nauru and Palau—subjected to a U.S. dollar transaction ban imposed by four major international banks.",
+        "• Vanuatu offers citizenship for approximately $150,000, with its passports granting visa-free travel throughout Europe, enhancing the appeal of its citizenship program.",
+        "• The demand for Vanuatu passports, particularly from the Chinese market, has surged, with passport sales potentially accounting for more than 30% of the country's national revenue.",
+        "• Vanuatu maintains an international shipping register based in New York City, facilitating its maritime and shipping industry operations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:30.756340",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "Fishing industry",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The fishing industry in Vanuatu involves substantial fishing activity, indicating a significant level of engagement in fishing practices within the country.",
+        "• Despite the considerable fishing activity, the industry does not generate a large amount of foreign exchange revenue for Vanuatu.",
+        "• Vanuatu asserts sovereignty over an exclusive economic zone (EEZ) encompassing 680,000 square kilometres (260,000 square miles), which provides access to extensive marine resources.",
+        "• Both indigenous ni-Vanuatu fishers and foreign fishing fleets participate in fishing operations within Vanuatu’s maritime zones."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:28.715546",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "Mining industry",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mining activity in Vanuatu is described as unsubstantial, indicating that it plays a minimal role in the country's economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:27.484949",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "Agricultural sector",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Vanuatu's agricultural exports primarily include copra, kava, beef, cocoa, and timber, while its imports consist mainly of machinery and equipment, foodstuffs, and fuels.",
+        "• Copra, cocoa, kava, and beef collectively represent more than 60% of Vanuatu's total export value, highlighting their significance in the nation's trade portfolio.",
+        "• The agricultural sector contributes approximately 20% to Vanuatu's Gross Domestic Product (GDP), underscoring its importance to the overall economy.",
+        "• In 2018, Vanuatu produced 374 thousand tons of coconut, making it the largest agricultural product by volume for that year.",
+        "• The production of root and tubers in 2018 amounted to 53 thousand tons, indicating a substantial output of these staple crops.",
+        "• Banana production in Vanuatu reached 16 thousand tons in 2018, reflecting its role in the country's agricultural diversity.",
+        "• Vegetable production totaled 13 thousand tons in 2018, contributing to the domestic food supply and agricultural variety.",
+        "• Smaller-scale agricultural products in 2018 included peanut production at 2.6 thousand tons and cocoa at 1.8 thousand tons, demonstrating the presence of niche crops within Vanuatu's agricultural sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:31.154240",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "Tourism sector",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism is identified as Vanuatu's fastest-growing economic sector, constituting 40% of the country's Gross Domestic Product (GDP) in the year 2000.",
+        "• The industrial sector's share of Vanuatu's GDP declined from 15% in 1990 to 10% in 2008, indicating a relative decrease in industrial output or contribution over this period.",
+        "• Government consumption represented approximately 27% of Vanuatu's GDP, reflecting the significant role of public sector expenditure in the economy.",
+        "• Vanuatu's export commodities are primarily agricultural products, highlighting the country's reliance on agriculture for foreign exchange earnings.",
+        "• In the year 2000, Vanuatu's imports exceeded its exports by nearly a 4 to 1 ratio, demonstrating a substantial trade imbalance favoring imports.",
+        "• Despite the trade deficit, Vanuatu maintained a fairly balanced current account due to substantial income from tourism-related services, which offset the import-export disparity.",
+        "• The tourism sector experienced a downturn in 2001 and 2002, attributed to a decrease in tourism funding, which negatively impacted the overall economy during this period.",
+        "• Following the downturn, economic growth was projected to recover, with an expected growth rate of 3.9% initially, increasing to 4.3% by 2007, indicating optimism for the sector's and the economy's expansion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:29.225888",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "0.6",
+      "section_name": "Exports",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Luganville, the second largest city in Vanuatu, serves as a primary hub for the country’s exports, handling 64.3% of domestic exports.",
+        "• In contrast, the capital city, Port Vila, accounts for 35.7% of Vanuatu’s domestic exports.",
+        "• The import distribution in Vanuatu exhibits an opposite pattern, with Port Vila receiving the majority of imports at 86.9%.",
+        "• Luganville handles a significantly smaller portion of imports, accounting for only 13.1% of the total imports entering Vanuatu."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:29.244236",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "0.7",
+      "section_name": "Reform",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1997, the government of Vanuatu, with assistance from the Asian Development Bank, committed to implementing a comprehensive reform program spanning three years.",
+        "• During the first year of this reform program, the government introduced a value-added tax (VAT) as part of its fiscal policy adjustments.",
+        "• The reform efforts included the consolidation and restructuring of government-owned banks to improve financial sector efficiency.",
+        "• A 10% reduction in the public service workforce was initiated to downsize government operations and reduce expenditure.",
+        "• The reform program experienced a setback when Barak Sope assumed the office of Prime Minister, leading to a derailment of the ongoing reforms.",
+        "• Subsequently, under the leadership of Prime Minister Edward Natapei, the government reintroduced and renewed efforts to continue the reform programs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:31.790893",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "0.8",
+      "section_name": "Traditional economy",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, the government of Vanuatu officially declared the year as \"the Year of the Traditional Economy\" (Bislama: _kastom ekonomi_), aiming to promote indigenous economic practices.",
+        "• This initiative encouraged the use and trade of traditional forms of wealth, specifically sea shells and pig tusks, as mediums of exchange within the community.",
+        "• Concurrently, the government discouraged the use of cash transfers during this period to reinforce the value of customary economic transactions.",
+        "• Due to the perceived success or ongoing interest in this initiative, the government extended the \"Year of the Traditional Economy\" experiment into 2008.",
+        "• The establishment of the Tangbunia Bank, an institution designed to handle and manage customary wealth, was directly associated with and supported by this government initiative."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:30.691908",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic statistics",
+      "chapter_name": "Economy of Vanuatu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the June 2013 Euromoney Country Risk rankings, Vanuatu scored 32.06, compared to a worldwide average score of 42.94, with lower scores indicating higher risk.",
+        "• All monetary values mentioned are expressed in US Dollars.",
+        "• Vanuatu's Gross Domestic Product (GDP) based on purchasing power parity was estimated at $1.237 billion in 2012.",
+        "• The real GDP growth rate for Vanuatu was estimated at 2.6% in 2012.",
+        "• GDP per capita, measured by purchasing power parity, was approximately $4,900 in 2012.",
+        "• The composition of Vanuatu's GDP by sector in 2012 was: agriculture 20.6%, industry 11.7%, and services 67.6%.",
+        "• Data on the percentage of the population below the poverty line is not available (NA%).",
+        "• Household income or consumption shares for the lowest 10% and highest 10% of the population are not available (NA%).",
+        "• The inflation rate, based on consumer prices, was estimated at 2.8% in 2012.",
+        "• The labor force numbered approximately 115,900 individuals as of 2007.",
+        "• Labor force distribution by occupation in 2010 was: agriculture 58%, industry 10%, and services 32%.",
+        "• The unemployment rate was estimated at 1.5% in 2010.",
+        "• Vanuatu's government budget in 2012 included revenues of $188.2 million and expenditures of $207.4 million, which incorporated capital expenditures of $700,000.",
+        "• Key industries in Vanuatu include food and fish freezing, wood processing, and meat canning.",
+        "• The industrial production growth rate was estimated at 12% in 2011.",
+        "• Electricity production in 2008 totaled 52 gigawatt-hours (GWh).",
+        "• In 2012, electricity production sources were composed of 90% fossil fuels, 0% hydroelectric, 0% nuclear, and 10% from other sources.",
+        "• Electricity consumption was recorded at 40.22 GWh in 2008.",
+        "• Electricity exports amounted to 220 kilowatt-hours (kWh) in 2008, while electricity imports were zero kWh in the same year.",
+        "• Major agricultural products include copra, coconuts, cocoa, coffee, kava, taro, yams, fruits, vegetables, fish, and beef.",
+        "• Total exports were valued at $280 million (free on board) in 2012.",
+        "• Principal export commodities included copra, beef, cocoa, timber, kava, and coffee.",
+        "• The main export partners in 2011 were Thailand (57.3%) and Japan (21.8%).",
+        "• Imports totaled $242 million (free on board) in 2012.",
+        "• Major import commodities consisted of machinery and equipment, foodstuffs, and fuels.",
+        "• Primary import partners in 2011 were China (26.7%), Singapore (21.2%), Australia (13.6%), New Zealand (7.2%), Fiji (6.7%), and Japan (5.4%).",
+        "• External debt stood at $307.7 million in 2011.",
+        "• Vanuatu received economic aid amounting to $27.5 million in 2002.",
+        "• The national currency is the vatu (VT), which has no subdivisions.",
+        "• Exchange rates of the vatu per US dollar were: 94.03 (2012), 96.91 (2010), 111.79 (2004), 122.19 (2003), 139.2 (2002), 145.31 (2001), 129.76 (December 1999), 129.08 (1999), 127.52 (1998), 115.87 (1997), 111.72 (1996), and 112.11 (1995).",
+        "• The fiscal year in Vanuatu corresponds to the calendar year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:46.634803",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 31
+      },
+      "source_file": "economy_of_vanuatu.json",
+      "original_index": 9
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_south_korea.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.968796",
+    "total_sections_in_source": 19,
+    "extracted_sections_count": 19,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of South Korea is a highly developed mixed economy, with a nominal GDP valued at ₩2.61 quadrillion (US$1.87 trillion) as of 2025.",
+        "• South Korea holds the position of the 4th largest economy in Asia and the 13th largest economy globally by nominal GDP as of 2025.",
+        "• The country experienced rapid economic development from an underdeveloped nation to a developed, high-income country within a few decades, a phenomenon known as the Miracle on the Han River.",
+        "• South Korea’s economic growth enabled its membership in major international organizations such as the OECD and the G20.",
+        "• It is classified among the Next Eleven countries, identified for their potential to become dominant players in the global economy by the mid-21st century.",
+        "• Among OECD members, South Korea maintains a highly efficient and robust social security system, with social expenditure accounting for approximately 15.5% of GDP.",
+        "• The nation invests around 4.93% of its GDP in advanced research and development across multiple economic sectors.",
+        "• The South Korean education system, combined with a motivated and educated populace, significantly contributed to the country’s high-technology boom and overall economic development.",
+        "• South Korea adopted an export-oriented economic strategy to drive its economic growth.",
+        "• In 2022, South Korea ranked as the ninth largest exporter and ninth largest importer worldwide.",
+        "• Key economic indicators and trends for South Korea are regularly published by the Bank of Korea and the Korea Development Institute.",
+        "• International financial organizations such as the International Monetary Fund recognize the resilience of South Korea’s economy during various economic crises.",
+        "• The IMF highlights South Korea’s economic strengths, including low government debt and substantial fiscal reserves, which can be rapidly deployed to manage financial emergencies.",
+        "• The World Bank identifies South Korea as one of the fastest-growing major economies of the next generation, alongside the BRICS nations and Indonesia.",
+        "• South Korea was among the few developed countries that avoided recession during the Great Recession, with economic growth rates of 2.3% in 2008, 0.2% in 2009, and a strong recovery to 6.2% growth in 2010.",
+        "• By the end of 2013, South Korea recorded a historic trade surplus of US$70.7 billion, representing a 47% increase from 2012, despite global economic uncertainties.",
+        "• The country’s major economic output is heavily reliant on the export of technology products.",
+        "• Despite strong growth and structural stability, South Korea’s credit rating and stock market performance are periodically affected by military tensions with North Korea.",
+        "• Recurring conflicts with North Korea create volatility in South Korea’s financial markets.",
+        "• The South Korean economy faces demographic challenges, including a declining and ageing population, compounded by one of the world’s lowest fertility rates."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:01:54.526490",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the Korean War, South Korea remained a country with less developed markets for a little more than a decade, indicating a prolonged period of economic underdevelopment in the immediate post-war years.",
+        "• The growth of the industrial sector served as the principal stimulus to South Korea's economic development, marking a shift from agrarian to industrial economic activities.",
+        "• In 1986, manufacturing industries accounted for approximately 30 percent of South Korea's gross domestic product (GDP) and employed 25 percent of the workforce, highlighting the sector's significant role in the national economy.",
+        "• Strong domestic encouragement combined with some foreign aid enabled Seoul's industrialists to introduce modern technologies into both outmoded and newly built industrial facilities, facilitating technological advancement and modernization.",
+        "• Industrialists increased the production of commodities, particularly those intended for sale in foreign markets, thereby expanding South Korea's export capacity and international trade presence.",
+        "• The proceeds from increased production and exports were reinvested into further industrial expansion, creating a cycle of growth and development within the industrial sector.",
+        "• Industrialization transformed South Korea's landscape by drawing millions of laborers from rural areas to urban manufacturing centers, contributing to rapid urbanization and demographic shifts.",
+        "• In 1989, South Korea experienced an economic downturn triggered by a decrease in exports and foreign orders, which raised concerns within the industrial sector about the sustainability of growth.",
+        "• Analysts from the Ministry of Trade and Industry identified structural problems as causes of the decreased export performance, including an overly strong South Korean won, increased wages and labor costs, frequent labor strikes, and higher interest rates.",
+        "• The economic slowdown led to an increase in inventories and production cutbacks at various manufacturers, notably in the electronics, automobile, and textile industries, as well as among smaller firms supplying parts to these sectors.",
+        "• In response to these challenges, factory automation systems were introduced to reduce dependence on labor, enhance productivity with a smaller workforce, and improve the competitiveness of South Korean industries in the global market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:01:50.333420",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "Colonial period",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Japan officially annexed Korea on 22 August 1910, designating it as the Province of Choson during the colonial period.",
+        "• The Japanese colonial administration actively promoted the inflow of Japanese capital into Korea’s underdeveloped economy to stimulate industrial growth.",
+        "• As a consequence of Japanese investment, the majority of major firms in Korea became Japanese-owned and operated, with critical managerial and executive positions exclusively held by Japanese nationals.",
+        "• Korean workers were generally restricted to menial and low-status jobs, often subjected to harsh and exploitative labor conditions under Japanese rule.",
+        "• The colonial economy was structured to benefit Japan, with most of Korea’s natural resources, including coal, iron, and agricultural crop production, being extracted and shipped primarily to Japan for its industrial use."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:01:45.209708",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "Rapid growth from 1960s to 1980s",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the 1961 coup that brought General Park Chung Hee to power, South Korea initially experienced political instability and an economic crisis, after which a protectionist economic policy was implemented to reactivate the internal market through a bourgeoisie that developed under state influence.",
+        "• The government adopted an export-oriented industrialisation policy, restricting foreign product entry except for raw materials, while implementing agrarian reforms and nationalising the financial system to strengthen state control via five-year economic plans.",
+        "• Chaebols, large diversified family conglomerates such as Hyundai, Samsung, and LG Corporation, were central to economic growth, receiving state incentives including tax breaks, legal support for labor exploitation systems, and cheap or free financing coordinated through state banks aligned with five-year plans.",
+        "• South Korea benefited from U.S. donations and foreign economic and military support during the Cold War, which helped chaebols dominate the domestic economy and become internationally competitive, leading to improved wages and working conditions that boosted domestic consumption.",
+        "• By the 1980s, South Korea had transitioned from a low-income to a middle-income country, with real GDP expanding at an average annual rate of over 8 percent, growing from US$2.7 billion in 1962 to US$230 billion in 1989, and surpassing the trillion-dollar mark in the early 2000s.",
+        "• Nominal GDP per capita increased from $103.88 in 1962 to $5,438.24 in 1989, reaching $20,000 by 2006; the manufacturing sector’s share of GNP rose from 14.3 percent in 1962 to 30.3 percent in 1987.",
+        "• Commodity trade volume expanded dramatically from US$480 million in 1962 to a projected US$127.9 billion in 1990, while the domestic savings ratio to GNP increased from 3.3 percent in 1962 to 35.8 percent in 1989.",
+        "• In the early 1960s, South Korea’s industrial growth rate surpassed that of North Korea in most sectors, with North Korea’s economic competition declining after adopting Juche ideology in 1974.",
+        "• The key to rapid industrialisation was an outward-looking strategy promoting labour-intensive manufactured exports, leveraging South Korea’s low savings rate and small domestic market to develop competitive advantages in global markets.",
+        "• The government incentivised firms to innovate and improve productivity through export-led industrialisation, providing subsidies and investment support contingent on compliance with state regulations, while encouraging foreign capital inflows to offset domestic savings shortages.",
+        "• Starting in 1973, the government invested heavily via the National Investment Fund and Korea Development Bank in six strategic industries: steel, non-ferrous metals, shipbuilding, industrial machinery, electronics, and petrochemicals, a strategy criticized internationally but successful in developing companies like Samsung and POSCO.",
+        "• The focus on industrial sectors, particularly steel and shipbuilding, spurred economic growth but left rural areas underdeveloped, with most industries concentrated in urban northwest and southeast regions and heavy industries in the south.",
+        "• In 1978, factories in Seoul accounted for over 25 percent of manufacturing value-added, and combined with Gyeonggi Province, these areas produced 46 percent of manufacturing output and employed 48 percent of the nation’s 2.1 million factory workers.",
+        "• Despite government efforts to raise farm incomes and improve rural infrastructure, income disparity between industrial and agricultural sectors increased during the 1970s.",
+        "• To control inflation in the early 1980s, South Korea adopted conservative monetary policies and tight fiscal measures, reducing money supply growth from approximately 30 percent in the 1970s to 15 percent, and temporarily freezing the government budget.",
+        "• Government intervention in the economy was significantly reduced, with liberalisation of import and foreign investment policies to enhance competition, alongside expanded public investment in infrastructure and farm mechanisation to address rural-urban imbalances.",
+        "• These measures, combined with improvements in the global economy, enabled South Korea to regain economic momentum, achieving average real GDP growth rates of 9.2 percent between 1982 and 1987 and 12.5 percent between 1986 and 1988.",
+        "• Inflation was brought under control during the 1980s, with wholesale price inflation averaging 2.1 percent annually and consumer price inflation averaging 4.7 percent per year from 1980 to 1988.",
+        "• South Korea recorded its first significant balance of payments surplus in 1986, with surpluses of US$7.7 billion in 1987 and US$11.4 billion in 1988, allowing the country to begin reducing foreign debt levels.",
+        "• However, the trade surplus declined to US$4.6 billion in 1989, and a small negative balance was projected for 1990, indicating emerging economic challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:06.820006",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "1990s and the Asian Financial Crisis",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the first half of the 1990s, South Korea experienced stable and strong economic growth characterized by increases in both private consumption and gross domestic product (GDP).",
+        "• The 1997 Asian financial crisis began to impact South Korea in October 1997 when the Korean won started to depreciate following speculative attacks on several other Asian currencies.",
+        "• The financial situation worsened due to a significant number of non-performing loans held by many of South Korea's merchant banks.",
+        "• In December 1997, the International Monetary Fund (IMF) approved a loan of US$21 billion to South Korea, which was part of a larger US$58.4 billion bailout plan designed to stabilize the economy.",
+        "• By January 1998, the South Korean government had shut down one-third of the country's merchant banks in response to the financial crisis.",
+        "• Throughout 1998, South Korea's economy contracted quarterly at an average rate of −6.65%, reflecting the severity of the crisis.",
+        "• The South Korean chaebol Daewoo faced severe debt problems and was dismantled by the government in 1999; General Motors acquired Daewoo's motors division, while the Indian conglomerate Tata Group purchased its trucks and heavy vehicles division.",
+        "• The South Korean government’s interventions, along with debt swaps arranged by international lenders, played a crucial role in containing the country’s financial difficulties.",
+        "• South Korea’s recovery from the 1997 Asian financial crisis was largely attributed to labor market adjustments, including a dynamic and productive labor market with flexible wage rates, as well as the utilization of alternative funding sources.",
+        "• By the first quarter of 1999, South Korea’s GDP growth rebounded to 5.4%, and subsequent strong growth combined with deflationary pressure on the currency resulted in an annual growth rate of 10.5%.",
+        "• In December 1999, President Kim Dae-jung officially declared the currency crisis over, marking the end of the economic turmoil caused by the Asian financial crisis."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:01:53.200334",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "2000s",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• South Korea's economy transitioned from a centrally planned, government-directed investment model to a more market-oriented system during the 2000s, driven by economic reforms initiated by President Kim Dae-jung.",
+        "• These reforms contributed to South Korea maintaining one of Asia's few expanding economies, with growth rates of 10.8% in 1999 and 9.2% in 2000.",
+        "• Economic growth slowed to 3.3% in 2001 due to a slowing global economy, decreased exports, and perceptions that corporate and financial reforms had stalled.",
+        "• After recovering from the 1997 Asian financial crisis, South Korea's GDP growth was 9.08% in 2000, but the economy was negatively affected by the September 11 attacks.",
+        "• Growth further decreased to 3.8% in 2001, influenced by global economic slowdown, falling exports, and stalled reforms in corporate and financial sectors.",
+        "• Industrialization led to a significant increase in labor productivity, with GDP per hour worked rising from US$2.80 in 1963 to US$10.00 in 1989.",
+        "• From 2003 onwards, the South Korean economy stabilized, maintaining a growth rate between 4% and 5%.",
+        "• In 2002, economic growth reached 5.8%, led by industry and construction, despite weak global growth conditions.",
+        "• Key unfinished reform tasks included restructuring chaebols, bank privatization, and creating a more liberalized economy with mechanisms allowing bankrupt firms to exit the market.",
+        "• Growth slowed in 2003 but production expanded by 5% in 2006, driven by strong demand for key export products such as HDTVs and mobile phones.",
+        "• During the Great Recession, South Korea experienced a 3.4% decline in GDP in the fourth quarter of 2008 compared to the previous quarter, marking the first negative quarterly growth in 10 years.",
+        "• Year-on-year quarterly growth remained negative into 2009, with significant declines across many sectors: manufacturing dropped 25.6% as of January 2009, and consumer goods sales decreased by 3.1%.",
+        "• Exports in autos and semiconductors, two pillars of the economy, shrank by 55.9% and 46.9% respectively; overall exports fell by a record 33.8% in January and 18.3% in February 2009 year-on-year.",
+        "• The Korean currency experienced massive fluctuations during the crisis, declining by 34% against the US dollar.",
+        "• Annual economic growth slowed to 2.3% in 2008, with Goldman Sachs predicting a possible drop to −4.5%, but South Korea limited the downturn to a near standstill at 0.2% growth in 2009.",
+        "• South Korea avoided a recession during the Great Recession due to timely stimulus measures and strong domestic consumption that compensated for decreased exports, achieving positive growth for two consecutive years during the crisis.",
+        "• In 2010, South Korea rebounded with a 6.1% growth rate, signaling a return to pre-crisis economic levels.",
+        "• South Korea's exports reached $424 billion in the first eleven months of 2010, surpassing total exports for the entire year of 2008.",
+        "• As a Next Eleven economy, South Korea was projected to grow annually between 3.9% and 4.2% from 2011 to 2030, comparable to developing countries such as Brazil and Russia.",
+        "• In 2013, South Korean President Park Geun-hye met with chaebol business magnates Lee Kun-hee and Chung Mong-koo, highlighting the ongoing importance of large family-owned conglomerates in the economy.",
+        "• On 5 December 2013, South Korea signed the Korea-Australia Free Trade Agreement (KAFTA), aiming to benefit Australian industries including automotive, services, and resources and energy sectors, and to position Australia alongside competitors such as the U.S. and ASEAN.",
+        "• South Korea was Australia's third largest export market and fourth largest trading partner in 2012, with a trade value of A$32 billion.",
+        "• The KAFTA included an Investor State Dispute Settlement (ISDS) clause allowing South Korean corporations to take legal action against the Australian government if their trade rights were infringed.",
+        "• The South Korean government reduced the work week from six days to five in phases between 2004 and 2011, depending on firm size, and expanded the number of public holidays to 16 by 2013.",
+        "• In the first quarter of 2019, South Korea's economy contracted by a seasonally adjusted 0.3% from the previous quarter, marking its worst quarterly drop since the Great Recession.",
+        "• In July 2019, South Korea experienced a price increase of more than 6% compared with the previous year, representing the fastest inflation jump in nearly 25 years.",
+        "• In July 2022, South Korea's Consumer Price Index rose by 6.3%, the highest inflation rate since November 1998."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:03.268182",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "0.6",
+      "section_name": "High-tech industries in the 1990s and 2000s",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1990, South Korean manufacturers initiated plans to shift future production toward high-technology industries, marking a strategic transition in the nation’s industrial focus.",
+        "• In June 1989, panels comprising government officials, scholars, and business leaders convened to plan the production of advanced goods, including new materials, mechatronics (notably industrial robotics), bioengineering, microelectronics, fine chemistry, and aerospace technologies.",
+        "• Despite this strategic shift toward high-tech industries, traditional heavy industries such as automobile and ship production, which had dominated South Korea’s economy throughout the 1980s, did not experience an immediate decline.",
+        "• South Korea’s economic growth heavily depends on exports, with key finished products including electronics, textiles, ships, automobiles, and steel serving as major export commodities.",
+        "• Although South Korea’s import market has liberalized in recent years, the agricultural sector remains protectionist due to significant price disparities between domestic agricultural products and international markets.",
+        "• As of 2005, the domestic price of rice in South Korea was four times higher than the average international rice price, contributing to concerns that opening the agricultural market could negatively impact the South Korean agricultural sector.",
+        "• In late 2004, South Korea reached an agreement with the World Trade Organization (WTO) to gradually increase rice imports from 4% to 8% of total consumption by 2014.",
+        "• The agreement also stipulated that by 2010, up to 30% of imported rice would be made available directly to consumers, whereas previously imported rice was restricted to use in processed foods.",
+        "• Following 2014, the South Korean rice market was scheduled to be fully opened, marking a significant policy shift toward agricultural market liberalization.",
+        "• South Korea is recognized as the launchpad of a mature mobile market, characterized by a thriving developer ecosystem operating with minimal technological constraints.",
+        "• There is a growing trend in South Korea of inventing new types of media and applications leveraging advanced 4G and 5G internet infrastructure.",
+        "• South Korea’s robust telecommunications infrastructure supports a dense population and culturally diverse environment, fostering the creation of strong local particularities in technology and media development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:01:59.550879",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "0.7",
+      "section_name": "The economy after the COVID-19 pandemic",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, South Korea's economy reached a critical turning point, marked by a consistent decline in its manufacturing sector due to the growth of mainland China's manufacturing industry and the lingering impacts of the COVID-19 pandemic.",
+        "• SP Global reported that South Korea's export of manufactured goods to mainland China decreased by 4.4% in the fourth quarter of 2022 and sharply declined by 31% in January 2023, highlighting the challenges in one of South Korea's largest trading partnerships.",
+        "• The primary electronic manufacturing industry in South Korea experienced a downturn, with the information and communication technology sector's share of total exports falling from 34% in 2022 to 24% by the end of that year.",
+        "• In response to economic challenges, the South Korean government undertook massive fiscal spending in 2020, resulting in a rise in the fiscal deficit as projected in the national budget.",
+        "• The debt-to-GDP ratio increased from 37.1% in 2019 to 41.2% in 2020, reflecting the government's expanded fiscal measures during the pandemic.",
+        "• In 2021, the government introduced an additional $29 billion budget aimed at supporting small businesses and boosting employment amid economic difficulties.",
+        "• The debt-to-GDP ratio was forecasted to rise further to 47.4% of GDP in 2024, indicating ongoing fiscal pressures.",
+        "• South Korea faced a recession triggered by downturns in multiple manufacturing industries, with economists attributing the slowdown to deteriorating global economic conditions.",
+        "• Persistent inflation, rising household debt, demographic challenges, and productivity issues were identified as key fiscal and monetary factors constraining South Korea's economic growth.",
+        "• The COVID-19 pandemic caused a decrease in private consumption and supply chain bottlenecks, with the Bank of Korea noting a consumer inflation rate increase of approximately 3% following the pandemic's onset.",
+        "• Low interest rates relative to other countries contributed to rising house prices and increased household debt, posing significant economic challenges.",
+        "• To stabilize the economy, the South Korean government implemented the \"Korean New Deal Program,\" investing $144 billion in an expansionary fiscal policy designed to stimulate private consumption and job creation.",
+        "• The Korean New Deal Program aimed to mitigate the economic and social impacts of COVID-19 while addressing climate and environmental risks, with a focus on healthcare and green industries.",
+        "• In August 2023, South Korea's Ministry of Economy and Finance announced the New Growth Strategy 4.0, outlining long-term industrial growth projects and focusing policy and investment on emerging industries.",
+        "• The New Growth Strategy 4.0 includes seven key guidelines: fostering AI semiconductor industries and collaborative ecosystems; dominating the global Urban Air Mobility (UAM) market; securing clean hydrogen production technology via water electrolysis; advancing autonomous driving technologies; promoting battery re-manufacturing and reuse markets; expanding private sector-led My Data-based services; and streamlining research equipment ordering processes to reduce administrative burdens.",
+        "• South Korea is recognized for its excellent healthcare system, biomedical technology, and AI capabilities, with the medical industry valued at approximately $6.7 billion and the medical technology market projected to reach $11.5 billion.",
+        "• The medical industry in South Korea is expected to grow annually by over 6%, indicating a promising future, with economists suggesting that AI adoption will position South Korea as a leader in the biomedical industry.",
+        "• AI technology is anticipated to enhance the medical industry by enabling customized patient services and optimizing cost-benefit outcomes in healthcare delivery.",
+        "• The incorporation of Korean government bonds into the \"World Government Bond Index\" was postponed from November 2024 to April 2025.",
+        "• Korean government bonds were listed as a prospective candidate for inclusion in September 2022 and successfully included in the regular market classification report in the second half of October 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:02.514037",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "0.8",
+      "section_name": "Economic inequality",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2010, data indicated that low-income earners in South Korea, defined as those earning 12 million won or less annually, constituted 37.8% of the country's labour force.",
+        "• Conversely, the highest income earners, defined as those earning 100 million won or more annually, represented 1.4% of South Korea's labour force in 2010.",
+        "• A 2019 survey revealed perceptions of economic inequality among young South Koreans, with 89.3% of women agreeing with the statement that \"people born into poverty can never compete with [those] born into wealth.\"",
+        "• In the same 2019 survey, 81.7% of young South Korean men concurred with the view that individuals born into poverty are unable to compete with those born into wealth, highlighting widespread concern about social mobility."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:01:56.273638",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1",
+      "section_name": "Data",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1980 to 2021, South Korea's GDP in billion US$ PPP increased from 82.7 to 2,517.1, with IMF staff estimates projecting growth to 3,065.4 billion US$ PPP by 2024.",
+        "• GDP per capita in US$ PPP rose from 2,169.4 in 1980 to 48,653.1 in 2021, with projections reaching 59,526.8 by 2024, indicating significant economic development and improved living standards.",
+        "• Nominal GDP in billion US$ grew from 65.4 in 1980 to 1,811.0 in 2021, with IMF estimates forecasting 1,879.0 billion US$ by 2024.",
+        "• Nominal GDP per capita increased from 1,714.6 US$ in 1980 to 35,003.8 US$ in 2021, with projections of 36,488.9 US$ by 2024, reflecting rising income levels.",
+        "• Real GDP growth rates fluctuated over the period, with notable highs such as 13.4% in 1983 and lows including -5.1% in 1998 and -0.7% in 2020; the growth rate was 4.1% in 2021 and is estimated to moderate to 2.7% by 2024.",
+        "• Inflation rates were extremely high in the early 1980s, peaking at 28.7% in 1980, but generally declined thereafter, often remaining below 5% (highlighted in green), with recent inflation rates of 2.5% in 2021 and an estimated 2.3% in 2024.",
+        "• Unemployment rates varied from a high of 7.0% in 1998 during the Asian financial crisis to lows around 2.1% in the mid-1990s; recent unemployment rates were 3.7% in 2021 and projected at 3.3% in 2024.",
+        "• Government debt as a percentage of GDP was not available (n/a) before 1990, then rose from 3.2% in 1990 to 51.3% in 2021, with IMF estimates indicating a further increase to 55.2% by 2024.",
+        "• The data reflects South Korea's rapid economic growth, industrialization, and recovery from financial crises, with steady improvements in GDP, per capita income, and controlled inflation over four decades.",
+        "• The table includes IMF staff estimates for 2022 to 2027, showing continued economic expansion with GDP in PPP terms reaching 3,123 billion US$ in 2023 and nominal GDP per capita projected to rise above 36,000 US$ by 2024.",
+        "• Inflation rates below 5% are highlighted in green, indicating periods of relative price stability, especially from the mid-1980s onward, except for occasional spikes such as 7.5% in 1998 and 5.5% in 2022.",
+        "• The unemployment rate generally remained low, often below 4%, except during economic downturns such as the 1998 Asian financial crisis and the global COVID-19 pandemic in 2020.",
+        "• Government debt as a percentage of GDP increased notably after the 1997-1998 Asian financial crisis and again during the COVID-19 pandemic, reflecting fiscal responses to economic challenges.",
+        "• The data underscores South Korea's transition from a lower-middle-income country in 1980 to a high-income developed economy by the early 21st century, supported by strong export-led growth and economic reforms."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:11.841329",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Shipbuilding",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 1970s and 1980s, South Korea emerged as a leading global producer of ships, including oil supertankers and oil-drilling platforms.",
+        "• Hyundai was the country's major shipbuilder in this period, constructing a 1-million-ton capacity drydock at Ulsan in the mid-1970s.",
+        "• Daewoo entered the shipbuilding industry in 1980 and completed a 1.2-million-ton facility at Okpo on Geoje Island, located south of Busan, by mid-1981.",
+        "• The South Korean shipbuilding industry experienced a decline in the mid-1980s due to the global oil glut and a worldwide recession.",
+        "• New shipbuilding orders sharply decreased in the late 1980s; specifically, new orders in 1988 totaled 3 million gross tons valued at US$1.9 billion.",
+        "• The 1988 figures represented declines of 17.8 percent in gross tonnage and 4.4 percent in value compared to the previous year.",
+        "• Factors contributing to the late 1980s decline included labor unrest, the South Korean government's reluctance to provide financial assistance, and Japan's introduction of low-interest export financing to support its shipbuilders.",
+        "• Despite the downturn, the South Korean shipbuilding industry was projected to expand in the early 1990s due to the need to replace aging ships in global fleets.",
+        "• By 2008, South Korea had become the world's dominant shipbuilder, holding a 50.6% share of the global shipbuilding market.",
+        "• Prominent South Korean shipbuilding companies include Hyundai Heavy Industries, Samsung Heavy Industries, Hanwha Ocean, and the now-bankrupt STX Offshore & Shipbuilding."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:03.396778",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Electronics",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Electronics constitutes one of the principal industries driving South Korea's economy.",
+        "• From the 1980s through the 2000s, South Korean corporations including Samsung, LG, and SK were instrumental in the country's industrial growth.",
+        "• In the year 2017, semiconductors accounted for 17.1% of South Korea's total exports, with Samsung Electronics and SK Hynix being the primary producers.",
+        "• Samsung and LG are prominent manufacturers of various electronic devices, including televisions, smartphones, display panels, and computers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:01.897941",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Automobile",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The automobile industry is a key sector in South Korea's industrial economy, playing a significant role in the country's growth and export activities.",
+        "• During the 1980s, the automobile industry emerged as one of South Korea's major growth and export industries, contributing substantially to economic development.",
+        "• By the late 1980s, the production capacity of South Korea's motor industry had increased more than fivefold since 1984, surpassing 1 million units in 1988.",
+        "• Total investment in car and car-component manufacturing reached over US$3 billion in 1989, indicating significant capital allocation to the sector.",
+        "• In 1988, total vehicle production, including buses and trucks, amounted to 1.1 million units, representing a 10.6 percent increase compared to 1987.",
+        "• Vehicle production grew further to an estimated 1.3 million units in 1989, with the majority being passenger cars.",
+        "• Passenger car production rose markedly from approximately 263,000 units in 1985 to about 846,000 units in 1989, reflecting rapid industry expansion.",
+        "• Automobile exports in 1988 totaled 576,134 units, with 480,119 units (83.3 percent) exported to the United States, highlighting the U.S. as the primary export market.",
+        "• The late 1980s growth in South Korea's automobile industry was largely driven by a surge in exports, particularly to the U.S. market.",
+        "• However, in 1989, automobile exports declined by 28.5 percent compared to 1988, due to sluggish car sales in the United States, especially in the lower-priced segment, and domestic labor disputes.",
+        "• South Korea has since developed into one of the world's largest automobile producers, reflecting sustained industry growth beyond the 1980s.",
+        "• The Hyundai Motor Group stands as South Korea's largest automaker, leading in terms of revenue, production volume, and global market presence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:11.220419",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Mining",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The majority of mineral deposits on the Korean Peninsula are situated in North Korea, whereas South Korea primarily possesses significant deposits of tungsten and graphite.",
+        "• South Korea contains coal, iron ore, and molybdenum deposits; however, these are not abundant, and mining activities related to these minerals are conducted on a relatively small scale.",
+        "• Due to limited domestic mineral resources, South Korea imports a substantial portion of its minerals and ores from foreign countries to meet industrial and economic demands.",
+        "• The coal found in South Korea is predominantly anthracite, which is mainly utilized for heating residential homes and operating boilers rather than for large-scale industrial use.",
+        "• In the year 2019, South Korea ranked as the third largest global producer of bismuth, demonstrating its significant role in the international market for this metal.",
+        "• Also in 2019, South Korea was the fourth largest producer worldwide of rhenium, indicating a notable position in the production of this rare metal.",
+        "• Additionally, South Korea was the tenth largest producer of sulfur globally in 2019, reflecting its contribution to the sulfur supply chain."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:06.963186",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Construction",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Construction has been a significant export industry for South Korea since the early 1960s, serving as a vital source of foreign currency and invisible export earnings.",
+        "• By 1981, overseas construction projects, predominantly located in the Middle East, constituted 60 percent of the total work undertaken by South Korean construction companies.",
+        "• In 1981, the value of overseas construction contracts secured by South Korean firms reached US$13.7 billion.",
+        "• In 1988, overseas construction contracts declined sharply to US$2.6 billion, with orders from the Middle East amounting to US$1.2 billion, representing only a 1 percent increase over the previous year.",
+        "• During the same year, new domestic construction project orders totaled US$13.8 billion, marking an 8.8 percent increase compared to 1987, indicating a strategic shift by South Korean construction companies toward the rapidly expanding domestic market in the late 1980s.",
+        "• By 1989, the overseas construction market showed signs of revival, exemplified by Dong Ah Construction Company’s signing of a US$5.3 billion contract with Libya to build the second and subsequent phases of Libya's Great Man-Made River Project, which was projected to cost US$27 billion upon completion of all five phases.",
+        "• In 1989, South Korean construction companies collectively signed overseas contracts valued at over US$7 billion.",
+        "• Among South Korea's largest construction companies is Samsung C&T Corporation, renowned for constructing some of the tallest and most iconic skyscrapers globally, including three consecutive world record holders: the Petronas Towers, Taipei 101, and the Burj Khalifa.",
+        "• The image reference notes breakwater construction on the Seosan coast in 1984, illustrating South Korea’s domestic construction activities during this period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:10.503633",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "Armaments",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• South Korea's significant technological advancements and industrialization have enabled the country to produce increasingly advanced military equipment.",
+        "• In the 1960s, South Korea was reliant on the United States for supplying its armed forces with military equipment.",
+        "• Following the implementation of President Richard M. Nixon's Vietnamisation policy in the early 1970s, South Korea began manufacturing its own weapons domestically.",
+        "• Since the 1980s, South Korea has expanded its role to exporting military equipment and technology as a means to enhance its international trade.",
+        "• Key South Korean military export projects include the T-155 Firtina self-propelled artillery supplied to Turkey.",
+        "• South Korea developed and exported the K11 air-burst rifle to the United Arab Emirates.",
+        "• The Bangabandhu class guided-missile frigate was produced for Bangladesh as part of South Korea’s military exports.",
+        "• South Korea supplied fleet tankers such as the Sirius class to the navies of Australia, New Zealand, and Venezuela.",
+        "• The Makassar class amphibious assault ships were exported to Indonesia by South Korea.",
+        "• The KT-1 trainer aircraft was exported to Turkey, Indonesia, and Peru, showcasing South Korea’s role in military aviation exports.",
+        "• South Korea also exports core components for advanced military hardware used by other countries, including modern aircraft like the F-15K fighters and AH-64 attack helicopters designated for Singapore.",
+        "• Singapore’s F-15K fighter airframes are built by Korea Aerospace Industries under a joint-production agreement with Boeing.",
+        "• South Korea has engaged in major outsourcing and joint-production deals, including the joint production of the Russian S-300 air defence system through Samsung Group, although this particular verification is noted as failed.",
+        "• South Korea was set to facilitate sales of Mistral class amphibious assault ships to Russia, with production by STX Corporation; however, this deal was canceled in 2014 due to Russia’s actions in Ukraine.",
+        "• Following the cancellation of the Russian deal, the Mistral class ships were sold to Egypt instead.",
+        "• South Korea’s defense exports amounted to $1.03 billion in 2008.",
+        "• Defense exports increased to $1.17 billion in 2009, reflecting growth in South Korea’s military export sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:13.678785",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, South Korea received 11.1 million foreign tourists, marking it as one of the most visited countries globally, an increase from 8.5 million foreign tourists in 2010.",
+        "• The rise in tourism from various Asian countries to South Korea is largely attributed to the growing popularity of the Korean Wave, also known as _Hallyu_.",
+        "• Seoul serves as the principal tourist destination for international visitors to South Korea.",
+        "• Other notable tourist destinations outside of Seoul include the major coastal city of Busan, the Seorak-san national park, the historic city of Gyeongju, and the subtropical Jeju Island."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:10.197124",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "2",
+      "section_name": "Trade statistics",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, South Korea's top export product was integrated circuits, accounting for 17.7% of total exports with a value of $116 billion.",
+        "• Cars were the second largest export product in 2021, representing 6.85% of exports valued at $44.7 billion.",
+        "• Refined petroleum exports constituted 5.57% of South Korea's total exports in 2021, amounting to $36.4 billion.",
+        "• Motor vehicle parts made up 2.95% of exports in 2021, with a value of $19.3 billion.",
+        "• Office machine parts contributed 2.76% to the export portfolio in 2021, totaling $18 billion.",
+        "• Passenger and cargo ships accounted for 2.71% of exports in 2021, valued at $17.71 billion.",
+        "• Telephones represented 2.46% of South Korea's exports in 2021, with an export value of $16.1 billion.",
+        "• Machinery exports comprised 1.78% of the total in 2021, equaling $11.6 billion.",
+        "• Blank audio media accounted for 1.66% of exports in 2021, with a value of $10.8 billion.",
+        "• Other export products collectively made up 55.6% of South Korea's exports in 2021, valued at $362.39 billion.",
+        "• In 2021, the largest import product for South Korea was crude petroleum, constituting 10.5% of imports with a value of $60.6 billion.",
+        "• Integrated circuits were the second largest import item in 2021, accounting for 8.21% of imports valued at $41.4 billion.",
+        "• Petroleum gas imports represented 4.25% of total imports in 2021, amounting to $24.5 billion.",
+        "• Refined petroleum imports made up 4.2% of South Korea's imports in 2021, valued at $24.3 billion.",
+        "• Photo lab equipment imports accounted for 2.88% of the total in 2021, with a value of $16.6 billion.",
+        "• Coal briquettes constituted 2.27% of imports in 2021, totaling $13.1 billion.",
+        "• Cars were imported at 2.09% of total imports in 2021, valued at $12 billion.",
+        "• Machinery imports made up 1.37% of the total in 2021, amounting to $7.9 billion.",
+        "• Computers accounted for 1.32% of South Korea's imports in 2021, with a value of $7.6 billion.",
+        "• Other import products collectively represented 62.91% of total imports in 2021, valued at $370 billion.",
+        "• In 2018, South Korea's top export partner was China, receiving exports worth $162,125 million, which was 26.8% of total exports.",
+        "• The United States was the second largest export destination in 2018, with exports valued at $72,720 million or 12.0% of the total.",
+        "• Vietnam ranked third among export partners in 2018, accounting for $48,622 million or 8.0% of exports.",
+        "• Hong Kong was the fourth largest export partner in 2018, with exports totaling $45,996 million (7.6%).",
+        "• Japan received $30,529 million in exports from South Korea in 2018, representing 5.1% of total exports.",
+        "• Russia accounted for 3.4% of South Korea's exports in 2018, with a value of $20,872 million.",
+        "• Taiwan was a significant export partner in 2018, receiving $20,784 million or 3.2% of exports.",
+        "• India imported $15,606 million worth of goods from South Korea in 2018, representing 2.6% of exports.",
+        "• The Philippines and Singapore each accounted for approximately 2.0% of South Korea's exports in 2018, with values of $12,037 million and $11,782 million respectively.",
+        "• Mexico was also among the top export partners in 2018, with exports valued at $11,458 million (1.9%).",
+        "• Other countries collectively received 28.6% of South Korea's exports in 2018, totaling $173,201 million.",
+        "• The total value of South Korea's exports in 2018 was $604,860 million.",
+        "• In 2018, China was also South Korea's largest import partner, supplying goods worth $106,489 million or 19.9% of total imports.",
+        "• The United States was the second largest source of imports in 2018, with imports valued at $58,868 million (11.0%).",
+        "• Japan ranked third among import partners in 2018, providing $54,604 million worth of goods (10.2%).",
+        "• Saudi Arabia was a significant import partner in 2018, accounting for $26,336 million or 4.9% of imports.",
+        "• Germany and Australia each contributed approximately 3.9% to South Korea's imports in 2018, with values of $20,854 million and $20,719 million respectively.",
+        "• Vietnam supplied $19,643 million worth of imports to South Korea in 2018, representing 3.7% of total imports.",
+        "• Russia and Taiwan were also notable import partners in 2018, with imports valued at $17,504 million (3.4%) and $16,738 million (3.1%) respectively.",
+        "• Qatar accounted for 3.0% of South Korea's imports in 2018, totaling $16,294 million.",
+        "• Singapore contributed 2.0% to imports in 2018, with a value of $12,762 million.",
+        "• Other countries collectively made up 33.1% of South Korea's imports in 2018, valued at $177,153 million.",
+        "• The total value of South Korea's imports in 2018 was $535,202 million.",
+        "• In 2018, South Korea had a positive trade balance (surplus) with China amounting to $55,636 million.",
+        "• Hong Kong was the second largest surplus partner in 2018, with a trade surplus of $43,999 million.",
+        "• Vietnam's trade surplus with South Korea in 2018 was $28,979 million.",
+        "• The United States accounted for a $13,852 million trade surplus in favor of South Korea in 2018.",
+        "• India had a positive trade balance of $9,722 million with South Korea in 2018.",
+        "• The Philippines and Mexico had trade surpluses with South Korea of $8,468 million and $6,368 million respectively in 2018.",
+        "• Turkey, Taiwan, and Singapore also recorded trade surpluses with South Korea in 2018, valued at $4,791 million, $4,045 million, and $3,808 million respectively.",
+        "• Other countries collectively showed a negative trade balance of −$110,011 million with South Korea in 2018.",
+        "• The total positive trade balance for South Korea in 2018 was $69,657 million.",
+        "• In 2018, South Korea had a negative trade balance (deficit) with Japan amounting to −$24,075 million.",
+        "• Saudi Arabia was the second largest deficit partner in 2018, with a trade deficit of −$22,384 million.",
+        "• Qatar's trade deficit with South Korea in 2018 was −$15,768 million.",
+        "• Kuwait and Germany had trade deficits with South Korea of −$11,541 million and −$11,481 million respectively in 2018.",
+        "• Australia, Russia, Iraq, United Arab Emirates, and Chile also recorded trade deficits with South Korea in 2018, valued at −$11,108 million, −$10,183 million, −$7,658 million, −$4,699 million, and −$2,667 million respectively.",
+        "• Other countries collectively showed a positive trade balance of $191,221 million with South Korea in 2018.",
+        "• The total negative trade balance for South Korea in 2018 was $69,657 million, balancing the overall trade figures."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:37.337135",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 59
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "3",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of South Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1991, South Korea has experienced a steady upward trend in mergers and acquisitions (M&A) activity, continuing until 2018, with only a brief interruption around 2004.",
+        "• From 1991 onwards, approximately 18,300 M&A deals involving South Korea—either inbound, outbound, or domestic—have been announced.",
+        "• The cumulative value of these M&A deals since 1991 exceeds 941 billion USD.",
+        "• The year 2016 marked the peak of M&A activity in South Korea, recording the highest total deal value of 1,818 billion USD and the greatest number of deals, totaling 82.3 (units presumably in hundreds or thousands, though the original text states \"82,3\").",
+        "• Target industries for M&A deals in South Korea are evenly distributed, with no single industry accounting for more than 10% of total deals.",
+        "• The three leading target industries by share are electronics at 9.7%, semiconductors at 9.1%, and metals and mining at 7.7%.",
+        "• More than 51% of acquiring companies in South Korean M&A transactions originate from the financial and brokerage sector, indicating a dominant role of this sector in acquisition activity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:15.222666",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_south_korea.json",
+      "original_index": 18
+    }
+  ]
+}

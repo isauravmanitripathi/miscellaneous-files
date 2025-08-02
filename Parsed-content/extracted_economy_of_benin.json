@@ -1,0 +1,151 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_benin.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.523891",
+    "total_sections_in_source": 5,
+    "extracted_sections_count": 5,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Benin",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Benin is characterized as underdeveloped and heavily reliant on subsistence agriculture and cotton production.",
+        "• Cotton constitutes approximately 40% of Benin's Gross Domestic Product (GDP).",
+        "• Cotton also accounts for roughly 80% of the country's official export receipts.",
+        "• In addition to cotton, Benin produces textiles, palm products, and cocoa beans for economic activity.",
+        "• The country cultivates various crops for local subsistence, including maize (corn), beans, rice, peanuts, cashews, pineapples, cassava, yams, and other tubers.",
+        "• Benin began offshore oil production in October 1982, marking a modest start in its energy sector.",
+        "• Oil production in Benin ceased in recent years, though exploration activities for new offshore sites are ongoing.",
+        "• The country maintains a modest fishing fleet that supplies fish and shrimp primarily for local consumption and export to Europe.",
+        "• Formerly state-owned commercial enterprises have been privatized; for example, a French brewery acquired the former state-run brewery.",
+        "• Smaller businesses in Benin are privately owned by local Beninese citizens, while some firms are foreign-owned, predominantly by French and Lebanese investors.",
+        "• The private sector, encompassing commercial and agricultural activities, remains the main driver of economic growth in Benin."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:43:24.313008",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_benin.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic development",
+      "chapter_name": "Economy of Benin",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the transition to a democratic government in 1990, Benin has experienced an economic recovery characterized by increased external investment from both private and public sources.",
+        "• This influx of investment has helped alleviate the economic difficulties faced in the early 1990s, which were primarily caused by the global recession and persistently low commodity prices, although the impact of low commodity prices continues to affect Benin’s economy.",
+        "• The manufacturing sector in Benin is limited to some light industries, mainly engaged in processing primary products and producing consumer goods, including cow production.",
+        "• A planned joint hydroelectric project with neighboring Togo aims to reduce Benin’s dependence on imported energy, which is currently largely sourced from Ghana and constitutes a significant portion of the country’s imports.",
+        "• The service sector has experienced rapid growth, driven by economic liberalization and fiscal reforms, leading to increased adoption and use of modern technologies such as automobiles and computers.",
+        "• Membership in the CFA Franc Zone provides Benin with currency stability and access to economic support from France.",
+        "• Benin primarily exports its products to France and, in smaller quantities, to the Netherlands, Korea, Japan, and India; France is the leading source of imports for Benin.",
+        "• The country is a member of the Economic Community of West African States (ECOWAS).",
+        "• Despite rapid economic growth, Benin’s economy remains underdeveloped and heavily reliant on subsistence agriculture, cotton production, and regional trade.",
+        "• Since 1996, Benin’s real GDP growth has averaged approximately 5% annually; however, rapid population growth has offset much of this growth on a per capita basis.",
+        "• Inflation in Benin has decreased over the past several years, contributing to economic stability.",
+        "• Commercial and transport activities, which constitute a large part of GDP, are vulnerable to developments in Nigeria, especially fuel shortages.",
+        "• Trade unions in Benin represent up to 75% of the formal workforce; however, the large informal economy presents ongoing challenges such as lack of women’s wage equality, child labor, and forced labor.",
+        "• The International Trade Union Confederation (ITCU) has noted these issues within Benin’s informal economy.",
+        "• In December 2014, the Bureau of International Labor Affairs included Benin among 75 countries with significant instances of child labor or forced labor, specifically citing cotton and crushed granite as major products associated with these conditions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:43:31.932038",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_benin.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Benin",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Benin produced approximately 3.8 million tons of cassava, ranking as the 17th largest producer globally.",
+        "• The country produced about 2.7 million tons of yam, making it the 4th largest producer in the world, behind Nigeria, Ghana, and Ivory Coast.",
+        "• Benin's maize production in 2018 was approximately 1.5 million tons.",
+        "• Cotton production reached around 758 thousand tons, positioning Benin as the 12th largest producer worldwide.",
+        "• Palm oil output was approximately 598 thousand tons.",
+        "• Rice production totaled about 459 thousand tons.",
+        "• Pineapple production was approximately 372 thousand tons.",
+        "• Sorghum production reached around 319 thousand tons.",
+        "• Tomato output was approximately 253 thousand tons.",
+        "• Peanut production was about 225 thousand tons.",
+        "• Soybean production was approximately 221 thousand tons.",
+        "• Benin produced around 215 thousand tons of cashew nuts, ranking as the 5th largest producer globally, behind Vietnam, India, Ivory Coast, and the Philippines.",
+        "• Besides these major crops, Benin also produced smaller quantities of various other agricultural products."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:43:36.299134",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_benin.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Financial Sector",
+      "chapter_name": "Economy of Benin",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Benin's financial sector is predominantly composed of banks and is characterized as shallow, indicating limited depth and breadth in financial services and infrastructure.",
+        "• Significant reforms in the 1990s led to the consolidation of the banking sector and the privatization of all state-owned banks, transforming the financial landscape.",
+        "• A comprehensive legal framework governing banking activities—including licensing, operational regulations, organizational and capital requirements, inspections, and sanctions—is in place and underwent major reforms in 1999 to enhance regulation and oversight.",
+        "• There is no customer deposit insurance system in Benin, implying that depositors do not have formal government-backed guarantees for their deposits.",
+        "• Benin maintains a vibrant and diversified microfinance sector, which plays a crucial role in financial inclusion.",
+        "• According to data from 2003 by the Central Bank, microfinance services had a penetration rate of nearly 60 percent, indicating widespread access among the population.",
+        "• As of 2006, the Ministry of Microfinance and Employment of Youth and Women reported 762 microfinance organizations operating in Benin, with a total of 1,308 branches. These organizations include cooperatives, NGOs, savings and credit associations, and government projects.",
+        "• Sector strengthening programs are implemented at both national and regional levels, such as the PRAFIDE (Programme Régional d’Appui à la finance Décentralisée), aimed at supporting decentralized finance initiatives.",
+        "• The microfinance sector is supervised by both the Central Bank and the Ministry responsible for Microfinance and Employment of Youth and Women, ensuring regulatory oversight.",
+        "• Benin is a member of the Bourse Regionale des Valeures Mobilières (BRVM), a regional stock exchange based in Abidjan, Côte d'Ivoire, facilitating regional securities trading.",
+        "• Regional stock market activities include issuance of stocks by various companies and bonds issued by both regional companies and governments of the West African Monetary and Economic Union (UEMOA).",
+        "• The payment and settlement system in Benin was reformed in 2004 through the Central Bank of West African States (BCEAO), introducing Real-Time Gross Settlement (RTGS) and SWIFT access for banks, financial institutions, the stock exchange, the Central Bank, and specialized banks.",
+        "• Key banking institutions operating in Benin include: Banque Internationale du Bénin (BI.BE), Bank of Africa Benin, Continental Bank Benin, Diamond Bank Benin (DBB), Ecobank, Financial Bank, Finadev, Caisse Nationale d'Epargne, Credit du Bénin, Equibail, United Bank of Africa, Africa Bank for Industry and Trade, and Sahelo-Saharian Bank of Industry and Trade Development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:43:47.618593",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_benin.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Data",
+      "chapter_name": "Economy of Benin",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The data section presents main economic indicators of Benin spanning from 1980 to 2024, providing a comprehensive overview of the country's economic development over this period.",
+        "• The table includes the following key indicators: Gross Domestic Product (GDP) in billion US dollars based on Purchasing Power Parity (PPP), GDP per capita in US dollars (PPP), nominal GDP in billion US dollars, real GDP growth rate, inflation rate, and government debt as a percentage of GDP.",
+        "• In 1980, Benin's GDP (PPP) was approximately 3.75 billion US dollars, with a GDP per capita of 1,000 US dollars (PPP), and a nominal GDP of 2.30 billion US dollars.",
+        "• The GDP (PPP) increased steadily over the years, reaching 63.54 billion US dollars in 2024, indicating significant economic growth.",
+        "• Correspondingly, GDP per capita rose from 1,000 US dollars in 1980 to an estimated 4,501 US dollars in 2024, reflecting improvements in individual economic well-being.",
+        "• Nominal GDP grew from 2.30 billion US dollars in 1980 to 21.32 billion US dollars in 2024, showing expansion in the country's market value.",
+        "• Real GDP growth rates fluctuated over the years, with notable periods of higher growth such as 7.2% in 2013 and 7.2% again in 2021, and periods of slower or negative growth, such as -1.1% in 2014 and -0.9% in 2019.",
+        "• The inflation rate varied from as low as -1.1% in 2014 to as high as 9.6% in 1980, with recent years maintaining moderate inflation around 2-3%.",
+        "• Government debt as a percentage of GDP was not available (n/a) for the years 1980-1995 but became available from 2000 onward, showing a rising trend from 39.6% in 2000 to a peak of 54.5% in 2023, then slightly decreasing to 54.0% in 2024.",
+        "• In 2000, government debt was 39.6% of GDP, increasing to over 50% in subsequent years, indicating rising debt levels relative to economic output.",
+        "• The data demonstrates that Benin experienced consistent economic growth in both PPP and nominal terms, with improvements in per capita income and fluctuations in growth and inflation rates.",
+        "• The period from 2010 onward shows a notable acceleration in GDP growth, with rates generally between 3.8% and 7.2%, and a steady increase in GDP and per capita income.",
+        "• The economic indicators collectively reflect Benin’s gradual economic development, increased integration into global markets, and evolving fiscal dynamics over the four-decade span."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:44:01.166509",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_benin.json",
+      "original_index": 4
+    }
+  ]
+}

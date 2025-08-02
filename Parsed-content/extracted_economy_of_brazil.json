@@ -1,0 +1,717 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_brazil.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.564181",
+    "total_sections_in_source": 25,
+    "extracted_sections_count": 25,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Brazil is the largest in Latin America and the Southern Hemisphere in nominal terms.",
+        "• As of 2024, Brazil is the third-largest economy in the Americas in nominal GDP and the second-largest in purchasing power parity (PPP).",
+        "• Brazil is classified as an upper-middle-income developing economy.",
+        "• In 2024, the International Monetary Fund (IMF) ranked Brazil as having the 10th largest nominal gross domestic product (GDP) in the world.",
+        "• In the same year, Brazil held the 7th position globally in PPP GDP.",
+        "• According to Forbes in 2024, Brazil was the 7th largest country in the world by the number of billionaires.",
+        "• Brazil is recognized as one of the ten chief industrial states globally by the International Labour Organization.",
+        "• The IMF reports Brazil’s nominal GDP at US$2.331 trillion in 2024.",
+        "• Brazil has a long-standing history of being among the world's largest economies.",
+        "• The GDP per capita in Brazil was US$11,178 per inhabitant in 2024.",
+        "• The country is rich in natural resources.",
+        "• Between 2000 and 2012, Brazil experienced an average annual GDP growth rate of over 5%, making it one of the fastest-growing major economies during that period.",
+        "• In 2012, Brazil’s GDP surpassed that of the United Kingdom, temporarily ranking as the sixth-largest economy in the world.",
+        "• Brazil’s economic growth slowed in 2013, and the country entered a recession in 2014.",
+        "• The economy began to recover in 2017, with a 1% growth in the first quarter and a 0.3% growth in the second quarter compared to the same periods in the previous year.",
+        "• Brazil officially exited the recession during this recovery phase.",
+        "• According to the World Economic Forum, Brazil was the top country in upward evolution of competitiveness in 2009, gaining eight positions among other nations.",
+        "• In 2009, Brazil overcame Russia in competitiveness rankings and partially closed the gap with India and China among BRICS economies.",
+        "• Since the 1990s, Brazil has implemented significant measures toward fiscal sustainability and economic liberalization, boosting its competitiveness fundamentals and creating a better environment for private-sector development.",
+        "• Brazil is a member of several major economic organizations, including Mercosur, Prosur, G8+5, G20, WTO, Paris Club, Cairns Group, and is an advanced candidate for permanent membership in the OECD.",
+        "• Historically a colony focused on primary sector goods such as sugar, gold, and cotton, Brazil developed a diversified industrial base during the 20th century.",
+        "• The steel industry exemplifies this diversification, with Brazil ranking as the 9th largest steel producer in 2018.",
+        "• In 2018, Brazil was the 5th largest net steel exporter in the world.",
+        "• Gerdau is the largest producer of long steel in the Americas.",
+        "• Vale is the largest producer of iron ore globally.",
+        "• Petrobras, the Brazilian oil and gas company, is the most valuable company in Latin America."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:50:39.078329",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• When Portuguese explorers arrived in the 16th century, the native tribes of current-day Brazil numbered approximately 2.5 million people and had lived with minimal change since the Stone Age.",
+        "• From Portugal's colonization of Brazil (1500–1822) until the late 1930s, the Brazilian economy was primarily based on the production and export of primary commodities.",
+        "• During the Portuguese Empire period, Brazil's economy was governed by an imperial mercantile policy centered around three major large-scale production cycles: sugar, gold, and from the early 19th century onward, coffee.",
+        "• The economy of Brazil was heavily reliant on African slave labor until the late 19th century, with approximately 3 million African slaves imported in total.",
+        "• Brazil was the colony within the Portuguese Empire with the largest number of European settlers, predominantly Portuguese (including Azoreans and Madeirans), but also Dutch (notably during Dutch Brazil), Spaniards, English, French, Germans, Flemish, Danish, Scottish, and Sephardic Jews.",
+        "• Following the colonial period, Brazil experienced significant economic and demographic growth, accompanied by mass European immigration from countries including Portugal (including Azores and Madeira), Italy, Spain, Germany, Poland, Ukraine, Switzerland, Austria, and Russia.",
+        "• Smaller immigrant groups arrived from the Netherlands, France, Finland, Iceland, Scandinavian countries, Lithuania, Belgium, Bulgaria, Hungary, Greece, Latvia, England, Ireland, Scotland, Croatia, Czech Republic, Malta, North Macedonia, and Luxembourg, as well as from the Middle East (Lebanon, Syria, Armenia), Japan, the United States, and South Africa, until the 1930s.",
+        "• The influx of international immigrants during the 19th century positively impacted Brazil’s human capital development, as immigrants generally had better formal and informal training and exhibited a stronger entrepreneurial spirit than native Brazilians.",
+        "• Immigrants contributed to regional development through skill transfer and human capital spillover effects, which were most pronounced in regions with higher immigrant populations and remain observable today.",
+        "• By 2007, Brazil had a population exceeding 190 million and was one of the ten largest markets globally, producing large quantities of industrial goods such as tens of millions of tons of steel, 26 million tons of cement, 3.5 million televisions, and 3 million refrigerators.",
+        "• In 2007, Brazil processed approximately 70 million cubic meters of petroleum annually into fuels, lubricants, propane gas, and hundreds of petrochemicals.",
+        "• Brazil's infrastructure included at least 161,500 kilometers of paved roads, over 150 gigawatts of installed electric power capacity, and a real per capita GDP surpassing US$9,800 in 2017.",
+        "• The industrial sector accounts for about 60% of South America’s total industrial production.",
+        "• Brazil's scientific and technological development has made the country attractive to foreign direct investment, ranking as the 4th largest destination for foreign investments in 2019, behind the United States, China, and Singapore.",
+        "• The agricultural sector, known locally as _agronegócio_ (agro-business), has been highly dynamic for over two decades, maintaining Brazil’s position as one of the most productive countries in rural-related areas.",
+        "• The agricultural and mining sectors have contributed to trade surpluses, enabling significant currency appreciation and external debt reduction.",
+        "• In 2010, amid a downturn in Western economies, Brazil sought to halt the appreciation of the real currency.",
+        "• One of the most notable corruption scandals in Brazil involves Odebrecht, which since the 1980s has spent several billion dollars in bribes to influence political decisions.",
+        "• Odebrecht’s corruption activities included paying bribes to parliamentarians to secure favorable votes and encouraging privatizations at the municipal level, particularly in water and sewer management."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:50:48.228058",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Data",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In August 2014, Brazil experienced an inverted yield curve in its bond market, where the 1-year bond yield surpassed the 10-year bond yield, indicating a potential economic slowdown or recession signal.",
+        "• The main Brazilian government bonds referenced include the 1-year, 5-year, and 10-year bonds, with specific yield behaviors noted during this period.",
+        "• The section provides a comprehensive table of Brazil’s main economic indicators from 1980 to 2023, with projections for 2024–2028 based on IMF estimates.",
+        "• The table highlights that inflation below 5% is marked in green, emphasizing periods of relatively low inflation.",
+        "• Brazil’s Gross Domestic Product (GDP) in Purchasing Power Parity (PPP) terms increased from $570.5 billion in 1980 to $4,456.6 billion in 2023, with projections reaching $5,780.4 billion in 2029.",
+        "• GDP per capita in PPP terms grew from $4,811.9 in 1980 to $21,052.9 in 2023, with a forecast of $26,771.9 in 2029.",
+        "• Nominal GDP rose from $145.8 billion in 1980 to $2,173.8 billion in 2023, projected to reach $2,854.9 billion in 2029.",
+        "• Nominal GDP per capita increased from $1,203.6 in 1980 to $10,268.0 in 2023, with an estimate of $13,222.9 in 2029.",
+        "• Brazil’s real GDP growth fluctuated over the years, with notable periods of contraction such as −4.4% in 1981, −4.2% in 1990, and −3.5% in 2015, and growth periods like 7.5% in 2010 and 5.0% in 2021.",
+        "• Inflation rates varied significantly, with extremely high inflation during the 1980s and early 1990s, reaching 1927.4% in 1993, and periods of low inflation below 5% in recent years, notably 3.7% in 2022 and 2023.",
+        "• Unemployment rates in Brazil showed considerable fluctuation, with a high of 1430.7% in 1989, and more recent rates around 3.4% to 9.4%, with 8.3% in 2023.",
+        "• Government debt as a percentage of GDP increased from negligible levels in 1980 to 66.0% in 1995, then fluctuated, reaching 88.0% in 2023, with projections around 96.0% in 2028.",
+        "• The data indicates a trend of increasing government debt-to-GDP ratio over the decades, reflecting fiscal challenges.",
+        "• The economic indicators demonstrate Brazil’s transition from hyperinflation and economic instability in the 1980s and early 1990s to more stable growth and inflation control in recent years.",
+        "• The IMF projections suggest continued moderate growth, with GDP growth rates around 2.2% to 3.5% from 2024 to 2029.",
+        "• Inflation is expected to remain low, generally below 5%, with specific estimates of 3.4% in 2024, 3.3% in 2025, and around 3.0% to 3.0% in subsequent years.",
+        "• The data underscores Brazil’s economic resilience and ongoing challenges related to debt levels, inflation management, and employment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:50:58.131311",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Components",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The service sector is the largest component of Brazil's gross domestic product (GDP), accounting for 67.0 percent of the total.",
+        "• The industrial sector is the second-largest component, contributing 27.5 percent to the GDP.",
+        "• Agriculture constitutes 5.5 percent of Brazil's GDP as of 2011.",
+        "• The Brazilian labor force is estimated at approximately 100.77 million people.",
+        "• Of the total labor force, about 10 percent are employed in agriculture.",
+        "• Approximately 19 percent of the labor force work in the industrial sector.",
+        "• The remaining 71 percent of the labor force are employed in the service sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:51:01.001173",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Agricultural sector",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture in Brazil encompasses key products such as coffee, soybeans, wheat, rice, corn, sugarcane, cocoa, citrus fruits, and beef, forming a vital component of the country's economy.",
+        "• The agricultural sector employs approximately 15.7% of Brazil's total labor force, reflecting its significant role in employment.",
+        "• Agriculture contributes about 5.9% to Brazil's total Gross Domestic Product (GDP), indicating its importance in the national economy.",
+        "• Brazil is the world's largest producer of sugarcane, soy, coffee, orange, guaraná, açaí, and Brazil nuts; it ranks among the top five global producers of maize, papaya, tobacco, pineapple, banana, cotton, beans, coconut, watermelon, and lemon.",
+        "• The country is also among the top ten worldwide producers of cocoa, cashew, avocado, tangerine, persimmon, mango, guava, rice, sorghum, and tomato; and within the top fifteen producers of grape, apple, melon, peanut, fig, peach, onion, palm oil, and natural rubber.",
+        "• In terms of animal protein production, Brazil is one of the largest global producers; in 2019, it was the world's largest exporter of chicken meat.",
+        "• Brazil was the second-largest producer of beef, the third-largest producer of milk, the fourth-largest producer of pork, and the seventh-largest producer of eggs worldwide in 2019.",
+        "• Despite trade barriers and subsidies by developed countries, agribusiness significantly contributes to Brazil's trade balance.",
+        "• Between 1950 and 2005, Brazil's population grew from 51 million to approximately 187 million inhabitants, at an average annual growth rate of over 2%, fostering the expansion of a complex agribusiness sector.",
+        "• The expansion of agriculture has often occurred at environmental costs, notably impacting the Amazon rainforest.",
+        "• The Brazilian government supports rural producers through the agricultural and cattle-raising plan and the Pronaf program, which provides financing for equipment, cultivation, and encourages technological innovation, benefiting over 800,000 rural inhabitants through credit, research, and extension programs, including special lines for women and young farmers.",
+        "• Brazil's Land Reform Program aims to improve living and working conditions for families in designated areas, creating jobs and infrastructure such as schools and health facilities, with land access being the initial step toward comprehensive land reform.",
+        "• The country has approximately 600,000 km² of land divided into about five thousand rural property areas across three main regions: the Central-western (savannah), northern (transition zone), and parts of the northeastern (semi-arid) regions.",
+        "• The soybean crop leads grain production, yielding over 50 million tonnes out of the total annual grain output of more than 110 million tonnes.",
+        "• Brazil has the largest cattle herd in the world, with 198 million heads, primarily raised in pastures on a diet of hay and mineral salts; this sector has successfully exported to Asia, Europe, and the Americas, especially after the \"mad cow disease\" scare.",
+        "• The \"green ox\" cattle breed has expanded markets internationally, contributing to over US$1 billion annually in exports.",
+        "• Brazil is a pioneer and leader in the manufacture of short-fiber timber cellulose and has achieved notable success in the packaging sector, where it ranks as the fifth-largest global producer.",
+        "• In the global sugar market, Brazil accounts for 25% of raw cane and refined sugar exports.",
+        "• The country is the world's leading exporter of soybeans, responsible for 80% of the world's orange juice production, and since 2003, has maintained the highest sales figures for beef and chicken globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:51:15.336088",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Gold production in the Pantanal region is a notable aspect of Brazil's mining activities, though specific production figures are not provided in this section.",
+        "• Brazil is a prominent player in the global mining sector, particularly in the extraction of iron ore, where it ranks as the world's second-largest exporter.",
+        "• The country is among the top global producers of several minerals, including copper, gold, bauxite, manganese, tin, niobium, and nickel.",
+        "• Brazil is one of the five largest producers worldwide of bauxite and manganese, highlighting its significant role in the global supply of these minerals.",
+        "• The nation is also among the five largest producers of tin globally.",
+        "• Brazil concentrates approximately 98% of the world's known reserves of niobium, emphasizing its dominance in this mineral.",
+        "• In gemstone production, Brazil is the world's largest producer of amethyst, topaz, and agate.",
+        "• Additionally, Brazil is a major producer of tourmaline, emerald, aquamarine, garnet, and opal, making it a key player in the gemstone industry.",
+        "• In 2019, Brazil's mineral production statistics included:",
+        "• Being the world's largest producer of niobium with 88.9 thousand tons.",
+        "• Ranking as the second-largest global producer of tantalum with 430 tons.",
+        "• As the second-largest producer of iron ore, with 405 million tons.",
+        "• Fourth in the world for manganese production, totaling 1.74 million tons.",
+        "• Fourth in bauxite production, reaching 34 million tons.",
+        "• Fourth in vanadium production with 5.94 thousand tons.",
+        "• Fifth in lithium production, with 2.4 thousand tons.",
+        "• Sixth in tin production, amounting to 14 thousand tons.",
+        "• Eighth in nickel production, with 60.6 thousand tons.",
+        "• Eighth in phosphate production, totaling 4.7 million tons.",
+        "• Twelfth in gold production, with 90 tons.",
+        "• Fourteenth in copper production, with 360 thousand tons.",
+        "• Fourteenth in titanium production, amounting to 25 thousand tons.",
+        "• Thirteenth in gypsum production, with 3 million tons.",
+        "• Third in graphite production, totaling 96 thousand tons.",
+        "• Twenty-first in sulfur production, with 500 thousand tons.",
+        "• Ninth in salt production, reaching 7.4 million tons.",
+        "• Additionally, Brazil produced 200 thousand tons of chromium."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:51:24.654065",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Brazil's industrial production encompasses main industries such as textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, armaments, motor vehicles and parts, and other machinery and equipment.",
+        "• The industrial growth rate in Brazil was 1.1% in 2018.",
+        "• The sector employs approximately 13.3% of the total labor force in Brazil.",
+        "• The industrial sector contributes about 22.2% to Brazil's total GDP.",
+        "• Brazil has the second-largest manufacturing sector in the Americas.",
+        "• Manufacturing industries in Brazil account for 28.5% of the country's GDP.",
+        "• Brazil's industries include automobiles, steel, petrochemicals, computers, aircraft, and consumer durables.",
+        "• Following the implementation of the Plano Real, Brazil experienced increased economic stability, leading to significant investments by Brazilian and multinational companies in new equipment and technology, much of which has been sourced from U.S. firms.",
+        "• According to the World Bank's 2019 list, Brazil ranks as the 13th most valuable industry globally, with a total production value of US$173.6 billion.",
+        "• In the Americas, Brazil's industry is second only to the United States (2nd place) and Mexico (12th place) in total industry value.",
+        "• In 2019, Brazil was the second-largest exporter of processed foods in the world.",
+        "• In 2016, Brazil was the second-largest producer of pulp globally and the eighth-largest producer of paper.",
+        "• In 2019, Brazil ranked fourth in the world in footwear production.",
+        "• Also in 2019, Brazil was the eighth-largest producer of vehicles and the ninth-largest producer of steel worldwide.",
+        "• In 2018, Brazil's chemical industry was ranked eighth globally.",
+        "• Although among the five largest producers in the world in 2013, Brazil's textile industry remains minimally integrated into global trade.",
+        "• Brazil's aviation sector is represented by Embraer, the third-largest aircraft manufacturer in the world, behind Boeing and Airbus.",
+        "• Brazil has a diverse and sophisticated services industry, with the banking sector accounting for up to 16% of GDP in the early 1990s.",
+        "• The financial services industry in Brazil offers a wide range of products, attracting new entrants including U.S. financial firms, despite ongoing reforms.",
+        "• On 8 May 2008, the São Paulo Stock Exchange (Bovespa) merged with the Brazilian Mercantile and Futures Exchange (BM&F), forming BM&F Bovespa, one of the largest stock exchanges globally.",
+        "• The reinsurance sector, previously monopolistic, is being liberalized to allow third-party companies.",
+        "• As of 31 December 2007, Brazil had approximately 21,304,000 broadband lines, with over 75% via DSL and 10% via cable modems.",
+        "• Brazil possesses extensive proven mineral resources, including large reserves of iron and manganese critical for industrial raw materials and export earnings.",
+        "• Mineral deposits exploited in Brazil include nickel, tin, chromite, uranium, bauxite, beryllium, copper, lead, tungsten, zinc, gold, and others.",
+        "• High-quality coking-grade coal necessary for steel production is in short supply in Brazil.",
+        "• In recent years, Brazil's defense industry has gained prominence, with exports exceeding US$1 billion annually.",
+        "• High-technology defense products exported include the Embraer C-390 Millennium transport jet, Embraer EMB 314 Super Tucano light attack aircraft, VBTP-MR Guarani 6×6 armoured personnel carrier, and firearms such as pistols and rifles produced by Taurus Armas.",
+        "• Embraer is recognized as one of the world's top 100 defense contractors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:51:34.381883",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 28
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Creative Industries",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The initial study examining the impact of the Creative Industries on the Brazilian economy was published by FIRJAN.",
+        "• The Latin American creative economy is referred to as the \"Orange Economy,\" a term popularized in a publication by the Inter-American Development Bank (IDB).",
+        "• The 2013 IDB study valued Brazil's Orange Economy at US$66.87 billion.",
+        "• This sector was responsible for creating 5,280,000 jobs in Brazil.",
+        "• Brazil's Orange Economy generated US$9.414 million in exports.",
+        "• The value of creative exports in Brazil surpassed the US$8.016 million worth of coffee exports during the same period.",
+        "• The section mentions Lençóis Maranhenses, though no specific details are provided within this excerpt.",
+        "• A 2021 study focused on the Intellectual Property (IP) Intensive Sectors within the Brazilian economy, conducted as part of the National Strategy on Intellectual Property 2021–2030.",
+        "• The 2021 study identified that out of 673 economic classes, 450 could be classified as IP-intensive sectors.",
+        "• These IP-intensive sectors collectively employed 19.3 million people across Brazil.",
+        "• Between 2014 and 2016, the share of Brazil's GDP contributed by these IP-intensive sectors amounted to R$2.1 trillion (reais).",
+        "• The GDP share of these sectors represented 44.2% of the total Brazilian GDP during that period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:51:40.219985",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Brazil was ranked as the 48th most visited country in the world in terms of tourism, with a total of 6.6 million international tourists.",
+        "• The tourism sector in Brazil generated approximately 5.9 billion U.S. dollars in revenue during that year.",
+        "• Overall, tourism in South America remains relatively underdeveloped compared to other continents.",
+        "• In Europe, countries such as Spain and France have significantly higher tourism revenues, with Spain earning about 73.7 billion dollars from tourism and receiving 82.7 million tourists, and France earning approximately 67.3 billion dollars with 89.4 million tourists in 2018.",
+        "• Europe as a whole received approximately 710 million tourists in 2018.",
+        "• Asia received around 347 million tourists in 2018, while North America received approximately 142.2 million tourists.",
+        "• South America, including Brazil, received only about 37 million tourists in 2018, highlighting its underdeveloped tourism industry relative to other regions.",
+        "• Central America attracted approximately 10.8 million tourists, and the Caribbean received about 25.7 million tourists in 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:51:44.827267",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.6",
+      "section_name": "Largest companies",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• São Paulo serves as the largest financial center in Brazil and is recognized as one of the major financial hubs globally.",
+        "• In 2017, twenty Brazilian companies were featured in the Forbes Global 2000 list, which annually ranks the top 2000 public companies worldwide based on a composite measure of sales, assets, profit, and market value.",
+        "• The companies listed, along with their global rankings, industries, financial metrics, and headquarters locations, are as follows:"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:51:59.472549",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.7",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Wind power in Parnaíba and the Pirapora Solar Complex, the largest in Brazil and Latin America, with a capacity of 321 MW, exemplify Brazil’s expanding renewable energy infrastructure.",
+        "• The Brazilian government launched an ambitious program aimed at reducing dependence on imported petroleum, which previously accounted for over 70% of the country’s oil needs.",
+        "• Brazil achieved oil self-sufficiency in 2006–2007, ending reliance on imports for its oil requirements.",
+        "• In 2019, Brazil ranked as the 10th largest oil producer globally, with a production of 2.8 million barrels per day, sufficient to meet the country’s demand.",
+        "• At the beginning of 2020, Brazil’s oil and natural gas production exceeded 4 million barrels of oil equivalent per day for the first time.",
+        "• In January 2020, Brazil extracted 3.168 million barrels of oil per day and 138.753 million cubic meters of natural gas.",
+        "• Brazil is a significant global producer of hydroelectric power, operating 217 hydroelectric plants in 2019 with an installed capacity of 98,581 MW, which accounted for 60.16% of the country’s energy generation.",
+        "• In 2019, Brazil’s total electricity generation capacity reached 170,000 MW, with over 75% derived from renewable sources, predominantly hydroelectricity.",
+        "• The Southeast Region, in 2013, consumed approximately 50% of the National Integrated System’s (SIN) load, with an installed capacity of nearly 42,500 MW, representing about one-third of Brazil’s total generation capacity.",
+        "• Hydroelectric generation constituted 58% of the Southeast Region’s capacity, while thermoelectric sources made up 42%.",
+        "• São Paulo contributed around 40% of the Southeast Region’s capacity; Minas Gerais about 25%; Rio de Janeiro 13.3%; and Espírito Santo comprised the remainder.",
+        "• The South Region owns the Itaipu Dam, which was the world’s largest hydroelectric plant for several years until the inauguration of China’s Three Gorges Dam; it remains the second largest operational hydroelectric plant globally.",
+        "• Brazil co-owns the Itaipu Dam with Paraguay; it is situated on the Paraná River on the border between the two countries, with an installed capacity of 14 GW across 20 generating units of 700 MW each.",
+        "• The North Region hosts major hydroelectric plants such as Belo Monte Dam and Tucuruí Dam, which contribute significantly to national energy production.",
+        "• Brazil’s hydroelectric potential remains underexploited, indicating capacity for further renewable energy plant development within its territory.",
+        "• As of July 2022, Brazil’s total installed wind power capacity was 22 GW, with an average capacity factor of 58%, notably higher than the global average of 24.7%.",
+        "• Certain areas in Northern Brazil, especially Bahia State, record wind farm capacity factors exceeding 60%, while the Northeast Region’s coast and interior have averages of 45% and 49%, respectively.",
+        "• In 2019, wind energy contributed approximately 9% to Brazil’s total energy generation.",
+        "• The country’s estimated onshore wind power potential is around 522 GW, enough to meet three times the current national demand.",
+        "• By 2021, Brazil ranked 7th worldwide in installed wind power capacity (21 GW) and 4th in wind energy production, generating 72 TWh annually, behind China, the USA, and Germany.",
+        "• Nuclear energy accounts for about 4% of Brazil’s electricity, with the nuclear power monopoly held by Eletronuclear (Eletrobrás Eletronuclear S/A), a wholly owned subsidiary of Eletrobrás.",
+        "• Brazil’s nuclear energy is produced at the Angra Nuclear Power Plant, located in Angra dos Reis, Rio de Janeiro, featuring two operational reactors: Angra I (657 MW, connected in 1982) and Angra II (1,350 MW, connected in 2000).",
+        "• A third reactor, Angra III, with a projected capacity of 1,350 MW, is under planning and expected to be completed.",
+        "• As of October 2022, Brazil’s total photovoltaic solar capacity was 21 GW, with an average capacity factor of 23%.",
+        "• States with high solar irradiation, such as Minas Gerais, Bahia, and Goiás, have some of the highest world irradiation levels.",
+        "• In 2019, solar power contributed approximately 1.27% to Brazil’s total energy generation.",
+        "• In 2021, Brazil ranked 14th globally in installed solar capacity (13 GW) and 11th in solar energy production, generating 16.8 TWh.",
+        "• In 2020, Brazil was the second-largest country worldwide in biomass energy production, with an installed capacity of 15.2 GW, utilizing solid biofuels and renewable waste.",
+        "• Brazil’s total energy consumption has increased over time, from 453 TWh in 1970 to 3,854 TWh in 2023.",
+        "• Per capita energy consumption rose from 4,704 KWh in 1970 to 17,806 KWh in 2023.",
+        "• Oil production in energy terms increased from 102 TWh in 1970 to 2,136 TWh in 2023, reflecting significant growth in domestic oil extraction."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:52:16.618396",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 31
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.8",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The São Paulo–Guarulhos International Airport is connected with the São Paulo Metro, facilitating urban transportation in the region.",
+        "• The Port of Santos is recognized as one of the 40 largest and busiest ports in the world, highlighting Brazil's significant maritime trade infrastructure.",
+        "• Transport in Brazil is primarily conducted via road, which is the most developed mode of transportation in the country and the region.",
+        "• Brazil possesses a considerable infrastructure of ports and airports, supporting both domestic and international connectivity.",
+        "• The railway and fluvial sectors, despite their potential, are generally regarded as secondary components of Brazil’s transportation system.",
+        "• The country has over 1.7 million kilometers of roads, of which approximately 215,000 km are paved, and about 17,000 km are divided highways.",
+        "• The two most important highways in Brazil are BR-101 and BR-116, serving as major transportation corridors.",
+        "• Geographical challenges such as the Andes Mountains, Amazon River, and Amazon Forest have historically hindered the development of transcontinental or bioceanic highways.",
+        "• Historically, the primary route connecting Brazil to international destinations was via Argentina (Buenos Aires) and later Chile (Santiago).",
+        "• Recent efforts by South American countries have led to new routes, including the Brazil-Peru Interoceanic Highway and the Bioceanic Corridor connecting Brazil, Paraguay, northern Argentina, and northern Chile.",
+        "• Brazil has more than 2,000 airports, making it the country with the second-largest number of airports worldwide, after the United States.",
+        "• São Paulo International Airport, located in the Metropolitan Region of São Paulo, is the largest and busiest airport in Brazil, providing connectivity to major global cities.",
+        "• Brazil has 44 international airports, including those in Rio de Janeiro, Brasília, Belo Horizonte, Porto Alegre, Florianópolis, Cuiabá, Salvador, Recife, Fortaleza, Belém, and Manaus.",
+        "• In 2017, the ten busiest airports in South America included São Paulo-Guarulhos (Brazil), Bogotá (Colombia), São Paulo-Congonhas (Brazil), Santiago (Chile), Lima (Peru), Brasília (Brazil), Rio de Janeiro (Brazil), Buenos Aires-Aeroparque (Argentina), Buenos Aires-Ezeiza (Argentina), and Minas Gerais (Brazil).",
+        "• Brazil's ports are among the busiest in South America, with notable ports including Port of Santos, Port of Rio de Janeiro, Port of Paranaguá, Port of Itajaí, Port of Rio Grande, Port of São Francisco do Sul, and Suape Port.",
+        "• The fifteen busiest ports in South America are: Port of Santos (Brazil), Port of Bahia de Cartagena (Colombia), Callao (Peru), Guayaquil (Ecuador), Buenos Aires (Argentina), San Antonio (Chile), Buenaventura (Colombia), Itajaí (Brazil), Valparaíso (Chile), Montevideo (Uruguay), Paranaguá (Brazil), Rio Grande (Brazil), São Francisco do Sul (Brazil), Manaus (Brazil), and Coronel (Chile).",
+        "• The Brazilian railway network extends approximately 30,000 kilometers, primarily used for transporting ores.",
+        "• Key Brazilian waterways include the Hidrovia Tietê-Paraná, which spans 2,400 km (1,600 km on the Paraná River and 800 km on the Tietê River), draining agricultural production from Mato Grosso, Mato Grosso do Sul, Goiás, Rondônia, Tocantins, and Minas Gerais.",
+        "• The Hidrovia do Solimões-Amazonas has two sections: Solimões (from Tabatinga to Manaus, approximately 1,600 km) and Amazonas (from Manaus to Belém, approximately 1,650 km).",
+        "• The Amazon basin's waterways are primarily used for passenger transport and cargo, especially for regional centers like Belém and Manaus.",
+        "• Despite its potential, waterway transportation in Brazil remains underutilized, with the most economically significant stretches located in the Southeast and South regions.",
+        "• The full utilization of Brazil’s waterways depends on constructing locks, extensive dredging works, and ports that enable intermodal transportation integration."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:52:28.692018",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4",
+      "section_name": "Exports and imports",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Brazil is recognized as the largest producer and exporter of soybeans globally, highlighting its significant role in the international soybean market.",
+        "• The country’s soybean production is primarily concentrated in farms located in Southern Brazil, which serve as key agricultural hubs for this crop.",
+        "• Brazil also holds the distinction of being the world's largest producer and exporter of coffee, underscoring its dominance in the global coffee industry.",
+        "• The image of a Brazilian coffee farmer producing coffee emphasizes the country's extensive coffee cultivation and export activities.",
+        "• The Museu do Amanhã in Rio de Janeiro is a notable cultural institution, reflecting Brazil’s engagement with science, innovation, and future-oriented development.",
+        "• Recife, a major city in Brazil, is characterized by its skyline filled with skyscrapers, indicating urban development and economic growth in the region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:52:31.318213",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Trade statistics",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Brazil's goods exports totaled $343.8 billion US dollars, while goods imports amounted to $241.5 billion US dollars, resulting in a net trade surplus of $92.8 billion US dollars.",
+        "• In 2020, Brazil's goods exports were valued at $210.7 billion US dollars, with imports at $175.0 billion US dollars, leading to a net trade surplus of $35.7 billion US dollars.",
+        "• In 2015, Brazil's goods exports reached $189.9 billion US dollars, and imports were $172.5 billion US dollars, yielding a net trade surplus of $17.4 billion US dollars.",
+        "• In 2010, Brazil exported goods worth $201.2 billion US dollars and imported goods worth $182.8 billion US dollars, resulting in a net trade surplus of $18.4 billion US dollars.",
+        "• In 2000, Brazil's goods exports were $55.2 billion US dollars, with imports slightly higher at $57.0 billion US dollars, leading to a net trade deficit of $1.8 billion US dollars.",
+        "• In 1990, Brazil exported goods valued at $31.4 billion US dollars and imported goods at $20.7 billion US dollars, producing a net trade surplus of $10.8 billion US dollars.",
+        "• In 1980, Brazil's goods exports totaled $20.1 billion US dollars, whereas imports were $23.0 billion US dollars, resulting in a net trade deficit of $2.8 billion US dollars."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:52:34.072266",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Products",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, Brazil ranked as the 25th largest exporter globally, accounting for 1.1% of the total world exports.",
+        "• In 2021, Brazil's total exports were valued at US$280.4 billion, while imports amounted to US$219.4 billion, resulting in a trade surplus of US$61 billion.",
+        "• The top ten export products of Brazil in 2021 were:",
+        "• Beyond these primary exports, Brazil also exports a diverse range of products including maize, coffee, cotton, tobacco, and orange juice.",
+        "• Additional exported goods include footwear, airplanes, helicopters, cars, vehicle parts, gold, ethanol, and semi-finished iron."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:52:38.299887",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Exports",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Brazil's main export destinations were China (US$87.6 billion, 31.28%), the United States (US$31.1 billion, 11.09%), Argentina (US$11.8 billion, 4.24%), the Netherlands (US$9.3 billion, 3.32%), Chile (US$6.9 billion, 2.50%), Singapore (US$5.8 billion, 2.10%), Mexico (US$5.5 billion, 1.98%), Germany (US$5.5 billion, 1.97%), Japan (US$5.5 billion, 1.97%), and Spain (US$5.4 billion, 1.94%).",
+        "• The Brazilian export model is heavily reliant on the export of basic or semi-manufactured products, which has been subject to criticism due to its low added value and limited capacity for long-term economic growth.",
+        "• Several factors contribute to the limitations of Brazil’s export model, including:",
+        "• Excessive taxation on production, stemming from the country’s economic and legislative framework based on State Capitalism rather than Free-Market Capitalism.",
+        "• Insufficient or weak infrastructure, such as inadequate roads, railways, and ports, leading to poor logistics and bureaucratic hurdles.",
+        "• High production costs, including expensive energy, fuel, maintenance of transportation means, and costly bank financing and export rates.",
+        "• Lack of a coherent industrial policy focused on value addition.",
+        "• Insufficient emphasis on aggressive international negotiations.",
+        "• Imposition of abusive tariff barriers by other countries on Brazilian exports.",
+        "• Due to these structural issues, Brazil has historically had limited prominence in international trade, with its share in global commercial transactions fluctuating between 0.5% and 2%.",
+        "• Despite its large size and economic potential, Brazil's participation in global exports remains modest, reflecting its challenges in expanding its share in international markets.",
+        "• In 2019, among Brazil’s top ten exported products, eight originated from the agribusiness sector, which also contributed the most value to exports.",
+        "• Although Brazil’s export figures are still modest, there has been progress in diversification compared to the past, with exports becoming more varied over time.",
+        "• At the beginning of the 20th century, approximately 70% of Brazilian exports were limited to coffee, illustrating a historically concentrated export profile.",
+        "• Overall, global trade continues to focus on low-tech products, primarily agricultural and mineral commodities, which tend to have low added value and limited economic complexity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:52:47.548534",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Imports",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Brazil's main import partner was China, accounting for US$47.6 billion, which represented 21.72% of Brazil's total imports.",
+        "• The United States was the second-largest source of imports for Brazil in 2021, with imports valued at US$39.3 billion, constituting 17.95% of the total.",
+        "• Argentina ranked third among Brazil's import sources in 2021, with imports totaling US$11.9 billion, or 5.45%.",
+        "• Germany was a significant import partner, contributing US$11.3 billion, representing 5.17% of Brazil's imports in 2021.",
+        "• India supplied Brazil with US$6.7 billion worth of goods in 2021, making up 3.07% of the country's imports.",
+        "• Russia's exports to Brazil in 2021 amounted to US$5.7 billion, accounting for 2.60% of total imports.",
+        "• Italy was another key source, with Brazil importing US$5.4 billion worth of goods, which was 2.50% of the total imports.",
+        "• Japan supplied Brazil with US$5.1 billion worth of goods in 2021, representing 2.35% of the import total.",
+        "• South Korea also contributed US$5.1 billion in imports to Brazil in 2021, making up 2.33% of the total.",
+        "• France was among the top import sources, with Brazil importing US$4.8 billion worth of goods, equivalent to 2.19%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:52:54.427594",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "5",
+      "section_name": "Economic status",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The inflation rate in Brazil, measured by the IPCA index, fluctuated significantly from 2002 to 2022, with notable peaks and declines over the period.",
+        "• In 2002, the inflation rate was 12.53%, decreasing to 9.30% in 2003, and further to 7.60% in 2004.",
+        "• The inflation continued to decline in subsequent years, reaching 5.69% in 2005, 3.14% in 2006, and 4.46% in 2007.",
+        "• In 2008, inflation rose slightly to 5.91%, then decreased again to 4.31% in 2009, and increased marginally to 5.90% in 2010.",
+        "• The inflation rate was 6.50% in 2011, 5.84% in 2012, and 5.91% in 2013, with a slight increase to 6.41% in 2014.",
+        "• In 2015, inflation surged to 10.67%, the highest in the period, then decreased to 6.29% in 2016, and further to 2.95% in 2017.",
+        "• The inflation rate was 3.75% in 2018, 4.31% in 2019, and slightly increased to 4.52% in 2020.",
+        "• In 2021, inflation spiked again to 10.06%, while in 2022 it decreased to 5.79%.",
+        "• The average GDP growth rate in Brazil from 1950 to 2029 shows periods of varying economic expansion:"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:53:01.859926",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Sustainable growth",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Portuguese explorers arrived in Brazil in 1500; however, it was only in 1808 that Brazil received a permit from the Portuguese colonial government to establish its first factories and manufacturing facilities.",
+        "• In the 21st century, Brazil achieved the status of the eighth largest economy globally.",
+        "• Historically, Brazil's exports primarily consisted of basic raw and primary goods, including sugar, rubber, and gold.",
+        "• Currently, 84% of Brazil's exports are composed of manufactured and semi-manufactured products.",
+        "• The most significant period of economic transformation and growth in Brazil occurred between 1875 and 1975.",
+        "• Over the last decade, Brazil's domestic production increased by 32.3%.",
+        "• The agribusiness sector, encompassing agriculture and cattle-raising, was the most dynamic, growing by 47%, which averages approximately 3.6% growth per year.",
+        "• Despite facing international crises that required ongoing economic adjustments, the agribusiness sector remained resilient and growth-oriented.",
+        "• The Brazilian government launched a program called Programa de Aceleração do Crescimento (Growth Acceleration Program) aimed at stimulating economic development and growth.",
+        "• Brazil's international transparency rank is 75th, according to Transparency International."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:53:05.139015",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Control and reform",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Brazil implemented recent reforms to its social security system, encompassing state and retirement pensions, as part of measures to stabilize the economy.",
+        "• Reforms also included modifications to the tax system aimed at improving fiscal stability and economic efficiency.",
+        "• A significant legislative measure introduced was the Law of Fiscal Responsibility, which regulates public expenditure by the executive branches at federal, state, and municipal levels, promoting fiscal discipline.",
+        "• Concurrently, investments were directed toward enhancing administrative efficiency across government sectors.",
+        "• Policies were established to promote exports, industrial growth, and trade, thereby creating \"windows of opportunity\" for both local and international investors and producers.",
+        "• These reforms contributed to reducing Brazil’s economic vulnerability; notably, the country no longer imports the oil it consumes, indicating increased self-sufficiency.",
+        "• Brazil halved its domestic debt through the use of exchange rate-linked certificates, significantly improving its fiscal position.",
+        "• Export growth averaged 20% annually, reflecting a robust export sector.",
+        "• The exchange rate policy maintained stability, exerting no pressure on the industrial sector or inflation, which remained steady at 4% per year.",
+        "• These measures eliminated the risk of a liquidity crisis, contributing to macroeconomic stability.",
+        "• After 12 years of reforms, Brazil achieved a positive balance in its accounts, including exports minus imports, plus interest payments, services, and overseas payments, indicating a strengthened external position.",
+        "• Economists widely believe that Brazil is resilient to the impacts of the current global economic crisis due to these reforms and economic stability.",
+        "• In 2017, President Michel Temer refused to disclose the list of companies accused of \"modern slavery,\" a list that had been publicly released annually since President Luís Inácio Lula da Silva’s administration in 2003.",
+        "• The purpose of the list was to incentivize companies to settle fines and comply with labor regulations, addressing issues of labor exploitation and corruption.",
+        "• The refusal to publish the list was seen as a move to avoid scrutiny amid concerns that political corruption could undermine respect for the law.",
+        "• President Dilma Rousseff publicly denounced President Temer’s relations with the \"landowner lobby\" during this controversy.",
+        "• The central business district of Rio de Janeiro is referenced as a notable economic and administrative hub within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:53:11.107676",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Consistent policies",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Support for the productive sector in Brazil has been streamlined across all levels of government, including active and independent oversight by Congress and the Judiciary Branch, which are responsible for evaluating rules and regulations.",
+        "• Key measures implemented to stimulate the Brazilian economy include a reduction of up to 30 percent in the tax (IPI) on manufactured products.",
+        "• An investment of $8 billion has been allocated to enhance road cargo transportation fleets, aiming to improve logistics and distribution efficiency within the country.",
+        "• Additional resources have been allocated to ensure the expansion and propagation of business and information telecenters, facilitating greater access to technological infrastructure.",
+        "• The policy framework for industry, technology, and foreign trade in Brazil invests a total of $19.5 billion across specific sectors, emphasizing strategic growth areas.",
+        "• These targeted sectors include software and semiconductors, pharmaceuticals and medicine products, and capital goods, reflecting the country’s focus on technological advancement and industrial diversification."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:53:14.155482",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "5.4",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1985 and 2017, a total of 11,563 mergers and acquisitions (M&A) involving Brazilian firms were announced, with a combined known transaction value of approximately US$1,185 billion.",
+        "• The year 2010 marked a record in M&A activity by value, with transactions totaling US$115 billion.",
+        "• Despite the high volume of M&A activity, only four of the top 100 deals by value involved Brazilian companies acquiring foreign firms, indicating a strong domestic investment focus and limited cross-border acquisitions by Brazilian firms within that top tier.",
+        "• The largest deal where a Brazilian company acted as the acquirer was on 9 January 2010, when Petrobras, an oil and gas company based in Brazil, acquired Brazil-Oil & Gas Blocks for approximately US$42.88 billion.",
+        "• The second largest deal was on 20 February 2017, when Vale S.A., a Brazilian metals and mining company, acquired Valepar S.A. for approximately US$20.96 billion.",
+        "• The third largest was on 8 November 2006, involving Cia Vale do Rio Doce S.A., a Brazilian metals and mining firm, acquiring Inco Ltd., a Canadian metals and mining company, for about US$17.15 billion.",
+        "• Other notable large deals include:"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:53:22.069464",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "5.5",
+      "section_name": "Entrepreneurship",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Embraer is a Brazilian aerospace company and ranks as the third-largest commercial jet manufacturer globally, following Airbus and Boeing.",
+        "• According to the 2011 Global Entrepreneurship Monitor, Brazil had approximately 27 million adults aged between 18 and 64 who were either starting or owning a business, representing more than 25% of the adult population.",
+        "• Among the 54 countries included in the study, Brazil ranked third in total number of entrepreneurs.",
+        "• The Institute of Applied Economic Research (Ipea), a Brazilian government agency, reported that around 37 million jobs in Brazil are linked to businesses with fewer than 10 employees.",
+        "• Despite being considered one of the most challenging countries in Latin America for doing business due to complex bureaucratic processes, Brazil maintains a robust entrepreneurial sector.",
+        "• The large internal consumer market and various government programs contribute to the sustained entrepreneurial activity within the country.",
+        "• The 2013 Global Entrepreneurship Monitor data indicated that 50.4% of new entrepreneurs in Brazil are men, while 49.6% are women.",
+        "• In 2013, 33.8% of new entrepreneurs were aged between 35 and 44 years old.",
+        "• Educational attainment among new entrepreneurs showed that 36.9% had completed high school, and only 1% possessed postgraduate education.",
+        "• Income levels of new entrepreneurs revealed that 47.9% earned between three to six times the Brazilian minimum wage, whereas only 1.7% earned more than nine times the minimum wage.",
+        "• Age distribution among entrepreneurs showed that only 7% were in the 55–64 age group."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:53:26.607285",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "5.6",
+      "section_name": "Credit rating",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In March 2014, Brazil's credit rating was downgraded by Standard & Poor's (S&P) to BBB, placing it just one notch above the junk bond category.",
+        "• In January 2018, S&P further downgraded Brazil's credit rating to BB−, which is two notches below the investment grade threshold."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:53:28.195714",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "5.7",
+      "section_name": "Climate change",
+      "chapter_name": "Economy of Brazil",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Climate change poses multiple impacts on Brazil's basic production systems, including the exacerbation of existing shortages and an increase in production costs.",
+        "• It is anticipated that the frequency and severity of natural disasters in Brazil will intensify due to climate change.",
+        "• These environmental changes are expected to lead to significant problems related to food supply, public health, industrial production, trade, and the integrity of installed infrastructure.",
+        "• The overall quality of life for the Brazilian population and national security are projected to be adversely affected by these climate-related challenges.",
+        "• The poorest segments of the population are expected to suffer the most severe consequences of climate change impacts.",
+        "• The regions most vulnerable to the major impacts of climate change are the Northeast and Southeast regions of Brazil, which are also the areas with the highest population concentrations.",
+        "• Large urban centers, which are predominantly located in these regions, are generally poorly prepared to confront the challenges posed by climate change."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:53:31.211359",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_brazil.json",
+      "original_index": 24
+    }
+  ]
+}

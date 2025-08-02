@@ -1,0 +1,239 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_trinidad_and_tobago.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.290344",
+    "total_sections_in_source": 9,
+    "extracted_sections_count": 9,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Trinidad and Tobago is the wealthiest in the Caribbean region and ranks as the third-richest by GDP (PPP) per capita in the Americas.",
+        "• The World Bank classifies Trinidad and Tobago as a high-income economy, reflecting its advanced economic status.",
+        "• Unlike most English-speaking Caribbean countries, Trinidad and Tobago’s economy is primarily industrial, with a strong emphasis on petroleum and petrochemical sectors.",
+        "• The country’s considerable wealth is largely attributed to its extensive reserves and active exploitation of oil and natural gas resources.",
+        "• Trinidad and Tobago has developed a reputation as an excellent investment destination for international businesses, supported by one of the highest economic growth rates and per capita incomes in Latin America.",
+        "• Recent economic growth has been driven by significant investments in liquefied natural gas (LNG) and petrochemical industries.",
+        "• Additional projects in petrochemicals, aluminium, and plastics are currently in various stages of planning, indicating ongoing industrial expansion.",
+        "• Within the Caribbean Community (CARICOM), Trinidad and Tobago is the largest producer of natural gas and the second-largest producer of oil after Guyana.",
+        "• The national economy is heavily dependent on oil and natural gas resources, which together account for approximately 40% of the country’s GDP and 80% of its exports.",
+        "• Despite the dominance of oil and gas in economic output and exports, these sectors employ only about 5% of the country’s workforce.",
+        "• Beyond energy, Trinidad and Tobago supplies manufactured goods to the Caribbean region, notably including food and beverages as well as cement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:53.135375",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Regional financial center",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Trinidad and Tobago serves as a regional financial center within the Caribbean, contributing to its economic profile alongside a growing tourism sector, which, however, is not as significant proportionately compared to many other Caribbean islands.",
+        "• The country's economy benefits from a growing trade surplus, reflecting positive external trade balances.",
+        "• Economic growth rates were notably high in the mid-2000s, with a 12.6% increase in 2006 followed by a 5.5% increase in 2007, driven primarily by sustained high prices for oil, petrochemicals, and liquefied natural gas (LNG).",
+        "• Foreign direct investment (FDI) continued to grow during this period, supporting expanded capacity in the energy sector, which is a key component of the national economy.",
+        "• Trinidad and Tobago's infrastructure is considered adequate by regional standards, supporting economic activities and quality of life.",
+        "• A major expansion of Piarco International Airport, the country's main airport located in Trinidad, was completed in 2001, enhancing the country's transportation infrastructure.",
+        "• Urban centers in Trinidad and Tobago have reliable and extensive networks of paved roads, sewage pipes, and power utilities, contributing to urban development and service delivery.",
+        "• Some rural areas in the country continue to experience water shortages, indicating uneven infrastructure development between urban and rural regions.",
+        "• The government is actively addressing rural water shortages through the construction of additional desalinization plants to improve water availability.",
+        "• Government budget priorities include improvements in transport, telephone service, drainage, and sewerage systems, with a particular focus on enhancing infrastructure in rural areas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:52.519235",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Communications and mobile",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Trinidad and Tobago possesses a relatively modern, robust, and reliable Information and Communications Technology (ICT) infrastructure, supporting the nation's communication needs effectively.",
+        "• The mobile phone service sector in Trinidad and Tobago is widespread and has experienced continuous growth over several years, reflecting increasing consumer demand and technological advancement.",
+        "• In 2005, the government granted cellular licenses to two companies, Digicel and Laqtel, thereby ending the previous monopoly held by Telecommunications Services of Trinidad and Tobago (TSTT) in the mobile phone market.",
+        "• Despite the introduction of multiple cellular licensees in 2005, as of the year 2015, only TSTT and Digicel remain operational as mobile service providers in Trinidad and Tobago, indicating market consolidation or exit of other competitors such as Laqtel.",
+        "• The broadband internet market in Trinidad and Tobago is served by five broadband service providers or Internet Service Providers (ISPs), contributing to the diversity and availability of internet connectivity options in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:49.871625",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Energy sector",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Trinidad and Tobago has a petroleum sector history spanning over one hundred years, with significant oil and gas production occurring both on land and in shallow waters, resulting in cumulative oil production exceeding three billion barrels.",
+        "• The country is recognized as the largest oil and natural gas producer in the Caribbean region.",
+        "• During the 1990s, Trinidad and Tobago's hydrocarbon sector transitioned from primarily oil production to predominantly natural gas production.",
+        "• According to the U.S. Energy Information Administration (EIA) in 2013, proven crude oil reserves in Trinidad and Tobago were estimated at 728 million barrels, while 3P (proven, probable, and possible) natural gas reserves were recorded at 25.24 trillion cubic feet (Tcf), based on the Ryder Scott Audit conducted in 2012.",
+        "• Trinidad and Tobago hosts one of the largest natural gas processing facilities in the Western Hemisphere, the Phoenix Park Gas Processors Limited (PPGPL) natural gas liquids (NGL) complex, situated in the Port of Savonetta.",
+        "• The PPGPL complex has a natural gas processing capacity of nearly 2 billion cubic feet (Bcf) per day and an output capacity of 70,000 barrels per day (bbl/d) of NGL.",
+        "• Processed natural gas from PPGPL is supplied to various power generation companies, including POWERGEN, Trinidad Generation Unlimited (TGU), and Trinity Power, for electricity generation, as well as to petrochemical plants where it serves as a feedstock.",
+        "• The electricity sector in Trinidad and Tobago is entirely fueled by natural gas.",
+        "• The Trinidad Generation Unlimited power plant, the country's second combined cycle power plant, was inaugurated on 31 October 2013 and has a generating capacity of 720 megawatts (MW).",
+        "• In 2013, Trinidad and Tobago operated 11 ammonia plants and seven methanol plants, making it the world's largest exporter of ammonia and the second largest exporter of methanol, according to IHS Global Insight.",
+        "• Total production and export volumes for ammonia, methanol, urea, and urea ammonium nitrate (UAN) decreased from 564,892 metric tonnes (MT) in 2012 to 428,240 MT in 2013.",
+        "• The Ministry of Energy and Energy Affairs (MEEA) has promoted investment in downstream petrochemical processing projects, including the manufacture of calcium chloride and dimethyl ether (DME), aiming to stimulate local employment and growth in manufacturing beyond traditional petrochemical processing.",
+        "• The energy sector contributes approximately 45.0% to Trinidad and Tobago’s gross domestic product (GDP).",
+        "• The Central Bank of Trinidad and Tobago forecasted real GDP growth of 2.6% for 2014, an increase from 1.6% in 2013, attributing the improvement to recovery in the energy sector following maintenance-related activity reductions in the third quarter of 2013.",
+        "• MEEA projected that liquefied natural gas (LNG) production would increase by 2.0% to 40.0 billion cubic meters (bcm) in 2014, after an estimated 1.5% decline in 2013.",
+        "• Petrochemical production was also expected to recover in 2014 following an 8.0% decrease in output during the third quarter of 2013, as several companies adjusted their production schedules in response to a natural gas shortfall.",
+        "• The section includes a reference to an oil platform located off the coast of Trinidad, illustrating offshore oil production infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:05.739295",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Job market",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Trinidad and Tobago controls 0.25% of the world's natural gas reserves and has a Gross Domestic Product (GDP) of US$20.5 billion, positioning it as a significant player in the global energy market.",
+        "• The nation's thriving energy sector is a primary driver of demand for quality labor, particularly in specialized fields related to energy, marking the first historical instance of such specialization being sought within the country.",
+        "• Due to a shortage of local expertise in these specialized energy sectors, expatriate professionals are currently required to fill these roles.",
+        "• Former Prime Minister Patrick Manning identified Trinidad and Tobago as the financial capital of the Caribbean, emphasizing the country's heavy reliance on the oil and energy sectors, which creates a continuous demand for specialized jobs.",
+        "• The Natural Gas sector in Trinidad and Tobago is now facing competition from emerging global players such as Qatar and the United States, intensifying the need to develop local specialists to meet increasing demand.",
+        "• Economic indicators suggest that Trinidad and Tobago is emerging from an economic downturn and is poised for a forthcoming period of economic growth and expansion.",
+        "• A significant number of jobs are expected to be created in the short term to meet diverse economic demands across multiple sectors of the economy.",
+        "• In October 2011, Finance Minister Winston Dookeran unveiled the largest national budget in Trinidad and Tobago’s history, amounting to TT$54 billion, signaling the government’s commitment to economic transformation and boosting investor confidence.",
+        "• The government’s economic transformation plan is anticipated to generate numerous job opportunities and attract foreign investment, benefiting sectors beyond energy, including Financial and Manufacturing sectors through positive economic spillover effects.",
+        "• Government ministers have initiated plans to provide effective tools and mechanisms to support the rollout of economic transformation initiatives.",
+        "• In recent years, government agencies in Trinidad and Tobago have adopted modern recruitment tools such as employment agencies and online job boards to enhance labor sourcing and outsourcing capabilities.",
+        "• The government recognizes the strategic advantage of utilizing diverse recruitment methods to source labor both locally and internationally, reflecting a shift from traditional recruitment methods like postal mail to digital platforms including company emails and job boards.",
+        "• Local experts highlight that advancing recruitment technology and practices in a geographically small nation like Trinidad and Tobago is a critical factor in efficiently implementing and executing large-scale economic and labor market plans."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:54.670397",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism in Trinidad and Tobago is anticipated to develop rapidly in the near future, leading to an increased demand for jobs within the sector.",
+        "• The European Union Council on Tourism and Trade (EUCTT) awarded Trinidad and Tobago the title of \"The Best Tourist Destination for 2012.\"",
+        "• Following the EUCTT designation, local hotels in Trinidad and Tobago have initiated plans to accommodate an expected influx of European tourists.",
+        "• It is important to note that the EUCTT is not affiliated with any official European Union institutions.",
+        "• Despite global economic concerns, international tourism demand has demonstrated resilience, with a 5% increase (22 million additional tourists) worldwide between January and June 2012.",
+        "• The Asia and Pacific region led global tourism growth in early 2012 with an 8% increase in international tourists.",
+        "• Based on the growth trends, the total number of international tourists worldwide was projected to reach one billion by the end of 2012.",
+        "• In 2011, the total contribution of World Travel & Tourism to the global GDP was US$6,346.1 billion, accounting for 9.1% of global GDP.",
+        "• The Caribbean region received 20.9 million tourists in 2011, marking a 4.4% increase compared to 2010.",
+        "• The Caribbean is the most tourism-dependent region globally, with Travel and Tourism contributing 13.9% (US$47.1 billion) to its economic output.",
+        "• Trinidad and Tobago received an estimated 402,058 visitors in 2011, representing 2% of all Caribbean visitor arrivals.",
+        "• The economic impact of tourism in Trinidad and Tobago is multifaceted and extends beyond any single industry due to the sector’s diverse nature.",
+        "• To accurately measure the economic impact of tourism, the United Nations World Travel and Tourism Council (UNWTO) developed the Tourism Satellite Account (TSA), which extends the System of National Accounts (SNA).",
+        "• The TSA provides a detailed production account of the tourism sector, illustrating its linkages to major industries, total employment, capital formation, and other macroeconomic variables."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:56.426531",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Tourist arrival statistics",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2014, the majority of short-term visitors arriving in Trinidad and Tobago originated from a diverse range of countries, reflecting the nation's international tourism appeal.",
+        "• The United States was the leading source country for tourists, contributing a total of 161,539 arrivals, the highest among all nationalities.",
+        "• Canada ranked second in terms of visitor numbers, with 54,877 tourists traveling to Trinidad and Tobago during the same year.",
+        "• The United Kingdom was the third largest source of tourists, with 37,473 arrivals recorded in 2014.",
+        "• Guyana contributed significantly to the visitor statistics, ranking fourth with 23,061 short-term visitors.",
+        "• Venezuela was the fifth largest source country, with 21,052 tourists visiting Trinidad and Tobago in 2014.",
+        "• Barbados accounted for 11,629 visitors, placing it sixth among the countries of nationality for tourist arrivals.",
+        "• Grenada was the seventh largest source of tourists, with 6,922 arrivals recorded in 2014.",
+        "• Germany contributed 5,154 visitors, ranking eighth among the top countries of nationality for tourists arriving in Trinidad and Tobago.",
+        "• India was the ninth largest source country, with 3,291 short-term visitors recorded in 2014.",
+        "• The total number of short-term visitors arriving in Trinidad and Tobago from these top nine countries amounted to 324,998 in 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:56.521302",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "6",
+      "section_name": "Creative industries",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Trinidad and Tobago has recently experienced negative impacts due to fluctuating oil and gas prices, prompting the government to pursue economic transformation through diversification.",
+        "• The government has identified the creative industries—specifically the music, film, and fashion sectors—as crucial to achieving long-term economic sustainability.",
+        "• In response to this strategic focus, the Trinidad and Tobago Creative Industries Company Limited (CreativeTT) was established in 2013.",
+        "• CreativeTT is tasked with overseeing the strategic and business development of the three key creative sectors: film, fashion, and music."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:56.411468",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "7",
+      "section_name": "Miscellaneous",
+      "chapter_name": "Economy of Trinidad and Tobago",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Trinidad and Tobago received economic aid amounting to $200,000 as of the 2007 estimate.",
+        "• The country's reserves of foreign exchange and gold were valued at $8.095 billion in February 2018.",
+        "• The official currency of Trinidad and Tobago is the Trinidad and Tobago dollar (TT$), subdivided into 100 cents.",
+        "• The exchange rates of Trinidad and Tobago dollars per US dollar from 1995 to 2017 are as follows: 5.9478 (1995), 6.0051 (1996), 6.2517 (1997), 6.2983 (1998), 6.2963 (1999), 6.2697 (2000), 6.2332 (2001), 6.2487 (2002), 6.2951 (2003), 6.2990 (2004), 6.2842 (2005), 6.3107 (2006), 6.3275 (2007), 6.2896 (2008), 6.3099 (2009), 6.3337 (2010), 6.4200 (2011 estimate), 6.3716 (2012), 6.3885 (2013), 6.3613 (2014), 6.3298 (2015), 6.6152 (2016), and 6.7283 (2017).",
+        "• The stock of direct foreign investment within Trinidad and Tobago was valued at $12.44 billion in 2007.",
+        "• The stock of direct foreign investment abroad by Trinidad and Tobago was $1.419 billion in 2007.",
+        "• The market value of publicly traded shares in Trinidad and Tobago was $15.57 billion as of 2006.",
+        "• The fiscal year for Trinidad and Tobago runs from 1 October to 30 September annually."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:01.839505",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_trinidad_and_tobago.json",
+      "original_index": 8
+    }
+  ]
+}

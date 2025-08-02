@@ -1,0 +1,366 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_ecuador.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.768674",
+    "total_sections_in_source": 11,
+    "extracted_sections_count": 11,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Ecuador ranks as the eighth largest in Latin America and the 69th largest globally based on total GDP.",
+        "• Ecuador's economic foundation primarily relies on the export of oil, bananas, shrimp, gold, other primary agricultural products, and remittances from Ecuadorian emigrants working abroad.",
+        "• In 2017, remittances from Ecuadorian emigrants accounted for 2.7% of the country's GDP.",
+        "• Total trade volume in 2017 represented approximately 42% of Ecuador's GDP.",
+        "• The country is heavily dependent on its petroleum resources, with oil constituting about one-third of public-sector revenue in 2017 and 32% of export earnings.",
+        "• Ecuador was a member of OPEC until recent years; in 2017, it was among the smallest members, producing approximately 531,300 barrels of petroleum per day.",
+        "• Ecuador is the world's largest exporter of bananas, with exports valued at $3.38 billion in 2017.",
+        "• It is also a major exporter of shrimp, with exports totaling $3.06 billion in 2017.",
+        "• Exports of non-traditional products such as cut flowers reached $846 million in 2017, and canned fish exports amounted to $1.18 billion in 2017, showing growth in recent years.",
+        "• Historically, Ecuador's economy depended heavily on primary industries including agriculture, petroleum, and aquaculture.",
+        "• Economic development has diversified into other sectors such as textiles, processed foods, metallurgy, and services, driven by global market shifts and technological advancements.",
+        "• Between 2006 and 2014, Ecuador's GDP growth averaged 4.3%, fueled by high oil prices and external financing.",
+        "• From 2015 to 2018, GDP growth slowed significantly, averaging only 0.6%.",
+        "• In May 2017, Ecuador's ex-president Lenín Moreno initiated a radical economic transformation aimed at increasing the role of the private sector, particularly within the oil industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:30:45.704647",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ecuador is among the top 10 global producers of banana, cocoa, and palm oil, highlighting its significant role in international agricultural markets.",
+        "• In 2018, Ecuador's agricultural output included approximately 7.5 million tons of sugarcane, establishing it as a major producer of this crop.",
+        "• The country produced around 6.5 million tons of bananas in 2018, ranking as the 6th largest producer worldwide, with recent figures indicating an increase to approximately 7 million tons annually.",
+        "• Ecuador's palm oil production in 2018 reached about 2.7 million tons, making it the 6th largest producer globally.",
+        "• The nation produced approximately 1.3 million tons of maize and an equal amount of rice in 2018, reflecting its substantial cereal cultivation.",
+        "• Potato production in 2018 was around 269 thousand tons, contributing to Ecuador's diverse agricultural sector.",
+        "• Cocoa production in 2018 was approximately 235 thousand tons, positioning Ecuador as the 7th largest cocoa producer in the world.",
+        "• The country produced about 149 thousand tons of pineapple and 103 thousand tons of oranges in 2018, along with smaller quantities of other agricultural products.",
+        "• In recent years, banana production has increased to approximately 7 million tons annually, with 2023 figures reaching about 7.16 million tons, indicating growth in this key export crop."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:30:52.031539",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, Ecuador's annual production of antimony was approximately 1 ton, making it the 14th largest producer globally.",
+        "• In 2006, Ecuador produced about 5.3 tonnes of gold, ranking as the 34th largest gold producer in the world at that time.",
+        "• Ecuador's gold production increased to 8.6 tonnes in 2013, representing the highest annual output recorded between 2006 and 2017.",
+        "• In 2017, Ecuador's gold production was 7.3 tonnes, slightly below the 2013 peak.",
+        "• The country's silver production in 2017 was approximately 1 ton, which aligns with Ecuador's typical average silver output.",
+        "• In 2019, a significant deposit containing gold, silver, and copper was discovered in the northern region of Ecuador."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:30:55.919803",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Industries",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Oil accounts for 40% of Ecuador's exports and plays a crucial role in maintaining a positive trade balance.",
+        "• Since the late 1960s, oil exploitation in Ecuador has increased production, with reserves estimated at 4.036 million barrels.",
+        "• Ecuador is a major exporter of agricultural products, notably being the largest exporter of bananas in the world, with exports valued at approximately $2 billion.",
+        "• Other significant agricultural exports include cut flowers, cacao, coffee, shrimp, wood, and fish.",
+        "• The country also exports notable quantities of shrimp, sugar cane, rice, cotton, corn, palm, and coffee.",
+        "• Ecuador possesses extensive natural resources, including large timber reserves such as eucalyptus and mangroves, with pines and cedars planted in the Sierra region, walnuts and rosemary, and balsa wood in the Guayas River Basin.",
+        "• Ecuador's tobacco is highly valued in the cigar industry due to the prolonged cloud cover and rich volcanic soil, creating ideal conditions for shade tobacco and Ecuadorian Sumatra Tobacco cigar wrapper leaves; exports of tobacco topped $70 million in 2018.",
+        "• The oil industry is a cornerstone of Ecuador’s economy, contributing significantly to export earnings and government revenues.",
+        "• As of 2023, Ecuador holds approximately 8.3 billion barrels of proven crude oil reserves.",
+        "• In 2022, crude oil constituted about 27% of Ecuador's total export value, with major markets in Latin America, North America, and Asia.",
+        "• Petroecuador, the state-owned company, is central to the oil sector, often operating in partnership with private and foreign firms.",
+        "• Ecuador plans to attract approximately $42 billion in foreign investments in the oil sector by 2029 to boost production.",
+        "• Oil extraction has raised environmental and social concerns, especially in the Amazon region, leading to a 2023 national referendum that halted oil drilling in Block 43 within Yasuni National Park, a biodiverse area inhabited by Indigenous communities.",
+        "• Agriculture remains vital to Ecuador’s economy, representing a significant portion of exports, with the country being the world's largest exporter of bananas.",
+        "• In 2020, agricultural products accounted for about 41.1% of Ecuador's total exports.",
+        "• Other key agricultural exports include shrimp, cacao, coffee, and cut flowers.",
+        "• Ecuador’s diverse climate and fertile soil support the cultivation of rice, sugar cane, cotton, corn, and palm.",
+        "• Forestry resources such as eucalyptus, mangroves, pine, cedar, and balsa wood contribute to the export economy.",
+        "• Industrial activity is mainly concentrated in Guayaquil, the largest industrial and business center, and in Quito, which has experienced significant growth in recent years.",
+        "• The industrial sector primarily serves the domestic market, with limited exports of processed products such as canned foods, liquor, jewelry, and furniture.",
+        "• Minor industrial activity is also present in Cuenca.",
+        "• The dairy industry includes companies like Tonicorp, owned by the Coca-Cola Company."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:31:03.501477",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Electricity",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of December 2022, Ecuador's electricity infrastructure included a total installed generation capacity of 8,864 MW.",
+        "• Out of this, 5,425 MW was generated from renewable energy sources, with approximately 5,200 MW specifically from hydropower, which is considered renewable within Ecuador.",
+        "• The National Interconnection System (SNI) could utilize 7,472 MW of the total capacity, including 4,375 MW from renewable sources; the remaining 1,390 MW were not integrated into the national grid.",
+        "• The National Transmission System (SNT) operated with line voltages of 500 kV, 230 kV, and 138 kV, comprising 4,382 km of single-circuit lines and 2,462 km of double-circuit lines.",
+        "• Ecuador's interconnections include two 230 kV Jamondino-Pomasqui double-circuit lines and a 138 kV Tulcán-Panamericana single-circuit line with Colombia, and a 230 kV Machala-Zorritos double-circuit line with Peru.",
+        "• Electricity distribution is managed by distribution companies with total billing of 2 billion US dollars and an electricity loss rate of 13.25%.",
+        "• As of December 2022, distribution infrastructure included 370 substations with a total capacity of 8,545 MVA, and 67 sectioning substations.",
+        "• The distribution network comprised 5,730 km of subtransmission lines, 111,276 km of medium voltage lines, and 105,469 km of low voltage lines.",
+        "• The distribution system contained 360,000 transformers with a combined capacity of 14,100 MVA and 5.56 million electrical meters, covering 97.4% of the population.",
+        "• The peak demand on the SNI grid was recorded in April 2022 at 4,388 MW.",
+        "• Total electricity generation in 2022 was 33 TWh, with 87% supplied by the SNI and the remaining 13% by providers outside the grid.",
+        "• The generation breakdown at the SNI was 24.6 TWh (85.3%) from hydroelectric sources, 3.8 TWh (13%) from fossil fuels, 0.35 TWh (1.2%) from biomass, and less than 1% combined from solar photovoltaic, biogas, and wind energy.",
+        "• Reported unavailable generation capacity fluctuated between 1,170 GW and 1,610 GW from 2019 to 2022, roughly evenly split between hydro and thermal power stations.",
+        "• The 2023-2032 energy expansion plan aimed to add approximately 6,300 MW of renewable capacity, alongside 700 MW of \"firm\" thermal capacity scheduled for 2024-2025 to ensure grid security and quality of supply.",
+        "• During the 2023-2024 electricity crisis in Ecuador, thermal generation was significantly reduced; by October 15, 2024, only Trinitaria (125 MW), Machala Gas (125 MW), G. Zevallos (146 MW), and Jaramijó (140 MW) were operating at high capacity, indicating a notable decline from planned thermal generation levels."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:31:16.402901",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Sciences and research",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, Ecuador was ranked 96th in global innovation in technology according to a World Economic Forum study.",
+        "• In 2021, Ecuador improved its position to 91st in the Global Innovation Index, up from 99th in 2020.",
+        "• Notable figures in Ecuadorian sciences include mathematician and cartographer Pedro Vicente Maldonado, born in Riobamba in 1707.",
+        "• Eugenio Espejo, born in Quito in 1747, is recognized as a printer, independence pioneer, and medical pioneer in Ecuador.",
+        "• Other prominent Ecuadorian scientists and engineers are Lieutenant Jose Rodriguez Labandera, who built Latin America's first submarine in 1837.",
+        "• Reinaldo Espinosa Aguilar (1898–1950), was a botanist and biologist specializing in Andean flora.",
+        "• José Aurelio Dueñas (1880–1961), was a chemist and inventor of a textile serigraphy method, reputed to have many wives.",
+        "• Major areas of scientific research in Ecuador include medical fields, tropical and infectious disease treatments, agricultural engineering, pharmaceutical research, and bioengineering.",
+        "• Due to its small size and reliance on foreign technology, Ecuador has emphasized research supported by entrepreneurship in information technology.",
+        "• Ecuadorian-developed IT products include the antivirus program _Checkprogram_, banking protection system _MdLock_, and core banking software _Cobis_.",
+        "• Scientific production in hard sciences has been limited by funding constraints but has focused on physics, statistics, and partial differential equations in mathematics.",
+        "• In engineering, most scientific output originates from three top polytechnic institutions: Escuela Superior Politécnica del Litoral (_ESPOL_), Universidad de Las Fuerzas Armadas (_ESPE_), and Escuela Politécnica Nacional (_EPN_).",
+        "• The Center for Research and Technology Development in Ecuador operates as an autonomous entity funded by Senecyt.",
+        "• According to _Nature_, the multidisciplinary scientific journal, the top 10 Ecuadorian institutions with the most outstanding scientific contributions include Yachay Tech University (_Yachay Tech_), Escuela Politécnica Nacional (_EPN_), and Universidad San Francisco de Quito (_USFQ_)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:31:24.416655",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The trade balance for Ecuador in August 2012 showed a surplus of nearly 390 million dollars for the first six months of that year, representing a significant increase compared to 2007, which had a trade surplus of only 5.7 million dollars.",
+        "• The surplus in 2012 had risen by approximately 425 million dollars compared to 2006, primarily due to imports growing faster than exports during that period.",
+        "• In 2008, Ecuador's oil trade balance was positive, with revenues of 3.295 million dollars, whereas non-oil trade was negative, amounting to 2.842 million dollars.",
+        "• The trade balance was positive in 2019, amounting to 2.05 billion dollars, and in 2020, reaching 6.4 billion dollars.",
+        "• In 2016, Ecuador experienced a positive trade balance of 608 million dollars, but it turned negative in 2017 with a deficit of 723 million dollars, and further worsened in 2018 with a deficit of 1.41 billion dollars.",
+        "• Ecuador's trade balance with Argentina, Colombia, and Asia is negative, indicating these regions are net importers from Ecuador.",
+        "• Ecuador has negotiated bilateral trade treaties with various countries beyond its membership in the Andean Community of Nations and is an associate member of Mercosur.",
+        "• The country is a member of the World Trade Organization (WTO).",
+        "• Ecuador also participates in several multilateral financial institutions, including the Inter-American Development Bank (IDB), World Bank, International Monetary Fund (IMF), and the Development Bank of Latin America and the Caribbean (CAF).",
+        "• In April 2007, Ecuador paid off its debt to the IMF, marking the end of IMF interventionism in the country.",
+        "• The public financial institutions in Ecuador include the Central Bank of Ecuador (BCE), the National Development Bank (BNF), the State Bank, the National Finance Corporation, the Ecuadorian Housing Bank (BEV), and the Ecuadorian Educational Loans and Grants."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:31:31.692623",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "7",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economic performance of Ecuador deteriorated significantly in 1997–98, culminating in a severe financial crisis in 1999.",
+        "• External shocks contributing to the crisis included the El Niño weather phenomenon in 1997, a sharp decline in global oil prices during 1997–98, and instability in international emerging markets in the same period.",
+        "• These shocks exposed the Ecuadorian government's unsustainable economic policies characterized by large fiscal deficits and expansionary monetary policies.",
+        "• The crisis resulted in a 7.3% contraction of GDP, an annual inflation rate of 52.2%, and a 65% devaluation of the national currency in 1999.",
+        "• On January 9, 2000, President Jamil Mahuad's administration announced plans to adopt the U.S. dollar as Ecuador's official currency to address ongoing economic instability.",
+        "• The protest against dollarization led to the 2000 Ecuadorian coup d'état, which ousted Mahuad and elevated Vice President Gustavo Noboa to the presidency.",
+        "• Since 2000, the U.S. dollar has been the sole official currency of Ecuador.",
+        "• The Noboa government committed to dollarization as a core element of its economic recovery strategy, completing the transition from sucres to dollars in 2001.",
+        "• Following a one-year stand-by program with the IMF concluded in December 2001, Ecuador negotiated a new $205 million stand-by agreement with the IMF in March 2003.",
+        "• Between 2000 and 2001, the Ecuadorian economy experienced modest recovery, with GDP increasing by 2.3% in 2000 and 5.4% in 2001; growth slowed to 2.7% in 2002.",
+        "• Inflation decreased from 96.1% annually in 2000 to 37.7% in 2001, and further to 12.6% in 2002.",
+        "• The completion of the second Transandean Oil Pipeline (OCP) in 2003 expanded Ecuador’s oil export capacity, doubling its oil transport capacity.",
+        "• Ecuador's economy was the eighth largest in Latin America, with an average growth rate of 4.6% annually from 2000 to 2006.",
+        "• In January 2009, the Central Bank of Ecuador projected a GDP growth of 6.88% for 2010.",
+        "• GDP doubled from 1999 to 2007, reaching 65,490 million dollars according to the Central Bank of Ecuador.",
+        "• Inflation up to January 2008 was approximately 1.14%, the highest in the previous year.",
+        "• Unemployment rates from December 2007 to September 2008 ranged between 6% and 8%, rising to about 9% in October 2008 before decreasing again in November 2008 to 8%.",
+        "• Between 2006 and 2009, government spending on social welfare and education increased from 2.6% to 5.2% of GDP.",
+        "• Starting in 2007, Ecuador implemented expansionary fiscal policies, including access to housing finance, stimulus packages, and restrictions on banks' foreign reserves, aimed at economic stabilization.",
+        "• The government invested heavily in education and infrastructure, significantly improving living conditions for the poor.",
+        "• On December 12, 2008, President Rafael Correa announced Ecuador would default on $30.6 million in interest payments on a $510 million loan, criticizing lenders as \"monsters.\"",
+        "• Correa also declared that $3.8 billion in foreign debt negotiated by previous administrations was illegitimate due to lack of executive approval.",
+        "• At that time, Ecuador held $5.65 billion in cash reserves.",
+        "• In 2009, Ecuador's economic growth slowed to 0.6% amid the global recession, declining oil prices, and reduced remittances from Ecuadorians abroad.",
+        "• The economy showed signs of recovery in 2010 with a growth rate of 2.8%.",
+        "• In 2011, GDP growth was 7.4%, and from 2012 to 2014, the average growth rate was 4.5%.",
+        "• High growth during this period was partly attributed to a public investment boom fueled by high oil prices and Chinese lending.",
+        "• According to the U.S. Energy Information Administration, in 2014, Ecuador was the third largest source of foreign oil to the western United States.",
+        "• After a significant decline in oil prices in mid-2014, Ecuador’s oil earnings fell, leading the Economist Intelligence Unit to forecast slight contraction in 2015; however, the economy grew by less than 0.5%.",
+        "• President Correa’s plan to extract crude oil from the Ishpingo, Tambochoa, and Tiputini fields in Yasuní National Park did not prevent a recession, and GDP contracted by 1.6% in 2016.",
+        "• The 2016 earthquake caused an estimated $3 billion in damages, impacting reconstruction and humanitarian efforts, with international aid including over $3 million from the U.S. Office of Foreign Disaster Assistance and a UN appeal seeking $73 million, of which only about 20% was received by July 2016.",
+        "• The Correa government increased VAT and implemented expenditure cuts, including a 30% reduction in capital spending.",
+        "• Despite reluctance, Ecuador received IMF support of $364 million in July 2016 via the Rapid Financing Instrument, alongside considerations for additional loans from China and the World Bank.",
+        "• Ecuador's 2008 default on $3.2 billion in debt limited access to global financial markets, prompting reliance on nontraditional sources like China, which provided nearly $11 billion from 2005 to 2014.",
+        "• In early 2015, Ecuador requested an additional $7.5 billion from China, which was approved and partially disbursed, including nearly $1 billion in mid-2015.",
+        "• Ecuador returned to international capital markets in June 2014 with a $2 billion bond issue, followed by smaller issues in 2015.",
+        "• Chinese loans over the years require repayment in nearly 500 barrels of crude oil, roughly three years of Ecuador’s oil production, raising concerns about debt sustainability.",
+        "• Ecuador withdrew from efforts to develop a regional free trade agreement (FTA) with the U.S. and other Andean nations in 2006; the U.S. signed bilateral FTAs with Peru and Colombia but Ecuador did not pursue an FTA with the U.S.",
+        "• Following Venezuela’s full membership in Mercosur in 2012, Bolivia and Ecuador applied to upgrade from observer to full member status in the trade bloc, which originally included Argentina, Brazil, Paraguay, and Uruguay.",
+        "• Ecuador embraced a trade agreement with the European Union as part of the EU-Andean Community Association, which took effect in January 2017, partly to support struggling non-oil exporters.",
+        "• The IMF approved a $10 billion support program for Ecuador in March 2019, covering the period 2018–2021, under the 2018–2021 Prosperity Plan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:31:56.969995",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 41
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "8",
+      "section_name": "Poverty and inequality",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2012, approximately 9 million Ecuadorians were engaged in some form of economic occupation, while about 1.01 million inhabitants were unemployed.",
+        "• In 1998, the wealth distribution was highly unequal, with the top 10% of the richest population controlling 42.5% of the national income, whereas the bottom 10% of the poor held only 0.6% of the income.",
+        "• Poverty rates were notably higher among indigenous populations, Afro-descendants, and residents of rural sectors.",
+        "• In 1998, only 7.6% of health expenditure was allocated to the poorest 20% of the population, while the richest 20% received 38.1% of health spending, indicating significant disparities in resource distribution.",
+        "• The extreme poverty rate in Ecuador declined markedly between 1999 and 2010, from an estimated 40% of the population in 2001 to 17.4% in 2011.",
+        "• The reduction in extreme poverty is largely attributed to increased emigration and the economic stability achieved after Ecuador adopted the U.S. dollar as its official currency.",
+        "• Poverty rates remained higher among indigenous peoples, Afro-descendants, and rural communities, with indigenous populations experiencing a poverty rate of approximately 44%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:32:02.477079",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "9",
+      "section_name": "Infrastructure development",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The industrial sector in Ecuador has faced significant challenges in achieving substantial growth and development.",
+        "• The primary obstacle hindering industrial expansion is the energy deficit, which limits the sector's capacity to grow effectively.",
+        "• The current government has addressed the energy deficit by enhancing the performance of existing hydroelectric plants and developing new hydroelectric projects.",
+        "• Notable hydroelectric projects include the negotiation and development of the Coca-Codo hydroelectric plant, which is a key component of Ecuador's energy strategy.",
+        "• To promote industrial growth and energy development, the government plans to implement various incentives, including financing incentives, tributary incentives, and tariff adjustments.",
+        "• These incentives aim to stimulate growth in several sectors, such as tourism, food processing, renewable and alternative energy sources, bioenergies, pharmaceutical and chemical products, biochemical and environmental biomedicine, services, automotive manufacturing, metallurgical industry, footwear, and automotive parts and components.",
+        "• The construction of a 500 kV transmission line has been undertaken to strengthen the national electricity grid.",
+        "• The 500 kV transmission line also facilitates increased electricity trade with neighboring countries, specifically Peru and Colombia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:32:06.147710",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Main economic indicators",
+      "chapter_name": "Economy of Ecuador",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section presents main economic indicators of Ecuador from 1980 to 2019, with IMF staff estimates for 2020–2025.",
+        "• Inflation rates below 5% are highlighted in green within the data table.",
+        "• In 1980, Ecuador's GDP measured 26.0 billion US dollars (PPP), with a per capita GDP of 3,243.3 US dollars (PPP), and 16.8 billion US dollars (nominal), with a per capita nominal GDP of 2,097.1 US dollars.",
+        "• The GDP growth rate in 1980 was 4.9%, with an inflation rate of 13.0%, and unemployment at 13.0%; government debt data is not available.",
+        "• In 1981, GDP increased to 29.6 billion US dollars (PPP), with a per capita GDP of 3,585.7 US dollars (PPP), and nominal GDP of 17.2 billion US dollars, with per capita nominal GDP at 2,087.4 US dollars.",
+        "• The GDP growth rate in 1981 was 3.9%, inflation decreased to 16.4%, unemployment rose to 16.4%, data on government debt is unavailable.",
+        "• 1982 saw GDP reach 31.8 billion US dollars (PPP), with per capita GDP of 3,746.6 US dollars (PPP), and nominal GDP of 17.2 billion US dollars, with a per capita nominal GDP of 2,026.4 US dollars.",
+        "• The economy grew by 1.2% in 1982; inflation was 16.3%, unemployment remained high at 16.3%, government debt data unavailable.",
+        "• In 1983, GDP was 32.1 billion US dollars (PPP), with a per capita GDP of 3,681.4 US dollars (PPP), and nominal GDP of 15.1 billion US dollars, with per capita nominal GDP at 1,732.5 US dollars.",
+        "• The GDP contracted by -2.8% in 1983; inflation surged to 48.4%, unemployment increased dramatically to 48.4%, government debt data not available.",
+        "• 1984's GDP increased to 34.7 billion US dollars (PPP), with a per capita GDP of 3,868.7 US dollars (PPP), and nominal GDP of 16.1 billion US dollars, with per capita nominal GDP at 1,794.7 US dollars.",
+        "• The economy grew by 4.2% in 1984; inflation decreased to 31.2%, unemployment dropped to 31.2%, data on government debt not available.",
+        "• In 1985, GDP was 37.4 billion US dollars (PPP), with a per capita GDP of 4,058.3 US dollars (PPP), and nominal GDP of 18.8 billion US dollars, with per capita nominal GDP at 2,044.3 US dollars.",
+        "• The GDP growth rate was 4.4%; inflation was 28.0%, unemployment was 28.0%; government debt data not available.",
+        "• 1986 saw GDP at 39.3 billion US dollars (PPP), with per capita GDP of 4,159.7 US dollars (PPP), and nominal GDP of 13.8 billion US dollars, with per capita nominal GDP at 1,461.9 US dollars.",
+        "• The economy grew by 3.1%; inflation was 23.0%, unemployment at 23.0%; government debt data not available.",
+        "• In 1987, GDP declined to 37.9 billion US dollars (PPP), with a per capita GDP of 3,908.6 US dollars (PPP), and nominal GDP of 12.9 billion US dollars, with per capita nominal GDP at 1,332.1 US dollars.",
+        "• The economy contracted by -6.0%; inflation was 29.5%, unemployment increased to 29.5%; government debt data not available.",
+        "• 1988 experienced GDP growth to 43.3 billion US dollars (PPP), with per capita GDP of 4,357.2 US dollars (PPP), and nominal GDP of 12.3 billion US dollars, with per capita nominal GDP at 1,234.7 US dollars.",
+        "• The GDP growth rate was 10.5%; inflation was high at 58.2%, unemployment was 58.2%, and government debt was 7.0%.",
+        "• In 1989, GDP was 45.2 billion US dollars (PPP), with a per capita GDP of 4,431.5 US dollars (PPP), and nominal GDP of 12.0 billion US dollars, with per capita nominal GDP at 1,182.5 US dollars.",
+        "• The economy was nearly stagnant with a 0.3% growth; inflation was 75.6%, unemployment at 75.6%, and government debt was 7.9%.",
+        "• 1990's GDP increased to 48.3 billion US dollars (PPP), with per capita GDP of 4,626.3 US dollars (PPP), and nominal GDP of 12.2 billion US dollars, with per capita nominal GDP at 1,173.1 US dollars.",
+        "• The economy grew by 3.0%; inflation decreased to 48.5%, unemployment was 48.5%, government debt was 6.1%.",
+        "• In 1991, GDP reached 52.4 billion US dollars (PPP), with a per capita GDP of 4,913.6 US dollars (PPP), and nominal GDP of 13.7 billion US dollars, with per capita nominal GDP at 1,286.6 US dollars.",
+        "• The GDP growth rate was 5.1%; inflation was 48.8%, unemployment was 48.8%, government debt was 8.5%.",
+        "• 1992's GDP was 55.6 billion US dollars (PPP), with per capita GDP of 5,092.2 US dollars (PPP), and nominal GDP of 15.0 billion US dollars, with per capita nominal GDP at 1,375.7 US dollars.",
+        "• The economy grew by 3.6%; inflation was 54.3%, unemployment at 54.3%, government debt was 8.9%.",
+        "• In 1993, GDP increased to 58.0 billion US dollars (PPP), with per capita GDP of 5,203.9 US dollars (PPP), and nominal GDP of 17.5 billion US dollars, with per capita nominal GDP at 1,572.8 US dollars.",
+        "• The economy grew by 2.0%; inflation was 45.0%, unemployment was 45.0%, government debt was 8.3%.",
+        "• 1994 saw GDP rise to 61.8 billion US dollars (PPP), with a per capita GDP of 5,429.4 US dollars (PPP), and nominal GDP of 21.1 billion US dollars, with per capita nominal GDP at 1,858.3 US dollars.",
+        "• The GDP growth was 4.3%; inflation decreased to 27.4%, unemployment was 27.4%, government debt was 5.7%.",
+        "• In 1995, GDP was 64.5 billion US dollars (PPP), with per capita GDP of 5,561.6 US dollars (PPP), and nominal GDP of 23.0 billion US dollars, with per capita nominal GDP at 1,980.4 US dollars.",
+        "• The economy grew by 2.3%; inflation was 22.9%, unemployment was 22.9%, government debt was 5.5%.",
+        "• 1996's GDP reached 66.8 billion US dollars (PPP), with per capita GDP of 5,663.5 US dollars (PPP), and nominal GDP of 24.0 billion US dollars, with per capita nominal GDP at 2,037.1 US dollars.",
+        "• The GDP growth rate was 1.7%; inflation was 24.4%, unemployment was 24.4%, government debt was 9.0%.",
+        "• In 1997, GDP increased to 70.9 billion US dollars (PPP), with per capita GDP of 5,916.2 US dollars (PPP), and nominal GDP of 27.0 billion US dollars, with per capita nominal GDP at 2,253.2 US dollars.",
+        "• The economy grew by 4.3%; inflation was 30.6%, unemployment was 30.6%, government debt was 7.8%.",
+        "• 1998's GDP was 74.1 billion US dollars (PPP), with per capita GDP of 6,086.1 US dollars (PPP), and nominal GDP of 27.5 billion US dollars, with per capita nominal GDP at 2,257.9 US dollars.",
+        "• The GDP growth rate was 3.3%; inflation was 36.1%, unemployment was 36.1%, government debt was 10.2%.",
+        "• In 1999, GDP declined to 71.5 billion US dollars (PPP), with per capita GDP of 5,794.1 US dollars (PPP), and nominal GDP of 19.7 billion US dollars, with per capita nominal GDP at 1,598.8 US dollars.",
+        "• The economy contracted by -4.7%; inflation was 52.2%, unemployment was 52.2%, government debt was 13.1%.",
+        "• 2000's GDP was 74.0 billion US dollars (PPP), with per capita GDP of 5,902.0 US dollars (PPP), and nominal GDP of 18."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:32:41.890350",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 43
+      },
+      "source_file": "economy_of_ecuador.json",
+      "original_index": 10
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_greece.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.938075",
+    "total_sections_in_source": 32,
+    "extracted_sections_count": 32,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Greece is classified as an advanced, high-income economy, ranking as the 50th-largest in the world with an annual nominal gross domestic product (GDP) of $267.348 billion.",
+        "• In terms of purchasing power parity (PPP), Greece is the 54th-largest economy globally, with an annual output of $467.590 billion.",
+        "• Greece is the 16th-largest economy within the European Union and the 11th-largest in the eurozone.",
+        "• According to the International Monetary Fund's projections for 2025, Greece's GDP per capita is estimated at $25,756 at nominal value and $45,048 at PPP.",
+        "• Greece is a welfare state, with social spending constituting 23.7% of GDP in 2024, ranking relatively high among OECD nations.",
+        "• The Greek economy is predominantly service-based (80%), with industrial sectors accounting for 16%, and agriculture contributing approximately 4% of economic output in 2017.",
+        "• Key industries include tourism and shipping, with Greece being a major global maritime nation; its Merchant Navy is the largest in the world, with Greek-owned vessels representing 21% of global deadweight tonnage as of 2021, and the fleet's capacity increasing by 45.8% since 2014.",
+        "• Greece attracted 31.3 million international tourists in 2019, making it the 7th most-visited country in the European Union and 13th worldwide, up from 18 million tourists in 2013.",
+        "• The country has a significant agricultural sector within the EU and is the largest economy in Southeast Europe.",
+        "• Greece was the largest foreign investor in Albania in 2013, and also a major investor in Bulgaria, Romania, Serbia, and North Macedonia, with the telecommunications company OTE making notable investments across Southeast Europe.",
+        "• Greece has the largest Greek Merchant Navy globally, with increased demand for maritime transportation between Greece and Asia leading to substantial investments in shipping infrastructure.",
+        "• The country is a significant agricultural producer within the EU and a regional investor, with Greece being a key trading partner and foreign investor in neighboring Balkan countries.",
+        "• Greece was a founding member of the Organisation for Economic Co-operation and Development (OECD) and the Organization of the Black Sea Economic Cooperation (BSEC).",
+        "• Greece joined the European Union in 1981 and adopted the euro as its currency in 2001, replacing the Greek drachma at an exchange rate of 340.75 drachmae per euro.",
+        "• The country is a member of the International Monetary Fund and the World Trade Organization, and ranked 34th on Ernst & Young's Globalization Index in 2011.",
+        "• Historically, WWII devastated Greece's economy, but the post-1950 to 1980 period experienced rapid growth known as the Greek economic miracle.",
+        "• Greece experienced high GDP growth rates in the early 2000s, peaking at 6.4% in 2006, but was severely impacted by the Great Recession and the Greek debt crisis, with GDP contracting sharply from 2009 to 2013, reaching -9.9% in 2011.",
+        "• In 2011, Greece's government debt reached €356 billion, equivalent to 172% of its nominal GDP.",
+        "• Following a major debt restructuring involving private sector losses of approximately €100 billion, Greece reduced its sovereign debt to €280 billion, or 137% of GDP, in early 2012.",
+        "• Greece achieved a modest GDP growth of 0.8% in 2014 after five years of decline, but contracted again by 0.2% in 2015 and remained stagnant in 2016.",
+        "• The economy experienced renewed growth of 1.5% in 2017, 2.1% in 2018, and 2.3% in 2019.",
+        "• The COVID-19 pandemic caused a contraction of 9.2% in 2020, but the economy rebounded with growth rates of 8.7% in 2021, 5.7% in 2022, 2.3% in 2023, and 2.3% in 2024.",
+        "• On 20 August 2022, Greece officially exited the EU's \"enhanced surveillance framework,\" which had been in place since the third bailout program concluded four years earlier.",
+        "• On 2 December 2022, the credit rating agency Scope, based in Berlin, assigned a positive outlook to Greece's BB+ rating, indicating a potential return to investment grade.",
+        "• Greece's investment-grade status was restored on 31 July 2023 by Japanese credit rating agency R&I, with subsequent upgrades by Scope, DBRS, S&P, and Fitch occurring between August and December 2023, although Moody's delayed until 14 March 2025.",
+        "• The Economist ranked Greece as the world's top economic performer for 2022 and 2023, citing significant improvements in key economic and financial indicators.",
+        "• Tourism reached an all-time record in 2023, with approximately 32 million tourists visiting Greece, making it one of the most visited countries globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:38.990145",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section appears to be biased towards recent events, and there is a suggestion to contextualize recent developments within a broader historical framework and include more non-recent historical content. (October 2011)",
+        "• The export of raisins from the port of Patras in the late 19th century exemplifies Greece’s historical trade activities.",
+        "• The historical GDP per capita development during the 19th century reflects Greece’s economic transformation amid the global impact of the Industrial Revolution.",
+        "• Research from 2006 indicates that Greece experienced gradual industrial development and expansion of shipping in a predominantly agricultural economy during the 19th century.",
+        "• The average per capita GDP growth rate between 1833 and 1911 was only slightly lower than that of other Western European countries, indicating relatively steady economic progress.",
+        "• Industrial activity in Greece during this period included heavy industries such as shipbuilding, primarily concentrated in Ermoupolis and Piraeus.",
+        "• Greece faced multiple economic hardships in the 19th century, including defaulting on external loans in the years 1843, 1860, and 1893.",
+        "• Comparative studies of living standards show that Greece’s per capita income (measured in purchasing power terms) was 65% of France’s in 1850, decreasing to 56% in 1890, then rising to 62% in 1938.",
+        "• Post-World War II, Greece’s economic development is largely associated with the Greek economic miracle, a period of rapid growth.",
+        "• During the Greek economic miracle, Greece’s growth rates were second only to Japan’s, and Greece ranked first in Europe in terms of GDP growth.",
+        "• Between 1960 and 1973, Greece’s economy grew at an average annual rate of 7.7%, compared to 4.7% for the EU15 and 4.9% for the OECD.",
+        "• During the same period, Greek exports increased at an average annual rate of 12.6%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:43.633482",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Strengths and weaknesses",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Greece has a high standard of living and a very high Human Development Index, ranking 32nd in the world in 2019.",
+        "• The country experienced a severe recession in recent years, causing GDP per capita to decline from 94% of the EU average in 2009 to 67% between 2017 and 2019.",
+        "• During the same period, Actual Individual Consumption (AIC) per capita decreased from 104% to 78% of the EU average.",
+        "• Greece's main industries include tourism, shipping, industrial products, food and tobacco processing, textiles, chemicals, metal products, mining, and petroleum.",
+        "• Since the early 1990s, Greece's GDP growth has been higher than the EU average on average.",
+        "• Despite this, Greece faces significant economic challenges such as high unemployment, inefficient public sector bureaucracy, tax evasion, corruption, and low global competitiveness.",
+        "• Greece is ranked 59th in the world and 21st among EU member states on the Corruption Perceptions Index, roughly returning to its pre-2010–2018 debt crisis ranking.",
+        "• Greece holds the EU's lowest Index of Economic Freedom and the second lowest Global Competitiveness Index, ranking 113th and 59th globally respectively.",
+        "• Between 1961 and 2010, Greece experienced various GDP growth rates, with an average of 8.44% during 1961–1970, and a decline to negative growth during 2008–2011 at −4.8%.",
+        "• Greece entered recession in 2008 after fourteen consecutive years of economic growth.",
+        "• By the end of 2009, Greece had the highest budget deficit and government debt-to-GDP ratio in the EU, with the deficit estimated at 15.7% of GDP after revisions, and debt at 127.9% of GDP.",
+        "• The rising debt levels and deficit led to increased borrowing costs, effectively excluding Greece from global financial markets and precipitating a severe economic crisis.",
+        "• Greece was accused of attempting to conceal the extent of its budget deficit during the 2008 financial crisis, with the 2009 deficit forecast revised from 6–8% (by the previous government) to 12.7%, later revised to 15.7%.",
+        "• An investigation was approved by the Hellenic Parliament in February 2012 following allegations that the deficit had been artificially inflated to justify austerity measures.",
+        "• The average GDP growth rates by era are: 8.44% (1961–1970), 4.70% (1971–1980), 0.70% (1981–1990), 2.36% (1991–2000), 4.11% (2001–2007), −4.8% (2008–2011), −2.52% (2012–2015), 1.05% (2016–2019), and 1.78% (2020–2022).",
+        "• Greece's labor force comprises approximately 5 million workers, who worked an average of 2,032 hours annually in 2011, ranking fourth among OECD countries after Mexico, South Korea, and Chile.",
+        "• A poll by the Groningen Growth & Development Centre indicated that between 1995 and 2005, Greece had the highest average annual working hours among European nations at 1,900 hours, followed by Spain at 1,800 hours.",
+        "• The ongoing economic crisis caused industrial production to decline by 8% between March 2010 and March 2011.",
+        "• Building activity volume decreased by 73% in 2010, and retail sales turnover fell by 9% between February 2010 and February 2011.",
+        "• Unemployment rose sharply from 7.2% in the second and third quarters of 2008 to 27.9% in June 2013, leaving over one million people unemployed.",
+        "• Youth unemployment peaked at 64.9% in May 2013.",
+        "• Recent trends show unemployment decreasing to 8.3% in April 2025 overall, and youth unemployment falling to 16.1% in September 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:56.024107",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Eurozone entry",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The average public debt-to-GDP ratios from 1909 to 2008 for selected countries were as follows: United Kingdom at 104.7%, Belgium at 86.0%, Italy at 76.0%, Canada at 71.0%, France at 62.6%, Greece at 60.2%, United States at 47.1%, and Germany at 32.1%.",
+        "• Greece officially entered the Eurozone in 2001, becoming a member of the Economic and Monetary Union of the European Union.",
+        "• Greece was accepted into the EMU by the European Council on 19 June 2000, based on criteria including inflation rate, budget deficit, public debt, long-term interest rates, and exchange rate, using 1999 as the reference year.",
+        "• In 2004, an audit commissioned by Greece’s new government (New Democracy) revealed that Eurostat had under-reported Greece’s budget deficit figures.",
+        "• Despite corrections, Greece’s 1999 budget deficit, after applying the ESA95 methodology, was revised to 3.38% of GDP, exceeding the 3% limit, which raised concerns about the accuracy of Greece’s Eurozone entry data.",
+        "• The primary reason for the revised deficit figures was a change in accounting practices by the Greek government, notably recording military expenses upon ordering rather than receipt.",
+        "• The retroactive application of the ESA95 methodology by Eurostat was responsible for increasing the 1999 deficit to 3.38%, thus surpassing the 3% threshold, leading to claims that Greece had not fully met all five accession criteria.",
+        "• There was a perception that Greece’s entry into the Eurozone involved \"falsified\" deficit numbers, similar to claims made about other countries like Italy.",
+        "• The 2005 OECD report clarified that the impact of the new accounting rules on Greece’s fiscal figures from 1997 to 1999 ranged from 0.7 to 1 percentage point of GDP, and the revised deficit exceeded 3% only after applying the ESA95 methodology.",
+        "• Greece’s finance minister clarified that when using the ESA79 methodology, which was in force at the time of application, the 1999 deficit was below 3%, indicating Greece met the criteria.",
+        "• The original accounting practice for military expenses was later restored in line with Eurostat recommendations, which would theoretically lower Greece’s 1999 deficit below 3% when recalculated under ESA95, although an official Eurostat calculation for 1999 remains pending.",
+        "• A common misconception is confusing Greece’s Eurozone entry criteria with the controversy over Greece and other countries using derivatives deals with U.S. banks, such as Goldman Sachs, to artificially reduce reported deficits; Greece’s use of a currency swap with Goldman Sachs to hide 2.8 billion Euros of debt affected deficit figures after 2001 and is unrelated to the initial Eurozone accession.",
+        "• Forensic analysis of data submitted to Eurostat from 1999–2009 found that Greece’s statistical data had a distribution indicative of manipulation, with Greece showing the largest deviation from Benford’s law among Eurozone members, with a mean value of 17.74, followed by Belgium at 17.21 and Austria at 15.25."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:05.038347",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "2010–2018 government debt crisis",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1977, Greece's government debt as a percentage of GDP has consistently exceeded the Eurozone average, reflecting persistent fiscal challenges.",
+        "• The debt-to-GDP ratio in Greece has experienced significant fluctuations over the decades, often surpassing 100%, indicating high levels of public indebtedness relative to economic output.",
+        "• During the period leading up to the 2010–2018 government debt crisis, Greece's debt ratio markedly increased, reaching approximately 146% of GDP in 2011, one of the highest levels among Eurozone countries.",
+        "• The Eurozone average debt-to-GDP ratio during this period remained substantially lower, generally below 80%, highlighting Greece's comparatively severe debt burden.",
+        "• The elevated debt levels contributed to Greece's financial instability, leading to multiple bailout programs and austerity measures imposed by the European Union and International Monetary Fund.",
+        "• The crisis period from 2010 to 2018 was characterized by severe economic contraction, high unemployment, and austerity policies aimed at stabilizing Greece's fiscal situation.",
+        "• Despite some fiscal adjustments and economic reforms, Greece's debt-to-GDP ratio remained high, posing ongoing challenges to sustainable economic growth and fiscal sovereignty.",
+        "• The persistent high debt levels since 1977 underscore Greece's long-term fiscal vulnerabilities relative to the broader Eurozone economic environment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:09.027914",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.3.1",
+      "section_name": "Historical Debt",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Greece experienced debt crises in the 19th century, similar to other European nations, and faced a significant crisis in 1932 during the Great Depression.",
+        "• Throughout the 20th century, Greece enjoyed one of the highest GDP growth rates globally, notably from the early 1950s to the mid-1970s, during which it ranked second in the world after Japan.",
+        "• The average Greek government debt-to-GDP ratio for the entire century prior to the financial crisis (1909–2008) was lower than that of the United Kingdom, Canada, or France.",
+        "• During the 30-year period from 1952 to 1981, until Greece's entry into the European Economic Community, the country's government debt-to-GDP ratio averaged only 19.8%.",
+        "• Between 1981 and 1993, Greece's government debt-to-GDP ratio steadily increased, surpassing the average of the Eurozone in the mid-1980s.",
+        "• From 1993 to 2007, a span of 15 years before the 2008 financial crisis, Greece's debt-to-GDP ratio remained relatively stable, averaging approximately 102%.",
+        "• During this period, Greece's debt-to-GDP ratio was lower than Italy's (107%) and Belgium's (110%), and was comparable to the United States and the OECD average in 2017.",
+        "• Throughout the 1993–2007 period, Greece's annual budget deficit frequently exceeded 3% of GDP; however, high GDP growth rates mitigated the impact on the debt-to-GDP ratio.",
+        "• The debt-to-GDP ratio for 2006 and 2007 was about 105%, but these figures were adjusted after audits based on Eurostat methodology, which introduced corrections of up to 10 percentage points for those years.",
+        "• Similar corrections were applied to the years 2008 and 2009, which altered the debt figures by a maximum of approximately 10%.",
+        "• These adjustments led to a popular perception that Greece had been concealing or \"hiding\" its debt prior to the corrections."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:15.171434",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.3.2",
+      "section_name": "Evolution of the debt crisis",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Greek debt crisis was triggered by the broader turmoil of the Great Recession, which caused several Western nations' budget deficits to reach or exceed 10% of GDP.",
+        "• In Greece, the budget deficit reached 10.2% of GDP in 2008 and 15.1% in 2009 after several corrections, indicating a severe fiscal imbalance.",
+        "• Greece's public debt-to-GDP ratio was relatively stable for years, just above 100%, but it was revised to about 100% due to drastic deficit revisions; by 2009, it had surged to 127% of GDP.",
+        "• As a member of the Eurozone, Greece lacked autonomous monetary policy flexibility, limiting its ability to respond independently to economic shocks.",
+        "• Controversies surrounding Greek statistical data, including significant deficit revisions that increased the public debt-to-GDP ratio by approximately 10%, contributed to market distrust; prior to 2007, Greece's debt was about 100%.",
+        "• Media reports and statistical revisions led to market punishment, with increased borrowing rates making it impossible for Greece to finance its debt from early 2010, exacerbating the euro area crisis.",
+        "• Greece's economy faced its most severe crisis since the restoration of democracy in 1974, with deficit forecasts revised from 3.7% in early 2009 and 6% in September 2009 to 12.7% of GDP in October 2009.",
+        "• The deficit revisions were linked to financial products developed with the assistance of Goldman Sachs, JPMorgan Chase, and other banks, which enabled Greek and other European governments to hide parts of their borrowing.",
+        "• Multiple European countries used similar financial arrangements, where banks provided cash in advance in exchange for future payments, keeping liabilities \"off the books.\"",
+        "• _Der Spiegel_ reported that credits to European governments were disguised as \"swaps,\" which did not register as debt because Eurostat ignored financial derivatives; a German derivatives dealer noted that \"The Maastricht rules can be circumvented quite legally through swaps,\" with Italy having used similar tricks.",
+        "• These practices allowed Greece and other European governments to spend beyond their means while meeting EU deficit targets and monetary union guidelines.",
+        "• In May 2010, Greece's deficit was revised again to 13.6%, ranking among the highest relative to GDP, with Iceland at 15.7% and the UK at 12.6%; public debt was forecasted to reach 120% of GDP during 2010.",
+        "• The crisis in confidence was reflected by rising borrowing rates; the 10-year government bond yield exceeded 7% in April 2010, although the slow increase led to debates about the influence of international media on the crisis.",
+        "• To prevent default, in May 2010, the Eurozone countries and the IMF agreed on a rescue package providing Greece with an immediate €45 billion bailout, with total funds reaching €110 billion, contingent on austerity measures.",
+        "• Greece was required to implement harsh austerity measures monitored by the European Commission, the European Central Bank, and the IMF to control its deficit.",
+        "• The 2008 financial crisis and subsequent austerity measures sparked widespread public anger, riots, and social unrest in Greece, with some theories attributing the unrest to international media influence.",
+        "• Many economists argued that austerity measures failed to reduce the deficit significantly due to the recession they induced.",
+        "• Public sector workers protested through strikes against job cuts and salary reductions, amid government plans to accelerate privatization.",
+        "• Immigrants were sometimes scapegoated by far-right extremists for Greece’s economic problems.",
+        "• In 2013, Greece became the first developed market to be reclassified as an emerging market by various financial rating agencies.",
+        "• By July 2014, protests and anger persisted over austerity, including a 24-hour strike by government workers during an IMF, EU, and ECB inspection prior to a second bailout decision of €1 billion ($1.36 billion).",
+        "• Greece exited its six-year recession in Q2 2014, but challenges related to political stability and debt sustainability remained.",
+        "• A third bailout was agreed upon in July 2015 after confrontation with the newly elected leftist government of Alexis Tsipras.",
+        "• In June 2017, reports indicated Greece’s \"crushing debt burden\" persisted, with risks of default; the IMF stated Greece should be able to borrow again \"in due course.\"",
+        "• The Eurozone provided Greece with an additional credit of $9.5 billion (€8.5 billion), including loans and potential debt relief measures involving the IMF.",
+        "• On 13 July 2017, Greece sent a letter of intent to the IMF with 21 commitments, including reforms in labor laws, public sector employment, and pension recalculations, to be fulfilled by June 2018.",
+        "• Greece’s bailout programs were declared successfully concluded on 20 August 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:34.016206",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.3.3",
+      "section_name": "Effects of the bailout programmes on the debt crisis",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Greece's GDP experienced a 25% decline, which was directly associated with the implementation of bailout programmes.",
+        "• This significant reduction in GDP had a critical impact on Greece's debt metrics, specifically causing the Debt-to-GDP ratio to increase markedly.",
+        "• The Debt-to-GDP ratio, a key indicator of the severity of the debt crisis, was 127% in 2009; due solely to the GDP decline, it was projected to rise to approximately 170%.",
+        "• The increase in the Debt-to-GDP ratio from 127% to about 170% was driven entirely by the decrease in GDP, assuming the debt level remained constant.",
+        "• A Debt-to-GDP ratio of around 170% is considered unsustainable for Greece's economy.",
+        "• Reports indicate that the threshold for an unhealthy or unsustainable government debt-to-GDP ratio is approximately 85%.",
+        "• In a 2013 report, the International Monetary Fund (IMF) acknowledged that it had underestimated the negative effects of extensive tax hikes and austerity measures on Greece’s GDP.",
+        "• The IMF issued an informal apology for its earlier miscalculations regarding the economic impact of the bailout policies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:37.804387",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "COVID-19 recession",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The COVID-19 pandemic had a profound impact on all sectors of the Greek economy, with tourism being particularly affected.",
+        "• Greece's Gross Domestic Product (GDP) contracted by 9.2% in 2020 due to the pandemic's economic disruptions.",
+        "• Following the contraction, Greece experienced a strong economic rebound with GDP increasing by 8.7% in 2021.",
+        "• The recovery continued with GDP growth of 5.7% in 2022.",
+        "• In 2023, Greece's GDP grew by 2.3%, maintaining a positive growth trajectory.",
+        "• The GDP growth rate remained at 2.3% in 2024, indicating ongoing economic recovery.",
+        "• In June 2021, the European Commission approved a disbursement of approximately 30 billion Euros to Greece as COVID-19 related economic aid.",
+        "• The aid package consisted of 12 billion Euros in loans and 18 billion Euros in grants to support Greece's economic recovery efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:40.259297",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Current Greek economy",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2024, the Greek economy is forecast to grow by approximately 3%, indicating a significant recovery trajectory.",
+        "• This growth projection suggests that Greece's economy will approach its pre-crisis size as of 2009.",
+        "• The anticipated growth rate of nearly 3% notably exceeds the euro zone average economic growth rate of 0.8% for the same period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:41.900256",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "Agriculture and fishery",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section features images of a vineyard in Naoussa, located in central Macedonia, and sacks containing Fava Santorinis, highlighting notable Greek agricultural products.",
+        "• Olive oil production is a significant aspect of Greece's agriculture, emphasizing the country's long-standing tradition in olive cultivation.",
+        "• In 2010, Greece was the European Union's leading producer of cotton, with a total output of 183,800 tons.",
+        "• Greece also led the EU in pistachio production, yielding 8,000 tons in 2010.",
+        "• The country ranked second in the EU for rice production, with a total of 229,500 tons in 2010.",
+        "• Greece was the second-largest producer of olives within the EU in 2010, with an output of 147,500 tons.",
+        "• It ranked third in the EU for fig production, producing 11,000 tons, and for almonds, with 44,000 tons.",
+        "• Greece also ranked third in tomato production, with 1,400,000 tons, and watermelon production, totaling 578,400 tons in 2010.",
+        "• The country was fourth in the EU for tobacco production, with 22,000 tons.",
+        "• Agriculture contributed approximately 3.8% to Greece's gross domestic product (GDP) and employed about 12.4% of the national labor force.",
+        "• Greece is a major beneficiary of the European Union’s Common Agricultural Policy, which has facilitated significant upgrades to its agricultural infrastructure and increased output.",
+        "• Following Greece’s accession to the European Community, agricultural development was notably enhanced.",
+        "• Between 2000 and 2007, organic farming in Greece increased by 885%, representing the highest growth percentage in the EU during that period.",
+        "• In 2007, Greece accounted for 19% of the EU’s total fishing haul in the Mediterranean Sea, with a catch of 85,493 tons, ranking third among EU countries.",
+        "• Greece had the highest number of fishing vessels among EU Mediterranean nations.",
+        "• The country ranked 11th in the EU for total fish caught, with a total of 87,461 tons.",
+        "• In September 2023, a severe flood in the Thessaly region caused extensive damage to agricultural production, with estimated losses amounting to 3.7 billion euros."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:48.965487",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 2005 and 2011, Greece experienced the highest percentage increase in industrial output among all European Union member states, with a growth rate of 6% relative to 2005 levels.",
+        "• Eurostat statistics indicate that the Greek industrial sector was significantly impacted by the Greek government-debt crisis during 2009 and 2010, resulting in a domestic output decline of 5.8% and an overall industrial production decrease of 13.4%.",
+        "• Greece is currently ranked third in the European Union for marble production, with an annual output exceeding 920,000 tons, following Italy and Spain.",
+        "• From 1999 to 2008, the volume of retail trade in Greece increased at an average annual rate of 4.4%, totaling a 44% increase over the period; however, in 2009, retail trade decreased by 11.3%.",
+        "• The only sector in Greece that did not experience negative growth in 2009 was administration and services, which grew marginally by 2.0%.",
+        "• In 2009, Greece's labor productivity was 98% of the EU average, but productivity per hour worked was only 74% of the Eurozone average.",
+        "• The largest industrial employer in Greece in 2007 was the manufacturing industry, employing 407,000 people, followed by the construction industry with 305,000 employees, and mining, which employed 14,000.",
+        "• Greece maintains a significant shipbuilding and ship maintenance industry, with six major shipyards located around the port of Piraeus, among the largest in Europe.",
+        "• In recent years, Greece has become a leader in the construction and maintenance of luxury yachts.",
+        "• The HSY-55-class gunboat _Polemistis_ was built by Hellenic Shipyards Co. for the Hellenic Navy.",
+        "• The fuselage for the Dassault nEUROn stealth jet is produced in Greece by the Hellenic Aerospace Industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:54.495503",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "1.8",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Aluminium of Greece operates facilities dedicated to the processing and production of aluminum, contributing significantly to Greece's mining sector and industrial economy.",
+        "• Greece possesses a gold mine located on the island of Thasos, which is notable for its gold extraction activities and has been historically significant for the country's mineral resources.",
+        "• The Gerakini mine is another important mining site in Greece, primarily extracting minerals such as baryte and other industrial minerals, playing a vital role in the country's mineral output.",
+        "• The Skouries mine is a prominent mining project in Greece, involving the extraction of gold and copper; it has been subject to environmental and economic discussions due to its scale and impact.",
+        "• Greece features a marble quarry in Sifnos, renowned for its high-quality marble production, which has been historically significant and contributes to Greece’s reputation in the global stone industry.",
+        "• Calcium carbonate is loaded at the port of Argostoli, indicating the presence of calcium carbonate mining and export activities, with the port serving as a key point for mineral export logistics."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:14:58.285835",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "1.9",
+      "section_name": "Maritime industry",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Port of Thessaloniki and the Neorion shipyard located in Ermoupolis are significant maritime infrastructure assets in Greece, with the latter being notable for its shipbuilding activities.",
+        "• Greek companies own 23.2% of the world's total merchant fleet, making Greece's fleet the largest globally; Greece is ranked in the top 5 for all types of ships, including first place for tankers and bulk carriers.",
+        "• Shipping has been a vital sector of the Greek economy since ancient times, with historical data indicating that in 1813, the Greek merchant navy comprised 615 ships with a total tonnage of 153,580 tons, manned by 37,526 crew members and armed with 5,878 cannons.",
+        "• By 1914, the Greek merchant navy expanded to 449,430 tons across 1,322 ships, of which 287 were steam-powered vessels.",
+        "• During the 1960s, the Greek fleet nearly doubled in size, primarily due to investments by prominent shipping magnates such as Aristotle Onassis, Vardinoyannis, the Livanos family, and the Niarchos family.",
+        "• The modern Greek maritime industry was significantly shaped after World War II, facilitated by surplus ships sold to Greek shipping entrepreneurs by the U.S. Government under the Ship Sales Act of the 1940s.",
+        "• Greece possesses the largest merchant navy in the world, accounting for over 15% of global deadweight tonnage (dwt), with a total of approximately 245 million dwt, second only to Japan's nearly 224 million dwt.",
+        "• Greece's merchant fleet represents 39.52% of all European Union dwt.",
+        "• The fleet size has decreased from a peak of about 5,000 ships in the late 1970s to its current smaller size.",
+        "• Greece ranks third worldwide in the number of ships owned, with 4,709 vessels, behind Japan (5,974 ships) and China (7,114 ships).",
+        "• According to the European Community Shipowners' Associations report for 2011–2012, the Greek-flagged ships are the seventh most used internationally and second within the EU.",
+        "• Greek companies control 22.6% of the world's tankers and 16.1% of the world's bulk carriers by dwt; additionally, 27.45% of the world's tanker dwt and 12.7% of bulk carrier dwt are on order.",
+        "• Shipping contributes approximately 6% to Greece's GDP, employs around 160,000 people (about 4% of the workforce), and accounts for one-third of Greece's trade deficit.",
+        "• In 2011, earnings from shipping activities amounted to €14.1 billion.",
+        "• From 2000 to 2010, Greek shipping contributed a total of €140 billion, which was half of Greece's public debt in 2009 and 3.5 times the receipts from the European Union during 2000–2013.",
+        "• The Union of Greek Shipowners reports that the Greek-owned ocean-going fleet includes 3,428 ships with a total capacity of 245 million dwt, representing 15.6% of the global fleet capacity, including 23.6% of the world's tanker fleet and 17.2% of dry bulk ships.",
+        "• Greece ranked 4th globally in shipping services exports in 2011, with a value of approximately $17.7 billion, behind Denmark, Germany, and South Korea.",
+        "• In the same year, Greece imported shipping services worth about $7.08 billion, resulting in a trade surplus of approximately $10.71 billion, ranking second after Germany in trade balance for shipping services.",
+        "• In 2022, Greek used vessel sales were the second largest globally, after China.",
+        "• From 2000 to 2011, Greece's shipping exports fluctuated, ranking consistently around 4th or 5th globally, with export values rising from approximately $7.56 billion in 2000 to over $17.7 billion in 2011.",
+        "• During the same period, shipping imports ranged from about $3.3 billion in 2000 to approximately $7.08 billion in 2011, with the trade surplus increasing correspondingly.",
+        "• Greece's shipping trade balance consistently ranked first or second globally, with the surplus reaching over $10.7 billion in 2011.",
+        "• The Greek shipping sector's contribution to the national GDP ranged from approximately 5% to over 6% during 2000–2011.",
+        "• The total Greek GDP in euros increased from about €137.9 billion in 2000 to approximately €208.5 billion in 2011, with shipping trade values constituting a significant portion of economic activity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:06.067114",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "1.10",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1949 and the 1980s, telephone communications in Greece were operated as a state monopoly by the Hellenic Telecommunications Organization, commonly known as OTE.",
+        "• Despite the liberalization of the telecommunications sector in Greece during the 1980s, OTE has continued to dominate the Greek market and has grown to become one of the largest telecommunications companies in Southeast Europe.",
+        "• Since 2011, Deutsche Telekom has been the major shareholder of OTE, holding a 40% stake in the company.",
+        "• The Greek state retains ownership of 10% of OTE's shares.",
+        "• OTE owns several subsidiaries across Southeast Europe, including Cosmote, Greece's leading mobile telecommunications provider, as well as Cosmote Romania and Albanian Mobile Communications.",
+        "• Other active mobile telecommunications providers in Greece include Wind Hellas and Vodafone Greece.",
+        "• In 2009, the total number of active cellular phone accounts in Greece exceeded 20 million, representing a penetration rate of 180%.",
+        "• Greece had approximately 5.745 million active landline telephone connections in 2009.",
+        "• Greece has historically lagged behind its European Union counterparts in Internet usage, but the gap has been narrowing rapidly in recent years.",
+        "• The percentage of Greek households with Internet access increased from 23% in 2006 to 56% in 2013, whereas the EU average was 49% in 2013.",
+        "• The proportion of Greek households with broadband connections grew significantly from 4% in 2006 to 55% in 2013, compared to the EU averages of 30% and 76% respectively.",
+        "• By 2023, the percentage of Greek households with Internet access had risen to 86.9%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:10.263871",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "1.11",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Porto Carras resort is located in Chalkidiki, Greece, and the island of Santorini is recognized as a popular tourist destination.",
+        "• Tourism in Greece in its modern form began to flourish after 1950, although historical tourism related to religious and sports festivals, such as the Olympic Games, is documented in ancient times.",
+        "• The tourism sector experienced an unprecedented growth starting in the 1950s, with tourist arrivals increasing from 33,000 in 1950 to 11.4 million in 1994.",
+        "• Greece attracts more than 16 million tourists annually, significantly contributing to the national economy.",
+        "• According to an OECD report from 2008, tourism contributed 18.2% to Greece’s Gross Domestic Product (GDP).",
+        "• The same OECD survey indicated that the average tourist expenditure in Greece was $1,073, ranking Greece 10th globally in terms of tourist spending.",
+        "• In 2008, the number of jobs directly or indirectly related to the tourism sector in Greece was 840,000, representing 19% of the country’s total labor force.",
+        "• Greece’s tourist arrivals increased to over 19.3 million in 2009, up from 17.7 million in 2008, marking a significant growth in tourism activity.",
+        "• In 2011, Greece was the most popular European Union destination for residents of Cyprus and Sweden.",
+        "• The Ministry of Culture and Tourism is the governmental body responsible for tourism in Greece.",
+        "• Greece owns the Greek National Tourism Organization, which is tasked with promoting tourism across the country.",
+        "• In 2009, Lonely Planet ranked Thessaloniki, Greece’s second-largest city, as the fifth best \"Ultimate Party Town\" in the world, alongside cities such as Montreal and Dubai.",
+        "• In 2011, the island of Santorini was voted the best island in the world by Travel + Leisure magazine.",
+        "• The neighboring island of Mykonos was ranked as the 5th best island in Europe by the same publication.",
+        "• Thessaloniki was designated as the European Youth Capital in 2014, highlighting its significance as a cultural and tourism hub."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:15.793616",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "2",
+      "section_name": "Trade and investment",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section discusses Greece's trade and investment landscape, highlighting key financial institutions and historical banking infrastructure.",
+        "• The Bank of Greece and the National Bank of Greece are prominent financial institutions within the country, playing significant roles in Greece’s economic activities.",
+        "• The former Ionian Bank, now known as Alpha Bank, is also a major banking entity operating in Greece.",
+        "• In Thessaloniki, Greece’s second-largest city, notable banking buildings include the Bank of Greece, the National Bank of Greece, and the former Ionian Bank building, now Alpha Bank.",
+        "• The Bank of Greece building in Thessaloniki is a significant architectural and financial landmark, symbolizing Greece’s central banking history.",
+        "• The National Bank of Greece building in Thessaloniki also holds historical and architectural importance, representing the country’s long-standing banking tradition.",
+        "• The former Ionian Bank building, which has been rebranded as Alpha Bank, is part of Thessaloniki’s financial architecture, reflecting the evolution of Greece’s banking sector.",
+        "• These buildings collectively illustrate the historical development and presence of major banking institutions in Thessaloniki, emphasizing their importance in Greece’s economic infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:19.378301",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the fall of communism, Greece has significantly increased its investments in neighboring Southeast European countries.",
+        "• Between 1997 and 2009, Greek foreign direct investment (FDI) in North Macedonia accounted for 12.11% of the total FDI capital in the country, making Greece the fourth-largest investor.",
+        "• In 2009 alone, Greek investors contributed €380 million to North Macedonia, with notable companies such as Hellenic Petroleum making strategic investments.",
+        "• Greece invested a total of €1.38 billion in Bulgaria during the period from 2005 to 2007.",
+        "• Several prominent Bulgarian companies, including Bulgarian Postbank, United Bulgarian Bank, and Coca-Cola Bulgaria, are owned by Greek financial groups.",
+        "• In Serbia, approximately 250 Greek companies are operational, with a combined investment exceeding €2 billion.",
+        "• According to 2016 statistics from Romania, Greek investment in Romania surpassed €4 billion, positioning Greece as the fifth or sixth largest foreign investor in the country.",
+        "• Greece has been the largest foreign investor in Albania since the fall of communism, with Greek investments constituting 25% of all foreign investments in Albania in 2016.",
+        "• Business relations between Greece and Albania are extremely strong and continue to grow steadily."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:24.088603",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During Greece's debt crisis and subsequent COVID-19 recession, the country's negative trade balance significantly decreased, from €44.3 billion in 2008 to €18.15 billion in 2020, primarily due to a substantial decline in imports.",
+        "• The recent trade boom has seen Greece's trade balance approach pre-crisis levels, with exports increasing by 30.9% in 2021 and 38.3% in 2022, and imports rising by 34.6% in 2021 and 43.6% in 2022.",
+        "• In 2023, a correction occurred, with exports decreasing by 8.5% and imports decreasing by 12.1%.",
+        "• In 2024, exports further decreased by 2.1%, while imports increased by 2.2%.",
+        "• Greece is the largest import partner of Cyprus, accounting for 18.0% of Cyprus's imports.",
+        "• Greece is also the largest export partner of Palau, representing 82.4% of Palau's exports.",
+        "• In 2012, Greece's import and export data showed the following key figures:",
+        "• Top import origin was Russia (€5,967.20 million, 12.6% of total imports), followed by Germany (€4,381.93 million, 9.2%), Italy (€3,668.89 million, 7.7%), Saudi Arabia (€2,674.01 million, 5.6%), China (€2,278.04 million, 4.8%), Netherlands (€2,198.57 million, 4.6%), and France (€1,978.48 million, 4.2%).",
+        "• The total imports from OECD countries amounted to €23,849.95 million (50.2%), G7 countries €11,933.75 million (25.1%), BRICS countries €8,682.10 million (18.3%), BRIC countries €8,636.03 million (18.2%), OPEC countries €8,090.77 million (17%), and NAFTA countries €751.81 million (1.6%).",
+        "• Within regional groupings, imports from the European Union 27 totaled €21,164.89 million (44.5%), and from the European Union 15, €17,794.19 million (37.4%).",
+        "• Other regional imports included Africa (€2,787.40 million, 5.9%), America (€1,451.15 million, 3.1%), Asia (€14,378.03 million, 30.2%), Oceania (€71.71 million, 0.2%).",
+        "• Greece's main export destinations in 2012 were:",
+        "• Turkey (€2,940.25 million, 10.8%),",
+        "• Italy (€2,033.77 million, 7.5%),",
+        "• Germany (€1,687.04 million, 6.2%),",
+        "• Bulgaria (€1,493.75 million, 5.5%),",
+        "• Cyprus (€1,319.29 million, 4.8%),",
+        "• United States (€1,024.74 million, 3.8%),",
+        "• United Kingdom (€822.74 million, 3%).",
+        "• Greece's total exports to OECD countries were €13,276.48 million (48.8%), G7 countries €6,380.87 million (23.4%), BRICS €1,014.17 million (3.7%), BRIC €977.76 million (3.6%), OPEC €2,158.60 million (7%), and NAFTA €1,215.70 million (4.5%).",
+        "• Regional export destinations included Europe (€14,797.21 million, 54.4%), Asia (€6,933.51 million, 25.5%), America (€1,384.04 million, 5.1%), Africa (€1,999.47 million, 7.3%), and Oceania (€169.24 million, 0.6%)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:29.216358",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "invalid_level",
+      "section_name": "| World | 47,537.63847 | 100 | # | World  | 27,211.06362 | 100",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section references a list and ranking of international organizations or country groups related to Greece's economy, indicated by placeholders such as _#greek_letters_ and/or _#latin_letters_.",
+        "• It emphasizes that this list is not comprehensive and does not represent the entire scope of Greece's trade activities.",
+        "• The listed organizations and groups are only a partial selection, focusing on some major and well-known entities.",
+        "• The data includes large numerical values, such as 24, with associated identifiers like 'z' and extremely large figures (e.g., 1,000,000,000,000,000,000), possibly representing economic metrics or trade volumes.",
+        "• The figures 24 and 101 appear multiple times, potentially indicating ranking positions or categorical identifiers within the dataset.",
+        "• The mention of \"rounding errors possibly present\" suggests that some numerical data may be subject to minor inaccuracies due to rounding.",
+        "• The overall context indicates that the provided data and rankings are partial and should not be interpreted as fully representative of Greece's global trade profile."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:32.484694",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "3",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2012, Greece possessed a total of 82 airports, with 67 being paved runways and six airports featuring runways longer than 3,047 meters.",
+        "• Among these airports, two are classified as \"international\" by the Hellenic Civil Aviation Authority, while 15 airports offer international services.",
+        "• Greece has 9 heliports available for air transportation.",
+        "• The country does not have a flag carrier airline; however, the airline industry is primarily dominated by Aegean Airlines and its subsidiary Olympic Air.",
+        "• Olympic Airways, rebranded as Olympic Airlines after 2003, served as Greece's state-owned flag carrier from 1975 until 2009, when financial difficulties prompted its privatization and relaunch as Olympic Air.",
+        "• Both Aegean Airlines and Olympic Air have received multiple awards: Aegean Airlines was named \"Best regional airline in Europe\" by Skytrax in 2009 and 2011, and has earned two gold and one silver ERA awards; Olympic Air has received a silver ERA award for \"Airline of the Year\" and the Condé Nast Traveller 2011 Readers' Choice Award for Top Domestic Airline.",
+        "• Greece's road network spans approximately 116,986 km, including 1,863 km of highways, ranking 24th worldwide as of 2016.",
+        "• Since Greece's accession to the European Community (now the European Union), major infrastructure projects such as the Egnatia Odos and Attiki Odos have been co-funded by the EU to modernize the road network.",
+        "• In 2007, Greece ranked 8th in the European Union for goods transported by road, with nearly 500 million tons of freight moved.",
+        "• Greece's rail network is estimated at 2,548 km, operated by TrainOSE, a subsidiary of Ferrovie dello Stato Italiane, following the sale of the Hellenic Railways Organisation's stake.",
+        "• The majority of Greece's rail network (1,565 km) is standard gauge, with an additional 983 km of narrow gauge, and 764 km of rail are electrified.",
+        "• Greece maintains rail connections with Bulgaria, North Macedonia, and Turkey.",
+        "• The country has three suburban railway systems (Proastiakos) in Athens, Thessaloniki, and Patras, with the Athens Metro operational and the Thessaloniki Metro under construction.",
+        "• According to Eurostat data from 2010, the port of Aghioi Theodoroi was Greece's largest port by goods transported, handling 17.38 million tons; the Port of Thessaloniki was second with 15.8 million tons; Piraeus handled 13.2 million tons; and Eleusis processed 12.37 million tons.",
+        "• Total goods transported through Greece in 2010 amounted to 124.38 million tons, a decline from 164.3 million tons in 2007.",
+        "• Piraeus has experienced significant growth, becoming the Mediterranean's third-largest port due to heavy investment by Chinese logistics company COSCO, and was declared the fastest-growing port in the world in 2013.",
+        "• In 2010, Piraeus handled 513,319 TEUs, with Thessaloniki handling 273,282 TEUs; overall, 83.9 million passengers traveled through Greek ports that year.",
+        "• Passenger traffic in 2010 included 12.7 million through the port of Paloukia in Salamis, 12.7 million through Perama, 9.5 million through Piraeus, and 2.7 million through Igoumenitsa.",
+        "• In 2013, Piraeus handled a record 3.16 million TEUs, ranking as the third-largest container port in the Mediterranean, with 2.52 million TEUs transported through Pier II (owned by COSCO) and 644,000 TEUs through Pier I (owned by the Greek state)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:43.764775",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "4",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Energy production in Greece is primarily managed by the Public Power Corporation (ΔΕΗ or DEI), which supplied 85.6% of Greece's energy demand in 2009, decreasing to 77.3% in 2010.",
+        "• Nearly half (48%) of DEI's electricity generation in 2010 was from lignite, down from 51.6% in 2009.",
+        "• DEI's energy mix also includes 12% from hydroelectric power plants and 20% from natural gas.",
+        "• Independent energy producers increased their output by 56% between 2009 and 2010, from 2,709 GWh to 4,232 GWh.",
+        "• In 2008, renewable energy sources accounted for 8% of Greece’s total energy consumption, up from 7.2% in 2006, but still below the EU average of 10% in 2008.",
+        "• Of Greece’s renewable energy, 10% is derived from solar power, with the majority coming from biomass and waste recycling.",
+        "• Greece aims to generate 18% of its energy from renewable sources by 2020, in accordance with the European Commission's Directive on Renewable Energy.",
+        "• In 2013, Greece produced over 20% of its electricity from renewable sources, including hydroelectric power, for several months.",
+        "• Greece currently has no operational nuclear power plants; however, in 2009, the Academy of Athens suggested initiating research into nuclear power possibilities.",
+        "• As of 1 January 2012, Greece had proven oil reserves totaling 10 million barrels.",
+        "• The country's largest oil companies are Hellenic Petroleum and Motor Oil Hellas.",
+        "• Greece's oil production is approximately 1,751 barrels per day (bbl/d), ranking 95th worldwide; it exports about 19,960 bbl/d (ranked 53rd) and imports around 355,600 bbl/d (ranked 25th).",
+        "• In 2011, the Greek government approved oil exploration and drilling in three locations, with an estimated total output of 250–300 million barrels over 15–20 years, valued at €25 billion over 15 years, with €13–€14 billion expected to benefit the state.",
+        "• Oil exploration in Greece faces significant geopolitical challenges due to disputes with Turkey over the Aegean Sea.",
+        "• Greece plans to explore additional oil and gas reserves in the Ionian Sea and Libyan Sea within its exclusive economic zone, south of Crete, with initial results expected in summer 2012.",
+        "• Deutsche Bank estimated the natural gas reserves south of Crete at a value of €427 billion in November 2012.",
+        "• Ongoing or planned pipeline projects include the Interconnector Turkey-Greece-Italy (ITGI) and South Stream gas pipelines.",
+        "• The EuroAsia Interconnector will connect Attica and Crete in Greece with Cyprus and Israel via a 2000 MW HVDC undersea power cable, crucial for isolated systems like Crete and Cyprus.",
+        "• Crete is energetically isolated from mainland Greece, with the Hellenic Republic subsidizing its electricity costs by approximately €300 million annually.",
+        "• Notable energy infrastructure includes Amyntaio Power Plant, Agios Dimitrios Power Plant, a wind farm on Panachaiko mountain, Prinos oil field near Kavala, and Plastiras Hydroelectric Dam."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:49.382231",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "5",
+      "section_name": "Taxation and tax evasion",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1999 and 2010, Greece's tax revenues as a percentage of GDP were consistently below the EU average, reflecting differences in fiscal policy and tax collection efficiency.",
+        "• Greece employs a tiered, progressive tax system that recognizes six categories of taxable income: immovable property, movable property (investment), income from agriculture, business income, employment income, and income from professional activities.",
+        "• The personal income tax rates in Greece historically ranged from 0% for annual incomes below €12,000 to 45% for incomes exceeding €100,000, with the highest bracket applying to the wealthiest earners.",
+        "• The 2010 tax reform abolished previous tax exemptions, thereby broadening the taxable base and increasing overall tax revenue potential.",
+        "• As part of austerity measures introduced around 2010, the personal income tax-free ceiling was reduced from a higher amount to €5,000 per annum, with future plans to potentially abolish this ceiling entirely.",
+        "• Greece's corporate tax rate decreased significantly from 40% in 2000 to 20% in 2010, aiming to attract investment and improve competitiveness; however, in 2011, the corporate tax was temporarily increased to 24%.",
+        "• The Value Added Tax (VAT) rate increased from 19% in 2009 to 23% in 2010, reflecting efforts to boost government revenues amidst economic difficulties.",
+        "• The minimum VAT rate for certain goods and services, such as newspapers, periodicals, and cultural event tickets, was raised from 4.5% to 6.5%.",
+        "• A 13% VAT rate applies to specific service sector professions, up from 9%, with ongoing discussions about abolishing the reduced rates to unify the VAT system.",
+        "• Social contribution taxes are levied on both employers and employees, with rates of 16% for white-collar jobs and 19.5% for blue-collar jobs, funding social insurance programs.",
+        "• In 2017, the standard VAT rate was set at 24%, with a reduced rate of 13% for some basic foodstuffs, though this reduced rate was expected to be phased out to combat tax evasion.",
+        "• The Greek Ministry of Finance projected total tax revenues for 2012 at €52.7 billion, comprising €23.6 billion from direct taxes and €29.1 billion from indirect taxes, representing a 5.8% increase over 2011.",
+        "• In 2012, tax revenues were expected to increase substantially across various sectors, notably in housing, which was projected to see a 217.5% rise compared to 2011."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:15:57.798171",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Tax evasion",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Greece experiences extremely high levels of tax evasion, with reported figures indicating a tax evasion rate of 49% in the last quarter of 2005, which decreased to 41.6% in January 2006; however, these figures are contested due to the bankruptcy of the newspaper Ethnos, which published them, and some sources suggest the data may be highly debatable.",
+        "• A University of Chicago study concluded that in 2009, tax evasion by self-employed professionals in Greece—including accountants, dentists, lawyers, doctors, personal tutors, and independent financial advisers—amounted to €28 billion, representing 31% of Greece’s budget deficit for that year.",
+        "• Greece’s shadow economy was estimated at 24.3% of GDP in 2012, which is lower than Estonia (28.6%), Latvia (26.5%), Italy (21.6%), but higher than Belgium (17.1%), Sweden (14.7%), Finland (13.7%), and Germany (13.5%); this high shadow economy correlates with the fact that over twice the EU average of Greeks are self-employed (2013 estimate).",
+        "• The Tax Justice Network (TJN) estimated in 2011 that Greeks held over €20 billion in Swiss bank accounts, with former Finance Minister Evangelos Venizelos stating that approximately 15,000 individuals and companies owed the Greek tax authorities €37 billion.",
+        "• TJN also estimated that Greece had over 10,000 Greek-owned offshore companies as of 2011.",
+        "• In 2012, Swiss estimates suggested Greeks held around €20 billion in Swiss banks, with only about 1% of these funds declared as taxable income in Greece; by 2015, estimates indicated that the total amount owed to Greece from Greek accounts in Swiss banks had risen dramatically to approximately €80 billion.",
+        "• A mid-2017 report highlighted that Greeks felt \"taxed to the hilt,\" with many believing that the risk of penalties for tax evasion was less severe than the risk of bankruptcy; this environment contributed to widespread evasion practices.",
+        "• Tax evasion methods include participation in the black market, grey economy, or shadow economy, where work is paid in cash and income is not declared, and VAT is neither collected nor remitted.",
+        "• A January 2017 report by the DiaNEOsis think-tank estimated unpaid taxes in Greece at approximately €95 billion, up from €76 billion in 2015, with much of this amount expected to be uncollectable.",
+        "• An early 2017 study estimated that the annual loss to the Greek government due to tax evasion ranged between 6% and 9% of GDP, equivalent to roughly €11 billion to €16 billion.",
+        "• The VAT (sales tax) shortfall in 2014 was approximately 28%, which was about double the EU average; the uncollected VAT amount was around €4.9 billion.",
+        "• The DiaNEOsis study estimated that VAT fraud caused a loss of about 3.5% of Greece’s GDP, while smuggling of alcohol, tobacco, and petrol resulted in additional losses of approximately 0.5% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:06.894025",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "5.1.1",
+      "section_name": "Planned solutions",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2011, following similar actions by the United Kingdom and Germany, the Greek government engaged in negotiations with Switzerland to compel Swiss banks to disclose information regarding the bank accounts of Greek citizens.",
+        "• The Greek Ministry of Finance announced that Greeks holding Swiss bank accounts would be required either to pay a tax or to reveal details such as the identity of the account holder to Greek tax authorities.",
+        "• The Greek and Swiss governments aimed to reach a formal agreement on this matter by the end of 2011.",
+        "• As of 2015, the proposed solution had not yet been implemented, despite ongoing negotiations.",
+        "• In 2015, estimates indicated that approximately 80 billion euros in evaded taxes were stored in Swiss banks by Greek taxpayers.",
+        "• By 2015, a tax treaty was under serious negotiation between Greece and Switzerland to address tax evasion issues.",
+        "• Switzerland ratified a new tax transparency law on 1 March 2016, designed to enhance efforts against tax evasion.",
+        "• Starting in 2018, banks in Greece and Switzerland were mandated to exchange information regarding the bank accounts of citizens from the other country, aiming to reduce the concealment of untaxed income.",
+        "• During 2016 and 2017, the Greek government promoted the use of credit and debit cards for transactions to reduce reliance on cash payments.",
+        "• By January 2017, taxpayers could only receive tax allowances or deductions if payments were made electronically, creating an auditable \"paper trail\" for government review.",
+        "• The policy aimed to curb businesses’ practice of accepting payments without issuing invoices, which was used to evade VAT and income tax.",
+        "• By 28 July 2017, legislation mandated that approximately 400,000 firms and individuals across 85 professions install point of sale devices to accept credit or debit card payments.",
+        "• Non-compliance with the electronic payment requirement could result in fines of up to 1,500 euros.",
+        "• The increased adoption of card payments contributed significantly to the rise in VAT collection in 2016."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:13.793808",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "National and regional GDP",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, the GDP per capita of Greece's regions was documented, highlighting significant disparities across the country.",
+        "• The two largest metropolitan areas, Attica and Central Macedonia, accounted for nearly 62% of Greece's total national economy, emphasizing their economic dominance.",
+        "• Attica, which includes Athens, was the most economically significant region, contributing €87.378 billion to Greece's economy in 2018.",
+        "• Central Macedonia contributed €25.558 billion to Greece's economy in 2018, making it the second most important regional economy.",
+        "• The smallest regional economies in Greece in 2018 were the North Aegean with €2.549 billion and the Ionian Islands with €3.257 billion.",
+        "• In terms of GDP per capita, Attica led all regions with €23,300, significantly higher than other regions.",
+        "• The poorest regions in 2018, based on GDP per capita, were the North Aegean (€11,800), Eastern Macedonia and Thrace (€11,900), and Epirus (€12,200).",
+        "• The national GDP per capita in Greece for 2018 was €17,200.",
+        "• The regional GDP data for 2018 is organized into a ranking table, with Attica ranked first, contributing €87.378 billion, representing 47.3% of Greece's GDP and 77% of the EU-27 average GDP per capita (€30,200).",
+        "• Central Macedonia was ranked second, with a GDP of €25.558 billion, accounting for 13.8% of Greece's GDP, with a GDP per capita of €13,600, which is 45% of the EU-27 average.",
+        "• Thessaly ranked third, with a GDP of €9.658 billion, representing 5.2% of Greece's GDP, and a GDP per capita of €13,400 (44% of EU-27).",
+        "• Crete contributed €9.386 billion, making up 5.1% of the national GDP, with a GDP per capita of €14,800 (49% of EU-27).",
+        "• Central Greece's GDP was €8.767 billion (4.7% of Greece's GDP), with a GDP per capita of €15,800 (52% of EU-27).",
+        "• Western Greece contributed €8.322 billion (4.5%), with a GDP per capita of €12,700 (42%).",
+        "• The Peloponnese had a GDP of €8.245 billion (4.5%), with a GDP per capita of €14,300 (48%).",
+        "• Eastern Macedonia and Thrace's GDP was €7.166 billion (3.9%), with a GDP per capita of €11,900 (40%).",
+        "• The South Aegean region's GDP was €6.387 billion (3.5%), with a notably high GDP per capita of €18,700 (62%).",
+        "• Epirus contributed €4.077 billion (2.2%), with a GDP per capita of €12,200 (40%).",
+        "• Western Macedonia's GDP was €3.963 billion (2.1%), with a GDP per capita of €14,800 (49%).",
+        "• The Ionian Islands had a GDP of €3.257 billion (1.8%), with a GDP per capita of €16,000 (53%).",
+        "• The North Aegean's GDP was €2.549 billion (1.4%), with a GDP per capita of €11,800 (39%).",
+        "• Greece's total GDP in 2018 was €184.714 billion, with a GDP per capita of €17,200, representing 57% of the EU-27 average GDP per capita.",
+        "• The EU-27's total GDP was €13,483.857 billion, with a per capita GDP of €30,200, serving as the benchmark for comparison.",
+        "• The data also includes a hypothetical or illustrative row with exaggerated figures, such as a GDP of €1,000,000,000,000,000, and other inflated statistics, which are not relevant to actual regional data."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:20.615790",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Welfare state",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Greece functions as a welfare state, offering various social services including quasi-universal health care and pension schemes.",
+        "• In the 2012 national budget, welfare state expenses (excluding education) were estimated at €22.487 billion.",
+        "• Of this total, €6.577 billion was allocated for pensions.",
+        "• An additional €15.910 billion was designated for social security and health care expenses.",
+        "• Welfare-related expenditures constituted approximately 31.9% of the total state expenses in 2012."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:23.382296",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "6",
+      "section_name": "Largest companies by revenue 2024",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the 2024 Forbes Global 2000 index, Greece's largest publicly traded companies are ranked based on their overall financial size, including revenues, profits, and assets.",
+        "• The top-ranked Greek company is Eurobank Ergasias, with reported revenues of €6.1 billion, profits of €1.3 billion, and total assets valued at €85.7 billion.",
+        "• The second-largest Greek company is the National Bank of Greece, which has generated €3.9 billion in revenue, €1.3 billion in profit, and holds assets totaling €78.2 billion.",
+        "• Piraeus Bank ranks third among Greece's largest companies, with revenues of €3.7 billion, profits of €0.9 billion, and assets amounting to €83.4 billion.",
+        "• Alpha Bank is the fourth-largest, with revenues of €4.7 billion, a profit of €0.7 billion, and assets valued at €80.3 billion.",
+        "• The Bank of Greece, serving as the country's central bank, reports revenues of €7.5 billion, a profit of only €0.1 billion, and possesses the largest asset base among the listed companies at €250.2 billion.",
+        "• Motor Oil Hellas, a major oil refining and marketing company, has revenues of €14.4 billion, profits of €0.8 billion, and assets worth €8.4 billion.",
+        "• Hellenic Petroleum, another key player in the energy sector, reports revenues of €14.1 billion, profits of €0.6 billion, and assets totaling €9.0 billion.",
+        "• Public Power Corporation, the primary electricity utility in Greece, has revenues of €8.8 billion, profits of €0.4 billion, and assets valued at €21.2 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:27.885051",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Working hours",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2011, 53.3% of employed persons in Greece worked more than 40 to 49 hours per week, and 24.8% worked more than 50 hours per week, resulting in a total of 78.1% of employed persons working 40 or more hours weekly.",
+        "• When analyzing different age groups, the percentage of employees working 40 to 49 hours per week peaked among individuals aged 25 to 29 years.",
+        "• As workers aged, the proportion working 40 to 49 hours gradually declined, while the percentage working over 50 hours increased, indicating a correlation where older employees tend to work more hours.",
+        "• Among various occupation groups, skilled agricultural, forestry, and fishery workers, along with managers, were the most likely to work over 50 hours per week; however, these groups constitute only 14.3% of the total labor force.",
+        "• In 2014, the average number of working hours for Greek employees was 2,124 hours annually, ranking as the third highest among OECD countries and the highest within the Eurozone.",
+        "• Recent employment trends suggest that the total number of working hours in Greece is expected to decrease in the future due to the increasing prevalence of part-time work.",
+        "• Since 2011, the average number of working hours has decreased, reflecting a downward trend in total hours worked.",
+        "• In 1998, Greece enacted legislation to introduce part-time employment in public services, aiming to reduce unemployment by increasing employment numbers while decreasing the average hours worked per employee.",
+        "• Despite the legislation, labor market data shows that part-time employment increased from 7.7% of total employment in 2007 to 11% in 2016.",
+        "• Both men and women have experienced growth in their share of part-time employment over this period, with women traditionally constituting the majority of part-time workers.",
+        "• Recently, men have been taking a larger share of part-time employment, indicating a shift in the gender composition of part-time workers in Greece."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:34.132083",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "7",
+      "section_name": "Currency",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1832 and 2002, the official currency of Greece was the drachma.",
+        "• Following the signing of the Maastricht Treaty, Greece applied to join the eurozone, the monetary union of European Union member states using the euro.",
+        "• The two primary convergence criteria for eurozone entry were a maximum budget deficit of 3% of GDP and a declining public debt ratio if it exceeded 60% of GDP.",
+        "• Greece demonstrated compliance with these criteria, as evidenced by its 1999 annual public account.",
+        "• Greece officially joined the eurozone on 1 January 2001, adopting the euro at a fixed exchange rate of ₯340.75 to €1.",
+        "• In 2001, the euro existed only in electronic form; the physical exchange from drachma to euro occurred on 1 January 2002.",
+        "• The transition period for eligible exchange of drachma to euro lasted ten years, ending on 1 March 2012.",
+        "• Prior to euro adoption, 64% of Greek citizens viewed the new currency positively.",
+        "• By February 2005, positive perception had decreased to 26%, and further declined to 20% by June 2005.",
+        "• Since 2010, positive perception of the euro among Greek citizens increased again, with a September 2011 survey indicating that 63% viewed the euro positively."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:39.035704",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "8",
+      "section_name": "Charts gallery",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Greek social expenditures as a percentage of GDP from 1998 to 2009, illustrating trends in social welfare spending relative to the country's economic output during this period.",
+        "• Distribution of income in Greece over various years, highlighting changes in income inequality and the proportion of income held by different segments of the population.",
+        "• Distribution of total income in Greece across multiple years, providing insights into shifts in overall income allocation and economic disparity over time.",
+        "• Employment and unemployment rates in Greece since 2004, indicating labor market conditions, employment trends, and unemployment fluctuations over this period.",
+        "• Greek Gross Domestic Product (GDP), national debt levels (including general government debt, external debt, and private debt), and budget deficit figures across various years, reflecting the country's economic performance and fiscal health.",
+        "• Greek GDP, debt, and deficit expressed in international comparison using 1990 Geary-Khamis dollars, enabling standardized analysis of Greece's economic indicators over time relative to global benchmarks.",
+        "• Greek bank deposits, including repos, since 1998, showing the growth and composition of household and institutional savings in the banking sector over the past decades.",
+        "• Domestic bank deposits of Greek households categorized by type of account, providing detailed insights into savings behavior and financial preferences within the Greek population.",
+        "• Domestic lending by Greek banks since 1980, illustrating the evolution of credit provision to households and businesses, and indicating trends in financial intermediation.",
+        "• House Price Index in Greece, including flats, demonstrating changes in real estate prices over time and reflecting trends in the housing market and property valuation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:44.168372",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "9",
+      "section_name": "Poverty rate",
+      "chapter_name": "Economy of Greece",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The recession in Greece, triggered by the public debt crisis, led to a significant increase in poverty levels across the country.",
+        "• The percentage of people at risk of poverty or social exclusion peaked at 36% in 2014.",
+        "• Following this peak, the poverty risk rate gradually declined to 26.1% by 2023.",
+        "• The rate of extreme poverty in Greece rose to 15% in 2015, representing a substantial increase from 8.9% in 2011.",
+        "• In 2009, the extreme poverty rate was less than 2.2%, indicating a sharp escalation during the crisis years.",
+        "• In 2015, the poverty rate among children aged 0–17 was 17.6%.",
+        "• The poverty rate for young adults aged 18–29 was notably higher at 24.4% in 2015.",
+        "• Unemployment increased significantly between 2012 and 2015, with those unemployed during this period facing a 70–75% risk of poverty, up from less than 50% in 2011.",
+        "• Unemployed individuals typically lose their health insurance after two years of unemployment, which further worsens their poverty situation.",
+        "• Younger unemployed individuals tend to depend financially on older family members due to limited social support.",
+        "• Long-term unemployment has drained pension funds because fewer workers are making social security contributions, leading to increased poverty among intergenerational households.",
+        "• These households often rely on reduced pensions received by retired family members, exacerbating poverty levels.",
+        "• During the economic crisis, Greeks experienced extensive job losses, wage reductions, and deep cuts to workers' compensation and welfare benefits.",
+        "• Between 2008 and 2013, the average income of Greeks decreased by approximately 40%, making them substantially poorer.",
+        "• In 2014, the disposable household income in Greece fell below the levels recorded in 2003, reflecting a significant decline in living standards."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:47.956472",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_greece.json",
+      "original_index": 31
+    }
+  ]
+}

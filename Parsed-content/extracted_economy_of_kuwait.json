@@ -1,0 +1,385 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_kuwait.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.210403",
+    "total_sections_in_source": 14,
+    "extracted_sections_count": 14,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kuwait has an economy primarily based on petroleum, indicating a resource-dependent economic structure.",
+        "• The country's economy is classified as both emerging and high-income, reflecting its developing yet affluent status.",
+        "• Kuwait ranks among the wealthiest nations globally when assessed through various per-capita measures of economic output.",
+        "• The high per-capita income levels are indicative of substantial individual wealth and economic prosperity within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:51.369270",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Petroleum and natural gas",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1934, the Emir of Kuwait granted an oil concession to the Kuwait Oil Company (KOC), which was jointly owned by the Anglo-Persian Oil Company (later British Petroleum Company) and Gulf Oil Corporation.",
+        "• The Kuwaiti government nationalized KOC in 1976, taking full control of its operations.",
+        "• During the Gulf War, Kuwait's oil fields were set on fire by Saddam Hussein, resulting in significant environmental and economic damage.",
+        "• The Kuwait Petroleum Corporation (KPC) is an integrated international oil company that serves as the parent organization for Kuwait's petroleum sector operations.",
+        "• KPC includes several subsidiaries: Kuwait Oil Company (producing oil and gas), Kuwait National Petroleum Co. (refining and domestic sales), Petrochemical Industries Co. (producing ammonia and urea), Kuwait Foreign Petroleum Exploration Co. (with concessions in developing countries), Kuwait Oil Tanker Co., and Santa Fe International Corp.",
+        "• Santa Fe International Corp., purchased outright in 1982, provides KPC with a global presence in the petroleum industry.",
+        "• KPC has acquired refineries and associated service stations from Gulf Oil Co. in the Benelux nations and Scandinavia, as well as storage facilities and a network of service stations in Italy.",
+        "• In 1987, KPC purchased a 19% share in British Petroleum, which was later reduced to 10%.",
+        "• KPC markets its products in Europe under the brand Q8 and has expressed interest in expanding into the United States and Japanese markets.",
+        "• Kuwait possesses approximately 94 billion barrels (14.9 km³) of recoverable oil reserves.",
+        "• Estimated pre-war oil production capacity was about 2.4 million barrels per day (380×10³ m³/d).",
+        "• During the Iraqi occupation in the Gulf War, Kuwait's oil-producing capacity was drastically reduced to nearly zero.",
+        "• Post-war recovery efforts led to oil production reaching 1.5 million barrels per day (240×10³ m³/d) by the end of 1992.",
+        "• Kuwait restored its pre-war capacity in 1993.",
+        "• Current estimated production capacity is approximately 2.5 million barrels per day (400×10³ m³/d).",
+        "• Kuwait has plans to increase its oil production capacity to 3.5 million barrels per day (560×10³ m³/d) by 2005.",
+        "• As part of Kuwait Vision 2035, the country aims to establish itself as a global hub for the petrochemical industry.",
+        "• The Al Zour Refinery, the largest refinery in the Middle East, is a key project under this vision.",
+        "• The Al Zour Refinery is a Kuwait-China cooperation project aligned with the Belt and Road Initiative."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:55.864581",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "Renewable energy",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As part of Kuwait Vision 2035, Kuwait inaugurated its largest renewable energy park, the Shagaya Renewable Energy Park.",
+        "• The park includes diverse renewable energy technologies such as concentrated solar power, solar photovoltaic, and wind power plants.",
+        "• The Shagaya Renewable Energy Park is planned to be developed in four phases.",
+        "• The total target capacity of the park is 4,000 megawatts (MW).",
+        "• Once completed, the park is expected to be one of the largest renewable energy parks globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:57.502709",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1",
+      "section_name": "Steel manufacturing",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Steel manufacturing is the second largest industry in Kuwait, indicating its significant role in the country's industrial sector.",
+        "• The primary steel manufacturing company in Kuwait is United Steel Industrial Company, commonly known as KWT Steel.",
+        "• KWT Steel is responsible for fulfilling all domestic steel demand within Kuwait, with a particular focus on the construction sector.",
+        "• Kuwait achieves self-sufficiency in steel production, meaning it does not rely on imports to meet its steel needs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:59.550739",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, Kuwait's food self-sufficiency ratios were 49.5% for vegetables, 38.7% for meat, 12.4% for dairy, 24.9% for fruits, and 0.4% for cereals.",
+        "• Only 8.5% of Kuwait's total territory is designated as agricultural land, with arable land constituting just 0.6% of the total territory.",
+        "• Historically, Jahra was a predominantly agricultural region, and it currently hosts various farms.",
+        "• In 2017, agriculture, including fisheries, contributed approximately 0.4% to Kuwait's gross domestic product (GDP).",
+        "• Around 4% of Kuwait's economically active population works in agriculture, with nearly all workers being foreigners.",
+        "• The majority of farm owners are investors rather than small-scale farmers.",
+        "• The total agricultural land in Kuwait covered 1,521 km² in 2014.",
+        "• The agriculture sector faces significant challenges due to limited water resources and scarce arable land.",
+        "• The Kuwaiti government has experimented with alternative food production methods such as hydroponics and carefully managed farms to mitigate resource limitations.",
+        "• Much of the soil suitable for farming in south-central Kuwait was destroyed when Iraqi troops set fire to oil wells, creating extensive \"oil lakes.\"",
+        "• Kuwait's territorial waters are rich in fish and shrimp, supporting plentiful marine resources.",
+        "• Large-scale commercial fishing activities are conducted both locally and in the Indian Ocean."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:03.440439",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Finance",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kuwait holds a leading position in the financial industry within the Gulf Cooperation Council (GCC), with the Emir advocating for the country's economic development to focus on the financial sector.",
+        "• The prominence of Kuwait in finance among Gulf monarchies dates back to the founding of the National Bank of Kuwait in 1952, which was the first local publicly traded corporation in the Gulf region.",
+        "• During the late 1970s and early 1980s, Kuwait saw the emergence of an alternative stock market, the Souk Al-Manakh, which traded shares of Gulf companies.",
+        "• At its peak, the Souk Al-Manakh's market capitalization was the third largest in the world, surpassed only by the United States and Japan, and ahead of the United Kingdom and France.",
+        "• Kuwait has a substantial wealth-management industry; Kuwaiti investment companies manage more assets than those in any other GCC country except Saudi Arabia, which is significantly larger.",
+        "• The Kuwait Financial Centre estimated that Kuwaiti firms account for over one-third of the total assets under management across the GCC.",
+        "• Kuwait's stock market has historically been one of the most valuable in the GCC; the total valuation of all listed companies on the Kuwaiti exchange has exceeded that of other GCC markets, except Saudi Arabia.",
+        "• In 2011, financial and banking companies constituted more than 50% of the market capitalization of the Kuwaiti bourse.",
+        "• Among all Gulf states, the combined market capitalization of Kuwaiti financial-sector firms was second only to Saudi Arabia.",
+        "• In recent years, Kuwaiti investment companies have increasingly invested large proportions of their assets abroad, with foreign assets becoming significantly larger than domestic assets.",
+        "• Kuwait is a major provider of foreign economic assistance through the Kuwait Fund for Arab Economic Development, an autonomous state institution established in 1961 modeled after Western and international development agencies.",
+        "• The Kuwait Fund has historically provided aid annually to countries including Egypt, Syria, Jordan, and the Palestine Liberation Organization.",
+        "• In 1974, the fund's lending mandate was expanded to include all developing countries worldwide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:07.332749",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Reserve funds",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Kuwait Investment Authority (KIA) is Kuwait's sovereign wealth fund, specializing in foreign investment, and is recognized as the world's oldest sovereign wealth fund.",
+        "• Since 1953, the Kuwaiti government has directed investments into Europe, the United States, and the Asia–Pacific region.",
+        "• As of 2021, the KIA's holdings were valued at approximately $700 billion in assets, making it the third-largest sovereign wealth fund globally.",
+        "• The KIA manages two primary funds: the General Reserve Fund (GRF) and the Future Generations Fund (FGF).",
+        "• The General Reserve Fund (GRF) functions as the main treasury for the Kuwaiti government, receiving all state revenues and disbursing all national expenditures.",
+        "• The KIA does not publicly disclose its financial assets; however, estimates as of February 2014 suggest the KIA held around $410 billion in assets.",
+        "• The KIA was the primary source of capital for the Kuwaiti government during the Gulf War, providing funds for coalition expenses and postwar reconstruction efforts.",
+        "• Prior to 1990, the KIA's assets were valued at approximately $100 billion; after the Gulf War, these funds were depleted to an estimated $40–$50 billion.",
+        "• In July 2023, Kuwait announced plans to establish a new sovereign fund called Ciyada, in partnership with the KIA.",
+        "• While the specific value of the Ciyada fund has not been disclosed, the KIA, which currently manages over $800 billion in assets, will play a key role in its development, study, and implementation.",
+        "• The objectives of the Ciyada fund include developing the local economy, attracting foreign investment, and financing major projects to promote economic diversification in Kuwait.",
+        "• The Future Generations Fund (FGF) was established in 1976 through the transfer of 50% of the then-existing General Reserve Fund.",
+        "• The FGF serves as a savings fund for future generations, with 25% of all state revenues annually transferred to it.",
+        "• All investments of the FGF are made abroad, with approximately 75% invested in the United States and Europe, and the remaining in emerging markets, primarily China and India."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:13.578371",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Health",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kuwait maintains a state-funded healthcare system that provides free treatment to Kuwaiti nationals.",
+        "• Outpatient clinics are available in every residential area across Kuwait, ensuring accessible primary healthcare services.",
+        "• A public insurance scheme exists to offer reduced-cost healthcare services to expatriates residing in Kuwait.",
+        "• Private healthcare providers operate medical facilities within the country, which are accessible to individuals covered under their insurance plans.",
+        "• As part of Kuwait Vision 2035, the country has opened numerous new hospitals to enhance healthcare infrastructure.",
+        "• In the years preceding the COVID-19 pandemic, Kuwait invested in its healthcare system at a rate higher than most other Gulf Cooperation Council (GCC) countries, leading to significant capacity expansion.",
+        "• Currently, Kuwait has a total of 20 public hospitals, with the Sheikh Jaber Al-Ahmad Hospital being recognized as the largest hospital in the Middle East.",
+        "• Kuwait also has 16 private hospitals providing specialized and general medical services."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:16.754085",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "5",
+      "section_name": "Entrepreneurship",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Over the past five years, Kuwait has experienced a significant increase in entrepreneurship and the establishment of small businesses.",
+        "• The informal sector in Kuwait is also expanding, primarily driven by the popularity of Instagram-based businesses.",
+        "• In 2020, Kuwait ranked fourth in the Middle East and North Africa (MENA) region for startup funding.",
+        "• The only countries in the MENA region with higher startup funding in 2020 were the United Arab Emirates (UAE), Egypt, and Saudi Arabia.",
+        "• A notable trend among Kuwaiti entrepreneurs is the widespread adoption of the Instagram-based business model, leveraging social media for commercial activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:19.417403",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "6",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, Kuwait's domestic travel and tourism spending reached $6.1 billion, representing a significant increase from $1.6 billion in 2019, with family tourism emerging as a rapidly growing segment.",
+        "• The World Travel & Tourism Council (WTTC) recognized Kuwait as one of the world's fastest-growing countries in travel and tourism GDP in 2019, with an annual growth rate of 11.6%.",
+        "• In 2016, the tourism industry in Kuwait generated nearly $500 million in revenue.",
+        "• In 2015, tourism contributed approximately 1.5 percent to Kuwait's gross domestic product (GDP).",
+        "• In 2023, Kuwaiti citizens' tourism and travel expenditures rose to 4.39 billion dinars, marking a 9.2% increase from 4 billion dinars in 2022.",
+        "• The rise in tourism spending in 2023 is primarily attributed to the introduction of new travel destinations, expanded airline offerings targeting family travel, and increased interest in events such as the Riyadh Season and other festivities.",
+        "• The first quarter of 2023 recorded the highest travel expenditure by Kuwaitis at 1.36 billion dinars, followed by the second quarter with 1.01 billion dinars, the third quarter with 1.15 billion dinars, and the fourth quarter with 870 million dinars, making 2023 the highest year for Kuwaiti citizens' travel spending since the COVID-19 pandemic began.",
+        "• Foreign tourist spending in Kuwait increased by approximately 60% in 2023, reaching 533.3 million dinars, up from 332.6 million dinars in 2022.",
+        "• The Amiri Diwan inaugurated the Kuwait National Cultural District (KNCD), which includes Sheikh Abdullah Al Salem Cultural Centre, Sheikh Jaber Al Ahmad Cultural Centre, Al Shaheed Park, and Al Salam Palace, with a capital investment exceeding US$1 billion, making it one of the largest cultural investments globally.",
+        "• The Sheikh Jaber Al Ahmad Cultural Centre, opened in November 2016, is the largest cultural centre and opera house in the Middle East.",
+        "• The Kuwait National Cultural District is a member of the Global Cultural Districts Network.",
+        "• The annual \"Hala Febrayer\" festival, which celebrates Kuwait's liberation, attracts tourists from neighboring Gulf Cooperation Council (GCC) countries and features music concerts, parades, and carnivals.",
+        "• The \"Hala Febrayer\" festival runs from 1 to 28 February each year, with Liberation Day celebrated on 26 February."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:27.199997",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "7",
+      "section_name": "Science and technology",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 31 December 2015, Kuwait registered a total of 448 patents according to the United States Patent and Trademark Office.",
+        "• During the early to mid-2010s, Kuwait achieved the highest number of scientific publications and patents per capita within the region.",
+        "• The Kuwaiti government has implemented various programs aimed at fostering innovation, which have contributed to the increase in patent rights.",
+        "• The World Intellectual Property Organization (WIPO) Global Innovation Index ranked Kuwait 71st out of 139 countries, based on its innovation efficiency ratio, which measures the amount of innovation output relative to input.",
+        "• Kuwait was the first country in the Middle East and North Africa (MENA) region to deploy 5G technology.",
+        "• Kuwait is among the world's leading countries in 5G penetration, indicating widespread adoption of the technology.",
+        "• The Chinese telecommunications company Huawei has secured a $1.7 billion investment license in Kuwait to develop the country's Information and Communications Technology (ICT) sector.",
+        "• The development of Kuwait’s ICT sector through Huawei’s investment aligns with the broader national strategy known as Kuwait Vision 2035."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:30.696886",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Space",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kuwait has an emerging space industry primarily driven by private sector initiatives.",
+        "• Kuwait's first satellite, named \"QMR-KWT\" (Arabic: قمر الكويت, meaning \"Moon of Kuwait\"), was launched on 30 June 2021 using a SpaceX Falcon 9 Block 5 rocket.",
+        "• The QMR-KWT satellite was part of the payload of the satellite carrier ION SCV Dauntless David, operated by D-Orbit.",
+        "• QMR-KWT was deployed into its final Sun-synchronous orbit on 16 July 2021 at approximately 500 km (310 miles) above sea level.",
+        "• The \"Code in Space\" initiative was introduced through collaboration between Kuwait's Orbital Space, the Space Challenges Program, and EnduroSat, enabling students worldwide to send and execute their code in space.",
+        "• The initiative involves transmitting code from a ground station to a cubesat (nanosatellite), which then executes the code onboard under real space conditions.",
+        "• The nanosatellite used in this program is called \"QMR-KWT\".",
+        "• Kuwait's space endeavors trace back to October 1969 when it inaugurated the first satellite ground station in the Middle East, \"Um Alaish\", seven years after the launch of Telstar 1, the world's first communications satellite.",
+        "• The Um Alaish complex included ground stations Um Alaish 1 (1969), Um Alaish 2 (1977), and Um Alaish 3 (1981), providing satellite communication services until 1990.",
+        "• The original Um Alaish station was destroyed by Iraqi armed forces during the Iraqi invasion of Kuwait in 1990.",
+        "• In 2019, Kuwait's Orbital Space established a new amateur satellite ground station named \"Um Alaish 4\" to continue the legacy, providing free access to signals from satellites passing over Kuwait.",
+        "• Um Alaish 4 is a member of the FUNcube distributed ground station network and the SatNOGS (Satellite Networked Open Ground Station) project.",
+        "• The Kuwait Space Rocket (KSR) project aims to develop and launch Kuwait's first suborbital liquid bi-propellant rocket in Arabia, divided into two phases with two vehicles:",
+        "• KSR-1, a test vehicle capable of reaching 8 km (5.0 miles) altitude, during the initial testing phase.",
+        "• KSR-2, planned for a more expansive suborbital flight reaching 100 km (62 miles).",
+        "• Kuwait's Orbital Space, in collaboration with the Kuwait Scientific Center (TSCK), introduced the opportunity for students to send science experiments to space for the first time in Kuwait.",
+        "• The initiative aims to educate students on space mission procedures, microgravity environments, and scientific research practices.",
+        "• This program was facilitated through agreements with DreamUp PBC and Nanoracks LLC, collaborating with NASA under a Space Act Agreement.",
+        "• The students' experiment was titled \"Kuwait’s Experiment: E.coli Consuming Carbon Dioxide to Combat Climate Change\" and was launched aboard SpaceX CRS-21 (SpX-21) to the International Space Station (ISS) on 6 December 2020.",
+        "• Astronaut Shannon Walker, a member of ISS Expedition 64, conducted the experiment on behalf of Kuwaiti students.",
+        "• In July 2021, Kuwait University announced the launch of a national satellite project as part of broader efforts to develop a sustainable space sector in Kuwait."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:40.818170",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "8",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kuwait possesses a modern highway network extending a total of 5,749 kilometers (3,572 miles), with 4,887 kilometers (3,037 miles) of this network being paved.",
+        "• The country has more than 2 million passenger cars in use, alongside approximately 500,000 commercial taxis, buses, and trucks.",
+        "• The maximum speed limit on major highways in Kuwait is 120 km/h (75 mph).",
+        "• Due to the absence of a railway system, most residents rely on automobiles for transportation.",
+        "• The public transportation system in Kuwait is predominantly composed of bus routes.",
+        "• The Kuwait Public Transportation Company, established in 1962, is a state-owned entity responsible for operating local bus routes across Kuwait and providing longer-distance services to other Gulf states.",
+        "• The main private bus operator is CityBus, which runs approximately 20 routes throughout the country.",
+        "• Kuwait Gulf Link Public Transport Services, founded in 2006, is another private bus company that operates local routes within Kuwait and longer-distance services to neighboring Arab countries.",
+        "• Kuwait has two airports: Kuwait International Airport, serving as the primary hub for international flights, and a secondary airport serving other domestic and regional needs.",
+        "• Kuwait International Airport is managed by the government and is the main gateway for international air travel; Kuwait Airways, a state-owned airline, is the largest airline in the country.",
+        "• Part of Kuwait International Airport complex includes Al Mubarak Air Base, which houses the headquarters of the Kuwait Air Force and the Kuwait Air Force Museum.",
+        "• In 2004, Kuwait launched its first private airline, Jazeera Airways.",
+        "• In 2005, the second private airline, Wataniya Airways, was established.",
+        "• Kuwait has one of the largest shipping industries in the Gulf region, with the Kuwait Ports Public Authority overseeing port operations nationwide.",
+        "• The principal commercial seaports are Shuwaikh and Shuaiba, which handled a combined cargo volume of 753,334 TEU (Twenty-Foot Equivalent Units) in 2006.",
+        "• Mina Al-Ahmadi, the largest port in Kuwait, primarily handles the country’s oil exports.",
+        "• Mubarak Al Kabeer Port, located on Bubiyan Island, is currently under construction and is expected to handle 2 million TEU when operational."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:44.401001",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "9",
+      "section_name": "Macro-economic",
+      "chapter_name": "Economy of Kuwait",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section provides a comprehensive overview of Kuwait's macroeconomic indicators from 1995 to 2024, including GDP figures, per capita income, growth rates, and government debt percentages.",
+        "• In 1995, Kuwait's GDP based on Purchasing Power Parity (PPP) was $64.3 billion, with a per capita PPP of $35,659, and a nominal GDP of $27.2 billion, with a per capita nominal GDP of $15,088.",
+        "• The GDP growth rate in 1995 was 1.7%, and government debt was 34.9% of GDP.",
+        "• Over the subsequent years, Kuwait's GDP (PPP) increased steadily, reaching $249.3 billion in 2024, while nominal GDP slightly declined from a peak of $250.7 billion in 2022 to $249.3 billion in 2024.",
+        "• The GDP per capita (PPP) peaked around 2003 at $42,303 and fluctuated thereafter, with a notable decline in 2024 to $49,736 from a high of $52,446 in 2012.",
+        "• The nominal GDP per capita showed a similar trend, reaching a maximum of $53,059 in 2008 and decreasing to $32,290 in 2024.",
+        "• Kuwait experienced significant GDP growth in the early 2000s, notably 17.3% in 2003 and 10.6% in 2005, driven by oil revenues.",
+        "• The highest GDP growth rate recorded was 17.3% in 2003, while the lowest was -7.1% in 2009, reflecting the impact of the global financial crisis.",
+        "• Government debt as a percentage of GDP decreased from 34.9% in 1995 to a low of 2.9% in 2022, but increased again to 7.2% in 2024.",
+        "• The economic indicators reveal Kuwait's economy is heavily reliant on oil, with fluctuations in growth and debt levels corresponding to global oil market trends.",
+        "• In 2019, Kuwait's main exports were mineral fuels, including oil, accounting for 89.1% of total exports, followed by aircraft and spacecraft (4.3%), organic chemicals (3.2%), plastics (1.2%), and minor shares from iron, steel, gems, machinery, aluminum, copper, salt, sulphur, stone, and cement.",
+        "• Kuwait was the world's largest exporter of sulfonated, nitrated, and nitrosated hydrocarbons in 2019.",
+        "• In 2019, Kuwait ranked 63rd out of 157 countries on the Economic Complexity Index (ECI).",
+        "• Iraq was Kuwait's leading export market in 2019, with food and agricultural products constituting 94.2% of total export commodities.",
+        "• The country's economy is characterized by a high dependency on oil exports, which significantly influence its trade and economic stability.",
+        "• Kuwait's unemployment rate continues to rise as of 2024, primarily due to a surplus of graduates in fields with low labor demand and a mismatch between educational output and labor market needs.",
+        "• Additional factors contributing to unemployment include insufficient private sector development and poor coordination among relevant authorities.",
+        "• As of November 19, 2023, the Central Statistics Bureau reported 8,727 unemployed Kuwaitis, with 4,177 males (approximately 48%) and 4,550 females (approximately 52%).",
+        "• The population of Kuwait increased to 4.91 million on January 1, 2024, up by 119,700 from 2023, with Kuwaiti citizens numbering 1.545 million, an increase of 28,700 from the start of 2023.",
+        "• The Kuwaiti citizen population comprised 758,700 males and 787,000 females in January 2024.",
+        "• The expatriate population rose by 90,990, reaching 3.36 million, with male expatriates accounting for 2.26 million and female expatriates 1.1 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:00:57.205272",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_kuwait.json",
+      "original_index": 13
+    }
+  ]
+}

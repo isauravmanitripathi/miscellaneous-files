@@ -1,0 +1,883 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_hungary.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.038871",
+    "total_sections_in_source": 32,
+    "extracted_sections_count": 31,
+    "skipped_sections_count": 1
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Hungary is classified as a developing, high-income mixed economy, ranking as the 53rd-largest economy globally out of 188 countries measured by the International Monetary Fund (IMF), with an annual output of $265.037 billion.",
+        "• Hungary ranks 41st in the world in terms of GDP per capita when measured by purchasing power parity (PPP).",
+        "• The country possesses a very high human development index (HDI) and a skilled labor force, with Hungary having the 22nd lowest income inequality in the world based on the Gini index.",
+        "• Hungary's economy is export-oriented, emphasizing foreign trade, making it the 35th largest export economy globally.",
+        "• In 2015, Hungary exported goods worth over $100 billion, with a trade surplus of $9.003 billion; 79% of exports went to the European Union (EU), while 21% were extra-EU trade.",
+        "• The productive capacity of Hungary is predominantly privately owned, with over 80% of productive assets in private hands.",
+        "• The overall taxation rate in Hungary is 39.1%, which funds the country's welfare economy.",
+        "• Household consumption constitutes the largest component of GDP, accounting for 50%, followed by gross fixed capital formation at 22%, and government expenditure at 20%.",
+        "• In 2015, Hungary attracted $119.8 billion in foreign direct investment (FDI) and invested more than $50 billion abroad.",
+        "• As of 2015, Hungary's key trading partners included Germany, Austria, Romania, Slovakia, France, Italy, Poland, and the Czech Republic.",
+        "• Major industries in Hungary encompass food processing, pharmaceuticals, motor vehicles, information technology, chemicals, metallurgy, machinery, electrical goods, and tourism, with 12.1 million international tourists visiting in 2014.",
+        "• Hungary is the largest electronics producer in Central and Eastern Europe, with electronics manufacturing and research being primary drivers of innovation and economic growth.",
+        "• Over the past 20 years, Hungary has developed into a significant center for mobile technology, information security, and related hardware research.",
+        "• The employment rate was 68.7% in January 2017, with the employment structure characteristic of post-industrial economies: approximately 63.2% of employed workers are in the service sector, 29.7% in industry, and 7.1% in agriculture.",
+        "• The unemployment rate was 3.8% during September–November 2017, significantly lower than the 11% rate during the Great Recession.",
+        "• Hungary is part of the European single market, which serves over 448 million consumers, with domestic policies influenced by EU agreements and legislation.",
+        "• Large Hungarian companies listed on the Budapest Stock Exchange include Graphisoft, Magyar Telekom, MKB Bank, MOL Group, Opus Global, OTP Bank, RÁBA Automotive Group, Gedeon Richter, and Zwack Unicum.",
+        "• The country hosts numerous small and medium enterprises, particularly in automotive supply and technology startups.",
+        "• Budapest is Hungary's financial and business capital, classified as an Alpha-world city by the Globalization and World Cities Research Network, and is the second fastest-developing urban economy in Europe.",
+        "• In 2014, Budapest's per capita GDP increased by 2.4%, and employment grew by 4.7% compared to the previous year.",
+        "• Budapest accounts for 39% of Hungary's national income, with a gross metropolitan product exceeding $100 billion in 2015, making it one of the largest regional economies in the EU.",
+        "• The city ranks among the top 100 GDP-performing cities worldwide, as per PricewaterhouseCoopers, and is ranked above cities such as Tel Aviv, Lisbon, Moscow, and Johannesburg in the Economist Intelligence Unit's global city competitiveness ranking.",
+        "• Hungary maintains its own currency, the Hungarian forint (HUF), and generally meets the Maastricht criteria, except for public debt.",
+        "• The public debt-to-GDP ratio was 66.4% in 2019, significantly below the EU average.",
+        "• The Hungarian National Bank, established in 1924 following the dissolution of the Austro-Hungarian Empire, focuses on price stability with an inflation target of 3%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:30:28.454453",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Árpád Age",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the Árpád Age, the primary economic factor was land, reflecting the transition from feudalism to more complex land ownership structures.",
+        "• The new economic and social orders established private ownership of land, which manifested in three main forms: royal estates, ecclesiastical estates, and secular private estates.",
+        "• The royal estate of the Árpád dynasty evolved from tribal lands, serving as a foundational component of the kingdom's landholding system.",
+        "• Secular private holdings originated from tribal common estates, which gradually gained societal control and expanded over time, increasingly dominated by emerging leaders.",
+        "• From the founding of the Hungarian state, royal gifts contributed to the growth of secular private property, integrating into the broader landholding framework.",
+        "• The feudal estate organization developed during this period comprised two key elements: the ancient estate and possessions awarded by Saint Stephen I, along with royal donations.",
+        "• Béla III was considered the wealthiest European monarch of his era, based on a list of his revenues; however, the reliability of this revenue list is subject to historical skepticism.",
+        "• The legal framework allowed the royal lineal heir almost unrestricted rights over land, which in practice often reverted land back to the king, emphasizing royal control.",
+        "• The laws enacted in 1351 abolished the nobility’s free disposal of their possessions, explicitly forbidding the sale of inherited land by the nobility.",
+        "• The Carpathian Basin's climate and terrain favored agriculture over large-scale livestock grazing, leading to a steady increase in agricultural activity.",
+        "• In the 11th and 12th centuries, farming practices included natural farming and soil-changing tillage systems, such as grazing animals on fertilized land until soil depletion.",
+        "• The primary tools for agriculture during this period were the plow and ox, essential for cultivation and soil management."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:31:07.232009",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Modern Age",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Berthold and Manfred Weiss Canned Food Factory was established in 1880, representing early industrial activity in Hungary.",
+        "• The Chamber of Commerce and Industry of Budapest was active at the beginning of the 20th century, indicating organized commercial infrastructure.",
+        "• Prior to World War II, the Hungarian economy was primarily focused on agriculture and small-scale manufacturing sectors.",
+        "• Hungary's strategic geographical position in Europe and its relatively limited natural resources contributed to a traditional dependence on foreign trade.",
+        "• The country's largest automobile manufacturer was Magomobil, known for producing the _Magosix_, though its production volume was limited to a few thousand units.",
+        "• In the early 1920s, the textile industry in Hungary experienced rapid growth, becoming a dominant sector by 1928.",
+        "• By 1928, the textile industry accounted for over 60 million pengős in exports, making it the most significant industry in Hungary’s foreign trade at that time.",
+        "• Hungarian companies such as MÁVAG exported locomotives internationally, including to India and South America.",
+        "• MÁVAG's locomotive no. 601 was notable for being the largest and most powerful locomotive in Europe at that period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:31:10.276296",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Post-war Hungarian communism",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Starting in the late 1940s, the Communist government in Hungary initiated the nationalization of industry, initially targeting factories with more than 100 workers, before reducing the threshold to only 10 workers.",
+        "• The government launched a successful collectivization program in agriculture, consolidating individual farms into collective farms.",
+        "• From the early 1950s, Hungary experienced rapid industrialization characterized by the construction of increasingly numerous factories, following the Stalinist model aimed at creating a self-sufficient economy.",
+        "• Most economic activities were conducted through state-owned enterprises, cooperatives, and state farms, reflecting a centrally planned economy.",
+        "• In 1968, Hungary replaced its Stalinist self-sufficiency policy with the \"New Economic Mechanism,\" which reintroduced foreign trade, introduced limited market freedoms, and permitted a limited number of small private businesses in the services sector.",
+        "• During this period, significant social progress was achieved, exemplified by a dramatic reduction in the percentage of 20-24-year-olds with less than 8 years of education—from 71.2% in 1949 to 4.9% in 1984.",
+        "• Food consumption increased substantially, with annual meat and fish intake rising from 35 kg in 1950 to 78 kg in 1984.",
+        "• Infrastructure improvements included the percentage of homes with electricity rising from 46.6% in 1949 to 99% in 1984, and homes with running water increasing from 17.1% to 76.6% over the same period.",
+        "• The number of cars per 1,000 inhabitants grew from 3 in 1960 to 122 in 1984; televisions increased from 10 to 276 units per 1,000 people; washing machines from 45 to 317; and refrigerators from 4 to 328 per 1,000 people.",
+        "• Infant mortality rate declined from 91 per 1,000 live births in 1949 to 20.4 in 1984.",
+        "• Per capita national income increased by 343% from 1950 to 1983, averaging a growth rate of 4.6% annually.",
+        "• Real wages grew by 136%, and real incomes increased by 251% during the same period.",
+        "• The real value of per capita social benefits rose by 432% from 1960 to 1980.",
+        "• Hungary’s GDP grew at a rate comparable to that of Spain from 1949 to 1984, indicating significant economic development.",
+        "• Poverty was substantially reduced; from 1962 to 1982, despite a 96% increase in the price index, the proportion of people earning less than 800 forints dropped from 55% to 6.4% of those earning less than 1800 forints.",
+        "• In 1987, Hungary had minimal income inequality, with a Gini coefficient of 0.21, and a poverty rate of 1%, using a poverty line of $120 PPP per person per month.",
+        "• Despite being one of the most liberal and economically advanced countries within the Eastern Bloc, by the late 1980s, state employment still accounted for 94% of total employment.",
+        "• Both agriculture and industry began to suffer from a lack of investment starting in the 1970s, leading to economic stagnation.",
+        "• Hungary’s net foreign debt increased sharply from $1 billion in 1973 to $15 billion in 1993, primarily due to consumer subsidies and unprofitable state enterprises.",
+        "• In response to economic stagnation, Hungary further liberalized its economy by passing a joint venture law, implementing an income tax, and joining the International Monetary Fund (IMF) and the World Bank.",
+        "• By 1988, Hungary had developed a two-tier banking system and enacted significant corporate legislation, laying the groundwork for market-oriented reforms following the end of communist rule."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:31:18.270071",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Transition to a market economy (1990–1995)",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the fall of communism, Hungary transitioned from a one-party, centrally planned economy to a market economy with a multi-party political system, necessitating significant economic reforms.",
+        "• The collapse of the Soviet Union led to Hungary losing nearly 70% of its export markets in Eastern and Central Europe, severely impacting its trade and economic stability.",
+        "• The loss of external markets resulted in approximately 800,000 unemployed people in Hungary due to the closure of unprofitable and unsalvageable factories.",
+        "• The end of Soviet subsidies also entailed the loss of social welfare programs in Hungary, prompting cuts in many social services to reduce government expenditures, which caused hardships for many citizens during the transition.",
+        "• After privatization and tax reductions on Hungarian businesses, unemployment rose sharply to 12% in 1991 from 1.7% in 1990, but gradually decreased until 2001.",
+        "• Hungary's economic growth experienced a decline in 1991 to −11.9%, followed by a gradual recovery with an average annual growth rate of 4.2% until the end of the 1990s.",
+        "• Foreign direct investment (FDI) in Hungary exceeded $60 billion since 1989, indicating increased foreign investment as the economy stabilized.",
+        "• The Antall government (1990–94) initiated market reforms including price and trade liberalization, a revamped tax system, and the development of a market-based banking system.",
+        "• By 1994, the costs of government overspending and hesitant privatization became evident, leading to increased prices for food, medicine, transportation, and energy due to cuts in consumer subsidies.",
+        "• The decline in exports to the former Soviet bloc and shrinking industrial output caused a sharp GDP decline; unemployment rose rapidly to about 12% in 1993.",
+        "• Hungary's external debt reached 250% of annual export earnings, one of the highest in Europe, while the budget and current account deficits approached 10% of GDP.",
+        "• Currency devaluation aimed at supporting exports, combined with ineffective stabilization measures, caused inflation to reach 35% in 1991, with inflation rates decreasing until 1994 and rising again in 1995.",
+        "• In March 1995, Prime Minister Gyula Horn's government implemented an austerity program, coupled with aggressive privatization of state-owned enterprises and an export-promoting exchange rate regime, to reduce debt and deficits.",
+        "• By the end of 1997, Hungary's public sector deficit decreased to 4.6% of GDP, public spending fell from 62% to below 50% of GDP, the current account deficit was reduced to 2% of GDP, and government debt was paid down to 94% of annual export earnings.",
+        "• Hungary's government no longer required IMF financial assistance, having repaid all its debt, and now enjoys favorable borrowing terms; its sovereign foreign currency debt carries investment-grade ratings from major agencies, though recent downgrades occurred by Moody’s, S&P, and Fitch.",
+        "• In 1995, the Hungarian Forint (HUF) became convertible for all current account transactions, and after OECD membership in 1996, for nearly all capital account transactions; the currency is now fully floating, pegged against a basket of currencies with a devaluation rate of 0.8% per month initially.",
+        "• The privatization program concluded on schedule in 1998, with approximately 80% of GDP produced by the private sector; foreign owners control 70% of financial institutions, 66% of industry, 90% of telecommunications, and 50% of the trading sector.",
+        "• From 1990 to 1993, Hungary’s GDP declined by about 18%, with growth only 1%–1.5% until 1996; a strong export performance in 1997 propelled GDP growth to 4.4%, alongside macroeconomic improvements.",
+        "• Major structural reforms in 1996–97 included implementing a fully funded pension system (partly modeled after Chile’s system with modifications), reforming higher education, and establishing a national treasury.",
+        "• Remaining economic challenges involve reducing fiscal deficits and inflation, maintaining external balance stability, and completing reforms in the tax system, healthcare, and local government financing.",
+        "• Prior to 1989, 65% of Hungary’s trade was with Comecon countries; by 1997, Hungary shifted predominantly to Western markets, with 80% of trade conducted with EU countries, and Germany being its most important trading partner.",
+        "• The United States became Hungary’s sixth-largest export market, with bilateral trade increasing by 46% in 1997 to over $1 billion; the U.S. extended Hungary most-favored-nation status, GSP, OPIC insurance, and Export-Import Bank access.",
+        "• Since 1989, Hungary attracted approximately $18 billion in foreign direct investment, accounting for over one-third of all FDI in Central and Eastern Europe, including the former Soviet Union, with about $6 billion from American companies.",
+        "• Foreign investment was driven by Hungary’s skilled, relatively inexpensive labor, tax incentives, modern infrastructure, and a good telecommunications system.",
+        "• By 2006, Hungary’s economic outlook had worsened, with wage growth driven mainly by increased government spending, leading to a budget deficit exceeding 10% of GDP and inflation forecasted above 6%.",
+        "• Economist Nouriel Roubini described Hungary’s economic situation as \"an accident waiting to happen,\" indicating concerns about its fiscal and economic stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:31:44.405983",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Privatization in Hungary",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In January 1990, the State Privatization Agency (SPA, _Állami Vagyonügynökség_) was established to oversee the initial phase of Hungary's privatization process.",
+        "• The Hungarian government, burdened with a $21.2 billion foreign debt, opted to sell state property rather than distribute assets freely to the populace.",
+        "• The SPA faced criticism from populist groups due to concerns that management of several companies had the authority to select buyers and negotiate sale terms, which was perceived as \"stealing\" the companies.",
+        "• Additional discontent stemmed from the state's practice of offering substantial tax subsidies and environmental investments, which in some cases exceeded the sale price of the companies.",
+        "• Foreign investors engaged in numerous \"greenfield investments\" alongside acquiring existing companies during the privatization process.",
+        "• The center-right Hungarian Democratic Forum government (1990–1994) aimed to dismantle agricultural co-operatives by splitting them and distributing machinery and land to former members.",
+        "• The government implemented a Recompensation Law providing vouchers to individuals who had owned land prior to its nationalization in 1948; these vouchers could be exchanged for land previously owned by agricultural co-operatives, which were compelled to cede some land for this purpose.",
+        "• Between 1990 and 1994, small stores and retail businesses were privatized; however, the more significant economic impact was made by greenfield investments from foreign retail companies such as Tesco, Cora, and IKEA.",
+        "• Major public utilities, including the national telecommunications company Matáv, the national oil and gas conglomerate MOL Group, and the electricity supply and production company MVM Group, were privatized.",
+        "• Most banks in Hungary were sold to foreign investors, but the largest bank, the National Savings Bank (OTP), remained Hungarian-owned.",
+        "• Ownership distribution of OTP included 20%–20% shares sold to foreign institutional investors and allocated to Social Security organizations, 5% purchased by employees, and 8% offered on the Budapest Stock Exchange."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:31:51.341093",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "Hungary's economy since 1995",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since reaching 1995, Hungary's fiscal indices deteriorated significantly, characterized by a decline in foreign investment and negative assessments of the country's economic outlook by foreign analysts.",
+        "• The country experienced a high trade deficit and budget gap driven by strong demand for imported goods, which hindered economic stability and growth.",
+        "• Hungary was unable to reach an agreement with the International Monetary Fund (IMF) during this period, indicating economic policy challenges.",
+        "• For over a month, Hungary lacked a Minister of Finance until Prime Minister Gyula Horn appointed Lajos Bokros as Finance Minister on 1 March 1995.",
+        "• On 12 March 1995, Lajos Bokros introduced the \"Bokros Package,\" a series of austerity measures aimed at stabilizing the economy, including:",
+        "• A one-time 9% devaluation of the Hungarian forint.",
+        "• Implementation of a constant sliding devaluation mechanism.",
+        "• An 8% additional customs duty on all goods except energy sources.",
+        "• Limitation of wage growth in the public sector.",
+        "• Simplification and acceleration of privatization processes.",
+        "• Welfare cutbacks, such as the abolition of free higher education and dental services.",
+        "• Reduction of family allowances, child-care benefits, and maternity payments based on income and wealth.",
+        "• Lowering pharmaceutical subsidies.",
+        "• Raising the retirement age.",
+        "• These reforms aimed to boost investor confidence and received support from the IMF and the World Bank, but faced widespread opposition domestically.",
+        "• Public opinion was highly unfavorable toward Bokros' reforms, with only 9% of the population supporting his political role and merely 4% believing the reforms would substantially improve Hungary's finances.",
+        "• In 1996, Hungary's Ministry of Finance replaced the fully state-backed pension system with a new hybrid model comprising private pension savings accounts, which were structured as 50% social security-based and 50% funded.",
+        "• In 2006, Prime Minister Ferenc Gyurcsány was re-elected on a platform promising \"reform without austerity,\" but following the April 2006 elections, his Socialist coalition unveiled austerity measures aimed at reducing the budget deficit to 3% of GDP by 2008.",
+        "• The implementation of the austerity program contributed to a slowdown in Hungary's economic growth in 2007.",
+        "• The section notes that the GDP charts available only extend up to 2010 as of July 2022, indicating a need for updating with recent data."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:31:56.462176",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "Great Recession",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the Great Recession, Hungary experienced a severe economic contraction of −6.4%, marking one of the worst recessions in its history, primarily driven by declining exports, reduced domestic consumption, and decreased fixed asset accumulation.",
+        "• On 27 October 2008, Hungary secured a rescue package of US$25 billion through an agreement with the International Monetary Fund (IMF) and the European Union (EU), aimed at restoring financial stability and boosting investor confidence.",
+        "• The crisis-induced uncertainty led Hungarian banks to reduce lending, resulting in decreased investment levels across the economy.",
+        "• The reduction in investment, combined with heightened price-awareness and fears of bankruptcy among consumers, caused a decline in consumption, which further exacerbated economic downturns through increased job losses and additional consumption decline.",
+        "• Inflation in Hungary did not increase significantly during this period; however, real wages experienced a decline, negatively impacting household purchasing power.",
+        "• The appreciation of the euro and Swiss franc against the Hungarian forint significantly affected the population, with more than 60 percent of Hungarian mortgages and car loans denominated in foreign currencies, according to The Daily Telegraph.",
+        "• Following the 2010 election of the new Fidesz-party government led by Prime Minister Viktor Orbán, Hungarian banks were mandated to allow the conversion of foreign-currency denominated mortgages into forint loans.",
+        "• The Orbán government also nationalized approximately $13 billion of private pension-fund assets, enabling the government to utilize these funds to support the national debt."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:32:01.375603",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1.8",
+      "section_name": "Post 2008 recession Hungarian economy",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Hungarian economy showed signs of recovery in 2011, characterized by decreasing tax rates and a moderate GDP growth rate of 1.7 percent.",
+        "• Between November 2011 and January 2012, all three major credit rating agencies downgraded Hungary’s debt to a non-investment speculative grade, commonly referred to as \"junk status.\"",
+        "• The downgrade was partly due to political changes that raised concerns about the independence of the Hungarian National Bank.",
+        "• European Commission President José Manuel Barroso wrote to Hungarian Prime Minister Viktor Orbán, expressing that new central bank regulations permitting political intervention \"seriously harm\" Hungary's interests and resulted in postponement of negotiations for a financial aid package.",
+        "• Viktor Orbán responded to the EU concerns by stating, \"If we don't reach an agreement, we'll still stand on our own feet.\"",
+        "• On 17 January 2012, the European Commission initiated legal proceedings against Hungary concerning issues related to Hungary's central bank law, the retirement age for judges and prosecutors, and the independence of the data protection office.",
+        "• On 18 January 2012, Orbán expressed in a letter his willingness to find solutions to the issues raised in the infringement proceedings.",
+        "• Orbán also participated in a plenary session of the European Parliament on 18 January, where he stated that \"Hungary has been renewed and reorganised under European principles\" and claimed that the EU's objections could be resolved \"easily, simply and very quickly.\"",
+        "• He further asserted that none of the European Commission's objections affected Hungary's new constitution.",
+        "• Following a mild recession in 2012, Hungary’s GDP growth resumed from 2014, with the European Commission’s Winter 2015 forecast projecting an acceleration to 3.3%.",
+        "• The economic rebound was primarily driven by moderately increasing domestic demand and growth in gross fixed capital formation.",
+        "• The surge of 3.8% GDP growth in the first half of 2014 was achieved through temporary measures, including increased absorption of EU funds and the central bank’s Funding for Growth Scheme, which subsidized loans for small- and medium-sized enterprises (SMEs).",
+        "• Despite the growth, the fundamental drivers remained largely unchanged in 2015, with government support for EU fund transfers and central bank loans contributing to moderate economic revitalization and steady GDP growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:32:07.109685",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "1.9",
+      "section_name": "Hungarian economy during and after the covid pandemic",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to the COVID-19 pandemic, Hungary experienced steady increases in GDP, GDP per capita, living standards, and wages.",
+        "• The onset of the COVID-19 pandemic caused a significant decline in key economic indicators, mirroring trends across Europe.",
+        "• Hungary's GDP decreased to $155 billion during the pandemic period.",
+        "• The GDP Purchasing Power Parity (PPP) fell to $322 billion.",
+        "• GDP per capita declined to $15,855.",
+        "• Inflation experienced a slight increase to 4.54% during the pandemic.",
+        "• The country's national debt rose substantially, reaching approximately 80% of GDP, up from the previous range of 60–65%.",
+        "• Hungary was heavily impacted by the pandemic, with unemployment rates higher than the European average until 2021, when lockdown measures were lifted.",
+        "• Following the pandemic, Hungary's GDP, GDP per capita, GDP PPP, unemployment rate, and national debt all recovered to, and in some cases surpassed, their pre-pandemic levels.",
+        "• Despite economic recovery, inflation surged to a record high of 24.5% in December 2022, marking the highest inflation rate in Europe."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:32:34.348030",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "1.10",
+      "section_name": "Natural resources",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Hungary's total land area is 93,030 km², with an additional 690 km² of water surface area, collectively constituting approximately 1% of Europe's total area.",
+        "• Approximately 75% of Hungary's landscape consists of flat plains, primarily the Great Hungarian Plain and the Little Hungarian Plain, which together cover three-quarters of the country's territory.",
+        "• An additional 20% of Hungary's area comprises foothills with a maximum altitude of 400 meters, while the remaining 5% consists of higher hills and water surfaces.",
+        "• The two major flat plains, the Great Hungarian Plain and the Little Hungarian Plain, are the dominant geographical features of Hungary's landscape.",
+        "• Hungary's most significant natural resource is arable land, with about 83% of the country's total territory suitable for cultivation.",
+        "• Of the arable land, approximately 75% (around 50% of the total country area) is cultivated, representing an outstanding ratio compared to other European Union countries.",
+        "• Hungary lacks extensive domestic sources of energy and raw materials necessary for further industrial development.",
+        "• Forests cover approximately 19% of Hungary's territory, mainly located in the foothills such as the North Hungarian Mountains, the Transdanubian Mountains, and the Alpokalja region.",
+        "• The forest composition is diverse, predominantly consisting of oak and beech, with other species including fir, willow, acacia, and plane.",
+        "• Hungary's underground water reserves are among the largest in Europe, contributing to the country's abundance of brooks, hot springs, medicinal springs, and spas.",
+        "• As of 2003, Hungary has 1,250 springs that provide water warmer than 30°C, and about 90% of the country's drinking water is sourced from these springs.",
+        "• The major rivers in Hungary are the Danube and the Tisza; the Danube flows through Germany, Austria, Slovakia, Serbia, and Romania, and is navigable within Hungary for 418 km.",
+        "• The Tisza River is navigable for 444 km within Hungary.",
+        "• Hungary has three major lakes: Lake Balaton, Lake Velence, and Lake Fertő.",
+        "• Lake Balaton, the largest lake in Hungary, measures 78 km in length, varies from 3 to 14 km in width, and covers an area of 592 km², making it Central Europe's largest lake.",
+        "• Lake Balaton is a prominent tourist and recreation destination, with shallow waters suitable for summer bathing and a frozen surface in winter that facilitates winter sports.",
+        "• Lake Velence covers 26 km² and is located in Fejér County; Lake Fertő spans 82 km² within Hungary.",
+        "• The waters of Hungary are at risk due to a net outflow exceeding inflow, with a severe drought in 2022 impacting all of Europe, threatening Lake Velence, Lake Balaton, and the Danube and Tisza rivers.",
+        "• The flow of the Danube and Tisza rivers was modified in the late 19th century to prevent large floods and facilitate water transport, but these modifications have contributed to reduced support for large-scale crop irrigation.",
+        "• The 2022 drought has worsened due to the inability of the rivers to support extensive watering of crops, highlighting the need for large-scale reforms and rebuilding of the Alföld water system.",
+        "• As of 2022, no significant plans for water system reforms or rebuilding have been announced by the Hungarian government."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:32:41.417252",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "1.10.1",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Hungary has a total of 31,058 km of roads, including 1,118 km of motorways.",
+        "• The total length of motorways in Hungary has doubled over the past ten years.",
+        "• In 2006, the most motorway kilometers were built, totaling 106 km.",
+        "• Budapest is directly connected to the borders of Austria, Slovakia, Slovenia, Croatia, Romania, and Serbia via motorway networks.",
+        "• Several major transport corridors cross Hungary due to its strategic location and geographical features, including Pan-European corridors IV, V, and X.",
+        "• European routes passing through Hungary include E60, E71, E73, E75, and E77.",
+        "• All these European routes connect to Budapest, thanks to Hungary’s radial road system.",
+        "• Hungary has five international airports, four domestic airports, four military airports, and several non-public airports.",
+        "• The largest airport in Hungary is Budapest Ferihegy International Airport (BUD), located at the southeastern border of Budapest.",
+        "• In 2008, Budapest Ferihegy International Airport handled 3,866,452 arriving passengers and 3,970,951 departing passengers.",
+        "• The Hungarian railroad system was 7,685 km long as of 2006, with 2,791 km of this network electrified."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:32:46.031566",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "1.10.2",
+      "section_name": "Public utilities",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Electricity is universally available in every settlement across Hungary, ensuring nationwide access to electrical power.",
+        "• Piped gas infrastructure extends to 2,873 settlements, representing 91.1% of all settlements in Hungary.",
+        "• To mitigate gas shortages caused by disruptions such as the Ukrainian pipeline shutdown in January 2009, Hungary actively participates in the development of alternative gas pipeline projects, specifically the Nabucco and South Stream pipelines.",
+        "• Hungary maintains strategic gas reserves, with the most recent reserve of 1.2 billion cubic meters (bcm) established in October 2009 to enhance energy security.",
+        "• In 2008, 94.9% of Hungarian households had access to running water, reflecting widespread water supply coverage.",
+        "• The responsibility for providing healthy water supply primarily lies with municipal governments; however, the Hungarian government and the European Union offer subsidies to support the development of water supply and sewage infrastructure.",
+        "• Due to these subsidies, 71.3% of all dwellings are connected to the sewage system, an increase from 50.1% in 2000, indicating significant progress in sanitation infrastructure.",
+        "• Internet penetration in Hungary has experienced substantial growth over recent years: the proportion of households with internet access increased from 22.1% in 2005 (of which 49% used broadband) to 48.4% in 2008 (with 87.3% of these connections being broadband).",
+        "• The Ministry of Economy and Transport launched the eHungary program in 2004, aiming to ensure internet access for every Hungarian citizen by establishing \"eHungary points\" in public spaces such as libraries, schools, and cultural centers.",
+        "• The eHungary initiative also includes the \"eCounsellor network,\" a service where professionals assist citizens in effectively utilizing electronic information, services, and knowledge, thereby promoting digital literacy and access."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:33:20.031356",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the Services sector had the highest number of registered companies in Hungary, totaling 273,851 companies.",
+        "• The Finance, Insurance, and Real Estate sector ranked second, with 113,153 registered companies.",
+        "• Retail Trade was the third most prominent sector by the number of registered companies, with a total of 87,237 companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:33:23.399462",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, agriculture accounted for 4.3% of Hungary's Gross Domestic Product (GDP), with the food industry contributing to an additional portion, resulting in agriculture and related sectors making up approximately 13% of the total GDP.",
+        "• Agriculture, along with the food industry, employed roughly 7.7% of Hungary's labor force, indicating its significance in employment despite its relatively small share of GDP.",
+        "• Hungarian agriculture is virtually self-sufficient and is predominantly export-oriented, with agricultural exports constituting approximately 20–25% of the country's total exports.",
+        "• About 50% of Hungary's total land area is under cultivation, a high proportion compared to other European Union (EU) member states, due to favorable conditions such as a continental climate and plains that comprise about half of the country's landscape.",
+        "• The most important crops in Hungary include wheat, corn, sunflower, potato, sugar beet, canola, and a wide variety of fruits such as apple, peach, pear, grape, watermelon, and plum.",
+        "• Hungary is renowned for its wine regions, producing notable varieties including the internationally famous white dessert wine Tokaji and the red wine known as Bull's Blood.",
+        "• A traditional and internationally recognized alcoholic beverage from Hungary is _pálinka_, a fruit brandy.",
+        "• The country's livestock farming primarily involves cattle, pigs, poultry, and sheep, with the Hungarian Grey Cattle being a major tourist attraction in the Hortobágy National Park.",
+        "• Hungary has a significant foie gras industry, with approximately 33,000 farmers engaged; Hungary is the second-largest producer worldwide and the largest exporter of foie gras, mainly exporting to France.",
+        "• Paprika, both sweet and hot varieties, is a cultural and culinary symbol of Hungary; the country is one of the leading global producers, with Szeged and Kalocsa as the primary centers of paprika production.",
+        "• In 2018, Hungary produced 7.9 million tons of maize, ranking as the 15th largest producer globally.",
+        "• The country produced 5.2 million tons of wheat in 2018.",
+        "• Sunflower seed production in 2018 was 1.8 million tons, making Hungary the 8th largest producer in the world.",
+        "• Other significant crops produced in 2018 include 1.1 million tons of barley, 1 million tons of rapeseed (14th largest producer globally), and 941 thousand tons of sugar beet, used for sugar and ethanol production.",
+        "• Fruit production in 2018 included 674 thousand tons of apples and 539 thousand tons of grapes.",
+        "• Additional agricultural outputs in 2018 comprised 330 thousand tons of potatoes and 330 thousand tons of triticale, along with smaller quantities of other crops."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:33:41.430214",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Health care",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 2005 and 2008, Hungary's total health spending as a percentage of GDP was compared to various other first-world nations, highlighting its relative expenditure levels during this period.",
+        "• Hungary operates a tax-funded universal health care system, which is organized and managed by the state-owned National Healthcare Fund, known in Hungarian as _Országos Egészségbiztosítási Pénztár (OEP)_.",
+        "• In Hungary, health insurance coverage is not required for specific groups, including children, mothers or fathers with babies, students, pensioners, individuals from socially disadvantaged backgrounds, people with physical or mental disabilities, priests, and other church employees.",
+        "• The health status in Hungary is characterized by a rapidly increasing life expectancy and a notably low infant mortality rate, which was recorded at 4.9 per 1,000 live births in 2012.",
+        "• In 2009, Hungary allocated 7.4% of its Gross Domestic Product (GDP) to health care, an increase from 7.0% in 2000, but still below the average expenditure of OECD countries.",
+        "• The total health expenditure per capita in Hungary was US$1,511 in 2009, with government funding accounting for US$1,053 (69.7%) and private funding US$458 (30.3%).",
+        "• By 2018, total health expenditure per capita in Hungary had risen to US$2,047, representing approximately a 33% increase over the previous figure.",
+        "• In 2018, government funding for health care per capita was US$1,439 (70.3%), while private funding was US$608 (29.7%).",
+        "• The total health expenditure in Hungary in 2018 amounted to roughly 6.6% of the country's total GDP, indicating a slight overall decrease in the percentage of GDP spent on health care compared to previous years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:33:45.824627",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The main sectors of Hungarian industry include heavy industry (comprising mining, metallurgy, machine and steel production), energy production, mechanical engineering, chemicals, the food industry, and automobile production.",
+        "• The industry predominantly relies on processing industries, which, including construction, accounted for 29.32% of Hungary's GDP in 2008.",
+        "• Hungary's industry faces resource constraints due to sparse energy and raw material resources, necessitating the import of most raw materials to meet industrial demands.",
+        "• Following Hungary's transition to a market economy, the industrial sector underwent significant restructuring and modernization efforts.",
+        "• The leading industrial sector in Hungary is machinery manufacturing, followed by the chemical industry, which includes plastic production and pharmaceuticals.",
+        "• Over the past two decades, sectors such as mining, metallurgy, and textiles have been declining in importance within Hungary's industrial landscape.",
+        "• Despite a notable decline over the last decade, Hungary's food industry still contributes up to 14% of the total industrial production.",
+        "• The food industry accounts for approximately 7–8% of Hungary's total exports.",
+        "• Nearly 50% of Hungary's energy consumption depends on imported energy sources.",
+        "• Natural gas and oil are transported via pipelines from Russia, which constitute 72% of Hungary's energy structure.",
+        "• Nuclear power, generated by the Paks Nuclear Power Plant, accounts for 53.6% of Hungary's energy production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:33:49.818558",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "2.3.1",
+      "section_name": "Automobile production",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Hungary is a favored destination for foreign automotive industry investors, resulting in the presence of major manufacturers such as General Motors (Szentgotthárd), Magyar Suzuki (Esztergom), Mercedes-Benz (Kecskemét), BMW (Debrecen), BYD (Szeged), and Audi (Győr) in Central Europe.",
+        "• The automotive sector accounts for approximately 17% of Hungary’s total exports, with key contributions from Audi, Opel, and Suzuki.",
+        "• The sector employs around 90,000 people across more than 350 car component manufacturing companies in Hungary.",
+        "• Audi established the largest engine manufacturing plant in Europe (and the third-largest globally) in Győr, with total investments exceeding €3,300 million up to 2007, making it Hungary’s largest exporter.",
+        "• At the Győr plant, Audi assembles models including the Audi TT, Audi TT Roadster, and A3 Cabriolet.",
+        "• The Győr plant supplies engines to multiple carmakers, including Volkswagen, Skoda, SEAT, and Lamborghini.",
+        "• Daimler-Benz invested €800 million (approximately $1.2 billion) to develop a new assembly plant in Kecskemét, Hungary, which is expected to create up to 2,500 jobs and has a capacity to produce 100,000 Mercedes-Benz compact cars annually.",
+        "• Opel produced 80,000 Astra and 4,000 Vectra cars at its Szentgotthárd plant from March 1992 until 1998; currently, the plant produces about half a million engines and cylinder heads per year.",
+        "• In 2018, BMW announced plans to build a car manufacturing facility near Debrecen, with an expected production capacity of approximately 150,000 cars per year.",
+        "• In 2021, BYD announced its intention to establish its first European car factory near Szeged.",
+        "• Hungary is rapidly developing its battery production industry, attracting significant investments including a new gigafactory by Chinese company Contemporary Amperex Technology Co. Limited (CATL) in Debrecen.",
+        "• The CATL gigafactory is projected to produce 100 GWh of battery capacity annually by the end of the decade, sufficient to supply batteries for approximately one million electric vehicles."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:33:54.885158",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Services",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, the tertiary (services) sector accounted for 64% of Hungary's Gross Domestic Product (GDP).",
+        "• The role of the services sector in Hungary's economy has been steadily increasing over the past 15 years, driven by continuous investments in transportation and other service industries.",
+        "• Hungary's strategic geographical location in Central Europe significantly contributes to the growth of its service sector, as its central position makes it an attractive and advantageous location for investment.",
+        "• In 2007, Hungary's total value of imports was 68.62 billion euros, while its total exports amounted to 68.18 billion euros.",
+        "• The external trade deficit in Hungary decreased by 12.5% from the previous year, reducing from 2.4 billion euros to 308 million euros in 2007.",
+        "• In 2007, 79% of Hungary's exports and 70% of its imports were conducted within the European Union (EU), highlighting the country's strong trade ties with EU member states."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:00.879830",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "2.4.1",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, tourism in Hungary employed nearly 150,000 people and generated a total income of 4 billion euros.",
+        "• Lake Balaton, the largest freshwater lake in Central Europe, is one of Hungary's top tourist destinations, attracting approximately 1.2 million visitors in 2008.",
+        "• Budapest, the capital city of Hungary, is the most visited region, drawing 3.61 million visitors in 2008.",
+        "• In 2011, Hungary was ranked as the 24th most visited country in the world.",
+        "• Hungary is renowned for its spa culture, which is globally famous, featuring thermal baths of various types.",
+        "• The country hosts over 50 spa hotels situated in numerous towns, offering visitors opportunities for relaxing holidays and a wide array of high-quality medical and beauty treatments."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:04.668640",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "3",
+      "section_name": "Currency",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The official currency of Hungary is the Hungarian forint (HUF, Ft), which has been in use since 1 August 1946.",
+        "• A forint is subdivided into 100 fillérs; however, fillér coins have not been in circulation since 1999 and are now only used in accounting contexts.",
+        "• The current coin denominations include six types: 5, 10, 20, 50, 100, and 200 forints.",
+        "• The current banknote denominations include six types: 500, 1,000, 2,000, 5,000, 10,000, and 20,000 forints.",
+        "• The 1 and 2 forint coins were officially withdrawn from circulation in 2008; despite their withdrawal, retail prices remained unchanged because stores follow an official rounding scheme for final prices.",
+        "• The 200 forint banknote was withdrawn from circulation on 16 November 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:07.329608",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "The fulfillment of the Maastricht criteria",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section details the convergence criteria that Hungary must meet to adopt the Euro, as outlined in the context of the Maastricht Treaty and EU accession requirements.",
+        "• The convergence criteria include five key obligations: inflation rate, government finances, ERM II membership, interest rate, and the design of Euro coins.",
+        "• The inflation rate criterion specifies that the inflation rate of the candidate country must not exceed the average of the three best-performing EU member states by more than 1.5%.",
+        "• The government finances criterion requires the annual government deficit to GDP ratio to be no more than 3% and the gross government debt to GDP ratio to be no more than 60%.",
+        "• The ERM II membership criterion mandates that the country must have been a member of the Exchange Rate Mechanism II (ERM II) for at least two years without severe tensions.",
+        "• The interest rate criterion states that the country's long-term interest rate must not be more than 2% higher than the average of the three best-performing EU member states.",
+        "• The Euro coins design criterion is that the design must be set by the country, with the recommendation for approval provided by the European Commission.",
+        "• The reference values for each criterion are: inflation rate at 5%, government deficit at a maximum of 3.2%, government debt at a maximum of 60%, ERM II membership for at least 2 years, and interest rate at 6.5%.",
+        "• Hungary's current status as of December 2020 shows an inflation rate of 2.7%, which is below the reference value of 5%.",
+        "• Hungary's fiscal year 2019 recorded a government deficit of 2.0% of GDP, meeting the maximum allowable deficit of 3%.",
+        "• Hungary's gross government debt stood at 66.3% of GDP, exceeding the reference value of 60%.",
+        "• Hungary has not yet fulfilled the ERM II membership requirement, having been in progress since 2019–2020.",
+        "• The country has maintained a zero-year minimum in ERM II membership, indicating no mandatory duration has been completed yet.",
+        "• The interest rate in Hungary is 0.60%, which is well below the maximum limit of 6.5%.",
+        "• The Euro coins design process is ongoing, with the design set by Hungary and the approval recommended by the European Commission.",
+        "• The section notes that current EU member states that have not yet adopted the Euro include candidates and potential candidates.",
+        "• The inflation and interest rate criteria are based on values from the May 2008 report, which are updated annually."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:12.347352",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Human capital",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Education in Hungary is free and compulsory from the age of 5 to 16, ensuring universal access to basic education.",
+        "• The Hungarian education system provides free pre-primary schooling for all children, along with 8 years of general education and 4 years of upper secondary education, which can be either general or vocational.",
+        "• The higher education system in Hungary follows the three-cycle Bologna process structure and employs a credit system aligned with European standards to facilitate international mobility.",
+        "• The Hungarian government emphasizes digital literacy and foreign language studies to meet European standards, requiring at least one foreign language certificate for diploma acquisition at secondary level schools.",
+        "• Over the past decade, there has been a significant increase in the number of Hungarians speaking at least one foreign language, driven by educational reforms and language promotion policies.",
+        "• Hungary’s most prestigious universities include:",
+        "• Semmelweis University, which comprises five schools: medical, dentistry, pharmacy, nursing, and physical education.",
+        "• Eötvös Loránd University (ELTE), recognized as among the top 500 universities globally according to the QS World University Rankings.",
+        "• Budapest University of Technology and Economics (BME), established in 1782, considered the oldest institute of technology of university rank and structure worldwide.",
+        "• Corvinus University of Budapest (BCE).",
+        "• Central European University (CEU).",
+        "• University of Pécs (PTE).",
+        "• University of Miskolc (ME).",
+        "• University of Szeged (SZTE), ranked 451st–500th globally in the 2010 QS World University Rankings.",
+        "• University of Debrecen (DE).",
+        "• Funding for education in Hungary is primarily provided by the state, which allocates approximately 5.1–5.3% of the annual GDP to education.",
+        "• To enhance higher education quality, the Hungarian government encourages contributions from students and companies, alongside significant financial support from the European Union (EU).",
+        "• A notable weakness in the Hungarian education system is segregation and unequal access to quality education, with disparities evident between comprehensive and vocational secondary schools.",
+        "• The 2006 PISA report highlighted that students from comprehensive schools performed above the OECD average, whereas pupils from vocational secondary schools performed significantly worse.",
+        "• Higher education faces challenges in adequately responding to regional and labor market needs, indicating a gap between academic training and employment requirements.",
+        "• Government initiatives aim to improve career guidance systems and establish a national digital network to track employment opportunities and facilitate labor market integration for graduates."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:16.869531",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Brain drain",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Hungary exhibits one of the highest levels of citizen emigration within the European Union, with particularly high rates among young people.",
+        "• Of those emigrating from Hungary, 44% are under the age of 30, and 77% are under the age of 40, indicating a significant youth migration trend.",
+        "• The majority of Hungarian emigrants relocate to Western or Central European countries, with common destination countries including Germany, Austria, and the United Kingdom.",
+        "• Since 2010, a total of 239,924 Hungarians have emigrated abroad, with the migration peak occurring in 2015.",
+        "• Young women constitute one of the primary demographic groups among emigrants, highlighting gender-specific migration patterns.",
+        "• The rise in emigration since 2010 coincides with the political shift when the Fidesz party came to power in Hungary.",
+        "• The main reasons for emigration include economic factors such as low wages in Hungary relative to the rest of the EU.",
+        "• According to data from the Hungarian Central Statistical Office, the number of Hungarian students enrolled in university decreased by 25% from 2003 to 2013, reflecting a decline in higher education participation.",
+        "• Approximately one-third of emigrants are college graduates, which contributes to the phenomenon of brain drain in Hungary.",
+        "• Economic instability is compounded by the Hungarian Forint's tendency to be less stable than the Euro, often experiencing high inflation rates.",
+        "• Besides economic reasons, familial, social, and educational factors also significantly influence emigration decisions.",
+        "• The high emigration rate, combined with low birth rates of 1.59 births per woman, leads to Hungary’s demographic challenges, including an aging and decreasing population."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:26.803314",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Social stratification",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Hungary's economy, like most post-communist countries, is significantly influenced by social stratification based on income and wealth, as well as disparities related to age, gender, and race.",
+        "• The Gini coefficient of Hungary is 0.269, ranking 11th globally, indicating relatively low income inequality.",
+        "• The Gini coefficient graph shows Hungary's income distribution is close to Denmark, a country recognized for high equality.",
+        "• The top 10% of Hungary's population receives 22.2% of the total income, highlighting income concentration among the wealthiest.",
+        "• According to the business magazine _Napi Gazdaság_, Sándor Demján owns Hungary's largest fortune valued at 300 billion HUF.",
+        "• The lowest 10% of the population earns only 4% of the total income, illustrating income disparity at the lower end.",
+        "• Approximately 13% of Hungary’s population lives under 60% of the per capita median income, indicating a significant poverty rate.",
+        "• The Human Development Report states Hungary's HPI-1 (Human Poverty Index) is 2.2%, ranking 3rd among 135 countries, reflecting levels of deprivation.",
+        "• Hungary's Human Development Index (HDI) is 0.879, placing it 43rd out of 182 countries, indicating high human development.",
+        "• The population pyramid reveals demographic trends, with a low fertility rate of 1.34 children per woman, ranking 205th in the world.",
+        "• Life expectancy at birth in Hungary is 73.3 years; the expected number of healthy years is 57.6 for females and 53.5 for males, with an overall average of 73.1 years.",
+        "• Hungary's Gender Development Index (GDI) is 0.879, equal to its HDI, making it the third-best in the world for gender-related development.",
+        "• Female labor force participation in Hungary is 55.5% among women aged 15–64.",
+        "• The ratio of girls to boys in primary and secondary education is nearly equal at 99%.",
+        "• Ethnic inequality predominantly affects the Roma population, with significant issues in employment and social integration.",
+        "• Following the fall of communism, the Roma employment rate decreased markedly due to layoffs of unskilled workers, with over one-third of Roma excluded from the labor market during transition years.",
+        "• At least two-thirds of Hungary’s poorest 300,000 people are Roma, highlighting the link between ethnicity and income inequality.",
+        "• Ethnic discrimination against Roma is high, with 32% experiencing discrimination when seeking employment.",
+        "• New Roma entrants to the labor market face substantial barriers to employment, leading to motivation deficits, increased segregation, and persistent unemployment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:32.522393",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Institutional quality",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Twenty years after Hungary's regime change, corruption remains a significant and persistent issue within the country.",
+        "• According to Transparency International Hungary, nearly one-third of top managers admit to regularly bribing politicians, indicating a high prevalence of corrupt practices among leadership.",
+        "• The sector most affected by bribery, as perceived by the Hungarian population, is the political party system, with 42% of people identifying it as the most impacted area.",
+        "• Bribery is also widespread in the healthcare system, where it often manifests as gratitude payments; 92% of the population believes that some form of payment should be made to medical professionals such as the head surgeon performing a heart operation or an obstetrician during childbirth.",
+        "• Administrative burdens pose a significant challenge to doing business in Hungary; the country ranks 47th out of 183 nations in the ease of doing business globally.",
+        "• The process of starting a new business in Hungary takes approximately five days, placing the country at 29th position worldwide in this category.",
+        "• Hungary is ranked 122nd in the ease of paying taxes, reflecting considerable administrative and procedural difficulties in fulfilling tax obligations.",
+        "• The Hungarian legal system is founded on the separation of powers, ensuring judicial independence from the legislative and executive branches; courts and prosecutions are not influenced by government authorities.",
+        "• Despite judicial independence, the legal system is characterized by slowness and overburden, resulting in lengthy and inefficient proceedings and rulings.",
+        "• The inefficiency and delays within the justice system hinder its capacity to effectively prosecute corruption and safeguard the country's financial interests."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:36.311002",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "3.6",
+      "section_name": "Monetary policy",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section on the economy of Hungary, specifically the monetary policy, requires updates to reflect recent events or new information, with the last update noted as September 2009 and August 2015.",
+        "• The Hungarian National Bank (Magyar Nemzeti Bank, MNB) is the central authority responsible for controlling Hungary's monetary policy.",
+        "• The MNB was established under the Law of the Hungarian National Bank, which became operative in 2001 (Law LVIII).",
+        "• The primary objective of the MNB is to achieve and maintain price stability, aligning with European and international standards.",
+        "• Price stability is defined as maintaining a low, but positive inflation rate, typically around 2–2.5% based on international observations.",
+        "• The European Central Bank (ECB) aims for inflation rates below but close to 2% over the medium term.",
+        "• Due to Hungary's ongoing economic catch-up process (Balassa-Samuelson effect), the long-term inflation target is slightly higher, approximately 2.3–3.2%.",
+        "• The medium-term inflation target set by the Hungarian National Bank is 3%.",
+        "• Since 26 February 2008, Hungary has adopted a floating exchange rate system, allowing the Hungarian Forint (HUF) to fluctuate freely based on market forces against the euro (EUR).",
+        "• From June 2008 to September 2009, forint exchange rates were monitored against the British pound (GBP), euro (EUR), Swiss franc (CHF), and U.S. dollar (USD).",
+        "• During this period, the forint experienced a weakening during the Great Recession and subsequently appreciated.",
+        "• The peak exchange rate against the euro occurred on 18 June 2008, when 1000 Forint equaled €4.36, and €1 was equivalent to 229.11 Forint.",
+        "• The weakest point for the forint against the euro was on 6 March 2009, with 1000 Forint equal to €3.16, and €1 costing 316 Forint.",
+        "• Against the USD, the highest exchange rate was on 22 June 2008, with 1000 HUF/USD at 6.94, and the lowest on 6 March 2009, at 4.01.",
+        "• As of 24 March 2015, the euro was valued at 299.1450 HUF, and the U.S. dollar at 274.1650 HUF."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:45.321282",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "3.7",
+      "section_name": "Fiscal policy",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Hungary has issued bonds with maturities of 15 years, 10 years, 1 year, and 3 months, indicating a diversified debt maturity profile.",
+        "• In Hungary, the proportion of state revenue constitutes approximately 44% of the Gross Domestic Product (GDP), while government expenditure accounts for about 45% of GDP, which is relatively high compared to other European Union (EU) member states.",
+        "• The elevated levels of public revenue and expenditure are attributed to historical factors such as Hungary’s socialist economic tradition and cultural characteristics that promote paternalist behavior, leading to a habitual expectation among the population for state subsidies.",
+        "• Some economists dispute the view that these high expenditure levels are solely due to cultural factors, arguing instead that government spending increased to its current critical levels starting from 2001 during two consecutive left-wing government cycles.",
+        "• Upon joining the EU, Hungary also committed to joining the Eurozone, with the Maastricht criteria serving as the primary guidelines for fiscal policy adjustments necessary for Eurozone accession.",
+        "• Despite notable progress, recent fiscal statistics reveal significant discrepancies between Hungary’s current indices and the Maastricht criteria, and the specific target date for adopting the Euro has not been established.",
+        "• The general government budget deficit in Hungary decreased markedly from −9.2% of GDP in 2006 to −3.4% in 2008.",
+        "• According to forecasts by the Hungarian National Bank (MNB), Hungary’s government deficit was expected to fall slightly short of the Maastricht criterion of 3.0% until 2011.",
+        "• The ratio of gross government debt to GDP has exceeded the Maastricht limit of 60% since 2005.",
+        "• In 2008, Hungary’s gross government debt-to-GDP ratio increased from 65.67% to 72.61%, primarily due to the financial assistance package arranged with the International Monetary Fund (IMF).",
+        "• Hungary’s balance of payments on its current account has been negative since 1995, with deficits ranging between 6% and 8% during the 2000s, reaching a peak deficit of 8.5% in 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:50.953641",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "3.8",
+      "section_name": "Tax system",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Hungarian tax system was comprehensively reformed in 1988, establishing a structure that primarily includes central and local taxes.",
+        "• The main taxes introduced are personal income tax, corporate income tax, and value added tax (VAT).",
+        "• Local taxes constitute only 5% of the total tax revenue in Hungary, significantly lower than the EU average of 30%.",
+        "• Until 2010, Hungary employed a progressive income tax system where tax rates depended on income levels:",
+        "• In January 2011, Hungary implemented a new one-rate income tax regime, setting a uniform tax rate of 16% for all income brackets.",
+        "• According to 2008 income-tax return data, 14.6% of taxpayers accounted for 64.5% of the total tax burden, indicating a high concentration of tax payments among higher earners.",
+        "• Prior to the 2011 corporate tax reform, the corporate income tax was fixed at 16% of the positive rateable value, with an additional solidarity tax of 4%, calculated based on the company's pre-tax result; this solidarity tax has been in effect since September 2006.",
+        "• The actual rateable value used for tax calculation could differ between the corporate income tax and the solidarity tax assessments.",
+        "• From January 2011, the corporate income tax rate was divided into two tiers:",
+        "• After 2013, Hungary planned to unify the corporate income tax rate at 10%, regardless of the company's net income before tax.",
+        "• In January 2017, Hungary further reduced the corporate tax rate to 9%, making it the lowest in the European Union.",
+        "• The value added tax (VAT) rate in Hungary is 27%, which has been the highest in Europe since 1 January 2012."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:34:54.229630",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "4",
+      "section_name": "Miscellaneous data",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section presents a comprehensive table of Hungary's main economic indicators spanning from 1980 to 2024, highlighting trends and key statistics over this period.",
+        "• The table includes data on Gross Domestic Product (GDP) in billions of US dollars (PPP), GDP per capita in US dollars (PPP), nominal GDP in US dollars, real GDP growth rates, inflation rates, unemployment rates, and government debt as a percentage of GDP.",
+        "• In 1980, Hungary's GDP was 68.3 billion USD (PPP), with a GDP per capita of 6,376 USD (PPP), and a nominal GDP of 23.0 billion USD; the economy experienced a minimal inflation rate of 0.2%, and unemployment was at 9.3%, with government debt data not available.",
+        "• Throughout the 1980s, Hungary's GDP steadily increased from 68.3 billion USD in 1980 to 115.0 billion USD in 1989, with notable fluctuations in inflation and unemployment, including a peak unemployment of 17.0% in 1989.",
+        "• The early 1990s saw a decline in GDP to 104.9 billion USD in 1991, accompanied by a significant increase in unemployment to 34.2% and inflation reaching 8.4% in 1995, with government debt decreasing from 84.1% in 1995 to 71.3% in 1996.",
+        "• From 1996 onwards, Hungary experienced consistent GDP growth, reaching 146.7 billion USD in 2000, with inflation generally remaining below 3%, and unemployment rates decreasing to around 6%.",
+        "• The period from 2000 to 2008 saw substantial economic growth, with GDP rising from 146.7 billion USD to 230.2 billion USD, and inflation rates mostly under 7%, although 2009 marked a recession with a GDP decline of −6.6% and government debt rising to 77.5%.",
+        "• Post-2009, Hungary's economy recovered, with GDP increasing annually, reaching 409.0 billion USD in 2022, and inflation rates fluctuating, notably reaching 14.5% in 2022, with unemployment decreasing to 3.6%.",
+        "• In 2023, Hungary's GDP was 426.9 billion USD, with a GDP per capita of 43,907 USD, and a nominal GDP of 212.5 billion USD; inflation was at 0.6%, and unemployment at 17.7%, with government debt at 73.2% of GDP.",
+        "• The projected data for 2024 shows further growth, with GDP at 450.4 billion USD, GDP per capita at 46,332 USD, and nominal GDP at 228.8 billion USD; inflation is estimated at 3.1%, unemployment at 5.4%, and government debt at 70.0%.",
+        "• Inflation rates under 2% are highlighted in green in the table, indicating periods of low inflation, notably in 2007, 2008, 2013, 2014, and 2015.",
+        "• The telecommunication market data from the Hungarian Statistical Office (3Q 2011) reports that in October 2011, Hungary had 4,001,976 households with access to fixed and mobile telephony.",
+        "• The number of landline telephones was 2,884,000, representing 72.1% of households and 28.9% of inhabitants.",
+        "• Mobile telephone subscriptions totaled 11,669,000, with a mobile penetration rate of 117.1% relative to the population as of December 2011.",
+        "• Broadband penetration data from October 2011 indicates 2,111,967 fixed broadband subscriptions and 1,872,178 mobile broadband subscriptions.",
+        "• Fixed broadband coverage reached 52.8% of households, while mobile broadband coverage was at 43.4% as of December 2011 and January 2012 respectively.",
+        "• In 2009, 65% of individuals used computers, and 62% used the internet, reflecting digital engagement levels at that time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:35:35.703958",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "5",
+      "section_name": "External relations",
+      "chapter_name": "Economy of Hungary",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Hungary joined the European Union on May 1, 2004, following a successful referendum among the EU-10 countries.",
+        "• The accession to the EU's free trade system benefits Hungary by facilitating its export and import activities, which are vital due to its relatively small size.",
+        "• Post-accession, Hungarian workers gained immediate rights to work in Ireland, Sweden, and the United Kingdom; however, other EU member states imposed restrictions on Hungarian labor mobility.",
+        "• In 2007, 25% of Hungary's total exports consisted of high-technology products, making it the fifth-largest ratio within the European Union.",
+        "• The countries with higher ratios of high-technology exports in 2007 were Malta, Cyprus, Ireland, and the Netherlands.",
+        "• The EU-10 average for high-technology exports in 2007 was 17.1%.",
+        "• The Eurozone average for high-technology exports in 2007 was 16%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:35:38.878322",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_hungary.json",
+      "original_index": 31
+    }
+  ]
+}

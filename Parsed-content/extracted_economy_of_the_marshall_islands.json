@@ -1,0 +1,177 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_marshall_islands.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.206797",
+    "total_sections_in_source": 7,
+    "extracted_sections_count": 7,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Marshall Islands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The government of the Marshall Islands is the largest employer in the country, employing 30.6% of the workforce, which represents a decrease of 3.4% since 1988.",
+        "• The Gross Domestic Product (GDP) of the Marshall Islands is primarily derived from payments made by the United States under the terms of the amended Compact of Free Association.",
+        "• Direct financial aid from the United States accounts for 60% of the Marshall Islands' national budget, which totals $90 million.",
+        "• The principal economic activities in the Marshall Islands include copra production and fisheries, forming the backbone of the local economy.",
+        "• Under the Compact of Free Association, Marshallese citizens have the right to travel and work in the United States without requiring visas, a policy that has contributed to a population decline of more than 22% between the years 2000 and 2021.",
+        "• The Marshall Islands does not have a central bank, and its official currency is the United States Dollar (USD).",
+        "• On 2 April 2025, then-President Donald Trump announced the imposition of a 10% tariff on goods from the Marshall Islands."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:29.840199",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_marshall_islands.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Subsistence economy",
+      "chapter_name": "Economy of the Marshall Islands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The subsistence economy of the Marshall Islands primarily involves fishing and the cultivation of breadfruit, banana, taro, and pandanus.",
+        "• On the outer islands, the production of copra and handicrafts serves as a source of cash income for local inhabitants.",
+        "• The modern, service-oriented economy is concentrated in the urban centers of Majuro and Ebeye.",
+        "• This modern economy is supported largely by government expenditures and the presence of the U.S. Army installation located at Kwajalein Atoll.",
+        "• The airfield at Kwajalein Atoll functions as a secondary national hub for international flights, complementing the primary airport infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:27.489228",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_marshall_islands.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Modern economy",
+      "chapter_name": "Economy of the Marshall Islands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The modern economic sector of the Marshall Islands includes wholesale and retail trade, restaurants, banking and insurance services, offshore company registration, construction, repair, professional services, and copra processing.",
+        "• Company formation in the Marshall Islands is accessible to both residents and non-residents, with non-residents benefiting from privacy protections and exemption from local taxes.",
+        "• Copra cake and copra oil constitute the largest exports of the nation by a significant margin.",
+        "• A tuna processing plant in the Marshall Islands employs approximately 300 workers, predominantly women, who earn wages of $1.50 per hour.",
+        "• Copra production has been the most important single commercial activity in the Marshall Islands for the past 100 years but currently relies on government subsidies to remain viable.",
+        "• These government subsidies for copra production function more as a social policy aimed at reducing migration from outer atolls to the more densely populated areas of Majuro and Ebeye rather than as an economic strategy.",
+        "• Marine resources, including fishing, aquaculture, tourism development, and agriculture, are prioritized by the government as key areas for economic development.",
+        "• The Marshall Islands generates income by selling fishing rights to other countries.",
+        "• In recent years, the Marshall Islands has initiated the registration of ships under its national flag as an additional source of revenue.",
+        "• Due to its small size and limited domestic production, the Marshall Islands imports a wide range of goods, including foodstuffs, consumer goods, machinery, and petroleum products.",
+        "• In 2019, the Marshall Islands signed a bilateral trade agreement with Taiwan; this agreement was approved in 2023 and is scheduled to take effect at a future date."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:30.455425",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_marshall_islands.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Coconut oil",
+      "chapter_name": "Economy of the Marshall Islands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Power authorities, private companies, and entrepreneurs in the Marshall Islands are actively experimenting with coconut oil as an alternative fuel source to diesel for vehicles, power generators, and ships.",
+        "• Coconut trees are abundant throughout the tropical islands of the Pacific, providing a readily available raw material for coconut oil production.",
+        "• The production of one liter of coconut oil requires the copra derived from approximately 6 to 10 coconuts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:26.460173",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_the_marshall_islands.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Digital currency",
+      "chapter_name": "Economy of the Marshall Islands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In February 2018, the government of the Marshall Islands enacted the Sovereign Currency Act of 2018 to create a national digital currency called the Marshallese Sovereign (SOV), aiming to reduce the country's reliance on the U.S. dollar.",
+        "• The introduction of the SOV led to a vote of no confidence against President Hilda Heine, who supported the digital currency initiative; this vote occurred in November 2018 but failed due to a parliamentary deadlock.",
+        "• The SOV is designed to function as a second legal tender in the Marshall Islands, operating alongside the U.S. dollar rather than replacing it.",
+        "• The International Monetary Fund (IMF) has stated that the SOV does not qualify as a central bank digital currency and has expressed concerns regarding potential macroeconomic risks and threats to financial integrity associated with the digital currency.",
+        "• Despite opposition from the IMF, the U.S. Treasury Department, and various banking institutions, the Marshallese government has persisted in its efforts to develop and implement the SOV.",
+        "• The Marshall Islands is utilizing Algorand’s open-source blockchain technology to maintain the ledger for the SOV digital currency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:28.714963",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_marshall_islands.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Gross domestic product",
+      "chapter_name": "Economy of the Marshall Islands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Gross Domestic Product (GDP) of the Marshall Islands at purchasing power parity was estimated at $150 million in 2011.",
+        "• The real GDP growth rate of the Marshall Islands was approximately 3% in 2011.",
+        "• The GDP per capita at purchasing power parity for the Marshall Islands was estimated at $2,500 in 2011.",
+        "• The GDP composition by sector in 2008 was as follows: agriculture accounted for 22%, industry for 18%, and services for 60%.",
+        "• The Marshall Islands possess few natural resources, resulting in imports significantly exceeding exports.",
+        "• According to the CIA World Factbook, the value of exports from the Marshall Islands in 2013 was approximately $53.7 million.",
+        "• Estimated imports for the Marshall Islands in 2013 were about $133.7 million, indicating a substantial trade deficit.",
+        "• Key agricultural products of the Marshall Islands include coconuts, tomatoes, melons, taro, breadfruit, various fruits, pigs, and chickens.",
+        "• The industrial sector comprises the production of copra, craft items, tuna processing, and tourism-related activities.",
+        "• The CIA estimated the GDP of the Marshall Islands in 2016 to be approximately $180 million.",
+        "• The real GDP growth rate in 2016 was estimated at 1.7%.",
+        "• The GDP per capita in 2016 was estimated to be $3,300."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:30.145852",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_the_marshall_islands.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "Marshall Island productivity",
+      "chapter_name": "Economy of the Marshall Islands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The inflation rate for consumer prices in the Marshall Islands was recorded at 5% in 2007.",
+        "• In 2008, the labor force distribution by occupation was 48% in agriculture, 12% in industry, and 40% in services.",
+        "• The unemployment rate was estimated at 8% in 2011.",
+        "• The national budget for fiscal year 2008/2009 estimated revenues at $169.5 million and expenditures at $112.1 million, which included capital expenditures of $19.5 million.",
+        "• Key industries in the Marshall Islands include copra production, fishing, tourism, craft items made from shell, wood, and pearls, and an embryonic offshore banking sector.",
+        "• Electricity production in 2008 totaled 114 GWh; however, the specific production percentages by fossil fuel, hydro, nuclear, or other sources were not available.",
+        "• Electricity consumption was 57 GWh in 1994, with no recorded electricity exports or imports in that year (0 kWh for both).",
+        "• Agricultural products consist of coconuts, cacao, taro, breadfruit, various fruits, as well as livestock such as pigs and chickens.",
+        "• Export value was approximately $132 million (f.o.b.) in 2008, with main export commodities including fish, coconut oil, and trochus shells.",
+        "• The primary export partners for the Marshall Islands are the United States, Japan, Australia, and New Zealand.",
+        "• Imports in 2008 were valued at $125 million (f.o.b.), consisting mainly of foodstuffs, machinery and equipment, fuels, beverages, and tobacco.",
+        "• Major import partners include the United States, Japan, Australia, New Zealand, Guam, and Singapore.",
+        "• External debt was estimated at $68 million in 2008.",
+        "• The Marshall Islands receives approximately $40 million annually in economic aid from the United States.",
+        "• The official currency is the United States dollar (US$), with 1 US dollar equal to 100 cents, and US currency is used for all transactions.",
+        "• The fiscal year in the Marshall Islands runs from 1 October to 30 September.",
+        "• Data on population below the poverty line, household income or consumption by percentage share for the lowest and highest 10%, labor force size, and industrial production growth rate were not available."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:38.239824",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_the_marshall_islands.json",
+      "original_index": 6
+    }
+  ]
+}

@@ -1,0 +1,1529 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_china.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.665503",
+    "total_sections_in_source": 51,
+    "extracted_sections_count": 51,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The People's Republic of China is characterized as a developing mixed socialist market economy that integrates industrial policies and strategic five-year plans to guide economic development.",
+        "• China ranks as the world's second largest economy by nominal GDP and has been the largest economy globally since 2016 when measured by purchasing power parity (PPP).",
+        "• In 2022, China contributed approximately 19% to the global economy in PPP terms and around 18% in nominal terms.",
+        "• The Chinese economy comprises state-owned enterprises (SOEs), mixed-ownership enterprises, and a substantial domestic private sector, which collectively contribute about 60% of GDP, 80% of urban employment, and 90% of new jobs.",
+        "• The economic system maintains a high degree of openness to foreign businesses, facilitating international trade and investment.",
+        "• China is the world's largest manufacturing industrial economy and the leading exporter of goods, widely recognized as the \"powerhouse of manufacturing,\" \"the factory of the world,\" and a \"manufacturing superpower.\"",
+        "• The total manufacturing output of China exceeds that of the next nine largest manufacturing countries combined.",
+        "• Despite its manufacturing dominance, exports as a percentage of GDP have declined steadily to approximately 20%, indicating a decreasing relative importance of exports to the Chinese economy.",
+        "• China remains the largest trading nation globally and plays a significant role in international trade dynamics.",
+        "• The manufacturing sector is transitioning toward high-tech industries, including electric vehicles, renewable energy, telecommunications, and IT equipment, with services increasingly contributing to GDP.",
+        "• China is the world's largest exporter of high technology products.",
+        "• As of 2021, China allocates around 2.43% of its GDP to research and development across various sectors.",
+        "• The country is the fastest-growing consumer market worldwide and the second-largest importer of goods.",
+        "• China is the largest consumer of numerous commodities, accounting for about half of global metal consumption, and is a net importer of services.",
+        "• The country maintains bilateral free trade agreements with many nations and is a member of the Regional Comprehensive Economic Partnership (RCEP).",
+        "• Among the world's 500 largest companies, 142 are headquartered in China.",
+        "• China hosts three of the world's top ten most competitive financial centers and three of the ten largest stock exchanges by market capitalization and trade volume.",
+        "• As of 2021, China’s financial assets totaled approximately $17.9 trillion, making it the second-largest in the world.",
+        "• In 2020, China was the largest recipient of foreign direct investment (FDI), attracting inflows of $163 billion; however, recent FDI inflows have sharply declined to negative levels.",
+        "• China has the second-largest outbound FDI, amounting to US$136.91 billion in 2019.",
+        "• Economic growth in China has slowed in the 2020s due to challenges such as a rapidly aging population, rising youth unemployment, and a property crisis.",
+        "• The Chinese labor force comprised 791 million workers in 2021, making it the largest globally, according to _The World Factbook_.",
+        "• As of 2022, China ranked second in the world in the total number of billionaires and second in millionaires, with approximately 6.2 million.",
+        "• China possesses the largest middle class worldwide, with over 500 million individuals earning more than RMB 120,000 annually.",
+        "• Public social expenditure in China was approximately 10% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:09:06.697510",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to Angus Maddison's estimates, the contribution of major economies to the world's GDP from 1 CE to 2003 CE shows that until the 18th century, China and India were the two largest economies by GDP output.",
+        "• GDP per capita in China from 1000 to 2018 demonstrates long-term economic fluctuations and growth trends over nearly a millennium.",
+        "• Historically, China was one of the world's leading economic powers during the two-millennia _Pax Sinica_ period, spanning from the 1st century until the 19th century.",
+        "• China accounted for approximately one-quarter to one-third of global GDP until the mid-1800s, reflecting its dominant economic position during this era.",
+        "• In 1820, China’s share of global GDP was one-third, coinciding with the beginning of the Industrial Revolution in Great Britain.",
+        "• In 1820, China’s GDP was six times larger than that of Britain, the largest European economy at the time, and nearly twenty times the GDP of the nascent United States.",
+        "• Following the Chinese Civil War, China’s economy was severely devastated; the defeated Nationalists fled to Taiwan, taking liquid assets such as gold, silver, and dollar reserves, which depleted China’s financial resources.",
+        "• By the end of the Chinese Civil War, commerce was destroyed, the national currency became worthless, and the economy reverted to barter-based transactions.",
+        "• The People's Republic of China (PRC) transitioned from one of the poorest countries to one of the largest economies in the shortest period in history, with rapid development starting after 1949.",
+        "• From 1949 until the economic reforms of 1978 under Deng Xiaoping, China’s economy was predominantly state-led with underground market activities.",
+        "• Economic reforms initiated under Deng Xiaoping marked a turning point, leading China to become the world’s fastest-growing major economy, with average growth rates of about 10% over three decades.",
+        "• Many scholars describe the Chinese economic model as a form of authoritarian capitalism, state capitalism, or party-state capitalism, especially under the leadership of Xi Jinping.",
+        "• Between 1978 and 2018, China lifted approximately 800 million people out of extreme poverty, the largest reduction in absolute numbers in human history.",
+        "• The percentage of China’s population living in extreme poverty decreased from 88.1% in 1981 to 0.2% in 2019.",
+        "• China’s current account surplus increased by a factor of 53 from $5.67 billion in 1982 to $317 billion in 2021.",
+        "• During this period, China evolved from low-wage sectors like clothing and footwear to producing sophisticated goods such as computers, pharmaceuticals, and automobiles.",
+        "• China’s manufacturing sector generated $3.7 trillion in real manufacturing value added, surpassing the combined output of the US, South Korea, Germany, and the UK.",
+        "• China benefits from one of the world’s largest domestic markets, extensive manufacturing scale, and highly developed supply chains.",
+        "• It hosts two of the global top 5 science and technology clusters: Shenzhen-Hong Kong-Guangzhou and Beijing, more than any other country.",
+        "• China’s sustained growth has been driven by export relations, its manufacturing sector, and a large low-wage workforce.",
+        "• China was the only major economy to experience GDP growth in 2020, with a 2.3% increase despite global economic downturns.",
+        "• In 2022, China faced one of its worst economic performances in decades due to the COVID-19 pandemic.",
+        "• The IMF predicted in 2023 that China would continue to be one of the fastest-growing major economies.",
+        "• China’s economy significantly contributes to rising global greenhouse gas emissions, thus impacting climate change, although its per capita emissions remain lower than developed economies like the United States."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:09:13.790361",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Regional economies",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China's regional economies exhibit significant disparities due to an uneven transportation system, differences in natural and human resource availability, and variations in industrial infrastructure.",
+        "• These factors have led to notable variations in economic development across different regions of China.",
+        "• The economic growth of Shenzhen has been so prominent that it is often referred to as the \"world's next Silicon Valley.\"",
+        "• Generally, coastal provinces in China have experienced more rapid economic development compared to inland regions.",
+        "• There are substantial disparities in per capita income among different regions in China.",
+        "• The three wealthiest regions are identified as the Yangtze Delta in East China, the Pearl River Delta in South China, and the Jing-Jin-Ji region in North China.",
+        "• The rapid development of these three regions is expected to significantly influence the overall Asian regional economy.",
+        "• Chinese government policies are aimed at removing obstacles to accelerate growth specifically in these wealthier regions.",
+        "• By the year 2035, it is projected that four Chinese cities—Shanghai, Beijing, Guangzhou, and Shenzhen—will rank among the top ten largest cities globally by nominal GDP, according to a report by Oxford Economics."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:09:16.842867",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "GDP by administrative division",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section provides a list of 31 provinces in mainland China ranked by their Nominal GDP in 2022, measured in billions of Chinese Yuan (CN¥), US Dollars (US$), and their share of the total GDP.",
+        "• The total Nominal GDP of mainland China in 2022 is CN¥ 141,020.72 billion, equivalent to US$ 19,700.70 billion, accounting for 100% of the country's GDP.",
+        "• Guangdong Province has the highest GDP among the provinces, with CN¥ 13,911.86 billion (US$ 2,119.67 billion), representing approximately 10.67% of the total GDP.",
+        "• Jiangsu Province ranks second with CN¥ 12,287.56 billion (US$ 1,826.85 billion), making up about 10.15% of the total GDP.",
+        "• Shandong Province follows with CN¥ 8,743.51 billion (US$ 1,299.94 billion), contributing 7.22% to the overall GDP.",
+        "• Zhejiang Province's GDP is CN¥ 7,771.54 billion (US$ 1,155.43 billion), accounting for 6.42% of the total.",
+        "• Henan Province's GDP is CN¥ 6,134.51 billion (US$ 912.05 billion), representing 5.07% of the total.",
+        "• Sichuan Province has a GDP of CN¥ 10,674.98 billion (US$ 1,843.73 billion), which is 4.69% of the national GDP.",
+        "• Hubei Province's GDP stands at CN¥ 5,373.49 billion (US$ 798.90 billion), making up 4.44%.",
+        "• Fujian Province's GDP is CN¥ 5,310.99 billion (US$ 789.61 billion), representing 4.39%.",
+        "• Hunan Province has a GDP of CN¥ 4,867.04 billion (US$ 723.61 billion), accounting for 4.02%.",
+        "• Anhui Province's GDP is CN¥ 4,504.50 billion (US$ 669.70 billion), constituting 3.72%.",
+        "• Shanghai, as a major economic hub, has a GDP of CN¥ 4,465.28 billion (US$ 663.87 billion), representing 3.69%.",
+        "• Hebei Province's GDP is CN¥ 4,237.04 billion (US$ 629.94 billion), making up 3.50%.",
+        "• Beijing's GDP is CN¥ 4,161.10 billion (US$ 618.65 billion), accounting for 3.44%.",
+        "• Shaanxi Province's GDP is CN¥ 3,277.27 billion (US$ 487.25 billion), representing 2.71%.",
+        "• Jiangxi Province has a GDP of CN¥ 3,207.47 billion (US$ 476.87 billion), constituting 2.65%.",
+        "• Chongqing's GDP is CN¥ 2,912.90 billion (US$ 433.07 billion), making up 2.41%.",
+        "• Liaoning Province's GDP is CN¥ 2,897.51 billion (US$ 430.79 billion), representing 2.39%.",
+        "• Yunnan Province's GDP is CN¥ 2,895.42 billion (US$ 430.48 billion), also 2.39%.",
+        "• Guangxi Province's GDP stands at CN¥ 2,630.09 billion (US$ 391.03 billion), accounting for 2.17%.",
+        "• Shanxi Province's GDP is CN¥ 2,564.26 billion (US$ 381.24 billion), representing 2.12%.",
+        "• Inner Mongolia's GDP is CN¥ 2,315.87 billion (US$ 344.31 billion), constituting 1.91%.",
+        "• Guizhou Province's GDP is CN¥ 2,016.46 billion (US$ 299.80 billion), making up 1.67%.",
+        "• Xinjiang's GDP is CN¥ 1,774.13 billion (US$ 263.77 billion), accounting for 1.47%.",
+        "• Tianjin's GDP is CN¥ 1,631.13 billion (US$ 242.51 billion), representing 1.35%.",
+        "• Heilongjiang Province's GDP is CN¥ 1,590.10 billion (US$ 236.41 billion), constituting 1.31%.",
+        "• Jilin Province's GDP is CN¥ 1,307.02 billion (US$ 194.32 billion), making up 1.08%.",
+        "• Gansu Province's GDP is CN¥ 1,120.16 billion (US$ 166.54 billion), representing 0.93%.",
+        "• Hainan Province's GDP is CN¥ 681.82 billion (US$ 101.37 billion), accounting for 0.56%.",
+        "• Ningxia Hui Autonomous Region's GDP is CN¥ 506.96 billion (US$ 75.37 billion), constituting 0.42%.",
+        "• Qinghai Province's GDP is CN¥ 361.01 billion (US$ 53.67 billion), making up 0.30%.",
+        "• Tibet Autonomous Region's GDP is CN¥ 213.26 billion (US$ 31.71 billion), representing 0.18%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:09:29.995966",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 33
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Hong Kong and Macau",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Under the \"one country, two systems\" policy, Hong Kong and Macau, formerly British and Portuguese colonies respectively, maintain distinct economic systems from mainland China.",
+        "• Both regions officially preserve a capitalist economic framework that operates independently from the socialist market economy of mainland China.",
+        "• Hong Kong's economy is characterized by free-market principles, a high degree of economic autonomy, and a significant financial services sector.",
+        "• Macau's economy is heavily reliant on tourism, particularly casino gaming, which constitutes a major portion of its GDP.",
+        "• The preservation of capitalist systems in Hong Kong and Macau is intended to ensure stability, attract foreign investment, and sustain their roles as international financial and tourism hubs.",
+        "• These regions operate under their own legal and economic systems, with Hong Kong having its own currency, the Hong Kong dollar, and Macau using the Macanese pataca.",
+        "• The economic policies of Hong Kong and Macau are governed by their respective local governments, with minimal interference from mainland China's central authorities in economic affairs.",
+        "• The special administrative regions (SARs) have their own customs, immigration, and legal systems, further reinforcing their economic independence.",
+        "• The maintenance of capitalist systems in Hong Kong and Macau is a core aspect of the \"one country, two systems\" policy, established to ensure their continued prosperity and stability within the People's Republic of China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:09:33.548511",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Regional development",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The strategies for regional development in China are specifically targeted at relatively underdeveloped regions to address issues of uneven economic growth across the country.",
+        "• China Western Development is a regional strategy aimed at increasing the economic status of western provinces through targeted investment and the development of natural resources.",
+        "• The Revitalize Northeast China plan seeks to rejuvenate the industrial bases in the northeastern region, encompassing the three provinces of Heilongjiang, Jilin, and Liaoning, as well as five eastern prefectures of Inner Mongolia.",
+        "• The Rise of Central China Plan is designed to accelerate economic development in central regions, covering six provinces: Shanxi, Henan, Anhui, Hubei, Hunan, and Jiangxi.",
+        "• During the Cold War period, the Third Front strategy focused on developing the southwestern provinces of China to strengthen national defense and economic resilience."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:09:38.346632",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Government",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China, along with other major developing economies, experienced rapid economic growth from 1990 to 2013, as evidenced by the increasing GDP per capita at purchasing-power parity, with visual representation highlighting China's significant growth trend during this period.",
+        "• The Chinese economy is characterized by state-led investment and industrial policy, supported by a substantial sector of state-owned enterprises (SOEs).",
+        "• The Chinese Communist Party (CCP) describes China's economic system as a socialist market economy, integrating market mechanisms with state control.",
+        "• The Chinese central government formulates and implements five-year plans to guide economic development, outlining key priorities and policies; the current plan is the fourteenth five-year plan (2021–2025).",
+        "• The fourteenth five-year plan emphasizes consumption-driven growth and technological self-sufficiency, as China transitions from an upper middle-income economy to a high-income economy.",
+        "• The public sector plays a central role in China's economy, aligning with the Chinese government's goals to achieve the Two Centenaries:",
+        "• The first goal is to become a moderately prosperous society in all respects by 2021.",
+        "• The second goal is to modernize China into a \"strong, democratic, civilized, harmonious and modern socialist country\" by 2049, the 100th anniversary of the founding of the People's Republic of China.",
+        "• Despite significant market reforms since the reform and opening-up period, China retains state control over the commanding heights of the economy, particularly in key industries such as infrastructure, telecommunications, and finance.",
+        "• Mechanisms through which the Chinese government maintains control include:",
+        "• Public property rights.",
+        "• Pervasive administrative involvement.",
+        "• CCP supervision of senior managers in key sectors.",
+        "• The Chinese government intervenes more actively in sectors where goods and services are socially and politically sensitive, notably in the commercial banking sector, compared to private equity, which involves fewer households.",
+        "• The state's involvement in finance, contracts, and resource allocation aims to mitigate market volatility and stabilize the economy.",
+        "• Local governments possess high levels of authority and autonomy in economic decision-making and have significantly contributed to national economic development.",
+        "• Local governments often provide incentives or subsidies to attract businesses, including tax incentives such as the \"three tax-free and three half-tax\" policy, allowing businesses to be exempt from corporate income tax for the first three years and pay half rate for the subsequent three years.",
+        "• In 2018, China’s share of global wealth was notable among world regions, and its export activity from 1990 to 2019 showed substantial growth, reflecting China's expanding role in international trade and economic influence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:09:46.582187",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "State-owned enterprises",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China's state-owned enterprises (SOEs) perform essential functions that benefit the state, including generating revenue for central and local governments through dividends and taxes, supporting urban employment, maintaining low prices for key input materials, channeling capital into targeted industries and technological sectors, facilitating redistribution to poorer interior and western provinces, and aiding the state's response to natural disasters, financial crises, and social instability, as noted by academic Wendy Leutert.",
+        "• According to Franklin Allen of Imperial College London, nearly 867,000 enterprises in China have some degree of state ownership.",
+        "• As of 2017, China has the highest number of SOEs globally, surpassing any other country, and also has the largest number of SOEs among large national companies.",
+        "• In 2019, SOEs accounted for over 60% of China's market capitalization.",
+        "• In 2020, China’s SOEs generated approximately US$15.98 trillion (101.36 trillion yuan) in GDP, representing 40% of the total GDP, which was US$15.98 trillion.",
+        "• The remaining 60% of China's GDP in 2020 was contributed by domestic and foreign private businesses and investments.",
+        "• As of the end of 2019, the total assets of all Chinese SOEs, including those in the financial sector, reached US$58.97 trillion.",
+        "• In 2015, the total assets of Chinese SOEs were valued at US$58.97 trillion.",
+        "• Ninety-one (91) Chinese SOEs were included in the 2020 Fortune Global 500 companies.",
+        "• As of 2023, private firms constitute only 37% of China's top-100 listed firms, according to data from the Peterson Institute for International Economics."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:09:52.347236",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Disputes over economic data",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• There are ongoing disputes regarding the reliability of official Chinese economic data, with claims from both foreign sources and some Chinese sources that these statistics overstate China's economic growth.",
+        "• Several Western academics and institutions have argued that China's actual economic growth is higher than official figures suggest.",
+        "• The Economist Intelligence Unit acknowledges that China's GDP data appears \"smoothed,\" but considers both nominal and real GDP figures to be broadly accurate.",
+        "• Conversely, some analysts contend that reported GDP growth figures are irreconcilable with other data from China, raising questions about their validity.",
+        "• In 2024, the United States Department of Agriculture ceased reliance on official Chinese government data due to concerns over its reliability.",
+        "• According to 2007 documents obtained by WikiLeaks, Liaoning Party Secretary and future Premier Li Keqiang expressed significant skepticism about China's GDP estimates, describing them as \"man-made\" and unreliable, and stated that data releases, especially GDP numbers, should be used \"for reference only.\"",
+        "• Li Keqiang developed the Li Keqiang index as an alternative measure of Chinese economic performance, which uses three variables he preferred, instead of official GDP figures.",
+        "• Chinese provinces and cities have long been suspected of \"cooking\" their economic data, with local officials' performance often judged based on economic performance metrics.",
+        "• Local governments face increased scrutiny over data manipulation, with CCP General Secretary Xi Jinping stating that economic data forgery \"not only hurt our judgment of the economic situation, but also seriously undermined the Communist Party's ideas and truth-seeking style.\"",
+        "• Gao Shanwen, chief economist at SDIC Securities and government adviser, stated at a Peterson Institute event on 12 December 2024 that \"we do not know the true number of China’s real growth figure,\" estimating actual growth at about 2% annually compared to the official 5%.",
+        "• Gao predicted that China's economy would grow by 3–4% annually over the next several years, but maintained that the official number would always be around 5%.",
+        "• Gao's comments reportedly led to a government ban on him speaking publicly; however, he did not lose his job, but the Securities Association of China ordered brokerages and investment firms to ensure their economists \"play a positive role,\" with non-compliance risking termination.",
+        "• In January 2025, Xi Jinping's aide Cai Qi ordered propaganda officials to block negative economic news.",
+        "• A 2019 research paper published by the Brookings Institution suggested that adjusting China's GDP time series using value-added tax data—considered highly resistant to fraud—indicates that China's economic growth may have been overstated by 1.7% annually between 2008 and 2016, leading to an overstatement of the economy's size by 12–16% in 2016.",
+        "• Multiple Western academics and institutions support the view that China's economy is likely underestimated; for example, a paper by the US-based National Bureau of Economic Research claims China's growth may be higher than official statistics indicate.",
+        "• An article by Hunter Clark, Maxim Pinkovskiya, and Xavier Sala-i-Martin (2018, Elsevier Science Direct) used satellite-recorded nighttime lights as an unbiased predictor of economic activity, suggesting China's actual growth rate exceeds official reports.",
+        "• Satellite measurements of light pollution are employed by some analysts to model Chinese economic growth, indicating that official data are more reliable but likely smoothed.",
+        "• According to the Federal Reserve Bank of St. Louis, China's official statistics are of relatively high quality compared to other developing and middle-income countries, with China ranking at the 83rd percentile of middle and low-income countries in 2016, up from the 38th percentile in 2004.",
+        "• A study by the Federal Reserve Bank of San Francisco found that China's official GDP figures are \"significantly and positively correlated\" with external measures such as import and export data, suggesting that China's official growth figures are not significantly understated.",
+        "• The Rhodium Group, an independent research think tank, has consistently questioned the accuracy of China's official GDP figures, arguing that recent overstatements are due to structural issues and \"authority bias\" in official data.",
+        "• Rhodium estimates that China's actual GDP growth in 2024 ranged between 2.4% and 2.8%, substantially lower than the official claim of 4.8%, indicating an overstatement of approximately 2 percentage points annually since at least 2022.",
+        "• If Rhodium's adjustments are accurate, China's economy could be around 10% smaller than reported since their tracking began, equating to a reduction of approximately $1.7 trillion in GDP.",
+        "• The discrepancies are attributed to collapsing real estate activity, declining local government investment, and weak household consumption, which official data fail to fully capture, thus misleadingly portraying stable growth.",
+        "• In 2024, property sector declines and infrastructure investment reductions were significant, yet official figures suggested stable contributions from these sectors.",
+        "• Official data also overstate government fiscal spending and household consumption, which Rhodium argues are critical indicators of economic health, and these were actually far weaker than reported.",
+        "• A 2015 study by Daniel H. Rosen and Beibei Bao indicated that China's GDP in 2008 was actually 13–16% larger than official data, and the 2013 GDP was closer to $10.5 trillion rather than the official $9.5 trillion.",
+        "• Arvind Subramanian, a former IMF economist and Peterson Institute senior fellow, estimated that China's GDP by Purchasing Power Parity in 2010 was about $14.8 trillion, significantly higher than the IMF's official estimate of $10.1 trillion, implying that China's GDP was underestimated by approximately 47%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:10:12.793650",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "National debt",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, China's total government debt was approximately CN¥ 94 trillion (US$ 14 trillion), representing about 77.1% of the country's Gross Domestic Product (GDP).",
+        "• In 2014, concerns were raised by many analysts regarding the overall size of China's government debt.",
+        "• At the end of 2014, the International Monetary Fund (IMF) reported that China's general government gross debt-to-GDP ratio was 41.44 percent.",
+        "• A 2015 IMF report concluded that China's public debt remained relatively low and on a stable trajectory, passing all standard stress tests except in scenarios involving contingent liability shocks, such as large-scale bank recapitalizations or financial system bailouts, which could be triggered by a potential rise in non-performing loans (NPLs) from deleveraging.",
+        "• According to the 2019 balance of payments report by the State Administration of Foreign Exchange (SAFE), the external debt balance of the entire Chinese government at year-end was 2% of GDP.",
+        "• Chinese authorities have dismissed analysts' concerns, asserting that \"the country still has room to increase government debt.\"",
+        "• Former Federal Reserve Chairman Ben Bernanke, in 2016, commented that China's debt issue is primarily an \"internal\" problem, noting that the majority of borrowings are issued in local currency.",
+        "• A 2019 survey conducted by the Organisation for Economic Co-operation and Development (OECD) found that China's corporate debt levels are higher than those of other major countries.",
+        "• Shadow banking in China has increased, posing risks to the financial system; this off-the-books debt is considered a grey area with significant estimates.",
+        "• The estimated amount of off-balance-sheet debt for local governments alone is as high as US$ 9 trillion or 63 trillion yuan, up from approximately 30 trillion yuan in 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:10:18.466590",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Regulatory environment and government revenues",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Despite rapid expansion of China's economy, its regulatory environment has lagged behind economic growth.",
+        "• Since Deng Xiaoping's open market reforms, the proliferation of new businesses has outstripped the government's capacity to regulate effectively.",
+        "• This regulatory gap has led businesses to adopt drastic measures to boost profit margins, often compromising consumer safety.",
+        "• The problem of insufficient regulation and safety concerns became more prominent in 2007.",
+        "• In 2007, the United States imposed a number of restrictions on problematic Chinese exports to address safety and quality issues."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:10:21.097901",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.4.1",
+      "section_name": "Anti-monopoly and competition law",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Chinese technology sector has been characterized by dominance of a few large entities, notably Ant Group and Tencent.",
+        "• The Xi Jinping Administration has undertaken efforts to enforce economic competition rules within this sector, including launching probes into major companies such as Alibaba and Tencent by Chinese economic regulators.",
+        "• During the 2020–2021 period, the administration's crackdown on tech giants and internet companies was part of a broader reform spree aimed at regulating the sector.",
+        "• These regulatory actions were followed by calls from the Politburo urging the elimination of monopolistic practices by large commercial retail firms, specifically targeting companies like Alibaba.",
+        "• In March 2021, Xi Jinping publicly declared that China would strengthen its antitrust enforcement to promote the healthy and sustainable development of the platform economy.",
+        "• As part of this initiative, two significant institutional changes occurred:",
+        "• In November 2021, China upgraded the bureaucratic status of the State Administration for Market Regulation’s (SAMR) antitrust bureau, elevating its authority and importance.",
+        "• In June 2022, China enacted major amendments to the Anti-Monopoly Law, including explicit provisions aimed at regulating the platform economy and addressing monopolistic behaviors within it."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:10:24.566689",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4",
+      "section_name": "Data",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents main economic indicators of China from 1980 to 2024, with IMF staff estimates for 2025–2029.",
+        "• Inflation rates below 5% are highlighted in green within the data.",
+        "• In 1980, China's GDP measured approximately 271.1 billion US dollars (PPP), with a GDP per capita of 275 US dollars (PPP), and a nominal GDP of 303.0 billion US dollars, with a GDP per capita of 307 US dollars (nominal).",
+        "• The GDP growth rate in 1980 was 7.9%, with no available data on inflation, unemployment, or government debt.",
+        "• From 1981 to 1989, China's GDP (PPP) increased from 311.8 billion US dollars to 920.7 billion US dollars, with GDP per capita rising from 312 to 817 US dollars (PPP).",
+        "• During the 1980s, inflation fluctuated between 2.0% and 15.2%, with unemployment data only available in 1981 (2.5%) and 1982 (2.0%).",
+        "• The nominal GDP grew from 288.7 billion US dollars in 1981 to 458.2 billion US dollars in 1989, with nominal GDP per capita increasing from 288 to 407 US dollars.",
+        "• The 1990s saw continued rapid growth: in 1990, GDP (PPP) was 992.2 billion US dollars, rising to 1,758.8 billion in 1994, and reaching 2,952.2 billion in 1999.",
+        "• GDP per capita (PPP) increased from 868 US dollars in 1990 to 1,467 in 1994, and to 2,347 in 1999; nominal GDP per capita rose from 951 to 865 US dollars over the decade.",
+        "• The 1990s experienced high inflation peaks, notably 24.3% in 1994, and unemployment data was only available in 1995 (16.8%) and 1996 (8.3%).",
+        "• Government debt as a percentage of GDP was first reported in 1995 at 21.6%, then slightly decreased to around 20.6% in 1997, and increased to 21.9% in 1999.",
+        "• The 2000s marked significant economic expansion: GDP (PPP) grew from 3,274.9 billion US dollars in 2000 to 8,921.0 billion in 2008, with GDP per capita rising from 2,584 to 6,718 US dollars (nominal).",
+        "• GDP growth rates in the 2000s ranged from 8.3% in 2001 to 14.2% in 2007; inflation varied from -0.8% in 2002 to 11.4% in 2005.",
+        "• Unemployment remained relatively low, generally below 5%, with data available in 2001 (0.7%) and 2007 (4.8%).",
+        "• Government debt as a percentage of GDP increased from 23.0% in 2000 to 29.2% in 2007.",
+        "• The global financial crisis in 2008 resulted in a GDP growth rate of 9.6% and inflation at 5.8%, with unemployment at 5.8%.",
+        "• Post-2008, China's economy continued to grow: in 2010, GDP (PPP) reached 10,998.3 billion US dollars, with a GDP per capita of 8,202 US dollars (nominal).",
+        "• The GDP growth rate declined to 9.4% in 2009 and further to 7.8% in 2012 and 2013, stabilizing around 6.7% to 7.4% in subsequent years.",
+        "• Inflation rates fluctuated, with notable low points such as 0.2% in 2023 and 0.4% in 2024, indicating periods of low inflation.",
+        "• Unemployment rates remained relatively stable, generally below 3%, with slight increases in some years (e.g., 5.6% in 2022).",
+        "• Government debt as a percentage of GDP increased steadily from 70.2% in 2020 to an estimated 111.1% in 2029, reflecting rising debt levels.",
+        "• Projections for 2025–2029 show continued GDP growth: from 39,438.1 billion US dollars in 2025 to 48,836.3 billion in 2029 (nominal).",
+        "• Corresponding GDP per capita (PPP) is expected to rise from approximately 28,008 US dollars in 2025 to 34,848 US dollars in 2029.",
+        "• The annual GDP growth rate is projected to gradually decrease from 4.5% in 2025 to 3.3% in 2029.",
+        "• Inflation is forecasted to remain low, around 1.7% in 2025, increasing slightly to 2.0% by 2026–2027, and stabilizing at 2.0% in 2028–2029.",
+        "• The unemployment rate is expected to stay around 5.1% to 5.2% throughout the period.",
+        "• Government debt as a percentage of GDP is projected to increase from 93.8% in 2025 to 111.1% in 2029, indicating rising debt levels over the forecast period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:10:45.678032",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Inflation",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pork is a significant component of the Chinese economy, with an average per capita consumption of 90 grams per day.",
+        "• In 2007, China experienced a steep rise in pork prices, primarily driven by a global increase in the price of animal feed.",
+        "• The rise in animal feed prices was associated with increased production of ethanol from corn, which contributed to the surge in pork prices.",
+        "• The escalation in pork prices was further exacerbated by increased production costs combined with rapidly rising wages, leading to inflationary pressures in the sector.",
+        "• In response to the rising pork prices, the Chinese government implemented subsidies targeting specific vulnerable groups, including students and the urban poor.",
+        "• The government also called for increased pork production to stabilize prices.",
+        "• Consideration was given to releasing pork from the nation’s strategic pork reserve as a measure to control inflation and stabilize the market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:10:49.679394",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Investment cycles",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Chinese investment has historically exhibited a highly cyclical pattern, characterized by periods of rapid expansion followed by contraction.",
+        "• The majority of investment in China is conducted by entities that are at least partially state-owned, with most controlled by local governments.",
+        "• Booms in Chinese investment are primarily driven by perverse incentives at the local-government level, rather than purely market-driven factors.",
+        "• Unlike entrepreneurs in a free-market economy, Chinese local officials are mainly motivated by political considerations, particularly their performance evaluations.",
+        "• Local officials’ performance assessments are largely based on GDP growth within their jurisdictions, incentivizing them to promote large-scale investment projects.",
+        "• A typical investment cycle in China begins with a relaxation of central government credit and industrial policies, which facilitates increased local investment activity.",
+        "• During these periods, local governments push investment aggressively through state-sector entities they directly control and by offering incentives to private investors and enterprises outside their jurisdictions.",
+        "• The resulting investment boom exerts upward pressure on prices and can lead to shortages of key inputs such as coal and electricity, exemplified by shortages in 2003.",
+        "• As inflation rises to levels that threaten social stability, the central government intervenes by tightening enforcement of industrial and credit policies.",
+        "• Central government measures include halting projects that proceeded without proper approvals and restricting bank lending to specific investor groups.",
+        "• Following intervention, credit becomes tight, leading to a decline in investment growth and the end of the boom cycle."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:10:55.246946",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Unemployment",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China's unemployment situation has become a significant concern, especially among its youth population.",
+        "• As of late 2024, the official urban surveyed unemployment rate stood at 5.0%, indicating relative stability in urban employment figures.",
+        "• The annual unemployment rate was projected to decrease slightly from 5.2% in 2023 to 5.1% in 2024.",
+        "• Youth unemployment, however, presents a more alarming scenario, with the official rate for individuals aged 16 to 24 peaking at 21.3% in mid-2023.",
+        "• By November 2024, the official youth unemployment rate had declined to 16.1%.",
+        "• Independent estimates suggest that the actual youth unemployment rate may have been substantially higher than official figures, with some analysts proposing it could have reached as high as 46.5%.",
+        "• Other experts have speculated that youth unemployment may have approached or even exceeded 50%.",
+        "• Reports have emerged indicating the existence of \"fake jobs,\" which are positions that exist only on paper and do not provide meaningful work or income, used to artificially lower official unemployment statistics.",
+        "• The high youth unemployment and underemployment issues are exacerbated by a slowing Chinese economy, a prolonged property market crisis, and insufficient demand for skilled labor.",
+        "• Many young Chinese have responded to these challenges by \"lying flat\" (a term describing withdrawal from active workforce participation) or retreating from the labor market altogether.",
+        "• The Chinese government is undertaking reforms aimed at improving labor conditions and stimulating economic growth, with a target of achieving 5% GDP growth.",
+        "• Despite these efforts, youth unemployment and underemployment remain critical challenges for policymakers and society, impacting social stability and economic development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:11:02.412082",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "5",
+      "section_name": "Financial and banking system",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China has the world's largest total banking sector assets, approximately $45.838 trillion (309.41 trillion CNY), with $42.063 trillion in total deposits and other liabilities.",
+        "• The majority of China's financial institutions are state-owned and governed, emphasizing government control over the financial sector.",
+        "• The primary instruments of China's financial and fiscal control are the People's Bank of China (PBC) and the Ministry of Finance, both operating under the authority of the State Council.",
+        "• The People's Bank of China (PBC), established in 1950 as the successor to the Central Bank of China, gradually took over private banks and performs functions similar to both central and commercial banks.",
+        "• The PBC issues currency, controls circulation, disburses budgetary expenditures, administers accounts, payments, and receipts of government organizations, and supervises their financial performance in line with government economic plans.",
+        "• The PBC is also responsible for managing international trade and overseas transactions, including remittances by overseas Chinese, which are managed by the Bank of China (BOC), which maintains branch offices in several countries.",
+        "• Other significant financial institutions include the China Development Bank (CDB), which funds economic development and foreign investment; the Agricultural Bank of China (ABC), which supports the agricultural sector; the China Construction Bank (CCB), responsible for capitalizing investment and industrial/construction enterprises; and the Industrial and Commercial Bank of China (ICBC), which handles commercial transactions and acts as a savings bank.",
+        "• China founded the Asian Infrastructure Investment Bank in 2015 and the Silk Road Fund in 2014, both aimed at fostering investment and financial support along the Belt and Road Initiative.",
+        "• China's economic reforms significantly expanded the banking system's role; although theoretically any enterprise or individual can obtain loans outside the state plan, approximately 75% of state bank loans are directed to State-Owned Enterprises (SOEs).",
+        "• As of 2011, outstanding loans to local governments amounted to approximately 14 trillion Yuan, with much believed to be nonperforming.",
+        "• Increasing funds are available through banks for economic and commercial purposes, with foreign capital sources also rising, including loans from the World Bank, UN programs, Japan, and other countries, with Hong Kong serving as a major conduit for investment.",
+        "• On 23 February 2012, the PBC indicated a move towards liberalizing capital markets by circulating a ten-year timetable, leading to Shenzhen banks launching cross-border yuan remittances for individuals, marking a significant relaxation of previous capital controls.",
+        "• China hosts four of the world's top ten most competitive financial centers: Shanghai, Hong Kong, Beijing, and Shenzhen, more than any other country.",
+        "• China has three of the world's ten largest stock exchanges—Shanghai, Hong Kong, and Shenzhen—by market capitalization and trade volume.",
+        "• As of 12 October 2020, the combined market capitalization of mainland Chinese stock markets (Shanghai and Shenzhen) exceeded US$10 trillion, with about US$5.9 trillion, excluding Hong Kong.",
+        "• By June 2020, foreign investors had purchased US$440 billion worth of Chinese stocks, representing approximately 2.9% of the total market value, with US$156.6 billion bought in the first half of 2020 alone.",
+        "• China's bond market surpassed US$15.4 trillion as of September 2020, ranking above Japan and the UK and second only to the U.S. (US$40 trillion).",
+        "• As of September 2020, foreign holdings of Chinese bonds reached US$388 billion, accounting for 2.5% of the total bond market, with a year-on-year increase of 44.66%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:11:15.774234",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Stock markets",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2024, China possesses the second largest equity markets and futures markets globally, and the third largest bond market worldwide.",
+        "• China's stock market exchanges include the Beijing Stock Exchange, the Shanghai Stock Exchange (which includes the STAR Market), the Shenzhen Stock Exchange, and the Hong Kong Stock Exchange.",
+        "• Despite its large size, China's stock market is considered relatively underdeveloped compared to other sectors of its economy.",
+        "• To be listed on China's stock exchanges, companies must meet several criteria: demonstrate good financial standing (including sustained profitability), exhibit solid corporate governance (such as a board of independent directors, a supervisory board, and auditing), have no history of misreporting or fraud, and possess a market capitalization of at least US$4 million.",
+        "• The Chinese government regulates initial public offerings (IPOs), encouraging them during periods of high market valuation to prevent overheating, and restricting them during market downturns to cool prices.",
+        "• When China's stock markets re-opened in 1990 during the PRC period, most listed companies were state-owned enterprises (SOEs), marking an experiment in applying market discipline to SOEs.",
+        "• The Shanghai and Shenzhen stock exchanges were initially under municipal control and referred to as \"experimental points\" until 1997.",
+        "• In 1997, the central government took control of these exchanges, affirming their legitimate role within the socialist market economy.",
+        "• In 2015, a significant stock market crash in China resulted in a loss of approximately US$2 trillion in global stock market value."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:11:19.934429",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Currency system",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The renminbi (\"people's currency\") is the official currency of China, denominated as the yuan, and subdivided into 10 jiao or 100 fen.",
+        "• The currency is issued by the People's Bank of China, which serves as China's monetary authority.",
+        "• The ISO 4217 abbreviation for the renminbi is CNY, though it is also commonly abbreviated as \"RMB.\"",
+        "• As of 2005, outside observers generally considered the yuan to be undervalued by approximately 30–40%.",
+        "• In 2017, the International Monetary Fund (IMF) stated that the yuan was correctly valued, indicating a reassessment of its exchange rate valuation.",
+        "• The renminbi operates within a floating exchange-rate system, primarily managed against the US dollar.",
+        "• On 21 July 2005, China revalued its currency by 2.1% against the US dollar.",
+        "• Since the 2005 revaluation, China has transitioned to an exchange rate system referencing a basket of currencies, allowing the renminbi to fluctuate daily by up to 0.5%.",
+        "• There exists a complex relationship between China's balance of trade, inflation (measured by the consumer price index), and the value of its currency.",
+        "• Despite allowing the yuan to \"float,\" China's central bank retains decisive control over its value relative to other currencies.",
+        "• In 2007, inflation, driven by rising prices for meat and fuel, was likely linked to the global increase in commodities used as animal feed or fuel.",
+        "• The rapid appreciation of the yuan permitted in December 2007 was possibly aimed at mitigating inflation by increasing the currency's value.",
+        "• An empirical study published in the International Review of Economics & Finance in 2010 by Mete Feridun and colleagues from the University of Greenwich Business School provided evidence that financial development promotes economic growth in China.",
+        "• During the week of 10 August 2015, amidst a slowing Chinese economy and a strengthening US dollar, the People's Bank of China devalued the renminbi by approximately 5%.",
+        "• The 2015 devaluation was achieved by pegging the official rate to closing market rates.",
+        "• Achieving a market-based \"representative\" exchange rate against the US dollar is a requirement for a currency to be designated as having Special Drawing Rights (SDR) by the IMF, which is a goal for China.",
+        "• Since the late 2000s, China has actively sought to internationalize the renminbi.",
+        "• By 2013, the RMB had become the 8th most widely traded currency in the world.",
+        "• In November 2015, IMF Director Christine Lagarde announced support for including the yuan in the SDR currency basket, ahead of G-20 and IMF meetings.",
+        "• The IMF's support led to official approval at the 30 November 2015 IMF meeting for the yuan's inclusion in the SDR basket.",
+        "• The internationalization process of China's economy continues to influence its economic forecasts, which are officially published through the Purchasing Managers Index (PMI) since 2005."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:11:31.765582",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "6",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to Fortune Global, 135 of the world's 500 largest companies are headquartered in China.",
+        "• As of 2023, mainland China and Hong Kong collectively host 324 of the largest listed companies measured by revenue in the Fortune Global 2000, ranking second globally.",
+        "• China is home to more than two hundred privately held technology startups, known as tech unicorns, each with a valuation exceeding $1 billion.",
+        "• China holds the highest number of tech unicorns in the world, reflecting its significant presence in the global technology startup ecosystem."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:11:34.661858",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China is the world's largest producer and consumer of agricultural products, with approximately 300 million Chinese farm workers primarily working on small plots of land comparable in size to U.S. farms.",
+        "• Virtually all arable land in China is dedicated to food crop cultivation.",
+        "• China is the leading global producer of rice and is among the principal sources of wheat, corn (maize), tobacco, soybeans, potatoes, sorghum, peanuts, tea, millet, barley, oilseed, pork, and fish.",
+        "• Major non-food crops include cotton, other fibers, and oilseeds, which contribute a small proportion to China’s foreign trade revenue.",
+        "• Agricultural exports such as vegetables, fruits, fish, shellfish, grain, and meat products are primarily exported to Hong Kong.",
+        "• Despite having only 75% of the cropland area of the United States, China produces about 30% more crops and livestock than the U.S. due to intensive cultivation practices.",
+        "• China aims to further increase agricultural production through improvements in plant stocks, fertilizers, and technology.",
+        "• According to government statistics from 2005, after a decline in farm crop yields in 2000, agricultural output has been increasing annually.",
+        "• FAO data from 2005 shows wheat production from 1961 to 2004, with a trend of growth in crop yields over the decades.",
+        "• In 2022, the United Nations World Food Programme reported that China fed 18% of the world's population using only 7% of the world's arable land.",
+        "• Animal husbandry is the second most important component of Chinese agriculture, with China being the world's leading producer of pigs, chickens, and eggs.",
+        "• China also maintains sizable herds of sheep and cattle, with increased emphasis on livestock output since the mid-1970s.",
+        "• The country has a longstanding tradition of ocean and freshwater fishing and aquaculture, with pond raising playing a significant role in supplementing fisheries.",
+        "• China possesses an extensive fishing fleet, estimated between 200,000 and 800,000 boats, some operating as far as Argentina, with growth largely driven by government subsidies.",
+        "• Environmental challenges such as floods, droughts, and erosion threaten Chinese agriculture; efforts at reforestation have been insufficient, leaving forest resources relatively limited.",
+        "• Principal forests are located in the Qin Mountains, central mountains, and the Yunnan–Guizhou Plateau; however, much timber is sourced from Heilongjiang, Jilin, Sichuan, and Yunnan due to inaccessibility of Qinling forests.",
+        "• Western China (Tibet, Xinjiang, Qinghai) has limited agricultural significance, mainly focusing on floriculture and cattle raising.",
+        "• Rice dominates in southern provinces, often yielding two harvests annually; in northern regions, wheat is the primary crop.",
+        "• In central China, wheat and rice are both prominent crops, competing for dominance.",
+        "• Millet and kaoliang (grain sorghum) are mainly cultivated in the northeast and some central provinces, which also produce significant quantities of barley.",
+        "• Most soybean production occurs in northern and northeastern China; maize is grown in central and northern regions; tea is primarily produced in warm, humid southern hills.",
+        "• Cotton is extensively cultivated in central provinces and to a lesser extent in the southeast and north; tobacco is mainly produced in central and southern areas.",
+        "• Other notable crops include potatoes, sugar beets, and oilseeds.",
+        "• In the past decade, the Chinese government has promoted agricultural mechanization and land consolidation to increase yields and offset rural labor migration to cities.",
+        "• The annual growth rate of agricultural mechanization in China is approximately 6.4%, with the integrated mechanization rate reaching nearly 60% by 2014.",
+        "• Mechanization rates for wheat exceeded 90%, and maize approached 80% by 2014.",
+        "• Use of high-tech equipment such as unmanned aerial vehicles for crop spraying has increased within agricultural cooperatives.",
+        "• About half of China's cultivated land is irrigated, reflecting progress in water conservancy efforts.",
+        "• The late 1970s and early 1980s marked significant economic reforms, including the shift to household responsibility systems, phasing out collectivized agriculture, and liberalizing price controls.",
+        "• Reforms also included fiscal decentralization, privatization of state enterprises, development of private service and manufacturing sectors, establishment of a diversified banking system with substantial state control, creation of a stock market, and opening the economy to foreign trade and investment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:11:45.988940",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Housing and construction",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2010, China became the world's largest market for construction and has maintained this status through at least 2024.",
+        "• The real estate industry constitutes approximately 20% of the Chinese economy.",
+        "• As of 2023, real property accounts for 60% of Chinese household assets, indicating a significant reliance on real estate for wealth accumulation.",
+        "• Also in 2023, China has the highest rate of home ownership globally, with 90% of urban households owning their homes.",
+        "• Compared to other countries, investing in stock markets and alternative assets is more difficult in China due to strict currency controls, making real estate a primary avenue for wealth growth and preservation.",
+        "• Many Chinese citizens own multiple properties, as real estate is one of the few accessible means to grow and safeguard wealth within the country.",
+        "• Economists have speculated about a potential property bubble in China, driven by high levels of real estate investment and valuation.",
+        "• On 16 July 2020, the Wall Street Journal reported that the Chinese housing market had grown to a total value of US$52 trillion, surpassing the US housing market size before the 2008 financial crisis.",
+        "• Despite concerns over a housing bubble, many individuals continue to invest heavily in real estate assets.",
+        "• On 19 December 2021, McKinsey Global Institute reported that China's net worth reached $120 trillion in 2020, surpassing the United States' $89 trillion, largely driven by a booming real estate market that elevated property values."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:11:51.784521",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Energy and mineral resources",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, China's electricity production reached approximately 6.5 trillion kilowatt-hours (kWh).",
+        "• In 2020, China's electricity consumption was approximately 7.762 trillion kWh, with exports totaling 21.8 billion kWh and imports at 6.2 billion kWh in 2015.",
+        "• As of 2023, the breakdown of electricity generation sources was: coal 60.5%, hydro 13.2%, wind 9.4%, solar 6.2%, nuclear 4.6%, natural gas 3.3%, and bioenergy 2.2%.",
+        "• China's oil production in 2022 was 3,527,000 barrels per day (bbl/d), equivalent to 560,700 cubic meters per day (m3/d).",
+        "• Oil consumption in 2005 was 6,534,000 bbl/d (1,038,800 m3/d), with an expected increase to 9,300,000 bbl/d (1,480,000 m3/d) by 2030.",
+        "• Oil exports in 2005 were 443,300 bbl/d (70,480 m3/d).",
+        "• Oil imports in 2022 were 10,170,000 bbl/d (1,617,000 m3/d), with net imports in 2005 at 2,740,000 barrels per day (436,000 m3/d).",
+        "• China's proved oil reserves as of January 1, 2006, were approximately 16.3 gigabarrels (Gbbl), equivalent to 2.59×10^9 m3.",
+        "• Natural gas production in 2005 was estimated at 47.88 km3, with consumption at 44.93 km3, and exports at 2.944 km3; imports were zero in 2005.",
+        "• As of January 1, 2006, China's proved natural gas reserves totaled approximately 1,448 km3.",
+        "• Historically, subsidies for energy commodities grew substantially in the late 1970s and 1980s, significantly influencing production and consumption patterns.",
+        "• Since 1980, China's energy production has grown dramatically, with about 80% generated from fossil fuels at thermal plants, 17% from hydroelectric sources, and approximately 2% from nuclear energy, mainly in Guangdong and Zhejiang.",
+        "• Despite rich overall energy potential, most resources remain underdeveloped and geographically distant from major industrial centers; the northeast is rich in coal and oil, central north China has abundant coal, and the southwest has significant hydroelectric potential.",
+        "• Industrialized regions such as Guangzhou and the Lower Yangtze around Shanghai have insufficient local energy resources, and heavy industry is not concentrated near most resource-rich areas.",
+        "• China aims to shift its energy mix away from coal (which accounts for 70–75% of energy consumption) toward oil, natural gas, renewable energy, and nuclear power due to environmental concerns.",
+        "• Over the past five to ten years, China has closed thousands of coal mines to reduce overproduction, decreasing coal output by over 25% as of 2023.",
+        "• As of 2023, solar power has become cheaper than coal-fired power in China.",
+        "• China has been a net oil importer since 1993, primarily sourcing from the Middle East, with imported oil constituting about 20% of processed crude.",
+        "• By 2010, China’s net oil imports were projected to reach 3.5 million barrels per day (560,000 m3/d).",
+        "• China has invested in oil fields globally, including in Central Asia and Kazakhstan, to diversify its oil sources.",
+        "• China’s natural gas production is targeted for expansion; it accounted for only 3% of total energy consumption, with plans in the 10th Five-Year Plan (2001–2005) to increase its share from 2% to 4%, compared to 25% in the U.S. energy sector.",
+        "• Since the early 2000s, China’s renewable energy sector has rapidly developed, facilitating international cooperation and technology transfer to developing countries; as of 2023, China is the world’s leading producer of solar panels and wind turbines.",
+        "• The 11th Five-Year Program (2006–2010), approved in March 2006, emphasized energy conservation, renewable energy development, and environmental protection, aiming for a 20% reduction in energy consumption per unit of GDP by 2010.",
+        "• The program prioritized transitioning from coal to cleaner energy sources, including oil, natural gas, renewables, and nuclear power, and improving energy efficiency and clean coal technology.",
+        "• China’s hydroelectric capacity, exemplified by the Three Gorges Dam, was projected to reach 18 gigawatts (GW) when fully operational in 2009.",
+        "• The share of nuclear-generated electricity was projected to increase from 1% in 2000 to 5% by 2030.",
+        "• China’s renewable energy law, enacted in 2006, mandated that 10% of the country’s energy come from renewable sources by 2020.",
+        "• By 2010, rising wages and living standards increased energy demand, prompting efforts to improve efficiency and expand renewable energy use, including the closure of over 1,000 inefficient power plants.",
+        "• Despite these efforts, projections indicated a continued dramatic rise in carbon emissions from fossil fuel combustion.",
+        "• China accounts for approximately 25% of global greenhouse gas emissions today, although it is not the largest cumulative emitter historically.",
+        "• In 2019, China’s per capita CO2-equivalent emissions were 9 tonnes per year, surpassing the European Union’s 7.6 tonnes but remaining below the OECD average of 10.7 tonnes and the U.S. average of 17.6 tonnes.",
+        "• The carbon intensity of China’s GDP remains relatively high, indicating significant emissions per unit of economic output.",
+        "• Experts like Nicholas Stern and Fergus Green have suggested that China should shift towards more advanced, low-carbon industrial development and allocate resources toward innovation and R&D to mitigate environmental pollution and long-term socioeconomic costs.",
+        "• Despite public goals, China continues to build numerous coal-fired power plants, potentially increasing its carbon emissions further."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:12:14.022137",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 34
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "6.3.1",
+      "section_name": "Mining",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2022, over 200 types of minerals are actively explored or mined in the People's Republic of China (PRC).",
+        "• Mineral resources in China are widely distributed across the country but not evenly.",
+        "• The Chinese economy and exports are not heavily dependent on the mining industry as a whole; however, the industry is critically important to various subnational governments within the PRC.",
+        "• Mining in China is extensively regulated and overseen by multiple regulatory bodies.",
+        "• The Chinese state owns all mineral rights nationwide, regardless of land ownership where minerals are located.",
+        "• Mining rights can be acquired through government approval, which involves paying prospecting and mining fees.",
+        "• During the Mao Zedong era, mineral exploration and mining activities were limited to state-owned enterprises (SOEs) and collectively-owned enterprises; private exploration was largely prohibited.",
+        "• The industry was opened to private enterprises during China's economic reforms in the 1980s, leading to increased marketization in the 1990s.",
+        "• In the mid-2000s, the Chinese government aimed to consolidate the mining industry due to concerns about resource underutilization, workplace safety issues, and environmental damage.",
+        "• During this consolidation period, state-owned enterprises purchased smaller privately-owned mines.",
+        "• China's mining industry experienced significant growth from the early 2000s to 2012, a period often referred to as the \"golden decade\" of mining in China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:12:20.040091",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "6.3.2",
+      "section_name": "Hydroelectric resources",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China possesses abundant hydroelectric potential due to its extensive river network and mountainous terrain.",
+        "• The majority of China's hydroelectric capacity is located in the southwest region, where coal resources are limited but energy demand is rapidly increasing.",
+        "• The hydroelectric potential in northeastern China is relatively small; however, it was in this region that the first hydroelectric stations were constructed by the Japanese during their occupation of Manchuria.",
+        "• The Three Gorges Dam, one of China's most significant hydroelectric projects, took thirteen years to build and cost approximately $24 billion.",
+        "• The dam spans the Yangtze River and was essentially completed in 2006.",
+        "• In 2018, the Three Gorges Dam produced over 100 terawatt-hours (TWh) of electricity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:12:22.700539",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "6.3.3",
+      "section_name": "Coal",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China is highly endowed with mineral resources, with coal being the most important among them.",
+        "• China's mineral resources include large reserves of coal and iron ore, along with adequate to abundant supplies of nearly all other industrial minerals.",
+        "• Coal deposits are widely scattered across China, with some types found in every province.",
+        "• The majority of coal reserves are located in the northern part of China, particularly in the province of Shanxi, which is believed to contain about half of the country's total coal reserves.",
+        "• Other significant coal-bearing provinces include Heilongjiang, Liaoning, Jilin, Hebei, and Shandong.",
+        "• Besides the northern provinces, substantial quantities of coal are present in Sichuan, with important deposits also found in Guangdong, Guangxi, Yunnan, and Guizhou.",
+        "• A large portion of China's coal reserves consists of good quality bituminous coal, with significant deposits of lignite as well.",
+        "• Anthracite coal is present in several locations, notably in Liaoning, Guizhou, and Henan, but overall, it is not very significant in terms of total reserves.",
+        "• To promote a more even distribution of coal supplies and alleviate pressure on the inadequate transportation network, Chinese authorities promoted the development of numerous small, locally operated mines nationwide.",
+        "• This initiative intensified after the 1960s, resulting in the establishment of thousands of small pits that produce more than half of China's coal.",
+        "• The coal produced by these small mines is typically expensive and primarily used for local consumption.",
+        "• The proliferation of small, unregulated mines has led to less stringent safety measures, causing several thousand deaths annually.",
+        "• Coal constituted approximately 70% of China's energy consumption in 2005 and decreased to 55% in 2021.",
+        "• China is the world's largest producer and consumer of coal.",
+        "• As China's economy continues to grow, its demand for coal is projected to increase significantly.",
+        "• Although coal's percentage share of China's overall energy consumption is expected to decline, total coal consumption in absolute terms is anticipated to keep rising.",
+        "• China's reliance on coal as a primary energy source has significantly contributed to its status as the world's largest emitter of sulfur dioxide, which causes acid rain, and greenhouse gases, including carbon dioxide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:12:27.501707",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "6.3.4",
+      "section_name": "Oil and natural gas",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China's onshore oil resources are primarily located in the Northeast region and in the provinces of Xinjiang, Gansu, Qinghai, Sichuan, Shandong, and Henan.",
+        "• Oil shale deposits are found in multiple locations, notably at Fushun in Liaoning, where they overlie coal reserves, and also in Guangdong.",
+        "• High-quality light oil has been discovered in the Pearl River estuary of the South China Sea, the Qaidam Basin in Qinghai, and the Tarim Basin in Xinjiang.",
+        "• Although China consumes most of its oil output domestically, it also exports some crude oil and oil products.",
+        "• China has explored and developed oil deposits in several maritime regions, including the South China Sea, East China Sea, Yellow Sea, Gulf of Tonkin, and Bohai Sea.",
+        "• In 2013, China's economic growth rate exceeded its domestic oil production capacity, and floods damaged the nation's oil fields mid-year, leading to increased oil imports.",
+        "• As a result, in September 2013, China surpassed the United States to become the world's largest importer of oil.",
+        "• The total extent of China's natural gas reserves remains unknown due to limited exploration efforts.",
+        "• Sichuan accounts for nearly half of China's known natural gas reserves and production.",
+        "• Most of China's natural gas is associated gas produced from major oil fields in the Northeast, especially the Daqing oilfield.",
+        "• Additional natural gas deposits have been identified in the Qaidam Basin, Hebei, Jiangsu, Shanghai, Zhejiang, and offshore southwest of Hainan.",
+        "• An article published in *Energy Economics* in 2011 by Mete Feridun (University of Greenwich) and Abdul Jalil (Wuhan University) states that China's financial development has not come at the expense of environmental pollution; instead, it has contributed to a decrease in pollution levels.",
+        "• The authors conclude that carbon emissions in China are mainly influenced by income levels, energy consumption, and trade openness.",
+        "• Their findings support the existence of an Environmental Kuznets Curve in China, indicating that environmental degradation initially increases with economic growth but decreases after reaching a certain income threshold."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:12:34.462683",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "6.3.5",
+      "section_name": "Metals and nonmetals",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Global rare-earth-oxide production trends from 1956 to 2008, as reported by USGS, indicate significant changes in the supply and demand of these critical materials over the specified period.",
+        "• Iron ore reserves are distributed across most Chinese provinces, with notable deposits in Hainan, Gansu, Guizhou, southern Sichuan, and Guangdong provinces.",
+        "• The largest iron ore reserves are located north of the Yangtze River, primarily supplying neighboring iron and steel enterprises.",
+        "• China is well supplied with ferroalloys and manganese, with the exception of nickel, chromium, and cobalt, which are less abundant.",
+        "• Reserves of tungsten in China are considered to be fairly large, making the country a significant global supplier of this metal.",
+        "• Copper resources in China are moderate, with high-quality ore deposits found only in a few locations, including recent discoveries reported from Ningxia.",
+        "• Lead and zinc deposits are available within China, contributing to the country’s mineral resource base.",
+        "• Bauxite resources are believed to be plentiful, supporting China’s aluminum industry.",
+        "• China possesses the world's largest antimony reserves, making it the leading global supplier of this metal.",
+        "• Tin resources are abundant in China, with fairly rich deposits identified across various regions.",
+        "• Gold deposits are plentiful, and China ranks as the world's fifth-largest producer of gold; in the early 21st century, China became an important producer and exporter of rare metals used in high-technology industries.",
+        "• China produces a wide range of nonmetallic minerals, with salt being one of the most important, derived from coastal evaporation sites in Jiangsu, Hebei, Shandong, and Liaoning, as well as from extensive salt fields in Sichuan, Ningxia, and the Qaidam Basin.",
+        "• Significant deposits of phosphate rock are found in Jiangxi, Guangxi, Yunnan, and Hubei, with annual production accelerating each year; as of 2013, China produced approximately 97,000,000 metric tons of phosphate rock annually.",
+        "• Pyrites occur in several regions, with Liaoning, Hebei, Shandong, and Shanxi hosting the most important deposits.",
+        "• China has large resources of fluorite (fluorspar), gypsum, and asbestos.",
+        "• The country possesses the world's largest reserves and production capacity of cement, clinker, and limestone, supporting its extensive construction and infrastructure development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:12:40.398935",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "6.4",
+      "section_name": "Industry and manufacturing",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China Railway HXD1B is a high-speed train manufactured by CRRC, highlighting China's advancements in rail transportation technology.",
+        "• The CRRC Fuxing high-speed train is a prominent example of China's domestic manufacturing capabilities in high-speed rail.",
+        "• The C919 aircraft, developed by Chinese aerospace manufacturer Comac, signifies China's progress in commercial aviation industry.",
+        "• China holds a strong global position in the production of industrial goods, with several companies leading in steel, solar energy, and telecommunications accessories.",
+        "• As of 2024, industry constitutes 36.5% of China's Gross Domestic Product (GDP).",
+        "• From 2010 through at least 2023, China has produced more industrial goods than any other country worldwide.",
+        "• In 2023, China manufactures approximately 20% (one fifth) of the world's total industrial output.",
+        "• Major industrial sectors in China include mining and ore processing; iron and steel; aluminium; coal; machinery; armaments; textiles and apparel; petroleum; cement; chemical industries; fertilizers; food processing; automobiles and other transportation equipment such as rail cars, locomotives, ships, and aircraft; consumer products including footwear, toys, and electronics; and telecommunications and information technology.",
+        "• Since the founding of the People's Republic of China, industrial development has been prioritized, with 46% of the national output devoted to investment as of 2011, a proportion significantly higher than that of any other nation.",
+        "• The machine-building and metallurgical industries are among the most prioritized industrial branches, collectively accounting for approximately 20–30% of the total gross industrial output.",
+        "• Despite high output levels, innovation in Chinese industry has often been limited, with a system that rewards increases in gross output rather than improvements in product variety, sophistication, and quality.",
+        "• China continues to import significant quantities of specialized steels due to limitations in domestic innovation and production quality.",
+        "• Overall industrial output in China has grown at an average annual rate of over 10%, surpassing other sectors in terms of economic growth and modernization.",
+        "• After joining the World Trade Organization in 2001, China rapidly developed a reputation as the \"world's factory,\" becoming a major exporter of manufactured goods.",
+        "• By 2019, China accounted for approximately 25% of all high-tech goods produced globally, reflecting the increasing complexity of its exports.",
+        "• The chemical industry in China primarily focuses on expanding the production of chemical fertilizers, plastics, and synthetic fibers, making China one of the leading global producers of nitrogenous fertilizers.",
+        "• The consumer goods sector emphasizes textiles and clothing, which are significant components of China's exports; textile manufacturing, increasingly dominated by synthetic fibers, accounts for about 10% of gross industrial output.",
+        "• The textile industry in China is geographically dispersed, with key centers including Shanghai, Guangzhou, and Harbin.",
+        "• There is a growing consumer culture within China, influencing industrial and manufacturing trends.",
+        "• As of 2024, China possesses substantial industrial capacity exceeding domestic demand, leading the government to promote capacity utilization abroad through initiatives such as the Belt and Road Initiative."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:12:47.227977",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "6.4.1",
+      "section_name": "Steel industry",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, China produced over 1,053 million tonnes of steel, accounting for over half of the world's total steel production.",
+        "• China’s steel production in 2020 represented an increase of 5.6% compared to the previous year, despite a global decline of 0.9% in steel output.",
+        "• China’s share of global crude steel production rose from 53.3% in 2019 to 56.5% in 2020, but decreased by 2.1% in 2021.",
+        "• Iron ore production in China kept pace with steel production during the early 1990s but was soon surpassed by imported iron ore and other metals in the early 2000s.",
+        "• Steel production in China was approximately 140 million tons in 2000, increased to 419 million tons in 2006, and reached 928 million tons by 2018.",
+        "• In 2018, China was the world's top exporter of steel, with export volumes totaling 66.9 million tons, representing a 9% decrease compared to the previous year.",
+        "• Steel exports from China further declined in 2021 to 66.2 million tons, slowing the country's decade-long growth in steel exports.",
+        "• As of 2012, Chinese steel exports faced widespread anti-dumping taxes and had not yet returned to pre-2008 levels.",
+        "• Domestic steel demand in China remained strong, especially in the developing western regions such as Xinjiang, where steel production was expanding.",
+        "• Of the 45 largest steel-producing companies globally, 21 are Chinese, including the world's largest, China Baowu Steel Group."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:12:54.700547",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "6.4.2",
+      "section_name": "Automotive industry",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China is the world's largest automobile producer, manufacturing more than 31.28 million vehicles in 2024, with 5.86 million of those being exported overseas.",
+        "• As of 2024, China holds the status of the world's largest automobile market in terms of both sales and ownership.",
+        "• By 2006, China had become the world's third-largest automotive vehicle manufacturer, following the United States and Japan, and the second-largest consumer after the United States.",
+        "• In 2010, China surpassed the U.S. and Japan combined in vehicle manufacturing, producing more vehicles than both countries together.",
+        "• Automobile manufacturing in China has experienced rapid growth during the reform period:",
+        "• In 1975, only 139,800 automobiles were produced annually.",
+        "• By 1985, production increased to 443,377 units.",
+        "• In 1992, production reached nearly 1.1 million vehicles.",
+        "• By 2001, production had risen to 2.3 million.",
+        "• In 2002, production increased to nearly 3.25 million.",
+        "• In 2003, production jumped to 4.44 million.",
+        "• In 2004, production reached 5.07 million.",
+        "• In 2005, it increased to 5.71 million.",
+        "• In 2006, production was 7.28 million.",
+        "• In 2007, it was 8.88 million.",
+        "• In 2008, production was 9.35 million.",
+        "• In 2009, production surged to 13.83 million, establishing China as the world's number-one automaker.",
+        "• Domestic vehicle sales in China have kept pace with production, with passenger car sales experiencing significant growth in the early 2000s following steady increases in the late 1990s.",
+        "• In 2010, China became the world's largest automotive manufacturer and consumer, with an estimated 18 million new cars sold, overtaking the United States.",
+        "• China began exporting car parts in 1999 and planned major expansion into automobile and component exports starting in 2005.",
+        "• A notable example of export-oriented manufacturing is a Honda factory built in Guangzhou in 2004, dedicated solely to exports, with an expected shipment of 30,000 passenger vehicles to Europe in 2005.",
+        "• By 2004, twelve major foreign automotive manufacturers had joint-venture plants in China, producing a diverse range of vehicles including automobiles, minivans, SUVs, buses, and trucks.",
+        "• In 2003, China exported US$4.7 billion worth of vehicles and components.",
+        "• Vehicle exports increased from 78,000 units in 2004 to 173,000 units in 2005, and further to 340,000 units in 2006.",
+        "• Since 2020, China's vehicle exports have increased significantly, driven by the rise of new energy vehicles (NEVs).",
+        "• China overtook Germany in 2022 and Japan in 2023 to become the world's largest exporter of cars.",
+        "• The market for domestically produced cars under local brands is expected to continue growing both domestically and internationally.",
+        "• Chinese automotive companies such as Geely, Qiantu, and Chery are actively exploring new international markets, including both developing and developed countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:05.285454",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 28
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "6.4.3",
+      "section_name": "Electric vehicle industry",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The electric vehicle (EV) industry in China is the largest globally, accounting for approximately 58% of worldwide EV consumption.",
+        "• In 2023, the China Association of Automobile Manufacturers (CAAM) reported that China sold a total of 9.05 million passenger electric vehicles, comprising 6.26 million battery electric vehicles (BEVs) and 2.79 million plug-in hybrid electric vehicles (PHEVs).",
+        "• China leads the global market for plug-in electric buses and light commercial vehicles, with over 500,000 buses (representing 98% of the global stock) and 247,500 electric commercial vehicles (representing 65% of the global stock) as of 2019.",
+        "• In 2023, China recorded new sales of 447,000 commercial electric vehicles.",
+        "• Plug-in electric vehicles (BEVs and PHEVs) made up 37% of total automotive sales in China in 2023, with BEVs holding a 25% market share and PHEVs a 12% market share.",
+        "• This represents a significant increase from 2020, when plug-in electric vehicles accounted for only 6.3% of total vehicle sales in China.",
+        "• The Chinese EV market is predominantly dominated by domestic companies, with BYD Auto and SAIC Motor occupying the top two positions in market share, and five out of the top seven EV manufacturers being Chinese firms.",
+        "• The global battery supply chain in 2024 is geographically distributed, with China playing a major role.",
+        "• Batteries are a critical component of EVs, constituting approximately one-third of the total cost of an EV.",
+        "• Around 80% of the world's lithium-ion batteries are used in electric vehicles.",
+        "• The Chinese battery industry includes major companies such as CATL (the world's largest), BYD, CALB, Gotion, SVOLT, and WeLion, indicating a significant Chinese presence in the global battery market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:12.043127",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "6.4.4",
+      "section_name": "Semiconductor industry",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Chinese semiconductor industry encompasses various sectors including integrated circuit (IC) design and manufacturing, forming a significant component of China's overall IT industry.",
+        "• The industry comprises a diverse range of companies, such as integrated device manufacturers (IDMs), pure-play foundries, and fabless semiconductor firms.",
+        "• IDMs in China, which both design and manufacture integrated circuits, include companies like YMTC and CXMT.",
+        "• Pure-play foundries, which solely manufacture devices for other companies without designing them, include Chinese firms such as SMIC, Hua Hong Semiconductor, and Wingtech.",
+        "• Chinese fabless semiconductor companies, which focus exclusively on designing devices, include Zhaoxin, HiSilicon, and UNISOC.",
+        "• China is currently the world's largest semiconductor market by consumption, accounting for 53.7% of global chip sales in 2020, totaling $239.45 billion out of $446.1 billion worldwide.",
+        "• Despite its large market size, a significant portion of chips consumed in China are imported from multinational suppliers, with imports constituting 83.38% ($199.7 billion) of total chip sales in 2020.",
+        "• To address the reliance on imports and boost domestic production, China has launched initiatives including a $150 billion investment into its domestic integrated circuit industry.",
+        "• The country’s \"Made in China 2025\" strategic plan aims for 70% of its semiconductor production to be domestically sourced.",
+        "• China leads globally in the number of new semiconductor fabrication plants (fabs) under construction, with 8 out of 19 worldwide in 2021.",
+        "• A total of 17 new fabs are expected to begin construction between 2021 and 2023.",
+        "• The total installed capacity of Chinese-owned chip manufacturing facilities increased from 2.96 million wafers per month (wpm) in 2020 to 3.572 million wpm in 2021."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:17.181712",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "6.4.5",
+      "section_name": "Other industries",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Significant investments were made in the manufacturing of solar panels and wind generators by numerous Chinese companies, supported by liberal loans provided by banks and local governments.",
+        "• By 2012, China’s manufacturing capacity for both solar panels and wind generators had far exceeded domestic and global demand, leading to an oversupply in the market.",
+        "• Solar panels, in particular, faced anti-dumping penalties imposed by both the United States and Europe due to the excess capacity and competitive pricing issues.",
+        "• The global oversupply of solar panels and wind generators resulted in bankruptcies and production cutbacks within China and internationally, reflecting a downturn in these industries.",
+        "• China allocated a budget of $50 billion to subsidize solar power production over the twenty years following 2015, aiming to support industry growth despite market oversupply.",
+        "• As of 2012, even with the reduced prices caused by oversupply, the cost of solar power in China remained three times higher than that produced by conventional coal-fired power plants.",
+        "• Huawei MateBook series was showcased at the World Mobile Congress, indicating China's involvement in the global technology and manufacturing sectors.",
+        "• China is the world's largest producer of sex toys, accounting for 70% of global sex toy production, with approximately 1,000 manufacturers operating within the country.",
+        "• The sex toy industry in China generates about two billion dollars annually.",
+        "• As of 2011, China was the largest global market for personal computers.",
+        "• By 2024, China held the second-largest reserve of computers in the world, reflecting its significant role in the global technology infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:20.957423",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "6.5",
+      "section_name": "Services",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to the economic reforms initiated in 1978, China's services sector was characterized by state-operated shops, rationing, and regulated prices, reflecting a centrally planned economy structure.",
+        "• The onset of economic reforms led to the development of private markets, the emergence of individual entrepreneurs, and the expansion of the commercial sector, marking a significant shift from state control.",
+        "• The wholesale and retail trade sectors experienced rapid growth following reforms, with a proliferation of shopping malls, retail shops, restaurant chains, and hotels constructed predominantly in urban areas.",
+        "• Public administration continues to be a major component of China's services sector, playing a key role in governance and public service delivery.",
+        "• Tourism has become an increasingly important part of China's services industry, contributing significantly to employment opportunities and serving as a vital source of foreign exchange earnings."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:24.793525",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "6.5.1",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The affordability of mobile phones and internet data in China has led to a higher number of mobile internet users compared to computer internet users in the country.",
+        "• By the year 2023, the total number of Internet users in China exceeded 1.09 billion.",
+        "• The proportions of Chinese netizens accessing the Internet through various devices in 2023 were as follows: mobile phones at 99.9%, desktop computers at 33.9%, laptop computers at 30.3%, televisions at 22.5%, and tablet computers at 26.6%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:27.529307",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "6.5.2",
+      "section_name": "Consumer internet",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China's economy is a global leader in the consumer internet sector and mobile payments, reflecting its advanced digital infrastructure.",
+        "• As of 2024, China has the highest number of internet users worldwide, surpassing other countries in digital adoption.",
+        "• The large volume of data generated by Chinese internet users provides a significant competitive advantage in developing machine learning algorithms for artificial intelligence technologies.",
+        "• Mobile payment methods, primarily through apps such as Alipay and WeChat Pay, were rapidly adopted across China, driven partly by the country's limited penetration of credit cards.",
+        "• The widespread adoption of mobile payments facilitated a technological leapfrogging phenomenon, bypassing traditional banking infrastructure.",
+        "• This digital shift contributed to a boom in online shopping and retail banking services within China, transforming consumer behavior and financial transactions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:30.372561",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "6.5.3",
+      "section_name": "Platform economy",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China's platform economy has experienced substantial growth since the early 2010s, becoming a significant component of the national economy.",
+        "• In 2021, the transactional volume of China's platform economy reached RMB 3.7 trillion, indicating rapid expansion and high economic activity within the sector.",
+        "• The platform economy has played a major role in absorbing a large number of workers from China's declining manufacturing workforce, helping to offset employment reductions in traditional manufacturing sectors.",
+        "• Additionally, it has absorbed many internal migrant workers, contributing to urban employment and economic integration.",
+        "• As of 2020, approximately 84 million individuals worked as service providers within the platform economy, highlighting its extensive labor force.",
+        "• In the same year, about 6 million people were employed directly by platform companies as employees, indicating a significant corporate employment presence within the sector.",
+        "• The platform economy sector is highly concentrated among two major technology giants: Alibaba and Tencent.",
+        "• Both Alibaba and Tencent have key assets in ride-hailing and food delivery businesses, which are central to their investment portfolios and strategic growth.",
+        "• Since 2016, ride-hailing and food delivery businesses have undergone significant consolidation, leading to increased market dominance by a few large players and a more concentrated industry structure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:33.750007",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "6.5.4",
+      "section_name": "Mass media",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, China's film market surpassed that of the United States to become the largest film market in the world."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:35.185131",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "6.5.5",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China hosts the world's second largest number of UNESCO World Heritage Sites, totaling 59 sites.",
+        "• The tourism industry in China is among the fastest-growing sectors within the national economy and possesses a significant global competitive advantage.",
+        "• According to the World Travel and Tourism Council, the travel and tourism sector contributed approximately CNY 1,362 billion (US$216 billion) directly to China's economy, accounting for about 2.6% of the country's GDP.",
+        "• In 2011, China recorded a total of 58 million international tourist arrivals.",
+        "• International tourism receipts for China in 2011 amounted to US$48 billion.",
+        "• The Chinese tourism industry has experienced substantial setbacks due to the COVID-19 pandemic, particularly because of lockdown measures.",
+        "• Strained diplomatic relations with numerous foreign nations have also negatively impacted China's tourism sector.",
+        "• There has been a significant decline in foreign flights into China for both business and leisure purposes, with especially notable reductions from the United States.",
+        "• Increased internal security activities within China have heightened concerns among foreigners about safety, leading to a decreased desire to live in or visit China for fear of being targeted or not being allowed to leave.",
+        "• As a result of these factors, many foreigners are leaving China, and others are excluding it from their travel plans altogether."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:40.099958",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 39
+    },
+    {
+      "section_number": "6.5.6",
+      "section_name": "Luxury goods",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Hong Kong and Macau benefit from favorable taxation rules, making them preferred locations for tourists from other parts of China to purchase luxury goods such as cosmetics, jewelry, and designer fashion items.",
+        "• Porcelain has historically been one of China's most significant luxury exports, playing a crucial role in early trade relations between China and Western countries, with much of this trade historically conducted through Macau.",
+        "• In 2012, China implemented a ban on government agencies purchasing luxury goods, which were often used as official \"gifts,\" leading to a slowdown in luxury goods sales within the country.",
+        "• Despite the 2012 ban, overall luxury goods sales in China remained strong; however, there was a slight decline in sales during the fourth quarter of 2012 for luxury retailers.",
+        "• Sales of luxury items such as shark fins and edible swallow nests, traditionally staples of lavish government banquets, experienced a sharp decrease following the 2012 ban.",
+        "• Many international travel destinations have specialized retail staff dedicated to serving Chinese customers, reflecting the importance of Chinese consumers in the global luxury market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:43.581339",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 40
+    },
+    {
+      "section_number": "7",
+      "section_name": "Income and wealth",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China possesses the largest proportion of the global middle class among nations.",
+        "• As of 2020, China had approximately 400 million middle-income citizens.",
+        "• It is projected that China's middle-income population will reach 1.2 billion by 2027, constituting about one-quarter of the global total.",
+        "• According to a 2021 Pew Research Center survey, the distribution of income in China was as follows: 23 million individuals with a per capita daily income of $50 or more; 242 million with daily income between $20–50; 493 million earning between $10–20; 641 million with daily income of $2–10; and 4 million living on less than $2 per day.",
+        "• All income figures are expressed in international dollars based on 2011 purchasing power parity values.",
+        "• In 2022, China's National Bureau of Statistics reported an average disposable income per capita of ¥36,883, with ¥20,590 derived from wages and salaries, ¥6,175 from net business income, ¥3,227 from net property income, and ¥6,892 from net transfer income.",
+        "• As of April 2023, China ranked second globally after the United States in total number of billionaires and millionaires, with 495 billionaires and 6.2 million millionaires in 2022.",
+        "• The Hurun Global Rich Report of 2020 indicated that China had the highest number of billionaires worldwide, surpassing the US and India combined.",
+        "• By March 2021, the number of Chinese billionaires reached 1,058, with a combined wealth of US$4.5 trillion.",
+        "• The 2019 Global Wealth Report by Credit Suisse Group revealed that China surpassed the US in the wealth held by the top ten percent of the global population, meaning over 100 million Chinese individuals had a net personal wealth of at least US$110,000.",
+        "• As of 2021, China hosts six of the world's top ten cities by the highest number of billionaires: Beijing (1st), Shanghai (2nd), Shenzhen (4th), Hong Kong (5th), Hangzhou (8th), and Guangzhou (9th), more than any other country.",
+        "• As of January 2021, China had 85 female billionaires, accounting for approximately two-thirds of the global total.",
+        "• The average income of rural residents in China is approximately 30% of that of urban residents.",
+        "• The rural population tends to be older due to youth migration to cities for higher-paying jobs, leaving the elderly behind in rural areas.",
+        "• Much of the rural workforce operates small plots of land with limited earning capacity, primarily for subsistence.",
+        "• Chinese Premier Li Keqiang stated in 2020 that about 600 million Chinese live on or under 1,000 yuan per month, which at a rate of 7 yuan to the dollar equals approximately US$143 per month.",
+        "• A family of three earning 1,000 yuan per month would have an annual income of about US$5,150.",
+        "• There is a significant disparity in retirement benefits, with urban retirees receiving substantially higher monthly payments than rural or farm retirees.",
+        "• Despite income inequality, nearly all income groups in China experienced rapid income growth; from 1988 to 2018, rural and urban per capita incomes increased by 8 to 10 times in real terms.",
+        "• China's economic growth has significantly contributed to reducing global inequality, lifting over 1 billion Chinese out of poverty since the Reform and Opening Up policy.",
+        "• The majority of global poverty reduction between 1981 and 2008 occurred in China, with Lan Xiaohuan noting that outside China, the number of poor people remained largely unchanged during that period.",
+        "• As of 2022, China is the world's largest saver country, with the highest total domestic savings, encompassing household, business, and government savings."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:13:56.210728",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 41
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Wages",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During 1979–1980, the Chinese government implemented reforms in factories that included providing wage increases to workers.",
+        "• These wage increases were immediately offset by sharply rising inflation rates, which ranged from 6% to 7%.",
+        "• The reforms also involved dismantling the \"iron rice bowl,\" a term referring to guaranteed lifetime employment and welfare benefits, leading to increased unemployment in the economy.",
+        "• As a result of these reforms, there was a significant rise in unemployment, with approximately twenty million unemployed people recorded during 1979–80.",
+        "• Between 2004 and 2007, urban wages in China increased rapidly, at an annual rate of 13% to 19%.",
+        "• In 2007, the average urban wage was approximately $200 per month.",
+        "• By 2016, the average monthly wage for workers involved in manufacturing goods for export had risen to $424.",
+        "• The increase in wages, combined with other operational costs in China, had largely offset China's previous cost advantage relative to developed economies.",
+        "• A law approved in February 2013 mandated a nationwide minimum wage set at 40% of the average urban salary.",
+        "• The implementation of this minimum wage law was to be phased in fully by 2015."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:14:01.712588",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 42
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "Taxes",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Chinese government’s tax revenues are primarily derived from indirect taxes, with the value-added tax (VAT) being a significant contributor.",
+        "• As of 2024, China's personal income tax constitutes approximately 6.5% of the total tax revenues.",
+        "• The personal income tax in China is structured as a progressive tax system, meaning higher income levels are taxed at higher rates.",
+        "• The top income tax bracket in China is taxed at a rate of 45% of income.",
+        "• The section includes visual references such as a window washer working on a skyscraper in Shanghai, a worker making ceramics in Yunnan, and a Chinese coal miner at the Jin Hua Gong Mine, illustrating diverse labor sectors contributing to the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:14:04.882539",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 43
+    },
+    {
+      "section_number": "8",
+      "section_name": "External trade",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• International trade constitutes a significant component of China's overall economy, with the country becoming the world's largest exporter in 2010 and maintaining this status as of 2023.",
+        "• China has established free trade agreements with multiple nations, including ASEAN, Australia, Cambodia, New Zealand, Pakistan, South Korea, and Switzerland.",
+        "• By 2020, China became the largest trading partner for over 120 countries worldwide.",
+        "• As of 2022, China's primary trading partners are ASEAN, the European Union, Japan, South Korea, Taiwan, Australia, Russia, Brazil, India, Canada, and the United Kingdom.",
+        "• During the Cold War, a notable portion of China's trade with Third World countries was financed through grants, credits, and other assistance, but these efforts were scaled back after Mao Zedong's death in 1976.",
+        "• Post-1976, trade with developing countries became negligible, although Hong Kong and Taiwan emerged as major trading partners during this period.",
+        "• Since the late 1970s economic reforms, China aimed to decentralize its foreign trade system to better integrate into the global trading system.",
+        "• China joined the Asia-Pacific Economic Cooperation (APEC) in November 1991, an organization promoting free trade and cooperation in economic, trade, investment, and technology sectors.",
+        "• China served as APEC chair in 2001, and Shanghai hosted the annual APEC leaders meeting in October of that year.",
+        "• China became a member of the World Trade Organization (WTO) in 2001, with its accession protocol and Working Party Report completed, leading to its official entry on 11 December 2001 after 16 years of negotiations—the longest in GATT history.",
+        "• Despite WTO accession, U.S. exporters have expressed concerns regarding fair market access due to China's restrictive trade policies and U.S. export restrictions.",
+        "• In October 2019, Chinese Vice Premier Han Zheng committed to further reducing tariffs and removing non-tariff barriers for global investors and welcomed increased multinational investment in China.",
+        "• Bilateral trade between China and India exceeded US$38.6 billion, establishing China as India's largest trading partner, exemplified by Chinese container ships unloading cargo at Jawaharlal Nehru Port, Navi Mumbai.",
+        "• China's total global trade surpassed US$4.16 trillion at the end of 2013, having exceeded US$100 billion in 1988 and US$500 billion by 2001, and reaching over US$6 trillion in 2021.",
+        "• The table of China's foreign trade growth during the reform era shows the following average annual growth rates in nominal US dollar terms:",
+        "• 1981–1985: +12.8% (two-way trade), +8.6% (exports), +16.1% (imports)",
+        "• 1986–1990: +10.6%, +17.8%, +4.8% respectively",
+        "• 1991–1995: +19.5%, +19.1%, +19.9% respectively",
+        "• 1996–2000: +11.0%, +10.9%, +11.3% respectively",
+        "• 2001–2005: +24.6%, +25.0%, +24.0% respectively",
+        "• 2006–2010: +15.9%, +15.7%, +16.1% respectively",
+        "• 2016–2021: +11.0% (overall growth rate)",
+        "• The majority of China's imports consist of industrial supplies and capital goods, notably machinery and high-technology equipment, primarily sourced from developed countries such as Japan and the United States.",
+        "• Regionally, nearly half of China's imports originate from East and Southeast Asia, with about a quarter of its exports directed to these regions.",
+        "• Approximately 80% of China's exports are manufactured goods, mainly textiles and electronic equipment, with the remainder comprising agricultural products and chemicals.",
+        "• Three of the five busiest ports in the world are located in China.",
+        "• The U.S.-China trade deficit reached US$233 billion in 2006, with U.S. imports from China increasing by 18%, and China's share of total U.S. imports rising from 7% to 15% since 1996.",
+        "• Trade volume between China and Russia was US$29.1 billion in 2005, a 37.1% increase over 2004, with projections suggesting it could exceed US$40 billion in 2007.",
+        "• China's exports to Russia in 2005 included machinery and electronic goods, which grew by 70%, constituting 24% of China's total exports to Russia; high-tech exports increased by 58%, making up 7% of total exports to Russia.",
+        "• Border trade between China and Russia reached US$5.13 billion in 2005, a 35% increase, accounting for nearly 20% of total trade.",
+        "• Most of China's exports to Russia are apparel and footwear.",
+        "• China is Russia's eighth-largest trade partner, while Russia is China's fourth-largest; China has over 750 investment projects in Russia valued at US$1.05 billion, with contracted investments totaling US$368 million in January–September 2005, double that of 2004.",
+        "• By 2022, China-Russia trade reached a record US$190 billion, with China becoming Russia's trading partner.",
+        "• Chinese imports from Russia primarily include energy sources such as crude oil, transported mainly by rail, and electricity from Siberian and Far Eastern regions; future exports of these commodities are expected to increase due to infrastructure projects like the Eastern Siberia-Pacific Ocean oil pipeline and hydropower stations built by Russian UES.",
+        "• Export growth has been a key driver of China's rapid economic development, supported by policies fostering foreign-invested factories that assemble imported components for export and liberalizing trading rights.",
+        "• Since 2000, China's export product complexity has increased, driven by technological capabilities, infrastructure improvements, and improvements in the business and legal environment.",
+        "• China's 11th Five-Year Program, adopted in 2005, emphasized developing a consumer demand-driven economy to sustain growth and address economic imbalances.",
+        "• China is a member of the Regional Comprehensive Economic Partnership (RCEP), signed in November 2020, the world's largest free-trade area, which includes China, Japan, South Korea, Australia, New Zealand, and ASEAN nations, representing about one-third of the global population and 29% of global GDP.",
+        "• RCEP aims to eliminate tariffs on various products within 20 years.",
+        "• On 17 September 2021, China formally applied to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), another major Asia-Pacific free-trade agreement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:14:22.829481",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 40
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 44
+    },
+    {
+      "section_number": "9",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1992 until at least 2023, China has consistently ranked as either the number one or number two destination worldwide for foreign direct investment (FDI).",
+        "• In 2022, China attracted $180 billion in FDI inflows.",
+        "• As of the end of June 2020, China's FDI stock reached US$2.947 trillion, while its outgoing FDI stock stood at US$2.128 trillion.",
+        "• China's total foreign financial assets amounted to US$7.860 trillion, and its foreign financial liabilities were US$5.716 trillion, making China the second-largest creditor nation globally after Japan.",
+        "• China's investment climate has undergone dramatic changes over more than two decades of reform, shifting from initial restrictions to a more open environment.",
+        "• In the early 1980s, China restricted foreign investments to export-oriented operations and mandated joint ventures with Chinese firms, guided by the Encouraged Industry Catalogue which specified permissible foreign involvement in various sectors.",
+        "• From the beginning of reform, capital inflows expanded annually until 1999, with foreign-invested enterprises accounting for approximately 58–60% of China's imports and exports.",
+        "• Since the early 1990s, the Chinese government permitted foreign investors to manufacture and sell a broad range of goods domestically, eliminated time restrictions on joint venture establishment, and provided assurances against nationalization.",
+        "• Foreign partners were allowed to become chairs of joint venture boards, and wholly foreign-owned enterprises (WFOEs) became the preferred form of FDI.",
+        "• In 1991, China granted preferential tax treatment to WFOEs, contractual ventures, and foreign companies investing in selected economic zones or projects encouraged by the state.",
+        "• China authorized some foreign banks to open branches in Shanghai and permitted foreign investors to purchase \"B\" shares in selected companies listed on the Shanghai and Shenzhen Securities Exchanges, which carried no ownership rights.",
+        "• In 1997, China approved 21,046 foreign investment projects and received over $45 billion in FDI.",
+        "• Significant legal revisions occurred in 2000 and 2001 concerning WFOEs and China Foreign Equity Joint Ventures.",
+        "• Vice Minister of Finance Zhu Guangyao announced that foreign investors would be allowed to own up to 51% in domestic financial service companies, an increase from the previous 49% limit.",
+        "• Foreign investment has been a key driver of China's rapid expansion in global trade and urban employment growth.",
+        "• China's economic leadership emphasizes long-term infrastructure and development finance over short-term capital flows, which have historically imposed large costs on many economies.",
+        "• In 1998, foreign-invested enterprises produced about 40% of China's exports, with foreign exchange reserves totaling approximately $145 billion.",
+        "• Currently, foreign-invested enterprises produce about half of China's exports, with the majority of foreign investment originating from Hong Kong, Macau, and Taiwan.",
+        "• The Chinese government’s focus on manufacturing FDI has led to market saturation in some industries and underdevelopment of the services sector.",
+        "• From 1993 to 2001, China was the world’s second-largest recipient of FDI after the United States, receiving $39 billion in 1999 and $41 billion in 2000.",
+        "• China received nearly $80 billion in FDI in 2005, according to World Bank statistics, and $69.47 billion in 2006.",
+        "• By 2011, China surpassed the U.S. as the top FDI destination, attracting over $280 billion that year, especially as U.S. FDI declined post-2008 financial crisis.",
+        "• In December 2015, amid slowing economic growth and a weakening yuan, FDI into China dropped by 5.8%.",
+        "• Despite the decline in 2015, China remained a top three investment destination in 2016, with over 500 companies surveyed by the American Chamber of Commerce indicating China as a priority, though less so than in 2012 when 80% considered it a top priority.",
+        "• Foreign exchange reserves increased from $155 billion in 1999 to over $800 billion in 2005, more than doubling from 2003.",
+        "• Reserves reached $819 billion at the end of 2005, $1.066 trillion at the end of 2006, and $1.9 trillion by June 2008.",
+        "• By September 2008, China became the largest foreign holder of U.S. Treasury securities, with holdings of $585 billion, surpassing Japan’s $573 billion.",
+        "• China’s foreign exchange reserves are the largest in the world.",
+        "• As part of WTO accession, China committed to eliminating certain trade-related investment restrictions and opening previously closed sectors, with new laws and regulations being issued to implement these commitments.",
+        "• Major remaining barriers include opaque and inconsistently enforced laws, regulations, and a lack of a rules-based legal infrastructure; for example, Warner Bros. withdrew its cinema business due to regulations requiring at least 51% Chinese ownership or leading roles in joint ventures.",
+        "• The Shanghai Free Trade Zone, established in September 2013, serves as a testing ground for economic and social reforms, including a \"negative list\" approach where FDI is permitted in all sectors unless explicitly prohibited.",
+        "• On 15 March 2019, China’s National People’s Congress adopted the Foreign Investment Law, which took effect on 1 January 2020, aiming to further regulate foreign investment.",
+        "• Foreign investment in China poses ethical risks and challenges that investors must navigate carefully."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:14:42.876904",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 33
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 45
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Chinese investment abroad",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Outward foreign direct investment (FDI) is a significant aspect of Chinese globalization, involving Chinese firms investing in both developing and developed countries to expand their global footprint.",
+        "• In 2011, there was a notable increase in Chinese firms' investments in the United States, aimed at gaining access to expertise in marketing and distribution to better exploit the Chinese domestic market.",
+        "• Since 2005, Chinese companies have actively expanded internationally, with investments in both developed and developing nations.",
+        "• In 2013, Chinese companies invested a total of US$90 billion globally in non-financial sectors, representing a 16% increase compared to 2012.",
+        "• Between January 2009 and December 2013, China contributed approximately US$161.03 billion in outward FDI, which created nearly 300,000 jobs worldwide.",
+        "• Western Europe was the largest regional recipient of Chinese outward FDI during this period, with Germany receiving the highest number of FDI projects globally.",
+        "• China demonstrates a willingness to invest in riskier countries, reflecting an aggressive outward investment strategy.",
+        "• Under Xi Jinping’s administration, outbound FDI and infrastructure projects are often linked to the Belt and Road Initiative (BRI).",
+        "• From 2013 to 2021, the Middle East was a prominent recipient of Chinese outbound FDI, primarily due to its strategic energy supplies vital to China.",
+        "• Chinese companies typically enter foreign markets through two methods: organic growth and mergers & acquisitions (M&A).",
+        "• Many Chinese firms prefer M&A for several reasons:",
+        "• Fast expansion: M&A allows rapid acquisition of brands, distribution channels, talents, and technology, aligning with Chinese CEOs’ growth targets of over 50% annually.",
+        "• Access to China’s large market: Chinese companies acquire foreign firms to bring their products and services—such as premium cars, fashion, meat, and Hollywood movies—into China.",
+        "• Cheap capital access: The large Chinese domestic market enables firms to accumulate financial capital, supplemented by government support through long-term, low-interest loans for overseas expansion.",
+        "• Low risk: M&A provides an established company with existing assets, reducing the risks associated with organic growth failures.",
+        "• Low-cost labor: Some companies relocate manufacturing parts from high labor cost countries to China to reduce costs and enhance competitiveness.",
+        "• Trade and policy barriers: Quotas and high taxes in certain sectors hinder Chinese companies’ competitiveness abroad, making M&A a strategic alternative.",
+        "• Depressed assets: The 2008–2010 global economic crisis depressed Western companies’ market values, presenting opportunities for Chinese firms to acquire assets at discounted prices.",
+        "• Chinese direct foreign investment in the non-financial sector increased from US$25 billion in 2007 to US$90 billion in 2013, more than tripling over this period.",
+        "• China’s growing investments and influence in Europe have attracted increased attention from the European Union.",
+        "• Initially, Chinese outward acquisitions were dominated by state-owned enterprises focusing mainly on oil and mineral resources.",
+        "• Since 2005, private Chinese companies have increasingly acquired foreign firms outside raw materials, expanding into diverse sectors.",
+        "• As of 2018, the top 15 outbound Chinese deals included:",
+        "• 3 February 2016: CNAC Saturn (NL) BV acquired Swiss chemical company Syngenta AG for US$41,840.11 million.",
+        "• 23 July 2012: CNOOC Canada Holding Ltd acquired Canadian oil and gas firm Nexen Inc for US$19,119.31 million.",
+        "• 1 February 2008: Shining Prospect Pte Ltd acquired UK metals and mining company Rio Tinto PLC for US$14,284.17 million.",
+        "• 2 June 2017: China Investment Corp acquired UK non-residential property firm Logicor Ltd for US$13,742.43 million.",
+        "• 14 July 2017: Nesta Investment Holdings Ltd acquired Singaporean non-residential property firm Global Logistic Properties Ltd for US$11,553.58 million.",
+        "• 22 August 2017: China Unicom (BVI) Ltd acquired Hong Kong-based China Unicom Hong Kong Ltd for telecommunications services for US$11,255.81 million.",
+        "• 6 October 2016: Park Aerospace Holdings Ltd acquired US transportation and infrastructure firm C2 Aviation Capital LLC for US$10,380.00 million.",
+        "• 14 October 2015: China Tower Corp Ltd acquired Chinese wireless telecommunications infrastructure assets for US$9,948.41 million.",
+        "• 21 June 2016: Halti SA acquired Finnish software company Supercell Oy for US$8,600.00 million.",
+        "• 24 June 2009: Mirror Lake Oil & Gas Co Ltd acquired Swiss oil and gas firm Addax Petroleum Corp for US$7,157.40 million.",
+        "• 1 October 2010: China Petrochemical Corporation acquired Brazilian oil and gas firm Repsol YPF Brasil SA for US$7,111.00 million.",
+        "• 16 March 2016: Anbang Insurance Group Co Ltd acquired US-based Strategic Hotels & Resorts Inc for US$6,500.00 million.",
+        "• 24 October 2016: HNA Tourism Group Co Ltd acquired US hotel chain Hilton Worldwide Holdings Inc for US$6,496.88 million.",
+        "• 17 February 2016: Tianjin Tianhai Investment Co Ltd acquired US computer and peripherals firm Ingram Micro Inc. for US$6,067.41 million.",
+        "• 22 March 2015: Marco Polo Industrial Holding SpA acquired Italian automotive company Pirelli & C SpA for an undisclosed amount.",
+        "• Despite rapid growth and M&A activity, Chinese goods and brands continue to suffer from a perception of low quality and low price among consumers globally.",
+        "• Market research by the Chicago-based Monogram Group in 2007, 2009, 2011, and 2012 indicated that American consumers’ willingness to purchase Chinese products remained stagnant or declined across most categories, except personal computers, which saw increased purchase likelihood.",
+        "• The perception of Chinese products as low quality and low price persisted despite the scale of Chinese outbound investments and influence, highlighting ongoing brand and consumer trust challenges.",
+        "• During the 20 June 2016 inauguration of the China Railway Express in Warsaw, Poland, Chinese leader Xi Jinping and Poland’s President Andrzej Duda were present, symbolizing China’s expanding infrastructure and diplomatic engagement through initiatives like the Belt and Road."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:15:00.740217",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 42
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 46
+    },
+    {
+      "section_number": "9.2",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1993 and 2010, Chinese companies participated in a total of 25,284 mergers and acquisitions (M&A) transactions.",
+        "• These M&A activities involved Chinese companies acting both as acquirers and as target companies being acquired.",
+        "• The cumulative known value of these mergers and acquisitions during this period was approximately US$969 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:15:02.521638",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 47
+    },
+    {
+      "section_number": "10",
+      "section_name": "Labor force",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China's estimated employed labor force in 2005 was approximately 791 million people, accounting for about 60% of the total population.",
+        "• In 2003, the distribution of China's labor force was 49% employed in agriculture, forestry, and fishing; 22% in mining, manufacturing, energy, and construction industries; and 29% in the services sector and other categories.",
+        "• In 2004, around 25 million individuals were employed by approximately 743,000 private enterprises in China.",
+        "• The 2010 census revealed that China was now roughly half urbanized and experiencing rapid aging, primarily due to the one-child policy implemented earlier.",
+        "• The aging demographic is expected to increase demand for labor related to elderly care and reduce the supply of migrant labor from rural areas.",
+        "• In January 2016, China replaced its one-child policy with a two-child policy.",
+        "• In May 2021, the two-child policy was further replaced by a three-child policy.",
+        "• By July 2021, all family size limits and penalties for exceeding them were abolished in China.",
+        "• During the decade leading up to 2014, approximately ten million Chinese emigrated to other countries, taking assets and technical skills with them.",
+        "• The All-China Federation of Trade Unions (ACFTU) is the only legally recognized trade union in China; efforts to establish independent trade unions have been rare and short-lived.",
+        "• A notable exception was the Beijing Workers' Autonomous Federation (BWAF), formed during the 1989 Tiananmen Square protests and massacre.",
+        "• The Chinese government, through the Martial Law Command Headquarters, declared the BWAF an illegal organization and ordered it to disband, citing that its leaders were among the main instigators and organizers of the counterrevolutionary rebellion in Beijing.",
+        "• As of 2024, China has one of the lowest retirement ages among major economies, with many working women eligible for retirement at age 50 and men at age 60."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:15:09.702470",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 48
+    },
+    {
+      "section_number": "11",
+      "section_name": "Transportation and infrastructure",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China possesses the world's longest and most extensively utilized high-speed rail network, extending over 45,000 kilometers.",
+        "• The country's transportation policy has been significantly influenced by political, military, and economic considerations, undergoing major reforms since 1949.",
+        "• Immediately following the founding of the People's Republic of China, the primary transportation goal was to repair existing infrastructure to support military logistics and reinforce territorial integrity.",
+        "• Throughout the 1950s, China focused on constructing new road and rail links while simultaneously improving existing ones.",
+        "• During the 1960s, regional transportation improvements became predominantly the responsibility of local governments, leading to the construction of many small railways.",
+        "• Emphasis was placed on developing transportation infrastructure in remote rural, mountainous, and forested areas to integrate poorer regions and promote economies of scale in agriculture.",
+        "• Prior to the late 1970s reform era, China's transportation network was mainly concentrated in coastal areas, with limited access to inland regions, resulting in generally poor connectivity.",
+        "• Post-reform, significant improvements were made as railways and highways were constructed in remote and frontier regions of northwest and southwest China.",
+        "• Concurrently, China expanded its international transportation capabilities, notably broadening the scope of ocean shipping.",
+        "• Freight transportation is predominantly handled by rail, which is monopolized by China Railway, with services varying widely across the network.",
+        "• In late 2007, China became one of the few countries to develop and launch its own indigenously produced high-speed train.",
+        "• Rail capacity struggles to meet the growing demand for transporting goods and raw materials such as coal, leading to rapid development of alternative transport modes including air routes, roads, and waterways to satisfy China's overall transportation needs.",
+        "• Some economic experts attribute China's relative economic growth compared to other emerging economies like Brazil, Argentina, and India to its early and substantial investment in infrastructure.",
+        "• During the 1990s and 2000s, China invested approximately 9% of its GDP in infrastructure development, whereas most emerging economies invested only 2% to 5% of their GDP.",
+        "• This substantial investment gap enabled China to grow under near-optimal conditions, while many South American economies faced development bottlenecks due to inadequate transportation networks, aging power grids, and mediocre educational systems."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:15:17.278145",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 49
+    },
+    {
+      "section_number": "12",
+      "section_name": "Science and technology",
+      "chapter_name": "Economy of China",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the World Intellectual Property Organization (WIPO), China is the largest source of patent filings globally, contributing more than half of all patent applications worldwide.",
+        "• Over recent decades, science and technology development in China has experienced rapid growth, driven by government initiatives and societal emphasis.",
+        "• The Chinese government has prioritized science and technology as fundamental to the country’s socio-economic development and national prestige through targeted funding, reforms, and societal recognition.",
+        "• China has achieved significant advancements in various sectors, including education, infrastructure, high-tech manufacturing, artificial intelligence, academic publishing, patents, and commercial applications.",
+        "• The country is increasingly focusing on indigenous innovation to address and reform existing weaknesses in its technological ecosystem.",
+        "• China’s Thousand Talents Plan is a strategic initiative designed to attract innovative Chinese academics living abroad, as well as some foreign experts, to return to China and support its economic innovation objectives.",
+        "• A 2023 study by the Australian Strategic Policy Institute evaluated 44 critical technologies and concluded that China leads the world in 37 of them.",
+        "• Among the technologies in which China is a global leader are 5G internet, electric batteries, and hypersonic missiles."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T19:15:20.342058",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_china.json",
+      "original_index": 50
+    }
+  ]
+}

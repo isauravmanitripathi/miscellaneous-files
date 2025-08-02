@@ -1,0 +1,279 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_panama.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.658831",
+    "total_sections_in_source": 11,
+    "extracted_sections_count": 11,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Panama is predominantly based on the tourism and services sector, which constitutes nearly 80% of the country's Gross Domestic Product (GDP) and generates the majority of its foreign income.",
+        "• The services sector in Panama encompasses banking, commerce, insurance, container ports, flagship registry, medical and health services, and tourism.",
+        "• Historically, the Panama Canal and the nearby Colón Free Trade Zone were the primary sources of Panama's income; however, their economic significance has been surpassed by the expanding services sector.",
+        "• Panama’s industrial sector includes the manufacturing of aircraft spare parts, cement, beverages, adhesives, and textiles.",
+        "• Panama exports agricultural and manufactured products such as bananas, shrimp, sugar, coffee, and clothing.",
+        "• Panama’s economy is fully dollarized, with the United States dollar serving as legal tender throughout the country.",
+        "• Panama was the first foreign nation to adopt the U.S. dollar as its official currency in 1903, following its secession from Colombia, which was facilitated by U.S. support and resulted in the temporary absence of a local currency.",
+        "• Panama is classified as a high-income economy and has a historical record of maintaining low inflation rates."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:27.479379",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the early 16th century, Panama's geographic location provided a comparative advantage, with ports on each coast and a trail between them facilitating much of Spain's colonial trade, benefiting the inhabitants of the port cities.",
+        "• Panama's economy has historically depended on world commerce and is influenced by the cyclical nature of international trade, experiencing stagnation in the 18th century as colonial exchange via the isthmus declined.",
+        "• In the mid-19th century, Panama's economy boomed due to increased cargo and passenger traffic linked to the California Gold Rush; the completion of a railroad across the isthmus in 1855 extended this growth for about fifteen years until the first transcontinental railroad in the United States reduced trans-isthmian traffic.",
+        "• French efforts to construct a canal across the isthmus in the 1880s and subsequent United States efforts in the early 20th century stimulated Panama's economy, culminating in the completion of the Panama Canal by the United States in 1914.",
+        "• The Great Depression of the 1930s caused a reduction in international trade and canal traffic, leading to widespread unemployment in terminal cities and a shift of workers to subsistence farming.",
+        "• During World War II, canal traffic did not increase, but the economy boomed due to the convoy system and the presence of United States forces defending the canal, which increased foreign spending in canal cities.",
+        "• Post-World War II economic depression was followed by rapid expansion between 1950 and 1970, with growth across all sectors including increased agricultural output, development of a sophisticated wholesale and retail commerce system, and rapid growth in banking, tourism, and export of services to the Canal Zone, stimulated by increased world trade.",
+        "• In the 1970s and 1980s, Panama's economic growth fluctuated with global economic conditions; after 1973, expansion slowed due to international and domestic factors, with a rebound in the early 1980s followed by severe recession in Latin America after 1982, coinciding with General Manuel Noriega’s rise to power and increasing national indebtedness.",
+        "• The United States pursued Noriega, imposing sanctions that froze Panama's assets in the US; Panama, using the US dollar, was forced to default on its IMF debt in 1987, leading to economic turmoil including a general strike and a two-month banking system closure.",
+        "• The United States invaded Panama in 1989, forcing Noriega’s surrender; Panama regained access to IMF funds in 1992.",
+        "• After assuming office in 1994, President Ernesto Perez Balladares implemented an economic liberalization program aimed at trade liberalization, attracting foreign investment, privatizing state-owned enterprises, and instituting fiscal discipline; following two years of near-stagnation, strong GDP growth occurred in 1997–1998, driven primarily by the Panama Canal and shipping and port activities of the Colón Free Trade Zone.",
+        "• During the administration of President Mireya Moscoso beginning in 1999, efforts focused on strengthening social programs; Moscoso’s government successfully managed the Panama Canal transfer and administered the Canal effectively.",
+        "• Under President Martín Torrijos, starting in 2004, Panama continued strong economic growth and initiated the Panama Canal expansion project (2007–2016), which doubled the waterway’s capacity; by 2008, strong economic performance had reduced the national poverty level to 29%.",
+        "• In 2008, Panama exhibited the second most unequal income distribution in Latin America; the Torrijos government implemented tax and social security reforms, supported regional trade agreements, and promoted tourism development; although not a CAFTA signatory, Panama independently negotiated a free trade agreement with the United States in December 2006.",
+        "• Ricardo Martinelli was elected president in May 2009, pledging to promote free trade, establish a metro system, and complete the Panama Canal expansion plan.",
+        "• Panama’s economic role has been compared to that of Singapore, with commentators describing it as \"the Singapore of Central America,\" although Panama’s involvement in the Odebrecht corruption scandal has negatively impacted official efforts to market the country using this analogy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:37.540412",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Financial services",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Panama's financial services sector is substantial and operates without a central bank, meaning there is no lender of last resort to rescue banks facing financial difficulties.",
+        "• Due to the absence of a central bank, Panamanian banks are managed very conservatively, maintaining an average capital adequacy ratio of 15.6% in 2012, which is nearly double the legally required minimum.",
+        "• The financial sector initially developed by providing trade finance services for commerce passing through the Panama Canal.",
+        "• Over time, the sector became associated with money laundering activities linked to the drug trade during the regime of Manuel Noriega.",
+        "• Following the global financial crisis of 2008, Panama has actively sought to improve its international reputation and reduce its image as a tax haven.",
+        "• To this end, Panama has signed numerous double taxation treaties, primarily with countries belonging to the Organisation for Economic Co-operation and Development (OECD).",
+        "• In April 2011, Panama entered into a treaty with the United States focused on the exchange of financial information to enhance transparency and cooperation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:23.805939",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture constitutes a significant sector within the Panamanian economy, contributing notably to the country's overall economic activities.",
+        "• Major agricultural products cultivated and produced in Panama include bananas, cocoa beans, coffee, coconuts, timber, beef, chicken, shrimp, corn (maize), potatoes, rice, soybeans, and sugar cane.",
+        "• In the year 2009, the combined sectors of agriculture and fisheries accounted for 7.4% of Panama's Gross Domestic Product (GDP).",
+        "• Despite its agricultural production, Panama is a net importer of food, relying primarily on the United States as its main supplier of imported food products.",
+        "• The agricultural sector in Panama employs a substantial portion of the population, which is relatively high compared to agriculture’s share of the national GDP, largely due to the prevalence of subsistence farming among many Panamanian farmers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:25.633185",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2006, the mineral-mining industry in Panama contributed approximately 1% to the country's Gross Domestic Product (GDP), excluding the manufacturing sectors related to mineral commodities such as cement production and petroleum refining.",
+        "• The Petaquilla gold mine, a significant mining operation in Panama, has been abandoned following a ruling of unconstitutionality against it, indicating legal and operational challenges impacting the mining sector.",
+        "• The operations of Cobre Panama, a major copper mining project, have led to a rise in Panama’s GDP percentage attributed to mining activities, reflecting the economic importance of copper extraction in recent years.",
+        "• The article notes the need for updates as of April 2024 to incorporate recent developments and newly available information regarding Panama’s mining industry, particularly concerning the status of Petaquilla and the economic impact of Cobre Panama.",
+        "• An economic activity map of Panama from 1981 is referenced, providing historical context for the distribution and significance of various economic sectors, including mining, within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:24.884401",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Real estate",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Republic of Panama's real estate industry is heavily dependent on foreign investment, which has been a significant driver of growth since 2006, contributing positively to both the national economy and the housing market.",
+        "• Despite the expansion of the economy and housing sector, poverty remains a critical issue in Panama, with most indigenous populations living in conditions of extreme poverty and many rural inhabitants experiencing basic poverty.",
+        "• The poor living conditions in Panama are exacerbated by inadequate access to essential services such as sanitation, electricity, clean water, healthcare, and education, which severely impact housing quality and overall living standards.",
+        "• To stimulate foreign investment in real estate projects and infrastructure development, the Panamanian government has enacted protective legislation aimed at safeguarding the rights of both foreign and domestic investors.",
+        "• The real estate market in Panama is affected by corruption, including allegations that drug trafficking profits and money laundering activities are used to finance real estate developments.",
+        "• Panama employs a system of publicly recorded titled deeds, similar to those used in the United States and Canada, to establish and verify real estate ownership.",
+        "• Additionally, Panama has a distinctive Rights of Possession system that permits individuals to occupy unused government land and improve it, thereby establishing certain usage rights despite the absence of formal title."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:27.070704",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2",
+      "section_name": "Taxation",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Taxation in Panama is governed by the Fiscal Code and operates on a territorial basis, meaning taxes apply only to income or gains derived from business activities conducted within Panama itself.",
+        "• The presence of a sales or administration office in Panama, or the re-invoicing of external transactions at a profit, does not automatically trigger taxation if the underlying transactions occur outside Panama.",
+        "• Dividends paid out of earnings from activities conducted outside Panama are exempt from taxation.",
+        "• In February 2005, Panama's unicameral legislature approved a significant fiscal reform package aimed at increasing government revenues through new business taxes and raising the country’s debt level.",
+        "• The legislative vote on the fiscal reform package was 46 in favor and 28 against.",
+        "• The fiscal reform measures introduced a new tax of 1.4% on companies’ gross revenues.",
+        "• Additionally, a 1% levy was imposed on firms operating within the Colón Free Trade Zone, which is recognized as the largest free port in the Americas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:29.484671",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Further reforms",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• President Ricardo Martinelli initially pledged to introduce a flat tax system with a flat tax rate of 10%, aiming to increase government revenues, control inflation, and enable significant real wage growth.",
+        "• Contrary to his initial promise, the Martinelli administration raised the sales tax from 5% to 7% and increased other taxes to fund numerous infrastructure projects throughout Panama.",
+        "• The current Value Added Tax (VAT) rates in Panama are differentiated as follows: a standard rate of 7%, a 15% rate applied to tobacco products, a 10% rate for alcohol and hotel services, and a 5% rate for essential goods.",
+        "• Panama’s corporate tax rate is set at 25%, while the highest marginal income tax rate applicable is 27%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:29.438632",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "As tax haven",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Republic of Panama is recognized as one of the oldest and most well-known tax havens in the Caribbean region, with a long-established presence in this capacity.",
+        "• Panama has maintained a reputation for facilitating tax avoidance since the early 20th century, marking it as a significant jurisdiction in global tax avoidance practices.",
+        "• In recent years, Panama has been repeatedly cited as a jurisdiction that does not cooperate with international tax transparency initiatives, highlighting ongoing concerns about its regulatory stance.",
+        "• Panama’s offshore financial sector is closely linked to the Panama Canal, which serves as a strategic gateway and entrepôt for international trade, reinforcing Panama’s role in global commerce and finance.",
+        "• The economic and operational characteristics of Panama’s tax haven status show strong similarities to other prominent tax havens such as Hong Kong, Singapore, and Dubai.",
+        "• According to the Tax Justice Network, Panama officially has the largest shipping fleet in the world on paper, surpassing the combined fleets of the United States and China, underscoring its significant maritime and offshore financial presence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:32.203398",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3",
+      "section_name": "Transportation",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Panama City features six major highways: the Panama-Arraijan Bridge of the Americas, Panama-Arraijan Centennial Bridge, Arraijan-Chorrera, Corredor Norte, Corredor Sur, and Autopista Panama-Colon.",
+        "• Panama's roads, traffic, and transportation systems are generally considered safe, with older traffic lights recently overhauled and replaced by remotely controllable traffic lights, even at busy intersections where remote control is not strictly necessary.",
+        "• Midday driving in Panama City is typically slow and challenging due to dense traffic, frequent traffic jams, and ongoing street renovation programs.",
+        "• Night driving is difficult and often restricted by local authorities in areas with poor lighting and hazardous driving conditions, particularly in informal settlements, making night travel especially dangerous in these zones.",
+        "• Traffic in Panama moves on the right-hand side of the road, and Panamanian law mandates that both drivers and passengers wear seat belts.",
+        "• Historically, Panama had an extensive and efficient public transportation system characterized by colorful painted buses known as __diablo rojo__, which were often customized with bright colors and images of famous actors, politicians, or singers.",
+        "• The __diablo rojo__ buses were popular throughout Panama City and neighboring towns, with drivers personally customizing both the interior and exterior of their vehicles.",
+        "• Panama City's streets frequently experience traffic jams, attributed to poor urban planning.",
+        "• Since 2010, __diablo rojo__ buses have been prohibited from operating in Panama City except for recreational purposes.",
+        "• Currently, the only available public transportation methods in Panama City are the Metrobus and the Metro system."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:33.675770",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "4",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Panama",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Panama’s main economic indicators from 1980 to 2019, with IMF staff estimates for 2020 to 2026, including GDP in billion US$ PPP and nominal terms, GDP per capita, real GDP growth, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• Inflation rates below 5% are highlighted in green, showing relatively low inflation for most years except for early 1980s and 2007-2008.",
+        "• In 1980, Panama’s GDP was 7.0 billion US$ PPP with a GDP per capita of 3,530.8 US$ PPP; nominal GDP was 4.1 billion US$ with a nominal GDP per capita of 2,071.0 US$, real GDP growth was 4.5%, inflation was 13.8%, unemployment was 8.4%, and government debt data was not available.",
+        "• Panama experienced fluctuating GDP growth in the 1980s, with negative growth in 1983 (-4.5%), 1987 (-1.8%), and a sharp decline in 1988 (-13.4%), while inflation dropped significantly from 13.8% in 1980 to below 2% by mid-1980s.",
+        "• Unemployment rates increased through the 1980s, peaking at 18.9% in 1989, with government debt data unavailable for this decade.",
+        "• The 1990s saw steady GDP growth, with real GDP growth rates ranging from 1.8% to 9.4%, inflation rates mostly below 2%, and unemployment gradually decreasing from 16.7% in 1990 to 9.5% in 1999.",
+        "• Government debt as a percentage of GDP was first reported in 1994 at 81.2%, then steadily declined throughout the 1990s to 57.4% by 1999.",
+        "• From 2000 to 2007, Panama’s economy expanded rapidly, with GDP growing from 25.3 billion US$ PPP in 2000 to 45.2 billion US$ PPP in 2007, and real GDP growth peaking at 12.1% in 2007.",
+        "• Inflation rates during 2000-2007 remained low, mostly under 5%, except for 4.2% in 2007; unemployment rates steadily declined from 13.5% in 2000 to 6.4% in 2007.",
+        "• Government debt as a percentage of GDP decreased significantly from 55.8% in 2000 to 49.4% in 2007.",
+        "• The nominal GDP per capita in Panama was reported as 11,691 balboas/US$ in 2002, increasing to 13,099 in 2004, 14,004 in 2005 (preliminary), and an estimated 15,141.9 in 2006, according to the Office of Statistics and Census, Government of Panama.",
+        "• From 2002 to 2006, the transport and communications sector experienced especially strong growth, becoming the largest GDP component, alongside robust growth in multiple other sectors.",
+        "• Real GDP growth rates during 2003-2006 were notably high: 7.5% (2003–04), 6.9% (2004–05), and 8.1% (2005–06).",
+        "• In 2008, Panama’s GDP growth slowed to 9.2% from 11.5% in 2007, and further slowed to 2.4% in the first half of 2009 due to the global economic downturn, but growth was expected to improve in 2010, remaining one of the strongest in the region.",
+        "• Growth during this period was driven by construction, transportation, port activities, Panama Canal-related operations, and tourism sectors.",
+        "• The government deficit as a percentage of GDP dropped to 43% in 2009, and Panama’s government-issued debt achieved investment grade status in February 2010.",
+        "• A United Nations report highlighted significant poverty reduction in Panama from 2001 to 2007: overall poverty declined from 37% to 29%, and extreme poverty decreased from 19% to 12%.",
+        "• Despite economic growth and poverty reduction, Panama retained the second-most unequal income distribution in Latin America.",
+        "• From 2010 to 2019, Panama’s GDP in billion US$ PPP increased from 55.2 to 139.1, with GDP per capita rising from 15,076.0 to 32,973.2 US$ PPP.",
+        "• Real GDP growth rates during 2010-2019 fluctuated, with peaks such as 11.3% in 2011 and lows like 1.2% in 2009, while inflation mostly remained below 5%, except for 5.9% in 2011 and 8.8% in 2008.",
+        "• Unemployment rates decreased from 6.5% in 2010 to 7.1% in 2019, showing some variability but generally low levels compared to earlier decades.",
+        "• Government debt as a percentage of GDP remained relatively stable during this period, fluctuating between 35.6% and 42.2%.",
+        "• The IMF staff estimates for 2020–2026 project continued growth in Panama’s economy, with GDP expected to rise from 115.5 billion US$ PPP in 2020 to 191.9 billion US$ PPP in 2026.",
+        "• Nominal GDP per capita is projected to increase from 12,373.0 US$ in 2020 to 18,326.5 US$ in 2026, with real GDP growth stabilizing at 5.0% annually from 2022 onwards.",
+        "• Inflation rates are forecasted to remain around 2.0% from 2022 to 2026, with unemployment steady at approximately 8.9%, and government debt as a percentage of GDP gradually declining from 66.3% in 2020 to 55.4% in 2026.",
+        "• The sharp economic contraction in 2020, with a real GDP decline of -17.9%, inflation at -1.6%, and unemployment spiking to 18.5%, reflects the impact of the COVID-19 pandemic.",
+        "• Recovery began in 2021 with a 12.0% GDP growth rate, inflation at 1.4%, unemployment decreasing to 10.2%, and government debt at 62.2% of GDP.",
+        "• Overall, Panama’s economic data from 1980 to 2026 illustrate periods of volatility and strong growth, with recent decades marked by significant expansion, poverty reduction, and stabilization of macroeconomic indicators."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:02.093008",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 28
+      },
+      "source_file": "economy_of_panama.json",
+      "original_index": 10
+    }
+  ]
+}

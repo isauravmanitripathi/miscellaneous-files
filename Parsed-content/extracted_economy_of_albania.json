@@ -1,0 +1,483 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_albania.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.260657",
+    "total_sections_in_source": 16,
+    "extracted_sections_count": 16,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Albania transitioned from a centralized economy to a market-based economy founded on free-market principles.",
+        "• Albania's economic structure is composed of the service sector (54.1%), agriculture (21.7%), and industrial sector (24.2%).",
+        "• The country possesses some natural resources, which support various economic activities.",
+        "• Key sectors that bolster the Albanian economy include agriculture, food processing, lumber, oil, cement, chemicals, mining, basic metals, hydro power, tourism, textile industry, and petroleum extraction.",
+        "• The most prominent and strongest sectors are energy, mining, metallurgy, agriculture, and tourism.",
+        "• Primary industrial exports from Albania are clothing and chrome.",
+        "• Tourism is a significant source of national income, especially during the summer months.",
+        "• In 2019, over 6.4 million tourists visited Albania, contributing to the economy.",
+        "• Tourism in Albania generates annual revenue exceeding $2.4 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:09:42.453767",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the collapse of the communist regime in 1990, Albania experienced a significant exodus of refugees to Italy and Greece, reflecting social and economic upheaval.",
+        "• The country initially attempted to achieve autarky, a policy of economic self-sufficiency, which eventually succeeded in establishing a closed economy.",
+        "• Albania began earnest economic reform efforts in early 1993, after its real GDP had fallen by more than 50% from its peak in 1989, indicating severe economic contraction.",
+        "• Since 1990, Albania has suffered from high levels of organized crime and corruption, which continue to impact its economic stability and development.",
+        "• The democratically elected government that took office in April 1992 launched an ambitious reform program aimed at halting economic deterioration and transitioning to a market economy.",
+        "• Key elements of the 1992 reform program included:",
+        "• The reform package was complemented by comprehensive structural reforms, including:",
+        "• Most sectors, including agriculture, state housing, and small industry, were privatized during this period.",
+        "• The privatization trend extended to transport, services, and small to medium-sized enterprises, further liberalizing the economy.",
+        "• In 1995, the Albanian government initiated the privatization of large state enterprises, marking a shift towards broader privatization efforts.",
+        "• After reaching a low point in the early 1990s, Albania’s economy gradually expanded, eventually returning to its 1989 GDP level by the end of the 1990s, indicating a slow but steady recovery."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:09:46.647345",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Macroeconomic trends",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section presents a chart of Albania's Gross Domestic Product (GDP) in US dollars based on Purchasing Power Parity (PPP), with estimates provided by the International Monetary Fund (IMF).",
+        "• The data covers the years 2016, 2017, 2018, 2019, and 2023, illustrating trends in GDP in both PPP and nominal terms, as well as GDP per capita and growth rates.",
+        "• In 2016, Albania's GDP was $34.0 billion PPP, with a GDP per capita of $11,833, and a nominal GDP of $11.9 billion, with a per capita figure of $4,127, experiencing a growth rate of 3.3%.",
+        "• By 2017, GDP increased to $36.0 billion PPP, with a per capita of $12,521, nominal GDP rose to $13.1 billion, and per capita to $4,539, with a growth rate of 3.8%.",
+        "• In 2018, GDP reached $38.4 billion PPP, with a GDP per capita of $13,345, nominal GDP of $15.2 billion, and per capita of $5,289, growing by 4.2%.",
+        "• The 2019 figures show GDP at $40.5 billion PPP, with a per capita of $14,102, nominal GDP of $16.0 billion, and per capita of $5,562, with a growth rate of 3.7%.",
+        "• In 2023, Albania's GDP further increased to $44.0 billion PPP, with a per capita of $19,976, nominal GDP of $23.3 billion, and per capita of $8,800, maintaining a growth rate of 3.6%.",
+        "• For PPP comparisons, the US dollar is exchanged at 49 leks, based on a 2007 estimate; mean wages in 2009 averaged $300.83 per month.",
+        "• Albania is classified as a low-income country by Western European standards, with a GDP per capita lower than all EU countries.",
+        "• According to Eurostat, in 2008, Albania's GDP per capita (expressed in PPS) was 35% of the EU average.",
+        "• The unemployment rate in 2018 was 12.4%.",
+        "• Albania's initial economic recovery efforts were promising, with real GDP growth driven mainly by the agricultural sector, including increases of 111% in 1993, 89% in 1994, and over 119% in 1995, predominantly in the private sector.",
+        "• During this period, annual inflation decreased from 25% in 1991 to zero, and the lek stabilized, reducing dependence on food aid.",
+        "• The private entrepreneurial response to economic liberalization exceeded expectations.",
+        "• Starting in 1995, economic progress stalled, with negligible GDP growth in 1996 and a 59% contraction in 1997, influenced by political instability and policy shifts.",
+        "• The 1996 election year saw weakened government resolve, leading to a renewal of inflationary pressures, with the budget deficit exceeding 0.12%, causing inflation to approach 0.20%, and reaching 0.50% in 1997.",
+        "• The collapse of financial pyramid schemes in early 1997, which attracted deposits from a large portion of the population, triggered severe social unrest, resulting in over 1,500 deaths, widespread property destruction, and a 0.08% decline in GDP.",
+        "• During the 1997 crisis, the lek lost up to half of its value but rebounded to its January 1998 level of 0.00143 to the dollar.",
+        "• The new government installed in July 1997 implemented strong measures to restore order and revive economic activity and trade.",
+        "• Albania is undergoing an intensive macroeconomic restructuring process with support from the IMF and the World Bank, addressing reforms across all sectors of the economy.",
+        "• In 2000, Albania privatized its oldest commercial bank, Banka Kombetare Tregtare (BKT).",
+        "• In 2004, the largest commercial bank, the Savings Bank of Albania, was privatized and sold to Raiffeisen Bank of Austria for US$124 million.",
+        "• Over the last five years, macroeconomic growth has averaged approximately 59%, with inflation remaining low and stable.",
+        "• The government has adopted measures to combat violent crime and introduced a fiscal reform package aimed at reducing the large gray economy and attracting foreign investment.",
+        "• Remittances from Albanians abroad constitute about 15% of GDP annually, mainly from those residing in Greece and Italy, helping to offset the large trade deficit.",
+        "• The agricultural sector employs over half of the population but contributes only about 20% to GDP, primarily consisting of small family farms and subsistence farming due to lack of modern equipment, unclear property rights, and small, inefficient plots.",
+        "• Energy shortages, caused by reliance on hydropower and outdated infrastructure, hinder economic development; recent projects include a new thermal power plant near Vlore and plans to improve transmission lines with Montenegro and Kosovo.",
+        "• Efforts to improve Albania’s poor national road and rail infrastructure are underway, supported by EU funds, to facilitate economic growth.",
+        "• Since 2005, reforms have accelerated; in 2009, Albania was one of the few European countries, alongside Poland, San Marino, and Liechtenstein, to experience economic growth, with a real GDP increase of 3.7%.",
+        "• The tourism sector has been increasingly contributing to GDP annually, gaining a larger share of the economy.",
+        "• As of July 2012, data from the National Institute of Statistics (INSTAT) indicated a slight contraction of 0.0002% in the first quarter, mainly attributed to the eurozone debt crisis.",
+        "• The informal sector exists but its exact size remains uncertain due to its secretive nature.",
+        "• Foreign direct investment (FDI) in Albania accounts for approximately 50% of GDP, according to Santander Bank.",
+        "• Bank profitability in Albania declined significantly in the last six months of 2023, with most international banking groups reporting lower return on assets (RoA) and return on equity (RoE) compared to their overall group performance.",
+        "• In the first half of 2023, all banks reported profitability levels comparable to their group levels, with one-third of parent banks considering deleveraging but intending to maintain or increase activity through subsidiaries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:03.442576",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 35
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Challenges and solutions",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Albania's economic reforms are limited by constrained administrative capacity and low income levels, which increase the population's vulnerability to unemployment, price fluctuations, and other economic variables negatively impacting income.",
+        "• The Albanian economy is significantly supported by remittances from the labor force working abroad, which supplement the gross domestic product (GDP) and help offset the country's large foreign trade surplus.",
+        "• Most agricultural land in Albania was privatized in 1992, leading to substantial improvements in peasant incomes.",
+        "• In 1998, Albania recovered from a 0.8% decline in GDP experienced in 1997 and experienced a remarkable 79% increase in GDP in 1999.",
+        "• International aid has played a role in alleviating the high costs associated with receiving and returning refugees from the Kosovo conflict.",
+        "• Large-scale foreign investment in Albania remains hindered by poor infrastructure, including inadequate transportation, energy, and communication networks.",
+        "• The country's investment climate is further hampered by the lack of a fully functional banking system, which limits financial operations and access to capital.",
+        "• Albania's legal framework for investment, including laws related to investment, taxation, and contracts, remains untested or incompletely developed, creating legal uncertainties for investors.",
+        "• A persistent mentality within the country discourages initiative and entrepreneurial risk-taking, thereby impeding economic development and investment growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:08.153292",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Other recommendations",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Forbes highlighted some progress in Albania's economic development, noting that with assistance from international donors, the government is taking steps to improve the country's poor national road and rail network, which has historically been a significant barrier to sustained economic growth.",
+        "• Inward foreign direct investment (FDI) in Albania has increased significantly in recent years due to the government's ambitious program aimed at improving the business climate through fiscal and legislative reforms.",
+        "• The Albanian government is focused on simplifying licensing requirements and tax codes as part of its efforts to attract more investment and foster economic growth.",
+        "• Albania entered into a new financial arrangement with the International Monetary Fund (IMF) to receive additional financial and technical support, indicating ongoing international cooperation to stabilize and develop the economy.",
+        "• The IMF's report dated January 24, 2017, provided positive reinforcement, stating that Albania's economic program remains on track and that there has been good progress in implementing structural reforms.",
+        "• The report commended the Bank of Albania's accommodative monetary policy stance as appropriate for the country's economic conditions at that time.",
+        "• IMF inspectors who visited Tirana outlined an action plan emphasizing several priorities:",
+        "• The IMF noted that important progress had been made in these areas but emphasized that further efforts are necessary to consolidate these gains.",
+        "• Specific objectives highlighted by the IMF include:"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:12.486683",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Application of Albania to the European Union",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Albania formally applied for European Union membership in 2009, aiming to benefit its economy through integration.",
+        "• The country was granted official candidate status for EU membership in 2014.",
+        "• Despite this, Albania was twice denied full EU membership, indicating ongoing challenges in meeting accession criteria.",
+        "• In early 2017, the European Parliament (MEPs) warned Albanian government leaders that the 2017 parliamentary elections must be \"free and fair\" as a prerequisite for commencing accession negotiations.",
+        "• MEPs expressed concerns regarding \"selective justice,\" corruption, the lengthy duration of judicial proceedings, and political interference in investigations and court cases within Albania.",
+        "• The EU Press Release in 2017 conveyed cautious optimism, emphasizing the importance of maintaining reform momentum and expressing willingness to support Albania during its EU integration process.",
+        "• In May 2019, European Commissioner Johannes Hahn recommended that the EU open membership negotiations with Albania, signaling continued EU support.",
+        "• Albania needs to improve its infrastructure, especially highways within the country and connecting to neighboring nations, as a key requirement for advancing EU accession prospects.",
+        "• Discussions regarding funding for infrastructure development took place in 2015, highlighting the importance of progress in this area for Albania’s EU bid.",
+        "• By 2016, China emerged as a major investor in Albania, acquiring drilling rights to the Patos-Marinzë and Kuçovë oil fields from a Canadian company, and investing in Tirana International Airport SHPK.",
+        "• China Everbright and Friedmann Pacific Asset Management are scheduled to operate Tirana International Airport until 2025.",
+        "• As of March 2016, China was Albania’s main trading partner, accounting for 7.7% of the country’s total international trade, surpassing trade volumes with Greece and Turkey.",
+        "• An analysis conducted in 2018 identified ongoing infrastructure deficiencies in Albania, particularly in key sectors, which pose challenges to business development and economic opportunities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:15.524782",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Primary sector",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the communist regime, Albania's agriculture was heavily centralized, integrated with agriculture-related industries, and operated under a state-run system.",
+        "• Currently, agriculture in Albania employs approximately 47.8% of the population.",
+        "• About 24.31% of Albania's land area is used for agricultural purposes.",
+        "• Agriculture contributes approximately 18.9% to the country's Gross Domestic Product (GDP).",
+        "• The main agricultural products in Albania include tobacco, various fruits such as oranges, lemons, figs, and grapes, as well as vegetables like olives, wheat, maize, and potatoes.",
+        "• Other significant agricultural products are sugar beets, meat, honey, dairy products, and traditional medicine and aromatic plants.",
+        "• Albanian wine is distinguished by its unique sweetness and indigenous varieties, with a history of viticulture that is among Europe's longest.",
+        "• In 2009, Albania produced an estimated 17,500 tonnes of wine.",
+        "• During the communist era, the wine production area expanded to approximately 20,000 hectares (49,000 acres).",
+        "• The region of present-day Albania was one of the few areas where vines naturally grew during the Ice Age.",
+        "• The oldest grape seeds found in Albania are estimated to be between 40,000 and 60,000 years old.",
+        "• The ancient Roman writer Pliny described Illyrian wine as \"very sweet or luscious\" and ranked it third among all wines.",
+        "• Traditionally, Albanian families grow grapes in their gardens for wine and Rakia production.",
+        "• In 2018, Albania's agricultural production included:",
+        "• 391,000 tons of maize",
+        "• 288,000 tons of tomatoes",
+        "• 254,000 tons of potatoes",
+        "• 240,000 tons of wheat",
+        "• 239,000 tons of watermelons",
+        "• 184,000 tons of grapes",
+        "• 120,000 tons of cucumbers",
+        "• 117,000 tons of olives",
+        "• 108,000 tons of apples",
+        "• 100,000 tons of onions",
+        "• 81,000 tons of bell peppers",
+        "• Additional smaller-scale productions in 2018 included:",
+        "• 41,000 tons of melons and plums",
+        "• 34,000 tons of oats",
+        "• 27,000 tons of sugar beets",
+        "• 24,000 tons of figs",
+        "• 19,000 tons of peaches",
+        "• 13,000 tons of pears"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:22.795300",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 32
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Tertiary sector",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Gjipe Canyon, located in southern Albania where the Adriatic Sea meets the Ionian Sea, exemplifies the country's diverse natural landscapes.",
+        "• Tourism is a significant contributor to Albania's national income, accounting for 6% of GDP in 2014 through direct contributions, with the total including indirect effects exceeding 20%.",
+        "• In 2017, Albania attracted approximately 5.1 million visitors, primarily from neighboring countries and the European Union.",
+        "• In 2011, Lonely Planet recommended Albania as a top travel destination, highlighting its growing international appeal.",
+        "• In 2014, _The New York Times_ ranked Albania as the number 4 global touristic destination, reflecting its rising global profile.",
+        "• The number of tourists in 2014 increased by 200% compared to previous years, indicating a rapid growth in tourism.",
+        "• Komani Lake, located in southern Albania, is renowned for its ferry rides and is often compared to Scandinavian fjords due to its mountainous scenery.",
+        "• The majority of Albania's tourist industry is concentrated along the coastlines of the Adriatic and Ionian Seas, with the latter often called the Albanian Riviera due to its pristine beaches.",
+        "• The Albanian coastline extends approximately 360 kilometers (220 miles) and features numerous lagoons, ecosystems, sandy beaches, capes, coves, covered bays, small gravel beaches, and sea caves.",
+        "• Parts of the Albanian coast are ecologically pristine, a rarity within the Mediterranean region, contributing to its attractiveness for eco-tourism.",
+        "• The number of foreign visitors increased dramatically from 500,000 in 2005 to an estimated 4.2 million in 2012, representing a 740% increase over seven years.",
+        "• Several major Albanian cities are situated along the Adriatic and Ionian Seas, serving as key urban centers for tourism and commerce.",
+        "• Albania's strategic location as an important gateway to the Balkan Peninsula is supported by an expanding road network facilitating access to neighboring countries.",
+        "• The country is in close proximity to major European capitals, with daily flights lasting two to three hours, enhancing its accessibility for international tourists.",
+        "• Albania is renowned for its rich history and traditional culture, which further attract visitors interested in cultural tourism.",
+        "• A 2015 report by the United States Agency for International Development (USAid) indicated that tourism's direct contribution to Albania's GDP was 4.8% in 2013, with total effects including investment and supply chain impacts reaching approximately 17%.",
+        "• The contribution of tourism to Albania’s GDP is expected to continue increasing, reflecting ongoing development in the sector.",
+        "• In 2023, Albania achieved a record high of 10 million tourists, demonstrating the country's successful efforts to prioritize and expand its tourism industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:32.420825",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tirana International Airport is the 7th busiest airport in the Balkans, handling over 5.2 million passengers per year in 2022.",
+        "• Transport infrastructure in Albania has undergone significant modernization over the past two decades, including improvements to road, rail, urban, and airport transport systems.",
+        "• These infrastructural upgrades have contributed substantially to Albania's economic development, which has increasingly depended on the construction industry over the last decade.",
+        "• Albania's motorway network was extensively modernized throughout the 2000s, with some sections still under construction.",
+        "• The country has three major motorways: A1, A2, and A3.",
+        "• Once all motorway corridors are completed, Albania is expected to have approximately 759 kilometers of highway connecting it with all neighboring countries.",
+        "• The Tirana International Airport Nënë Tereza, named after Mother Teresa, is the primary gateway for air travelers entering Albania.",
+        "• Since the early 1990s, Tirana Airport has experienced a dramatic increase in passenger numbers and aircraft movements.",
+        "• In April 2021, Kukës Airport became operational in northern Albania, initially serving flights to Istanbul and Zurich.",
+        "• In 2022, Kukës Airport announced new destinations including Vienna, Basel/Mulhouse, and Memmingen.",
+        "• Albania plans to construct two additional airports in the south primarily to support the tourism industry.",
+        "• The port of Durrës, due to its strategic location, is Albania’s busiest port and one of the largest in the Adriatic and Ionian Seas.",
+        "• As of 2014, the Port of Durrës ranked among the largest passenger ports in the Adriatic and Ionian Seas, with an annual passenger volume of approximately 1.5 million.",
+        "• Other significant seaports in Albania include Vlorë, Sarandë, and Shëngjin.",
+        "• These ports facilitate an extensive ferry system connecting numerous islands and coastal cities, as well as ferry lines to Croatia, Greece, and Italy.",
+        "• The Albanian railway system is managed by the national railway company, Hekurudha Shqiptare (HSH).",
+        "• During Enver Hoxha’s totalitarian regime, the railway system was heavily promoted, and private transport was effectively prohibited.",
+        "• Following the regime’s collapse, there has been a notable increase in car ownership and bus usage.",
+        "• Despite some roads remaining in poor condition, developments such as the construction of a motorway between Tirana and Durrës have diverted significant traffic from the railways."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:38.362540",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.6",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Fierza Reservoir was formed as a result of the construction of the Fierza Hydroelectric Power Station in 1978.",
+        "• Albania is one of only two countries in the world, alongside Paraguay, whose entire electricity production is dependent on hydroelectric power.",
+        "• In 2021, Albania's total electricity consumption was 6.51 billion kWh, with 5.31 billion kWh produced domestically and the remainder imported.",
+        "• In December 2023, work commenced on a new 400 kV interconnector between Albania and North Macedonia to enhance Albania's integration into the regional power system.",
+        "• Key hydroelectric power stations in Albania include the Fierza, Koman, and Vau i Dejës plants, with additional planned projects such as the Skavica dam on the Drin River, and the Banjë and Moglicë plants on the Devoll River.",
+        "• The Banjë and Moglicë plants are planned to increase Albania's electricity production by nearly 17%.",
+        "• In December 2023, a 140 MW solar park covering 200 hectares at Karavasta, operated by Voltalia SA, began operations.",
+        "• An auction in 2023 awarded 222.48 MW of onshore wind energy capacity.",
+        "• The Trans Adriatic Pipeline (TAP), which became operational in 2020, runs approximately 215 km onshore and 37 km offshore through Albania, from Kipoi in Greece to San Foca in Italy.",
+        "• The TAP route in Albania starts at Qendër Bilisht in the Korça region, at the border with Greece, and reaches the Adriatic coast 17 km northwest of Fier, located 400 meters inland from the shoreline.",
+        "• A compressor station is located near Fier, with an additional compressor planned near Bilisht to potentially expand capacity to 20 billion cubic meters (bcm).",
+        "• Along the TAP route, eight block valve stations, one landfall station, approximately 51 km of new access roads, 42 refurbished bridges, and three new bridges were constructed.",
+        "• The US$1.2 billion AMBO pipeline, planned to begin construction in 2007 to transport crude oil from Burgas, Bulgaria, to Vlora, Albania, did not advance.",
+        "• Albania currently has no nuclear power plants.",
+        "• In 2007, the Albanian government discussed constructing a nuclear power plant at Durrës to meet domestic energy needs and enable electricity exports to neighboring Balkan countries and Italy via an underwater cable.",
+        "• In April 2009, Albania and Croatia announced a joint plan to build a 1,500 MWe nuclear power plant on the shores of Lake Skadar (Lake Shkodër), near the border with Montenegro.",
+        "• As of 2016, Albania has no plans to build any nuclear power plants in the foreseeable future."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:44.504669",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.7",
+      "section_name": "Oil",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Albania possesses the second largest oil deposits in the Balkan peninsula and holds the largest onshore oil reserves in Europe.",
+        "• In 2013, Albania's crude oil production exceeded 1.2 million tonnes, with specific contributions from several companies: 1.06 million tonnes by Canada's Bankers Petroleum, 87,063 tonnes by Canada's Stream Oil, and 37,406 tonnes produced independently by Albpetrol.",
+        "• Three foreign firms contributed to Albania's oil production beyond these companies, indicating a diversified foreign involvement in the sector.",
+        "• Oil exploitation in Albania commenced in 1928 at the Kuçova Oil field and was characterized by continuous growth; the following year, oil extraction began in Patos within sandstone reservoirs.",
+        "• Historically, Albania's oil production increased steadily, with production periods from 1929 to 1944 and 1945 to 1963 deriving solely from sandstone reservoirs.",
+        "• After 1963, oil production shifted to carbonate reservoirs, marking a significant change in extraction geology.",
+        "• Up to 1963, Albanian sandstone reservoirs produced a total of 400,974,649 tons of oil.",
+        "• The oil and gas sectors in Albania are considered the most promising sectors of the economy but are strictly regulated by the government.",
+        "• Since the early 1990s, these sectors have attracted foreign investment, coinciding with reforms that transitioned exploration and exploitation rights from public to private control.",
+        "• Despite private sector involvement, oil and gas reserves remain state property; the Albanian government grants exploration, production, refining, and transportation rights through agreements.",
+        "• In March 2016, affiliates of China's Geo-Jade Petroleum acquired drilling rights for the Patos-Marinze and Kuçova oil fields from a Canadian company, paying €384.6 million, suggesting an intent to accelerate development activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:49.214934",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The natural resources of Albania include various metals and fossil fuels, each categorized by specific elements and types.",
+        "• Metals present in Albania are indicated in blue and include Chromium (Cr), Iron (Fe), Nickel (Ni), and Copper (Cu).",
+        "• Fossil fuels in Albania are marked in red and consist of Lignite (L), Petroleum (P), and Bitumen (BI).",
+        "• Lignite, a type of coal, is one of the primary fossil fuels extracted in Albania.",
+        "• Petroleum resources are also significant within the country's natural resource profile.",
+        "• Bitumen, a form of asphalt or tar used in road construction and other applications, is among Albania's fossil fuel resources.",
+        "• The categorization of resources by color (blue for metals, red for fossil fuels) helps distinguish between different types of natural resources in Albania."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:52.491370",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Macroeconomic indicators",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Gross Domestic Product (GDP) based on Purchasing Power Parity (PPP) for Albania was estimated at $40.822 billion in 2021.",
+        "• The GDP per capita based on PPP was reported as $19,368 in 2019.",
+        "• Albania's GDP per capita (PPP) ranks 95th in the world, indicating its relative position in global income levels.",
+        "• The country's real GDP growth rate was 8.52% in 2021, reflecting a significant economic expansion.",
+        "• Albania's GDP growth rate ranks 34th globally, suggesting a comparatively high rate of economic growth in that year.",
+        "• The inflation rate in Albania was 2.04% in 2021, indicating moderate price level increases.",
+        "• Albania's inflation rate ranks 155th worldwide, implying relatively low inflation compared to other nations.",
+        "• The unemployment rate in Albania was 11.82% in 2021, representing the proportion of the labor force without employment.",
+        "• Albania's unemployment rate ranks 57th in the world, indicating its position relative to other countries in terms of employment levels."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:10:57.381497",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The primary agricultural products of Albania include milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, cucumbers, onions, and apples.",
+        "• These products represent the main staples and key commodities within the Albanian agricultural sector.",
+        "• Milk is a significant dairy product produced extensively across the country, supporting both domestic consumption and local markets.",
+        "• Maize (corn) is cultivated widely and serves as a crucial crop for both human consumption and livestock feed.",
+        "• Tomatoes are among the most commonly grown vegetables, integral to Albanian cuisine and agricultural exports.",
+        "• Potatoes are cultivated extensively, contributing to local food security and agricultural income.",
+        "• Watermelons are a popular fruit crop, with production concentrated in specific regions suitable for their cultivation.",
+        "• Wheat remains a fundamental cereal crop, essential for bread production and food processing industries in Albania.",
+        "• Grapes are cultivated for both fresh consumption and wine production, reflecting Albania’s traditional viticulture practices.",
+        "• Cucumbers and onions are important vegetable crops, frequently grown for local markets and small-scale farming.",
+        "• Apples are among the fruit crops produced, with certain regions specializing in apple orchards for domestic and export markets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:11:00.071443",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Foreign trade",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2014, Albania's top export destinations by dollar value were Italy ($10.15 billion), Spain ($1.68 billion), China ($1.3 billion), Turkey ($920.8 million), and India ($880.5 million).",
+        "• The leading import items in 2014 included Refined Petroleum ($547 million), Cars ($198 million), Packaged Medicaments ($129 million), Tanned Equine and Bovine Hides ($97.4 million), and Footwear Parts ($86.2 million).",
+        "• In 2014, Albania's top import origins by dollar value were Italy ($100.38 billion), Greece ($41.3 billion), Turkey ($31.5 billion), China ($27.8 billion), and Germany ($23.5 billion).",
+        "• As of 2019, Albania's primary import partners and their approximate share of total imports were Italy (28%), Greece (12%), China (11%), Turkey (9%), and Germany (5%).",
+        "• Remittances to Albania were estimated at $600 million in 2014.",
+        "• In 2021, Albania's electricity production was overwhelmingly from hydro sources, accounting for 99.4% of total electricity generation.",
+        "• Albania's natural gas production in 2019 was 42.05 million cubic meters (m3), which was also the amount consumed in the same year, indicating self-sufficiency in production and consumption.",
+        "• In 2007, Albania exported 0 cubic meters of natural gas and imported 0 cubic meters, reflecting no significant natural gas trade at that time.",
+        "• Proven natural gas reserves in Albania were estimated at 5.692 billion cubic meters (m3) as of 2012."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:11:06.829995",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Exchange rates",
+      "chapter_name": "Economy of Albania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The exchange rate of the Albanian lek (ALL) per US dollar has fluctuated over the years, with specific values recorded at various points in time.",
+        "• In 2020, the exchange rate was 103.51 lekë per US dollar.",
+        "• In 2017, the exchange rate was 125.4 lekë per US dollar.",
+        "• In 2008, the exchange rate was 79.546 lekë per US dollar.",
+        "• In 2007, the exchange rate was 92.668 lekë per US dollar.",
+        "• In 2006, the exchange rate was 98.384 lekë per US dollar.",
+        "• In 2005, the exchange rate was 102.649 lekë per US dollar.",
+        "• In 2004, the exchange rate was 102.78 lekë per US dollar.",
+        "• In 2003, the exchange rate was 121.863 lekë per US dollar.",
+        "• In 2002, the exchange rate was 140.155 lekë per US dollar.",
+        "• In 2001, the exchange rate was 143.485 lekë per US dollar.",
+        "• In 2000, the exchange rate was 143.709 lekë per US dollar.",
+        "• In 1999, the exchange rate was 137.691 lekë per US dollar."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:11:12.868928",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_albania.json",
+      "original_index": 15
+    }
+  ]
+}

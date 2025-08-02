@@ -1,0 +1,362 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_kyrgyzstan.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.217727",
+    "total_sections_in_source": 13,
+    "extracted_sections_count": 13,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Kyrgyzstan is primarily driven by trade, light manufacturing, mining, and agriculture, reflecting its diverse economic activities.",
+        "• As a landlocked, lower-middle-income country located in Central Asia, Kyrgyzstan possesses abundant natural resources and significant potential in sectors such as hydroelectric power, agriculture, and tourism.",
+        "• Mining, especially gold extraction, plays a crucial role in the country's economy, with the Kumtor mine being one of the largest gold deposits in the region.",
+        "• Beyond gold, Kyrgyzstan is rich in critical raw materials essential for modern technologies, notably holding significant antimony reserves, a mineral vital for electronics and defense industries.",
+        "• The services sector, particularly trade and transportation, has experienced steady growth, driven by strengthening economic ties with China.",
+        "• Following the 2022 sanctions on Russia, several regional supply routes were redirected through Kyrgyzstan, which contributed to an increase in economic growth.",
+        "• Kyrgyzstan maintained strong annual GDP growth rates of 9% in each of the years 2022, 2023, and 2024, highlighting its emerging regional importance.",
+        "• These developments underscore Kyrgyzstan’s strategic significance in Central Asia and its growing role in regional trade and infrastructure networks.",
+        "• The government is undertaking major infrastructure megaprojects, including the Kambarata-1 Hydropower Plant and the China–Kyrgyzstan–Uzbekistan railway, which is part of the Belt and Road Initiative, with the potential to significantly reshape the country’s economic landscape.",
+        "• Kyrgyzstan’s long-term growth prospects are supported by favorable demographics, with the population increasing by approximately 2% annually over the past decade, reaching an estimated 7.3 million in 2025.",
+        "• Despite demographic growth, limited domestic employment opportunities continue to drive labor migration, primarily to Russia.",
+        "• The economy’s reliance on remittances, which currently constitute around 14.6% of GDP, has decreased sharply from a peak of 35%, indicating a reduction in dependence on external income sources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:01.913312",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kyrgyzstan’s trade landscape has experienced significant evolution in recent years, characterized by substantial growth in exports and notable shifts in trade partnerships.",
+        "• In 2024, Kyrgyzstan’s total exports amounted to $3.8 billion, reflecting a 13% increase compared to 2023.",
+        "• The country’s principal exports include gold, coal, copper ores, clothing, electronics, and footwear.",
+        "• Gold remains the dominant export commodity, with the Kumtor Gold Mine playing a pivotal role in gold production.",
+        "• A major development in Kyrgyzstan’s export profile is the surge in fuel exports to Afghanistan, with over 40 million liters of refined petroleum exported in 2024.",
+        "• This represents a dramatic increase from the 384,000 liters exported in 2022 to Afghanistan.",
+        "• In addition to fuel, Kyrgyzstan exports a range of goods to Afghanistan, including agricultural products such as dried legumes and flour, construction materials like cement and metal structures, and machinery and equipment.",
+        "• Total exports to Afghanistan in 2024 reached $50 million, highlighting the growing economic relationship between Kyrgyzstan and Afghanistan.",
+        "• Kyrgyzstan’s key imports in 2024 include refined petroleum, industrial machinery and equipment, cars and automotive parts, chemical products, fabrics and textiles, and various foodstuffs.",
+        "• Total imports in 2024 amounted to $12.5 billion, with a significant portion of these goods being re-exported.",
+        "• The country’s current account deficit in 2024 was 6% of GDP, a figure adjusted to account for actual re-exports within the Eurasian Economic Union (EAEU) that are not reflected in official export data."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:05.407470",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Transit trade of Kyrgyzstan",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kyrgyzstan has been a member of the World Trade Organization (WTO) since 1998 and joined the Eurasian Economic Union (EAEU) in 2015, positioning it as a strategic transit hub within Eurasian trade networks.",
+        "• The country functions primarily as a **re-export platform**, especially for goods originating from China, Türkiye, South Korea, and the United Arab Emirates (UAE).",
+        "• These imported goods benefit from low WTO tariffs in Kyrgyzstan and are re-exported to other EAEU member states, mainly Russia and Kazakhstan, without incurring additional customs duties or controls.",
+        "• The re-export arrangement creates a form of tariff arbitrage, as Kyrgyzstan’s lower external tariff regime allows goods to enter the EAEU more cheaply compared to other member states.",
+        "• The importance of Kyrgyzstan’s role as a transit and re-export hub has increased notably since 2022, driven by Western sanctions on Russia, which led to a surge in parallel imports through Kyrgyz territory.",
+        "• This increase in transit trade has contributed to robust economic growth and improved fiscal outcomes for Kyrgyzstan.",
+        "• Due to Kyrgyzstan’s inclusion in the EAEU customs free zone, trade statistics do not fully reflect its exports to other EAEU countries because there is no requirement for conventional customs declarations for goods crossing borders within the union.",
+        "• This lack of customs documentation complicates efforts to accurately estimate the volume and value of re-exports passing through Kyrgyzstan.",
+        "• Between 2021 and 2024, Kyrgyzstan’s goods imports more than doubled, rising from $5.2 billion to $12.5 billion.",
+        "• The increase in imports is almost entirely attributable to machinery and transport equipment, including passenger cars.",
+        "• China accounts for nearly 60% of this growth in imports, while European countries contribute approximately 8%.",
+        "• Most of these additional imports have limited direct links to the Kyrgyz economy and are likely re-exported to Russia and other EAEU countries, supporting a re-export model.",
+        "• The re-export activities underpin several domestic sectors such as logistics, warehousing, transportation, customs brokerage, and wholesale trade.",
+        "• In August 2024, the Kyrgyz government established the _Trading Company of the Kyrgyz Republic_ to monitor trade flows involving Kyrgyz companies whose goods do not physically enter Kyrgyz territory.",
+        "• This strategic initiative aims to regulate trade flows and financial transactions more effectively, particularly in light of increased scrutiny over re-export activities and compliance with international sanctions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:13.085459",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2",
+      "section_name": "Macroeconomic trend",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kyrgyzstan demonstrated strong macroeconomic performance between 2022 and 2024, maintaining a fiscal surplus for two consecutive years in 2023 and 2024.",
+        "• The fiscal surplus in 2023 and 2024 reflects prudent public financial management and stronger-than-expected revenue collection.",
+        "• Higher budget revenues were primarily driven by increases in taxes and customs duties, which rose due to rising imports, higher gold prices, and improved tax administration.",
+        "• Government expenditures increased to 34% of GDP in 2024, up from 33% in 2023, with increased spending allocated to healthcare, salaries, and pensions.",
+        "• In the first quarter of 2025, Kyrgyzstan reported a significant fiscal surplus of $528 million, which was driven by an 84% year-over-year increase in budget revenues.",
+        "• The 2025 surplus is expected to contribute to reducing public debt and financing infrastructure projects.",
+        "• The Kyrgyz economy has been affected in recent years by inflationary pressures resulting from global supply chain disruptions caused by the Russia-Ukraine war.",
+        "• Despite inflationary pressures, inflation remained relatively contained, supported by a stable som and prudent monetary policy from the National Bank of the Kyrgyz Republic.",
+        "• Inflation declined from 10.8% in 2023 to 5% in 2024, before increasing slightly to 6.9% by February 2025.",
+        "• The National Bank of the Kyrgyz Republic has maintained the policy rate at 9% since May 2024.",
+        "• Banking sector capital adequacy ratio stood at 22.3%, and liquidity ratio at 78.8%, both well above regulatory requirements.",
+        "• The Kyrgyz currency appreciated by 2.3% against the US dollar in 2024, and the real effective exchange rate appreciated by 3.6%.",
+        "• Purchases of domestically mined gold and the conversion of nonmonetary gold on the National Bank’s balance sheet increased gross reserves by 57.2%, reaching $5.1 billion at the end of 2024.",
+        "• The increase in reserves provided cover for 4.2 months of projected imports in 2024, up from 2.4 months in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:20.559591",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3",
+      "section_name": "Public debt",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 31 December 2024, Kyrgyzstan’s total public debt was $6.6 billion.",
+        "• This amount represented 37.6% of the country's Gross Domestic Product (GDP) for the year 2024.",
+        "• The public debt figure decreased from 42% of GDP in 2023.",
+        "• Total external public debt was $4.5 billion, accounting for 25% of Kyrgyzstan’s GDP.",
+        "• External debt was primarily financed by official bilateral and multilateral creditors.",
+        "• These external loans were provided at concessional rates and featured long maturities, which reduces the risk of nonresident capital flight in adverse scenarios.",
+        "• The external debt significantly limits Kyrgyzstan’s external vulnerabilities due to the concessional nature and maturity profile of the debt.",
+        "• The largest external creditor is the Export–Import Bank of China, holding $1.65 billion, which constitutes 36% of Kyrgyzstan’s gross external debt.",
+        "• Other major external creditors include the Asian Development Bank (16%), the World Bank (16%), the International Monetary Fund (IMF) (8%), and the Eurasian Development Bank (6%).",
+        "• The average weighted interest rate on Kyrgyzstan’s external public debt was 1.57% per annum."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:25.157536",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture remains a vital component of Kyrgyzstan's economy and serves as a refuge for workers displaced from industrial sectors.",
+        "• Subsistence farming increased during the early 2000s, reflecting a shift towards more self-sufficient agricultural practices.",
+        "• After experiencing sharp reductions in the early 1990s, agricultural production by the early 2000s was approaching the levels recorded in 1991.",
+        "• The largest share of the agricultural workforce is engaged in grain production in the lower valleys and livestock grazing on upland pastures.",
+        "• Farmers are shifting their focus from cotton and tobacco cultivation toward grain production, indicating a diversification of agricultural outputs.",
+        "• Key agricultural products include dairy products, hay, animal feed, potatoes, vegetables, and sugar beets.",
+        "• Kyrgyzstan has achieved a high degree of food self-sufficiency, notably in dairy (110%), vegetables (96%), potatoes (94%), and meat (80%).",
+        "• Grain production, particularly wheat and maize, is increasing to reduce dependency on imports, although approximately 12% of wheat is still imported.",
+        "• In 2024, Kyrgyzstan's major agricultural crop productions are as follows:",
+        "• Wheat: 750,000 tons",
+        "• Barley: 650,000 tons",
+        "• Maize (corn): 770,000 tons",
+        "• Rice: 50,000 tons",
+        "• Potato: 1,200,000 tons",
+        "• Sugar beet: 870,000 tons",
+        "• Fruits and berries: 426,000 tons",
+        "• Vegetables: 1,500,000 tons"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:28.741352",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Forestry",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Only 4% of Kyrgyzstan's land area is classified as forested, indicating a very limited forest cover within the country.",
+        "• All forested areas in Kyrgyzstan are state-owned, with no private ownership of forests.",
+        "• None of the forested land is classified as available for wood supply, suggesting restrictions or limitations on timber harvesting and commercial logging activities.",
+        "• The primary commercial product derived from Kyrgyzstan's forests is walnuts, highlighting the importance of nut harvesting over timber production.",
+        "• The Arslanbob walnut forest, located in the Jalal-Abad Region of Kyrgyzstan, is recognized as the largest natural walnut forest in the world.",
+        "• The Arslanbob forest is situated on the western slopes of the Fergana and Chatkal mountain ranges.",
+        "• The walnut forest in Arslanbob covers approximately 11,000 hectares of dense walnut groves.",
+        "• The broader forest zone surrounding Arslanbob, which includes other tree species, spans between 600,000 and 700,000 hectares.",
+        "• Each mature walnut tree in Kyrgyzstan can produce between 150 and 400 kilograms of walnuts annually.",
+        "• Kyrgyzstan is a major regional exporter of walnuts, with significant export markets including Russia, Iran, and Turkey.",
+        "• In certain years, up to 25% of Russia’s walnut imports are sourced from Kyrgyzstan, underscoring the country's role as a key supplier in the regional walnut trade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:33.863191",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kyrgyzstan’s aquaculture industry experienced a significant rebound after its collapse in 2003, growing from just 12 metric tons to over 20,000 tons by 2022.",
+        "• In 2023, total fish production in Kyrgyzstan reached 33,600 tons, indicating substantial growth and recovery of the industry.",
+        "• Fish exports from Kyrgyzstan exceeded 5,500 tons in 2023, reflecting expanding regional market opportunities for its aquaculture products.",
+        "• The industry’s growth has been driven by investments in advanced technology and sustainable farming practices, particularly for cold-water species.",
+        "• Kyrgyzstan’s abundant freshwater resources have played a crucial role in supporting the expansion of its aquaculture sector.",
+        "• The country is increasingly recognized as a **key freshwater fish exporter in Central Asia**, which enhances its economic prospects and food security."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:36.937045",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Mining and minerals",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mining remains a vital and expanding sector within Kyrgyzstan’s economy, contributing significantly to national development.",
+        "• The Kumtor Gold Mine, recognized as one of the largest gold deposits globally, has been a major contributor to the country's gold production since 1997.",
+        "• Kyrgyzstan has promising new gold exploration projects at Jerooy, Taldy–Bulak, and recent discoveries such as Tokhtonysay, indicating strong potential for increasing gold output.",
+        "• Kyrgyzaltyn, the state-owned mining agency, oversees all mining operations in the country and frequently partners with foreign investors to leverage expertise and capital investment.",
+        "• These partnerships facilitate the modernization of mining infrastructure and support sector growth.",
+        "• Although uranium and antimony production have declined compared to Soviet-era levels, the country’s extensive coal reserves—estimated at approximately 2.5 billion tons—present significant opportunities for domestic energy development.",
+        "• The Kara-Keche coal deposit is positioned to substantially increase Kyrgyzstan’s annual coal output, enhancing energy security.",
+        "• Oil and natural gas production in Kyrgyzstan remains limited, with minimal contribution to the national energy mix.",
+        "• The country’s rich mineral resources provide a strategic advantage for extracting critical raw materials essential for emerging technologies and the green energy transition.",
+        "• Exploration activities are increasingly focused on rare earth elements and industrial metals, reflecting promising prospects for future mineral development and diversification of the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:42.057767",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Industry and manufacturing",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the collapse of the Soviet Union, Kyrgyzstan’s industrial sector experienced a sharp decline due to disrupted supply chains and the loss of traditional Soviet markets.",
+        "• In 2005, industrial output (excluding gold production) accounted for only about 14% of Kyrgyzstan’s GDP, indicating prolonged stagnation in the sector.",
+        "• Since the early 2020s, the industrial sector has shown signs of recovery and structural transformation, reversing previous decline trends.",
+        "• By 2023, the industry—including manufacturing, energy, and mining—contributed approximately 22.6% to Kyrgyzstan’s GDP.",
+        "• Industrial production grew by 5.6% in 2024, with strong momentum continuing into 2025, reflecting ongoing recovery and expansion.",
+        "• The revival of the industrial sector has been driven by renewed investment in mining, energy, and light manufacturing sectors, supported by government initiatives such as the _100 Industrial Enterprises_ program.",
+        "• Growth has been particularly strong in the mining sector, especially gold and coal extraction, as well as in electricity generation and small-scale hydropower projects.",
+        "• Light industries, including textiles and food processing, have also experienced significant growth.",
+        "• Emerging growth areas include automotive assembly and the domestic production of construction materials.",
+        "• The housing construction sector has seen substantial expansion, fueled by population growth, urbanization, and remittance-driven demand.",
+        "• In 2024, the construction sector grew by over 18%, with residential development leading this trend, especially in the cities and provinces of Bishkek, Chuy, Osh, and Jalal Abad.",
+        "• Increased domestic production of construction materials and private investment have contributed to the housing boom, making housing construction a key driver of non-extractive economic activity in Kyrgyzstan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:46.664737",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.6",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Over 90% of Kyrgyzstan's electricity generation relies on hydropower, primarily from large cascade plants on the Naryn River.",
+        "• The country has historically exploited less than 15% of its estimated hydroelectric potential, which is approximately 140 TWh annually.",
+        "• As of 2024, hydropower accounted for around 90% of all electricity production in Kyrgyzstan.",
+        "• Small hydroelectric plants contributed approximately 400 GWh of electricity, while large hydro facilities produced 12.8 billion kWh in 2024.",
+        "• Kyrgyzstan has limited domestic fossil fuel reserves and depends heavily on natural gas imports from Uzbekistan.",
+        "• Thermal power plants, fired by coal and gas, supplied 1.8 billion kWh in 2024.",
+        "• Hydropower generated 12.77 billion kWh in 2024.",
+        "• The country imported 3.6 billion kWh of electricity to meet the rising demand of 18.3 billion kWh.",
+        "• Energy losses are high, with up to 45% of electricity being lost or diverted illegally during peak seasons.",
+        "• Per capita electricity consumption remains elevated relative to income levels.",
+        "• Despite high demand, Kyrgyzstan has not yet implemented a comprehensive national strategy for demand reduction.",
+        "• The national energy infrastructure is aging, with over 45,000 km of transmission lines largely built during the Soviet era.",
+        "• The country's installed generation capacity is approximately 3 GW, with 80% derived from hydropower.",
+        "• Kyrgyzstan is actively expanding both large and small hydropower projects to increase capacity and efficiency.",
+        "• The proposed **Kambar-Ata-1** project is a 1,860 MW dam on the Naryn River, supported by Kyrgyzstan, Kazakhstan, and Uzbekistan, with at least US $18.6 million secured from the World Bank by mid-2024.",
+        "• When completed, expected by 2028, Kambar-Ata-1 is projected to generate 5.6 billion kWh annually, ensuring year-round domestic supply, seasonal export capacity, and supporting the CASA-1000 transmission corridor.",
+        "• Small hydropower capacity is expected to reach 400–500 MW by 2027–2028, adding roughly 600 million kWh annually through private plants.",
+        "• Kyrgyzstan is diversifying its energy mix with solar and wind projects, including a 200 MW solar plant near Tokmok expected to be operational by 2025.",
+        "• Additional solar capacity (400 MW) and wind capacity (100 MW) are in development as of 2024.",
+        "• Hydropower remains the backbone of Kyrgyzstan's energy sector, with ongoing efforts aimed at reducing energy losses, increasing self-sufficiency, and boosting exports to neighboring countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:51.623085",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.7",
+      "section_name": "Services",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kyrgyzstan’s tourism sector has experienced significant growth over the past two decades, transitioning from attracting approximately 450,000 tourists annually in the early 2000s to over 8.6 million visitors in 2024.",
+        "• This rapid increase in tourism has contributed to a substantial rise in tourism service exports, which reached nearly $480 million during the first half of 2024.",
+        "• The majority of tourists originate from neighboring Central Asian countries such as Kazakhstan, Uzbekistan, and Russia, with an increasing number coming from China, South Korea, Türkiye, and European nations.",
+        "• Despite earlier challenges stemming from limited investment in the tourism sector, recent improvements in infrastructure, more accessible visa regulations, and targeted government promotional efforts have facilitated sector growth.",
+        "• The expansion of glamping (luxury camping) is a notable aspect of Kyrgyzstan’s tourism development, reflecting diversification and innovation within the sector.",
+        "• The financial sector in Kyrgyzstan is vital for supporting economic diversification, with banks and microfinance institutions providing essential credit and financial services.",
+        "• Microfinance institutions have experienced rapid growth, significantly increasing financial inclusion and empowering grassroots economic activities, especially among small and medium-sized enterprises (SMEs) and rural entrepreneurs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:54.563518",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4",
+      "section_name": "Poverty",
+      "chapter_name": "Economy of Kyrgyzstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2024, the poverty rate in Kyrgyzstan at the $3.65-per-day threshold decreased to 4.4%, down from 7.1% in 2023, driven by lower inflation and strong economic growth.",
+        "• Despite overall improvements, urban poverty has become a growing concern, with urban poverty levels surpassing rural levels by 2022/23.",
+        "• According to the L2KGZ survey, 50% of respondents identified employment opportunities as the primary economic challenge facing households.",
+        "• Real household incomes stagnated in the latter half of 2024, indicating limited income growth despite economic activity.",
+        "• The United Nations World Food Programme (WFP) reports that approximately 30% of Kyrgyzstan’s population lives in poverty, with an additional 10% classified as at risk of falling below the poverty line.",
+        "• The WFP emphasizes that Kyrgyzstan remains vulnerable to both internal shocks (such as economic instability) and external shocks, including high dependence on food imports, reduced remittances, and climate-related issues.",
+        "• Reduced remittances are partly due to changing labor migration policies, especially in Russia, which historically has been a major destination for Kyrgyz migrant workers.",
+        "• Climate challenges impacting Kyrgyzstan include drought and glacier melt, which threaten agricultural productivity and water resources.",
+        "• Food prices in Kyrgyzstan remain approximately 50% higher than pre-pandemic levels, significantly affecting household food security.",
+        "• About 36% of the population is unable to afford a nutritious diet due to high food costs.",
+        "• A total of 72% of households resort to coping mechanisms, such as reducing food intake or seeking alternative means, to meet basic needs amidst economic and climate pressures."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:01:58.341534",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_kyrgyzstan.json",
+      "original_index": 12
+    }
+  ]
+}

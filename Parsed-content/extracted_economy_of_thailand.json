@@ -1,0 +1,778 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_thailand.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.099085",
+    "total_sections_in_source": 28,
+    "extracted_sections_count": 28,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Thailand is heavily reliant on exports, which constituted approximately 58 percent of the country's gross domestic product (GDP) in 2021.",
+        "• Thailand is classified as a newly industrialized country, with a GDP valued at 17.922 trillion baht (US$514.8 billion) in 2023, making it the 9th largest economy in Asia.",
+        "• As of 2018, Thailand experienced an average inflation rate of 1.06% and maintained a current account surplus equivalent to 7.5% of its GDP.",
+        "• The Thai currency, the baht, was ranked as the tenth most frequently used currency for global payments in 2017.",
+        "• The industrial sector contributes 39.2 percent to Thailand’s GDP, making it a principal component alongside the service sector.",
+        "• The agricultural sector accounts for 8.4 percent of GDP, which is less than the trade and logistics sector (13.4 percent) and the communication sector (9.8 percent).",
+        "• The construction and mining sector contributes 4.3 percent to the national GDP.",
+        "• Other service sectors, including financial services, education, and the hotel and restaurant industries, collectively represent 24.9 percent of Thailand’s GDP.",
+        "• Telecommunications and trade in services are identified as emerging areas of industrial growth and economic competitiveness within Thailand.",
+        "• Thailand is the second-largest economy in Southeast Asia, following Indonesia.",
+        "• In 2023, Thailand’s per capita GDP was 255,362 baht (US$7,336), ranking fourth in Southeast Asia behind Singapore, Brunei, and Malaysia.",
+        "• As of July 2018, Thailand held international reserves totaling US$237.5 billion, the second-largest in Southeast Asia after Singapore.",
+        "• Thailand’s current account surplus was US$37.898 billion in 2018, ranking tenth globally in current account balance surplus.",
+        "• Thailand ranks second in Southeast Asia in terms of external trade volume, after Singapore.",
+        "• The World Bank recognizes Thailand as \"one of the great development success stories\" based on social and development indicators.",
+        "• Despite a per capita gross national income (GNI) of US$7,090 and a Human Development Index (HDI) ranking of 66th, Thailand significantly reduced its poverty rate from 65.26 percent in 1988 to 8.61 percent in 2016, according to the Office of the National Economic and Social Development Council’s (NESDC) updated poverty baseline.",
+        "• Thailand has one of the lowest unemployment rates globally, recorded at one percent in the first quarter of 2014.",
+        "• The low unemployment rate is partly attributed to a large portion of the population engaged in subsistence agriculture or vulnerable employment types such as own-account work and unpaid family work."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:24.375951",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Kingdom of Thailand budget",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Kingdom of Thailand's fiscal year (FY) 2017 budget was set at 2.733 trillion baht.",
+        "• In May 2018, the Thai Cabinet approved the FY2019 budget totaling three trillion baht, representing a 3.4 percent increase, or 100 billion baht more than the FY2018 budget.",
+        "• The annual revenue for FY2019 was projected to reach 2.55 trillion baht, marking a 4.1 percent increase, equivalent to 100 billion baht more than the previous year.",
+        "• The national budget for FY2019 was expected to run a deficit of 450 billion baht.",
+        "• The Thai Cabinet also approved maintaining a budget deficit policy through 2022 to stimulate economic growth.",
+        "• The targeted economic growth rate supported by the budget deficit policy was between 3.5 and 4.5 percent annually."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:17.418310",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "History",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Thailand's economy experienced significant growth from 1961 to 2015, marked by rapid industrialization and structural transformation from an agrarian base to a more diversified economy.",
+        "• Between 1890 and 2018, Thailand's real GDP per capita showed a long-term upward trend, reflecting sustained economic development over more than a century.",
+        "• The period from 1961 to the late 1990s was characterized by high economic growth rates, often exceeding 7% annually, driven by export-oriented industrialization and increased foreign investment.",
+        "• During the 1960s and 1970s, Thailand transitioned from an agriculture-dominated economy to one increasingly focused on manufacturing and services, contributing to rising incomes and urbanization.",
+        "• The 1997 Asian financial crisis caused a sharp economic contraction, but Thailand's economy recovered in the subsequent years, returning to positive growth by the early 2000s.",
+        "• From 2000 to 2015, Thailand maintained moderate growth rates, averaging around 3-5% annually, supported by continued export expansion, tourism, and domestic consumption.",
+        "• Real GDP per capita in Thailand increased substantially from the late 19th century, with notable acceleration during the post-World War II era, reflecting improvements in productivity and economic diversification.",
+        "• Economic policies during this period included liberalization measures, investment in infrastructure, and promotion of education and technology, which collectively enhanced Thailand's economic capacity.",
+        "• The historical data on Thailand's GDP per capita from 1890 to 2018 illustrates the country's transition from a low-income agrarian society to an upper-middle-income economy by the early 21st century.",
+        "• Key challenges throughout this period included managing economic volatility, addressing income inequality, and adapting to global economic changes, which shaped Thailand's economic trajectory."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:20.449593",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Before 1945",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Thailand, formerly known as Siam, engaged in foreign contact during the pre-industrial era despite its scarcity of natural resources, with coastal ports, cities, and river mouth locations serving as early economic centers welcoming merchants from Persia, Arab countries, India, and China.",
+        "• The rise of the Ayutthaya kingdom in the 14th century was closely linked to renewed Chinese commercial activity, establishing Ayutthaya as one of Asia’s most prosperous trade centers during that period.",
+        "• In the 19th century, the capital of Siam moved to Bangkok, where foreign trade, particularly with China, became a central focus of the government’s economic policy.",
+        "• Chinese merchants not only traded extensively in Bangkok but also settled in Siam, some receiving official government positions and rising to become high dignitaries within the royal court.",
+        "• From the mid-19th century onward, European merchants increased their commercial activities in Siam, facilitated by treaties such as the Bowring Treaty of 1855, which guaranteed privileges to British traders.",
+        "• The Harris Treaty of 1856, updating the earlier Roberts Treaty of 1833, extended similar trading privileges and guarantees to American merchants operating in Siam.",
+        "• The domestic market in Siam developed slowly, with serfdom identified as a potential cause of economic stagnation; the majority of the male population served court officials, while women often engaged in small-scale trade in local markets.",
+        "• Individuals burdened by heavy debt sometimes sold themselves into slavery, a practice that was legally abolished by King Rama V with the abolition of serfdom in 1901 and slavery in 1905.",
+        "• From the early 20th century until the end of World War II, Siam’s economy gradually globalized, with major entrepreneurs predominantly ethnic Chinese who acquired Siamese nationality.",
+        "• Agricultural exports, especially rice, were critically important to the economy, with Thailand ranking among the world’s top rice exporters during this period.",
+        "• The Siamese economy experienced severe hardship during the Great Depression, which contributed to the political upheaval culminating in the Siamese revolution of 1932.",
+        "• Significant investments in education during the 1930s, and again in the 1950s, established a foundation for future economic growth, complemented by a liberal approach to trade and foreign investment policies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:21.511932",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.1.1",
+      "section_name": "1945–1955",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1945 to 1947, prior to the onset of the Cold War, the Thai economy suffered significant setbacks due to the impact of the Second World War.",
+        "• During World War II, the Thai government, led by Field Marshal Luang Phibulsongkram, allied with Japan and declared war against the Allied powers.",
+        "• Following the war, Thailand was obligated to supply 1.5 million tons of rice to Western countries without compensation, imposing a substantial burden on the nation’s economic recovery.",
+        "• To manage the rice trade and address postwar economic challenges, the Thai government established a rice office to oversee rice distribution and commerce.",
+        "• Amid fiscal difficulties, Thailand introduced a multiple-exchange-rate system during this period, which coincided with a shortage of consumer goods in the kingdom.",
+        "• In November 1947, a military coup ended a brief democratic period, after which the Thai economy regained momentum and experienced growth.",
+        "• Somsak Nilnopkoon, in his dissertation, characterizes the period from 1947 to 1951 as one of economic prosperity for Thailand.",
+        "• By April 1948, Field Marshal Luang Phibulsongkram returned to the office of prime minister, resuming leadership during a time of internal power struggles among his subordinates.",
+        "• To maintain his political power, Phibulsongkram initiated an anti-communist campaign aimed at securing support from the United States.",
+        "• Beginning in 1950, Thailand started receiving military and economic aid from the United States as a result of its anti-communist stance and strategic alignment.",
+        "• The Phibulsongkram government established numerous state enterprises, reflecting a policy of economic nationalism and increased state involvement in the economy.",
+        "• During this era, the state and its bureaucratic apparatus dominated capital allocation within the kingdom, controlling key economic resources and investments.",
+        "• Ammar Siamwalla, a leading Thai economist, describes this period as one of \"bureaucratic capitalism,\" highlighting the central role of the bureaucracy in economic activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:18.333575",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.1.2",
+      "section_name": "1955–1985",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1955, Thailand's economy began to change, influenced by domestic and international political dynamics, particularly a power struggle within the Phibul regime between Police General Phao Sriyanond and General (later Field Marshal) Sarit Thanarat.",
+        "• Police General Phao Sriyanond sought US support for a coup against the Phibulsongkram regime but was unsuccessful, while Luang Phibulsongkram attempted to democratize his regime by seeking popular support through economic development.",
+        "• Luang Phibulsongkram requested economic aid from the United States instead of military aid, resulting in unprecedented US economic assistance to Thailand from 1955 to 1959.",
+        "• The Phibulsongkram government implemented significant fiscal policy reforms, including abolishing the multiple-exchange-rate system in favor of a fixed, unified exchange rate system that remained until 1984.",
+        "• The government pursued a neutral trade policy and engaged in secret diplomacy with the People's Republic of China, actions that displeased the United States.",
+        "• On 16 September 1957, Luang Phibulsongkram was deposed in a coup led by Field Marshal Sarit Thanarat, with Field Marshal Phin Choonhavan and Police General Phao Sriyanond also removed from power.",
+        "• The Thanarat regime, ruling from 1957 to 1973, continued the economic policies of the Phibulsongkram government with US support after severing all ties with the People's Republic of China and backing US operations in Indochina.",
+        "• During Sarit Thanarat’s rule, Thailand developed its infrastructure and privatized state enterprises unrelated to infrastructure development.",
+        "• Several key economic institutions were established under the Thanarat regime, including the Bureau of Budget, the National Economic and Social Development Council (NESDC), and the Thailand Board of Investment (BOI).",
+        "• The National Economic and Social Development Plan was launched in 1961, marking a structured approach to economic growth.",
+        "• The market-oriented Import-Substituting Industrialization (ISI) strategy implemented during the 1960s led to significant economic expansion in Thailand.",
+        "• According to former US President Richard M. Nixon’s 1967 article in _Foreign Affairs_, Thailand experienced rapid economic growth starting in 1958, with an average annual growth rate of seven percent.",
+        "• From the 1970s to 1984, Thailand faced numerous economic challenges, including declining US investment, budget deficits, oil price shocks, and inflation, compounded by political instability.",
+        "• The Vietnamese occupation of Cambodia on 25 December 1978 positioned Thailand as a frontline state against communism, surrounded by two communist countries and socialist Burma under General Ne Win.",
+        "• Successive Thai governments during this period sought to address economic difficulties by promoting exports and tourism, both vital sectors for the national economy.",
+        "• Under General Prem Tinsulanonda’s government (1980–1988), significant economic measures were taken to stabilize the economy, including three devaluations of the Thai baht between 1981 and 1984.",
+        "• On 12 May 1981, the Thai baht was devalued by 1.07 percent, from THB20.775/US$ to THB21/US$.",
+        "• On 15 July 1981, a second devaluation occurred, reducing the baht’s value by 8.7 percent, from THB21/US$ to THB23/US$.",
+        "• The third and largest devaluation took place on 5 November 1984, with a 15 percent decrease, from THB23/US$ to THB27/US$.",
+        "• The government replaced the fixed exchange rate system pegged to the US dollar with a multiple currency basket peg system, where the US dollar accounted for 80 percent of the basket’s weight.",
+        "• According to data calculated from the International Monetary Fund’s World Economic Outlook Database, Thailand’s average GDP growth rate during 1980–1984 was 5.4 percent."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:27.144245",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.1.3",
+      "section_name": "1985–1997",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 22 September 1985, concurrent with the third devaluation of the Thai baht, Japan, the United States, the United Kingdom, France, and West Germany signed the Plaza Accord to depreciate the US dollar relative to the Japanese yen and the Deutsche Mark.",
+        "• Since the US dollar accounted for 80 percent of the Thai currency basket, the baht was further depreciated following the Plaza Accord, enhancing the competitiveness of Thailand's exports and increasing the country's attractiveness to foreign direct investment (FDI), particularly from Japan, whose currency had appreciated since 1985.",
+        "• In 1988, Prem Tinsulanonda resigned as Prime Minister and was succeeded by Chatichai Choonhavan, who became the first democratically elected Prime Minister of Thailand since 1976.",
+        "• The Cambodian-Vietnamese War was concluding during this period, with Vietnam gradually withdrawing from Cambodia by 1989, which contributed positively to Thailand's economic development.",
+        "• Following the 1984 baht devaluation and the 1985 Plaza Accord, despite fiscal constraints limiting the public sector, Thailand's private sector expanded significantly.",
+        "• Improved foreign trade conditions and a surge in foreign direct investment, mainly from Japan, triggered an economic boom in Thailand from 1987 to 1996.",
+        "• During this period, Thailand shifted its economic strategy from import-substitution industrialization (ISI) to export-oriented industrialization (EOI).",
+        "• According to the IMF World Economic Outlook database, Thailand's GDP grew at an average annual rate of 9.5 percent between 1987 and 1996, peaking at 13.3 percent growth in 1988.",
+        "• The volume of Thai exports of goods and services averaged a growth rate of 14.8 percent per year during the same period, with a peak export growth of 26.1 percent in 1988.",
+        "• Despite strong growth, economic problems persisted; Thailand experienced a current account deficit averaging −5.4 percent of GDP annually from 1987 to 1996, with the deficit increasing over time.",
+        "• In 1996, the current account deficit reached −7.887 percent of GDP, equivalent to US$14.351 billion.",
+        "• Capital shortages were a significant issue; the first Chuan Leekpai government (September 1992 to May 1995) attempted to address this by granting Bangkok International Banking Facility (BIBF) licenses to Thai banks in 1993.",
+        "• BIBF licenses allowed Thai banks to borrow from foreign financial institutions at low interest rates and lend domestically at Thailand's high-interest rates, facilitating capital inflows.",
+        "• By 1997, Thailand’s foreign debt had escalated to US$109,276 billion, with 65 percent classified as short-term debt, while international reserves stood at US$38,700 billion.",
+        "• Many loans were secured by real estate assets, contributing to the formation of an economic bubble.",
+        "• By late 1996, loss of confidence in financial institutions led the government to close 18 trust companies and three commercial banks.",
+        "• In 1997, the government closed an additional 56 financial institutions due to ongoing financial instability.",
+        "• Foreign speculation exacerbated economic vulnerabilities; speculators, including hedge funds, anticipated a baht devaluation based on Thailand’s economic problems and its currency basket exchange rate.",
+        "• In the spot market, speculators borrowed baht and lent dollars to pressure the baht’s value downward, while in the forward market, they bet against the baht by agreeing to exchange dollars for baht at predetermined future dates, expecting devaluation.",
+        "• Within the Thai government, economic adviser Virapong Ramangkul and former Prime Minister Prem Tinsulanonda advocated for devaluing the baht.",
+        "• Prime Minister Chavalit Yongchaiyudh disregarded these calls and relied on the Bank of Thailand, led by Governor Rerngchai Marakanond, to defend the baht’s fixed exchange rate.",
+        "• Governor Marakanond expended approximately US$24,000 billion—about two-thirds of Thailand’s international reserves—in efforts to maintain the baht’s value.",
+        "• By 2 July 1997, Thailand’s international reserves had dwindled to US$2,850 billion, insufficient to defend the baht.",
+        "• On 2 July 1997, Governor Marakanond decided to float the baht, effectively ending the fixed exchange rate regime and triggering the 1997 Asian Financial Crisis."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:34.300623",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.1.4",
+      "section_name": "1997–2000",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Thai economy collapsed as a result of the 1997 Asian financial crisis, with the baht's value floating sharply from THB25/US$ at its lowest point to THB56/US$ within a few months.",
+        "• The Stock Exchange of Thailand (SET) plummeted from a peak of 1,753.73 in 1994 to a low of 207.31 in 1998, reflecting severe market distress.",
+        "• Thailand's GDP decreased from THB3.115 trillion at the end of 1996 to THB2.749 trillion at the end of 1998, marking a significant economic contraction.",
+        "• In US dollar terms, Thailand took as long as 10 years to regain its 1996 GDP level following the crisis.",
+        "• The unemployment rate in Thailand nearly tripled, rising from 1.5 percent of the labor force in 1996 to 4.4 percent in 1998.",
+        "• The sharp depreciation of the baht increased the burden of foreign debt, which undermined financial institutions; many were sold partially to foreign investors, while others went bankrupt.",
+        "• Due to depleted international reserves caused by the Bank of Thailand's currency-protection measures, the Thai government was compelled to accept a loan from the International Monetary Fund (IMF), receiving a total of US$17.2 billion in aid.",
+        "• The financial crisis had significant political repercussions, including the resignation of Prime Minister Chavalit Yongchaiyudh on 6 November 1997, who was succeeded by opposition leader Chuan Leekpai.",
+        "• The second Leekpai government, in office from November 1997 to February 2001, implemented IMF-guided neo-liberal economic reforms, emphasizing strict fiscal policies such as maintaining high interest rates and cutting government spending.",
+        "• The Leekpai administration enacted 11 laws referred to as \"bitter medicine\" by supporters and criticized as \"the 11 nation-selling laws\" by opponents, aiming to stabilize and reform the economy.",
+        "• The Thai government and its supporters claimed that these measures led to improvements in the Thai economy despite controversy.",
+        "• In 1999, Thailand recorded a positive GDP growth rate for the first time since the crisis, although some critics distrusted the IMF and argued that government spending cuts hindered economic recovery.",
+        "• Critics contended that unlike crises in Latin America and Africa, the Asian financial crisis originated in the private sector, rendering IMF-imposed measures inappropriate for Thailand.",
+        "• The positive GDP growth in 1999 followed two consecutive years of decline, including a severe contraction of −10.5 percent in 1998 alone.",
+        "• Thailand did not regain its 1996 GDP level in terms of the baht until 2002, and in US dollar terms, not until 2006.",
+        "• An additional loan received in 1999 under the Miyazawa Plan contributed to ongoing debate regarding the effectiveness of the Leekpai government's economic policies during the recovery period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:31.954409",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Recent economic history (2001–present)",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 1997 financial crisis indirectly led to the rise of Thaksin Shinawatra in Thai politics, with his Thai Rak Thai Party winning a landslide victory over Chuan Leekpai's Democrat Party in the 2001 general election, taking office in February 2001.",
+        "• Despite weak export demand limiting GDP growth to 2.2% in 2001, Thaksin's government achieved strong economic performance from 2002 to 2004, with GDP growth rates of 5.3%, 7.1%, and 6.3% respectively, under policies later termed \"Thaksinomics.\"",
+        "• During Thaksin's first term, Thailand repaid its IMF debt by July 2003, two years ahead of schedule, and between 2001 and 2011, Isan's GDP per capita more than doubled to US$1,475, while Bangkok's GDP per capita rose from US$7,900 to nearly US$13,000.",
+        "• Thaksin's second term faced challenges including the Indian Ocean tsunami on 26 December 2004, which negatively affected Thai GDP in Q1 2005, and the emergence of the Yellow Shirts protest coalition in 2005.",
+        "• In 2006, Thaksin dissolved parliament and called a general election in April, which was boycotted by main opposition parties; his party won but the election was invalidated by the Constitutional Court, and a subsequent October election was cancelled.",
+        "• On 19 September 2006, a military coup led by Sonthi Boonyaratglin under the Council for Democratic Reform ousted Thaksin while he was at the UN General Assembly in New York; during the last year of Thaksin's government, GDP grew by 5.1%.",
+        "• Thailand’s ranking on the IMD Global Competitiveness Scoreboard improved from 31st in 2002 to 25th in 2005, then declined to 29th in 2006 under Thaksin’s administration.",
+        "• Following the 2006 coup, Thailand was governed by a military junta led by General Surayud Chulanont from October 2006, during which GDP growth slowed from over 6% in early 2006 to 4.4% in Q4 2006, and the IMD competitiveness ranking fell from 26th in 2005 to 33rd in 2007.",
+        "• Thaksin’s infrastructure investment plans were dormant until 2011 when his sister Yingluck Shinawatra assumed office.",
+        "• The 2007 general election held on 23 December resulted in a landslide victory for the pro-Thaksin People’s Power Party (PPP), led by Samak Sundaravej, over Abhisit Vejjajiva's Democrat Party.",
+        "• Political turmoil under the PPP government and the 2008 global financial crisis reduced Thailand’s GDP growth to 2.5% in 2008, down from 6.5% in Q1 before the Yellow Shirts' renewed protests.",
+        "• Thailand’s IMD World Competitiveness ranking improved from 33rd in 2007 to 27th in 2008 despite political unrest.",
+        "• The Yellow Shirts occupied Government House in August 2008; on 9 September 2008, the Constitutional Court removed Prime Minister Samak Sundaravej.",
+        "• Somchai Wongsawat, Thaksin’s brother-in-law, became prime minister on 18 September 2008 amid ongoing protests and the peak of the US financial crisis, which caused GDP growth to decline from 5.2% in Q2 2008 to −4.1% in Q4 2008.",
+        "• From 25 November to 3 December 2008, Yellow Shirts seized Bangkok’s Suvarnabhumi and Don Mueang airports, damaging Thailand’s economy and international image.",
+        "• On 2 December 2008, the Constitutional Court dissolved the People’s Power Party, removing Somchai Wongsawat as prime minister.",
+        "• By late 2008, a coalition government led by Abhisit Vejjajiva’s Democrat Party was formed, though its legitimacy was questioned due to alleged military involvement in its formation.",
+        "• The Abhisit government faced pressure from the 2008 financial crisis and Red Shirts protests demanding new elections, which Abhisit delayed until dissolving parliament in May 2011.",
+        "• In 2009, Thailand experienced a negative GDP growth rate of −2.3%, the first since the 1997 Asian financial crisis.",
+        "• GDP growth rebounded to 7.8% in 2010 but political instability, including major protests, caused growth to stabilize at 4–5%, lower than the 5–7% achieved under previous civilian administrations.",
+        "• The IMF forecasted a strong economic rebound from 0.1% growth in 2011 to 5.5% in 2012 and 7.5% in 2013, supported by accommodative monetary policy from the Bank of Thailand and fiscal stimulus under Yingluck Shinawatra’s government.",
+        "• In the first half of 2011, GDP grew by 3.2% and 2.7% year-over-year during a relatively calm political period; however, Thailand’s IMD competitiveness ranking slipped from 26th in 2009 to 27th in 2010 and 2011, with infrastructure quality declining since 2009.",
+        "• The 2011 general election saw the pro-Thaksin Pheu Thai Party win decisively over the Democrat Party, leading to Yingluck Shinawatra becoming prime minister in late August 2011.",
+        "• From 25 July 2011 to 16 January 2012, severe floods affected 65 of Thailand’s 76 provinces, causing estimated damages of THB1.425 trillion (approximately US$45.7 billion), as assessed by the World Bank in December 2011.",
+        "• The 2011 GDP growth rate fell sharply to 0.1%, with a Q4 contraction of 8.9% year-over-year; Thailand’s IMD competitiveness ranking dropped from 27th in 2011 to 30th in 2012.",
+        "• In 2012, Thailand’s economy recovered with 6.5% GDP growth, inflation at 3.02%, and a current account surplus of 0.7% of GDP; the Yingluck government prioritized infrastructure development including water management and logistics.",
+        "• The Eurozone crisis in 2012 negatively impacted Thailand’s economic growth and exports both directly and indirectly.",
+        "• Political unrest in 2013 caused the Thai baht to fall to a three-year low on 23 December 2013, losing 4.6% in November and December, while the main stock index dropped by 9.1%.",
+        "• Following the May 2014 military coup, Agence France Presse reported on 17 June 2014 that Thailand was \"on the verge of recession,\" noting a 2.1% quarter-on-quarter economic contraction from January to March 2014 and the departure of nearly 180,000 Cambodians amid fears of immigration clampdowns.",
+        "• After lifting the military-imposed curfew in May 2014, Federation of Thai Industries chairman Supant Mongkolsuthree projected 2.5–3% economic growth for 2014 and anticipated a tourism industry revival in the second half of the year.",
+        "• Supant also highlighted the Board of Investment’s consideration of a backlog of investment projects valued at 700 billion baht, expected to stimulate the economy around October 2014.",
+        "• By the end of 2015, criticism of the National Council for Peace and Order’s (NCPO) economic management increased domestically and in Western media due to Thailand’s sluggish economic performance.",
+        "• Thailand’s economic growth slowed to 2.8% in Q1 2019, marking the slowest pace since 2014.",
+        "• In 2016, the military government introduced \"Thailand 4.0,\" a master plan aiming to transition Thailand from a middle-income to a high-income nation within five years through high-tech industries and innovation.",
+        "• Thailand 4.0 builds on previous economic phases: Thailand 1.0 (agrarian economy), Thailand 2.0 (light industry, textiles, food processing), and Thailand 3.0 (heavy industry and energy comprising up to 70% of GDP).",
+        "• Prime Minister General Prayut Chan-o-cha defined Thailand 4.0’s three pillars as making Thailand a high-income nation, fostering a more inclusive society, and focusing on sustainable growth and development.",
+        "• Critics, including Somchai Jitsuchon of the Thailand Development Research Institute, argue Thailand lacks sufficient high-technology specialists and experts needed for modernization and that importing foreign specialists will face opposition from local professional associations.",
+        "• Only 56% of Thailand’s population has Internet access, posing a challenge to developing a high-tech workforce.",
+        "• Thailand 4.0 emphasizes robotic manufacturing, but the availability of cheap labor from ASEAN Economic Community member countries may reduce incentives to automate.",
+        "• Bureaucratic inefficiencies in large, slow government ministries are expected to hinder the effective implementation of Thailand 4.0 initiatives.",
+        "• In September 2020, the World Bank forecasted an 8.9% contraction of the Thai economy for the year due to the COVID-19 pandemic; the Thai government reduced jet fuel taxes starting February 2020.",
+        "• In August 2024, the dismissal of Prime Minister Srettha Thavisin worsened Thailand’s economic difficulties by delaying key financial measures, exacerbating issues such as high household debt and economic stagnation, and undermining investor confidence and economic stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:57.928035",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 42
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3",
+      "section_name": "Macroeconomic trends",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1980 and 2012, Thailand's economy expanded nearly sixteen-fold in baht terms and nearly eleven-fold in US dollar terms, positioning it as the 32nd-largest economy globally according to the International Monetary Fund (IMF).",
+        "• Thailand's GDP at purchasing power parity (PPP) grew from 74.7 billion US$ in 1980 to 1,008.8 billion US$ in 2012, while nominal GDP increased from 33.4 billion US$ in 1980 to 397.7 billion US$ in 2012.",
+        "• The country's GDP per capita (PPP) rose from 1,576.1 US$ in 1980 to 14,871.0 US$ in 2012, and nominal GDP per capita increased from 705.5 US$ in 1980 to 5,863.0 US$ in 2012.",
+        "• Thailand experienced five distinct periods of economic growth: from 1980 to 1984, the economy grew at an average annual rate of 5.4%; from 1985 to 1996, growth accelerated to an average of 8.8% annually, largely due to foreign direct investment, mainly from Japan, following the 1984 baht devaluation and the 1985 Plaza Accord.",
+        "• The economy contracted sharply during the Asian financial crisis, with a negative growth rate averaging −5.9% per year from 1997 to 1998.",
+        "• Recovery ensued from 1999 to 2006, with an average GDP growth rate of 5.0% per year.",
+        "• From 2007 to 2012, Thailand faced multiple challenges including a military coup in late 2006, political turmoil between 2008 and 2011, the global financial crisis of 2008, severe floods in 2010 and 2011, and the Euro area crisis, resulting in a reduced average GDP growth rate of 3.25% per year.",
+        "• Regional businesses contribute approximately 70% of Thailand's GDP, with Bangkok alone accounting for 30% of the national GDP.",
+        "• Inflation rates varied significantly over the years, with notable high inflation in the late 1980s and mid-1990s, peaking at 19.7% in 1980 and dropping below 5% in many subsequent years, with the IMF staff estimates indicating inflation rates under 5% (highlighted in green) for most years from 2023 to 2027.",
+        "• Unemployment rates have generally remained low, fluctuating between 0.2% and 3.3% from 2001 onwards, with a slight increase to 2.0% projected for 2026 and 2027.",
+        "• Government debt as a percentage of GDP increased significantly during the Asian financial crisis, rising from 15.2% in 1996 to 56.6% in 1999, and has remained relatively stable around 40-60% since then, with IMF projections indicating a peak of 61.5% in 2022 and a gradual decline to 59.5% by 2027.",
+        "• Thailand's nominal GDP per capita was surpassed by China in 2011, resulting in Thailand having the lowest nominal GDP per capita among its regional peers.",
+        "• According to the IMF, Thailand ranked 92nd worldwide in nominal GDP per capita in 2012.",
+        "• The IMF staff estimates project continued economic growth for Thailand from 2022 to 2027, with GDP (PPP) increasing from 1,479.6 billion US$ in 2022 to 1,953.0 billion US$ in 2027, nominal GDP rising from 534.8 billion US$ to 732.2 billion US$, and real GDP growth rates gradually moderating from 2.8% in 2022 to 3.0% in 2027.",
+        "• Inflation is forecasted to moderate after a peak of 6.3% in 2022, declining to 2.0% by 2026 and 2027, while unemployment is expected to remain steady at around 1.0% from 2022 through 2027.",
+        "• Government debt is projected to slightly decrease from 61.5% of GDP in 2022 to 59.5% in 2027, reflecting fiscal management efforts amid economic growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:34.225035",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "4",
+      "section_name": "Poverty and inequality",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The number of poor people in Thailand decreased from 7.1 million in 2014, representing 10.5 percent of the population, to 4.9 million in 2015, equivalent to 7.2 percent of the population.",
+        "• Thailand's poverty line was set at an income of 2,647 baht per month in 2014 and slightly adjusted to 2,644 baht per month in 2015.",
+        "• According to the National Economic and Social Development Council (NESDC) report titled _Poverty and Inequality in Thailand_, the country's economic growth rates were 0.8 percent in 2014 and 2.8 percent in 2015.",
+        "• NESDC Secretary-General Porametee Vimolsiri attributed the economic growth during this period to the impact of governmental policies.",
+        "• The NESDC report highlighted significant income and land ownership disparities, noting that 10 percent of the Thai population earned 35 percent of the country’s aggregate income and owned 61.5 percent of its land.",
+        "• In the Credit Suisse _Global Wealth Databook 2016_, Thailand was ranked as the third most unequal nation globally, following Russia and India.",
+        "• The same Credit Suisse report estimated that one percent of the Thai population owned 58 percent of Thailand's total wealth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:31.238144",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "SMEs",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of the latest update in 2017, small and medium-sized enterprises (SMEs) constitute 99.7 percent of all firms in Thailand, totaling approximately 2.7 million enterprises.",
+        "• SMEs in Thailand employ 80.3 percent of the country's workforce, equating to about 13 million people as of 2017.",
+        "• Despite their prevalence and significant employment role, the contribution of SMEs to Thailand's gross domestic product (GDP) declined from 41.3 percent in 2002 to 37.4 percent in 2013.",
+        "• The decreasing contribution of SMEs to the national GDP is mirrored by a high turnover rate, with seventy percent of SMEs failing within a few years of operation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:31.650565",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Agriculture, forestry and fishing",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Thailand has historically been the largest rice exporter globally, with 49 percent of its labor force employed in agriculture.",
+        "• Since the 1960s, agricultural developments have facilitated Thailand's transition toward an industrialized economy; in 1980, agriculture accounted for 70 percent of employment.",
+        "• By 2008, agriculture, forestry, and fishing contributed 8.4 percent to Thailand's GDP, with farm jobs providing half of the employment in rural areas.",
+        "• Rice remains the most important crop in Thailand, which had long been the world's top rice exporter until recently being surpassed by India and Vietnam.",
+        "• Thailand is a major exporter of shrimp and also produces significant quantities of coconuts, corn, rubber, soybeans, sugarcane, and tapioca.",
+        "• Thailand ranks as the world's third-largest seafood exporter, with fish exports valued at approximately US$3 billion in 2014, according to the Thai Frozen Foods Association.",
+        "• The fishing industry in Thailand employs over 300,000 individuals.",
+        "• In 1985, Thailand designated 25 percent of its land area for forest protection and 15 percent for timber production, balancing conservation and forestry industry needs.",
+        "• Forest areas have been allocated for conservation and recreation purposes, while timber forests are managed for commercial forestry activities.",
+        "• Between 1992 and 2001, Thailand’s exports of logs and sawn timber increased dramatically from 50,000 to 2,000,000 cubic meters annually.",
+        "• The 2004 regional avian-flu outbreak caused contraction in Thailand’s agricultural sector, and the tsunami on 26 December 2004 severely damaged the Andaman Sea fishing industry.",
+        "• Agricultural GDP contracted by 10 percent in both 2005 and 2006 following these events.",
+        "• Thailand is the world’s second-largest exporter of gypsum, after Canada, though government policies limit gypsum exports to maintain price stability.",
+        "• In 2003, Thailand produced over 40 different minerals with an annual value of about US$740 million.",
+        "• In September 2003, the Thai government encouraged foreign investment in mining by relaxing restrictions on foreign companies and reducing mineral royalties owed to the state."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:37.874681",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Industry and manufacturing",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, the industrial sector contributed 43.9 percent to Thailand's Gross Domestic Product (GDP), highlighting its significant role in the national economy.",
+        "• The industrial sector employed 14 percent of the Thai workforce in 2007, indicating its importance as a source of employment.",
+        "• Between 1995 and 2005, the industrial sector in Thailand experienced an average annual growth rate of 3.4 percent, demonstrating steady expansion over the decade.",
+        "• Manufacturing is identified as the most important sub-sector within the industrial sector, accounting for 34.5 percent of Thailand's GDP in 2004.",
+        "• The presence of production-line workers at factories, such as those in Chachoengsao, exemplifies the industrial workforce engaged in manufacturing activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:34.444948",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4.3.1",
+      "section_name": "Electrical and electronics",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Electrical and electronics (E&E) equipment constitutes Thailand's largest export sector, accounting for approximately 15 percent of the country's total exports.",
+        "• In 2014, Thailand's E&E exports reached a total value of US$55 billion.",
+        "• The E&E sector employed around 780,000 workers in 2015, representing 12.2 percent of total employment within the manufacturing industry.",
+        "• As of 2020, Thailand holds the position as the largest exporter of computers and computer components within the ASEAN region.",
+        "• Thailand is the world's second-largest manufacturer of hard disk drives (HDDs), ranking just behind China, with major producers including Western Digital and Seagate Technology.",
+        "• Despite its strong position, Thailand's high-tech manufacturing sector faces challenges, as indicated by a decline in the country's manufacturing index for 22 consecutive months as of January 2015.",
+        "• Production of goods such as televisions and radios declined by 38 percent year-on-year during this period.",
+        "• A significant factor contributing to this decline is the relocation of manufacturing operations to countries with lower labor costs compared to Thailand.",
+        "• In April 2015, LG Electronics ceased production at its factory in Rayong Province, relocating operations to Vietnam, where daily labor costs are US$6.35 compared to US$9.14 in Thailand.",
+        "• Samsung Electronics Co. Ltd. planned to establish two large smartphone manufacturing plants in Vietnam, following investment pledges amounting to approximately US$11 billion to the Vietnamese economy in 2014.",
+        "• Technological advancements, such as the transition from HDDs to solid-state drives (SSDs), are prompting manufacturers to reconsider optimal production locations for these newer technologies.",
+        "• Additionally, 74 percent of salaried workers in Thailand's E&E sector are at high risk of job displacement due to automation, as many roles involve repetitive, non-cognitive tasks that can be performed by robots."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:39.428551",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4.3.2",
+      "section_name": "Automotive",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Thailand is the leading country in the ASEAN region for automotive production and sales, highlighting its dominant position in Southeast Asia’s automotive industry.",
+        "• In 2015, the automotive sector in Thailand employed approximately 417,000 workers, which constituted 6.5% of total employment across all manufacturing industries in the country.",
+        "• The automotive industry accounted for roughly 10% of Thailand’s Gross Domestic Product (GDP), underscoring its significant contribution to the national economy.",
+        "• In 2014, Thailand exported automotive goods valued at US$25.8 billion, demonstrating the sector’s strong export performance.",
+        "• A notable labor market challenge is that 73% of workers in Thailand’s automotive sector face a high risk of job loss due to increasing automation, indicating potential future disruptions in employment.",
+        "• The export value of cars, motorbikes, parts, and components in Thailand showed consistent growth from 2011 to 2016, increasing from 566.355 billion THB (5.37% of GDP) in 2011 to 944.434 billion THB (6.58% of GDP) in 2016, before slightly declining to 881.380 billion THB in 2017 and stabilizing around 882.083 billion THB in 2018 (percentage of GDP not available).",
+        "• Car production in Thailand increased significantly from 1,125,316 units in 2005 to a peak of 2,457,717 units in 2012, with fluctuations thereafter, reaching 1,841,663 units in 2023.",
+        "• The proportion of cars produced for export versus domestic consumption varied yearly; for example, in 2012, out of 2,453,717 units produced, 1,432,052 units were for domestic use and 1,021,665 units were for export.",
+        "• Export value of cars produced in Thailand rose from 203.025 billion THB in 2005 (2.86% of GDP) to a high of 631.845 billion THB in 2016 (4.40% of GDP), with some fluctuations in subsequent years.",
+        "• In 2022 and 2023, the export value of cars was recorded at 619.348 billion THB, representing 10.37% of GDP, indicating a substantial increase in the automotive sector’s share of GDP compared to previous years.",
+        "• The Federation of Thai Industries is the source of the detailed automotive production and export statistics, providing authoritative data on the sector’s performance.",
+        "• Overall, the automotive industry in Thailand is a critical economic sector with substantial employment, export revenues, and GDP contribution, but it faces future challenges related to automation and labor displacement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:48.632592",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4.3.3",
+      "section_name": "Gems and jewelry",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Gem and jewelry exports constitute Thailand's third-largest export category by value, following automotive and parts, and computer components.",
+        "• In 2019, Thailand's gem and jewelry exports, including gold, surpassed US$15.7 billion, marking a 30.3% increase compared to 2018.",
+        "• The value of gem and jewelry exports in 2019 was equivalent to 486 billion baht, reflecting a 26.6% growth from the previous year.",
+        "• The primary export markets for Thailand's gem and jewelry industry include ASEAN countries, India, the Middle East, and Hong Kong.",
+        "• The gem and jewelry sector in Thailand employs over 700,000 workers, as reported by the Gem and Jewelry Institute of Thailand (GIT)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:37.383193",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2004, Thailand's energy consumption was estimated at 3.4 quadrillion British thermal units (BTUs), accounting for approximately 0.7 percent of the total global energy consumption.",
+        "• Thailand is a net importer of both oil and natural gas, prompting government initiatives to promote ethanol use as a strategy to reduce petroleum imports and decrease reliance on the gasoline additive methyl tertiary butyl ether (MTBE).",
+        "• In 2005, Thailand's daily oil consumption was 838,000 barrels per day (133,200 cubic meters per day), significantly exceeding its domestic oil production of 306,000 barrels per day (48,700 cubic meters per day).",
+        "• The country operated four oil refineries with a combined refining capacity of 703,100 barrels per day (111,780 cubic meters per day) as of 2005.",
+        "• The Thai government has been considering the development of a regional oil-processing and transportation hub to serve south-central China, indicating strategic regional energy planning.",
+        "• In 2004, Thailand's natural gas consumption was 1,055 billion cubic feet (2.99×10^10 cubic meters), surpassing its natural gas production of 790 billion cubic feet (2.2×10^10 cubic meters).",
+        "• Thailand's coal consumption in 2004 was estimated at 30.4 million short tons, which exceeded its coal production of 22.1 million short tons.",
+        "• As of January 2007, Thailand's proven oil reserves were reported at 290 million barrels (46,000,000 cubic meters), while proven natural gas reserves stood at 14.8 trillion cubic feet (420 cubic kilometers).",
+        "• Recoverable coal reserves in Thailand were estimated at 1,493 million short tons as of 2003.",
+        "• In 2005, Thailand consumed approximately 118 billion kilowatt hours (kWh) of electricity, with consumption rising by 4.7 percent in 2006 to reach 133 billion kWh.",
+        "• The Electricity Generating Authority of Thailand (EGAT), the national electricity utility, reported that power consumption by residential users was increasing, attributed to more favorable electricity rates for residential customers compared to industrial and business sectors.",
+        "• Thailand's electric utility and petroleum companies, which are also state-controlled, have been undergoing restructuring efforts to improve efficiency and adapt to changing energy demands."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:45.786033",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "4.5",
+      "section_name": "Services",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, the service sector in Thailand, encompassing tourism, banking, and finance, contributed 44.7 percent to the country's Gross Domestic Product (GDP).",
+        "• The service sector employed 37 percent of Thailand's workforce in the same year, indicating its significant role in national employment.",
+        "• Thailand's service industry is recognized as competitive and plays a crucial role in driving the growth of the country's exports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:39.448963",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "4.5.1",
+      "section_name": "Banking and finance",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Dangerous levels of non-performing assets (NPAs) at Thai banks were a key factor triggering an attack on the baht by currency speculators, which subsequently led to the Asian financial crisis during 1997–1998.",
+        "• By 2003, the level of non-performing assets in Thai banks had been reduced by half, reaching approximately 30 percent.",
+        "• Despite a return to profitability, Thai banks continued to face challenges related to unrealized losses and inadequate capital reserves.",
+        "• The Thai government considered reforms including the establishment of an integrated financial regulatory agency, which would allow the Bank of Thailand to concentrate on its primary role of monetary policy.",
+        "• Efforts to strengthen the financial sector included the consolidation of commercial banks, state-owned banks, and foreign-owned financial institutions.",
+        "• The 2004 Financial Sector Reform Master Plan introduced tax incentives for financial institutions that participated in mergers and acquisitions to encourage consolidation.",
+        "• External experts have judged the financial sector reform program as successful in improving the stability and efficiency of Thailand’s banking system.",
+        "• As of 2007, Thailand’s banking landscape consisted of three state-owned commercial banks, five state-owned specialized banks, fifteen Thai commercial banks, and seventeen foreign banks operating within the country.",
+        "• In December 2006, the Bank of Thailand implemented measures to stem the inflow of foreign funds, which triggered the largest one-day decline in stock prices on the Stock Exchange of Thailand since the 1997 Asian financial crisis.",
+        "• The December 2006 sell-off by foreign investors resulted in capital outflows exceeding US$708 million.",
+        "• In 2019, the Bank of Thailand maintained its benchmark interest rate unchanged for the fourth consecutive meeting, citing concerns over high household debt levels and risks to financial stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:47.726555",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "4.5.2",
+      "section_name": "Retail",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Retail sector in Thailand employs more than six million workers, indicating its significant role in the national labor market.",
+        "• The majority of retail employment in Thailand is concentrated within small businesses, highlighting the sector's fragmented and decentralized nature.",
+        "• Large multinational and national retail corporations, including Tesco Lotus, 7-Eleven, Siam Makro, Big C, Villa Market, Central Group, and Mall Group, collectively employ fewer than 400,000 workers.",
+        "• Employment by these major retail players constitutes less than seven percent of the total retail employment in Thailand, underscoring the dominance of small-scale enterprises in the retail labor force."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:42.747744",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "4.5.3",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, tourism revenue in Thailand amounted to 2.53 trillion baht, representing 17.7 percent of the country's Gross Domestic Product (GDP), an increase from 16.7 percent in 2015.",
+        "• Tourism revenue in Thailand was projected to reach 2.71 trillion baht in 2017, indicating continued growth in the sector.",
+        "• The global average contribution of tourism to GDP stands at nine percent, highlighting Thailand's above-average reliance on tourism for economic activity.",
+        "• Regarding cryptocurrencies, Thailand's Ministry of Finance approved four licensed brokers and dealers operating within the country: Bx, Bitkub, Coins, and Satang Pro.",
+        "• As of late 2018, Thailand had not yet established comprehensive regulations for Initial Coin Offerings (ICOs), but announced intentions to relax existing rules related to cryptocurrency activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:42.758875",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "5",
+      "section_name": "Labour",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Thailand's labour force was estimated between 36.8 million employed individuals out of 55.6 million working-age adults to 38.3 million employed as of the first quarter of 2016.",
+        "• Employment distribution in Thailand consists of approximately 49 percent in agriculture, 37 percent in the service sector, and 14 percent in industry.",
+        "• In 2005, women made up 48 percent of the labour force and held an increasing share of professional jobs within the country.",
+        "• Thailand's unemployment rate decreased from 2 percent in 2004 to 0.9 percent in 2014.",
+        "• A World Bank survey revealed that 83.5 percent of the Thai workforce is classified as unskilled.",
+        "• A joint study by the Quality Learning Foundation (QLF), Dhurakij Pundit University (DPU), and the World Bank projects that 12 million Thai workers may lose their jobs to automation within the next 20 years, potentially eliminating one-third of current workforce positions.",
+        "• The World Bank estimates Thai worker productivity at US$25,000 (879,200 baht) in 2014, which is half that of Malaysian workers (US$50,000) and less than one-fifth of Singaporean workers (US$122,000).",
+        "• A 2016 International Labor Office (ILO) report estimates that over 70 percent of Thai workers are at risk of displacement due to automation.",
+        "• Thai factories are estimated to be adding between 2,500 and 4,500 industrial robots annually, indicating rapid automation adoption.",
+        "• In fiscal year 2015, 71,000 Thai nationals were employed abroad, with Taiwan employing the largest number at 59,220, followed by South Korea (24,228), Israel (23,479), Singapore (20,000), and the United Arab Emirates (14,000).",
+        "• Thai workers abroad are primarily employed in metal production, agriculture, textile manufacturing, and electronic parts manufacturing sectors.",
+        "• As of 2020, remittances from Thai migrant labourers overseas amounted to 140 billion baht.",
+        "• The official number of registered migrant workers in Thailand from Cambodia, Laos, and Myanmar was 1,339,834, as reported by the Office of Foreign Workers Administration under the Ministry of Labour; this figure only includes legal migrant workers.",
+        "• The actual number of migrant workers in Thailand is unknown, with many presumed to be non-registered or illegal migrants.",
+        "• The Thailand Development Research Institute (TDRI) estimates that illegal migrant workers in Thailand may outnumber legal migrant workers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:51.407387",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "6",
+      "section_name": "Foreign trade",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, China replaced the United States as Thailand's largest export market, while the United States remained Thailand's second-largest supplier after Japan, marking a significant shift in Thailand's trade dynamics.",
+        "• Traditionally, Thailand's major export markets included North America, Japan, and Europe; however, economic recovery in Thailand's regional trading partners has contributed positively to Thai export growth.",
+        "• By 2022, China had become Thailand's largest trading partner, with bilateral trade valued at 3.69 trillion baht (approximately $106 billion), representing nearly 20% of all Thai foreign trade.",
+        "• In 2022, China also emerged as the largest foreign investor in Thailand, investing a total of 77.4 billion baht, surpassing investments from Japan and the United States.",
+        "• Thailand's recovery from the financial crisis was heavily reliant on increased exports to other Asian countries and the United States, highlighting the importance of regional and transpacific trade relations.",
+        "• Since 2005, the export of automobiles from Japanese manufacturers such as Toyota, Nissan, and Isuzu has significantly improved Thailand's trade balance, with annual production exceeding one million vehicles, positioning Thailand among the world's top ten automobile-exporting nations.",
+        "• Thailand's principal imports include machinery and parts, vehicles, integrated circuits, chemicals, crude oil, fuels, iron, and steel, reflecting the country's need to support production of high-technology goods and vehicles.",
+        "• Thailand is a member of the World Trade Organization (WTO), the Cairns Group of agricultural exporters, and the ASEAN Free Trade Area (AFTA), actively pursuing multiple free-trade agreements to enhance trade liberalization.",
+        "• The China-Thailand Free Trade Agreement (FTA) commenced in October 2003, initially covering agricultural products, with plans for a more comprehensive FTA to be signed by 2010.",
+        "• Thailand has maintained a limited free-trade agreement with India since 2003 and a comprehensive Australia-Thailand Free Trade Agreement effective from 1 January 2005.",
+        "• Free trade negotiations between Thailand and Japan began in February 2004, leading to an in-principle agreement in September 2005, while US-Thailand free trade agreement talks were ongoing, with the fifth round of negotiations held in November 2005.",
+        "• The 1999 Foreign Business Act restricts foreign investment in several Thai industries, including media, agriculture, land distribution, professional services, tourism, hotels, and construction, limiting foreign share ownership to a 49% minority stake.",
+        "• The 1966 US-Thailand Treaty of Amity and Economic Relations exempts shareholders with United States citizenship from these foreign investment restrictions, facilitating greater US participation in restricted sectors.",
+        "• The Bangkok metropolitan area is the most prosperous region in Thailand and dominates the national economy, whereas the northeast region remains the poorest due to infertile land and limited economic development.",
+        "• Successive Thai governments, including the recently ousted Thaksin administration, have prioritized reducing regional economic disparities exacerbated by rapid growth in Bangkok and the impact of financial crises.",
+        "• Despite limited economic investment outside tourist zones, the Thai government has promoted provincial economic growth in the eastern seaboard and Chiang Mai regions, though these areas, along with tourist zones, continue to dominate the national economy.",
+        "• In 2012, Thailand remained on the United States' priority watch list for intellectual property rights (IPR) enforcement, despite some positive cooperation reports from US rights holders with Thai authorities such as the Royal Thai Police and Royal Thai Customs.",
+        "• The United States acknowledged Thailand's government commitment to improving IPR protection and enforcement but emphasized that further efforts were necessary for Thailand to be removed from the priority watch list.",
+        "• Since 1999, Thailand's economy has experienced moderate growth, with future economic performance contingent upon continued financial sector reforms, corporate debt restructuring, attracting foreign investment, and expanding exports.",
+        "• Infrastructure sectors including telecommunications, roads, electricity generation, and ports have faced increasing strain during periods of sustained economic growth, indicating the need for further development and investment.",
+        "• Thailand is experiencing a growing shortage of engineers and skilled technical personnel, posing challenges to sustaining industrial and technological advancement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:58.789362",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Major Trade Partners",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Thailand's largest trading partner by total trade value was China, with a total trade value of 128.24 billion USD, comprising imports worth 66.43 billion USD and exports worth 61.82 billion USD, resulting in a trade deficit of 4.61 billion USD.",
+        "• The United States was Thailand's second-largest trading partner in 2021, with a total trade value of 65 billion USD, including imports of 14.58 billion USD and exports of 50.43 billion USD, yielding a substantial trade surplus of 35.85 billion USD.",
+        "• Japan ranked third among Thailand's major trade partners in 2021, with a total trade value of 61.92 billion USD; imports from Japan were 35.57 billion USD, exports to Japan were 26.35 billion USD, and Thailand had a trade deficit of 9.22 billion USD with Japan.",
+        "• Malaysia was Thailand's fourth-largest trading partner in 2021, with a total trade value of 23.05 billion USD, consisting of imports valued at 12.05 billion USD and exports at 11 billion USD, resulting in a trade deficit of 1.05 billion USD.",
+        "• Australia ranked fifth in Thailand's trade partnerships in 2021, with a total trade value of 17.99 billion USD; imports from Australia were 6.42 billion USD, exports were 11.57 billion USD, and Thailand enjoyed a trade surplus of 5.15 billion USD.",
+        "• Indonesia was the sixth-largest trading partner for Thailand in 2021, with a total trade value of 17.37 billion USD, including imports of 8.22 billion USD and exports of 9.15 billion USD, leading to a trade surplus of 0.93 billion USD.",
+        "• Singapore held the seventh position among Thailand's major trade partners in 2021, with a total trade value of 17.15 billion USD, imports amounting to 7.34 billion USD, exports at 9.81 billion USD, and a trade surplus of 2.46 billion USD.",
+        "• South Korea was the eighth-largest trading partner for Thailand in 2021, with a total trade value of 16.9 billion USD; imports from South Korea were 9.9 billion USD, exports were 7.01 billion USD, resulting in a trade deficit of 2.89 billion USD.",
+        "• Hong Kong ranked ninth in Thailand's trade partnerships in 2021, with a total trade value of 16.51 billion USD, imports valued at 2.84 billion USD, exports at 13.67 billion USD, and a significant trade surplus of 10.84 billion USD.",
+        "• India was the tenth-largest trading partner for Thailand in 2021, with a total trade value of 15.08 billion USD; imports from India were 6.41 billion USD, exports were 8.67 billion USD, resulting in a trade surplus of 2.26 billion USD."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:59.708455",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Isan",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Isan is predominantly agricultural, but agricultural output is poor and the sector's importance is declining in favor of trade and the service sector.",
+        "• The majority of Isan's population is impoverished and has low educational attainment, leading many laborers to migrate to other parts of Thailand or abroad in search of employment.",
+        "• Isan comprises approximately one-third of Thailand's total population and one-third of its land area, yet it contributes only 8.9 percent to the national GDP.",
+        "• During the 1990s, Isan's economy experienced an average annual growth rate of 6.2 percent.",
+        "• In 1995, 28 percent of Isan's population lived below the poverty line, significantly higher than the 7 percent poverty rate in central Thailand.",
+        "• By the year 2000, the per capita income in Isan was 26,317 baht, starkly lower than Bangkok's per capita income of 208,434 baht.",
+        "• Within Isan, there exists a pronounced rural-urban economic divide; in 1995, all ten of Thailand's poorest provinces were located in Isan, with Sisaket identified as the poorest province.",
+        "• The majority of wealth and investment in Isan is concentrated in its four major cities: Khorat (Nakhon Ratchasima), Ubon (Ubon Ratchathani), Udon (Udon Thani), and Khon Kaen.",
+        "• These four provinces—Khorat, Ubon, Udon, and Khon Kaen—collectively account for 40 percent of Isan's population."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:54.487904",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Special Economic Zones (SEZ)",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 23 January 2015, during the televised national address program \"Return Happiness to the People,\" Prime Minister Prayut Chan-o-cha outlined the government's policy on establishing special economic zones (SEZs) in Thailand.",
+        "• The policy aims to promote connectivity and regional economic development on a sustainable basis across Thailand.",
+        "• As of the address, Thailand had 10 special economic zones, with trade and investment activities valued at nearly 800 billion baht annually.",
+        "• In 2014, the Thai government initiated a pilot project to establish six SEZs located in five provinces: Tak, Mukdahan, Sa Kaeo, Songkhla, and Trat.",
+        "• The second phase of SEZ development was planned to commence in 2016, targeting the creation of seven additional SEZs in five other provinces: Chiang Rai, Kanchanaburi, Nong Khai, Nakhon Phanom, and Narathiwat.",
+        "• In early 2015, the government approved an infrastructure development plan specifically for SEZs, encompassing 45 projects with a budget allocation of 2.6 billion baht for that year.",
+        "• For 2016, an additional 79 infrastructure projects were planned within SEZs, with a combined budget of 7.9 billion baht.",
+        "• Funding for these projects would come from a combination of government revenue, bond sales, and other financial sources.",
+        "• Prime Minister Prayut projected an investment of US$83 billion over seven years dedicated to new railways, roads, and customs posts to facilitate the establishment of cross-border trade routes.",
+        "• The strategic objective of these infrastructure investments is to connect approximately 2.4 billion consumers in China and India with the ASEAN Economic Community, of which Thailand is a member, thereby enhancing regional economic integration.",
+        "• Critics argue that the implementation of free trade agreements and the establishment of SEZs conflict with the principles of the late King Bhumibol's sufficiency economy philosophy, which the government cites as the foundation for its economic and social policies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:00.729652",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "7",
+      "section_name": "Shadow economy",
+      "chapter_name": "Economy of Thailand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to Friedrich Schneider, an economist at Johannes Kepler University of Linz in Austria and author of _Hiding in the Shadows: The Growth of the Underground Economy_, Thailand's shadow economy ranks among the highest globally.",
+        "• Schneider estimated that in 2014, Thailand's shadow economy accounted for approximately 40.9 percent of the official Gross Domestic Product (GDP).",
+        "• This estimate includes activities such as gambling and small-arms trafficking but largely excludes narcotics-related activities.",
+        "• Schneider defines the shadow economy as market-based legal production that is intentionally concealed to avoid obligations such as taxes, social-security payments, labor standards, or administrative rules.",
+        "• His definition explicitly excludes purely illegal activities such as robbery, burglary, and drug trafficking.",
+        "• The shadow economy in Thailand also includes widespread loan sharking practices.",
+        "• Government studies estimate that around 200,000 informal lenders operate nationwide in Thailand.",
+        "• Many of these informal lenders charge interest rates that impose a heavy financial burden on low-income borrowers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:55.715615",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_thailand.json",
+      "original_index": 27
+    }
+  ]
+}

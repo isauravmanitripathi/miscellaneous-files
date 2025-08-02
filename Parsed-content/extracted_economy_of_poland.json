@@ -1,0 +1,678 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_poland.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.714262",
+    "total_sections_in_source": 24,
+    "extracted_sections_count": 24,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Poland is characterized as an emerging and developing, high-income, industrialized mixed economy, ranking as the sixth-largest in the European Union by nominal GDP and the fifth-largest by GDP based on purchasing power parity (PPP).",
+        "• Poland provides extensive public services typical of developed economies, including no tuition fees for undergraduate and postgraduate education and universal public healthcare that is free at the point of use.",
+        "• Since 1988, Poland has implemented a policy of economic liberalisation while maintaining an advanced public welfare system.",
+        "• Globally, Poland ranks 19th in GDP (PPP), 20th in nominal GDP, and 21st in the 2023 Economic Complexity Index.",
+        "• Among OECD countries, Poland is noted for having a highly efficient and strong social security system, with social expenditure accounting for approximately 22.7% of its GDP.",
+        "• The structure of Poland’s economy is dominated by the service sector, which constitutes 62.3% of GDP, followed by industry at 34.2%, and agriculture at 3.5%.",
+        "• After the economic reforms of 1989, Poland’s external debt increased significantly from $42.2 billion in 1989 to $365.2 billion in 2014.",
+        "• In 2017, Poland exported goods valued at US$224.6 billion globally, with exports rising to US$221.4 billion; key export products include machinery, electronic equipment, vehicles, furniture, and plastics.",
+        "• Poland was the only European Union economy to avoid recession during the 2008 global financial crisis.",
+        "• By 2019, Poland had experienced 28 consecutive years of steady economic growth, the longest uninterrupted growth period in the European Union, surpassed only by Australia worldwide.",
+        "• Over the past 20 years, Poland’s GDP per capita at purchasing power parity has increased at an average annual rate of 6%, the highest growth rate in Central Europe.",
+        "• Since 1990, Poland’s GDP has increased seven-fold, and its nominal GDP has grown by 500% since the year 2000."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:36.102896",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Poland has experienced the largest increase in GDP per capita among the former Eastern Bloc countries, with growth exceeding 100%.",
+        "• Compared to the EU-15 countries, Poland's GDP per capita increase is approximately 45%.",
+        "• The country has maintained uninterrupted economic growth since the year 1992.",
+        "• Poland's continuous economic expansion persisted even in the aftermath of the 2008 global financial crisis."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:30.776492",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Before 1989",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The article primarily addresses the economy of Poland after the year 1989, focusing on the post-communist transformation period.",
+        "• For historical context and a comprehensive understanding of Poland's economic development, the article references three distinct historical periods:",
+        "• The Economy of the Polish–Lithuanian Commonwealth, spanning from 1569 to 1795, which covers the economic conditions and structures during the existence of the Polish–Lithuanian state union.",
+        "• The Economy of the Second Polish Republic, covering the years 1918 to 1939, detailing the interwar economic environment of Poland following its regaining of independence after World War I.",
+        "• The Economy of the People's Republic of Poland, from 1945 to 1989, which encompasses the socialist planned economy era under communist rule prior to the systemic changes initiated in 1989.",
+        "• Readers seeking a historical overview of Poland’s economic evolution before 1989 are directed to consult these specific articles to gain detailed insights into the economic frameworks, policies, and conditions prevailing during those respective periods."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:33.241189",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "1990–2009",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Throughout the 1990s, the Polish state consistently pursued a policy of economic liberalization, which yielded positive outcomes for overall economic growth but adversely affected certain segments of the population.",
+        "• The privatization of small and medium-sized state-owned enterprises, coupled with a liberal legal framework facilitating the establishment of new firms, significantly stimulated the expansion of the private business sector, which became the primary driver of Poland's economic growth during this period.",
+        "• The agricultural sector faced persistent structural challenges, including surplus labor, inefficiency in small-scale farms, and insufficient investment, which constrained its development relative to other sectors.",
+        "• The restructuring and privatization of \"sensitive sectors,\" such as coal mining, progressed slowly; however, increasing foreign investment in the energy and steel industries began to positively influence these sectors' performance.",
+        "• Comprehensive reforms implemented in healthcare, education, the pension system, and state administration generated fiscal pressures that exceeded initial expectations, complicating public finance management.",
+        "• The Polish government prioritized addressing the current account deficit and implemented tighter monetary policies focused on controlling inflation to stabilize the economy.",
+        "• Achieving further improvements in public finances largely depended on reducing public sector employment and reforming the tax code, particularly by integrating farmers—who paid substantially lower taxes than individuals with comparable incomes—into the taxation system.",
+        "• The historical trajectory of Poland’s real GDP per capita from 1400 to 2022 indicates significant economic transformation, with the 1990s marking a critical phase of liberalization and growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:38.401538",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "2008 financial crisis and Great Recession",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the onset of the Great Recession, Poland's Gross Domestic Product (GDP) has consistently experienced growth, distinguishing it from many other economies affected by the crisis.",
+        "• In 2009, amidst the global financial downturn, the European Union's overall GDP contracted by 4.5%, whereas Poland's GDP increased by 1.6%, demonstrating Poland's economic resilience during this period.",
+        "• By November 2013, the European Union's economy had not yet returned to its pre-crisis size, while Poland's economy had expanded cumulatively by 16% since the crisis began.",
+        "• Poland's economic success during and after the Great Recession is attributed primarily to its large internal market, ranking sixth in the European Union by population size, which supports domestic demand.",
+        "• A business-friendly political climate in Poland has also been a significant factor contributing to sustained economic growth during this period.",
+        "• The economic reforms enacted after the fall of communism in the 1990s played a crucial role in Poland's economic development; from 1989 to 2007, Poland's economy grew by 177%, outpacing other Eastern and Central European countries.",
+        "• Despite rapid economic growth between 1989 and 2007, millions of people in Poland were left unemployed, indicating structural challenges within the labor market.",
+        "• The business cycle fluctuations influenced Poland's unemployment rate, which reached nearly 11% by early 2013, reflecting the impact of the economic downturn on the labor market.",
+        "• Although the unemployment rate rose during the crisis, Poland's rate remained below the European average, highlighting relative labor market stability.",
+        "• Following early 2013, Poland's unemployment rate began to decline steadily, indicating economic recovery and improved labor market conditions.",
+        "• According to Eurostat data, by October 2017, Poland's unemployment rate had decreased to 4.6%, demonstrating significant improvement from the peak levels experienced during the Great Recession."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:40.405227",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic growth",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1989 and 2018, Poland's GDP increased by 826.96%, marking the highest growth rate in Europe during this period.",
+        "• For comparison, Ireland's GDP grew by 789.43%, Slovakia's by 783.83%, and the Czech Republic's by 549.47% from 1989 to 2018.",
+        "• In 1990, Poland's national income was USD 65.978 billion, which increased to USD 524.5 billion by 2017.",
+        "• The significant economic growth was facilitated by the privatisation of state-owned enterprises, the expansion of private entrepreneurship, rapid improvements in labor productivity, and a strong openness to foreign direct investment.",
+        "• In 2018, Poland's economy grew by 5.1%, an increase from 4.8% growth recorded in 2017.",
+        "• Economic growth in the fourth quarter of 2018 was 4.9% year-on-year, slightly lower than the 5.1% growth observed in the third quarter of the same year.",
+        "• During the fourth quarter of 2018, investments in Poland increased by 6.7%.",
+        "• Private consumption in Poland rose by 4.3% in the same period.",
+        "• Domestic demand in Poland increased by 4.8% during the fourth quarter of 2018.",
+        "• The Purchasing Managers' Index (PMI) in Poland was 48.2 points in January 2019, showing a slight improvement compared to 47.6 points in December 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:34.271319",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Data",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Poland's main economic indicators from 1980 to 2024, with IMF staff estimates extending to 2030, including GDP in billion PLN and US$ PPP, GDP per capita in US$ PPP and nominal terms, real GDP growth, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, Poland's GDP was 0.3 billion PLN, with a GDP of 171.6 billion US$ PPP and a GDP per capita of 4,823.8 US$ PPP; nominal GDP was 56.7 billion US$, with a nominal GDP per capita of 1,595.0 US$; the real GDP growth was -6.0%, inflation was 9.4%, and unemployment data was not available.",
+        "• The early 1980s saw negative real GDP growth, with -10.0% in 1981 and -4.8% in 1982, accompanied by extremely high inflation rates, peaking at 100.8% in 1982 and 251.1% in 1989, reflecting economic instability.",
+        "• From 1983 to 1989, real GDP growth fluctuated between -0.4% and 5.6%, while inflation remained volatile, reaching 251.1% in 1989; government debt data was not available during this period.",
+        "• The transition period in the early 1990s showed severe economic contraction with real GDP growth of -7.2% in 1990 and -7.0% in 1991; inflation peaked at 585.8% in 1990 before declining to 70.3% in 1991; unemployment rose to 11.8% in 1991; government debt was 6.3% of GDP in 1990.",
+        "• From 1992 to 1995, Poland's economy began recovery with positive real GDP growth ranging from 2.0% to 6.7%, inflation rates declined significantly from 43.0% in 1992 to 27.9% in 1995, unemployment increased to 13.3% in 1995, and government debt rose sharply to 48.7% of GDP.",
+        "• Between 1996 and 2000, Poland experienced steady GDP growth between 4.3% and 7.1%, inflation rates dropped below 20%, unemployment fluctuated around 10-16%, and government debt decreased from 43.1% to 36.4% of GDP.",
+        "• The early 2000s (2001–2005) saw moderate GDP growth between 1.2% and 5.0%, inflation rates fell below 6%, unemployment peaked at 20.2% in 2002 before declining to 18.1% in 2005, and government debt remained stable around 45-47% of GDP.",
+        "• From 2006 to 2008, Poland's economy grew robustly with GDP growth rates between 4.2% and 7.1%, inflation remained low (1.2% to 4.3%), unemployment decreased from 14.2% to 7.5%, and government debt hovered around 44-47% of GDP.",
+        "• The global financial crisis in 2009 slowed growth to 2.8%, inflation was 3.8%, unemployment slightly increased to 8.5%, and government debt rose to 49.8% of GDP.",
+        "• Between 2010 and 2014, Poland's GDP growth ranged from 1.1% to 4.8%, inflation rates were low (0.1% to 4.2%), unemployment declined from 10.0% to 9.2%, and government debt fluctuated between 51.1% and 56.5% of GDP.",
+        "• In 2015 and 2016, GDP growth was 4.2% and 3.1% respectively, inflation rates were negative (-0.9% and -0.7%), unemployment decreased from 7.7% to 6.3%, and government debt increased from 51.3% to 54.2% of GDP.",
+        "• From 2017 to 2019, Poland experienced strong GDP growth between 4.5% and 5.9%, inflation remained low (1.8% to 2.2%), unemployment rates fell steadily from 5.0% to 3.3%, and government debt decreased from 50.6% to 45.6% of GDP.",
+        "• The COVID-19 pandemic in 2020 caused a GDP contraction of -2.0%, inflation rose to 3.4%, unemployment remained low at 3.2%, and government debt increased sharply to 57.1% of GDP.",
+        "• In 2021, Poland's economy rebounded with 6.9% GDP growth, inflation increased to 5.1%, unemployment slightly rose to 3.4%, and government debt decreased to 53.8% of GDP.",
+        "• In 2022, GDP growth slowed to 5.3%, inflation surged to 14.4%, unemployment dropped to 2.8%, and government debt further decreased to 48.8% of GDP.",
+        "• For 2023, the IMF estimates GDP growth at 0.2%, inflation at 11.4%, unemployment steady at 2.8%, and government debt at 49.7% of GDP.",
+        "• The 2024 IMF staff estimates project GDP growth of 2.9%, inflation at 3.6%, unemployment at 2.8%, and government debt rising to 55.3% of GDP.",
+        "• Projections from 2025 to 2030 indicate steady GDP growth rates between 2.7% and 3.2%, inflation rates declining to approximately 2.5%-4.3%, unemployment rates stable around 2.8%-3.4%, and government debt increasing gradually from 60.7% in 2025 to 67.7% of GDP by 2030.",
+        "• GDP in billion PLN is forecasted to rise from 3,886.1 in 2025 to 5,147.3 in 2030, while GDP in billion US$ PPP is expected to increase from 2,017.5 in 2025 to 2,568.6 in 2030.",
+        "• GDP per capita in US$ PPP is projected to grow from 55,185.6 in 2025 to 70,962.8 in 2030, and nominal GDP per capita is forecasted to increase from 26,805.1 US$ in 2025 to 36,052.6 US$ in 2030.",
+        "• The data illustrates Poland's economic transition from a period of hyperinflation and contraction in the 1980s and early 1990s to sustained growth, low inflation, and decreasing unemployment in the 2000s and 2010s, with challenges posed by the 2020 pandemic and subsequent recovery."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:00.986617",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Labour market and wages",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Unemployment in Poland emerged as a significant issue following the Revolutions of 1989, which led to the collapse of communism in the country, despite previously existing high levels of hidden unemployment.",
+        "• By the late 1990s, the unemployment rate in Poland had decreased to approximately 10%.",
+        "• In the early 21st century, the unemployment rate increased again, reaching a peak of 20% in 2002.",
+        "• After 2002, the unemployment rate began to decline, although this decrease was uneven over time.",
+        "• Since 2008, Poland's unemployment rate has consistently remained below the European average.",
+        "• The unemployment rate fell below 8% in 2015, indicating significant improvement in the labour market.",
+        "• By 2019, the unemployment rate had further decreased to 3.2%, resulting in a labour deficit in Poland."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:38.151268",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "5",
+      "section_name": "Foreign trade and FDI",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the collapse of the ruble-based COMECON trade bloc in 1991, Poland reoriented its trade towards the European Union, with 70% of its trade conducted with EU members by 1996.",
+        "• Germany is Poland's main trading partner, a status that continues to the present day.",
+        "• Poland joined the European Union in May 2004, prior to which it promoted regional integration and trade through the Central European Free Trade Agreement (CEFTA), which included Hungary, the Czech Republic, Slovakia, and Slovenia.",
+        "• Poland is a founding member of the World Trade Organization (WTO) and, as an EU member, applies the common external tariff to goods from countries including the United States.",
+        "• Major imports to Poland consist primarily of capital goods necessary for industrial retooling and manufacturing inputs.",
+        "• Poland's exports are highly diversified, including machinery, furniture, foods, motor boats, light planes, hardwood products, casual clothing, shoes, and cosmetics.",
+        "• Germany was the largest importer of Polish exports as of 2013.",
+        "• In the agricultural sector, Poland's most profitable exports abroad include smoked and fresh fish, fine chocolate, dairy products, meats, and specialty breads, supported by a favorable exchange rate conducive to export growth.",
+        "• Food exports from Poland amounted to 62 billion złoty in 2011, representing a 17% increase from 2010.",
+        "• Most Polish exports to the United States benefit from tariff preferences under the Generalised System of Preferences (GSP) program.",
+        "• Poland ranks within the top 20 countries globally for both exports and imports, maintaining a clear trade surplus.",
+        "• In 2021, Poland's top 20 trading partners by total trade volume (in millions of EUR) were:",
+        "• Poland is less dependent on external trade compared to most Central and Eastern European countries, yet its trade volume with Europe remains substantial.",
+        "• In 2011, trade volume (exports plus imports) with the Eurozone accounted for 40% of Poland's GDP, representing a doubling since the mid-1990s.",
+        "• Approximately 30% of Poland's exports are directed to Germany, with another 30% going to the rest of Europe.",
+        "• There has been a substantial increase in Poland's exports to Russia; however, in August 2014, exports of fruits and vegetables to Russia declined sharply due to a politically motivated ban imposed by Moscow.",
+        "• Foreign direct investment (FDI) in Poland reached 40% of GDP in 2010, doubling since 2000.",
+        "• The majority of FDI inflows into Poland originate from France, Germany, and the Netherlands.",
+        "• Polish firms hold foreign investments primarily in Italy and Luxembourg.",
+        "• Most internal FDI is concentrated in manufacturing, making it vulnerable to economic fluctuations in the source countries.",
+        "• The United Arab Emirates (UAE) is Poland's largest trading partner in the Arab world.",
+        "• The Polish government provides various forms of state aid to investors, including a corporate income tax (CIT) rate of 19%, investment incentives in 14 Special Economic Zones (SEZs) such as income tax exemptions, real estate tax exemptions, and competitive land prices.",
+        "• Additional support for investors includes several industrial and technology parks, access to EU structural funds, and availability of brownfield and greenfield locations.",
+        "• According to the National Bank of Poland (NBP), FDI inflow into Poland amounted to €13.9 billion in 2006.",
+        "• An Ernst & Young report ranked Poland 7th globally in terms of investment attractiveness.",
+        "• However, Ernst & Young's 2010 European attractiveness survey reported a 52% decrease in FDI job creation and a 42% decrease in the number of FDI projects in Poland since 2008.",
+        "• An OECD report from 2004 identified Poland as one of the hardest-working nations in Europe.",
+        "• In 2010, the World Economic Forum ranked Poland near the bottom among OECD countries regarding the clarity, efficiency, and neutrality of the legal framework used by firms to settle disputes."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:53.819639",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 28
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "6",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2024, the Polish economy is predominantly driven by the services sector, which encompasses a total of 615,647 registered companies.",
+        "• The finance, insurance, and real estate sector is the second largest in terms of company registration, comprising 329,255 companies.",
+        "• The retail trade sector ranks third with 176,149 registered companies operating within Poland."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:38.199414",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Production industries",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Warsaw Stock Exchange is recognized as the largest stock exchange in Eastern and Central Europe, serving as a key financial hub in the region.",
+        "• Orlen is identified as one of the largest companies in Europe, highlighting its significant role in the European industrial and economic landscape.",
+        "• The Port of Gdynia is noted as one of Poland's principal seaports, emphasizing its importance in maritime trade and logistics.",
+        "• The Main Square in Kraków is mentioned, indicating its cultural and historical significance within Poland.",
+        "• The Financial Supervision Authority, with its head office located in Warsaw, plays a crucial role in overseeing Poland's financial markets and institutions.",
+        "• The Polish Development Fund was established in April 2016, marking a strategic initiative to support economic growth and development projects within Poland.",
+        "• Prior to World War II, Poland's industrial base was primarily concentrated in the coal, textile, chemical, machinery, iron, and steel sectors, forming the backbone of its economy.",
+        "• In the contemporary period, Poland's industrial base has expanded to include fertilizers, petrochemicals, machine tools, electrical machinery, electronics, car manufacturing, and shipbuilding, reflecting diversification and modernization.",
+        "• Poland's industrial infrastructure suffered extensive damage during World War II, necessitating significant reconstruction efforts in the post-war period.",
+        "• The socialist economic system imposed in the late 1940s led to the creation of large, unwieldy economic structures governed by a strict central command, which constrained economic flexibility and efficiency.",
+        "• Due to systemic rigidity under socialism, Poland's economy underperformed relative to other Central European economies during the mid-20th century.",
+        "• In 1990, the government led by Tadeusz Mazowiecki initiated a comprehensive reform program aimed at transitioning from a centralized command economy to a market-oriented economic system.",
+        "• Despite overall impressive results from the 1990 reforms, many large state-owned industrial enterprises—especially in the rail, mining, steel, and defense sectors—have remained resistant to necessary changes and downsizing required for competitiveness in a market economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:47.470535",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "6.1.1",
+      "section_name": "Pharmaceuticals",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2023, the pharmaceutical market in Poland is valued at 50 billion PLN, representing a 9.5% increase compared to the previous year.",
+        "• The non-prescription medicine market constitutes approximately one-third of the total pharmaceutical market value.",
+        "• In 2008, the non-prescription medicine market in Poland was worth 7.5 billion PLN.",
+        "• The non-prescription market value includes not only drugs but also non-drug products such as dietary supplements, cosmetics, dressings, dental materials, diagnostic tests, and medical devices.",
+        "• The prescription medicines market in Poland was valued at 15.8 billion PLN as of the data provided."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:41.018982",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2023, Poland ranked as the world's 3rd largest producer of rhenium.",
+        "• In the same year, Poland was the 5th largest global producer of silver.",
+        "• Poland held the position of the 13th largest producer of copper worldwide in 2023.",
+        "• The country was the 14th largest producer of sulfur globally as of 2023.",
+        "• Additionally, Poland ranked as the 14th largest producer of salt in the world in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:41.226588",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture in Poland employs 8.2% of the workforce but contributes only 3.8% to the country's GDP, indicating relatively low productivity within the sector.",
+        "• During the era of the Polish People's Republic, unlike the industrial sector, Poland's agricultural sector remained predominantly in private ownership.",
+        "• Most former state farms in Poland have been converted into leased land, with farmer tenants currently managing these plots.",
+        "• Efforts to sell former state farmland are hindered by a lack of available credit for prospective buyers.",
+        "• Poland has approximately 2 million private farms, which collectively occupy 90% of all farmland and produce roughly 90% of the total agricultural output.",
+        "• The average size of farms in Poland is small, at about 8 hectares, and these farms are often fragmented into smaller plots.",
+        "• Farms larger than 15 hectares constitute only 9% of the total number of farms but cover 45% of the total agricultural land area in Poland.",
+        "• More than half of all farm households in Poland engage primarily in subsistence farming, producing mainly for their own needs with minimal or no commercial sales.",
+        "• Poland is a net exporter of processed agricultural products, including fruit and vegetables, meat, and dairy products.",
+        "• Agricultural processors in Poland frequently rely on imports to supplement domestic supplies of wheat, feed grains, vegetable oil, and protein meals, as domestic production of these commodities is generally insufficient to meet demand.",
+        "• Poland is the leading producer of potatoes and rye within the European Union.",
+        "• Globally, Poland ranks among the largest producers of sugar beets and triticale.",
+        "• Poland is also a significant producer of rapeseed, various grains, hogs, and cattle.",
+        "• On the international stage, Poland is the sixth-largest producer and exporter of apples worldwide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:46.649865",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "6.4",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After Poland's accession to the European Union in 2004, the tourism sector experienced significant growth, reflecting increased international interest and accessibility.",
+        "• The majority of tourist attractions in Poland are associated with its natural environment, historic sites, and cultural events, which collectively attract millions of tourists annually from across the globe.",
+        "• According to data from the Tourist Institute, Poland received 15.7 million tourists in 2006 and 15 million tourists in 2007, out of a total of 66.2 million foreign visitors recorded during that period.",
+        "• In 2016, the total number of arrivals to Poland reached 80.5 million, with 17.5 million of these arrivals classified as tourists for tourism purposes, defined by at least one night's stay.",
+        "• Based on the 2016 tourism arrivals, Poland ranked as the 16th most visited country worldwide, highlighting its growing prominence as a global tourist destination.",
+        "• The most popular cities among tourists in Poland include Kraków, Warsaw, Gdańsk, Wrocław, Łódź, Poznań, Szczecin, Lublin, Toruń, Sopot, Zakopane, and the Wieliczka Salt Mine, each offering unique cultural and historical experiences.",
+        "• Key recreational destinations in Poland encompass the Masurian Lake District, the Baltic Sea coast, the Tatra Mountains (noted as the highest mountain range of the Carpathians), the Sudetes mountain range, and the Białowieża Forest, all renowned for their natural beauty and outdoor activities.",
+        "• Poland's main tourist offerings comprise city sightseeing and visits to historical monuments located both within urban areas and in the countryside, catering to diverse interests including business travel, qualified tourism, agrotourism, mountain hiking (trekking), and climbing activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:48.185351",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "6.5",
+      "section_name": "Financial sector",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Polish banking sector is regulated by the Polish Financial Supervision Authority (PFSA), which oversees its operations and stability.",
+        "• Between 1992 and 1997, during Poland’s transition to a market-oriented economy, the government undertook significant reforms including the privatization of some banks, recapitalization of others, and the introduction of legal reforms aimed at increasing competitiveness within the sector.",
+        "• These reforms, combined with the sector’s health and relative stability, attracted numerous strategic foreign investors to the Polish banking market.",
+        "• At the beginning of 2009, Poland’s banking sector comprised 51 domestic banks, a network of 578 cooperative banks, and 18 branches of foreign-owned banks.",
+        "• Foreign investors held controlling stakes in nearly 40 commercial banks in Poland, collectively accounting for 68% of the total banking capital in the country.",
+        "• In response to the 2008 global financial crisis, Polish banks adopted cautious measures including restraining lending activities, raising interest rates, and strengthening their balance sheets to maintain financial stability.",
+        "• Following the crisis, the Polish banking sector resumed lending activities, with an expected increase in lending of more than 4% projected for the year 2011."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:44.192832",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "6.6",
+      "section_name": "Venture capital",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of March 2019, the venture capital segment of the private equity market in Poland comprised 130 active firms specializing in financing early-stage, high-risk companies with potential for rapid growth.",
+        "• Between 2009 and 2019, these venture capital firms invested in over 750 Polish companies, averaging approximately 9 companies per portfolio.",
+        "• Since 2016, new legal institutions have been established in Poland to support entities investing specifically in enterprises at the seed or startup phase.",
+        "• In 2018, venture capital funds invested a total of €178 million in Polish startups, representing 0.033% of Poland’s GDP for that year.",
+        "• By March 2019, the total assets managed by venture capital companies operating in Poland were estimated at €2.6 billion.",
+        "• The total value of investments made by the Polish venture capital market amounted to €209.2 million as of the latest data."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:47.477484",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "6.7",
+      "section_name": "Transportation",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Poland possesses an extensive railway network, with main railway stations in most cities located near city centres and well integrated with local transportation systems.",
+        "• The railway infrastructure in Poland is operated by Polish State Railways, which is a component of the state-run PKP Group.",
+        "• The rail network density is notably higher in western and northern Poland, whereas the eastern regions of the country have a less developed rail infrastructure.",
+        "• Warsaw, the capital city of Poland, hosts the country’s only rapid transit system, known as the Warsaw Metro.",
+        "• Warsaw Chopin Airport is Poland’s busiest airport and serves as the primary international hub for the national flag carrier, LOT Polish Airlines.",
+        "• Besides Warsaw Chopin Airport, several other Polish cities including Wrocław, Gdańsk, Katowice, Kraków, and Poznań have international airports facilitating air travel.",
+        "• In preparation for the Euro 2012 football championships, which were jointly hosted by Poland and Ukraine, multiple airports across Poland underwent renovation and redevelopment.",
+        "• Airport improvements for Euro 2012 included the construction of new terminals and the expansion of facilities such as an increased number of jetways and aircraft stands, specifically at Wrocław Airport in Wrocław and Lech Wałęsa Airport in Gdańsk.",
+        "• Poland’s public road network totals 412,264 kilometers (256,170 miles) in length.",
+        "• The classification of Polish public roads is based on administrative divisions, including national roads, voivodeship roads, Powiat roads, and Gmina roads.",
+        "• Motorways and expressways are incorporated within the national road network of Poland.",
+        "• As of May 2025, Poland has 5,205.5 kilometers of motorways and expressways currently in use."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:52.797010",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "7",
+      "section_name": "Major companies in Poland",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The list of major Polish companies includes selections from the 500 largest companies in Poland as compiled by the magazine _Polityka_.",
+        "• PKO Bank Polski and Bank Pekao are prominent banking institutions featured among Poland’s major companies.",
+        "• InPost operates in package delivery logistics, representing the logistics sector.",
+        "• Orlen and Grupa Lotos are key players in the petrochemical industry.",
+        "• PZU is a leading company in the insurance sector.",
+        "• Grupa Azoty is a significant chemical manufacturing company in Poland.",
+        "• Dino operates grocery supermarkets, contributing to the retail sector.",
+        "• Yacht manufacturing is represented by Galeon Yachts, Sunreef Yachts, and Delphia Yachts.",
+        "• PSS Szczesniak specializes in manufacturing industrial trucks and special vehicles.",
+        "• Autosan and Solaris Bus & Coach are notable manufacturers in the bus and tram sectors, with Solaris also producing trams.",
+        "• Stadler Polska, Modertrans Poznan, Newag, PESA, and Protram Wroclaw are companies involved in tram and rail transport manufacturing and maintenance.",
+        "• ESky Group operates within the tourism industry.",
+        "• QLOC is a software developer specializing in video game port development.",
+        "• Allegro is a major retail and online auction platform in Poland.",
+        "• Techland, People Can Fly, CD Projekt, and CI Games are key companies in the video game development and distribution industry.",
+        "• E. Wedel is a renowned manufacturer of chocolate goods.",
+        "• Fakro manufactures roof windows and attic stairs.",
+        "• 4F is a company specializing in sports equipment.",
+        "• LPP and Vistula Group are significant clothing manufacturers.",
+        "• Platige Image focuses on computer graphics and special effects production.",
+        "• Pronar manufactures agricultural machinery.",
+        "• Netguru, Asseco, Comarch, Ericpol, and LiveChat Software are notable IT companies.",
+        "• Orange Polska and Netia operate in the telecommunications sector.",
+        "• Black Red White and Nowy Styl Group are manufacturers of furniture, with the latter specializing in office furniture.",
+        "• Fasing is part of the metal industry.",
+        "• PSE-Operator manages the national power grid.",
+        "• PGNiG is a major company in the oil and gas sector.",
+        "• Polsat, Agora SA, and TVN are influential media companies.",
+        "• Maspex is a significant food manufacturing company.",
+        "• ROMET and Kross SA manufacture bicycles.",
+        "• Inglot Cosmetics and Dr. Irena Eris operate in the beauty and cosmetics industry.",
+        "• WB Group, Advanced Protection Systems, FB \"Łucznik\" Radom, Polska Grupa Zbrojeniowa, and ZMT SA are key players in the defence industry.",
+        "• Apart is a jewelry company.",
+        "• Beesfund operates as a crowdfunding company.",
+        "• Grycan is known for ice cream production.",
+        "• Orbis is a company in the hotel industry.",
+        "• KGHM Polska Miedź and Kompania Węglowa are major mining companies specializing in copper and coal respectively.",
+        "• Echo Investment and Globe Trade Centre are involved in real estate development.",
+        "• Pekaes and Polferries operate in logistics and transport sectors.",
+        "• Polish State Railways (PKP) is the national railway operator.",
+        "• Poczta Polska is the national postal service provider.",
+        "• Cersanit manufactures ceramic goods including sanitary products and tiles.",
+        "• Elektrim is a diversified utilities company also providing mobile phone services.",
+        "• Volkswagen Poznań, Fiat (Polish branch of Fiat Group, formerly FSM), and General Motors Poland are significant automotive manufacturers.",
+        "• The Warsaw Stock Exchange is a central financial institution.",
+        "• RTB House specializes in online advertising.",
+        "• Tauron Group is responsible for electricity distribution.",
+        "• Boryszew operates within the automotive industry.",
+        "• Amica is a company in the engineering industry.",
+        "• Quemetica is involved in the chemical industry.",
+        "• Polar manufactures home appliances.",
+        "• PMR Ltd provides B2B market research and business consultancy services.",
+        "• Metro Group Poland operates in the retail sector.",
+        "• Wielton manufactures utility vehicles.",
+        "• Zortrax specializes in 3D printing technology.",
+        "• Metal Master manufactures private jet aircraft."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:00.576180",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 56
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "8",
+      "section_name": "Budget and debt",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, the public and private debt levels of Poland were reported to be below the European average.",
+        "• The measurement of Poland's public debt is expressed as a percentage of its Gross Domestic Product (GDP).",
+        "• This indicates that Poland maintained relatively lower debt burdens compared to other European countries during that year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:49.029585",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "9",
+      "section_name": "GDP growth in Poland",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the first quarter of 2025, Poland's GDP growth was recorded at 3.8% compared to the same quarter of the previous year, with no data yet available for subsequent quarters or the overall year.",
+        "• For the year 2024, Poland's GDP growth rates by quarter were 1.7% in Q1, 3.9% in Q2, 2.1% in Q3, and 3.9% in Q4, resulting in an overall annual GDP growth of 2.9%.",
+        "• In 2023, Poland experienced a challenging economic environment with GDP growth rates of -1.2% in Q1, -0.7% in Q2, 0.6% in Q3, and 1.9% in Q4, culminating in a marginal overall growth of 0.2% for the year.",
+        "• The year 2022 saw a strong recovery with GDP growth rates of 10.3% in Q1, 6.3% in Q2, 4.8% in Q3, and 1.0% in Q4, achieving an overall annual growth rate of 5.3%.",
+        "• In 2021, Poland's GDP fluctuated with -0.6% in Q1, followed by robust growth of 12.0% in Q2, 7.3% in Q3, and 9.2% in Q4, resulting in a substantial overall growth of 6.9%.",
+        "• The year 2020 was marked by economic contraction due to the global pandemic, with GDP growth rates of 2.0% in Q1, then declining sharply to -8.3% in Q2, -1.7% in Q3, and -2.7% in Q4, leading to an overall negative growth of -2.2%.",
+        "• In 2019, Poland maintained steady growth with quarterly GDP increases of 5.5% in Q1, 5.4% in Q2, 4.6% in Q3, and 3.7% in Q4, resulting in an overall growth rate of 4.8%.",
+        "• The year 2018 showed consistent GDP growth with quarterly rates of 5.2% in Q1, 5.3% in Q2, 5.2% in Q3, and 4.9% in Q4, culminating in an annual growth of 5.2%.",
+        "• In 2017, Poland's GDP grew by 4.6% in Q1, 4.3% in Q2, 5.5% in Q3, and 5.1% in Q4, with an overall yearly growth of 4.9%.",
+        "• The year 2016 recorded GDP growth rates of 3.1% in Q1, 3.4% in Q2, 2.8% in Q3, and 2.8% in Q4, leading to an annual growth of 3.0%.",
+        "• In 2015, GDP growth was 3.8% in Q1, 3.3% in Q2, 3.6% in Q3, and 4.6% in Q4, resulting in an overall growth rate of 3.8%.",
+        "• Poland's GDP growth in 2014 was 3.1% in Q1, 3.3% in Q2, 3.4% in Q3, and 3.3% in Q4, with an annual growth of 3.3%.",
+        "• The year 2013 showed modest growth with quarterly GDP rates of 0.1% in Q1, 0.6% in Q2, 1.9% in Q3, and 2.7% in Q4, resulting in an overall growth of 1.3%.",
+        "• In 2012, GDP growth rates were 3.3% in Q1, 2.3% in Q2, 1.0% in Q3, and 0.2% in Q4, culminating in an annual growth of 1.7%.",
+        "• The year 2011 experienced strong GDP growth with quarterly rates of 4.9% in Q1, 4.8% in Q2, 5.0% in Q3, and 5.3% in Q4, resulting in an overall growth of 5.0%.",
+        "• In 2010, Poland's GDP grew by 2.1% in Q1, 3.6% in Q2, 4.0% in Q3, and 4.8% in Q4, leading to an annual growth rate of 3.6%.",
+        "• The year 2009 showed gradual recovery with GDP growth rates of 1.5% in Q1, 1.9% in Q2, 2.7% in Q3, and 4.2% in Q4, resulting in an overall growth of 2.6%.",
+        "• In 2008, GDP growth was strong in early quarters with 5.5% in Q1, 4.9% in Q2, 3.7% in Q3, but slowed to 1.9% in Q4, culminating in an annual growth of 4.0%.",
+        "• The year 2007 recorded high GDP growth rates of 7.7% in Q1, 7.3% in Q2, 6.9% in Q3, and 6.9% in Q4, resulting in an overall growth of 7.2%.",
+        "• In 2006, Poland's GDP grew by 5.6% in Q1, 6.3% in Q2, 6.5% in Q3, and 6.3% in Q4, with an annual growth rate of 6.2%.",
+        "• The year 2005 saw GDP growth rates of 2.2% in Q1, 2.8% in Q2, 4.3% in Q3, and 4.8% in Q4, leading to an overall growth of 3.5%.",
+        "• In 2004, GDP growth was 7.0% in Q1, 5.7% in Q2, 4.6% in Q3, and 3.6% in Q4, resulting in an annual growth rate of 5.2%.",
+        "• The year 2003 recorded GDP growth rates of 1.8% in Q1, 3.6% in Q2, 4.0% in Q3, and 4.6% in Q4, culminating in an overall growth of 3.5%.",
+        "• In 2002, Poland's GDP grew by 0.6% in Q1, 0.9% in Q2, 1.9% in Q3, and 2.2% in Q4, with an annual growth rate of 1.4%.",
+        "• The year 2001 showed modest GDP growth with rates of 2.4% in Q1, 1.2% in Q2, 1.0% in Q3, and 0.5% in Q4, resulting in an overall growth of 1.3%.",
+        "• In 2000, GDP growth rates were 6.1% in Q1, 5.4% in Q2, 3.3% in Q3, and 2.7% in Q4, leading to an annual growth of 4.4%.",
+        "• The year 1999 experienced GDP growth of 2.2% in Q1, 3.5% in Q2, 5.4% in Q3, and 6.6% in Q4, culminating in an overall growth rate of 4.4%.",
+        "• In 1998, Poland's GDP grew by 6.6% in Q1, 5.4% in Q2, 5.0% in Q3, and 3.2% in Q4, resulting in an annual growth of 5.1%.",
+        "• The year 1997 recorded high GDP growth rates of 7.1% in Q1, 7.7% in Q2, 7.0% in Q3, and 6.6% in Q4, culminating in an overall growth of 7.1%.",
+        "• In 1996, Poland's GDP growth was 3.5% in Q1, 5.7% in Q2, 7.4% in Q3, and 8.1% in Q4, resulting in a strong annual growth rate of 6.2%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:28.838876",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "10",
+      "section_name": "Location",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Poland possesses a strategically advantageous geographic location that facilitates efficient transportation of locally manufactured components and products to other parts of Europe.",
+        "• The country's location enables newly established factories, particularly those relocating production from China, to distribute goods rapidly across Europe.",
+        "• Specifically, goods produced in Poland can reach the most densely populated regions of Europe within 24 hours of dispatch.",
+        "• Furthermore, products manufactured in Poland can be delivered to all European countries within 48 hours, highlighting Poland's logistical efficiency in continental distribution."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:51.669346",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "11",
+      "section_name": "Potential of the Polish economy in the EU",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Poland is the sixth-largest economy in the European Union and the eighth-largest economy in Europe when measured by the purchasing power parity (PPP) index, ranking slightly ahead of the Netherlands.",
+        "• During the 2008 financial crisis, Poland uniquely recorded GDP growth, demonstrating economic resilience amid widespread downturns.",
+        "• As of September 2023, Poland's unemployment rate remained very low at 5%, indicating a strong labor market.",
+        "• Although Poland's economy is gradually converging with Western European countries, this process has been slow; however, Poland has surpassed Portugal in terms of social development levels.",
+        "• There is significant regional economic disparity within Poland: Masovian Voivodeship, primarily driven by Warsaw, reaches approximately 82% of the EU average GDP per capita, comparable to the richest regions of Spain and most regions of France.",
+        "• Lower Silesian Voivodeship, with a GDP per capita of $16,000, is economically on par with Portugal and certain regions of Spain and Greece.",
+        "• Other Polish voivodeships achieve about 50% of the EU average GDP per capita, while the poorest voivodeships, located in the eastern part of the country, have GDP per capita levels comparable to those of Romania and Bulgaria.",
+        "• Prominent Polish capital enterprises operating regionally include PKN Orlen, which has service stations in Germany and Lithuania; Polsat, which invests in Lithuania; and the ITI Group.",
+        "• Poland possesses a highly developed road infrastructure, with major highways and expressways such as the A1, A2, A4, S6, and S7 fully completed; additional road projects are expected to be finished by 2023.",
+        "• The construction of these highways and expressways is partially financed by the European Union through private company partnerships.",
+        "• Poland is slated to receive approximately EUR 4.5 billion in the coming years dedicated to the modernization of its railway network.",
+        "• Poland is a key immigration destination within the European Union, having attracted more non-EU immigrants than any other EU country for several consecutive years, with the majority of immigrants in 2021 coming from Ukraine."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:48:59.247044",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "12",
+      "section_name": "International rankings",
+      "chapter_name": "Economy of Poland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Poland ranked 36th in the Human Development Index in 2022, reflecting its overall human development status.",
+        "• In 2022, Poland was positioned 37th in the Inequality-adjusted Human Development Index, accounting for income distribution disparities.",
+        "• The country achieved 25th place in the Average Wage Index in 2023, indicating its relative wage levels globally.",
+        "• Poland was ranked 39th in the Democracy Index in 2024, measuring the state of democracy within the nation.",
+        "• In 2025, Poland held the 7th position in the Henley Passport Index, reflecting the travel freedom of its citizens.",
+        "• Also in 2025, Poland was ranked 4th in The Passport Index, another measure of passport strength and mobility.",
+        "• The OECD Better Life Index placed Poland 27th in 2020, assessing quality of life factors such as income, education, and health.",
+        "• Poland ranked 23rd in the Human Capital Index in 2020, evaluating the country's investment in education and workforce skills.",
+        "• In 2018, Poland was 25th in the Quality of Nationality Index, which measures the value and quality of a country's nationality.",
+        "• The Legatum Prosperity Index ranked Poland 37th in 2023, assessing wealth, economic growth, and quality of life.",
+        "• Poland was 36th in the Social Progress Index in 2023, indicating its social and environmental performance.",
+        "• The EF English Proficiency Index placed Poland 15th in 2024, highlighting the country's English language skills.",
+        "• Poland ranked 40th in the Ease of Doing Business Index in 2020, reflecting the regulatory environment for business operations.",
+        "• In 2023, Poland was 21st in the Economic Complexity Index, measuring the diversity and sophistication of its exports.",
+        "• The Global Competitiveness Report ranked Poland 37th in 2019, evaluating factors driving productivity and prosperity.",
+        "• Poland was 40th in the Index of Economic Freedom in 2024, assessing economic policies and regulatory efficiency.",
+        "• The Global Peace Index placed Poland 32nd in 2024, measuring the country's level of peace and security.",
+        "• In 2023, Poland ranked 47th in the Corruption Perceptions Index, indicating perceptions of public sector corruption.",
+        "• Poland was 40th in the Global Innovation Index in 2024, reflecting its innovation capabilities and outputs.",
+        "• The Good Country Index ranked Poland 27th in 2022, assessing the country's contribution to global well-being.",
+        "• Poland was positioned 31st in the Press Freedom Index in 2025, measuring the level of freedom available to journalists."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:01.498909",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_poland.json",
+      "original_index": 23
+    }
+  ]
+}

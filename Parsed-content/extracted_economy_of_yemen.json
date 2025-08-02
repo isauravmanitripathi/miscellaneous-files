@@ -1,0 +1,490 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_yemen.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.421114",
+    "total_sections_in_source": 17,
+    "extracted_sections_count": 17,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Yemen is characterized as weak and underdeveloped, a condition exacerbated by the outbreak of the Yemeni Civil War, which has caused significant instability and a worsening humanitarian crisis.",
+        "• Prior to unification, South Yemen and North Yemen each had distinct but equally struggling and underdeveloped economic systems.",
+        "• Yemen's economy suffered further after its support for Iraq during the 1990–91 Persian Gulf War, leading to Saudi Arabia expelling nearly 1 million Yemeni workers and both Saudi Arabia and Kuwait significantly reducing economic aid to Yemen.",
+        "• The 1994 civil war in Yemen further depleted the country's economic resources and stability.",
+        "• Due to these challenges, Yemen has heavily relied on aid from multilateral agencies to sustain its economy, committing in return to implement significant economic reforms.",
+        "• In 1997, the International Monetary Fund (IMF) approved two programs to substantially increase Yemen's credit: the Enhanced Structural Adjustment Facility (later renamed the Poverty Reduction and Growth Facility, PRGF) and the Extended Funding Facility (EFF).",
+        "• Yemen's government attempted to implement IMF-recommended reforms including reducing the civil service payroll, eliminating diesel and other subsidies, lowering defense spending, introducing a general sales tax, and privatizing state-run industries.",
+        "• Limited progress on reforms led the IMF to suspend funding to Yemen between 1999 and 2001.",
+        "• In October 2002, the World Bank extended a four-year economic support package to Yemen worth US$2.3 billion, alongside other bilateral and multilateral lenders.",
+        "• Due to Yemen's failure to implement significant reforms, the World Bank announced in late 2005 a planned reduction of financial aid by one-third over July 2005 to July 2008, withholding a key component of $300 million in concessional financing pending renewal of Yemen's PRGF with the IMF.",
+        "• In May 2006, the World Bank adopted an assistance strategy for Yemen that included $400 million in International Development Association (IDA) credits for 2006–2009.",
+        "• In November 2006, Yemen's development partners pledged a total of $4.7 billion in grants and concessional loans for the period 2007–2010.",
+        "• Despite possessing significant oil and gas resources and considerable agriculturally productive land, Yemen remains one of the poorest low-income countries globally.",
+        "• By 2018, over 80 percent of Yemen’s population lived in poverty.",
+        "• The economy faced additional strain from an average monthly influx of 1,000 Somali refugees seeking work, compounding existing challenges including a 20 to 40 percent unemployment rate.",
+        "• Yemen remained under considerable international pressure to implement economic reforms to avoid losing critical international financial support.",
+        "• In North Yemen, the civil war from 1962 to 1970 and frequent droughts severely damaged what was previously a prosperous agricultural sector.",
+        "• Coffee production, once the northern region’s main export and primary source of foreign exchange, declined as cultivation of khat increased.",
+        "• Low domestic industrial output and a lack of raw materials made the Yemeni Arab Republic heavily dependent on a wide variety of imports.",
+        "• The ongoing Yemeni Civil War and the Saudi-led coalition’s air bombing campaign have further devastated Yemen’s economy.",
+        "• As a result of the civil war, Yemen experienced inflation and devaluation of the Yemeni rial.",
+        "• Yemen’s economy contracted by approximately 50 percent from the start of the civil war on 19 March 2015 through October 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:42.878937",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The gross domestic product (GDP) of Yemen since unification is measured at market prices in millions of Yemeni Rials, with historical data provided by the International Monetary Fund (IMF).",
+        "• In 1989, Yemen's GDP was 125,562 million Yemeni Rials, with a US dollar exchange rate of 11.70 Yemeni Rials and an inflation index of 5.10 (base year 2000=100).",
+        "• By 1995, GDP increased to 516,643 million Yemeni Rials, the exchange rate depreciated to 40.49 Yemeni Rials per US dollar, and the inflation index rose to 51.",
+        "• In 2000, GDP reached 1,539,386 million Yemeni Rials, the exchange rate was 161.00 Yemeni Rials per US dollar, and the inflation index was set at the base level of 100.",
+        "• By 2005, GDP further grew to 2,907,636 million Yemeni Rials, with the exchange rate at 191.37 Yemeni Rials per US dollar and an inflation index of 175.",
+        "• For purchasing power parity (PPP) comparisons in 2009, the US dollar exchanged at 150.11 Yemeni Rials, and the mean wage was $1.06 per man-hour.",
+        "• Yemen's perennial trade deficits have been financed by remittances from Yemenis working abroad and foreign aid.",
+        "• Significant Yemeni diaspora communities exist in the Arabian Peninsula, Indonesia, India, East Africa, the United Kingdom, and the United States.",
+        "• Since the mid-1950s, the Soviet Union and the People's Republic of China provided large-scale assistance to the Yemen Arab Republic (YAR), including funding for major construction projects, scholarships, and military aid.",
+        "• The main economic indicators from 1990 to 2023, with IMF staff estimates for 2025 to 2029, show the following trends:",
+        "• GDP in billion US dollars (PPP) grew from 24.20 in 1990 to an estimated 98.48 in 2029.",
+        "• GDP per capita in US dollars (PPP) increased from 1,845 in 1990 to an estimated 2,542 in 2029.",
+        "• Nominal GDP in billion US dollars rose from 12.64 in 1990 to an estimated 24.52 in 2029.",
+        "• Real GDP growth fluctuated, with notable declines during conflict periods, such as −12.7% in 2011 and −28.0% in 2015, but is projected to recover with positive growth rates of 5.5% to 7.0% from 2025 to 2029.",
+        "• Inflation rates varied widely, peaking at 51.2% in 1992 and reaching a low of 0.9% in 2023, with projections stabilizing around 10% by 2029.",
+        "• Government debt as a percentage of GDP showed significant variation, with data unavailable for early years, peaking at 96% in 1999, and estimated to decline to 50% by 2029.",
+        "• Specific yearly highlights include:",
+        "• In 1991, GDP was $26.59 billion PPP with 6.3% real growth and 44.9% inflation.",
+        "• In 1999, government debt reached 96% of GDP despite a GDP of $47.42 billion PPP.",
+        "• The years 2011 to 2017 saw negative GDP growth rates (−12.7% in 2011, −28.0% in 2015, −9.4% in 2016, and −5.1% in 2017) reflecting economic contraction likely due to political instability and conflict.",
+        "• Inflation spiked to 22.0% in 2015 and remained elevated through 2017 at 30.4%.",
+        "• Government debt increased to 87% of GDP in 2020 and remained high through 2024.",
+        "• From 2025 onwards, the IMF projects economic recovery with GDP growth rates between 5.5% and 7.0%, inflation rates declining to around 10%, and government debt gradually decreasing to 50% of GDP by 2029."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:52.483362",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Integration issues",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to independence, economic activity in southern Yemen was predominantly centered in the port city of Aden, which relied heavily on seaborne transit trade.",
+        "• The seaborne transit trade in Aden collapsed following the closure of the Suez Canal and Britain's withdrawal from Aden in 1967.",
+        "• The People's Democratic Republic of Yemen (PDRY) sustained its centrally planned Marxist economy primarily through extensive Soviet aid, remittances from south Yemenis working abroad, and revenues generated by the Aden refinery, which was constructed in the 1950s.",
+        "• The dissolution of the Soviet Union and the subsequent cessation of Soviet aid led to the effective collapse of the southern economy.",
+        "• Following the unification of Yemen, the government faced the challenge of integrating two economically disparate systems from the formerly separate northern and southern regions.",
+        "• Economic growth was significantly hindered by several severe shocks, including the return of approximately 850,000 Yemenis from the Persian Gulf states in 1990.",
+        "• A major reduction in foreign aid flows after unification further strained the economy.",
+        "• Internal political disputes escalated into the 1994 civil war, which also negatively impacted economic development and integration efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:02.190496",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agriculture and fishing",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture has been the mainstay of Yemen's economy since 1990, contributing more than 20 percent of the gross domestic product (GDP), with the Central Bank of Yemen reporting a 20.4 percent contribution in 2005.",
+        "• The agricultural sector employed over half of Yemen's working population, specifically 54.2 percent in 2003, highlighting its significance as a primary source of employment.",
+        "• Contrasting estimates exist regarding agriculture's GDP contribution, with a U.S. government estimate indicating the sector accounted for only 13.5 percent of GDP in 2005.",
+        "• Yemen's agricultural growth is hindered by multiple environmental challenges including soil erosion, sand dune encroachment, deforestation, and most critically, water scarcity.",
+        "• Due to low rainfall levels, Yemeni agriculture heavily depends on groundwater extraction, leading to rapid depletion of water tables, which are falling by approximately two meters annually.",
+        "• It is estimated that groundwater supplies in Sanaa, Yemen's capital, could be completely exhausted by the year 2030 if current trends continue.",
+        "• The adoption of irrigation techniques has shifted Yemen's agricultural focus toward fruit and vegetable production, making these the primary cash crops.",
+        "• As irrigated crop output has increased, production of traditional rain-fed crops such as cereals has declined.",
+        "• Khat cultivation, a mildly narcotic plant whose leaves produce natural stimulants when chewed, increased by 6.7 percent in 2005 according to the Central Bank of Yemen, accounting for 5.8 percent of GDP that year.",
+        "• Khat consumption is widespread throughout Yemen, reflecting its cultural and economic significance.",
+        "• The World Bank and other economists estimate that khat cultivation dominates Yemen's agricultural economy, constituting approximately 10 percent of GDP and employing an estimated 150,000 people.",
+        "• Khat farming consumes an estimated 30 percent of Yemen's irrigation water and displaces agricultural land that could otherwise be used for exportable crops such as coffee, fruits, and vegetables.",
+        "• Yemen possesses extensive territorial waters and marine resources with the potential to produce up to 840,000 tons of fish annually.",
+        "• Despite this potential, Yemen's fishing industry remains underdeveloped, primarily consisting of individual fishermen operating small boats.",
+        "• Following the government's removal of restrictions on fish exports, fishing production reached about one-quarter of its capacity, generating revenues valued at US$260 million in 2005.",
+        "• Fish and fish products accounted for only 1.7 percent of Yemen's GDP but represented the country's second largest export sector.",
+        "• In December 2005, the World Bank approved a US$25 million credit to fund a Fisheries Management and Conservation Project covering all coastal governorates along the Red Sea and the Gulf of Aden.",
+        "• The Fisheries Management and Conservation Project aimed to improve fish landing and auction facilities, provide ice plants for fish preservation, and enhance the capacity of Yemen's Ministry of Fisheries for research, resource management planning, and regulatory activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:43.170400",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Oil and gas",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Yemen is an oil producer with significant untapped offshore oil and gas deposits, relying heavily on foreign oil companies through production-sharing agreements with the government.",
+        "• Income from oil production accounts for 70 to 75 percent of Yemen's government revenue and approximately 90 percent of its exports.",
+        "• Yemen has proven crude oil reserves exceeding 9 billion barrels (1.4×10^9 m³), although reserves are declining due to damage to older fields caused by war and corruption.",
+        "• Oil provides around 90 percent of Yemen's exports, underscoring the country's economic dependence on this sector.",
+        "• The World Bank predicted that Yemen's oil and gas revenues would sharply decline during 2009 and 2010 and fall to zero by 2017 as oil supplies were depleted.",
+        "• The UK's Royal Institute for International Affairs warned that instability in Yemen could extend a zone of lawlessness from northern Kenya to Saudi Arabia, describing Yemen's democracy as \"fragile\" and citing armed conflicts with Islamists and tribal insurgents as sources of instability.",
+        "• Western entities, diplomats, and international leaders have vested interests in maintaining Yemen's stability to prevent adverse regional outcomes.",
+        "• According to the U.S. Energy Information Administration, Yemen's crude oil output averaged 413,300 barrels per day (65,710 m³/d) in 2005, a decrease from 423,700 barrels per day (67,360 m³/d) in 2004.",
+        "• For the first eight months of 2006, crude oil output remained steady, averaging 412,500 barrels per day (65,580 m³/d).",
+        "• A minor oil discovery occurred in southern Yemen in 1982, followed by an American company discovering an oil basin near Ma'rib in 1984.",
+        "• By 1995, the Ma'rib oil basin produced 27,000 cubic meters per day (170,000 barrels per day).",
+        "• A small oil refinery near Ma'rib began operations in 1986.",
+        "• A Soviet-discovered oil field in the southern governorate of Shabwah proved only marginally successful, even after being taken over by another group.",
+        "• A Western consortium began exporting oil from the Masila field in Hadhramaut in 1993, with production reaching 67,000 m³/d (420,000 barrels per day) by 1999.",
+        "• New oil finds have been reported in the Jannah block (formerly the Joint Oil Exploration Area) and east Shabwah blocks.",
+        "• Yemen's oil exports in 1995 generated approximately US$1 billion in revenue.",
+        "• Yemen's offshore oil and gas deposits are estimated to contain billions of barrels of oil and gas.",
+        "• The Ma'rib oil fields contain associated natural gas reserves.",
+        "• In September 1995, the Yemeni government signed an agreement designating TotalEnergies (France) as the lead company for a liquefied natural gas (LNG) export project.",
+        "• In 1997, Yemen Gas Company partnered with various private companies to establish Yemen LNG (YLNG).",
+        "• In August 2005, the Yemeni government granted final approval to three LNG supply agreements, enabling YLNG to award a $2 billion contract to an international consortium to build Yemen's first LNG liquefaction plant at Balhat on the Arabian Sea coast.",
+        "• The LNG project represents a $3.7 billion investment over 25 years, with an expected annual production of approximately 6.7 million tons of LNG.",
+        "• LNG shipments from Yemen are likely to be exported to the United States and South Korea.",
+        "• LNG production commenced in October 2009.",
+        "• The Yemeni government anticipates that the LNG project will contribute an additional $350 million annually to its budget and facilitate the development of a petrochemicals industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:42.860709",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Industry and manufacturing",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The US government estimates that Yemen's industrial sector constitutes 47.2 percent of the country's gross domestic product (GDP).",
+        "• Industry, combined with services, construction, and commerce, employs less than 25 percent of Yemen's labor force.",
+        "• Oil refining is the largest contributor to the manufacturing sector's output, generating roughly 40 percent of total revenue within the sector.",
+        "• The remainder of the manufacturing sector consists primarily of the production of consumer goods and construction materials.",
+        "• Manufacturing accounted for approximately 9.5 percent of Yemen's GDP in the year 2005.",
+        "• In 2000, Yemen had nearly 34,000 industrial establishments employing close to 115,000 workers.",
+        "• The majority of these industrial establishments were small businesses, defined as having one to four employees.",
+        "• Almost half of all industrial establishments in Yemen were involved in processing food products and beverages.",
+        "• The production of flour and cooking oil in Yemen has increased in recent years.",
+        "• Approximately 10 percent of Yemen's industrial establishments are classified as manufacturing mixed metal products, including items such as water-storage tanks, doors, and windows."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:35.178129",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Services and tourism",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Economists reported that Yemen's services sector constituted 51.7 percent of gross domestic product (GDP) in 2002 and increased slightly to 52.2 percent of GDP in 2003.",
+        "• The US government estimated a lower contribution of the services sector to Yemen's GDP, accounting for 39.7 percent in 2004 and 39.3 percent in 2005.",
+        "• Yemen's tourism industry faces significant challenges due to limited infrastructure and substantial security concerns.",
+        "• The quality of Yemen's hotels and restaurants is below international standards, negatively impacting the tourism experience.",
+        "• Air and road transportation infrastructure in Yemen is largely inadequate, further hindering tourism development.",
+        "• Kidnappings of foreign tourists remain a persistent threat, particularly outside Yemen's main cities, deterring potential visitors.",
+        "• Terrorist bombings at the Port of Aden in 2000 and 2002 have heightened security concerns and contributed to the deterrence of tourism.",
+        "• In September 2006, tribesmen in the Shabwa province, located east of Sanaa, kidnapped four French tourists traveling to Aden; these tourists were released two weeks later.",
+        "• In October 2006, the U.S. Department of State issued a travel warning, strongly urging U.S. citizens to carefully consider the risks associated with traveling to Yemen.",
+        "• The British Foreign Office issued a similar advisory cautioning travelers about security risks in Yemen.",
+        "• Despite these challenges, the number of tourist arrivals in Yemen increased significantly, rising to 274,000 in 2004 from 155,000 in 2003."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:41.220498",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3",
+      "section_name": "Labor",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the US government, the agriculture and herding sector employed the majority of Yemen's working population, accounting for 54.2 percent in 2003.",
+        "• Industry, services, construction, and commerce collectively comprised less than 25 percent of Yemen's labor force as of 2003.",
+        "• The World Bank characterizes Yemen's civil service as having a large workforce that is poorly paid, with insufficient salary differentials between high-skilled and low-skilled jobs to attract and retain qualified personnel.",
+        "• In 2004, the Yemeni government increased civil service salaries by 20 to 40 percent to mitigate the anticipated effects of economic reforms that ultimately were not implemented.",
+        "• This salary increase resulted in a 20 percent rise in wage costs, with civil service wages constituting 7 percent of Yemen’s gross domestic product (GDP) in 2004.",
+        "• The 2005 national budget reduced economic subsidies but required the government to make concessions, including plans to increase civil service wages by an additional 10 to 15 percent by 2007 as part of a national wage strategy.",
+        "• The International Monetary Fund (IMF) pledged an economic assistance package to Yemen contingent upon the implementation of civil service reform, which the Yemeni government resisted due to the country’s estimated unemployment rate of 20 to 40 percent.",
+        "• In 2004, the Yemeni government claimed to have reduced the civil service labor force through retirements and layoffs; however, the substantial salary increases appear to have diminished the impact of these reforms.",
+        "• The IMF stated that civil service salaries as a percentage of GDP should be reduced by 1 to 2 percent, a target achievable only through continued reductions in the size of the civil service workforce.",
+        "• It remains uncertain whether the national wage strategy, which aims to streamline the civil service system and eliminate irregularities, will effectively reduce employment costs in Yemen."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:47.480667",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "4",
+      "section_name": "Currency, exchange rate, and inflation",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Yemen's official currency is the Yemeni riyal (YR), which was floated on the open market in July 1996, allowing its value to be determined by market forces rather than a fixed rate.",
+        "• Since 1999, the Central Bank of Yemen has periodically intervened in the currency market to enable the Yemeni riyal to gradually depreciate at an approximate rate of 4 percent per year.",
+        "• The exchange rate of the Yemeni riyal averaged YR191.5 per U.S. dollar in 2005 and slightly depreciated to an average of YR197.5 per U.S. dollar in 2006.",
+        "• By late November 2006, the exchange rate was approximately YR198 per U.S. dollar, indicating a continued gradual depreciation of the currency.",
+        "• In March 2023, the exchange rate for new Yemeni rials in government-controlled areas averaged YR1,252 per U.S. dollar, reflecting significant depreciation over time.",
+        "• Following Yemen’s unification in 1990, the country experienced a very high average inflation rate of 40% during the period 1990–1996, indicating severe inflationary pressures in the immediate post-unification years.",
+        "• Economic reforms implemented by the government successfully reduced the inflation rate to 5.4 percent in 1997, demonstrating initial stabilization efforts.",
+        "• Despite these reforms, inflation generally increased in subsequent years due to factors such as high oil prices and reductions in fuel subsidies, which negatively impacted the inflation rate despite some fluctuations.",
+        "• In 2004, the Central Bank of Yemen attempted to tighten the money supply to control inflation; however, these efforts were offset by a weakening U.S. dollar— to which the Yemeni riyal is linked in a managed float system—and rising global commodity prices, resulting in an inflation rate of 12.5%.",
+        "• By 2018, the inflation rate had risen significantly to 33.65%, reflecting ongoing economic challenges and inflationary pressures in Yemen.",
+        "• In July 2005, the Yemeni government reduced the new general sales tax from 10% to 5% in response to public opposition, indicating sensitivity to social and political pressures regarding taxation.",
+        "• Special sales tax rates apply to certain goods and services, including a 10% tax on telecommunication mobile services and a notably high 90% tax on cigarettes, reflecting targeted fiscal policies on specific sectors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:50.640599",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "5",
+      "section_name": "Banking and finance",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Yemen's financial services sector is considered underdeveloped by economists and is primarily dominated by the banking system, with no public stock exchange present in the country.",
+        "• The banking system in Yemen comprises the Central Bank of Yemen, 15 commercial banks (including nine private domestic banks—four of which are Islamic banks—four private foreign banks, and two state-owned banks), as well as two specialized state-owned development banks.",
+        "• The Central Bank of Yemen is responsible for controlling monetary policy, overseeing currency transfers abroad, acting as the lender of last resort, supervising commercial banks, and serving as the government's banker.",
+        "• From the end of 2005 through the end of 2010, Tadhamon International Islamic Bank consistently ranked as the top bank in Yemen—across both commercial and Islamic banks—in terms of total assets, capital, and trade business.",
+        "• The largest commercial bank, the state-owned Credit and Agricultural Cooperative Bank, along with the majority state-owned Yemen Bank for Reconstruction and Development, are undergoing restructuring aimed at eventual privatization.",
+        "• Due to fiscal difficulties faced by these two banks, the Yemeni government adopted a plan in 2004 to merge them with a third bank to form a new publicly owned Development Bank, which was to have a minimum capital of US$50 million; however, as of April 2011, this merger had not yet been realized.",
+        "• Yemen’s banking sector is significantly hampered by a large volume of non-performing loans, low capitalization levels, and weak enforcement of regulatory standards, resulting in many banks being technically insolvent.",
+        "• Due to widespread debtor defaults, Yemeni banks restrict their lending activities to a limited group of consumers and businesses, causing the banking system to hold less than 60 percent of the money supply, with the majority of economic transactions conducted in cash.",
+        "• Legislation passed in 2000 empowered the Central Bank to enforce stricter lending requirements, and in mid-2005, the Central Bank introduced new capital requirements for commercial banks aimed at curbing currency speculation and safeguarding deposits.",
+        "• In March 2023, the Houthi-controlled parliament in Sana’a enacted a law banning the charging of interest, a move criticized by MP Ahmed Saif as having potentially catastrophic consequences for both banks and citizens.",
+        "• The Minister of Finance and the governor of the Sana’a-based Central Bank of Yemen publicly refused to endorse the 2023 anti-interest law, while a Sana’a banking official indicated that religious hardliners within the Houthi movement had driven the legislation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:53.761145",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "6",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Yemen's state-owned Public Electricity Corporation (PEC) operates approximately 80 percent of the country's electricity generating capacity, estimated between 810 and 900 megawatts, as well as managing the national power grid.",
+        "• Over the past decade, the Yemeni government has explored various strategies to address the country's significant electricity shortage, including restructuring the PEC, integrating the power sector through small-scale privatization of power stations, establishing independent power projects (IPPs), and introducing gas-generated power plants to conserve oil supplies for export.",
+        "• Due to inadequate infrastructure, large-scale independent power projects (IPPs) and privatization initiatives have not been realized; however, several smaller-scale projects have been successfully completed in the cities of Mukalla and Aden, with contracts signed for additional future projects.",
+        "• In 2004, Yemen's diesel-run power plants produced 4.1 billion kilowatt-hours of electricity, a production level insufficient to ensure a consistent and reliable electricity supply across the country.",
+        "• Between 2000 and 2004, electricity demand in Yemen increased by 20 percent, yet it is estimated that only 40 percent of the total population has access to electricity from the national power grid, with supply remaining intermittent.",
+        "• To address growing demand, the Yemeni government planned to increase the country's power generating capacity to 1,400 megawatts by the year 2002."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:54.224843",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "7",
+      "section_name": "Government budget",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1995, Yemen initiated an economic reform program to comply with conditions set by the International Monetary Fund (IMF), with fiscal policy reform aimed at reducing budget deficits and expanding the revenue base as a key component.",
+        "• Despite reform efforts, the Yemeni government failed to significantly reduce primary expenditures, particularly subsidies, with the fuel subsidy remaining a major fiscal burden.",
+        "• In January 2005, Yemen’s parliament narrowly approved the 2005 budget, which projected a reduced budget deficit of approximately 3 percent of gross domestic product (GDP).",
+        "• The 2005 budget was based on a reform package that proposed implementing a broad-based 10 percent general sales tax (GST) and reducing the fuel subsidy by 75 percent.",
+        "• Due to strong public opposition, the government deferred the 10 percent GST for 18 months in July 2005, instead introducing a hybrid 5 percent GST and modifying the planned fuel subsidy reduction.",
+        "• Despite subsidy reform attempts, the cost of subsidies, mainly for fuel, increased dramatically by almost 90 percent in 2005, constituting nearly 25 percent of total government expenditures and about 9 percent of GDP.",
+        "• Alongside rising subsidy costs, civil service wages and salaries increased by 24 percent, and defense spending rose by 42 percent in 2005.",
+        "• These expenditure increases contributed to a government budget deficit of US$350.8 million in 2005, representing more than 2 percent of GDP.",
+        "• For 2006, the Yemeni government budgeted a sharp 41 percent increase in overall spending, which economists estimated would result in a fiscal deficit of US$800 million, or 4.2 percent of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:01.190284",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "History and overview",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 1990–91 Persian Gulf War, Yemen supported Iraq's invasion of Kuwait, which alienated Saudi Arabia and Kuwait, both of which had previously provided critical financial assistance to Yemen.",
+        "• In response to Yemen's support of Iraq, Saudi Arabia and Kuwait withdrew their financial aid to Yemen, and Saudi Arabia expelled nearly 1 million Yemeni workers, causing a severe decline in expatriate remittances that had a disastrous impact on Yemen's government budget.",
+        "• The civil war in Yemen in 1994 further drained the country's economy, prompting Yemen to seek aid from multilateral agencies in 1995.",
+        "• In 1996, the International Monetary Fund (IMF) granted Yemen a US$190 million stand-by credit facility, followed in 1997 by approval of two additional funding facilities that increased Yemen's credit by approximately US$500 million.",
+        "• The IMF funding was conditional on Yemen adopting stringent economic reforms, which Yemen had limited success in implementing, leading the IMF to suspend lending to Yemen from late 1999 until February 2001.",
+        "• The IMF extended the two funding facilities, including the poverty reduction and growth facility (PRGF), through October 2001, contingent on Yemen's commitment to economic reform; however, Yemen's insufficient compliance resulted in the IMF withholding US$300 million in concessional financing since 2002.",
+        "• Discussions regarding the renewal of the PRGF were ongoing as of the latest information.",
+        "• In 2000, Kuwait and Saudi Arabia resumed financial aid to Yemen.",
+        "• In October 2002, bilateral and multilateral lenders led by the World Bank agreed to provide Yemen with a four-year economic support package worth US$2.3 billion, consisting of 20 percent grants and 80 percent concessional loans, nearly eight times the amount Yemen received under the IMF's PRGF.",
+        "• Due to the Yemeni government's continued inability to implement significant economic reforms and combat corruption, the World Bank announced in December 2005 a reduction of funding by more than one-third, from US$420 million to US$240 million for the period July 2005 to July 2008.",
+        "• In May 2006, the World Bank adopted a new Country Assistance Strategy (CAS) for Yemen covering fiscal years 2006 to 2009, aimed at fostering fiscal and human development improvements, pledging approximately US$400 million in International Development Association (IDA) credits over this period.",
+        "• Yemen owed approximately US$264 million to Japan, one of its largest donors, as of the latest data; in December 2005, Japan pledged to write off US$17 million of this debt.",
+        "• In December 2005, Germany pledged to increase its annual aid to Yemen to US$83.6 million over the following two years, with funding primarily directed toward education and water improvement projects.",
+        "• In November 2006, the United Kingdom announced a 400 percent increase in aid to Yemen, raising its contribution to US$222 million through 2011.",
+        "• Yemen is a member of the Arab Fund for Economic and Social Development, established in 1974 to finance economic and social development in Arab states through loans and guarantees.",
+        "• In March 2004, the Arab League provided Yemen with US$136 million to finance infrastructure improvements.",
+        "• At a mid-November 2006 meeting in London, bilateral and multilateral donors pledged US$4.7 billion over four years (2007–2010) to support Yemen's economic development, with the meeting co-chaired by the World Bank and the Yemeni government.",
+        "• The primary goal of the 2006 London donor meeting was to provide sufficient economic aid to Yemen to enable it to qualify for future membership in the Gulf Cooperation Council (GCC).",
+        "• More than 55 percent of the pledged aid from the 2006 meeting was expected to come from GCC countries, primarily in the form of grants.",
+        "• Yemen was granted observer status at the World Trade Organization (WTO) in 1999, and as of December 2006, negotiations for full WTO membership were ongoing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:03.954475",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "Foreign trade",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2005, Yemen's imports were estimated at US$4.7 billion, with projections to increase to US$5 billion in 2006 and US$5.4 billion in 2007, indicating a steady growth in import activity.",
+        "• Yemen is a net importer of all major product categories except fuels, highlighting its dependence on foreign goods for most sectors other than energy.",
+        "• The principal imports of Yemen include machinery and transport equipment, food and livestock, and processed materials, reflecting the country’s industrial and consumer needs.",
+        "• According to the United Nations, Yemen imports over 75 percent of its main dietary staple, wheat, underscoring significant reliance on external food supplies.",
+        "• In 2005, the United Arab Emirates was the principal source of Yemen's imports, accounting for 13.4 percent of total imports; however, most of these imports are re-exports originating from the United States and Kuwait.",
+        "• Saudi Arabia supplied 10.6 percent of Yemen’s total imports in 2005, while China contributed 9 percent, indicating key regional and international trade partners.",
+        "• Yemen’s exports totaled US$6.4 billion in 2005, with expectations to reach a record US$8.6 billion in 2006, driven primarily by strong oil revenues.",
+        "• Petroleum dominates Yemen’s exports, comprising 92 percent of total exports in 2004 and 87 percent in 2005, emphasizing the country’s heavy reliance on oil exports.",
+        "• Non-oil exports from Yemen are mainly agricultural products, including fish and fish products, vegetables, and fruits, representing diversification efforts in the export sector.",
+        "• In 2005, Asia was the most significant market for Yemen’s exports, with China alone accounting for 37.3 percent of total exports, followed by Thailand and Japan as other important Asian markets.",
+        "• Chile was also a major export destination for Yemen in 2005, representing 19.6 percent of total exports, highlighting a notable trade relationship outside the Asian region.",
+        "• Yemen’s import and export values have experienced dramatic fluctuations over the past decade due to shifts in global oil prices, affecting the country’s trade balance significantly.",
+        "• The trade balance shifted from a deficit of nearly US$800 million in 1998 to a surplus of US$1 billion in 2000, demonstrating volatility linked to oil market conditions.",
+        "• Rising oil prices contributed to trade surpluses of US$817 million in 2004 and US$1.7 billion in 2005, reflecting the positive impact of higher oil revenues on Yemen’s economy.",
+        "• Yemen has reported increasing non-merchandise deficits in recent years, but these have been offset by record export earnings, resulting in substantial trade surpluses.",
+        "• The current account remained in surplus due to trade surpluses, with figures of US$175.7 million in 2003, US$524.6 million in 2004, and US$633.1 million (approximately 4 percent of gross domestic product) in 2005, indicating overall economic stability despite deficits in other areas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:05.594936",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "7.3",
+      "section_name": "External debt",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1990, the newly unified Republic of Yemen inherited an unsustainable external debt burden amounting to approximately 106 percent of its gross domestic product (GDP).",
+        "• During the 1990s, debt rescheduling agreements were arranged with the Paris Club creditor countries, which helped alleviate Yemen's debt burden.",
+        "• Assistance from the World Bank's International Development Association (IDA) also contributed to reducing Yemen's external debt during this period.",
+        "• By the end of 2004, Yemen's external debt stock had decreased to US$5.4 billion, representing an estimated 39 percent of the country's GDP.",
+        "• According to the Central Bank of Yemen, by the end of 2005, the external debt stock further declined to US$5.2 billion, equivalent to approximately 33 percent of GDP.",
+        "• The U.S. government reported that Yemen's reserves of foreign exchange and gold amounted to US$6.1 billion in 2005."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:00.269484",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "7.4",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Yemen lacks a stock exchange, which significantly limits inward portfolio investment within the country.",
+        "• Portfolio investment originating from Yemen abroad is also very limited, resulting in portfolio flows that are largely unrecorded by Yemeni authorities.",
+        "• In the early 1990s, Yemen experienced a peak in net direct investment as foreign investors capitalized on the country’s oil reserves.",
+        "• Since 1995, net direct investment flows into Yemen have been negative because the cost recovery for foreign oil companies has exceeded the amount of new direct investment entering the country.",
+        "• In August 2005, the Yemeni government approved a five-year, US$3 billion liquid natural gas (LNG) construction project.",
+        "• This LNG project involves a consortium of foreign companies collaborating on its development.",
+        "• The planned LNG construction project is expected to potentially increase foreign investment in Yemen as the LNG facilities are established."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:30:57.703813",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "7.5",
+      "section_name": "International aid",
+      "chapter_name": "Economy of Yemen",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Beginning in the mid-1950s, the Soviet Union and China provided large-scale international assistance to Yemen, contributing significantly to the country's development efforts during that period.",
+        "• China specifically participated in the expansion of Sana'a International Airport, enhancing Yemen's aviation infrastructure.",
+        "• Prior to independence, economic activity in southern Yemen was predominantly concentrated in the port city of Aden, which served as a critical hub for seaborne transit trade.",
+        "• The seaborne transit trade that Aden relied upon collapsed following the temporary closure of the Suez Canal and Britain's withdrawal from Aden in 1967, severely impacting the local economy.",
+        "• In early 1995, the Yemeni government initiated an economic, financial, and administrative reform program (EFARP) aimed at stabilizing and improving the national economy.",
+        "• The EFARP was supported by the World Bank, the International Monetary Fund (IMF), and various international donors, indicating broad international backing for Yemen’s reform efforts.",
+        "• These reform programs positively influenced Yemen’s economy, resulting in the reduction of the budget deficit to less than 3% of gross domestic product (GDP) during the period from 1995 to 1999.",
+        "• The EFARP also succeeded in correcting macro-financial imbalances within Yemen’s economy during the same period.",
+        "• The real growth rate in Yemen’s non-oil sector increased by 5.6% between 1995 and 1997, reflecting the effectiveness of the reform measures in diversifying economic growth.",
+        "• As of 2024, Yemen remains one of only three countries worldwide that have not ratified the Paris Agreement, a global accord aimed at limiting climate change, which results in Yemen missing some forms of international support linked to climate initiatives."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:06.210305",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_yemen.json",
+      "original_index": 16
+    }
+  ]
+}

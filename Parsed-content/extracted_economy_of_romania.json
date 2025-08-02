@@ -1,0 +1,762 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_romania.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.740438",
+    "total_sections_in_source": 33,
+    "extracted_sections_count": 32,
+    "skipped_sections_count": 1
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Romania is classified as a developing mixed economy characterized by a high degree of complexity.",
+        "• Romania ranks 12th in the European Union by total nominal GDP and 7th largest when adjusted by purchasing power parity (PPP).",
+        "• According to the World Bank, Romania is focusing on accelerating structural reforms and strengthening institutions to further converge economically with the European Union.",
+        "• Since 2010, Romania has experienced one of the highest economic growth rates in the EU, with a notable 4.8% GDP increase recorded in 2022, surpassing expectations.",
+        "• Romania's recent annual GDP growth rates include 4.8% in 2016, 7.1% in 2017, 4.4% in 2018, and 4.1% in 2019.",
+        "• In 2020, Romania’s GDP per capita measured in purchasing power standards reached 72% of the European Union average, a significant rise from 44% in 2007, marking the highest growth rate within the EU27.",
+        "• Globally, Romania’s economy ranks 35th by total GDP (PPP), with an estimated annual output of Int$784 billion as of 2023.",
+        "• Romania is a leading destination for foreign direct investment (FDI) in Central and Eastern Europe, with cumulative FDI since 1989 exceeding $170 billion.",
+        "• The country is the largest electronics producer in the Central and Eastern European region.",
+        "• Over the past two decades, Romania has developed into a major hub for mobile technology, information security, and related hardware research.",
+        "• Romania holds a regional leadership position in sectors such as information technology (IT) and motor vehicle production.",
+        "• Bucharest, the capital city, is recognized as one of the leading financial and industrial centers in Eastern Europe."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:03.355748",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Before World War II",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Romania entered modernity following the Treaty of Adrianople in 1829, which ended centuries of Turkish control over the region.",
+        "• Economic growth in Romania was stimulated by several key milestones, including the discovery and industrial exploitation of oil in 1857.",
+        "• The political union between Wallachia and Moldavia in 1859 was a significant event contributing to economic development.",
+        "• Land reforms were implemented, enhancing agricultural productivity and economic stability.",
+        "• The adoption of a local currency, the leu, occurred in 1867, facilitating monetary stability and economic transactions.",
+        "• Romania achieved state independence in 1877, further solidifying its economic and political sovereignty.",
+        "• Under King Carol I, an extensive railroad system was constructed, improving transportation infrastructure and supporting economic expansion.",
+        "• Following World War I and the dissolution of the Russian and Austro-Hungarian empires, several Romanian-speaking provinces—Transylvania, Bessarabia, Banat, and Bukovina—united with the Kingdom of Romania, forming the modern Romanian state.",
+        "• Radical agricultural reforms were applied in the post-World War I period, significantly transforming the rural economy.",
+        "• The passing of a new constitution established a democratic framework that facilitated rapid economic growth.",
+        "• Between 1923 and 1938, industrial production in Romania doubled, demonstrating robust economic expansion despite the adverse effects of the Great Depression.",
+        "• Until the outbreak of World War II, Romania was recognized as Europe’s second-largest producer of both oil and food, underscoring its strategic economic importance on the continent."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:00.796160",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "Communist period",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After 1945, Romania, under Soviet occupation, became a member of the Eastern Bloc and adopted a Soviet-style command economy.",
+        "• During the communist period, Romania underwent rapid industrialisation aimed at creating a \"multilaterally developed socialist society.\"",
+        "• Economic growth in the 1970s was significantly supported by foreign credits, which led to an increasing foreign debt.",
+        "• Romania's foreign debt peaked at approximately $11–12 billion during this period.",
+        "• In the 1980s, Romania fully repaid its foreign debt by enforcing severe austerity measures that resulted in the deprivation of basic consumer goods for the Romanian population.",
+        "• By 1989, just before the Romanian Revolution, Romania's Gross Domestic Product (GDP) was about 800 billion lei, equivalent to $53.6 billion.",
+        "• Approximately 58% of Romania's gross national income in 1989 was derived from industry.",
+        "• Agriculture contributed around 15% to the country's gross national income at that time.",
+        "• The minimum wage in Romania in 1989 was 2,000 lei, which was approximately equivalent to $57."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:03.048186",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "Free market transition",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The end of Romania's communist period triggered a sharp economic downturn, with the country's share in the global economy falling from 0.8% in 1983 to 0.3% in 1993.",
+        "• In 1992, Romania initiated the privatisation of industry by transferring 30% of shares of approximately 6,000 state-owned enterprises to five private ownership funds, distributing ownership certificates to each adult citizen.",
+        "• The remaining 70% ownership of these enterprises was assigned to a state ownership fund tasked with selling off its shares at a minimum rate of 10% per year.",
+        "• The 1992 privatisation law also mandated the direct sale of about 30 specially selected enterprises and the sale of commercially viable component units (\"assets\") of larger enterprises.",
+        "• Inflation rates in Romania were 7.8% in 2008, rising from 4.8% in 2007, with the National Bank of Romania (BNR) estimating inflation to be within 6% for 2006; the year-on-year Consumer Price Index (CPI) published in March 2007 was 3.66%.",
+        "• Since 2001, Romania's economy experienced steady growth of approximately 6–8% annually, leading to an estimated Purchasing Power Parity (PPP) per capita GDP between $12,200 and $14,064 in 2008.",
+        "• Romania was the largest U.S. trading partner in Central-Eastern Europe until 1988, when Nicolae Ceaușescu renounced Most Favored Nation (MFN) trading status, resulting in higher U.S. tariffs on Romanian products.",
+        "• The U.S. Congress restored Romania’s MFN status effective 8 November 1993, as part of a new bilateral trade agreement, and tariffs on most Romanian products dropped to zero in February 1994 with Romania's inclusion in the Generalized System of Preferences (GSP).",
+        "• Major Romanian exports to the United States include shoes and clothing, steel, and chemicals.",
+        "• Romania signed an Association Agreement with the European Union (EU) in 1992 and a free trade agreement with the European Free Trade Association (EFTA) in 1993, establishing access to European markets and laying the groundwork for further economic integration.",
+        "• Romania formally joined the European Union in 2007.",
+        "• During the late Ceaușescu era, Romania secured significant contracts from developing countries, notably Iraq, for oil-related projects.",
+        "• In August 2005, Romania agreed to forgive 43% of Iraq’s US$1.7 billion debt, becoming the first country outside the Paris Club of wealthy creditor nations to forgive Iraqi debts, despite Iraq still being largely occupied by U.S.-led coalition forces.",
+        "• Economic growth from 2000 to 2007 was driven by exports to the EU, primarily Italy and Germany, alongside a strong recovery in foreign and domestic investment.",
+        "• Domestic demand increasingly supported growth due to declining interest rates and greater availability of credit cards and mortgages.",
+        "• Current account deficits of around 2% of GDP began to decline as demand for Romanian products in the EU increased.",
+        "• Romania’s accession to the EU provided additional impetus and direction for structural economic reforms.",
+        "• In early 2004, the Romanian government increased the value-added tax (VAT) and tightened eligibility for social benefits aiming to reduce the public finance deficit to 4% of GDP by 2006, while more challenging pension and healthcare reforms were postponed until after upcoming elections.",
+        "• The state-owned bank Banca Comercială Română was privatised in 2005.",
+        "• Economic growth was expected to accelerate due to intensified restructuring of large enterprises, improvements in the financial sector, and effective utilization of available EU funds.",
+        "• The Romanian economy was negatively impacted by the 2008 global financial crisis, resulting in economic contraction in 2009.",
+        "• Following communism, Romania required capital infusion, entrepreneurial, and managerial skills, which were most rapidly acquired through foreign direct investment (FDI).",
+        "• By 2018, total FDI in Romania reached 81 billion EUR, with 63% (51 billion EUR) classified as greenfield investments.",
+        "• The top ten countries by FDI stock in Romania in 2018 were: Netherlands (23.9%), Germany (12.7%), Austria (12.2%), Italy (9.5%), Cyprus (6.2%), France (6%), Switzerland (4.5%), Luxembourg (4.2%), Belgium (2.2%), and the United Kingdom (2.1%)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:12.581866",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "Investments in Romania",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, investment in Romania accounted for almost 25% of GDP, significantly exceeding the EU average investment level of 19% of GDP.",
+        "• In October 2023, UniCredit, a leading banking firm in the region, announced the merger of its Romanian affiliate with Alpha Bank Romania, which it had recently acquired for €300 million, resulting in the creation of Romania's third-largest lender.",
+        "• Romania's Recovery and Resilience Plan allocates over €6 billion specifically for digitalisation initiatives, targeting improvements in public administration, connectivity, cybersecurity, digital skills, and the establishment of an integrated e-health and telemedicine system.",
+        "• The European Investment Bank Project Advisory Support programme supports Romania’s digitalisation efforts through partnerships with the National Agency for Public Procurement and the Ministry of Research, Innovation, and Digitalisation.",
+        "• This support includes the evaluation of ICT projects and assistance with the implementation of a €600 million government cloud initiative designed to enhance interoperability, reduce bureaucratic processes, and strengthen cybersecurity across public services."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:01.512573",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "EU membership (2007)",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 1 January 2007, Romania and Bulgaria joined the European Union, providing the EU with access to the Black Sea and prompting immediate international trade liberalisation.",
+        "• Romania is a member of the European single market, which encompasses more than 447 million consumers, integrating Romania into a large economic zone with harmonised commercial policies determined by EU member agreements and legislation.",
+        "• Despite integration into the EU single market, Romania has experienced significant current account deficits, although low interest rates have ensured the availability of funds for both investment and consumption.",
+        "• A real estate market boom in Romania began around the year 2000 and has persisted beyond that period, reflecting sustained economic activity in this sector.",
+        "• Annual inflation in Romania during the mid-2000s (2003–2008) was variable, ranging from a low of 2.3% to a high of 7.8%, indicating fluctuating price stability during that time.",
+        "• On 1 January 2005, Romania implemented a flat tax rate of 16% aimed at improving tax collection efficiency, resulting in Romania having the lowest fiscal burden within the European Union until Bulgaria adopted a 10% flat tax in 2007.",
+        "• Since 2018, Romania has further reduced its flat tax rate from 16% to 10%, aligning more closely with regional fiscal policies.",
+        "• In 2016, Romania achieved an economic growth rate of 6%, the highest among all European Union member states, marking the fastest economic expansion since 2008 according to Bloomberg.",
+        "• Romania is increasingly recognized as an emerging tech-startup hub within the EU, bolstered by digital infrastructure that ranks higher than that of other Eastern and Central European countries, enhancing its attractiveness for technology business ventures.",
+        "• Within the context of eurozone participation, Romania is one of five EU member states (alongside the Czech Republic, Hungary, Poland, and Sweden) that are not in the Exchange Rate Mechanism II (ERM II) but are committed to joining the eurozone upon meeting the convergence criteria.",
+        "• The broader eurozone landscape includes 20 EU member states currently in the eurozone, Bulgaria in ERM II without an opt-out, Denmark in ERM II with an opt-out, and several non-EU states using the euro either through monetary agreements (Andorra, Monaco, San Marino, Vatican City) or unilaterally (Kosovo and Montenegro)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:15.344148",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "0.6",
+      "section_name": "GDP",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The International Monetary Fund (IMF) published economic data for Romania in October 2022, projecting GDP per capita figures in both purchasing power parity (PPP) and nominal terms for the years 2022 through 2027.",
+        "• According to the IMF data, Romania's GDP per capita in PPP terms was $38,040 in 2022, with projected increases to $40,673 in 2023, $43,100 in 2024, $45,445 in 2025, $47,940 in 2026, and $50,573 in 2027.",
+        "• In nominal terms, Romania's GDP per capita was $15,000 in 2022, with projections rising to $16,228 in 2023, $17,566 in 2024, $18,935 in 2025, $20,263 in 2026, and $21,665 in 2027.",
+        "• During the 2000s, Romanian media frequently referred to the national economy as the \"Tiger of the East,\" highlighting its rapid growth and economic potential.",
+        "• Romania possesses significant economic potential characterized by over 10 million hectares of agricultural land, supporting a robust agricultural sector.",
+        "• The country benefits from diverse energy resources, including coal, oil, natural gas, hydroelectric power, nuclear energy, and wind power, contributing to its energy security and industrial base.",
+        "• Romania has a substantial manufacturing sector, although it is noted to be aging, indicating potential challenges and opportunities for modernization and expansion.",
+        "• The tourism sector in Romania offers considerable opportunities for growth, particularly along the Black Sea coast and in the mountainous regions, which are key areas for development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:05.915224",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "0.7",
+      "section_name": "Investments",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Net investments in Romania's economy amounted to RON 33.6 billion (EUR 7.2 billion) in the first half of 2018, representing an increase of 5.8% compared to the same period in 2017, as reported by the National Statistics Institute (INS).",
+        "• In 2018, foreign direct investment (FDI) in Romania reached a total of EUR 81 billion, of which 63% (equivalent to EUR 51 billion) consisted of \"greenfield\" investments."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:04.080869",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "0.8",
+      "section_name": "Data",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Romania's main economic indicators from 1980 to 2022, with International Monetary Fund (IMF) staff estimates for 2023 to 2028, highlighting inflation rates under 5% in green.",
+        "• In 1980, Romania's GDP measured 114.1 billion US dollars in purchasing power parity (PPP), with a GDP per capita of 5,087 US dollars PPP; nominal GDP was 46.1 billion US dollars, and nominal GDP per capita was 2,052 US dollars, accompanied by a real GDP growth of 3.3% and an inflation rate of 1.5%.",
+        "• Between 1981 and 1989, GDP in PPP terms increased from 125.1 billion to 187.2 billion US dollars, while nominal GDP fluctuated, peaking at 60.5 billion US dollars in 1988; real GDP growth rates varied, with a notable contraction of −5.8% in 1989, and inflation rates ranged from −0.3% to 16.9%.",
+        "• Unemployment data is unavailable for the 1980s, while government debt as a percentage of GDP is not reported for this period.",
+        "• The early 1990s saw a significant economic downturn, with GDP in PPP declining from 183.3 billion US dollars in 1990 to 154.0 billion in 1992, and nominal GDP dropping sharply from 38.5 billion to 19.8 billion US dollars; real GDP growth rates were negative, reaching −12.9% in 1991, and inflation rates soared, peaking at 256.1% in 1993.",
+        "• Unemployment rose from 3.4% in 1990 to 9.2% in 1993, while government debt data remains unreported for this period.",
+        "• From 1994 to 1999, Romania's economy showed signs of recovery with GDP in PPP increasing from 169.9 billion to 181.4 billion US dollars, nominal GDP fluctuating between 30.4 billion and 36.0 billion US dollars, and real GDP growth rates ranging from −6.1% to 7.1%; inflation rates decreased significantly from 136.7% in 1994 to 45.8% in 1999.",
+        "• Unemployment rates varied between 7.2% and 11.0%, and government debt as a percentage of GDP was reported only in 2000 at 29.5%.",
+        "• The 2000s marked robust economic growth, with GDP in PPP rising from 190.9 billion US dollars in 2000 to 609.2 billion in 2019, and nominal GDP increasing from 37.4 billion to 251.0 billion US dollars; real GDP growth rates were mostly positive, peaking at 10.3% in 2004, while inflation rates generally declined, reaching negative values in 2015 and 2016.",
+        "• Unemployment rates decreased from 7.6% in 2000 to 4.9% in 2019, and government debt as a percentage of GDP fluctuated between 12.4% and 39.4% during this period.",
+        "• The global financial crisis impacted Romania's economy in 2009 and 2010, with real GDP contracting by −5.5% and −3.9%, respectively, and government debt rising sharply to 22.5% in 2009 and 30.2% in 2010.",
+        "• From 2011 to 2019, Romania experienced steady economic growth with GDP in PPP increasing from 378.8 billion to 609.2 billion US dollars, nominal GDP rising from 192.8 billion to 251.0 billion US dollars, and real GDP growth rates ranging from 0.2% to 8.2%; inflation rates remained low, mostly under 5%, except for 2018 when it reached 4.6%.",
+        "• Unemployment rates declined steadily to 4.9% in 2019, while government debt as a percentage of GDP increased from 32.6% in 2011 to 36.6% in 2019.",
+        "• In 2020, Romania's GDP in PPP was 594.4 billion US dollars with nominal GDP at 251.7 billion US dollars; the economy contracted by −3.7% due to the COVID-19 pandemic, inflation was 2.6%, unemployment rose to 6.1%, and government debt surged to 49.4% of GDP.",
+        "• The post-pandemic recovery from 2021 to 2022 saw GDP in PPP grow from 657.5 billion to 737.3 billion US dollars, nominal GDP increase from 285.6 billion to 301.8 billion US dollars, real GDP growth rates of 5.9% in 2021 and 4.8% in 2022, inflation rates rising to 13.8% in 2022, unemployment stabilizing at 5.6%, and government debt slightly decreasing to 48.7% of GDP.",
+        "• IMF staff estimates for 2023 to 2028 project continuous economic growth with GDP in PPP rising from 783.9 billion US dollars in 2023 to 1,031.9 billion in 2028, nominal GDP increasing from 348.9 billion to 469.6 billion US dollars, real GDP growth rates moderating between 2.4% and 3.7%, inflation rates declining from 10.5% in 2023 to 2.5% in 2028, unemployment rates decreasing from 5.6% to 5.0%, and government debt as a percentage of GDP gradually increasing from 48.3% to 54.2%.",
+        "• The data reflects Romania's transition from a centrally planned economy with high inflation and economic contraction in the early 1990s to a market economy characterized by steady growth, moderate inflation, and manageable unemployment and government debt levels in recent years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:27.625161",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "0.9",
+      "section_name": "National budget",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The planned national budget for Romania in the year 2017 was set at 422 billion lei, equivalent to approximately $103 billion.",
+        "• The estimated budget deficit for 2017 was projected to be 1.1% of the country's Gross Domestic Product (GDP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:05.096721",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "0.10",
+      "section_name": "Growing middle class",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Romania has a growing middle and upper class characterized by relatively high per-capita income levels.",
+        "• According to the World Bank, in 2002, 99% of Romania's urban population and 94% of the rural population had access to electricity.",
+        "• In 2004, 91% of the urban population had access to improved water supply, whereas only 16% of the rural population had such access.",
+        "• Also in 2004, 94% of the urban population had access to improved sanitation facilities.",
+        "• By 2017, Romania had approximately 22.5 million mobile phone users, reflecting widespread mobile connectivity.",
+        "• In the same year, about 18 million people in Romania had access to the internet, indicating significant digital penetration.",
+        "• As of February 2024, the gross average monthly wage in Romania was RON 8,871, equivalent to €1910.",
+        "• The net average monthly wage in Romania in February 2024 was RON 5,556, equivalent to €1180."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:09.807848",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "0.11",
+      "section_name": "Neighbours",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Countries benefit economically from sharing borders with developed markets, as such proximity facilitates trade and development opportunities.",
+        "• In 2017, Romania's exports to its neighbouring countries accounted for 11.58% of its total exports, indicating a significant portion of trade is conducted with bordering nations.",
+        "• Imports from Romania's five neighbouring countries constituted 12.95% of its total imports in 2017, demonstrating the importance of regional trade relationships.",
+        "• By comparison, Germany, a non-neighbouring country, was Romania's largest trade partner in 2017, accounting for 23% of Romanian exports and 20.1% of imports, highlighting the significance of trade beyond immediate neighbours.",
+        "• The GDP per capita of Romania's neighbouring countries in 2022 varied considerably, with Hungary having the highest GDP per capita at US$18,390, which is 16.5% higher than Romania's GDP per capita of US$15,786.",
+        "• Bulgaria's GDP per capita in 2022 was US$13,974, representing an 11.5% lower figure compared to Romania's GDP per capita.",
+        "• Serbia's GDP per capita stood at US$9,537 in 2022, which is 39.6% lower than Romania's GDP per capita.",
+        "• Moldova had a GDP per capita of US$5,714 in 2022, marking a 63.8% deficit relative to Romania's GDP per capita.",
+        "• Ukraine's GDP per capita was the lowest among Romania's neighbours in 2022, at US$4,534, which is 71.3% less than Romania's GDP per capita.",
+        "• The data underscores the economic disparities between Romania and its neighbours, with Hungary exceeding Romania's GDP per capita and other neighbours lagging behind by varying significant margins."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:14.002882",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "1",
+      "section_name": "Labour",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, Romania's economically active population totaled 8,270.8 thousand persons, with 94.4% employed and 5.6% unemployed.",
+        "• The employment rate for the working-age population (15-64 years) was 63.1%, with a higher rate for men at 71.5% compared to 54.4% for women.",
+        "• Employment rates were higher in urban areas (68.6%) than in rural areas (56.3%).",
+        "• Among young people aged 15-24 years, 19.7% were employed, while 46.7% of elderly people aged 55-64 years were employed.",
+        "• Employment rates varied significantly by education level for those aged 15-64: 89.5% for individuals with superior education, 64.6% for medium education, and 36.6% for low education.",
+        "• For the population aged 20-64 years, the employment rate was 68.5%, with men employed at 77.7% and women at 59.1%.",
+        "• Urban residents aged 20-64 had an employment rate of 74.0%, compared to 61.8% for rural residents.",
+        "• The overall unemployment rate in 2022 was 5.6%.",
+        "• Gender differences in unemployment showed men at 6.0% and women at 5.0%, a gap of 1.0 percentage point.",
+        "• Unemployment rates differed markedly by residential area: 8.9% in rural areas versus 3.2% in urban areas, a gap of 5.7 percentage points.",
+        "• The highest unemployment rate was among young people aged 15-24 years, at 22.8%.",
+        "• Unemployment disproportionately affected graduates with medium and low education levels, with rates of 5.2% and 14.2% respectively, compared to 1.7% for those with superior education.",
+        "• As of March 2023, counties in Romania were categorized by long-term unemployment rates: purple indicated rates below 3%, blue indicated 3% to 5%, orange indicated 5% to 7%, and red indicated rates of 7% and above.",
+        "• According to the National Institute of Statistics in Romania, the average gross monthly salary in November 2023 was 7,766 lei (1,562 euros), and the average net monthly salary was 4,765 lei (958 euros).",
+        "• In November 2023, counties were classified by average net monthly salary after tax: purple counties had salaries of €900 and above, blue counties ranged from €750 to €899, and orange counties had salaries below €750.",
+        "• Specific county net monthly salaries in euros ranged from approximately €705 to €1,210, illustrating regional salary disparities across Romania."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:20.080589",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Minimum wage in Romania",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 1 January 2025, the minimum gross wage in the Romanian economy is set at RON 4050, which is approximately equivalent to EUR 814.",
+        "• This minimum gross wage rate of RON 4050 applies uniformly to all employees, including those with a seniority of over 15 years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:11.956991",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Wealth per adult",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Credit Suisse estimated the median wealth per adult in Romania to be USD 20,389.",
+        "• The average wealth per adult in Romania in 2021 was USD 42,351, according to Credit Suisse.",
+        "• Among the 15.1 million adults in Romania, 35% had a wealth of less than USD 10,000 in 2021.",
+        "• The proportion of Romanian adults with wealth below USD 10,000 decreased from 40% in 2018 to 35% in 2021, indicating an improvement in wealth distribution."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:14.517424",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "2",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Romania attracted more than 15.7 million tourists, including both domestic and foreign visitors, establishing it as a popular tourist destination.",
+        "• The COVID-19 pandemic in 2020 severely impacted Romania's tourism sector, resulting in a significant decline of 68.7% in the number of foreign visitors compared to previous years.",
+        "• Despite the sharp downturn in 2020, Romania's tourism industry began showing signs of recovery in 2022.",
+        "• Romania boasts several cities of notable cultural interest, including Sibiu, Bucharest, Constanța, Brașov, Iași, Timișoara, Cluj-Napoca, and Alba Iulia, which attract numerous tourists.",
+        "• The country offers a variety of tourist attractions such as beaches and seaside resorts along the coast, ski resorts in mountainous areas, and well-preserved rural regions known for their natural beauty and tranquility.",
+        "• Romania is also a significant destination for religious pilgrimages, hosting several thousand visitors annually, highlighting its cultural and spiritual tourism appeal."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:16.770074",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "3",
+      "section_name": "Currency",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The currency of Romania is the **leu** (pronounced [ˈlew]), with the plural form **lei** ([ˈlej]); its ISO 4217 code is RON and the numeric code is 946.",
+        "• The term \"leu\" translates to \"lion\" in English, reflecting the currency's name origin.",
+        "• The leu is subdivided into 100 smaller units called _bani_ (singular: _ban_).",
+        "• On 1 July 2005, Romania implemented a currency reform, transitioning from the old leu (ROL) to the new leu (RON), where 1 RON was equivalent to 10,000 ROL.",
+        "• Romania became a member of the European Union on 1 January 2007.",
+        "• Initially, Romania planned to adopt the euro currency in 2014 following its EU accession.",
+        "• Due to the deepening Eurozone crisis and domestic economic challenges, including low workforce productivity, Romania postponed its euro adoption plans indefinitely.",
+        "• As of April 2025, the exchange rate is approximately 1 RON = 0.2006 EUR and 1 RON = 0.2278 US dollars.",
+        "• Romania is currently expected to adopt the euro in the year 2026."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:20.057522",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Fulfillment of the Maastricht criteria",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Romania, as a member state of the European Union, is obligated to adopt the common European currency, the Euro, which requires fulfilling the five Maastricht convergence criteria.",
+        "• As of June 2020, Romania had not met any of the Maastricht criteria necessary for Euro adoption.",
+        "• The Maastricht criteria include: budget deficit to GDP ratio, debt-to-GDP ratio, exchange rate stability (membership in ERM II for at least two years without severe fluctuations), long-term interest rate, and compatibility of national legislation with EU requirements.",
+        "• According to the 2024 ECB Convergence Report, the reference values for the criteria are: maximum budget deficit of 3.3% of GDP (as of May 2024), no excessive deficit procedure open (as of 19 June 2024), minimum two years membership in ERM II (as of 19 June 2024), exchange rate fluctuation within ±15% for 2023, maximum long-term interest rate of 4.8% (as of May 2024), and legislative compatibility confirmed as of 27 March 2024.",
+        "• The 2025 ECB Convergence Report updates the reference values to: maximum budget deficit of 2.8% of GDP (as of April 2025), no excessive deficit procedure open (as of 19 May 2025), minimum two years membership in ERM II (as of 19 May 2025), exchange rate fluctuation within ±15% for 2024, maximum long-term interest rate of 5.1% (as of April 2025), and legislative compatibility confirmed as of 15 April 2025.",
+        "• Romania’s performance relative to the 2025 criteria is as follows: HICP inflation rate of 7.6%, budget deficit exceeding the 3% limit and with an excessive deficit procedure currently open, no membership in ERM II, exchange rate change of −0.3%, long-term interest rate of 6.4%, and national legislation not compatible with Eurozone requirements.",
+        "• Romania’s debt-to-GDP ratio stood at 48.8% for fiscal year 2024, which is below the Maastricht reference value of 60%, indicating compliance with the debt criterion.",
+        "• The inflation criterion requires the 12-month average HICP inflation rate to be no more than 1.5 percentage points above the average inflation rate of the three EU member states with the lowest inflation, excluding those affected by exceptional circumstances such as severe wage cuts or strong recessions.",
+        "• The long-term interest rate criterion mandates that the annual yield on 10-year government bonds must not exceed by more than 2.0 percentage points the average yield of the three EU member states with the lowest inflation, excluding states with abnormal bond yields or those receiving bailout funds.",
+        "• The exchange rate criterion requires at least two years of stable participation in the Exchange Rate Mechanism II (ERM II) without severe fluctuations exceeding ±15% against the Euro.",
+        "• The budget deficit criterion allows for potential fulfillment if the deficit slightly exceeds 3% but is close (e.g., up to 3.5%), provided deficits in previous years show significant decline or the excess deficit results from exceptional, temporary circumstances such as economic downturns or reform-related expenditures, and additional fiscal conditions are met.",
+        "• The debt-to-GDP ratio criterion can be considered fulfilled if the ratio exceeds 60% but is sufficiently diminishing and approaching the reference value at a satisfactory pace.",
+        "• Romania currently does not fulfill the budget deficit criterion, as its deficit exceeds the 3% limit and an excessive deficit procedure is open.",
+        "• Romania is not a member of ERM II, thus failing the exchange rate stability criterion.",
+        "• Romania’s long-term interest rate of 6.4% exceeds the maximum allowed reference value of 5.1% as per the 2025 ECB report, failing this criterion.",
+        "• Romania’s inflation rate of 7.6% significantly exceeds the reference maximum inflation rate of 2.8% for April 2025, failing the inflation criterion.",
+        "• Romania’s national legislation is not compatible with Eurozone requirements as of the latest assessment in April 2025, failing the legislative compatibility criterion.",
+        "• Belgium, Denmark, and the Netherlands served as reference states for inflation and interest rate calculations in the 2024 report, while Finland, Ireland, and Italy were the reference states in the 2025 report.",
+        "• Denmark’s maximum allowed exchange rate fluctuation is ±2.25%, differing from the general ±15% limit applied to other states.",
+        "• The European Central Bank (ECB) and European Commission provide detailed methodologies and reference values for assessing compliance with the Maastricht criteria, including adjustments for exceptional economic circumstances and specific country situations.",
+        "• Romania’s failure to meet any of the Maastricht criteria as of the latest reports indicates that it is not yet ready to adopt the Euro and must address significant economic and legislative challenges to fulfill the convergence requirements."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:40.837685",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "4",
+      "section_name": "Natural resources",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Romania is an oil and gas producer with an extensive pipeline network as of 2006, comprising 2,427 kilometers for crude oil, 3,850 kilometers for petroleum products, and 3,508 kilometers for natural gas.",
+        "• Several major new pipeline projects are planned in Romania, notably the Nabucco Pipeline, which is intended to transport Caspian oilfields' output and is projected to be the longest pipeline in the world.",
+        "• Romania stands to gain financially from the Constanta-Trieste pipeline, with potential revenues estimated at four billion US dollars.",
+        "• The country possesses considerable natural resources relative to its size, including coal, iron ore, copper, chromium, uranium, antimony, mercury, gold, barite, borate, celestine (strontium), emery, feldspar, limestone, magnesite, marble, perlite, pumice, pyrites (sulfur), clay, arable land, and hydropower.",
+        "• Romania supplements its energy requirements by importing bituminous and anthracite coal as well as crude petroleum.",
+        "• In 2019, Romania mined over 21 million metric tonnes of coal, approximately 1,300 tonnes of zinc, 460,000 tonnes of alumina, and 3.4 million tonnes of crude steel.",
+        "• Additionally, smaller quantities of copper, lead, gold, silver, and kaolin were extracted in 2019."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:23.632367",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Iron Gate I Hydro Power Plant is a significant energy infrastructure project operated as a joint venture between Romania and Serbia.",
+        "• Romania's energy sector is predominantly controlled by state-owned enterprises, including Termoelectrica, Hidroelectrica, and Nuclearelectrica.",
+        "• Fossil fuels constitute the primary source of energy in Romania, representing the largest share of the country's energy consumption.",
+        "• Hydroelectric power is the second most important source of energy in Romania, following fossil fuels in terms of contribution to the national energy mix."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:18.818505",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "4.1.1",
+      "section_name": "Nuclear energy in Romania",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the 1980s, Romania has increasingly emphasized nuclear energy due to its dependency on oil and gas imports from Russia.",
+        "• The Cernavodă Nuclear Power Plant is the only nuclear power facility currently operating in Romania.",
+        "• Plans exist to construct a second nuclear power plant in the Transylvania region, potentially after the year 2020.",
+        "• In rural and small-town households, 48% rely on directly burned solid fuel, predominantly domestically produced wood, as the primary energy source for heating and cooking.",
+        "• Romania’s wind power installed capacity grew from 76 MW in 2008 to 3,028 MW in 2016.",
+        "• The country possesses the largest wind power potential in Southeast Europe, with the Dobruja region ranked as the second-best location in Europe for wind farm development.",
+        "• At the time of reporting, investor connection requests for wind power projects exceed 12,000 MW, indicating strong interest in expanding wind energy infrastructure.",
+        "• Romania has plans to develop several solar power stations, including the Covaci Solar Park, which is projected to be among the largest solar parks globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:22.709990",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "5",
+      "section_name": "Physical infrastructure",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Romania has experienced an increase in traffic volume, particularly in goods transportation, attributed to its strategic location in South-East Europe, with a notable shift of freight traffic from rail to road over recent decades.",
+        "• A continued strong increase in traffic volume is anticipated in Romania's future transportation landscape.",
+        "• As of December 2023, Romania's motorway network comprises 1,065.9 kilometers (662.3 miles) of operational motorways, with a small unfinished segment on the Lugoj-Deva route (between Margina and Holdea) and the Sibiu-Pitești motorway section still in the tendering phase.",
+        "• Romania's railway network, significantly expanded during the Communist era, ranks as the fourth largest railway system in Europe.",
+        "• Bucharest is the only Romanian city equipped with an underground railway system, which includes the Bucharest Metro and a light rail system managed by Regia Autonomă de Transport București.",
+        "• Although initial plans for the Bucharest Metro construction were made in 1941, geopolitical factors delayed its opening until 1979.",
+        "• The Bucharest Metro is currently one of the most heavily used components of the city's public transport system, with an average weekday ridership of approximately 800,000 passengers.",
+        "• The Bucharest Metro network extends over 71 kilometers and encompasses 53 stations in total."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:24.860864",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "6",
+      "section_name": "Sectors of the economy",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the Services sector registered the highest number of companies in Romania, totaling 351,621 companies.",
+        "• The Retail Trade sector was the second largest in terms of company registrations in Romania in 2022, with 239,404 companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:23.766614",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Gas and natural resources",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Romania has established itself as a natural gas exporter, contributing to the global energy market.",
+        "• Lazar Edeleanu, a Romanian scientist, achieved a pioneering milestone by being the first in the world to refine oil-based products using sulphur dioxide.",
+        "• Edeleanu's method involved the separation of certain hydrocarbon groups from oil without chemically altering them, marking a significant advancement in oil refining technology."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:25.624188",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture in Romania employs approximately 26% of the population, representing one of the highest employment rates in the agricultural sector within Europe.",
+        "• The agricultural sector contributes about 4.3% to Romania’s Gross Domestic Product (GDP).",
+        "• The Bărăgan region is notably characterized by the presence of large wheat farms, indicating its significance in cereal production.",
+        "• The western region of Romania specializes in the production of dairy products, pork, poultry, and apples, highlighting regional agricultural specialization.",
+        "• Beef production is primarily concentrated in central Romania, marking this area as a key zone for cattle farming.",
+        "• The cultivation of fruits, vegetables, and wine production is distributed from central to southern Romania, reflecting a diverse range of horticultural activities in these regions.",
+        "• Romania is recognized as a large producer of various agricultural products, demonstrating its substantial role in European agriculture.",
+        "• The country is actively expanding its forestry and fishery industries, indicating diversification and growth within the broader agricultural sector.",
+        "• Agricultural sector reforms have been implemented in Romania, influenced by the Uruguay Round of the General Agreement on Tariffs and Trade (GATT), which have contributed to structural changes and modernization in the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:29.011974",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "6.2.1",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Fishing constitutes a significant economic activity in eastern Romania and along the Black Sea coast, with key fish markets located in Constanța, Galați, and Tulcea.",
+        "• The primary fish species landed at ports such as Constanța include European anchovy, sprat, pontic shad, mullet, goby, whiting, garfish, Black-Sea turbot, and horse mackerel.",
+        "• Employment in Romania’s fishing industry has experienced a substantial decline due to the European Union’s Common Fisheries Policy, which imposes restrictions on the total tonnage of catch allowed, a measure implemented to address overfishing in the Black Sea.",
+        "• Despite the reduction in sea-fishing activities, commercial fish farming has grown in importance, particularly salmon aquaculture, in the rivers and lochs of eastern Romania.",
+        "• Inland waters in Romania are abundant in freshwater fish species such as salmon, trout, and especially carp, which has traditionally been the most popular fish for consumption.",
+        "• Carp is consumed in various forms including its eggs, known locally as _icre_, which are available fresh or canned."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:28.348041",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "6.2.3",
+      "section_name": "IT and other Industry",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In recent years, Romania has achieved significant success in developing its industrial sector, with industry and construction accounting for 32% of the gross domestic product (GDP) in 2003, representing a comparatively large share even excluding related services.",
+        "• The industrial sector employed 26.4% of Romania’s workforce as of 2003, indicating its substantial role in national employment.",
+        "• Romania is particularly proficient in the production of automobiles, machine tools, and chemicals, highlighting key areas of industrial specialization.",
+        "• Automobile production in Romania increased markedly from 78,165 units in 2000 to 410,997 units in 2013, demonstrating rapid growth in this sector.",
+        "• By 2018, the automobile industry in Romania generated an estimated turnover of 28 billion Euros and employed approximately 230,000 Romanians, underscoring its economic importance and employment capacity.",
+        "• In 2004, Romania held one of the largest world market shares in machine tools, accounting for 5.3%, reflecting its competitive position in this industrial segment.",
+        "• Prominent Romanian-based companies such as Dacia, Petrom, Rompetrol, Bitdefender, Romstal, and Mobexpert have expanded their operations throughout the region, indicating the international reach and influence of Romanian enterprises.",
+        "• Despite the presence of large companies, the bulk of Romania’s industrial sector is composed of small- to medium-sized manufacturing firms, which form the core of industrial activity.",
+        "• In December 2009, Romania experienced industrial output growth of 6.9% year-on-year, the highest growth rate within the EU-27 zone, where the average was −1.9%, highlighting Romania’s robust industrial expansion during that period.",
+        "• Romania ranks third in Europe for the highest percentage of women working in information and communications technologies (ICT), with women comprising 29% of the ICT workforce, indicating notable gender representation in this sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:32.336592",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Services",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2003, the service sector in Romania constituted 55% of the gross domestic product (GDP) and employed 51.3% of the workforce.",
+        "• The service sector is divided into three main subcomponents: financial, renting, and business activities (20.5%); trade, hotels and restaurants, and transport (18%); and other service activities (21.7%).",
+        "• The service sector in Romania has expanded in recent years, employing approximately 47% of Romanians and accounting for slightly more than half of the GDP.",
+        "• The largest employer within the service sector is the retail industry, which employs nearly 12% of the Romanian population.",
+        "• The retail industry in Romania is primarily concentrated in a relatively small number of chain stores that are clustered together in shopping malls.",
+        "• The recent rise of big-box stores, such as Cora (a French hypermarket) and Carrefour (a French subsidiary), has resulted in a reduction of workers in the retail sector and a migration of retail jobs to suburban areas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:29.286980",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "7",
+      "section_name": "Biotechnology industry",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Romania is actively promoting and developing its biotechnology industry as a strategic economic sector.",
+        "• Hundreds of millions of dollars have been invested in Romania's biotechnology sector to enhance infrastructure, support research and development, and attract leading international scientists.",
+        "• Romania hosts one of the world’s newest competitive biotechnology industries, specializing in key areas such as pharmacogenomics, protein engineering, glyco-engineering, tissue engineering, bioinformatics, genome medicine, and preventive medicine.",
+        "• The Romanian government and private sector are allocating substantial resources to the development of universities and research and development (R&D) facilities focused on biotechnology.",
+        "• Efforts include increasing the number of bioventure startups to stimulate innovation and commercialization within the biotechnology field.",
+        "• Romania is fostering the growth of bio-clusters, which are communities composed of biotechnology companies and institutions aimed at enhancing collaboration and competitiveness.",
+        "• Human resource development is a priority, with initiatives designed to cultivate skilled professionals in biotechnology to support industry growth.",
+        "• The overarching goal of these combined efforts is to position Romania as one of the world’s most advanced regions in biotechnology."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:30.289066",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "8",
+      "section_name": "Regional variation",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Romanian economy exhibits significant regional variation in strength, with purchasing power parity (PPP) and GDP per capita highest in Bucharest.",
+        "• According to data supplied by the National Institute of Statistics (CNP), the GDP per capita in 2022 for the top counties are as follows: Bucharest leads with €57,189, followed by Timiș with €29,996, Constanța with €27,608, Cluj with €25,682, Brașov with €23,908, and Arad with €21,000.",
+        "• Bucharest and the surrounding Ilfov County have the highest GDP per capita values, surpassing all other regions.",
+        "• Counties with GDP per capita values well above the national average include Timiș, Argeș, Brașov, Cluj, Constanța, Arad, Sibiu, and Prahova.",
+        "• Counties with GDP per capita values well below the national average are Vaslui, Botoșani, Călărași, Neamț, Vrancea, Suceava, Giurgiu, Mehedinți, Olt, and Teleorman.",
+        "• The presence of skyscrapers in Bucharest symbolizes the economic concentration and development in the capital region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:33.462609",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "9",
+      "section_name": "Foreign trade",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Romania's largest trading partner was Germany, followed by Italy, indicating strong economic ties with these two countries.",
+        "• Romania's principal imports and exports consist of electrical machinery, motor vehicles and parts, and industrial machinery, highlighting the country's industrial trade focus.",
+        "• Although Romania imports substantial quantities of grain, it remains largely self-sufficient in other agricultural products and foodstuffs due to strict regulations on food sales in the Romanian retail market, resulting in minimal food imports from other countries.",
+        "• In 2006, Romania imported food products valued at 2.4 billion euros, representing an increase of nearly 20% compared to 2005, when food imports were slightly over 2 billion euros.",
+        "• The European Union (EU) is Romania's primary partner in agri-food trade, with exports to the EU constituting 64% of total agri-food exports and imports from EU countries accounting for 54% of total agri-food imports.",
+        "• Other significant trade partners for Romania in agri-food products include the CEFTA countries, Turkey, the Republic of Moldova, and the United States of America.",
+        "• Despite a decline in the arms industry following the post-communist era, Romania remained a notable exporter of military equipment, contributing 3–4% of the global total in 2007.",
+        "• EU member states are represented by a single official at the World Trade Organization, reflecting a unified stance in trade negotiations.",
+        "• In the first trimester of 2010, Romanian exports increased by 21%, marking one of the highest growth rates within the European Union during that period.",
+        "• During the same period in 2010, Romania's trade deficit was approximately 2 billion euros, ranking as the eighth largest trade deficit among EU member states.",
+        "• Since 2014, Romania's annual trade deficit has consistently widened, reaching about 18.77 billion euros in 2020, indicating growing challenges in balancing trade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:37.048176",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "10",
+      "section_name": "Miscellaneous data",
+      "chapter_name": "Economy of Romania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, 76% of Romanian households had access to a fixed landline telephone, indicating widespread but not universal availability of traditional telephony infrastructure.",
+        "• The mobile telephone penetration rate in Romania reached 115% in 2017, reflecting that on average, there were more mobile subscriptions than the total population, signifying multiple mobile devices per individual.",
+        "• By 2019, the broadband penetration rate in Romania was recorded at 79%, demonstrating significant access to high-speed internet services among the population.",
+        "• In 2017, 74% of individuals in Romania reported using a computer, highlighting substantial digital device adoption among the populace.",
+        "• Internet usage among individuals in Romania was 87% in 2017, indicating a high level of internet connectivity and engagement within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:35.305593",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_romania.json",
+      "original_index": 32
+    }
+  ]
+}

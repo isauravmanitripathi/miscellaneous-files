@@ -1,0 +1,535 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_czech_republic.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.145936",
+    "total_sections_in_source": 20,
+    "extracted_sections_count": 20,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Czech Republic is characterized as a developed, export-oriented social market economy focused on services, manufacturing, and innovation, supporting a high-income welfare state aligned with the European social model.",
+        "• The Czech Republic is a member of the European Union and participates in the European Single Market but retains its own currency, the Czech koruna, instead of adopting the euro.",
+        "• It is a member of the Organisation for Economic Co-operation and Development (OECD).",
+        "• The country ranks 16th globally in inequality-adjusted human development and 24th in the World Bank Human Capital Index, surpassing countries such as the United States, the United Kingdom, and France.",
+        "• In 2019, _The Guardian_ described the Czech Republic as \"one of Europe's most flourishing economies,\" whereas in 2023, _Die Welt_ referred to it as the \"sick man of Europe.\"",
+        "• The economic sector composition is 37% industry, 61% services, and 2% agriculture.",
+        "• Key industries include high-tech engineering, electronics, machine-building, steel production, transportation equipment (automotive, rail, aerospace), chemicals, advanced materials, and pharmaceuticals.",
+        "• Major service sectors encompass research and development, information and communication technology (ICT), software development, nanotechnology, and life sciences.",
+        "• Principal agricultural products are cereals, vegetable oils, and hops.",
+        "• As of 2023, the Czech Republic’s GDP per capita at purchasing power parity is $50,961, and at nominal value is 698,706 Czech crowns ($31,368).",
+        "• In September 2021, the Czech Republic recorded the lowest unemployment rate in the European Union at 2.6%.",
+        "• The poverty rate in the Czech Republic is the second lowest among OECD members, following Denmark.",
+        "• The Czech Republic ranks 21st in the Index of Economic Freedom, positioned behind Chile.",
+        "• It holds the 30th position in the Global Innovation Index, ranked behind the United Arab Emirates.",
+        "• The country is ranked 32nd in the Global Competitiveness Report.",
+        "• It is placed 41st in the ease of doing business index.",
+        "• The Czech Republic ranks 25th in the Global Enabling Trade Report, behind Canada.",
+        "• Germany is the Czech Republic’s largest trading partner for both exports and imports, followed by other European Union member states.",
+        "• The Czech economy is highly diverse and was ranked 7th in the 2019 Economic Complexity Index.",
+        "• The article’s economic infobox data requires updating to reflect recent events or newly available information, with the last update noted as January 2025."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:05.252007",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "From industrialisation to communism (1800-1989)",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Czech lands were among the first industrialized regions in continental Europe during the German Confederation era, establishing a strong industrial tradition in the 19th century.",
+        "• During the 19th century, the Lands of the Bohemian Crown served as the economic and industrial heartland of the Austrian Empire and later the Austrian part of Austria-Hungary.",
+        "• The Czech lands produced approximately 70% of all industrial goods within the Austrian Empire, with some industries holding near-monopolistic positions.",
+        "• Following the collapse of the Austro-Hungarian Empire after World War I, the independent state of Czechoslovakia was established.",
+        "• Czechoslovakia inherited an industrial production capacity that was disproportionately large relative to its small internal market and lacked access to the extensive markets of the former empire.",
+        "• In April 1919, the Czechoslovak crown was introduced at a 1:1 exchange rate with the Austro-Hungarian currency and became one of the most stable currencies in Europe.",
+        "• Contrary to popular belief in the Czech Republic, the First Czechoslovak Republic was not among the top 10 most developed economies globally but ranked 14th in GDP per capita worldwide.",
+        "• In the 1920s, the Czech part of Czechoslovakia (excluding Slovakia and Transcarpathia) had a GDP comparable to that of Germany and Belgium, surpassing the economically troubled Austrian First Republic.",
+        "• The 1938 Munich Agreement and subsequent occupation by Nazi Germany had catastrophic effects on the Czechoslovak economy.",
+        "• Under Nazi occupation, the Czechoslovak economy was subordinated to German economic interests, and the crown was officially pegged to the German mark at a ratio of 1:10, although the unofficial exchange rate ranged between 1:6 and 1:7.",
+        "• German buyers quickly purchased Czech goods in large quantities following the occupation.",
+        "• After World War II and the Communist Coup d'état, Czechoslovakia’s economy, along with other socialist countries, became tightly integrated with the Soviet Union’s economy in line with Stalin’s policy of planned interdependence.",
+        "• Despite being the most prosperous country in the Eastern Bloc, Czechoslovakia was eventually surpassed economically by Austria, Finland, and Southern European countries such as Italy, Spain, and Greece during the socialist period.",
+        "• Heavy industry, including steelmaking, has been a traditional and significant sector of the Czech economy.",
+        "• Transportation equipment, machinery manufacturing, and engineering have been essential components of the Czech economic structure.",
+        "• The Czech National Bank is headquartered in Prague, symbolizing the country’s financial and economic institutions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:59.934906",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "1989–1995",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Velvet Revolution of 1989 provided an opportunity for profound and sustained political and economic reform in the Czech Republic.",
+        "• The disintegration of the communist economic alliance in 1991 caused Czech manufacturers to lose their traditional markets among former communist countries in Eastern Europe.",
+        "• Economic resurgence signs emerged following the \"big bang\" shock therapy initiated in January 1991, as labeled by the International Monetary Fund (IMF).",
+        "• Since 1991, consistent liberalization and prudent economic management led to the removal of 95% of all price controls in the Czech economy.",
+        "• The country experienced low unemployment, a positive balance of payments, a stable exchange rate, a shift of exports from former communist bloc markets to Western Europe, and relatively low foreign debt during this period.",
+        "• Inflation remained relatively high compared to some other countries, mostly in the 10% range, while the government maintained consistent modest budget deficits.",
+        "• The government prioritized strict fiscal policies and creating a favorable climate for incoming investment in the Czech Republic.",
+        "• Following a series of currency devaluations, the Czech crown remained stable against the US dollar, and it became fully convertible for most business purposes by late 1995.",
+        "• To stimulate the economy and attract foreign partners, the government revamped the legal and administrative structures governing investment.",
+        "• The breakup of the Soviet Union forced the Czech Republic to shift its economic outlook radically from dependence on Eastern markets to integration with Western economies.",
+        "• This shift necessitated restructuring banking and telecommunications sectors and adjusting commercial laws and practices to align with Western standards.",
+        "• Successive Czech governments welcomed U.S. investment to diversify foreign economic influence and counterbalance strong Western European partners, especially neighboring Germany.",
+        "• Between 1990 and March 1998, the U.S. accounted for 12.9% of total foreign direct investment (FDI) in the Czech Republic, making it the third-largest foreign investor behind Germany and the Netherlands.",
+        "• The Czech Republic developed a flourishing consumer production sector and privatized most state-owned heavy industries through a voucher privatization system.",
+        "• Under the voucher privatization system, every citizen could purchase a book of vouchers at a moderate price, representing potential shares in state-owned companies, thereby creating a nation of citizen shareholders.",
+        "• Voucher holders invested their vouchers to increase the capital base of chosen companies, contrasting with Russian privatization, which involved sales of communal assets to private companies rather than share transfers to citizens.",
+        "• Under communism, state ownership of businesses was estimated at 97%, but privatization through restitution of real estate to former owners was largely completed by 1992.",
+        "• By 1998, more than 80% of enterprises in the Czech Republic were in private hands due to the privatization program.",
+        "• The voucher privatization program made Czech citizens some of the highest per-capita shareholders globally, as they owned shares in many Czech companies.",
+        "• Despite its successes, the voucher privatization system was widely perceived by the public as unfair and a source of corruption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:58.636994",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "1995–2000",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Škoda Auto was identified as the largest automobile manufacturer in the Czech Republic during the period 1995–2000.",
+        "• The Czech Republic's economic transformation remained incomplete by the late 1990s, with significant challenges persisting in the post-Communist transition.",
+        "• In 1997, political and financial crises severely damaged the Czech Republic's reputation as one of the most stable and prosperous post-Communist states.",
+        "• Key factors contributing to the economic difficulties included delays in enterprise restructuring and the failure to develop an effective capital market.",
+        "• These economic troubles culminated in a currency crisis in May 1997, when the Czech koruna, previously pegged, was forced into a floating exchange rate system.",
+        "• The currency crisis occurred as investors sold korunas faster than the government could intervene by buying them, reflecting a broader global trend of divestment from developing countries in 1997.",
+        "• Investor concerns were heightened by the perception that the Czech Republic's economic transformation was still incomplete.",
+        "• The current account deficit was a significant economic issue, reaching nearly 8% of the country's GDP at the time.",
+        "• In response to the 1997 crisis, the Czech government introduced two austerity packages in the spring, colloquially known as \"The Packages,\" which aimed to reduce government spending by 2.5% of GDP.",
+        "• Economic growth rates during this period were severely affected, with growth dropping to 0.3% in 1997, followed by a contraction of −2.3% in 1998 and −0.5% in 1999.",
+        "• In 1999, the government established a restructuring agency and launched a revitalization program designed to encourage the sale of firms to foreign companies.",
+        "• The government’s key priorities included accelerating legislative alignment with European Union norms, restructuring enterprises, and privatizing banks and utilities.",
+        "• The Czech economy was expected to recover by the year 2000, driven by increased export growth and investment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:02.644971",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "2000–2005",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Economic growth in the Czech Republic from 2000 to 2005 was primarily supported by exports to the European Union, with Germany being the main export destination.",
+        "• A strong recovery in both foreign and domestic investment significantly contributed to the economic expansion during this period.",
+        "• Domestic demand increasingly underpinned economic growth, driven by declining interest rates and greater availability of credit facilities such as credit cards and mortgages.",
+        "• The country experienced current account deficits of approximately 5% of GDP, which began to decline as demand for Czech products within the European Union increased.",
+        "• Inflation remained under control throughout the 2000–2005 period, contributing to economic stability.",
+        "• The Czech Republic’s accession to the European Union in 2004 provided additional impetus and strategic direction for ongoing structural reforms.",
+        "• In early 2004, the Czech government implemented an increase in the Value Added Tax (VAT) and tightened eligibility criteria for social benefits, aiming to reduce the public finance deficit to 4% of GDP by 2006.",
+        "• More challenging reforms in the pension and healthcare sectors were postponed until after the subsequent elections, indicating political sensitivity around these issues.",
+        "• The privatization of the state-owned telecommunications company Český Telecom was completed in 2005, marking a significant step in the privatization process.",
+        "• Intensified restructuring efforts among large enterprises, improvements in the financial sector, and the effective utilization of available European Union funds were expected to further strengthen output growth in the Czech economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:01.043688",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "2005–2010",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Economic growth in the Czech Republic continued during the initial years following its accession to the European Union.",
+        "• The 2008 global financial crisis, particularly the credit crisis, had a limited impact on the Czech Republic due to the stability of its banking sector.",
+        "• The Czech banking sector's resilience was attributed to lessons learned from a smaller financial crisis in the late 1990s, which led to more cautious banking practices.",
+        "• The Czech Republic's public debt, as a fraction of GDP, is among the lowest in Central and Eastern Europe, indicating strong fiscal health.",
+        "• Over 99% of household debt in the Czech Republic is denominated in the local currency, the Czech koruna, unlike many other post-communist countries where foreign currency debt is more prevalent.",
+        "• The predominance of local currency debt shielded the Czech economy from the effects of the reduced U.S. dollar money supply during the financial crisis.",
+        "• Despite limited direct impact from the credit crisis, the Czech economy was sensitive to decreased demand from major trading partners, especially Germany.",
+        "• In mid-2009, the annual GDP decline for the Czech Republic was estimated to be between 3% and 4.3%, representing a relatively modest contraction compared to other economies.",
+        "• The existence of the national currency, which temporarily weakened during the first half of 2009, helped mitigate the crisis's impact by benefiting exporters through improved competitiveness.",
+        "• The Czech Republic benefits from a well-educated population and a densely developed infrastructure, factors that support economic resilience and recovery."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:11:59.924609",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "0.6",
+      "section_name": "2010–2019",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Smartwings is the major Czech airline holding company, with subsidiaries including Czech Airlines.",
+        "• During the Great Recession, the Czech Republic experienced stagnation or a decrease in GDP, prompting criticism of the fiscally conservative policies of Petr Nečas' right-wing government, particularly targeting former finance minister Miroslav Kalousek.",
+        "• In a 2008 interview, Miroslav Kalousek, then finance minister in Mirek Topolánek's center-right government, asserted that the Czech Republic would not suffer from the financial crisis.",
+        "• In September 2008, Miroslav Kalousek formulated the state budget projecting a 5% GDP increase for 2009.",
+        "• Despite projections, the Czech Republic faced a severe economic crisis in 2009 and 2010, with GDP decreasing by 4.5%.",
+        "• From 2009 to 2012, the Czech Republic recorded the highest state budget deficits in its history as an independent nation.",
+        "• Between 2008 and 2012, the public debt of the Czech Republic increased by 18.9%.",
+        "• The construction industry experienced the most significant decline in industrial output, with decreases of 25% in 2009 and 15.5% in 2013.",
+        "• From the fourth quarter of 2009 to the first quarter of 2013, the Czech Republic's GDP decreased by 7.8%.",
+        "• In 2012, the Czech government raised the Value Added Tax (VAT), increasing the basic VAT rate from 20% in 2012 to 21% in 2013, and the reduced VAT rate from 14% to 15% in 2013.",
+        "• As a result of the VAT increase, small enterprises experienced a 21% decrease in sales from 2012 to 2013.",
+        "• The financial news portal Patria.cz predicted sales stagnation and a mild increase in 2013 despite the VAT hike.",
+        "• The Czech Republic, known as an export-oriented economy with strong machinery and automobile industries, faced a rapid decline in foreign trade in 2013, contributing to various economic problems and an increased state budget deficit.",
+        "• In 2013, the Czech National Bank (CNB) implemented a controversial monetary policy by deliberately deflating the Czech Crown (CZK) to boost exports and employment.",
+        "• Following this policy, inflation rose from 0.2% in November 2013 to 1.3% in the first quarter of 2014.",
+        "• In 2014, the Czech Republic's GDP increased by 2%, with predictions of a 2.7% increase for 2015.",
+        "• The Czech economy grew by 4.2% in 2015, marking it as the fastest-growing economy in the European Union.",
+        "• On 29 May 2015, it was announced that the Czech economy's growth rate had been revised upward from an initial estimate of 3.9% to 4.2%.",
+        "• In 2018, Avast, a cybersecurity software company, conducted its Initial Public Offering (IPO) on both the Prague Stock Exchange and the London Stock Exchange.",
+        "• The information and communications technology (ICT) and software development sectors are major components of the Czech economy.",
+        "• In August 2015, the Czech GDP growth reached 4.4%, making it the highest-growing economy in Europe at that time.",
+        "• On 9 November 2015, the unemployment rate in the Czech Republic was recorded at 5.9%, the lowest since February 2009.",
+        "• Despite strong economic growth, the Czech economy faces challenges due to dividends paid to foreign owners of Czech companies, amounting to CZK 289 billion in 2016.",
+        "• These dividend outflows are viewed as obstacles to the Czech Republic catching up with Western European economies and are cited as reasons why Czech salaries remain only about one-third of those in neighboring Germany or Austria.",
+        "• In 2019, The Guardian described the Czech Republic as \"one of Europe's most flourishing economies.\""
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:17.540023",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "0.7",
+      "section_name": "2020-present",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Czech economy was significantly impacted by the worldwide COVID-19 pandemic in the early 2020s, which disrupted economic activities and growth.",
+        "• In addition to the pandemic, the European energy crisis triggered by the Russian full-scale invasion of Ukraine in 2022 further exacerbated economic difficulties in the Czech Republic.",
+        "• By 2023, the conservative German newspaper Die Welt referred to Czechia as \"Europe's sick man,\" emphasizing its unique position as the only European country that had not economically recovered from the pandemic-induced downturn.",
+        "• Die Welt also highlighted the risk of Czechia becoming trapped in the middle-income trap, a situation where a country is unable to transition from middle-income to high-income status despite economic growth.",
+        "• Despite these challenges, the World Bank has classified Czechia as a high-income country since 2006, indicating a discrepancy between its income classification and current economic performance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:16.513377",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1",
+      "section_name": "Adoption of Euro and EU funds",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since its accession to the European Union in 2004, the Czech Republic has committed to adopting the Economic and Monetary Union of the EU and is legally bound by the Treaty of Accession 2003 to adopt the euro currency in the future.",
+        "• Despite the Czech Republic's strong economic position to adopt the euro, significant public opposition to euro adoption has emerged following the European debt crisis.",
+        "• The Czech government has not set a target date for joining the Exchange Rate Mechanism II (ERM II) or for adopting the euro currency.",
+        "• The cabinet formed after the 2017 legislative election explicitly did not plan to proceed with euro adoption during its term.",
+        "• This policy of postponing euro adoption was maintained by the succeeding cabinet formed after the 2021 legislative election.",
+        "• By early 2024, Czech President Petr Pavel publicly urged the government to take concrete steps toward adopting the euro.",
+        "• Between 2014 and 2020, the Czech Republic received €24.2 billion from the European Structural and Investment Funds.",
+        "• The €24.2 billion received from EU funds is intended to compensate for capital outflows, specifically profits of foreign-owned firms being transferred from the Czech Republic to other EU member states.",
+        "• Despite these EU funds, the amount received does not fully offset the capital outflow of profits from foreign-owned firms operating in the Czech Republic."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:02.485043",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2",
+      "section_name": "Public policy",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Social policy in the Czech Republic encompasses healthcare, education, social welfare, housing, and pensions, aiming to support vulnerable groups such as the elderly, disabled, and unemployed through social assistance and benefits.",
+        "• The government’s social safety nets are designed to protect individuals and families from income loss and various social risks, ensuring a basic level of social security.",
+        "• The Czech Republic’s welfare system incorporates elements of the European social model, although certain aspects of its social policies differ from this model.",
+        "• Universal access to healthcare is guaranteed in the Czech Republic, with healthcare services primarily financed through compulsory health insurance contributions from the population.",
+        "• The country maintains a well-developed healthcare system focused on providing essential medical care to all citizens.",
+        "• Labor market regulations in the Czech Republic protect workers’ rights, ensure fair wages, and promote job security, while recent reforms have increased labor market flexibility to improve national competitiveness.",
+        "• As of 2016, the Czech Republic had the second lowest poverty rate among OECD member countries, ranking only behind Denmark.",
+        "• In the 2016 Euro Health Consumer Index, the Czech healthcare system was ranked 13th overall.",
+        "• The Ministry of Industry and Trade section related to public policy requires expansion as of August 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:08.118851",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3",
+      "section_name": "Prague Stock Exchange",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Prague Stock Exchange (PSE) represents the capital market of the Czech Republic and operates under the governance of the Capital Market Business Act alongside its self-established stock exchange rules.",
+        "• All activities of the Prague Stock Exchange are supervised and controlled by the Czech National Bank, ensuring regulatory compliance and market integrity.",
+        "• The Vienna Stock Exchange holds the position of majority shareholder in the Prague Stock Exchange, indicating significant foreign investment and influence.",
+        "• The Prague Stock Exchange comprises four main markets, each catering to different types of companies and investment instruments:",
+        "• Prime Market: Designed for trading the largest and most prestigious shares of Czech and foreign companies, requiring a company market capitalization exceeding EUR 1 million.",
+        "• Standard Market: Intended for trading large and prestigious shares of Czech and foreign companies, also with a market capitalization threshold exceeding EUR 1 million.",
+        "• Free Market: Allows trading of investment instruments admitted either by issuer request or those traded on other global exchanges without the issuer's consent.",
+        "• START Market: Targets smaller innovative companies, specifically Small and Medium Enterprises (SMEs), that seek to raise new capital or enable owners to partially or fully exit their business to capitalize existing operations.",
+        "• The largest security traded on the Prague Stock Exchange is the energy company ČEZ, whose primary business involves the sale of electricity mainly generated from its own sources, along with providing support services to the electricity system.",
+        "• Other significant issuers on the Prime Market include major banking institutions such as Komerční banka, MONETA Money Bank, and the dual-listed Austrian Erste Group Bank, which includes the local bank Česká spořitelna.",
+        "• Colt CZ Group, a company specializing mainly in the production of firearms, has been traded on the Prague Stock Exchange since 2020, representing a notable addition to the Prime Market.",
+        "• On the Standard Market, the largest issuer is Philip Morris ČR, recognized as the largest manufacturer and seller of tobacco products in the Czech Republic.",
+        "• The START Market features companies such as e-commerce businesses Bezvavlasy and Pilulka Lékárny, leather manufacturer and processor KARO Leather, and urban furniture manufacturer mmcité, exemplifying the focus on innovative and smaller enterprises."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:11.602912",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4",
+      "section_name": "Energy",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Czech Republic’s energy production is diverse, comprising nuclear power, coal, natural gas, and renewable energy sources, with nuclear power playing a significant role in the national energy mix.",
+        "• The country’s energy policies aim to balance energy security, environmental concerns, and sustainability, targeting a 40 percent reduction in gas emissions by 2030 compared to 1990 levels.",
+        "• A key national objective includes constructing one new nuclear reactor at the existing Dukovany Nuclear Power Plant (NPP) site by the late 2030s.",
+        "• The Czech energy sector is primarily based on two large nuclear power plants and several smaller conventional coal power plants, with nuclear and coal plants providing baseload power at high utilization rates.",
+        "• Flexible electricity generation is supplied by gas-fired units, reservoir hydroelectric plants, and pumped storage facilities.",
+        "• Recent increases in the cost of carbon credits have rendered coal power plants almost financially unviable.",
+        "• In 2022, the Czech Republic’s gross electricity production reached 78.8 terawatt-hours (TWh), while domestic electricity consumption was approximately 60.4 TWh.",
+        "• The 2022 energy mix consisted of 53.60 percent fossil fuels (including 47.50 percent lignite and 5.86 percent natural gas), 40.95 percent nuclear power, and 5.46 percent renewables (comprising 3.34 percent biomass, 1.47 percent solar, and 0.63 percent hydroelectric power).",
+        "• In May 2023, the Czech Republic launched its first green hydrogen electrolyzer powered by solar energy, with a production capacity of about 100 kilograms per day or 8,000 kilograms of green hydrogen annually.",
+        "• While European Union (EU) funds aim to support a sustainable, low-carbon economy and energy security through alternative energy sources, the Czech Republic’s approach differs by prioritizing nuclear power as the primary future energy source.",
+        "• According to the State Energy Policy, the Czech Republic plans for nuclear power to constitute 50 percent of the energy supply in the future.",
+        "• EU regulations will lead to a decrease in coal energy’s share, which will be largely replaced by one or possibly more large nuclear reactors.",
+        "• The Czech government is also considering the deployment of a series of small modular reactors as part of its future energy strategy.",
+        "• Although the share of alternative energies is expected to grow, their potential to become the backbone of the Czech energy sector remains uncertain."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:06.992484",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "5",
+      "section_name": "Statistical indicators",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The real GDP per capita in the Czech Republic showed development from 1970 to 2018, indicating long-term economic growth trends over nearly five decades.",
+        "• The percentage of GDP growth in the Czech Republic was recorded annually from 1997 to 2019, reflecting the country's economic performance during this period.",
+        "• Credit ratings for the Czech Republic were provided by Standard & Poor's, an important indicator of the country's creditworthiness and financial stability.",
+        "• The average gross wage in the Czech Republic was tracked from 1990 to 2015, illustrating changes in income levels over 25 years.",
+        "• The European Union's Gross National Income (GNI) per capita, measured by purchasing power parity (PPP) in current international dollars, was documented by the World Bank in 2016, providing a comparative economic indicator relevant to the Czech Republic's economic context."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:08.300883",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Development of main indicators",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents key economic indicators of the Czech Republic from 2015 to 2020, including GDP in billion US dollars (PPP), GDP per capita in US dollars (PPP), nominal GDP in billion US dollars, real GDP growth rate, inflation rate in percent, unemployment rate in percent, and government debt as a percentage of GDP.",
+        "• In 2015, the Czech Republic's GDP was 340.6 billion US dollars (PPP), with a GDP per capita of 32,318 US dollars (PPP), and a nominal GDP of 209.1 billion US dollars; real GDP growth was 5.3%, inflation was exceptionally low at 0.3%, unemployment stood at 5.0%, and government debt was 40.0% of GDP.",
+        "• In 2016, GDP increased to 353.9 billion US dollars (PPP), GDP per capita rose to 33,529 US dollars (PPP), and nominal GDP grew to 229.6 billion US dollars; real GDP growth slowed to 2.6%, inflation remained low at 0.7%, unemployment decreased significantly to 3.9%, and government debt declined to 36.8% of GDP.",
+        "• For 2017, the GDP reached 375.7 billion US dollars (PPP), GDP per capita was 35,512 US dollars (PPP), and nominal GDP slightly decreased to 208.9 billion US dollars; real GDP growth rebounded to 4.3%, inflation increased to 2.4%, unemployment further decreased to 2.9%, and government debt continued its downward trend to 34.7% of GDP.",
+        "• In 2018, the Czech economy expanded with GDP at 397.7 billion US dollars (PPP), GDP per capita at 37,547 US dollars (PPP), and nominal GDP at 211.7 billion US dollars; real GDP growth was 3.5%, inflation slightly decreased to 2.3%, unemployment remained stable at 3.0%, and government debt reduced to 32.9% of GDP.",
+        "• The year 2019 saw GDP grow to 418.7 billion US dollars (PPP), GDP per capita rise to 39,478 US dollars (PPP), and nominal GDP at 209.4 billion US dollars; real GDP growth slowed to 3.0%, inflation decreased to 2.0%, unemployment slightly increased to 3.2%, and government debt further declined to 31.3% of GDP.",
+        "• In 2020, despite global economic challenges, the Czech Republic's GDP increased to 437.7 billion US dollars (PPP), GDP per capita reached 41,220 US dollars (PPP), but nominal GDP dropped to 188.0 billion US dollars; real GDP growth slowed to 2.5%, inflation remained low at 2.0%, unemployment rose marginally to 3.4%, and government debt decreased to 29.4% of GDP.",
+        "• Throughout the period 2015–2020, inflation rates under 2% were highlighted in green, with particularly low inflation observed in 2015 (0.3%) and 2016 (0.7%).",
+        "• The data indicates a general trend of increasing GDP and GDP per capita in PPP terms, decreasing government debt as a percentage of GDP, and fluctuating but generally low inflation and unemployment rates in the Czech Republic during 2015–2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:20.610829",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Background",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the CIA World Factbook 2017, the Czech Republic's GDP based on purchasing power parity (PPP) was $353.9 billion in 2016.",
+        "• The nominal GDP of the Czech Republic in 2016 was $195.3 billion.",
+        "• The GDP growth rate for the Czech Republic in 2016 was recorded at 2.6%.",
+        "• GDP per capita based on purchasing power parity (PPP) was $33,500 in 2016.",
+        "• The nominal GDP per capita in the Czech Republic for 2016 was $18,487.",
+        "• The GDP composition by sector in 2016 was as follows: agriculture accounted for 2.5%, industry for 37.5%, and services for 60%.",
+        "• Inflation in the Czech Republic was 0.7% in 2016.",
+        "• The labor force of the Czech Republic was 5.427 million people in 2017.",
+        "• The unemployment rate was 2.3% as of September 2018.",
+        "• Industrial production growth rate in the Czech Republic was 3.5% in 2016.",
+        "• Household income or consumption distribution by percentage share in 2015 showed the lowest 10% of the population earned or consumed 4.1%, while the highest 10% accounted for 21.7%.",
+        "• Public debt of the Czech Republic was 34.2% of GDP in 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:13.556368",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Trade and finance",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, the Czech Republic's exports totaled $136.1 billion, with primary export goods including machinery and transport equipment, raw materials, fuel, and chemicals.",
+        "• In 2018, the Czech Republic's imports amounted to $122.8 billion, consisting mainly of machinery and transport equipment, raw materials and fuels, and chemicals.",
+        "• The Czech Republic recorded a current account balance surplus of $2.216 billion in 2018.",
+        "• The leading export partners of the Czech Republic in 2016 were Germany (32.4%), Slovakia (8.4%), Poland (5.8%), the United Kingdom (5.2%), France (5.2%), Italy (4.3%), and Austria (4.2%).",
+        "• The main import partners of the Czech Republic in 2016 included Germany (30.6%), Poland (9.6%), China (7.5%), Slovakia (6.3%), the Netherlands (5.3%), and Italy (4.1%).",
+        "• As of 31 December 2016, the Czech Republic held foreign exchange reserves amounting to $85.73 billion.",
+        "• Foreign Direct Investment (FDI) in the Czech Republic was valued at $139.6 billion as of 31 December 2016.",
+        "• Czech investments abroad were valued at $43.09 billion as of 31 December 2016.",
+        "• The external debt of the Czech Republic stood at $138 billion on 31 December 2016.",
+        "• The total value of publicly traded shares in the Czech Republic was $44.5 billion as of 31 December 2016.",
+        "• Exchange rates of the Czech koruna (Kč) per US dollar have varied over time, recorded as follows: 21.82 Kč in September 2018; 18.75 Kč in December 2010; 18.277 Kč in 2007; 23.957 Kč in 2005; 25.7 Kč in 2004; 28.2 Kč in 2003; 32.7 Kč in 2002; 38.0 Kč and 38.6 Kč in 2001; 34.6 Kč in 1999; 32.3 Kč in 1998; 31.7 Kč in 1997; 27.1 Kč in 1996; and 26.5 Kč in 1995.",
+        "• Exchange rates of the Czech koruna (Kč) per euro (€) were 27.33 Kč in May 2015 and 25.06 Kč in December 2010."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:18.497198",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "5.4",
+      "section_name": "IT and Telecommunications",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2009, 25% of Czech households had access to a landline telephone, with a declining trend observed by the Czech Statistical Office showing 55.2% in 2005, 31.1% in 2008, 27.6% in 2009, 24.2% in 2010, 23.4% in 2011, and 21.8% in 2012.",
+        "• Mobile telephone access in Czech households was significantly higher, recorded at 94% in 2009; the Czech Statistical Office reported 81.2% in 2005, 92.4% in 2008, 94.6% in 2009, 95.6% in 2010, 96.2% in 2011, and 97.0% in 2012.",
+        "• Individual mobile telephone access increased steadily, with the Czech Statistical Office documenting 75.8% in 2005, 90.6% in 2009, 93.9% in 2011, and 96.0% in both 2012 and 2013.",
+        "• The broadband penetration rate in 2010 was 19.1% for fixed broadband and 3.5% for mobile broadband in the Czech Republic.",
+        "• Computer usage among individuals was 67% in 2009, with the Czech Statistical Office reporting an increase from 42.0% in 2005 to 59.2% in 2009, 64.1% in 2010, 67.1% in 2011, 69.5% in 2012, and 70.2% in 2013.",
+        "• Internet usage among individuals reached 80.9% by 2019, with earlier data from the Czech Statistical Office indicating 32.1% in 2005, 55.9% in 2009, 61.8% in 2010, 65.5% in 2011, 69.5% in 2012, and 70.4% in 2013."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:19.591248",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "5.5",
+      "section_name": "Companies",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the Services sector in the Czech Republic registered the highest number of companies, totaling 295,538 entities.",
+        "• The Finance, Insurance, and Real Estate sector was the second-largest in terms of company registrations, with 189,308 companies recorded in 2022.",
+        "• Wholesale Trade ranked third among sectors by the number of registered companies in the Czech Republic in 2022, with a total of 95,142 companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:15.902345",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "5.6",
+      "section_name": "Society and quality of life",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Czech Republic ranked 32nd in the Human Development Index in 2022, reflecting its overall human development status.",
+        "• In 2022, the country achieved 18th place in the inequality-adjusted Human Development Index, indicating a relatively equitable distribution of human development outcomes.",
+        "• According to the Henley Passport Index in 2024, the Czech Republic held the 6th position, signifying strong global travel freedom for its citizens.",
+        "• The nation was ranked 24th in the Human Capital Index in 2018, measuring the potential productivity of its population based on education and health.",
+        "• In 2018, the Czech Republic was placed 16th in the Quality of Nationality Index by Henley & Partners, assessing the overall value and quality of its nationality.",
+        "• The Legatum Prosperity Index of 2019 positioned the Czech Republic at 27th, evaluating factors such as wealth, economic growth, and quality of life.",
+        "• The country secured the 22nd rank in the Social Progress Index in 2019, which measures social and environmental outcomes beyond economic indicators."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:20.917531",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "5.7",
+      "section_name": "Macroeconomics",
+      "chapter_name": "Economy of the Czech Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Czech Republic ranked 41st in the Ease of Doing Business Index in 2019, reflecting the country's regulatory environment and business facilitation measures.",
+        "• In 2018, the Czech Republic achieved 7th place in the Economic Complexity Index, indicating a highly diversified and sophisticated export structure.",
+        "• The Global Competitiveness Report of 2022 positioned the Czech Republic at 26th place, assessing factors such as infrastructure, macroeconomic stability, and innovation capability.",
+        "• According to the Global Enabling Trade Report of 2016, the Czech Republic was ranked 25th, highlighting the country's trade policies and logistics performance.",
+        "• The Czech Republic was ranked 24th in the Global Innovation Index in 2019, reflecting its capacity for innovation and technological advancement.",
+        "• In the 2018 Index of Economic Freedom, the Czech Republic secured the 21st position, indicating a relatively high level of economic freedom based on criteria such as rule of law, government size, and regulatory efficiency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:12:21.227832",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_czech_republic.json",
+      "original_index": 19
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_burkina_faso.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.594127",
+    "total_sections_in_source": 5,
+    "extracted_sections_count": 5,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Burkina Faso",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Burkina Faso is primarily based on subsistence farming and livestock raising, reflecting the country's reliance on agriculture for livelihoods.",
+        "• In 2014, Burkina Faso's average income based on purchasing-power-parity (PPP) per capita was $1,900, while the nominal per capita income was $790.",
+        "• Over 80% of the population depends on subsistence agriculture, with only a small fraction engaged directly in industry and services sectors.",
+        "• The country faces longstanding economic challenges including highly variable rainfall, poor soils, inadequate communications and infrastructure, a low literacy rate, and a stagnant economy.",
+        "• Burkina Faso's economy is vulnerable to fluctuations in world prices due to its reliance on exports.",
+        "• The country has a high population density, limited natural resources, and fragile soil conditions, which constrain economic development.",
+        "• Industry in Burkina Faso remains dominated by unprofitable government-controlled corporations, indicating limited private sector growth.",
+        "• Following the devaluation of the African franc in January 1994, the government revised its development program in collaboration with international agencies, leading to increased exports and economic growth.",
+        "• Sustaining macroeconomic progress depends on maintaining low inflation, reducing the trade deficit, and implementing reforms to promote private investment.",
+        "• The financial system of Burkina Faso accounts for approximately 30% of the country's GDP and is predominantly centered around the banking sector, which makes up 90% of total financial system assets.",
+        "• There are eleven banks and five non-bank financial institutions operating within the country.",
+        "• The banking sector is highly concentrated, with the three largest banks controlling nearly 60% of total financial sector assets.",
+        "• Banks are generally well-capitalized but remain vulnerable due to overexposure to the cotton sector, whose prices are highly volatile.",
+        "• A December 2018 World Bank report indicated that cotton had become the most important cash crop in Burkina Faso, with gold exports increasing in recent years.",
+        "• In 2017, Burkina Faso experienced an economic growth rate of 6.4%, up from 5.9% in 2016, primarily driven by gold production and increased infrastructure investment.",
+        "• Growth was also supported by increased consumption linked to the expansion of the wage bill.",
+        "• Inflation remained low at 0.4% in 2017, but the public deficit widened to 7.7% of GDP from 3.5% in 2016.",
+        "• The government continued to receive financial aid and loans to finance its debt and public deficit.",
+        "• To finance the deficit, the government combined concessional aid with borrowing on regional markets.",
+        "• The World Bank's outlook for Burkina Faso's economy remained favorable in the short and medium term, though risks such as high oil prices (affecting imports), lower gold and cotton prices (affecting exports), terrorism, and labor strikes could negatively impact growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:57:36.743570",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_burkina_faso.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Burkina Faso",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Gross Domestic Product (GDP) of Burkina Faso at market prices, estimated by the International Monetary Fund, is provided in millions of CFA Francs for the years 1980, 1985, 1990, 1995, 2000, and 2005, with corresponding figures of 412,240; 642,387; 848,910; 1,330,159; 1,861,522; and 3,027,196 CFA Francs respectively.",
+        "• The US dollar exchange rate for these years was 211.29 CFA Francs in 1980, 449.22 CFA Francs in 1985, 272.26 CFA Francs in 1990, 499.12 CFA Francs in 1995, 711.86 CFA Francs in 2000, and 526.56 CFA Francs in 2005.",
+        "• For purchasing power parity (PPP) comparisons, the US dollar is exchanged at a rate of 470.70 CFA Francs.",
+        "• The inflation index (2000=100) was 45 in 1980, 67 in 1985, 65 in 1990, 88 in 1995, 100 in 2000, and 115 in 2005.",
+        "• Mean wages in Burkina Faso were approximately $0.56 per man-hour in 2009.",
+        "• Burkina Faso's GDP per capita experienced a 13% growth during the 1960s, peaked with a 237% increase in the 1970s, then declined by 23% in the 1980s, and shrank by 37% in the 1990s.",
+        "• Average wages in 2007 ranged between $2 and $3 per day.",
+        "• Despite a resource-deprived domestic economy, Burkina Faso has remained committed to the structural adjustment program initiated in 1991.",
+        "• The country largely recovered from the CFA devaluation in January 1994, achieving a GDP growth rate of 5.9% in 1996.",
+        "• Many Burkinabé migrate to neighboring countries for work, with remittances making a significant contribution to the nation's balance of payments.",
+        "• Efforts to improve the economy include developing mineral resources, enhancing infrastructure, increasing productivity and competitiveness in agriculture and livestock sectors, and stabilizing cereal supplies and prices.",
+        "• The agricultural sector remains highly vulnerable to rainfall fluctuations, with the Mossi Plateau in north-central Burkina Faso facing encroachment from the Sahara Desert.",
+        "• Southward migration due to desert encroachment leads to increased competition for limited water resources south of the Mossi Plateau.",
+        "• Most of the population are subsistence farmers facing challenges such as climate variability, soil erosion, and rudimentary technology.",
+        "• Staple crops include pearl millet, sorghum, maize, and rice; cash crops include cotton, groundnuts, shea nuts (karite), and sesame.",
+        "• Livestock, once a major export commodity, has declined significantly.",
+        "• A 2018 report by the African Development Bank Group highlighted macroeconomic trends, noting that higher investment and continued spending on social services and security would increase the budget deficit.",
+        "• The 2018 prediction indicated the budget deficit would decrease to 4.8% of GDP in 2018 and further to 2.9% in 2019.",
+        "• Public debt related to the National Economic and Social Development Plan was estimated at 36.9% of GDP in 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:57:48.657346",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_burkina_faso.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Burkina Faso",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Burkina Faso produced approximately 1.9 million tons of sorghum, making it a significant staple crop for the country.",
+        "• The country also produced around 1.7 million tons of maize, indicating its importance as a primary food crop.",
+        "• Millet production in 2018 reached approximately 1.1 million tons, contributing to local diets and agriculture.",
+        "• Burkina Faso produced about 630 thousand tons of cowpeas in 2018, ranking it as the third-largest producer globally, behind Niger and Nigeria.",
+        "• Sugar cane production was approximately 490 thousand tons, supporting both domestic consumption and processing industries.",
+        "• Cotton production in 2018 totaled around 482 thousand tons, serving as a key cash crop for farmers and the textile sector.",
+        "• The country produced approximately 329 thousand tons of peanuts, which are important for both domestic use and export.",
+        "• Sesame seed production was about 253 thousand tons in 2018, making Burkina Faso the eighth-largest producer worldwide.",
+        "• Vegetable production reached approximately 240 thousand tons, contributing to local food security and markets.",
+        "• Rice production was around 160 thousand tons, supporting national consumption and rural livelihoods.",
+        "• Cashew nut production was approximately 103 thousand tons, positioning Burkina Faso as the 12th-largest producer globally.",
+        "• In addition to these major crops, Burkina Faso produced smaller quantities of various other agricultural products, indicating a diverse agricultural sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:57:53.469653",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_burkina_faso.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Burkina Faso",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The industrial sector of Burkina Faso remains in an embryonic stage, with primary activity concentrated in the cities of Bobo-Dioulasso, Ouagadougou, Banfora, and Koudougou.",
+        "• Manufacturing activities are limited mainly to food processing, textiles, and other import substitution industries that are heavily protected by tariffs.",
+        "• The manufacturing sector includes both privately owned factories and enterprises that are scheduled for privatization.",
+        "• Burkina Faso's natural resources are limited; however, there is a manganese ore deposit located in the remote northeast region of the country.",
+        "• Gold mining has experienced significant growth since the mid-1980s, becoming a major contributor to the country's exports alongside cotton.",
+        "• Gold and cotton are the leading export commodities of Burkina Faso, but both are reported to be produced predominantly using child labor and forced labor, as indicated in a recent report by the U.S. Department of Labor."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:57:57.052749",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_burkina_faso.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3",
+      "section_name": "Child labour",
+      "chapter_name": "Economy of Burkina Faso",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the United States Department of Labor in 2012, 37.8% of children aged 5-14 in Burkina Faso were engaged in work activities.",
+        "• In the same year, an additional 13.6% of children were both attending school and working simultaneously.",
+        "• Children working in granite quarries and gold mines during this period were subjected to extremely harsh conditions, working 6 to 7 days a week for up to 14 hours per day.",
+        "• The compensation for child workers in these hazardous environments was minimal, consisting primarily of food and a place to sleep, rather than monetary payment.",
+        "• Since 2012, the Burkina Faso government has implemented a National Action Plan aimed at combating child labor and trafficking.",
+        "• In collaboration with Interpol, the government has conducted rescue operations that have successfully freed many children from child trafficking networks.",
+        "• By 2023, the percentage of children involved in work in Burkina Faso had decreased slightly to 35.7%, as reported by the United States Department of Labor.",
+        "• The Christian Children's Fund of Canada (CCFC) has partnered with EDUCO, a member of the ChildFund Alliance, to execute a project funded by the European Union.",
+        "• This EU-funded initiative focuses on preventing children from working in mines in the northern regions of Burkina Faso."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:58:01.552557",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_burkina_faso.json",
+      "original_index": 4
+    }
+  ]
+}

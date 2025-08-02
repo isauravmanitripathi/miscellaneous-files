@@ -1,0 +1,364 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_sierra_leone.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.887422",
+    "total_sections_in_source": 14,
+    "extracted_sections_count": 14,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Sierra Leone had a gross domestic product (GDP) valued at $8.39 billion as of the year 2025.",
+        "• Since the conclusion of the Sierra Leone Civil War in 2002, the country’s economy has been gradually recovering, exhibiting a GDP growth rate ranging between 4% and 7%.",
+        "• In 2024, the International Monetary Fund (IMF) ranked Sierra Leone as the 149th largest economy globally based on purchasing power parity (PPP).",
+        "• Sierra Leone’s economic development has historically been hindered by an overreliance on mineral exploitation, particularly focusing on diamonds and gold as primary sources of foreign currency earnings and investment attraction.",
+        "• Successive governments and the general population have maintained the belief that diamonds and gold alone are sufficient to generate foreign currency and attract investment, leading to economic imbalance.",
+        "• Due to this overdependence on mineral resources, large-scale agriculture of commodity products, industrial development, and sustainable investments have been largely neglected by government policies.",
+        "• The economy of Sierra Leone is characterized as \"exploitative\" and akin to a rentier state, relying heavily on the extraction of unsustainable and non-reusable natural resources.",
+        "• Approximately two-thirds of Sierra Leone’s population are directly engaged in subsistence agriculture, highlighting the sector’s importance for livelihoods.",
+        "• In 2007, agriculture accounted for 58 percent of Sierra Leone’s national GDP, underscoring its significant role in the economy despite the focus on mineral resources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:42.276707",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The gross domestic product (GDP) of Sierra Leone at market prices, estimated by the International Monetary Fund and EconStats, is presented in millions of Sierra Leones for selected years between 1965 and 2000.",
+        "• In 1965, Sierra Leone's GDP was recorded at 246 million Sierra Leones.",
+        "• By 1970, the GDP increased to 355 million Sierra Leones.",
+        "• The GDP continued to grow, reaching 572 million Sierra Leones in 1975.",
+        "• In 1980, the GDP more than doubled to 1,155 million Sierra Leones.",
+        "• A significant rise occurred by 1985, with the GDP reaching 4,365 million Sierra Leones.",
+        "• In 1990, the GDP surged dramatically to 98,386 million Sierra Leones.",
+        "• By 1995, the GDP further expanded to 657,604 million Sierra Leones.",
+        "• In 2000, the GDP peaked at 1,330,429 million Sierra Leones.",
+        "• Sierra Leone's current GDP per capita experienced a growth of 32% during the 1960s.",
+        "• The GDP per capita growth rate peaked at 107% in the 1970s, indicating rapid economic expansion during that decade.",
+        "• This rapid growth was unsustainable, leading to a contraction of GDP per capita by 52% in the 1980s.",
+        "• The decline continued into the 1990s, with a further 10% reduction in GDP per capita.",
+        "• In 2009, the mean wage in Sierra Leone was recorded at US$0.32 per hour, reflecting low income levels within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:41.805752",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic sectors",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, agriculture was the dominant sector in Sierra Leone's economy, contributing 58.5% to the country's Gross Domestic Product (GDP).",
+        "• The sector categorized as \"Other Services\" accounted for 10.4% of Sierra Leone's GDP in 2007.",
+        "• Trade and tourism combined represented 9.5% of the GDP in Sierra Leone for the year 2007.",
+        "• Wholesale and retail trade contributed 9.0% to Sierra Leone's GDP in 2007, indicating a significant role in the economy.",
+        "• Mining and quarrying sectors together made up 4.5% of the GDP in Sierra Leone during 2007.",
+        "• Government services accounted for 4.0% of the GDP in Sierra Leone in the year 2007.",
+        "• Manufacturing and handicrafts were responsible for 2.0% of Sierra Leone's GDP in 2007, reflecting a smaller industrial base.",
+        "• The construction sector contributed 1.7% to the GDP of Sierra Leone in 2007.",
+        "• Electricity and water services were the smallest contributors to Sierra Leone's GDP in 2007, making up only 0.4%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:40.117863",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Two-thirds of Sierra Leone's population are directly engaged in subsistence agriculture, highlighting the sector's critical role in livelihoods.",
+        "• In 2007, agriculture contributed 58 percent to Sierra Leone's national Gross Domestic Product (GDP), underscoring its economic significance.",
+        "• Agriculture is the largest employment sector in Sierra Leone, providing jobs for 80 percent of the population.",
+        "• Rice is the most important staple crop in Sierra Leone, with 85 percent of farmers cultivating it during the rainy season.",
+        "• The annual per capita consumption of rice in Sierra Leone is 76 kilograms, reflecting its central role in the national diet."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:37.808037",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2016, approximately 12% of Sierra Leone's population had access to electricity, with 10% of this access concentrated in Freetown, while the remaining 90% of the population used only 2% of the nation's electricity.",
+        "• The majority of Sierra Leone's population relies on biomass fuels, predominantly firewood and coal, for their energy needs.",
+        "• The combustion of firewood and coal has been reported to cause adverse health effects, particularly impacting women and children.",
+        "• The use of coal and firewood raises environmental concerns, conflicting with efforts to promote more sustainable energy sources in Sierra Leone.",
+        "• The commercialization of firewood and coal has been contentious among aid donors and government agencies due to health and environmental implications.",
+        "• There have been strong initiatives to promote solar and hydropower as dominant energy sources, leveraging Sierra Leone's tropical climate, heavy annual rainfall, and abundant rivers.",
+        "• In partnership with the United Kingdom’s Department for International Development (DFID), Sierra Leone has set a goal to provide solar power access to all citizens by 2025.",
+        "• The solar power rollout targets included providing solar energy to at least 50,000 homes in 2016, 250,000 homes by 2017, and reaching 1,000,000 people by 2020 under the Energy Africa access campaign.",
+        "• Prior to this partnership, Sierra Leone’s private solar energy sector was weak, supplying energy to less than 5% of the target population, hindered by import duties, taxes, and lack of quality control.",
+        "• To facilitate the Energy Africa goals, Sierra Leone agreed to remove import duties and Value Added Tax (VAT) on certified solar products, which is estimated to reduce solar product costs by 30% to 40%.",
+        "• As of 2012, Sierra Leone had three main hydroelectric plants: the Guma plant (decommissioned in 1982), the Dodo plant in the Eastern Province, and the Bumbuna plant.",
+        "• The Bumbuna dam is the largest hydroelectric facility, estimated to produce about 50 megawatts of electricity.",
+        "• The Bumbuna dam is projected to reduce Sierra Leone’s expenditure on foreign fuel imports, potentially saving the country at least $2 million per month.",
+        "• There is potential for developing additional hydroelectric plants on several rivers, including the Sewa River, Pampana River, Seli River, Moa River, and Little Scarcies River."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:43.016863",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sierra Leone is rich in minerals and has historically depended on the mining sector, particularly diamonds, as the foundation of its economic base.",
+        "• During the 1970s and early 1980s, Sierra Leone experienced a slowdown in economic growth primarily due to a decline in the mining sector.",
+        "• The country faced financially disadvantageous exchange rates and government budget deficits, which contributed to significant balance-of-payments deficits and inflation.",
+        "• Policy responses to external economic factors, along with the implementation of aid projects and maintenance efforts, resulted in a general decline in overall economic activity.",
+        "• These policy measures and external challenges also caused serious degradation of Sierra Leone’s economic infrastructures.",
+        "• The short-term economic prospects of Sierra Leone are contingent upon continued adherence to International Monetary Fund (IMF) programs.",
+        "• Sustained external assistance is also critical for improving Sierra Leone’s economic outlook in the near future."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:39.550273",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Radio is the most popular and most trusted media source in Sierra Leone, with 72% of the population listening to the radio daily.",
+        "• Sierra Leone has one government-owned national radio station and approximately two dozen private radio stations.",
+        "• The country also has one government-owned television station and one private television station.",
+        "• Telephone and telegraph services in Sierra Leone are limited but show signs of improvement.",
+        "• Internet usage in Sierra Leone was low at 1.3% of the population in 2012.",
+        "• Internet access is improving due to the growth of 3G mobile cellular data services.",
+        "• The arrival of the ACE international fiber-optic cable system in mid-2011, landing in Freetown, has contributed to telecommunications improvements."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:40.966142",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the International Labour Organization, approximately 8,000 Sierra Leoneans are currently employed in the tourism industry.",
+        "• The tourism sector in Sierra Leone is anticipated to experience growth, with a rising number of jobs expected to be created in the future.",
+        "• Freetown International Airport serves as the primary entry point for tourists visiting Sierra Leone.",
+        "• Transportation to and from Freetown International Airport has been identified as problematic, posing challenges for tourist access.",
+        "• The principal attractions for tourists in Sierra Leone include its beaches, nature reserves, and mountains, which are key draws for visitors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:41.905989",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Due to widespread poverty, high petroleum prices, and a significant portion of the population living in small communities, walking is often the preferred mode of transportation in Sierra Leone.",
+        "• Sierra Leone has a total of 11,700 kilometres (7,270 miles) of highways, of which 936 kilometres (582 miles) are paved.",
+        "• The country possesses 800 kilometres (497 miles) of waterways, with 600 kilometres (373 miles) being navigable throughout the year.",
+        "• Major ports in Sierra Leone include Bonthe, Freetown, and Pepel, serving as key points for maritime transport and trade.",
+        "• Queen Elizabeth II Quay, located in Freetown, is Sierra Leone’s only deep-water port facility capable of accommodating large-hulled cargo ships and military vessels.",
+        "• Sierra Leone has ten airports in total; among these, Lungi International Airport in Freetown is the only one with a paved runway exceeding 3,000 metres in length.",
+        "• Of the remaining nine airports, all have unpaved runways; seven of these have runway lengths ranging between 914 metres (2,999 feet) and 1,523 metres (4,997 feet), while the other two have shorter runways.",
+        "• The country also has two heliports, although their specific locations are not detailed in the available information."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:43.252757",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3",
+      "section_name": "Trade and investment",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, mineral exports remained the principal source of foreign exchange earnings for Sierra Leone, underscoring the country's reliance on its natural resource sector for economic stability.",
+        "• Sierra Leone is recognized as a major global producer of gem-quality diamonds, a resource that has historically posed significant challenges in terms of management, exploitation, and export regulation.",
+        "• Annual diamond production estimates in Sierra Leone vary widely, ranging from $70 million to $250 million; however, only a small fraction of this production is officially recorded through formal export channels.",
+        "• Recorded formal diamond exports were notably low in the late 1990s and early 2000s, with $1.2 million in 1999, increasing to $16 million in 2000, and projected to reach $25 million in 2001.",
+        "• The substantial discrepancy between estimated production and formal exports is attributed to widespread smuggling, which has financed rebel activities, money laundering, arms purchases, and other illicit operations, leading to the characterization of Sierra Leone's diamonds as a \"conflict resource.\"",
+        "• In October 2000, Sierra Leone implemented a new United Nations-approved export certification system aimed at regulating diamond exports, which resulted in a significant increase in legal diamond exports.",
+        "• In 2001, the Government of Sierra Leone established a mining community development fund designed to allocate a portion of diamond export taxes back to diamond mining communities, thereby incentivizing local participation and investment in the legal diamond trade.",
+        "• Sierra Leone possesses one of the world's largest deposits of rutile, a titanium ore used primarily as a pigment in paint and in welding rod coatings, highlighting the country's mineral wealth beyond diamonds.",
+        "• Sierra Rutile Limited, a company fully owned by Nord Resources of the United States, commenced commercial rutile mining operations near Bonthe in early 1979, marking the largest non-petroleum U.S. investment in West Africa at that time.",
+        "• In 1990, Sierra Rutile Limited exported 88,000 tons of rutile, generating $75 million in revenue for Sierra Leone, demonstrating the economic significance of rutile mining.",
+        "• That same year, Sierra Rutile Limited and the Government of Sierra Leone negotiated a new agreement concerning the terms of the company's mining concession, reflecting ongoing government engagement in the sector.",
+        "• Mining operations for rutile and bauxite were suspended in 1995 following rebel invasions of mining sites, disrupting production and export activities.",
+        "• Negotiations to reactivate rutile and bauxite mining operations have been ongoing, indicating efforts to restore this important sector.",
+        "• The U.S. ownership interest in Sierra Rutile Limited has decreased from full ownership to 25%, reflecting changes in foreign investment stakes over time.",
+        "• Since gaining independence, the Government of Sierra Leone has actively encouraged foreign investment, despite challenges posed by political instability and civil conflict, which have contributed to an uncertain business environment and foreign exchange shortages.",
+        "• Investor protections in Sierra Leone include an agreement permitting arbitration under the 1965 World Bank Convention, providing a legal framework for dispute resolution.",
+        "• National legislation in Sierra Leone guarantees the transferability of investment interests, dividends, and capital, aiming to create a more favorable climate for foreign investors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:08.223315",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Central Asia",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 8 April 2025, Sierra Leone’s Minister of Foreign Affairs, Timothy Musa Kabba, conducted his first official visit to Kazakhstan.",
+        "• During the visit, Timothy Musa Kabba met with Kazakhstan’s Deputy Prime Minister and Foreign Minister, Murat Nurtleu.",
+        "• The two countries agreed to enhance bilateral cooperation in several sectors, including trade, transport and logistics, healthcare, agriculture, and information technology (IT).",
+        "• Kazakhstan, recognized as a major global grain producer, proposed utilizing the Trans-Caspian International Transport Route to supply African markets with food products.",
+        "• The Kazakhstan Agency for International Development shared components of its e-Government platform with Sierra Leone, building upon a previously established memorandum of understanding between the two nations.",
+        "• A Roadmap for Cooperation was signed between the foreign ministries of Sierra Leone and Kazakhstan to formalize and guide their collaborative efforts.",
+        "• Sierra Leone expressed support for Kazakhstan’s initiative to establish a United Nations Regional Center for Sustainable Development Goals in Almaty."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:46.393422",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4",
+      "section_name": "Currency and central bank",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The official currency of Sierra Leone is the Leone, abbreviated as NLE.",
+        "• The central banking authority of Sierra Leone is the Bank of Sierra Leone, which is headquartered in the capital city, Freetown.",
+        "• Sierra Leone employs a floating exchange rate system for its currency valuation.",
+        "• Foreign currencies can be exchanged within Sierra Leone at commercial banks, officially recognized foreign exchange bureaux, and most hotels.",
+        "• The use of credit cards in Sierra Leone is limited and generally accepted only at select hotels and restaurants.",
+        "• In Freetown, there are a limited number of internationally connected automated teller machines (ATMs) that accept Visa cards, operated by ProCredit Bank."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:45.082493",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "5",
+      "section_name": "Membership of international economic bodies",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sierra Leone is a member of the Economic Community of West African States (ECOWAS), a regional economic union aimed at promoting economic integration and cooperation among West African countries.",
+        "• Together with Liberia and Guinea, Sierra Leone formed the Mano River Union (MRU) customs union, which was primarily established to implement development projects and enhance regional economic integration among the three member states.",
+        "• The Mano River Union (MRU) has remained largely inactive due to domestic challenges and internal as well as cross-border conflicts affecting Sierra Leone, Liberia, and Guinea.",
+        "• The future viability and effectiveness of the MRU depend on the member countries' capacity to resolve and manage the consequences of their internal conflicts and regional instability.",
+        "• Sierra Leone is also a member of the World Trade Organization (WTO), participating in the global multilateral trading system."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:46.336894",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "6",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Sierra Leone",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sierra Leone's GDP based on purchasing power parity was estimated at $11.55 billion in 2017.",
+        "• The real GDP growth rate for Sierra Leone was 3.7% in 2017.",
+        "• GDP per capita in Sierra Leone was approximately $1,600 in 2017.",
+        "• Gross national savings accounted for 10% of GDP in 2017.",
+        "• The GDP composition by sector in 2017 was predominantly agriculture at 60.7%, followed by services at 32.9%, and industry at 6.5%.",
+        "• As of 2004, 70.2% of Sierra Leone’s population lived below the poverty line.",
+        "• The Gini index measuring income distribution was 34 in 2011, indicating moderate income inequality.",
+        "• The inflation rate based on consumer prices was 18.2% in 2017.",
+        "• The labor force was estimated at 2.972 million people in 2017.",
+        "• Labor force distribution by occupation in 2014 showed 61.1% in agriculture, 33.4% in services, and 5.5% in industry.",
+        "• The unemployment rate was estimated at 15% in 2017.",
+        "• The government budget in 2017 reported revenues of $562 million and expenditures of $846.4 million.",
+        "• Sierra Leone ran a budget deficit equal to 7.9% of GDP in 2017.",
+        "• Public debt stood at 63.9% of GDP in 2017.",
+        "• Key industries included diamond mining, iron ore, rutile and bauxite mining, and small-scale manufacturing such as beverages, textiles, and footwear.",
+        "• Industrial production growth rate was notably high at 15.5% in 2017.",
+        "• Electrification rates in 2013 were very low: 5% of the total population had access to electricity, with urban electrification at 11% and rural electrification at only 1%.",
+        "• Electricity production in 2016 was estimated at 300 million kWh.",
+        "• The electricity production mix in 2017 consisted of 51% hydroelectric power, 26% from other renewable sources, and 23% from fossil fuels; nuclear power contributed 0%.",
+        "• Electricity consumption was 279 million kWh in 2016.",
+        "• Sierra Leone neither exported nor imported electricity in 2016, with both values at 0 kWh.",
+        "• Major agricultural products included rice, coffee, cocoa, palm kernels, palm oil, peanuts, cashews, poultry, cattle, sheep, pigs, and fish.",
+        "• Total exports were valued at $808.4 million in 2017.",
+        "• Export commodities comprised iron ore, diamonds, rutile, cocoa, coffee, and fish.",
+        "• Principal export partners in 2017 were Côte d’Ivoire (37.7%), Belgium (20.5%), the United States (15.7%), China (10.2%), and the Netherlands (6.1%).",
+        "• Imports totaled $1.107 billion in 2017.",
+        "• Import commodities included foodstuffs, machinery and equipment, fuels and lubricants, and chemicals.",
+        "• Major import partners in 2017 were China (11.5%), the United States (9.2%), Belgium (8.8%), the United Arab Emirates (7.7%), India (7.4%), Turkey (5.2%), Senegal (5.1%), and the Netherlands (4.3%).",
+        "• External debt was recorded at $1.615 billion as of 31 December 2017.",
+        "• Reserves of foreign exchange and gold amounted to $478 million as of 31 December 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:56.756308",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_sierra_leone.json",
+      "original_index": 13
+    }
+  ]
+}

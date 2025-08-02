@@ -1,0 +1,156 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_kiribati.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.201196",
+    "total_sections_in_source": 5,
+    "extracted_sections_count": 5,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Kiribati",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Republic of Kiribati had a per capita Gross National Product (GNP) of US$1,420 in 2010, making it the poorest country in Oceania.",
+        "• Phosphates were profitably exported from Banaba Island since the early 20th century; however, these deposits were exhausted in 1979.",
+        "• The current Kiribati economy primarily relies on foreign assistance and revenue generated from fishing licenses to fund its imports and development budget.",
+        "• The Asian Development Bank’s assessment of Kiribati’s growth potential highlights several constraints, including:"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:24.017211",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_kiribati.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Government revenue",
+      "chapter_name": "Economy of Kiribati",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The expiration of phosphate deposits in 1979 had a devastating impact on Kiribati's economy, as phosphate revenues previously accounted for approximately 80% of export earnings and 50% of government revenue.",
+        "• Between 1979 and 1981, Kiribati's per capita GDP was more than halved due to the loss of phosphate income.",
+        "• A sovereign wealth fund financed by phosphate earnings was established in 1956 to manage resource revenues.",
+        "• In 2008, the Revenue Equalization Reserve Fund (RERF) was valued at US$400 million, emphasizing its importance for the country's long-term economic stability.",
+        "• The management of the RERF is considered crucial for Kiribati’s future welfare, highlighting the need for prudent financial stewardship.",
+        "• In 2009, the RERF was valued at A$570.5 million, representing a decline from A$637 million in 2007, which was 420% of Kiribati’s GDP, to 350% of GDP in 2009.",
+        "• The decline of the RERF assets was attributed to the 2008 global financial crisis, including losses from failed Icelandic banks and government withdrawals to cover budget shortfalls.",
+        "• The IMF country report of May 2011 described the impact of the Global Financial Crisis (GFC) on Kiribati as a fall in remittances and a significant decline in the value of its wealth and pension funds, specifically the RERF and the Kiribati Provident Fund.",
+        "• The 2008 spike in food and fuel prices adversely affected Kiribati’s economic activity, compounding vulnerabilities caused by climate change issues such as coastline erosion.",
+        "• Kiribati derives a substantial portion of its income from abroad through sources such as fishing licenses, development assistance, worker remittances, and tourism.",
+        "• Due to limited domestic production capacity, Kiribati relies heavily on imports for essential foodstuffs and manufactured goods, making external income sources vital for its economy.",
+        "• Fishing license fees from fleets from South Korea, Japan, China, Taiwan, and the United States generated A$25.4 million in 2007, A$32.2 million in 2008, and A$29.5 million in 2009.",
+        "• El Niño climatic conditions temporarily boosted local fish catches, increasing revenue from fishing licenses.",
+        "• Kiribati also loses significant income annually from illegal, unlicensed fishing within its exclusive economic zone, due to its small size and dispersed islands.",
+        "• Visitor arrivals, primarily for business, totaled 3,380 in 2008 and increased to 3,915 in 2009, generating between $5 million and $10 million in revenue.",
+        "• Tourism attractions include World War II battle sites, game fishing, ecotourism, and Caroline Island, notable for being the first place on Earth to celebrate New Year due to its position just inside the International Date Line.",
+        "• Most islanders engage in subsistence activities such as fishing and cultivating food crops like bananas, breadfruit, and papaya.",
+        "• The leading export of Kiribati is copra, a coconut product, which accounts for about two-thirds of export revenue.",
+        "• Additional exports include pet fish, shark fins, and seaweed.",
+        "• Australia is Kiribati’s principal trading partner.",
+        "• Remittances from Kiribati seamen working on foreign-flagged ships amounted to A$11.6 million in 2009.",
+        "• The May 2011 IMF report noted that after two years of economic contraction, Kiribati’s economy recovered in the second half of 2010 with an estimated growth of 1¾ percent for the year.",
+        "• Despite a weather-related decrease in copra production, private sector activity, especially in retail, showed signs of recovery.",
+        "• Tourist arrivals increased by 20 percent in 2010 compared to 2009, although from a very low base.",
+        "• Inflation, which had peaked during the 2008 crisis, declined into negative territory due to the appreciation of the Australian dollar (used as the domestic currency) and a decrease in the global price of rice.",
+        "• Credit growth in Kiribati’s economy declined in 2009 amid stalled economic activity but began to recover in the latter half of 2010 as economic conditions improved."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:34.577946",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_kiribati.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Financial sector",
+      "chapter_name": "Economy of Kiribati",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The primary financial institutions in Kiribati include the Development Bank of Kiribati (DBK), which is wholly owned by the government.",
+        "• The sole commercial bank operating in Kiribati is ANZ Bank (Kiribati) Limited, formerly known as the Bank of Kiribati.",
+        "• Insurance services in Kiribati are provided by the Kiribati Insurance Corporation, another government-owned entity.",
+        "• The Kiribati Provident Fund (KPF), also owned by the government, manages the assets of the national pension system.",
+        "• As of 2010, the assets managed by the KPF amounted to approximately 60 percent of Kiribati’s Gross Domestic Product (GDP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:37.239319",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_kiribati.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "International development assistance",
+      "chapter_name": "Economy of Kiribati",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Kiribati benefits significantly from international development assistance programs provided by various donors.",
+        "• In 2009, multilateral donors contributing development assistance to Kiribati included the European Union (A$9 million), the United Nations Development Program (A$3.7 million), and the World Health Organization (A$100,000).",
+        "• During the same year, bilateral donors providing development assistance were Australia (A$11 million), Japan (A$2 million), New Zealand (A$6.6 million), Taiwan (A$10.6 million), and other donors contributing a total of A$16.2 million, which included technical assistance grants from the Asian Development Bank.",
+        "• In 2010/2011, the major donors were Australia (A$15 million), Taiwan (A$11 million), New Zealand (A$6 million), the World Bank (A$4 million), and the Asian Development Bank.",
+        "• Kiribati became a member of the Asian Development Bank (AsDB) in 1974.",
+        "• The AsDB has provided a total of US$27.14 million through seven project loans from the Asian Development Fund (ADF) to Kiribati.",
+        "• Additionally, the AsDB has provided US$13.9 million in technical assistance funding for 41 projects in Kiribati.",
+        "• Australia remains the largest donor to Kiribati, having committed A$28.2 million in development assistance for the year 2011-12.",
+        "• The Australia-Kiribati Partnership for Development, signed in January 2009, directs Australian aid towards improving basic education standards, developing workforce skills, and strengthening economic governance.",
+        "• Australian development assistance is allocated as follows: A$18.3 million for the AusAID country program (2011–12 estimated) and A$9.9 million for regional assistance (2011–12 estimated).",
+        "• New Zealand committed NZ$14.3 million in development assistance for 2011-12, primarily through the NZAID bilateral program, focusing on economic development, education, workforce skills development, and addressing vulnerabilities in Kiribati.",
+        "• Kiribati joined the World Bank in 1986.",
+        "• On 1 March 2011, the World Bank announced a Country Assistance Strategy (CAS) for Kiribati, structured around two main themes: (i) addressing the existential threat posed by climate change and (ii) mitigating the effects of geographic isolation.",
+        "• The CAS aims to implement grants and trust fund investments totaling up to US$50 million during the period 2011 to 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:43.998603",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_kiribati.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "GDP and other economic performance indicators",
+      "chapter_name": "Economy of Kiribati",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The article incorporates public domain material from _The World Factbook_, published by the CIA.",
+        "• Additional information is sourced from the \"Kiribati: 2011 Article IV Consultation—Staff Report, Informational Annexes, Debt Sustainability Analysis, Public Information Notice on the Executive Board Discussion, and Statement by the Executive Director for Kiribati,\" published as International Monetary Fund (IMF) Country Report No. 11/113 on 24 May 2011, retrieved on 10 September 2011.",
+        "• Further statistical data is provided in the \"Kiribati: Statistical Appendix,\" also from IMF Country Report No. 11/114, dated 24 May 2011, retrieved on 10 September 2011.",
+        "• Kiribati's Gross Domestic Product (GDP) based on purchasing power parity (PPP) was estimated at US$618 million in 2010.",
+        "• The official exchange rate GDP was approximately US$147 million in 2010.",
+        "• The real GDP growth rate was -0.7% in 2009, increased to an estimated 1.8% in 2010, with a projected growth of 3% for 2011.",
+        "• The GDP per capita in 2010 was US$1,420.",
+        "• The sectoral composition of GDP in 2002 was: agriculture at 8.9%, industry at 24.2%, and services at 66.8%.",
+        "• The inflation rate, measured by consumer prices, was 8.8% in 2009 and decreased to -2.8% in 2010.",
+        "• The total population was approximately 103,280 as of July 2011 estimate.",
+        "• The labor force, excluding subsistence farmers, was about 7,870 economically active individuals according to 2001 estimates.",
+        "• The unemployment rate is not available (N/A).",
+        "• The total government budget for 2010 included revenues and grants of A$124.4 million, with an estimated figure of A$136.9 million.",
+        "• Total expenditures for the 2010 budget were A$143.3 million, with an estimated expenditure of A$150.1 million in 2010.",
+        "• Electricity production in 1998 was entirely from fossil fuels, accounting for 100%, with no other sources reported.",
+        "• Electricity production was approximately 14 million kWh in 2007.",
+        "• Electricity consumption in 2007 was approximately 13.02 kWh.",
+        "• Key agricultural products include copra, taro, breadfruit, sweet potatoes, vegetables, and fish.",
+        "• The currency used is the Australian dollar (A$), with 1 A$ equal to 100 cents.",
+        "• Exchange rates for the Australian dollar per US dollar were: 1.0902 in 2010, 1.2822 in 2009, 1.2059 in 2008, 1.2137 in 2007, and 1.3285 in 2006.",
+        "• The Australian dollar (A$) is the official currency of Kiribati."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:49.617940",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_kiribati.json",
+      "original_index": 4
+    }
+  ]
+}

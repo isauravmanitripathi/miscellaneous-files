@@ -1,0 +1,391 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_uruguay.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.372050",
+    "total_sections_in_source": 16,
+    "extracted_sections_count": 16,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Uruguay is characterized by an export-oriented agricultural sector and a well-educated workforce, supported by high levels of social spending.",
+        "• Key economic sectors in Uruguay include tourism and banking, with the country serving as a regional hub for international finance and tourism.",
+        "• Uruguay has a historical tradition of advanced workers’ rights protections, including strong union representation and the establishment of the eight-hour workday at the beginning of the 20th century.",
+        "• Approximately 90% of Uruguay’s population is urbanized, with the majority of industry and over half of the population concentrated in the capital city, Montevideo.",
+        "• Between 1996 and 1998, Uruguay experienced an average annual economic growth rate of 5%.",
+        "• From 1999 to 2002, Uruguay’s economy underwent a significant downturn primarily due to the spillover effects of economic crises in its neighboring countries, Argentina and Brazil.",
+        "• During 2001–2002, a banking crisis occurred in Uruguay when Argentine citizens withdrew large amounts of dollars from Uruguayan banks following the freezing of bank deposits in Argentina.",
+        "• The massive withdrawals by Argentines led to a sharp depreciation of the Uruguayan peso, culminating in the 2002 Uruguay banking crisis."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:28.014479",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "19th century",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 19th century, Uruguay exhibited characteristics common to many Latin American countries, including caudillismo (strongman rule), frequent civil wars, and ongoing political instability, evidenced by 40 revolts occurring between 1830 and 1903.",
+        "• Foreign capitalism exerted significant control over key sectors of Uruguay's economy during this period, influencing the development and ownership of major industries and infrastructure.",
+        "• Illiteracy was a major social issue, with more than half of Uruguay's population being illiterate by the year 1900.",
+        "• British investors were prominent among foreign capitalists, owning approximately 22% of Uruguay’s land and controlling significant portions of the country's industrial infrastructure.",
+        "• British investments extended to critical industries such as meatpacking and the leather industry, as well as essential utilities including water and gas services.",
+        "• The British also dominated transportation infrastructure, owning trolley systems and approximately 1,100 miles of railway lines within Uruguay.",
+        "• In 1857, Uruguay established its first nationally owned bank, the Banco Comercial, marking a significant development in the country’s financial sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:25.123774",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "Reforms after Batlle",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• José Batlle y Ordóñez served as President of Uruguay from 1903 to 1907 and again from 1911 to 1915, establishing the foundation for Uruguay's modern political development and maintaining political dominance until his death in 1929.",
+        "• Batlle implemented extensive political, social, and economic reforms, including the introduction of a welfare program, increased government participation in various economic sectors, and the promulgation of a new constitution.",
+        "• Key reforms under Batlle included the nationalization of foreign-owned companies and the creation of a modern social welfare system aimed at improving public welfare.",
+        "• In 1905, Batlle abolished income tax for lower-income earners, reflecting a progressive approach to taxation.",
+        "• By 1906, secondary schools were established in every city across Uruguay, expanding educational access nationwide.",
+        "• The telephone network was nationalized during Batlle’s administration, enhancing state control over communication infrastructure.",
+        "• Unemployment benefits were introduced in 1914, providing social security measures for workers.",
+        "• The eight-hour working day was legislated in 1915, marking a significant labor reform to improve working conditions.",
+        "• By 1929, Uruguay’s manufacturing sector was highly concentrated, with 84% of industrial production focused on a few key industries: meatpacking, leather, and wool.",
+        "• Industrial policies under Batlle encouraged migration from rural to urban areas, as well as attracting waves of immigrants from southern and eastern Europe, contributing to urban growth and demographic changes.",
+        "• Significant investments were made in urban infrastructure, particularly in Montevideo, supporting the city’s expansion and economic development.",
+        "• Uruguay’s growing economy and modernization efforts culminated in hosting the first FIFA World Cup in 1930, showcasing the country on the international stage.",
+        "• Claudio Williman, who served as President between Batlle’s two terms, was a supporter of Batlle’s reforms and continued their implementation during his administration.",
+        "• Baltasar Brum, President from 1919 to 1923, also upheld and advanced the reformist policies initiated by Batlle.",
+        "• Around the year 1900, Uruguay had one of the world’s lowest infant mortality rates (IMR), indicating a notably healthy population and effective public health measures.",
+        "• The Great Depression severely impacted Uruguay’s economy, bringing an end to the period of export-led economic growth that had characterized the country’s development up to that point."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:32.904755",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "Mid-20th century",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1930 and 1955, Uruguay's economy transitioned from being agriculture-dominated to industrial, resulting in a sluggish economic performance due to neglecting its comparative advantage in agriculture and diverting resources to an inefficient manufacturing sector.",
+        "• The Uruguayan government implemented import substitution industrialization policies during this period, aiming to strengthen the manufacturing sector by disincentivizing imports.",
+        "• From the 1950s onward, Uruguay experienced economic decline.",
+        "• Anthropology professor Daniel Renfrew characterizes the 1950s, 1960s, and the dictatorship period of the 1970s and 1980s as times of economic downturn, followed by further economic degradation attributed to neoliberalism.",
+        "• Economist Jamie Mezzera contests Renfrew’s view, asserting that between 1968 and 1972, Uruguay was among the most regulated capitalist economies globally, with the government imposing massive increases in import tariffs and near-total wage and price controls.",
+        "• These regulatory policies were instituted to avoid political pressure that would arise from currency devaluation.",
+        "• From 1955 to 1972, Uruguay’s economic output stagnated.",
+        "• After the removal of most price and wage controls in 1973, Uruguay’s economic growth accelerated to an average of 4.3% per year until 1979.",
+        "• During the 1990s and early 2000s, the Colorado Party, led by Julio María Sanguinetti and Jorge Batlle, pursued neoliberal policies aligned with global trends, facilitating a shift away from manufacturing and small-scale agriculture toward monoculture agriculture and service sectors such as finance and tourism.",
+        "• These neoliberal policies lost momentum due to regional economic problems in Argentina and Brazil, which caused an economic downturn and rising unemployment in Uruguay from 1998 to 2003.",
+        "• The ensuing economic and social crises contributed to the election of the Broad Front, a leftist coalition opposing neoliberal policies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:25.534298",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1",
+      "section_name": "Currency",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Uruguay operates a partially dollarized economy, indicating the coexistence of the Uruguayan peso and the United States dollar in financial transactions.",
+        "• As of August 2008, approximately 60% of bank loans in Uruguay were denominated in United States dollars, reflecting significant reliance on the dollar for credit.",
+        "• Despite the prevalence of dollar-denominated loans, the majority of everyday transactions in Uruguay are conducted using the Uruguayan peso.",
+        "• The Uruguayan peso is currently minted in coin denominations of 1, 2, 5, 10, and 50 pesos, facilitating small-value transactions.",
+        "• Banknotes of the Uruguayan peso are issued in denominations of 20, 50, 100, 200, 500, 1000, and 2000 pesos, supporting a wide range of monetary exchanges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:26.458256",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Agriculture, textiles and leather",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Throughout Uruguay's history, the country's strongest exporting industries have been beef and wool, forming the backbone of its agricultural export economy.",
+        "• Uruguay's beef exports have significantly benefited since the country joined the Mercosur trade agreement in 1991, enabling access to more distant markets, including Japan.",
+        "• In 2018, Uruguay produced 589 thousand tons of beef, reflecting the continued importance of this sector to the national economy.",
+        "• Wool exports from Uruguay have faced challenges in recent years due to increased competition from countries such as New Zealand and demand fluctuations caused by the 2008 recession in developed economies.",
+        "• Forestry has emerged as a growth industry in Uruguay in recent years, partly because timber refining processes are maintained domestically, adding value within the country.",
+        "• In 2018, Uruguay's agricultural production included: 1.36 million tons of rice, 1.33 million tons of soy, 816 thousand tons of maize, 637 thousand tons of barley, 440 thousand tons of wheat, 350 thousand tons of sugar cane, 106 thousand tons of oranges, 104 thousand tons of grapes, 90 thousand tons of rapeseed, 87 thousand tons of potatoes, 76 thousand tons of sorghum, 71 thousand tons of tangerines, 52 thousand tons of oats, and 48 thousand tons of apples, alongside smaller quantities of other agricultural products.",
+        "• The Liebig Extract of Meat Company operated a large and influential beef extract factory in Fray Bentos, Uruguay, for a century, marking a significant historical industrial presence in the country's meat processing sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:29.375474",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Uruguay’s energy sector encompasses the production, consumption, and importation of energy and electricity within the country.",
+        "• As a significant component of its climate mitigation strategy and energy transformation efforts, Uruguay has successfully converted over 98% of its electrical grid to sustainable energy sources.",
+        "• The primary sustainable energy sources contributing to Uruguay’s electrical grid are solar power, wind power, and hydroelectric power.",
+        "• Fossil fuels in Uruguay are mainly imported and utilized for transportation purposes, industrial applications, and domestic cooking.",
+        "• The country’s energy supply is substantially supported by four hydroelectric dams, which provide a large portion of Uruguay’s electricity.",
+        "• Wind turbines are notably present in the Tacuarembó Department, indicating regional investment in wind energy infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:29.219387",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Software",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Over the last several decades, Uruguay's software industry has experienced significant development and growth.",
+        "• Numerous start-ups originating in Uruguay have achieved considerable success, with PedidosYa and DLocal being prominent examples.",
+        "• Uruguay is an exporter of software services, leveraging its geographic longitude, which closely aligns with that of the United States, making it an attractive destination for companies seeking to outsource software development.",
+        "• Additional notable Uruguayan software companies include Genexus, Códigos del Sur, and Overactive, highlighting the diversity and strength of the national software sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:27.168771",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The mining sector in Uruguay does not make substantial contributions to the country's overall economy but has seen some activity in recent years, particularly in gold and cement production as well as granite extraction.",
+        "• The Artigas Department in Uruguay is notably recognized for mining varieties of amethyst and agate quartz.",
+        "• During the 2010s, approximately 20,000 tons of minerals were extracted from the Artigas Department.",
+        "• The extracted minerals during this period had a total value of 9 million US dollars.",
+        "• These minerals were exported to several countries, including Germany, the United States, Brazil, and China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:33.042469",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Plastics",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2011, plastics constituted the second-largest non-agricultural industrial export of Uruguay."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:27.879151",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Uruguay has achieved one of the highest telecommunication density levels in South America despite having poor levels of investment in the fixed-line sector.",
+        "• The small size of Uruguay's population has facilitated reaching a 100% digitalization of main telephone lines.",
+        "• The telecommunications sector in Uruguay has been under a state monopoly for several years.",
+        "• Provisions have been made to introduce liberalization in the telecommunications sector.",
+        "• These provisions aim to allow the entry of more firms into the cellular telecommunications market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:30.141385",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "Travel and tourism",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, travel and tourism contributed 9.4% to Uruguay's Gross Domestic Product (GDP), highlighting the sector's significant role in the national economy.",
+        "• Uruguay's tourist industry is predominantly characterized by attracting visitors from neighboring countries, indicating a regional focus in its tourism market.",
+        "• The primary tourist attraction in Uruguay is the interior region, with particular emphasis on the area surrounding Punta del Este, which is recognized as a major destination within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:30.546719",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2",
+      "section_name": "Specialties",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Cattle were introduced to Uruguay prior to its independence by Hernando Arias de Saavedra, the Spanish Governor of Buenos Aires, in 1603; by 2006, beef exports accounted for approximately 37% of Uruguay's total exports.",
+        "• Wool is a traditional Uruguayan export product, primarily shipped to markets in America, followed by the United Kingdom and India.",
+        "• Milk and dairy products form a significant export sector, with Conaprole, the National Cooperative of Milk Producers, recognized as the leading dairy product exporter in Latin America as of 2006; dairy production is concentrated mainly in the southwest region of Uruguay.",
+        "• Rice cultivation focuses on fine varieties grown in the eastern lowlands near Merín Lake on the Uruguay-Brazil border; the national company Saman claims to be the principal rice exporter in Latin America, exporting to countries including Brazil, Iran, Peru, South Africa, Chile, Senegal, Argentina, Paraguay, Bolivia, Ecuador, the USA, Canada, and China.",
+        "• Tourism is a vital sector, with notable seaside resorts such as Punta del Este and Punta del Diablo located in the southeastern departments of Maldonado and Rocha; Punta del Este is regarded as a jet-set resort in South America.",
+        "• Montevideo serves as a port of call for international cruises from October to March annually and hosts numerous year-round international conferences; notably, the original GATT Uruguay Round trade negotiations were held in Uruguay.",
+        "• Montevideo is the headquarters of Mercosur (Common Market of the South), whose full members include Uruguay, Argentina, Brazil, Paraguay, and Venezuela, with associate members Bolivia, Chile, Colombia, Ecuador, and Peru.",
+        "• Uruguay’s software and consulting industry benefits from a well-educated workforce and comparatively lower wages, establishing the country as an emerging IT hub; the software product GeneXus, developed by the Uruguayan company ArTech, is particularly notable.",
+        "• Other significant IT developers and consulting firms include De Larrobla & Asociados, Greycon, and Quanam; Tata Consultancy Services has established its Spanish-speaking world headquarters in Uruguay.",
+        "• According to The New York Times on September 22, 2006, Uruguay, with a population of only three million, has rapidly become Latin America’s outsourcing hub, with engineers in Montevideo collaborating with counterparts in Mumbai.",
+        "• Banking services constitute a historically strong export sector, with Uruguay once nicknamed \"the Switzerland of America\" due to its banking sector and economic stability.",
+        "• The largest bank in Uruguay is the state-owned Banco República (BROU), alongside another important state bank, BHU; nearly 20 private banks operate in Uruguay, mostly branches of international banks such as Banco Santander, ABN AMRO, and Citibank.",
+        "• Numerous brokerage and financial services firms operate in Uruguay, including Ficus Capital, Galvin Sociedad de Bolsa, Europa Sociedad de Bolsa, Darío Cukier, GBU, and Hordeñana & Asociados Sociedad de Bolsa.",
+        "• Uruguay has fully recovered from a financial crisis that previously caused a run on its banks.",
+        "• The public sector plays a significant role in Uruguay’s economy, with the country resisting regional trends toward privatization of utilities and state-owned enterprises; multiple referendums have supported state control over key utilities and energy companies.",
+        "• Some state-owned companies hold legal monopolies (e.g., landline telephony and water), while others compete with private operators in sectors such as insurance, mobile telephony, and banking, often maintaining dominant market positions.",
+        "• There is ongoing societal debate in Uruguay regarding the role and future of state-owned enterprises, some of which contribute to the national treasury.",
+        "• Major state-owned companies include Republica AFAP (Pension Fund), AFE (Railways), ANCAP (Energy), ANCO (Mail), Administración Nacional de Puertos (Ports), ANTEL (Telecommunications, including Telephony, Mobiles via ANCEL, and Data via ANTELDATA), BHU (Mortgage Bank), BROU (Bank), BSE (Insurance), OSE (Water and Sewage), and UTE (Electricity).",
+        "• These companies operate under public law as 'Ente Autónomo' (Autonomic Entities), a legal status defined in the Uruguayan Constitution.",
+        "• The government also holds partial or full ownership of other companies operating under private law, such as the national airline carrier PLUNA and various enterprises owned wholly or partially by the Corporación Nacional para el Desarrollo (CND, National Development Corporation)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:44.579385",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3",
+      "section_name": "Trade agreements",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Mercosur trade agreement was signed and became effective in November 1991, establishing a foundational free trade area involving Uruguay.",
+        "• Economic Complementation Agreement (ECA) No. 36 between Mercosur and Bolivia was signed in December 1996 and came into effect in February 1997, facilitating trade relations between these parties.",
+        "• A Free Trade Agreement (FTA) with Mexico was signed in November 2003 and became effective in July 2004, enhancing bilateral trade between Uruguay and Mexico.",
+        "• ECA No. 59 with Ecuador was signed in October 2004 and took effect in April 2005, promoting economic cooperation between Mercosur and Ecuador.",
+        "• ECA No. 58 between Mercosur and Peru was signed in August 2005 and became effective in December 2005, further integrating trade within the region.",
+        "• ECA No. 62 between Mercosur and Cuba was signed in July 2006 and came into force in September 2008, establishing preferential trade terms.",
+        "• The Commercial Preference Agreement between Mercosur and India was signed in January 2004 and became effective in June 2009, aiming to enhance trade relations between the two regions.",
+        "• The FTA between Mercosur and Israel was signed in December 2007 and took effect in December 2009, facilitating bilateral trade and economic cooperation.",
+        "• Partial Agreement No. 63 with Venezuela was signed in December 2012 and became effective in March 2013, providing preferential trade conditions.",
+        "• The Commercial Preference Agreement between Mercosur and the Southern African Customs Union (SACU) was signed in September 2011 and came into effect in April 2016, promoting trade between these regions.",
+        "• The FTA between Mercosur and Egypt was signed in December 2015 and became effective in September 2017, expanding trade opportunities.",
+        "• ECA No. 72 between Mercosur and Colombia was signed in July 2017 and took effect in December 2017, enhancing economic integration.",
+        "• The FTA with Chile was signed in October 2016 and became effective in December 2018, strengthening trade ties between Uruguay and Chile.",
+        "• A concluded but not yet in force FTA between Mercosur and the State of Palestine was signed in December 2011, pending implementation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:40.080490",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4",
+      "section_name": "Data",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1980 to 2021, Uruguay's GDP in billion US$ PPP increased from 14.8 to 85.9, with IMF staff estimates projecting growth to 123.3 billion US$ PPP by 2027.",
+        "• GDP per capita in US$ PPP rose from 5,050.0 in 1980 to 24,233.1 in 2021, with projections reaching 34,153.7 by 2027.",
+        "• Nominal GDP in billion US$ grew from 12.2 in 1980 to 59.3 in 2021, with forecasts estimating 82.0 billion US$ by 2027.",
+        "• Nominal GDP per capita increased from 4,139.9 US$ in 1980 to 16,735.3 US$ in 2021, expected to reach 22,710.1 US$ by 2027.",
+        "• Real GDP growth fluctuated significantly, with negative growth in early 1980s and early 2000s, including -9.4% in 1982 and -7.7% in 2002, but positive growth resumed post-2003, reaching 4.4% in 2021 and projected to moderate to 2.2% by 2027.",
+        "• Inflation rates were extremely high in the 1980s and early 1990s, peaking at 112.5% in 1990, but dropped below 10% from 1999 onwards, with 7.7% inflation in 2021 and expected to decline to 4.5% by 2027; inflation below 10% is highlighted in green in the data.",
+        "• Unemployment data starts from 1983, with 14.5%, fluctuating over the years, reaching a low of 6.3% in 2011 and 2012, rising to 10.4% in 2020 due to economic contraction, then decreasing to 9.4% in 2021; unemployment is projected to stabilize at 7.9% from 2022 through 2027.",
+        "• Government debt as a percentage of GDP is available from 2008, starting at 46.4%, rising to a peak of 68.3% in 2020, then slightly decreasing to 65.1% in 2021, with projections around 64.7% by 2027.",
+        "• Industrial production growth rate was estimated at 12.6% in 2006.",
+        "• Electricity production in 1998 was 9,474 GWh, with the energy mix comprising 95.62% hydroelectric, 3.91% fossil fuels, 0% nuclear, and 0.47% other sources.",
+        "• Electricity consumption in 1998 was 6,526 GWh, with exports at 2,363 GWh and imports at 78 GWh.",
+        "• Uruguay's agricultural products include wheat, rice, barley, maize, sorghum, livestock, and fish.",
+        "• Exchange rates of Uruguayan pesos per US dollar were 24.048 in 2006, 24.479 in 2005, 28.704 in 2004, 28.209 in 2003, and 21.257 in 2002, indicating currency fluctuations over the early 2000s."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:47.859903",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "5",
+      "section_name": "Uruguay in the world",
+      "chapter_name": "Economy of Uruguay",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the 2024 Quality of Life Index published by Numbeo, Uruguay ranks 42nd globally, reflecting its relative position in terms of living standards and overall well-being.",
+        "• The United Nations Development Programme (UNDP) placed Uruguay at 52nd in the Human Development Index in 2022, indicating its level of human development based on health, education, and income metrics.",
+        "• The Economist Intelligence Unit's Democracy Index ranked Uruguay 11th worldwide in 2022, highlighting its strong democratic institutions and political environment.",
+        "• Uruguay was ranked 46th in the Global Peace Index by Vision of Humanity for the period 2020-2022, demonstrating its status in terms of peace and security compared to other nations.",
+        "• The Legatum Prosperity Index of 2021 positioned Uruguay at 37th globally, reflecting its prosperity based on factors such as economic quality, business environment, governance, and social capital.",
+        "• Transparency International’s 2023 Corruption Perceptions Index ranked Uruguay 14th, indicating a relatively low level of perceived public sector corruption.",
+        "• The Heritage Foundation’s Economic Freedom Index placed Uruguay 34th in 2022, assessing the country’s economic policies and regulatory environment favoring economic freedom.",
+        "• In the 2019 Global Competitiveness Report by the World Economic Forum, Uruguay was ranked 54th, measuring its competitiveness based on infrastructure, macroeconomic stability, health, education, and innovation capability.",
+        "• The 2023 Cost of Living Index by Expatistan ranked Uruguay 30th worldwide, reflecting the relative expense of living in the country compared to other global cities.",
+        "• Moody’s assigned Uruguay a debt rating of BAA2 in 2021, indicating moderate credit risk and investment-grade status.",
+        "• Standard & Poor’s (S&P) gave Uruguay a BBB rating in 2017, representing a stable investment-grade credit rating.",
+        "• Fitch Ratings rated Uruguay BBB- in 2020, also signifying investment-grade creditworthiness with a stable outlook.",
+        "• The World Bank recognized Uruguay as a \"High Income\" country in 2023, classifying it among nations with high gross national income per capita.",
+        "• The United Nations classified Uruguay as having a \"Very High Human Development Index (HDI)\" in its 2021 report (published in 2022), confirming its advanced level of human development.",
+        "• The Geopolitical Gains and Losses after Energy Transition (GeGaLo) Index by Overland et al. in 2019 ranked Uruguay 6th out of 156 countries, indicating significant geopolitical advantages in the context of global energy transition."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:40.081399",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_uruguay.json",
+      "original_index": 15
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_nicaragua.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.507620",
+    "total_sections_in_source": 8,
+    "extracted_sections_count": 8,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Nicaragua",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Nicaragua is primarily focused on the agricultural sector, which forms the backbone of its economic activities.",
+        "• Nicaragua is the least developed country in Central America and ranks as the second least developed in the Americas by nominal GDP, with only Haiti being less developed.",
+        "• Under the administrations of Daniel Ortega, the Nicaraguan economy experienced some expansion following the Great Recession.",
+        "• During the Great Recession, Nicaragua’s economy contracted by 1.5%, attributed to decreased export demand in American and Central American markets, lower commodity prices for key agricultural exports, and low remittance growth.",
+        "• In 2010, the economy grew by 4.5%, driven by a recovery in export demand and growth in the tourism industry.",
+        "• Preliminary indicators showed that the Nicaraguan economy continued to grow by an additional 5% in 2011.",
+        "• Consumer price inflation in Nicaragua was notably high in 2008, with an inflation rate of 19.82%.",
+        "• Inflation rates decreased significantly in 2009 and 2010, recorded at 3.68% and 5.45%, respectively.",
+        "• Remittances constitute a major source of income for Nicaragua, amounting to approximately 15% of the country’s GDP.",
+        "• The primary sources of remittances are Costa Rica, the United States, and member states of the European Union.",
+        "• Approximately one million Nicaraguans contribute to the remittance sector, highlighting its importance to the national economy.",
+        "• In early 2004, Nicaragua secured about $4.5 billion in foreign debt reduction under the International Monetary Fund (IMF) and World Bank’s Heavily Indebted Poor Countries (HIPC) initiative.",
+        "• The US-Central America Free Trade Agreement (CAFTA) came into effect in April 2006, expanding export opportunities for Nicaragua’s agricultural and manufactured goods.",
+        "• Textiles and apparel constitute nearly 60% of Nicaragua’s exports, marking them as key export sectors.",
+        "• In October 2007, the IMF approved an additional Poverty Reduction and Growth Facility program to support the Nicaraguan government’s economic plans.",
+        "• Nicaragua relies heavily on international economic assistance to meet both internal and external debt financing obligations.",
+        "• Foreign donor funding was curtailed following widespread allegations of electoral fraud in Nicaragua’s November 2008 elections, impacting international economic assistance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:09:00.773874",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_nicaragua.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Nicaragua",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nicaragua's economy suffered severe devastation during the 1980s as a result of the Contra War, which led to the destruction of much of the country's infrastructure.",
+        "• Beginning in 1985, the United States imposed an economic blockade on Nicaragua, further exacerbating the country's economic difficulties.",
+        "• After the conclusion of the civil war, Nicaragua initiated free market reforms, including the privatization of more than 350 state-owned companies, which marked the start of a general trend toward economic growth.",
+        "• Inflation rates in Nicaragua were extraordinarily high during the late Sandinista period, reaching 33,603%, and escalated to 55,000% during the first year of the Chamorro government.",
+        "• Through economic reforms and stabilization efforts, inflation was reduced to more normal levels, averaging an annual rate of 9.5% over the decade from 2000 to 2010, according to World Bank data.",
+        "• Economic growth in 2001 was slow, at approximately 3%, due to multiple adverse factors including a global recession, a series of bank failures, low coffee prices, and a drought.",
+        "• In 2009, Nicaragua's economy contracted by 1.5% as a consequence of the global Great Recession.",
+        "• Despite these setbacks, Nicaragua's economy experienced an average growth rate of 3.4% between 2001 and 2011, based on World Bank figures."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:09:08.168939",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_nicaragua.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economy",
+      "chapter_name": "Economy of Nicaragua",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Nicaragua's unemployment rate was recorded at 7.2%, reflecting ongoing labor market challenges within the country.",
+        "• Nicaragua experiences persistent trade and budget deficits alongside a high debt-service burden, resulting in significant dependence on foreign assistance, which accounted for nearly 25% of GDP in 2001.",
+        "• Economic growth in Nicaragua has been driven largely by export production, with traditional exports such as coffee, meat, and sugar remaining dominant, while nontraditional exports like textiles and apparel, gold, seafood, peanuts, sesame, melons, and onions have shown the fastest growth.",
+        "• In 2007, Nicaragua's exports surpassed US$1 billion for the first time in its history, marking a significant milestone in the country's trade performance.",
+        "• Although primarily an agricultural economy, Nicaragua has seen expansion in construction, mining, fisheries, and general commerce sectors in recent years.",
+        "• Foreign private capital inflows reached over $300 million in 1999 but declined sharply to less than $100 million by 2001 due to economic and political uncertainty.",
+        "• Tourism in Nicaragua has grown by 394% over the previous 12 years, becoming the second largest source of foreign capital; the national tourism budget increased from U.S. $400,000 to over $2 million within less than three years.",
+        "• A construction boom has taken place predominantly in and around Managua, contributing to economic development.",
+        "• Nicaragua faces significant challenges in accelerating economic growth, including adherence to an International Monetary Fund (IMF) program aimed at attracting investment, job creation, and poverty reduction through economic liberalization.",
+        "• In late 2000, Nicaragua reached the decision point under the Heavily Indebted Poor Countries (HIPC) debt relief initiative, although benefits were delayed due to the country falling \"off track\" from its IMF program.",
+        "• Since August 2000, Nicaragua has been dealing with a series of bank failures, which have further complicated its economic stability.",
+        "• The country continues to lose international reserves as a result of growing fiscal deficits, exacerbating financial vulnerabilities.",
+        "• Nicaragua remains a recovering economy, implementing reforms required by IMF aid conditions to stabilize and grow its economy.",
+        "• In 2005, the finance ministers of the Group of Eight (G8) industrialized nations agreed to forgive a portion of Nicaragua's foreign debt as part of the HIPC program.",
+        "• According to the World Bank, Nicaragua's GDP was approximately US$4.9 billion at the time of reporting.",
+        "• In March 2007, Poland and Nicaragua signed an agreement to write off $30.6 million of debt borrowed by Nicaragua in the 1980s, further alleviating the country's debt burden.",
+        "• The United States is Nicaragua's largest trading partner, supplying 25% of its imports and receiving about 60% of its exports.",
+        "• Approximately 25 wholly or partly owned subsidiaries of U.S. companies operate in Nicaragua, with major activities in energy, communications, manufacturing, fisheries, and shrimp farming sectors.",
+        "• Nicaragua offers opportunities for expanded foreign investment in sectors including tourism, mining, franchising, and the distribution of imported consumer, manufacturing, and agricultural goods.",
+        "• Copper mining operations exist in northeastern Nicaragua, contributing to the mining sector.",
+        "• In 2012, Nicaragua's Gross Domestic Product (GDP) in purchasing power parity (PPP) was estimated at US$20.04 billion, with a GDP per capita in PPP of US$3,300, ranking it as the second poorest country in the Western Hemisphere.",
+        "• The service sector constituted the largest component of GDP at 56.7% in 2012, followed by the industrial sector at 25.8%, and agriculture at 17.5%, the highest agricultural GDP percentage among Central American countries.",
+        "• The Nicaraguan labor force was estimated at 2.961 million in 2012, with 28% employed in agriculture, 19% in industry, and 53% in the service sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:09:25.574875",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_nicaragua.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agriculture and food production",
+      "chapter_name": "Economy of Nicaragua",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Coffee became Nicaragua's principal crop in the 1870s and maintained this status through 1992 despite the increasing significance of other crops.",
+        "• Cotton rose in importance during the late 1940s and by 1992 was the second largest export earner for Nicaragua.",
+        "• In the early 20th century, Nicaraguan governments were hesitant to grant concessions to large United States banana companies, resulting in bananas never achieving the prominence seen in neighboring Central American countries; nonetheless, bananas were cultivated and generally ranked as the third largest export earner in the post-World War II period.",
+        "• Beef and animal byproducts, which had been the most important agricultural exports for three centuries prior to the late 19th-century coffee boom, remained significant commodities in 1992.",
+        "• From the end of World War II until the early 1960s, the growth and diversification of agriculture were primary drivers of Nicaragua's economic expansion.",
+        "• Between the early 1960s and 1977, agriculture continued to be a robust and significant sector of the economy, although growth slowed compared to the previous postwar decades; this period ended with increased fighting linked to the Sandinista revolution.",
+        "• Agricultural statistics from the following fifteen years after 1977 indicate stagnation followed by a decline in production.",
+        "• The 1980s saw a sharp decline in the agricultural sector; prior to the late 1970s, agriculture accounted for 40 percent of Nicaragua's GDP, 60 percent of national employment, and 80 percent of foreign exchange earnings.",
+        "• During the 1980s, the Contra insurgency severely disrupted coffee harvests and other key income-generating crops, contributing to the sector's decline.",
+        "• Private industry ceased investing in agriculture during the 1980s due to uncertain returns on investment.",
+        "• Agricultural land previously used for export crops was repurposed to expand basic grain cultivation.",
+        "• Many coffee plants were lost to disease during the 1980s.",
+        "• In 1989, marking the fifth consecutive year of decline, farm production fell by approximately 7 percent compared to the previous year.",
+        "• Production of basic grains decreased due to the impact of Hurricane Joan in 1988 and a drought in 1989.",
+        "• By 1990, agricultural exports had dropped to less than half their 1978 levels.",
+        "• The only positive development in the late 1980s was the increased production of nontraditional export crops such as sesame, tobacco, and African palm oil."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:09:37.660970",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_nicaragua.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Services",
+      "chapter_name": "Economy of Nicaragua",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The service sector in Nicaragua was estimated to account for 56.8% of the country's Gross Domestic Product (GDP).",
+        "• This sector employs 52% of Nicaragua's active population, indicating its significant role in the national labor market.",
+        "• The service sector encompasses a diverse range of activities including transportation, commerce, warehousing, restaurants and hotels, arts and entertainment, health services, education, financial and banking services, telecommunications, as well as public administration and defense.",
+        "• Tourism is identified as one of the most important industries in Nicaragua, serving as the second largest source of foreign exchange for the country.",
+        "• Projections indicated that tourism was expected to become the largest industry in Nicaragua by the year 2007.",
+        "• The expansion of the tourism industry has had a positive impact on multiple other sectors including agriculture, commerce, finance, and construction, demonstrating its broad economic influence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:09:41.959585",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_nicaragua.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Current economic outlook",
+      "chapter_name": "Economy of Nicaragua",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nicaragua has ratified Free Trade Agreements with major markets including the United States, the Dominican Republic through the DR-CAFTA agreement, Taiwan, and Mexico, among others, demonstrating its commitment to expanding international trade relations.",
+        "• The country has shown continuous efforts to improve its business climate, as reflected by favorable rankings in various independent evaluations.",
+        "• According to the 2011 Doing Business Report published by The World Bank Group, which benchmarks investment climate indicators across 183 nations, Nicaragua was ranked as the top location in Central America for starting a business, investor protection, and closing a business.",
+        "• In addition to the top rankings, Nicaragua made improvements in several other categories measured by the report, including ease of doing business, registering property, paying taxes, trading across borders, and enforcing contracts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:09:46.057698",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_nicaragua.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Data",
+      "chapter_name": "Economy of Nicaragua",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Nicaragua's main economic indicators from 1980 to 2020, with IMF staff estimates for 2021 to 2026, including GDP in billion US dollars (PPP and nominal), GDP per capita (PPP and nominal), real GDP growth rate, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, Nicaragua's GDP (PPP) was 6.2 billion US dollars, nominal GDP was 1.8 billion US dollars, with a real GDP growth of 4.6%, inflation at 35.1%, unemployment at 13.4%, and government debt data not available.",
+        "• Throughout the 1980s, Nicaragua experienced high inflation rates, peaking at 13,109.5% in 1987, with negative GDP growth rates in several years, such as -12.4% in 1988, and unemployment rates fluctuating around 11% to 15%.",
+        "• The 1980s also saw nominal GDP values varying widely, with a low of 0.5 billion US dollars in 1990 and a high of 5.8 billion US dollars in 1986, while GDP (PPP) increased gradually from 6.2 billion in 1980 to 8.5 billion in 1987 before declining.",
+        "• Inflation rates above 100% persisted from 1984 to 1991, including hyperinflation years such as 885.2% in 1986 and 7,428.7% in 1989, reflecting severe economic instability.",
+        "• In the early 1990s, inflation rates decreased significantly to 3.7% by 1994, coinciding with positive GDP growth rates, such as 5.0% in 1994 and 5.9% in 1995, and unemployment rates around 16-17%.",
+        "• From 1994 onwards, GDP per capita (PPP) data becomes available, starting at 2,191.5 US dollars in 1994 and rising steadily to 7,461.3 US dollars projected for 2026.",
+        "• Government debt as a percentage of GDP was first recorded in 1997 at 86.4%, peaking near 110.4% in 2002, then declining steadily to around 50.6% projected for 2026.",
+        "• Between 1997 and 2007, Nicaragua's economy showed consistent real GDP growth rates ranging from 3.7% to 7.0%, inflation rates mostly below 15%, and unemployment rates decreasing from 14.3% to 5.9%.",
+        "• Nominal GDP increased from 4.4 billion US dollars in 1997 to 7.4 billion US dollars in 2007, while GDP (PPP) rose from 11.7 billion to 21.4 billion US dollars in the same period.",
+        "• Inflation rates fluctuated between 3.7% and 19.8% from 2004 to 2008, with a notable spike to 19.8% in 2008, while unemployment remained relatively low, between 5.6% and 6.1%.",
+        "• The global financial crisis impact is visible in 2009 with a -3.3% real GDP growth rate, inflation dropping to 3.7%, and unemployment rising to 8.2%.",
+        "• From 2010 to 2017, Nicaragua experienced steady GDP growth rates between 3.4% and 6.5%, inflation rates mostly below 9%, and unemployment rates declining from 7.8% to 3.7%.",
+        "• GDP (PPP) increased from 23.2 billion US dollars in 2010 to 38.3 billion US dollars in 2017, with nominal GDP rising from 8.8 billion to 13.8 billion US dollars in the same period.",
+        "• In 2018 and 2019, Nicaragua faced economic contraction with real GDP growth rates of -3.4% and -3.7%, inflation rates near 5%, and unemployment rates increasing to 5.5% and 6.1%, respectively.",
+        "• The COVID-19 pandemic year 2020 showed a -2.0% real GDP growth rate, inflation at 3.7%, unemployment at 7.3%, and government debt rising to 47.9% of GDP.",
+        "• IMF staff estimates from 2021 to 2026 project a recovery with GDP (PPP) growing from 40.1 billion US dollars in 2021 to 51.4 billion US dollars in 2026, and nominal GDP increasing from 13.4 billion to 15.9 billion US dollars.",
+        "• Projected GDP per capita (PPP) rises from 6,132.8 US dollars in 2021 to 7,461.3 US dollars in 2026, while nominal GDP per capita increases from 2,047.1 US dollars to 2,312.8 US dollars.",
+        "• Real GDP growth rates are forecasted to remain positive from 2021 to 2026, ranging between 2.2% and 5.0%, with inflation rates consistently below 5%, highlighted in green in the table.",
+        "• Unemployment rates are expected to decline gradually from 11.1% in 2021 to 6.0% in 2026, while government debt as a percentage of GDP is projected to stabilize around 50.6%.",
+        "• Overall, the data reflects Nicaragua's economic volatility during the 1980s with hyperinflation and negative growth, stabilization and growth in the 1990s and 2000s, a contraction during the late 2010s and pandemic, followed by a moderate recovery forecast through 2026."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:10:03.363166",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_nicaragua.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Other statistics",
+      "chapter_name": "Economy of Nicaragua",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2005, the distribution of household income or consumption in Nicaragua showed that the lowest 10% of the population held 1.4% of the total income, whereas the highest 10% controlled 41.8%.",
+        "• The industrial production growth rate in Nicaragua was recorded at 2.4% in the year 2005.",
+        "• Nicaragua's electricity production amounted to 2.778 billion kilowatt-hours (kWh) in 2006.",
+        "• In 1998, the electricity production by source in Nicaragua was composed of 53.43% from fossil fuels, 35.34% from hydroelectric power, 0% from nuclear sources, and 11.23% from other sources.",
+        "• Since 1998, Nicaragua has installed a significant number of wind turbines along the southwest shore of Lake Nicaragua and constructed geothermal plants, diversifying its electricity production sources.",
+        "• By 2013, the electricity production breakdown in Nicaragua was 50% from fossil fuels, 15% from wind power, 16% from geothermal energy, 12% from hydropower, and 7% from biomass power.",
+        "• Electricity consumption in Nicaragua was 2.929 billion kWh in 2006.",
+        "• Nicaragua exported 69.34 million kWh of electricity in 2006.",
+        "• There were no electricity imports recorded in Nicaragua in 2006, with imports at 0 kWh.",
+        "• The primary agricultural products of Nicaragua include coffee, bananas, sugarcane, cotton, rice, corn, tobacco, sesame, soybeans, beans, beef, veal, pork, poultry, dairy products, shrimp, and lobsters.",
+        "• Nicaragua’s main export commodities consist of coffee, beef, shrimp, lobster, cotton, tobacco, peanuts, sugar, bananas, and gold.",
+        "• The country’s import commodities primarily include consumer goods, machinery equipment, raw materials, and petroleum products.",
+        "• The official currency of Nicaragua is the gold Córdoba (C$), with 1 Córdoba equal to 100 centavos.",
+        "• The exchange rate of the Nicaraguan Córdoba to the US dollar was 17.582 C$ per US$1 in 2006, 16.733 in 2005, 15.937 in 2004, 15.105 in 2003, and 14.251 in 2002.",
+        "• Nicaragua experienced price inflation rates of 16.88% in 2007 and 13.37% in 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:10:15.549802",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_nicaragua.json",
+      "original_index": 7
+    }
+  ]
+}

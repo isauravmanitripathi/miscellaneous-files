@@ -1,0 +1,633 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_ghana.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.920151",
+    "total_sections_in_source": 26,
+    "extracted_sections_count": 26,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Ghana is characterized by a diverse and resource-rich profile, including manufacturing and export of digital technology goods, automotive and ship construction, and the export of resources such as hydrocarbons and industrial minerals.",
+        "• In 2023, Ghana earned approximately 15.6 billion USD from record-high gold prices, highlighting the significance of gold exports to its economy.",
+        "• In 2012, Ghana’s domestic economy was predominantly service-oriented, with services accounting for 50% of GDP and employing 28% of the workforce.",
+        "• Industrial development in Ghana remains basic, primarily associated with the processing of plastics into products such as chairs, plastic bags, razors, and pens, despite efforts toward industrialization linked to minerals and oil.",
+        "• As of 2013, approximately 53.6% of Ghana’s workforce was employed in agriculture, though this statistic is considered outdated.",
+        "• In July 2007, Ghana undertook a currency re-denomination exercise, transitioning from the Cedi (₵) to the new Ghana Cedi (GH₵), with a transfer rate of 1 Ghana Cedi for every 10,000 old Cedis.",
+        "• Ghana became the largest gold-producing country in Africa in 2019, surpassing South Africa in gold output.",
+        "• The country is the second-largest cocoa producer globally, after Ivory Coast.",
+        "• Ghana possesses significant mineral resources, including diamonds, manganese (or manganese ore), bauxite, and oil.",
+        "• Most of Ghana’s external debt was canceled in 2005; however, subsequent government spending increased substantially, contributing to economic instability.",
+        "• A decline in oil prices and increased government expenditure led to an economic crisis, prompting Ghana to negotiate a $920 million extended credit facility with the International Monetary Fund (IMF) in April 2015.",
+        "• In April 2025, Bloomberg rated the Ghanaian Cedi as the strongest performing currency in the world against the US dollar, which contributed to a reduction in Ghana’s debt burden."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:11:38.601958",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Taxation",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Value-added tax (VAT) in Ghana is a consumption tax administered at the national level.",
+        "• The VAT regime in Ghana commenced in 1998 with a single rate structure.",
+        "• Since September 2007, Ghana's VAT system transitioned into a multiple rate regime, allowing for different rates on various goods and services.",
+        "• The VAT rate was initially set at 10% in 1998.",
+        "• The VAT rate was amended in 2000 to 12.5%.",
+        "• The highest income tax and corporate tax rates in Ghana are both set at 25%.",
+        "• Additional taxes accompanying VAT include the national health insurance levy and a capital gains tax.",
+        "• In 2013, Ghana's overall tax burden was calculated at 12.1% of the country's total domestic income.",
+        "• Ghana's national budget in 2013 was equivalent to 39.8% of the Gross Domestic Product (GDP).",
+        "• Ghana began implementing a rent tax in the year 2021."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:11:42.287161",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ghana's industrial base is relatively advanced compared to other West African nations, with notable activities in import-substitution industries, including electronics manufacturing.",
+        "• Rlg Communications is recognized as the first indigenous African company to assemble laptops, desktops, and mobile phones, and it is the largest ICT and mobile phone manufacturing company in West Africa.",
+        "• Ghana initiated its automotive industry with the development of a prototype robust SUV named the SMATI Turtle 1, designed for rugged African terrains; this vehicle was constructed by the Artisans of Suame Magazine Industrial Development Organization.",
+        "• Since 2014, Ghana has been manufacturing urban electric cars, indicating a move toward sustainable and innovative transportation solutions.",
+        "• As of 2012, the textiles sector in Ghana comprised four major companies: Akosombo Textiles Limited, Tex Style Ghana Limited, Printex Ghana, and Ghana Textile Manufacturing Company.",
+        "• The Ghana National Petroleum Corporation (GNPC) and Ghana Oil Company (GOIL) are the primary organizations involved in crude oil and gas exploration, exploitation, and refining activities within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:11:45.665186",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of the end of January 2022, Ghana's total number of voice subscriptions was 41,380,751, representing a 1.28% increase compared to December 2019, when subscriptions numbered 40,857,007.",
+        "• The overall mobile telecommunication penetration rate in Ghana stood at 136.79%.",
+        "• Competition among mobile-phone companies significantly contributes to the growth of Ghana's telecommunications industry.",
+        "• The market leader is MTN, with 23,150,485 voice subscriptions, accounting for 55.95% of the market share.",
+        "• Vodafone follows as the second-largest provider, with 9,075,795 voice subscriptions, representing 21.93% of the market share.",
+        "• AirtelTigo has 8,428,322 voice subscriptions, making up 20.69% of the market share.",
+        "• Glo's voice subscriptions total 726,149, which constitute approximately 1.75% of the market share.",
+        "• Ghana's mass media is among the most liberal in Africa, ranking as the third-freest on the continent and 30th globally on the worldwide press freedom index.",
+        "• The Ghanaian Constitution, specifically Chapter 12, guarantees freedom of the press and the independence of the mass media, while Chapter 2 prohibits censorship.",
+        "• Press freedom in Ghana was restored in 1992 after a period of restrictions.",
+        "• Ghana was among the first African countries to connect to the World Wide Web.",
+        "• In 2010, Ghana had 165 licensed internet service providers (ISPs).",
+        "• These ISPs operated 29 fiber optic networks, and authorized VSAT (Very Small Aperture Terminal) networks numbered 176, of which 57 were operational.",
+        "• There were 99 internet operators authorized to serve the public.",
+        "• Private data and packet-switched network operators totaled 25."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:11:49.659981",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Data",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The change in per capita GDP of Ghana from 1870 to 2018 has been documented, with figures adjusted for inflation to 2011 International dollars, illustrating long-term economic trends.",
+        "• The share of Ghana's population living in extreme poverty has been tracked over time from 1981 to 2019, indicating shifts in poverty levels within the country.",
+        "• A comprehensive table presents key economic indicators for Ghana spanning the years 1980 to 2023, including GDP in both PPP and nominal terms, GDP per capita, real GDP growth, inflation rates, and government debt as a percentage of GDP.",
+        "• In 1980, Ghana's GDP was valued at 12.8 billion US dollars (PPP), with a GDP per capita of 1,202 US dollars (PPP), and a nominal GDP of 37.4 billion US dollars; the economy experienced a minimal growth rate of 0.4%, and government debt was not available.",
+        "• During the early 1980s, Ghana's economy faced significant challenges, with GDP peaking at 13.5 billion US dollars (PPP) in 1981, but experiencing negative growth of −3.5%, and a dramatic increase in government debt to 116.5% of GDP in 1981.",
+        "• From 1982 to 1987, Ghana's GDP in PPP terms gradually increased from 13.2 billion to 18.9 billion US dollars, with GDP per capita rising from 1,175 to 1,439 US dollars, and inflation rates fluctuating between −6.9% and 5.6%.",
+        "• In 1984, inflation spiked to 9.0%, and government debt was at 40.0%, reflecting economic instability; by 1985, inflation decreased to 5.1%, and government debt reduced to 10.3%.",
+        "• The late 1980s saw continued growth, with GDP in PPP reaching 20.9 billion US dollars in 1988, and GDP per capita increasing to 1,550 US dollars; inflation remained relatively high at 5.6%.",
+        "• The 1990s marked a period of economic recovery and growth, with GDP rising from 24.4 billion US dollars in 1990 to 36.3 billion in 1996, and GDP per capita increasing from 1,728 to 2,228 US dollars.",
+        "• Notable fluctuations include the 1990 GDP growth rate of 3.3%, and a peak inflation rate of 5.8% in 1997; government debt as a percentage of GDP decreased from 37.2% in 1990 to 46.0% in 1996.",
+        "• The early 2000s saw steady economic expansion, with GDP in PPP reaching 66.8 billion US dollars in 2005, and GDP per capita rising to 3,126 US dollars; inflation remained below 6% during most years.",
+        "• From 2006 onwards, Ghana experienced accelerated growth, with GDP in PPP increasing from 72.9 billion US dollars in 2006 to 149.0 billion in 2017, and GDP per capita rising from 3,331 to 5,148 US dollars.",
+        "• In 2008, inflation peaked at 9.2%, but generally remained below 6% from 2010 to 2018, with notable exceptions such as 14.0% in 2011 and 15.5% in 2014.",
+        "• Government debt as a percentage of GDP fluctuated, reaching a high of 80.2% in 2000, then decreasing to 18.5% in 2006, before rising again to 62.0% in 2018.",
+        "• The COVID-19 pandemic in 2020 caused a slowdown, with GDP growth dropping to 0.5%, inflation at 0.5%, and government debt increasing to 72.3% of GDP.",
+        "• Post-pandemic recovery is evident with GDP in PPP reaching 196.4 billion US dollars in 2021, and GDP per capita increasing to 6,256 US dollars; inflation was 5.1%.",
+        "• In 2022, Ghana's GDP in PPP terms grew to 216.6 billion US dollars, with GDP per capita at 6,752 US dollars, and inflation at 3.1%; government debt rose sharply to 92.4% of GDP.",
+        "• By 2023, Ghana's GDP in PPP was 227.2 billion US dollars, with GDP per capita at 6,905 US dollars, inflation at 1.2%, and government debt at 84.9% of GDP, indicating ongoing economic growth and relative price stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:11:57.035933",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Imports and exports",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, Ghana's leading export products by value were crude petroleum at $2.66 billion, gold at $2.39 billion, cocoa beans at $2.27 billion, cocoa paste at $382 million, and cocoa butter at $252 million.",
+        "• The primary destinations for Ghana's exports in 2016 were Switzerland, receiving $1.73 billion worth of goods; China with $1.06 billion; France at $939 million; India at $789 million; and the Netherlands with $778 million.",
+        "• Ghana's top import categories in 2016 included refined petroleum valued at $2.18 billion, crude petroleum at $546 million, gold at $428 million, rice at $328 million, and packaged medicaments at $297 million.",
+        "• The countries with the highest import values into Ghana in 2016 were China, supplying goods worth $4.1 billion; the Netherlands with $1.58 billion; the United States at $1.1 billion; Nigeria at $920 million; and India with $668 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:11:59.694248",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Trade statistics",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Ghana's goods exports amounted to 16,703 million US dollars, while goods imports were 14,009 million US dollars, resulting in a net trade surplus of 2,694 million US dollars.",
+        "• In 2020, Ghana exported goods worth 14,472 million US dollars and imported goods valued at 12,429 million US dollars, yielding a net trade surplus of 2,043 million US dollars.",
+        "• In 2015, Ghana's goods exports were 10,321 million US dollars, whereas imports were significantly higher at 13,465 million US dollars, leading to a net trade deficit of 3,144 million US dollars.",
+        "• In 2010, Ghana exported goods worth 7,960 million US dollars and imported goods valued at 10,922 million US dollars, resulting in a net trade deficit of 2,962 million US dollars.",
+        "• In 2005, Ghana's goods exports totaled 2,802 million US dollars, with imports at 5,347 million US dollars, producing a net trade deficit of 2,545 million US dollars.",
+        "• In 2000, Ghana exported goods worth 1,936 million US dollars and imported goods valued at 2,767 million US dollars, resulting in a net trade deficit of 830 million US dollars.",
+        "• In 1990, Ghana's goods exports were 897 million US dollars, with imports at 1,205 million US dollars, leading to a net trade deficit of 308 million US dollars.",
+        "• In 1980, Ghana exported goods worth 1,104 million US dollars and imported goods valued at 908 million US dollars, resulting in a net trade surplus of 195 million US dollars."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:05.088323",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "6",
+      "section_name": "Private banking",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The financial services sector in Ghana has experienced significant reforms over recent years, reflecting ongoing efforts to modernize and regulate the industry.",
+        "• The Banking (Amendment) Act of 2007 was a key legislative development that introduced the concept of a general banking license, which could be awarded to qualified banks operating within Ghana.",
+        "• This amendment specifically allows only indigenous Ghana offshore banks to operate in Ghana under the general banking license framework.",
+        "• Capital Bank, an indigenous Ghanaian private bank, was the first to be awarded a general banking license under this new regulatory regime.",
+        "• Other indigenous Ghana private banks that received the general banking license include UniBank, National Investment Bank, and Prudential Bank Limited.",
+        "• The reform has enabled Ghanaian non-resident individuals, residents, foreign companies, and indigenous Ghanaian companies to open indigenous Ghana offshore bank accounts within Ghana.",
+        "• Indigenous Ghana retail and savings banks include the Agricultural Development Bank of Ghana, CAL Bank, GCB Bank Ltd, Home Finance Company, and UT Bank.",
+        "• Additionally, indigenous Ghanaian savings and loan institutions such as ABii National and the Savings and Loans Company are part of the domestic banking landscape."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:08.998530",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Stock exchange",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Stock Exchange of Ghana is one of the largest stock exchanges in Africa, indicating its significant role in the continent's financial markets.",
+        "• In 2012, the market capitalization of the Ghana Stock Exchange was GH¢57.2 billion, reflecting the total market value of all listed companies.",
+        "• The equivalent value of Ghana's stock market capitalization in 2012 was CN¥180.4 billion, demonstrating its scale in Chinese yuan terms.",
+        "• South Africa's JSE Limited is the largest stock exchange in Africa, surpassing the Ghana Stock Exchange in terms of market capitalization and overall size."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:11.265822",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "7",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ghana's energy sector includes significant industries in hydropower, solar energy, oil, and gas, contributing to the country's electricity generation and overall energy supply.",
+        "• As of 2018, Ghana's total primary energy consumption was approximately 10 million tonnes of oil equivalent (MMtoe).",
+        "• The primary energy sources in Ghana in 2018 were biomass (40%), oil and diesel (40%), hydropower (10%), and natural gas (10%).",
+        "• The total energy consumption in Ghana, measured in Terrawatt-hours (TWh), showed the following historical data: in 1980 it was 25 TWh; in 1990, 29 TWh; in 2000, 42 TWh; in 2010, 55 TWh; in 2020, 112 TWh; and in 2021, 114 TWh.",
+        "• Per capita energy consumption in Ghana, measured in kilowatt-hours (KWh), was 2,135 KWh in 1980; decreased to 1,900 KWh in 1990; increased slightly to 2,117 KWh in 2000; marginally rose to 2,142 KWh in 2010; and significantly increased to 3,484 KWh in 2020 and 3,483 KWh in 2021."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:15.976968",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Oil & Gas",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ghana discovered significant reserves of oil and natural gas offshore during the 2000s and 2010s, marking a major development in its energy sector.",
+        "• The country officially commenced oil and gas production in 2010 with the commissioning of the Jubilee field, which was developed by Tullow Oil.",
+        "• Ghana currently produces oil from three major offshore hubs: Jubilee, TEN (Tweneboa, Enyenra, and Atuah), and OCTP (Offshore Cape Three Points).",
+        "• In 2021, Ghana’s oil production was approximately 150,000 barrels of oil per day (bopd).",
+        "• Since the start of production in 2010, Ghana has risen to become the 34th largest national producer of oil globally.",
+        "• In 2021, Ghana exported over 71 million barrels of oil.",
+        "• China was the largest importer of Ghanaian oil in 2021, accounting for over 41% of Ghana’s oil exports.",
+        "• South Africa was the second-largest importer, receiving 13.9% of Ghana’s oil exports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:18.593547",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "Solar energy",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ghana has initiated an aggressive campaign to construct solar power plants across its sun-rich territory with the goal of becoming the first country to derive 6% of its energy from solar energy generation.",
+        "• The construction of solar plants in Ghana began in the early 2010s, marking a strategic move towards renewable energy development.",
+        "• Electricity generation from solar energy in Ghana increased significantly from zero kilowatt-hours (KWh) in 2014 to over 60 gigawatt-hours (GWh) in 2020.",
+        "• By 2020, solar energy accounted for approximately 0.46% of Ghana's total electricity consumption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:20.861790",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "7.3",
+      "section_name": "Wind energy",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ghana possesses wind resources classified as Class 4–6, indicating moderate to high wind energy potential.",
+        "• High-wind locations in Ghana include Nkwanta, the Accra Plains, and the Kwahu and Gambaga mountains.",
+        "• The maximum extractable energy from Ghana’s wind resources for electricity generation is estimated to be approximately 500–600 GWh per year.",
+        "• In 2011, the Akosombo hydroelectric dam in Ghana alone produced 6,495 GWh of electricity, serving as a significant benchmark for renewable energy output in the country.",
+        "• The total energy generated in Ghana in 2011, including all geothermal sources, was 11,200 GWh.",
+        "• The assessments of wind energy potential do not account for several limiting factors, such as land-use restrictions, the existing electrical grid infrastructure, the distance of wind resources from the grid, and accessibility issues."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:24.526428",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "7.4",
+      "section_name": "Bio-energy",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ghana has established mechanisms aimed at attracting investments into its biomass and bio-energy sectors to promote rural development, generate employment, and conserve foreign exchange reserves.",
+        "• The primary areas of investment within Ghana’s bio-energy subsector include production, transportation, storage, distribution, sale, marketing, and exportation activities.",
+        "• The overarching goal of Ghana’s bio-energy policy, as articulated by its energy sector strategy, is to modernize the sector and evaluate the benefits of bio-energy on a sustainable basis.",
+        "• Biomass is Ghana’s most abundant and widely consumed energy resource, with ethanol and biodiesel being the two main bio-fuels utilized.",
+        "• In 2010, the Ghana Ministry of Energy developed a comprehensive energy sector strategy and development plan to support bio-energy initiatives.",
+        "• Key highlights of this strategy include maintaining a sustainable supply and efficient use of wood fuels while preventing deforestation caused by their utilization.",
+        "• The strategy aims to encourage private sector investments in cultivating bio-fuel feedstock, extracting bio-oil, and refining it into secondary products, supported by financial and tax incentives.",
+        "• The Ghana Renewable Energy Act provides fiscal incentives to promote renewable energy development by the private sector and establishes regulations for the control and management of bio-fuel and wood fuel projects in Ghana.",
+        "• The Ghana National Petroleum Authority (NPA) was mandated by the Renewable Energy Act of 2011 to set bio-fuel blend prices in accordance with the prescribed petroleum pricing formula.",
+        "• Climate change impacts and global economic instability have heightened the urgency among Ghanaian policymakers, industry stakeholders, and development practitioners to identify sustainable and viable bio-fuel solutions.",
+        "• Brazil is recognized as the world’s largest bio-fuel market, producing ethanol primarily from maize and sugarcane."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:29.434294",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "7.5",
+      "section_name": "Energy consumption",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Electricity generation is a critical factor in advancing the development of Ghana's national economy, particularly in the context of aggressive and rapid industrialization efforts.",
+        "• In 2009, Ghana's national electric energy consumption was recorded at 265 kilowatt-hours per capita.",
+        "• The country has experienced electricity shortages, commonly referred to as \"dumsor,\" which translates to blackouts.",
+        "• These electricity shortages have heightened interest in renewable energy sources as alternative solutions to meet energy demands."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:33.377406",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "8",
+      "section_name": "Hydrocarbon and mining",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ghana possesses significant mineral resources, including bauxite, diamond, timber, and manganese, which contribute to its mineral sector.",
+        "• The country’s oil exports have been increasing as a proportion of total exports, indicating a growing role of hydrocarbon revenues in Ghana’s economy.",
+        "• Ghana's petroleum reserves are estimated to range between 5 billion barrels (790×10^6 m³) and 7 billion barrels (1.1×10^9 m³).",
+        "• A major oil discovery in 2007 revealed a large oilfield containing up to 3 billion barrels (480×10^6 m³) of sweet crude oil.",
+        "• Since the 2007 discovery, Ghana has steadily increased oil production, reaching a peak of 200,000 barrels per day in 2019.",
+        "• As of 2021, Ghana’s oil production stood at approximately 179,900 barrels per day, indicating a slight decrease from the peak.",
+        "• Ghana has extensive natural gas reserves, which are utilized by numerous foreign multinational companies operating within the country.",
+        "• The hydrocarbon industry has significantly impacted regional and urban development in Ghana, with expectations of substantial growth in these areas in the coming years.",
+        "• Mining has become increasingly important to Ghana’s economy since the early 2000s, experiencing an approximate growth rate of 30% in 2007.",
+        "• The primary minerals extracted in Ghana include bauxite, gold—of which Ghana is one of the world's largest producers—and phosphates."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:37.480613",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "9",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Ministry of Tourism in Ghana has prioritized enhancing tourism support and development initiatives to boost the sector's growth.",
+        "• In 2009, tourism contributed approximately 4.9% to Ghana's Gross Domestic Product (GDP).",
+        "• During the same year, Ghana attracted around 500,000 international visitors to its various tourist sites.",
+        "• Key tourist destinations in Ghana include numerous historical castles and forts, which are significant for their cultural and historical value.",
+        "• Other major attractions encompass national parks, beaches, nature reserves, diverse landscapes, and UNESCO World Heritage sites and buildings.",
+        "• In 2011, Forbes magazine ranked Ghana as the eleventh-friendliest country in the world, based on a survey conducted in 2010 involving a diverse group of travelers.",
+        "• Ghana was the highest-ranked country on the African continent in Forbes' friendliness survey.",
+        "• To visit Ghana, travelers generally require a visa authorized by the Government of Ghana, with exceptions made for certain entrepreneurs traveling on business trips."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:40.202200",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "10",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, agriculture employed 53.6% of Ghana's total labor force, indicating its significant role in the country's employment landscape.",
+        "• Agribusiness contributes only a small fraction to Ghana's gross domestic product (GDP), suggesting that the sector's economic impact is relatively limited compared to other industries.",
+        "• The primary harvested crops in Ghana include corn, plantain, rice, millet, sorghum, cassava, and yam, which are central to the country's agricultural output.",
+        "• Unlike the livestock, forestry, and fishing sectors, the crop sector is considered the key component of the Ghanaian agricultural industry, emphasizing its importance in national agriculture.",
+        "• In 2018, Ghana produced approximately 20.8 million tons of cassava, making it the 4th largest producer globally, following Nigeria, Thailand, and Congo.",
+        "• Ghana produced about 7.8 million tonnes of yam in 2018, ranking as the 2nd largest producer in the world, behind Nigeria.",
+        "• The country produced roughly 4.1 million tons of plantain in 2018, also the 2nd largest globally, just behind Congo.",
+        "• Ghana's palm oil production in 2018 reached 2.6 million tons, placing it as the 8th largest producer worldwide.",
+        "• The maize (corn) production in 2018 was approximately 2.3 million tons.",
+        "• Ghana produced about 1.4 million tons of taro in 2018, ranking as the 4th largest producer globally, after Nigeria, China, and Cameroon.",
+        "• Cocoa production in 2018 was approximately 947 thousand tons, making Ghana the 2nd largest producer in the world, after Ivory Coast.",
+        "• The country produced around 769 thousand tons of rice in 2018.",
+        "• Ghana's orange production in 2018 was about 753 thousand tons, ranking 19th in the world.",
+        "• Pineapple production in 2018 was approximately 713 thousand tons, placing Ghana as the 11th largest producer globally.",
+        "• The country produced roughly 521 thousand tons of peanuts in 2018.",
+        "• Smaller-scale productions include sweet potato with 151 thousand tons, natural rubber with 23 thousand tons, and tobacco with 2.3 thousand tons."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:47.310973",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "11",
+      "section_name": "Ghana: Vision 2020 and industrialization",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economic program \"Ghana: Vision 2020\" aims to achieve accelerated economic growth and an improved quality of life for all citizens by focusing on reducing poverty through private investment, rapid and aggressive industrialization, and targeted poverty-alleviation efforts.",
+        "• These plans were officially outlined in the 1995 government report titled \"Ghana: Vision 2020.\"",
+        "• The program emphasizes the continued nationalization of state-owned enterprises, with approximately two-thirds of the 300 parastatal enterprises owned by the Ghanaian government.",
+        "• Structural adjustment reforms under the government's program include increasing exchange rate controls, promoting autarky (economic self-sufficiency), and imposing stricter restrictions on imports.",
+        "• The \"Ghana: Vision 2020\" forecast assumes several key conditions: political stability, successful economic stabilization, implementation of the private sector growth agenda, and aggressive public spending on social services, infrastructure, and industrialization.",
+        "• The projection states that Ghana's goals of reaching high-income economy status and becoming a newly industrialized country are expected to be realized between 2020 and 2039.",
+        "• By 2013, Ghana's exports included significant commodities such as cocoa and gold, with the country projected to become the world's largest producer of cocoa, exemplified by landmarks like Sunyani Cocoa House and Theobroma cacao.",
+        "• Ghana is the 7th-largest producer of gold globally, with gold bars being a notable export product.",
+        "• In 2013, Ghana's main export destinations and their respective percentages were:",
+        "• Ghana's primary import partners in 2013 and their respective percentages were:",
+        "• These trade figures highlight Ghana’s significant role in global commodity markets, particularly in cocoa and gold, and its diverse import-export relationships."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:12:55.197237",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "12",
+      "section_name": "Economic transparency",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, wealth distribution in Ghanaian society was highly unequal, with a majority of wealth held by the top 20% of the population.",
+        "• Ghana's judicial system is tasked with addressing issues related to corruption, economic malpractice, and lack of economic transparency.",
+        "• Despite notable economic progress, Ghana continues to face significant obstacles, including the need for reform in specific institutions and improvements in property rights.",
+        "• The overall investment environment in Ghana is hindered by a lack of market transparency, which poses challenges to sustained economic growth.",
+        "• Addressing institutional reforms, property rights, and enhancing market transparency are essential steps for Ghana to maintain its rapid economic growth trajectory.",
+        "• According to Transparency International's 2022 Corruption Perception Index, Ghana was ranked 72nd out of 180 countries.",
+        "• Ghana received a score of 43 on the Corruption Perception Index, where scores range from 0–9 indicating high corruption to 90–100 indicating a very clean public sector.",
+        "• The index score reflects perceived levels of corruption within Ghana's public sector.",
+        "• Notable individuals associated with Ghana and linked to the Panama Papers include John Addo Kufuor, son of former President John Agyekum Kufuor, and Kojo Annan, son of former United Nations Secretary-General Kofi Annan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:00.318522",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "12.1",
+      "section_name": "Health and biotechnology",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Centre for Scientific Research into Plant Medicine is an agency under the Ghanaian Ministry of Health.",
+        "• It was established in the 1970s with the primary purpose of conducting research and development in the field of plant medicine.",
+        "• The agency serves as a practical resource for the production, distribution, and provision of products related to plant-based medicine.",
+        "• Its focus includes biotechnology applications related to medicinal plants, encompassing both herbal medicine and more advanced biotechnological research.",
+        "• The Centre also functions as an educational resource, particularly for foreign students studying health, biotechnology, and related disciplines."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:02.876531",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "12.2",
+      "section_name": "Cybernetics and cyberwarfare",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The use of computer technology for teaching and learning in Ghana began to attract government attention from the late 1990s.",
+        "• Ghana's \"Information and Communications Technology in Education\" policy mandates the integration of ICT for teaching and learning at all educational levels.",
+        "• The Ministry of Education actively supports educational institutions in developing ICT literacy.",
+        "• Most secondary schools and some basic schools in Ghana have established computer laboratories to facilitate ICT education.",
+        "• Ghana aims to become the leading information technology hub in West Africa, prompting legislative and strategic actions in cybersecurity.",
+        "• In 2008, Ghana enacted the _Electronic Communications Act_ and the _Electronic Transactions Act_, creating the legal framework for governing information technology and cyber activities.",
+        "• In November 2011, the Deputy Minister for Communications and Technology announced the development of a national cybersecurity strategy focused on combating cybercrime and protecting critical infrastructure.",
+        "• The National Information Technology Agency (NITA) announced in June 2012 a national computer emergency response team (CERT) strategy to coordinate government responses to cyber-attacks, both internal and external.",
+        "• NITA also established CERTs for each municipal, metropolitan, and district assembly to enhance coordination and information sharing regarding cyberspace threats.",
+        "• Ghana is ranked 2nd in Africa and 7th globally in the domains of cyber warfare, cyber-terrorism, cybercrime, and internet crime.",
+        "• The National Cyber Security Centre was established in 2018 as Ghana’s primary agency responsible for cybersecurity.",
+        "• In November 2020, Ghana's Parliament passed the Cybersecurity Act 2020 to strengthen national cybersecurity measures.",
+        "• Ursula Owusu-Ekuful, the Minister for Communications, emphasized that a successful economy depends on a secure, safe, and resilient digital ecosystem, highlighting cybersecurity as critical to economic development and the protection of individual rights within the digital space."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:07.586132",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "12.3",
+      "section_name": "Real estate",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The real estate and housing market in Ghana has become a significant and strategic sector of the economy, especially in major urban centers such as Accra, Kumasi, Sekondi-Takoradi, and Tema.",
+        "• In Accra, many citizens find housing prices unaffordable, reflecting a common trend in major cities globally, particularly in Western countries.",
+        "• Kumasi is experiencing faster growth compared to Accra and has less competition within its real estate market.",
+        "• Ghana imposes a gross rental income tax of 10% on real estate income.",
+        "• Capital gains from real estate are taxed at a rate of 15%.",
+        "• A 5% gift tax is applied on the transfer of properties.",
+        "• The Ghanaian real estate market is segmented into three main areas: public sector real estate development, emerging private sector real estate development, and private individuals.",
+        "• The activities of these three groups are supported by Ghanaian banks and the primary mortgage market, which has shown considerable growth potential.",
+        "• Recent developments have led to a construction boom, significantly impacting the housing and public housing sectors and generating billions of dollars annually for the Ghanaian economy.",
+        "• The attractiveness of Ghana’s real estate market for investment is enhanced by its tropical climate and strong political stability.",
+        "• An increasing number of Ghanaians are investing in property, indicating a growing domestic interest in real estate assets.",
+        "• The Ghanaian government is actively supporting and empowering the private sector to develop the real estate industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:12.912778",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "12.4",
+      "section_name": "Trade and exports",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In July 2013, International Enterprise Singapore established a global office in Accra to promote trade and investment in sectors such as logistics, oil and gas, aviation, transportation, and consumer goods.",
+        "• Singapore and Ghana signed four bilateral agreements aimed at enhancing collaboration between the public and private sectors, with Ghana seeking to shift its economic trade partnerships predominantly towards East Asia and Southeast Asia.",
+        "• The economic center in Ghana is represented by IE Singapore's second office in Africa, emphasizing the importance of regional economic engagement.",
+        "• Ghana's labor force in 2008 comprised approximately 11.5 million citizens.",
+        "• Tema Harbour is recognized as Africa's largest man-made harbour, serving as a critical infrastructure for maritime trade.",
+        "• Alongside Tema Harbour, Takoradi Harbour handles goods and exports, functioning as key traffic junctions where goods are transshipped.",
+        "• The majority of Ghana’s export cargo is handled by Tema Harbour, which also ships most of the country’s chief exports.",
+        "• Takoradi Harbour is primarily responsible for exporting key commodities, with both ports operated by the state-owned Ghana Ports and Harbours Authority."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:17.007189",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "13",
+      "section_name": "Challenges",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ghana has faced numerous economic challenges over the years, particularly in its efforts to achieve financial sustainability.",
+        "• One of the most significant challenges has been the high level of public debt.",
+        "• As of January 2023, the Bank of Ghana reported that Ghana’s total public debt reached GH¢575.7 billion.",
+        "• This debt level was recorded at the end of November 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:18.337936",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "14",
+      "section_name": "Child labor",
+      "chapter_name": "Economy of Ghana",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 2010 United States Department of Labor estimated that over 2.7 million children in Ghana were engaged in child labor, representing approximately 43% of all children aged 5–14 years.",
+        "• Of these child laborers, 78.7% worked in agriculture, 17.6% in fishing and transportation services, and 3.7% in industry, which includes manufacturing work and mining.",
+        "• The primary motivation for child labor in Ghana is financial necessity, with 64% of working children seeking work for economic reasons, making it the leading driver of child labor in the region.",
+        "• In rural areas, most children work on family farms and often balance their work with schooling, whereas in urban areas such as Accra and Ashanti, children are frequently not enrolled in school and are engaged in artisanal fishing and domestic services.",
+        "• Urban child laborers include child porters known locally as _kayaye_, some of whom are as young as 6 years old.",
+        "• A typical _kayaye_ girl in Ghana may be involved in selling palm wine, illustrating the types of informal urban child labor activities.",
+        "• Agriculture, fishing, and artisanal mining are identified as the largest sectors employing child labor in Ghana.",
+        "• In the southern Volta region, children work in religious servitude under practices known as _trokosi_ (literally \"wife of a god\"), _fiashidi_, or _vudusi_, with durations ranging from a few months up to three years.",
+        "• The _trokosi_ practice involves young girls working and serving religious orders to atone for family members’ alleged sins or as offerings to ensure family good fortune.",
+        "• The _trokosi_ practice is claimed to exist in neighboring countries as well, despite being outlawed and carrying prison sentences under Ghanaian law and laws of neighboring nations.",
+        "• As of 2013, statistics on child labor in Ghana indicated little change from previous years, with most children engaged in hazardous activities such as pesticide spraying in cocoa production, fishing, and gold mining.",
+        "• The U.S. Department of Labor’s 2014 _Findings on the Worst Forms of Child Labor_ reports that children in Ghana are involved in hazardous work including pesticide application in cocoa farming, fishing, and gold mining.",
+        "• The Department’s 2014 _List of Goods Produced by Child Labor or Forced Labor_ highlights fish (particularly tilapia), cocoa, and gold as commodities produced under conditions involving child labor in Ghana."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:13:27.043453",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_ghana.json",
+      "original_index": 25
+    }
+  ]
+}

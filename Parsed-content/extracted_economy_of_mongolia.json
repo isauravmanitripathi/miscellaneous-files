@@ -1,0 +1,281 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_mongolia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.393011",
+    "total_sections_in_source": 11,
+    "extracted_sections_count": 11,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Mongolia has traditionally been based on agriculture and livestock, forming the foundation of its economic activities.",
+        "• Mongolia possesses extensive mineral deposits, including copper, coal, molybdenum, tin, tungsten, and gold, which constitute a significant portion of its industrial production.",
+        "• During the peak period of Soviet assistance, this support accounted for one-third of Mongolia’s gross domestic product (GDP), but it disappeared almost overnight in 1990–91 following the collapse of the Soviet Union.",
+        "• The sudden loss of Soviet aid plunged Mongolia into a deep recession in the early 1990s.",
+        "• Economic growth in Mongolia resumed and picked up between 1997 and 1999 after a stall in 1996 caused by a series of natural disasters and increases in world prices of copper and cashmere.",
+        "• Public revenues and exports collapsed in 1998 and 1999 as a result of the repercussions from the 1997 Asian financial crisis.",
+        "• In August and September 1999, Mongolia’s economy was further impacted by a temporary Russian ban on exports of oil and oil products.",
+        "• Mongolia became a member of the World Trade Organization (WTO) in 1997, marking a significant step in its integration into the global economy.",
+        "• The international donor community pledged over $300 million per year during the last Consultative Group Meeting held in Ulaanbaatar in June 1999, highlighting ongoing international financial support.",
+        "• In recent years, Mongolia’s economy has experienced rapid growth primarily due to an increase in mining activities.",
+        "• Mongolia achieved a notable GDP growth rate of 11.7% in 2013, reflecting the boom in its mining sector.",
+        "• Despite strong growth, Mongolia’s economy faces challenges due to its heavy reliance on export-based growth, making it vulnerable to the global slowdown in mining caused by decreased economic growth in China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:07.170820",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The historical development of real GDP per capita in Mongolia reflects significant fluctuations influenced by political, economic, and social changes throughout the 20th and 21st centuries.",
+        "• During the early 20th century, Mongolia's economy was predominantly agrarian and pastoral, with limited industrialization, resulting in low GDP per capita levels.",
+        "• The establishment of the Mongolian People's Republic in 1924 marked the beginning of a centrally planned economy, which initially led to modest growth in GDP per capita through state-led industrial and agricultural development.",
+        "• From the 1950s to the 1980s, Mongolia experienced steady increases in real GDP per capita due to Soviet aid, investments in mining, infrastructure, and collectivized agriculture, although growth rates were relatively moderate compared to global standards.",
+        "• The collapse of the Soviet Union in 1991 precipitated a severe economic crisis in Mongolia, causing a sharp decline in real GDP per capita as state subsidies and trade links were disrupted.",
+        "• The transition from a planned economy to a market-oriented system in the 1990s involved significant economic reforms, including privatization and liberalization, which initially resulted in economic contraction and a decrease in GDP per capita.",
+        "• By the late 1990s and early 2000s, Mongolia began to recover economically, with real GDP per capita gradually increasing due to improved macroeconomic policies, foreign investment, and growth in mining exports.",
+        "• The discovery and development of large mineral deposits, particularly coal, copper, and gold, in the 2000s significantly boosted Mongolia’s GDP per capita, contributing to rapid economic growth and increased national income.",
+        "• Despite this growth, real GDP per capita in Mongolia has remained vulnerable to external shocks such as fluctuations in global commodity prices, harsh climatic conditions affecting agriculture, and political instability.",
+        "• Statistical data indicate that Mongolia’s real GDP per capita has increased several-fold since the 1990s, reflecting structural economic transformation and integration into the global economy, although income distribution and poverty remain challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:13.811330",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Socialist era",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The rapid political changes of 1990–91 initiated Mongolia's transition efforts toward developing a market economy, which were complicated and disrupted by the dissolution and ongoing deterioration of the former Soviet Union's economy.",
+        "• Prior to 1991, Mongolia's trade was heavily concentrated with the former Soviet Union, accounting for 80% of its trade, while 15% was with other Council for Mutual Economic Assistance (CMEA) countries.",
+        "• Mongolia was highly dependent on the former Soviet Union for essential imports such as fuel, medicine, and spare parts necessary for its factories and power plants.",
+        "• The former Soviet Union was the primary market for Mongolian industrial products during the socialist era.",
+        "• In the 1980s, Mongolia's industrial sector grew in significance, and by 1989, industry accounted for an estimated 34% of material products, surpassing agriculture, which contributed 18%.",
+        "• Despite industrial growth, Mongolia's exports remained largely composed of minerals, animals, and animal-derived products.",
+        "• Mongolia’s principal imports during this period included machinery, petroleum, cloth, and building materials.",
+        "• In the late 1980s, the Mongolian government began enhancing economic and diplomatic relations with non-communist Asian countries and Western nations, which contributed to the development of tourism in Mongolia.",
+        "• On 1 January 1991, Mongolia and the former Soviet Union agreed to conduct bilateral trade using hard currency at world market prices, marking a significant shift from previous trade arrangements.",
+        "• Despite facing external trade challenges, Mongolia continued to pursue economic reforms throughout the 1990s.",
+        "• Privatization efforts in Mongolia during the 1990s largely completed the transfer of small shops and enterprises from state to private ownership.",
+        "• Most prices in Mongolia were liberalized during this period, moving away from state-controlled pricing mechanisms.",
+        "• The privatization process for large state enterprises commenced in the 1990s, indicating a gradual shift toward a market economy.",
+        "• Tax reforms were initiated in Mongolia during the early 1990s as part of broader economic restructuring.",
+        "• In late 1991, Mongolia unified its barter and official exchange rates, aiming to stabilize and rationalize its currency and trade practices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:21.696143",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Transition to a market economy",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1990 and 1993, Mongolia experienced severe economic difficulties including triple-digit inflation, rising unemployment, shortages of basic goods, and food rationing, with economic output contracting by one-third during this period.",
+        "• Economic growth resumed in 1994–95 as market reforms and private enterprise began to take hold, although this growth was partly driven by an over-allocation of bank credit, particularly to remaining state-owned enterprises, which led to a significant weakening of the banking sector.",
+        "• In 1995, Mongolia's GDP grew by approximately 6%, largely due to a boom in copper prices.",
+        "• From 1996 to 1999, average real economic growth slowed to about 3.5%, influenced by external shocks including the 1997 Asian financial crisis, the 1998 Russian financial crisis, and declining commodity prices, especially for copper and gold.",
+        "• Mongolia’s GDP growth rate declined from 3.2% in 1999 to 1.3% in 2000, primarily due to the loss of 2.4 million livestock caused by adverse weather conditions and natural disasters in 2000.",
+        "• Development prospects outside the traditional nomadic, livestock-based agriculture sector remain limited due to Mongolia’s landlocked geography and lack of basic infrastructure.",
+        "• Since 1990, more than 1,500 foreign companies from 61 countries have invested a total of $338.3 million in Mongolia.",
+        "• By 2003, private companies accounted for 70% of Mongolia’s GDP and 80% of its exports, reflecting significant privatization and market economy development.",
+        "• Throughout most of Mongolia’s post-socialist period, there were very few restrictions on foreign investments, which facilitated growth in foreign direct investment (FDI).",
+        "• The mining industry’s share of FDI increased dramatically from zero in 1990 to nearly 25% by 1999, highlighting the sector’s growing importance in attracting foreign capital."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:31.423755",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Economic development present day",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mongolia's economy was severely impacted by the 2008 financial crisis due to its heavy reliance on trade with China, leading to a significant slowdown in economic growth.",
+        "• The sharp decline in metal prices, particularly copper which fell by 65% between July 2008 and February 2009, caused a drastic reduction in exports of Mongolia's raw materials.",
+        "• By 2009, the Mongolian Stock Exchange (MSE) Top-20 index reached an all-time low following a dramatic spike in mid-2007, reflecting the economic downturn.",
+        "• The winter period of 2009–2010 saw Mongolia hit by a Zud, a severe weather disaster, resulting in the death of many livestock and severely damaging cashmere production, which contributes approximately 7% to the country's export revenues.",
+        "• According to estimates by the World Bank and International Monetary Fund, Mongolia’s real GDP growth fell from 8% in 2008 to 2.7% in 2009, while exports contracted by 26%, decreasing from $2.5 billion to $1.9 billion.",
+        "• The 2008 financial crisis was projected to reduce the number of Mongolians lifted out of poverty by between 20,000 and 40,000 individuals, equivalent to 0.7% to 1.4% of the population.",
+        "• By late 2009 and early 2010, Mongolia’s market began to recover, supported by legislative reforms and tightened fiscal policies aimed at stabilizing and advancing the economy.",
+        "• In February 2010, Mongolia’s foreign assets were recorded at USD 1,569,449 million, indicating growing financial strength.",
+        "• New trade agreements were being established, and foreign investors showed increasing interest in Mongolia, often referred to as the \"Asian Wolf\" due to its economic potential.",
+        "• Mining is the dominant industrial sector in Mongolia, accounting for 30% of all industrial activity.",
+        "• Cashmere production is another key industry; Mongolia is the world's second-largest producer of cashmere, with the main company, Gobi Cashmere, responsible for 21% of global cashmere production as of 2006.",
+        "• Mongolia’s total exports reached US$7.6 billion in 2019, reflecting growth in trade activities.",
+        "• Economic growth in 2022 was expected to be around one percent, with international institutions forecasting an acceleration to at least six percent growth in 2023, driven by expanded commodity exports.",
+        "• A significant boom in commodity exports was anticipated from 2023 onwards, facilitated by new coal rail networks to China and increased copper production from Rio Tinto’s underground Oyu Tolgoi mine in southern Mongolia.",
+        "• In the early 2020s, despite growth fueled by natural resource exports, Mongolia’s economy faced challenges including over-reliance on mining, rising national debt, inflationary pressures, and potential disruptions to fuel supplies from Russia.",
+        "• The Mongolian government continued efforts to bolster economic stability through investments in infrastructure and social programs to mitigate these risks."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:44.633966",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2",
+      "section_name": "The Wolf Economy",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The term \"Wolf Economy\" was coined and popularized by Renaissance Capital in their report titled \"Mongolia: 'Blue-sky opportunity'.\"",
+        "• Renaissance Capital predicts that Mongolia is poised to become the new Asian tiger, alternatively referring to it as the \"Mongolian wolf.\"",
+        "• The report forecasts \"unstoppable\" economic growth for Mongolia, driven primarily by recent developments in the mining industry.",
+        "• Foreign interest in Mongolia's economy is increasing at an astonishing rate, contributing to the optimistic outlook.",
+        "• The aggressive title \"Wolf Economy\" reflects Mongolia's assertive attitude in capital markets.",
+        "• With the discovery of new mineral prospects, Mongolia has the potential to maintain its status as one of the world's fastest growing economies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:47.400999",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Banks",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2015, Mongolia's banking sector is highly concentrated, with five banks controlling approximately 80% of the country's financial assets.",
+        "• Shares of Mongolia's five largest domestic banks are planned to be offered to the public for the first time through the Mongolian Stock Exchange.",
+        "• This initiative is part of the partial privatization process of these major banks via the Mongolian Stock Exchange."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:49.955896",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Commercial banks",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• KhasBank is a community development bank and microfinance institution headquartered in Ulaanbaatar, Mongolia, operating a nationwide network comprising 100 offices and employing 1,309 staff members as of June 2012.",
+        "• Khan Bank’s central office is located in Ulaanbaatar, where it maintains 5 branches; additionally, it operates 24 regional branch offices across Mongolia, each overseeing 15 to 25 smaller branches, resulting in a total of 512 branches nationwide.",
+        "• Golomt Bank, established in 1995, currently manages approximately 23% of the assets within Mongolia’s domestic banking system and has recently initiated the sale of its stock to the public.",
+        "• Trade and Development Bank (TDB), founded in 1990 and recognized as the oldest bank in Mongolia, maintains a network of 28 branches and settlement centers, 60 ATMs, 1,300 point-of-sale (POS) terminals, and provides Internet and SMS banking services throughout the country; the Mongolian banking market is also seeing entry from foreign banks such as ING.",
+        "• Other smaller banks operating in Mongolia include M-Bank, State Bank, Capitron Bank, Arig Bank, Bogd Bank, and Chinggis Bank.",
+        "• According to the 2015 Ease of Doing Business survey, Mongolia ranked 61st out of 189 economies in terms of access to credit.",
+        "• As of May 2015, Mongolia had one of the highest banking branch penetration rates globally, with one bank branch serving every 15,257 residents."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:56.103857",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Investment banks",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mongolia's capital market environment has been strengthening, attracting the establishment of numerous foreign and local investment institutions within the country.",
+        "• Among the most prominent local investment agencies in Mongolia are TDB Capital, Eurasia Capital, Monet Investment Bank, BDSec, MICC, and Frontier Securities.",
+        "• TDB Capital is recognized as a key local investment institution, with archival records available as of 31 December 2019.",
+        "• MICC is another significant local investment bank, with archival documentation accessible as of 18 August 2020.",
+        "• These institutions collectively represent the growing presence and development of Mongolia’s investment banking sector amid an improving capital market landscape."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:59.480671",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4",
+      "section_name": "Environment",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mongolia's environment has significantly deteriorated due to rapid urbanization and industrial growth policies implemented during the communist regime.",
+        "• Severe air pollution in Ulaanbaatar is primarily caused by the burning of soft coal, the operation of thousands of factories, and a sharp increase in individual motorization.",
+        "• Environmental degradation also includes deforestation and overgrazed pastures, which have contributed to the decline in land quality.",
+        "• Historical agricultural practices aimed at increasing grain and hay production involved plowing up virgin land, which has further exacerbated soil erosion caused by wind and rain."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:44:02.759511",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "5",
+      "section_name": "Other statistics",
+      "chapter_name": "Economy of Mongolia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 2007 to 2022, Mongolia's GDP in billion US dollars (PPP) increased from 17.5 in 2007 to 47.1 in 2022, showing significant economic growth over the period.",
+        "• GDP per capita in US dollars (PPP) rose from $6,841 in 2007 to $11,567 in 2022, indicating improvement in average individual economic output.",
+        "• Nominal GDP in billion US dollars grew from $4.2 billion in 2007 to $17.1 billion in 2022, reflecting overall economic expansion in current prices.",
+        "• Real GDP growth rates fluctuated, with high growth of 17.3% in 2011 and negative growth of -4.6% in 2020, ending with a modest 2.5% growth in 2022.",
+        "• Inflation rates varied widely, peaking at 22.1% in 2008 and reaching lows around 1.0% in 2015, with a resurgence to 14.2% in 2022.",
+        "• Household income distribution in 2005 showed the lowest 10% of households earned 3.5% of total income, while the highest 10% earned 35%, indicating income inequality.",
+        "• The Gini index for family income distribution was recorded at 40 in 2000, suggesting moderate income inequality in Mongolia.",
+        "• Mongolia's agricultural products include wheat, barley, vegetables, forage crops, and livestock such as sheep, goats, cattle, camels, and horses.",
+        "• Key industries comprise construction and construction materials, mining of coal, copper, molybdenum, fluorspar, and gold, food and beverage production, processing of animal products, and manufacturing of cashmere wool and natural fibers.",
+        "• Industrial production growth rate was estimated at 6% in 2010, indicating steady industrial sector expansion.",
+        "• Electricity production in 2006 was 3.43 terawatt-hours (TWh), with consumption at 2.94 TWh, exports of 15.95 gigawatt-hours (GWh), and imports of 125 GWh.",
+        "• In 2011, electricity production sources were composed of 80% fossil fuels, 0% hydroelectric, 20% other sources, and 0% nuclear power.",
+        "• Oil production in 2006 was 822 barrels per day (130.7 cubic meters per day), while consumption was significantly higher at 11,220 barrels per day (1,784 cubic meters per day).",
+        "• Oil exports matched production at 822 barrels per day (130.7 m3/d) in 2006, whereas imports were much larger at 12,280 barrels per day (1,952 m3/d), indicating reliance on foreign oil.",
+        "• Mongolia’s main export commodities include copper, apparel, livestock, animal products, cashmere wool, hides, fluorspar, and other nonferrous metals.",
+        "• Import commodities consist of machinery and equipment, fuel, cars, food products, industrial consumer goods, chemicals, building materials, sugar, and tea.",
+        "• Exchange rates of the Mongolian tögrög (tugrik) per US dollar showed depreciation from 1,076.67 in 2000 to a peak of 1,890 in 2014, with intermediate values such as 1,396 in 2012, 1,420 in 2009, and 1,179.6 in 2006."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:44:19.551639",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_mongolia.json",
+      "original_index": 10
+    }
+  ]
+}

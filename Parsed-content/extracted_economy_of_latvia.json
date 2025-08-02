@@ -1,0 +1,308 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_latvia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.228400",
+    "total_sections_in_source": 13,
+    "extracted_sections_count": 12,
+    "skipped_sections_count": 1
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Latvia is characterized as an open economy within Europe and is integrated into the European Single Market.",
+        "• Latvia has been a member of the World Trade Organization (WTO) since 1999.",
+        "• Latvia joined the European Union (EU) in 2004.",
+        "• Latvia became a member of the Eurozone in 2014.",
+        "• Latvia has been a member of the Organisation for Economic Co-operation and Development (OECD) since 2016.",
+        "• Latvia is ranked 14th in the world according to the Ease of Doing Business Index, which is prepared by the World Bank Group.",
+        "• According to the Human Development Report 2023/24 by the United Nations Development Programme, Latvia's Human Development Index (HDI) score was 0.879 based on 2022 data.",
+        "• Due to its geographical location, Latvia has highly developed transit services, along with significant industries in timber and wood processing, agriculture and food products, and manufacturing of machinery and electronic devices.",
+        "• Latvia experienced rapid GDP growth exceeding 10% annually during 2006–2007.",
+        "• The country entered a severe recession in 2009, driven by an unsustainable current account deficit, collapse of the real estate market, and large debt exposure amid a softening global economy.",
+        "• The recession was triggered by the collapse of Parex Bank, Latvia’s second-largest bank.",
+        "• In 2009, Latvia’s GDP decreased by nearly 18%.",
+        "• During the recession, Latvia received substantial financial assistance from the European Union, the International Monetary Fund (IMF), and other international donors to support its economy and defend the currency’s peg to the euro.",
+        "• The financial aid was provided in exchange for the Latvian government’s commitment to implementing stringent austerity measures.",
+        "• Latvia’s economy recovered with a GDP growth of 5.5% in 2011, making it one of the fastest-growing economies in the European Union at that time.",
+        "• The IMF/EU financial assistance program concluded successfully in December 2011.",
+        "• Privatization efforts in Latvia are mostly complete, with the exception of some large state-owned utilities.",
+        "• Export growth played a significant role in Latvia’s economic recovery.",
+        "• The majority of Latvia’s economic activity is concentrated in the services sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:28.449262",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Throughout centuries, Latvia's geographic location under Hanseatic and German influence, and during its interwar independence, positioned it as a significant east–west commercial and trading hub.",
+        "• Latvia's main exports included timber, paper, and agricultural products, with industry primarily serving local markets.",
+        "• Prior to World War I, Latvia was an advanced manufacturing center within the Russian Empire, mainly catering to the Russian market.",
+        "• After Latvia gained independence in 1918, it lost its status as an advanced manufacturing hub.",
+        "• During the interwar period, Latvia aimed to become an international exporter of food and sought to re-industrialize its economy.",
+        "• GDP per capita in Latvia grew during the interwar years; however, some economic historians argue that there was stagnation during the authoritarian regime of Kārlis Ulmanis from 1934 to 1940.",
+        "• Following the reestablishment of independence, Latvia implemented market-oriented reforms gradually.",
+        "• The Latvian currency, the lat, was introduced in 1993 as a freely traded currency and remained stable or appreciated against major world currencies.",
+        "• Inflation rates decreased from 958.6% in 1992 to 25% in 1995, and further down to 1.4% by 2002.",
+        "• Latvia's economy contracted significantly between 1991 and 1995 but stabilized in late 1994, driven by recovery in light industry and a boom in commerce and finance sectors.",
+        "• The recovery was interrupted twice: first by a banking crisis and the bankruptcy of Banka Baltija, Latvia’s largest bank, in 1995; second by a severe financial crisis in neighboring Russia in 1998.",
+        "• Post-2000, Latvia experienced GDP growth of 6–8% annually for four consecutive years.",
+        "• Latvia's national budget was balanced in 1997; however, the 1998 Russian financial crisis led to large deficits, which decreased from 4% of GDP in 1999 to 1.8% in 2003.",
+        "• The deficits in Latvia were smaller compared to most other countries that joined the European Union in 2004.",
+        "• Until mid-2008, Latvia had the fastest-growing economy in Europe.",
+        "• In 2003, Latvia's GDP growth was 7.5%, with inflation at 2.9%.",
+        "• The Soviet centrally planned economy was replaced with a structure based on free-market principles during the post-independence reforms.",
+        "• By 2005, the private sector accounted for 70% of GDP.",
+        "• Recovery in light industry and Riga’s emergence as a regional financial and commercial hub offset declines in state-owned industrial sectors and agriculture.",
+        "• The official unemployment rate was maintained within the 7%–10% range during this period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:33.777615",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Economic contraction in 2008–2010",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 2008 financial crisis significantly disrupted Latvia's economy, primarily due to the buildup of an easy credit bubble starting in 2004.",
+        "• The bubble burst, leading to a rapid economic decline characterized by a budget crisis, wage reductions, and soaring unemployment rates.",
+        "• Latvia experienced its worst economic performance in 2009, with an average annual GDP growth rate of −18%.",
+        "• The Latvian economy entered a phase of fiscal contraction in the second half of 2008, following a period marked by credit-based speculation and inflated real estate values.",
+        "• In 2007, Latvia’s national account deficit exceeded 22% of GDP, while inflation was at 10%, indicating overheating and unsustainable economic conditions.",
+        "• By 2009, unemployment in Latvia rose to 23%, making it the highest unemployment rate in the European Union.",
+        "• Paul Krugman, a Nobel Laureate in economics in 2008, commented on Latvia’s crisis in his _New York Times_ Op-Ed on 15 December 2008, stating: \"The acutest problems are on Europe's periphery, where many smaller economies are experiencing crises strongly reminiscent of past crises in Latin America and Asia: Latvia is the new Argentina.\"",
+        "• By August 2009, Latvia’s GDP had contracted by 20% year-on-year, with Standard & Poor’s forecasting an additional 16% decline.",
+        "• The International Monetary Fund (IMF) suggested that Latvia should devalue its currency; however, the European Union opposed this measure because most of Latvia’s debt was denominated in foreign currencies.",
+        "• Financial economist Michael Hudson proposed redenominating Latvia’s foreign currency liabilities into Latvian lats prior to any devaluation to mitigate financial instability.",
+        "• By 2010, signs emerged that Latvia’s strategy of internal devaluation—reducing costs and wages domestically rather than devaluing the currency—was proving successful."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:37.336045",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Economic recovery 2010–2012",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 2010, Latvia's economic situation has shown notable improvement, indicating a period of recovery.",
+        "• By 2012, Latvia was regarded as a success in economic recovery, as stated by IMF managing director Christine Lagarde.",
+        "• Christine Lagarde highlighted Latvia's strong growth forecasts during this period.",
+        "• The Latvian economy experienced a growth rate of 5.5% in 2011.",
+        "• In 2012, the economy grew by 5.6%, marking the highest growth rate in Europe for that year.",
+        "• Latvia's GDP growth in this period surpassed pre-crisis levels by 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:39.201007",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Economic issues 2022-23",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Russian invasion of Ukraine in February 2022 led to various economic challenges in Latvia.",
+        "• Latvia's real GDP growth decreased to 2.8 percent in 2022, down from 4.3 percent in 2021.",
+        "• Russia was a significant trade partner for Latvia, and the implementation of EU sanctions on Russia adversely affected Latvian trade.",
+        "• The year 2022 experienced substantial increases in energy prices, driven by the need to find alternative sources of gas and oil, as well as logistical disruptions.",
+        "• Inflation in Latvia averaged 17.2% in 2022 due to these energy price hikes and supply chain issues.",
+        "• By 2023, inflation rates in Latvia had decreased to single-digit percentages, indicating a partial recovery from the previous year's inflationary surge."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:41.350184",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2",
+      "section_name": "Privatisation",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Privatisation in Latvia is nearly complete, with almost all small and medium-sized state-owned companies privatized, leaving only a few large, politically sensitive state companies still under government control.",
+        "• The country's main energy and utility company, Latvenergo, remains entirely state-owned, and there are no current plans to privatize it.",
+        "• The Latvian government holds minority shares in Ventspils Nafta, a key oil transit company, and in Lattelecom, the country's main telecommunications provider, but intends to relinquish these shares in the near future.",
+        "• Foreign investment in Latvia remains modest relative to levels in north-central Europe.",
+        "• A law was passed in 1997 to expand the scope for land sales, including sales to foreigners, facilitating foreign land investment.",
+        "• American companies accounted for 10.2% of Latvia's total foreign direct investment (FDI), investing approximately $127 million in 1999.",
+        "• In 1999, the United States exported goods and services worth $58.2 million to Latvia and imported goods and services valued at $87.9 million from Latvia.",
+        "• Latvia is eager to join Western economic institutions such as the World Trade Organization (WTO), the Organisation for Economic Co-operation and Development (OECD), and the European Union (EU).",
+        "• In 1995, Latvia signed a Europe Agreement with the EU, establishing a four-year transition period to align with EU standards and regulations.",
+        "• Latvia and the United States have signed treaties covering investment, trade, intellectual property protection, and the avoidance of double taxation to foster economic cooperation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:44.933949",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Employment",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The data covers employed and unemployed individuals within the Latvian workforce aged 15–74 years, spanning from 1996 to 2017, with the GDP reference year set at 2010, valued at 2010 chain-linked 2010 billion euros (bln EUR).",
+        "• The workforce figures for Latvia in this age group are presented in thousands of people, with specific data points indicating fluctuations over the period from 1996 to 2017.",
+        "• The employment-unemployment data shows variations in workforce participation, with specific figures provided for each year within the specified period, although exact numbers are not detailed in the summary.",
+        "• The GDP data, referenced to 2010, is used to contextualize economic growth and employment trends over the period from 1996 to 2017.",
+        "• In 2017, the average monthly gross wages in cities under state jurisdiction and counties are reported in euros, excluding private sector enterprises with fewer than 50 employees, according to the Central Statistical Bureau of Latvia.",
+        "• The average wages are notably higher in Riga and Ventspils, along with their surrounding areas, indicating regional disparities in income levels.",
+        "• Inland border regions, particularly the Latgale region, lag behind in average wage levels compared to the more developed urban centers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:50.058057",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.0.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Latvia produced approximately 1.4 million tons of wheat, making it a significant crop within the country's agricultural sector.",
+        "• The country also produced around 426 thousand tons of potatoes, highlighting the importance of root vegetables in Latvian agriculture.",
+        "• Barley production in 2018 reached approximately 306 thousand tons, contributing to both domestic consumption and export markets.",
+        "• Latvia produced about 229 thousand tons of rapeseed in 2018, which is utilized primarily for oil extraction and as animal feed.",
+        "• The oat harvest in 2018 amounted to approximately 188 thousand tons, indicating oats as a notable cereal crop.",
+        "• Rye production was approximately 81 thousand tons, reflecting its traditional role in Latvian baking and food culture.",
+        "• The country produced around 80 thousand tons of beans, representing a smaller but significant segment of its agricultural output.",
+        "• In addition to these major crops, Latvia cultivated smaller quantities of various other agricultural products, contributing to the diversity of its agricultural sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:52.514767",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Services",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the Services sector was the industry with the highest number of registered companies in Latvia, totaling 71,692 companies.",
+        "• The Retail Trade sector ranked second in the number of registered companies, with a total of 15,300 companies.",
+        "• The Finance, Insurance, and Real Estate sector accounted for 10,287 registered companies in 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:54.705743",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Most valuable companies",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to data from Prudentia and Nasdaq Riga (2024), the largest Latvian companies by valuation are ranked based on their estimated worth in euros (€) billions.",
+        "• Swedbank Baltics, AS, headquartered in Riga, holds the top position with a valuation of €4.345 billion, operating primarily within the banking industry.",
+        "• Latvenergo, AS, also based in Riga, is the second most valuable company with a valuation of €4.024 billion, and it functions within the energy sector.",
+        "• Latvijas valsts meži [lv], AS, located in Riga, ranks third with a valuation of €1.657 billion, and it specializes in the forestry industry.",
+        "• Mikrotīkls, SIA, another Riga-based company, is valued at €0.992 billion and operates in the network equipment industry.",
+        "• Maxima Latvija, SIA, also headquartered in Riga, has a valuation of €0.816 billion and is part of the retail industry.",
+        "• SEB banka, AS, located in Valdlauči [lv], is valued at €0.590 billion and belongs to the banking sector.",
+        "• Latvijas Mobilais Telefons, SIA, based in Riga, has a valuation of €0.560 billion and operates within telecommunications.",
+        "• Citadele Banka, AS, headquartered in Riga, is valued at €0.507 billion and is part of the banking industry.",
+        "• Rimi Latvia, SIA, also in Riga, has a valuation of €0.499 billion and functions in the retail sector.",
+        "• Tele2, SIA, based in Riga, is valued at €0.425 billion and operates within telecommunications.",
+        "• Elko Grupa, AS, located in Riga, holds a valuation of €0.402 billion and is involved in the wholesale of electronics."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:02:58.251029",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The majority of electricity production in Latvia is derived from hydroelectricity, emphasizing the country's reliance on renewable water resources for energy generation.",
+        "• The largest hydroelectric power stations in Latvia include the Pļaviņas Hydroelectric Power Station, Riga Hydroelectric Power Plant, and Ķegums Hydroelectric Power Station, which collectively contribute significantly to national electricity output.",
+        "• In the year 2017, Latvia produced approximately 4,381 gigawatt-hours (GWh) of electricity from hydroelectric sources, highlighting the sector's importance in the country's energy mix.",
+        "• During the same year, wind power contributed around 150 GWh to Latvia's electricity production, indicating the presence of wind energy as a supplementary renewable source.",
+        "• Latvia has outlined plans to increase wind electricity generation as part of its strategic energy development, specifically under the 2021-2030 energy plan, aiming to expand renewable energy capacity.",
+        "• Historically, Latvia was entirely dependent on imported natural gas from Russia, with 100% of its natural gas supply coming from Russian sources until a policy change in January 2023.",
+        "• In January 2023, Latvia banned the import of natural gas from Russia, marking a significant shift in its energy import policy and reducing dependency on Russian energy supplies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:03:01.729447",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Latvia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The key ports in Latvia are located in Riga (comprising the Freeport of Riga and Riga Passenger Terminal), Ventspils (the Free port of Ventspils), and Liepāja (the Port of Liepāja).",
+        "• These ports handle most of Latvia’s transit traffic, with approximately fifty percent of the cargo consisting of crude oil and oil products.",
+        "• Latvian Railways is the primary state-owned railway company in Latvia, responsible for the majority of rail transport operations.",
+        "• Latvian Railways has subsidiary companies that conduct passenger services and also transport a significant volume of freight cargo.",
+        "• Freight trains operated by Latvian Railways run across the entire current passenger network, as well as on several lines that are presently closed to passenger services.",
+        "• Riga International Airport is the only major airport in Latvia, serving approximately 5 million passengers annually.",
+        "• It is the largest airport in the Baltic states and offers direct flights to over 80 destinations across 30 countries.",
+        "• Riga International Airport functions as the main hub for airBaltic, Latvia’s flagship airline."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:03:05.007620",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_latvia.json",
+      "original_index": 12
+    }
+  ]
+}

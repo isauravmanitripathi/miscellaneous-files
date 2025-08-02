@@ -1,0 +1,340 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_mauritius.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.348379",
+    "total_sections_in_source": 13,
+    "extracted_sections_count": 13,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Mauritius is characterized as a mixed developing economy, incorporating elements of agriculture, exports, financial services, and tourism.",
+        "• Since the 1980s, the government of Mauritius has actively pursued economic diversification to reduce the country's reliance on agriculture, with a particular focus on moving beyond sugar production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:31:41.778572",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1961, Professor James Meade predicted bleak economic prospects for Mauritius, then with a population of 650,000, due to disadvantages typical of small island states and a perceived Malthusian trap limiting economic progress.",
+        "• Since gaining independence in 1968, Mauritius transformed from a low-income, agriculture-based economy into an upper-middle-income diversified economy with expanding industrial, financial, information and communications technology (ICT), and tourism sectors.",
+        "• Mauritius has maintained an average annual economic growth rate of roughly 4%, outperforming many sub-Saharan African countries; specifically, from 1977 to 2008, its growth averaged 4.6% compared to a 2.9% average in sub-Saharan Africa.",
+        "• The country achieved notable improvements in income distribution, with the Gini coefficient declining from 45.7 in 1980 to 38.9 in 2006, reflecting more equitable wealth distribution than typically seen in fast-growing economies.",
+        "• Social indicators improved alongside economic growth, including increased life expectancy, reduced infant mortality, and enhanced infrastructure development.",
+        "• Sugarcane cultivation occupies approximately 90% of Mauritius’s cultivated land and contributes about 25% of the country’s export earnings.",
+        "• The government’s development strategy focuses on expanding local financial institutions and developing a domestic information telecommunications industry.",
+        "• Mauritius has attracted over 9,000 offshore entities, many targeting commerce with India and South Africa, with banking sector investments surpassing $1 billion.",
+        "• The country’s strong textile sector positioned it well to benefit from the Africa Growth and Opportunity Act (AGOA).",
+        "• Mauritius is recognized as one of the developing world’s most successful democracies, supported by a well-developed legal and commercial infrastructure and a tradition of entrepreneurship and representative government.",
+        "• The economy has demonstrated resilience and increased economic freedom, fostering a dynamic entrepreneurial environment.",
+        "• Mauritius benefits from institutional advantages including a transparent and well-defined investment code and legal system, which contribute to one of the best foreign investment climates in the region.",
+        "• The taxation system is competitive and efficient, further supporting economic diversification.",
+        "• The economy is increasingly diversified, with significant private-sector involvement in sugar, tourism, economic processing zones (EPZs), and financial services, especially offshore enterprises.",
+        "• The government is actively modernizing the sugar and textile industries, which historically depended heavily on trade preferences, while promoting diversification into ICT, financial and business services, seafood processing and exports, and free trade zones.",
+        "• Agriculture and industry have declined in relative economic importance, with services—particularly tourism—accounting for over 72% of GDP (date unspecified).",
+        "• The government retains ownership of utilities and controls imports of essential commodities such as rice, flour, petroleum products, and cement.",
+        "• Europe and the United States have traditionally been Mauritius’s main export markets.",
+        "• Preferential trade agreements with the European Union and the United States in sectors like sugar and textiles significantly boosted Mauritius’s export growth from the 1970s through the 1990s.",
+        "• The clothing and textile industry began in the 1970s, initiated by foreign investors mainly from Hong Kong who established firms assembling imported textiles into garments, primarily within export processing zones (EPZs).",
+        "• The clothing and textile sector led Mauritius’s industrialization process and accounted for approximately 43% of exports in 2019."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:31:58.160595",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "History",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since gaining independence, the Mauritian economy has transformed from a poor nation with high unemployment and an economy reliant mainly on sugar exports, vulnerable to fluctuations in global demand, into a relatively prosperous and diversified economy, albeit with ongoing challenges.",
+        "• During the 1970s, the Mauritian government demonstrated a strong commitment to economic diversification and the creation of higher-paying jobs for its population, focusing on promoting tourism and establishing Export Processing Zones (EPZs) to achieve these objectives.",
+        "• Between 1971 and 1977, approximately 64,000 jobs were created in Mauritius, largely due to government initiatives promoting tourism and EPZ development.",
+        "• In the rapid expansion of employment through EPZ firms, the government permitted these firms to deny workers fair wages, the right to organize and strike, and access to health and social benefits that were otherwise available to other Mauritian workers.",
+        "• The mid-1970s economic boom was supported by increased foreign aid, exceptional sugar crop yields, and high world sugar prices.",
+        "• The economic situation worsened in the late 1970s due to rising petroleum prices, the end of the sugar boom, and a growing balance of payments deficit caused by imports exceeding exports; by 1979, this deficit reached US$111 million.",
+        "• Facing economic difficulties, Mauritius sought assistance from the International Monetary Fund (IMF) and the World Bank, agreeing to implement austerity measures including cutting food subsidies, devaluing the currency, and limiting government wage increases in exchange for loans and credits to finance imports.",
+        "• In the 1980s, a broad political consensus on economic policies facilitated steady economic growth, reduced inflation, high employment levels, and increased domestic savings in Mauritius.",
+        "• The EPZ sector, with significant investment from China, Hong Kong, and Taiwan, became the leading export-earning sector in Mauritius during the 1980s, surpassing sugar exports and employing more workers than the sugar industry and government combined, which had previously been the two largest employers.",
+        "• In 1986, Mauritius recorded its first trade surplus in twelve years, marking a significant economic milestone.",
+        "• The tourism sector experienced substantial growth in the 1980s, accompanied by an expansion in hotel capacity and increased air traffic, contributing to the country’s economic optimism.",
+        "• Mauritius’s economic success in the 1980s led to comparisons with dynamic Asian economies such as Hong Kong, Singapore, Taiwan, and South Korea.",
+        "• Economic growth slowed in the late 1980s and early 1990s, but the Mauritian government remained optimistic about ensuring long-term prosperity through prudent development planning.",
+        "• A stock exchange was established in Port Louis in 1989, enhancing the country’s financial infrastructure.",
+        "• By 1993, Mauritius had an estimated gross domestic product (GDP) of US$8.6 billion, a growth rate of 5.5 percent, and an inflation rate of 10.5 percent.",
+        "• Mauritius’s economy has consistently relied on external financial inflows, including revenues from tourism, offshore financial services, and foreign aid, to support its development and economic stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:08.709435",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Policies for success",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Recent reports on progress regarding the Millennium Development Goals, published by the Overseas Development Institute, identified four principal factors contributing to the economic success of Mauritius.",
+        "• The first key reason is heterodox liberalisation and diversification, indicating that Mauritius adopted unconventional or non-traditional approaches to liberalizing its economy and diversifying its economic activities.",
+        "• The second factor is a concerted strategy of nation building, reflecting deliberate and coordinated efforts by the government and stakeholders to foster national unity and socio-economic development.",
+        "• The third reason involves the presence of strong and inclusive institutions, emphasizing the role of robust governance structures that incorporate broad participation and equitable representation in economic and political processes.",
+        "• The fourth and final factor is the implementation of high levels of equitable public investment, signifying substantial and fairly distributed government spending aimed at promoting inclusive growth and development across different sectors and populations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:12.497082",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Heterodox liberalisation and diversification",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mauritius has implemented a pragmatic development strategy characterized by a sequenced and tailored liberalisation process aligned with its competitive advantages and weaknesses, emphasizing an export-oriented approach.",
+        "• The liberalisation strategy in Mauritius has been supported by strong state involvement, with the government acting as a facilitator by creating an enabling environment for the private sector, as an operator to encourage competition, and as a regulator to protect the economy and vulnerable groups and sectors from shocks.",
+        "• Strategic decisions regarding liberalisation and economic policies in Mauritius have been evidence-based and adapted according to outcomes, ensuring consistency and stability irrespective of the ruling political party.",
+        "• The liberalisation process in Mauritius occurred in distinct phases, each designed to capitalize on the country’s existing international market advantages.",
+        "• In the 1970s, Mauritius benefited significantly from sugar rents and established an Export Processing Zone (EPZ), successfully attracting capital and foreign investment in manufacturing from investors originating from China, Hong Kong, and Taiwan.",
+        "• During the 1980s and 1990s, the EPZ expanded substantially, resulting in a marked increase in foreign direct investment (FDI) and growth in the tourism sector.",
+        "• Preferential access to sugar and clothing markets during the 1980s accounted for approximately 7% of Mauritius’s GDP, decreasing to 4.5% in the 1990s.",
+        "• Throughout the 1980s and 1990s, Mauritius liberalised its capital and current accounts, which contributed to an investment and employment boom; the high inflow of FDI during this period also facilitated the transfer of managerial skills to the local economy.",
+        "• Between the 1990s and 2010, Mauritius pursued further economic diversification, liberalisation, and investment initiatives, coinciding with the withdrawal of Chinese investors who redirected their investments toward Africa and China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:21.204100",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Concerted strategy of nation building",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since Independence, Mauritius implemented a concerted strategy of nation building that established the foundations for sustained economic growth.",
+        "• Strategic partnerships were formed across different ethnic groups, facilitating negotiated economic redistribution.",
+        "• This redistribution led to a more balanced allocation of economic and political power among the population.",
+        "• The improved balance of power enabled the development of strong and independent institutions within the country.",
+        "• The emerging political system promoted a consultative approach to policy formation, fostering inclusive dialogue among stakeholders.",
+        "• Such a consultative framework ensured continuity of growth strategies despite changes in the ruling political parties."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:24.478754",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Strong and inclusive institutions",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Strong institutions are essential for maintaining a country's competitiveness, economic resilience, and stability.",
+        "• These institutions have played a pivotal role in supporting development strategies in Mauritius.",
+        "• They have ensured that export earnings are systematically reinvested into strategic and productive sectors of the economy.",
+        "• In the financial sector, these institutions have established a regulated and well-capitalised banking and financial system.",
+        "• This robust financial system effectively shielded Mauritius from exposure to toxic assets prior to the 2008 global financial crisis."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:28.241294",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.3.1",
+      "section_name": "Corruption laws",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2002, the government of Mauritius adopted the Prevention of Corruption Act, establishing a legal framework to combat corruption within the country.",
+        "• Following the enactment of the Prevention of Corruption Act, the Independent Commission Against Corruption (ICAC) was established a few months later to enforce anti-corruption measures.",
+        "• The ICAC is empowered to detect and investigate offences related to corruption and money laundering, ensuring comprehensive oversight of illicit financial activities.",
+        "• In addition to investigative powers, the ICAC has the authority to confiscate proceeds derived from corruption and money laundering, thereby disrupting financial incentives for such crimes.",
+        "• Despite concerns about corruption in many countries, corruption is not perceived as a significant obstacle to foreign direct investment (FDI) in Mauritius.",
+        "• According to Transparency International’s Corruption Perceptions Index for 2023, Mauritius is ranked 55th out of 168 countries, reflecting its relative standing in terms of perceived corruption levels globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:32.981580",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "High levels of equitable public investment",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mauritius has developed a strong human capital foundation through consistent and equitable investment in human development, which has been pivotal in maintaining its competitiveness in a rapidly evolving international market.",
+        "• The country has leveraged foreign direct investment (FDI) by learning from the expertise brought in, enabling it to exploit various economic advantages effectively.",
+        "• Education and health services in Mauritius are provided free of charge and have been expanded in recent years to foster further employment opportunities and ensure inclusive economic growth.",
+        "• The presence of an educated and adaptable workforce was a critical factor in Mauritius’s export-oriented growth during the 1980s.",
+        "• Approximately 90% of entrepreneurs operating within the Export Processing Zone (EPZ) and the manufacturing sector are Mauritian nationals, indicating strong local participation in these economic areas.",
+        "• Mauritian businesspeople possess the necessary human capital, education, and knowledge to capitalize on market opportunities within the manufacturing and export sectors.",
+        "• According to the Government of Mauritius, the manufacturing sector’s general outlook remains positive due to the numerous opportunities available to entrepreneurs across various value chains.",
+        "• Despite the positive outlook, the manufacturing sector faces challenges including insufficient skilled labor and limited research and development capabilities, which are expected to constrain potentially higher growth in this sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:37.792992",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4",
+      "section_name": "Financial services",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mauritius offers a conducive environment for a diverse range of international business activities including banks, insurance and reinsurance companies, captive insurance managers, trading companies, ship owners or managers, fund managers, and various professionals.",
+        "• The financial services sector in Mauritius experienced rapid growth following the country’s economic success during the 1980s, marking a significant expansion in offshore financial activities.",
+        "• Mauritius facilitates multiple types of offshore activities, which include Offshore Banking, allowing financial institutions to conduct banking operations internationally from Mauritius.",
+        "• Offshore Insurance is supported, enabling insurance and reinsurance companies to operate within the jurisdiction for international clients.",
+        "• Offshore Funds Management is available, providing a platform for managing investment funds targeted at global investors.",
+        "• The country supports International Financial Services broadly, encompassing various cross-border financial transactions and services.",
+        "• Mauritius serves as a base for Operational Headquarters, allowing multinational corporations to centralize management and administrative functions.",
+        "• International Consultancy Services are conducted, offering advisory and professional services to global clients from Mauritius.",
+        "• Shipping and Ship Management activities are conducted offshore, supporting maritime operations and vessel management.",
+        "• Aircraft Financing and Leasing services are provided, facilitating the financing and leasing of aircraft for international clients.",
+        "• International Licensing and Franchising operations are enabled, allowing businesses to manage intellectual property rights and franchise agreements globally.",
+        "• Mauritius supports International Data Processing and Information Technology Services, providing IT and data management solutions for international markets.",
+        "• Offshore Pension Funds are established, offering retirement fund management services for international beneficiaries.",
+        "• International Trading activities are conducted, enabling companies to engage in cross-border trade from Mauritius.",
+        "• International Assets Management is facilitated, allowing for the management and administration of global asset portfolios through Mauritius-based entities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:44.141578",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "5",
+      "section_name": "Information and communication technology",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 2002, Mauritius has made significant investments aimed at developing a hub for information and communication technology (ICT).",
+        "• The ICT sector in Mauritius contributes 5.7% to the country’s Gross Domestic Product (GDP).",
+        "• The ICT sector provides employment to 15,390 individuals within Mauritius.",
+        "• Mauritius has actively contributed to advancements in post-quantum cryptography by implementing MLKEM-1024 and SecP384R1MLKEM1024 in the GnuTLS project."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:32:46.804360",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "6",
+      "section_name": "Macroeconomic statistics",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the International Monetary Fund (IMF) in 2012, Mauritius's GDP (Purchasing Power Parity, PPP) was valued at $20.200 billion.",
+        "• The World Bank reported Mauritius's GDP (PPP) as $19,245,631,329 for the year 2012.",
+        "• The World Factbook estimated Mauritius's GDP (PPP) at $20,950,000,000 in 2012.",
+        "• The IMF's 2012 data indicated that Mauritius's GDP (PPP) per capita was $15,591.974.",
+        "• The World Bank recorded Mauritius's GDP (PPP) per capita as $14,902 in 2012.",
+        "• The World Factbook reported a GDP (PPP) per capita of $16,100 for Mauritius in 2013.",
+        "• Data on GDP (PPP) per person employed was available from the World Bank for the period 1990-2010 and from The World Factbook in 2012, though specific figures were not provided.",
+        "• The United Nations estimated Mauritius's nominal GDP at $10,086,649,093 in 2012.",
+        "• The IMF reported Mauritius's nominal GDP as US$11.930 billion in 2013.",
+        "• The World Bank's 2012 nominal GDP figure for Mauritius was $10,486,037,634.",
+        "• The World Factbook estimated Mauritius's nominal GDP at $11.9 billion in 2013.",
+        "• The IMF's 2013 data showed Mauritius's nominal GDP per capita as US$9,159.681.",
+        "• The World Bank reported Mauritius's gross national income (GNI) using the Atlas method as US$11,070 million in 2012.",
+        "• The World Bank also recorded Mauritius's GNI per capita (Atlas method and PPP) as an average national income of US$8,570 per person per year in 2012.",
+        "• The Gini index for Mauritius, measuring income distribution inequality, was 39 according to a 2006 estimate.",
+        "• Mauritius's agricultural products include sugarcane, tea, corn, potatoes, bananas, pulses, as well as livestock such as cattle and goats, and fish.",
+        "• The industrial production growth rate in Mauritius was estimated at 8% in the year 2000.",
+        "• Electricity production in Mauritius was 1,836 GWh in 2002, while electricity consumption was slightly lower at 1,707 GWh in the same year.",
+        "• Oil consumption in Mauritius was estimated at 21,000 barrels per day (3,300 cubic meters per day) in both 2001 and 2003.",
+        "• Mauritius's current account balance was $1,339 million in 2011, up from $799.4 million in 2010.",
+        "• Reserves of foreign exchange and gold in Mauritius were estimated at $2,797 billion in 2012, increasing from $2,601 billion in 2010.",
+        "• Mauritius was ranked 8th in the 2013 Index of Economic Freedom, although this ranking is marked as needing citation.",
+        "• The exchange rate of Mauritian rupees per US dollar fluctuated as follows: 30.12 on 26 March 2014; 30.99 on 1 February 2010; 32.86 in 2006; 29.14 in 2005; 27.50 in 2004; 27.90 in 2003; 29.96 in 2002; and 29.13 in 2001."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:33:00.646580",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "7",
+      "section_name": "Climate change and the economy",
+      "chapter_name": "Economy of Mauritius",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mauritius faces significant environmental challenges, including flash floods and coastal erosion, which have substantial economic implications for the country.",
+        "• In June 2024, the Mauritian government announced plans to introduce a 2% climate levy on company profits to finance projects aimed at combating climate change and restoring the natural ecosystem.",
+        "• Companies with sales below 50 million rupees (equivalent to $1.06 million) will be exempt from the 2% climate levy.",
+        "• The proceeds from this corporate responsibility levy will support national initiatives focused on protecting, managing, investing in, and restoring Mauritius's natural ecosystem, as well as combating the effects of climate change.",
+        "• Mauritius, with a population of 1.26 million people, is experiencing an increasing frequency of climate change-related events and requires mobilization of 300 billion rupees to achieve its adaptation and mitigation goals.",
+        "• In 2024, flash floods severely disrupted the capital city, Port Louis, halting banking and market activities and highlighting the vulnerability of critical economic sectors to climate events.",
+        "• Tourism, a vital sector for Mauritius and a major source of foreign currency, is projected to generate over $2 billion in earnings from visitors in 2024.",
+        "• Coastal erosion has affected more than 37 kilometres (23 miles) of Mauritius’s coastline, posing a significant threat to the tourism industry and the broader economy.",
+        "• The government has allocated 3.2 billion rupees to a new climate fund dedicated to rehabilitating approximately 26 kilometres (16 miles) of shoreline and restoring 30 degraded sites to mitigate environmental damage.",
+        "• For the fiscal year ending June 2025, government expenditure in Mauritius is projected to increase by 17%, reaching 237.3 billion rupees, while government revenue is expected to grow by 20% to 210.5 billion rupees.",
+        "• The fiscal gap is anticipated to narrow to 3.4% of GDP in 2025, down from 3.9% in 2024, reflecting improved fiscal management despite increased spending.",
+        "• Borrowing requirements for the government will rise to 38 billion rupees in 2025, up from 30.7 billion rupees in 2024, with 14 billion rupees expected to come from foreign financing sources.",
+        "• Despite the increase in borrowing, public debt as a percentage of GDP is projected to decline to 71.5% in 2025 from 74.5% in 2024, although the absolute value of public debt will increase to 567.49 billion rupees from 524.6 billion rupees.",
+        "• A government-support agreement is anticipated to unlock over 15 billion rupees in private-sector investment specifically targeted at renewable energy projects, underscoring Mauritius’s commitment to sustainable development and enhancing economic resilience against climate change."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:33:21.931570",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_mauritius.json",
+      "original_index": 12
+    }
+  ]
+}

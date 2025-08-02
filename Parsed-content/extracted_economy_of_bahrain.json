@@ -1,0 +1,226 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_bahrain.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.414894",
+    "total_sections_in_source": 7,
+    "extracted_sections_count": 7,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Bahrain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Bahrain is heavily reliant on oil and gas resources, forming the backbone of its economic activities.",
+        "• The Bahraini Dinar is recognized as the second-highest-valued currency unit globally, indicating a strong monetary position.",
+        "• Since the late 20th century, Bahrain has made substantial investments in the banking and tourism sectors to diversify its economy.",
+        "• The capital city, Manama, hosts numerous large financial institutions and structures, serving as a financial hub for the country.",
+        "• Bahrain's finance industry is notably successful, with significant growth and regional influence.",
+        "• In 2008, Bahrain was named the world's fastest-growing financial center by the City of London's Global Financial Centres Index, highlighting its rapid development in finance.",
+        "• The country's banking and financial services sector, especially Islamic banking, have thrived due to regional economic growth driven by high oil demand.",
+        "• Petroleum exports constitute Bahrain's most significant export product, representing 60% of the country's export receipts.",
+        "• Petroleum accounts for 70% of Bahrain's government revenues, underscoring its critical role in public finances.",
+        "• Petroleum contributes approximately 11% to Bahrain's gross domestic product (GDP).",
+        "• Aluminium is the second most exported product from Bahrain, followed by finance and construction materials, indicating a diversified export portfolio.",
+        "• According to the 2020 edition of the _Index of Economic Freedom_ published by The Heritage Foundation and _The Wall Street Journal_, Bahrain ranks as the fourth-freest economy in the Middle East and North Africa region.",
+        "• Globally, Bahrain is positioned as the 40th-freest economy according to the same index, reflecting a relatively open and free economic environment.",
+        "• An alternative ranking by the Fraser Institute places Bahrain at 70th position in terms of economic freedom.",
+        "• The World Bank has recognized Bahrain as a high-income economy, indicating a high standard of living and economic development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:31:03.984273",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_bahrain.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economy overview",
+      "chapter_name": "Economy of Bahrain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Oil and natural gas are the dominant sectors in Bahrain’s economy, playing a central role in economic activities and revenue generation.",
+        "• Despite efforts to diversify the economy, oil remains the primary revenue source, accounting for approximately 85% of Bahrain’s budget revenues, as reported by the CIA World Fact Book.",
+        "• Fluctuations in global energy prices have significantly impacted Bahrain’s fiscal stability, with lower energy prices in recent years leading to sizeable budget deficits—specifically, about 10% of GDP in 2017.",
+        "• Bahrain is classified as a wealthy country within the Middle East and North Africa (MENA) region, with its economy heavily reliant on oil and gas, international banking, and tourism sectors.",
+        "• During 2003 and 2004, Bahrain experienced an improvement in its balance of payments, driven by rising oil prices and increased receipts from the services sector.",
+        "• The current account balance recorded a surplus of US$219 million in 2003 and US$442 million in 2004, contrasting with a deficit of US$35 million in 2002.",
+        "• Bahrain’s gross international reserves saw a substantial increase in 2004, reaching US$1.6 billion, up from US$1.4 billion during the previous three-year period (2001-2003)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:31:11.041367",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_bahrain.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Diversification",
+      "chapter_name": "Economy of Bahrain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Bahrain's current GDP per capita shrank by 2.4% in the 1980s but rebounded with a 36% growth in the 1990s due to successful diversification initiatives.",
+        "• The country's economic liberalization was driven by the need to diversify away from its limited oil reserves, unlike its Persian Gulf neighbors which possess substantial oil wealth.",
+        "• Bahrain's economy has expanded into banking, heavy industries, retail, and tourism, positioning itself as the main banking hub for the Persian Gulf and a center for Islamic finance, attracted by a strong regulatory framework.",
+        "• The International Monetary Fund's Financial System Stability Assessment published on 6 March 2006 noted that Bahrain's financial system was performing strongly under favorable conditions and was likely to remain a major growth contributor.",
+        "• The IMF report identified the main risk as potential regional economic overheating but concluded the financial system should be resilient to likely shocks.",
+        "• Prudential regulations in Bahrain are modern and comprehensive, with supervision being generally effective, especially in the banking sector; however, supervisory capacity needs expansion to match regulatory growth and institutional sophistication.",
+        "• Future growth of Bahrain’s financial system depends on expanding the Islamic sector, developing housing finance, deepening securities markets, and consolidating banking and insurance sectors.",
+        "• In 2005, Bahrain signed the US-Bahrain Free Trade Agreement, becoming the first Persian Gulf state to establish such a bilateral trade agreement with the United States.",
+        "• Bahrain is undergoing a massive privatization program, selling off key government assets including utilities, banks, financial services, and telecommunications, which are transitioning to private sector control.",
+        "• The economy benefited from sustained high oil prices since 2002, positioning Bahrain to exploit regional revenues effectively.",
+        "• In January 2006, the United Nations Economic and Social Commission for Western Asia identified Bahrain as the fastest-growing economy in the Arab world.",
+        "• Between 1981 and 1993, Bahrain’s government expenditures increased by 64%, while government revenues, largely dependent on oil, increased by only 4%.",
+        "• Bahrain has received significant budgetary support and project grants from Saudi Arabia, Kuwait, and the United Arab Emirates.",
+        "• The government invested oil revenues into developing advanced infrastructure in transportation and telecommunications, establishing Bahrain as a regional financial and business hub.",
+        "• Tourism, especially from the regional market, has become a significant income source for Bahrain.",
+        "• Post-2001, Bahrain benefited from the oil boom with an economic growth rate of 5.5%, attracting investments from other Persian Gulf states due to prior infrastructure investments in health, education, housing, electricity, water, and roads.",
+        "• The Bahrain Grand Prix and the Islamic banking boom have enhanced Bahrain’s international profile, encouraging major airlines like Lufthansa to resume services, with Lufthansa announcing three weekly flights from Frankfurt to Muharraq on 14 March 2006.",
+        "• Bahrain has initiated labor reforms under Minister of Labour Majeed Al Alawi to align its labor market with international standards.",
+        "• The country aims to expand high-tech industries, invest in research and development, and strengthen its global competitive edge.",
+        "• The Bahrain Science and Technology Park, launched as a Kuwait Finance House Bahrain initiative, exemplifies efforts to diversify the economy, create high-quality jobs, and foster innovation.",
+        "• In 2009, Bahrain announced a development project adjacent to the Bahrain International Circuit, managed by @Bahrain, involving over 1 million square meters of business, entertainment, and educational space valued at over $2 billion (BD 850 million), making it one of the largest recent investments.",
+        "• The project includes facilities such as exhibition and convention centers, hotels, a multi-purpose indoor arena, automotive and engineering facilities, retail and leisure establishments, a tech-entertainment center, a research institute, a technology park, and educational and training centers.",
+        "• As of July 2023, Bahrain’s exports decreased by 23% to BD323 million, while imports fell by 6% to BD441 million, resulting in a trade deficit of BD68 million, according to the Information & eGovernment Authority report.",
+        "• In 2023, Bahrain’s GDP grew by 2.45%, with the non-oil sector expanding robustly by 4.48%, reflecting successful diversification efforts.",
+        "• The Bahrain Economic Development Board played a key role in improving the investment climate, facilitating international investment, and expanding sectors open to 100% foreign ownership, including specific initiatives in oil and gas under certain conditions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:31:26.640719",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_bahrain.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Bahrain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section provides a chart illustrating the trend of Bahrain’s gross domestic product (GDP) at market prices, estimated by the International Monetary Fund (IMF), with figures expressed in millions of Bahraini Dinars.",
+        "• The data spans from 1980 to 2024, with specific annual figures for GDP, US dollar exchange rate, and inflation index (base year 2000=100).",
+        "• In 1980, Bahrain’s GDP was 1,354 million Bahraini Dinars, with an exchange rate of 0.377 Bahraini Dinars per US dollar, and an inflation index of 74.",
+        "• By 1985, GDP increased to 1,609 million Bahraini Dinars, maintaining the same exchange rate, with the inflation index rising to 90.",
+        "• In 1990, GDP reached 1,867 million Bahraini Dinars, inflation slightly decreased to 89, while the exchange rate remained at 0.377 Bahraini Dinars per US dollar.",
+        "• In 1995, GDP grew to 2,552 million Bahraini Dinars, with the inflation index at 98, still at an exchange rate of 0.377 Bahraini Dinars.",
+        "• The year 2000 saw GDP rise to 3,408 million Bahraini Dinars; inflation index reached 100, and the exchange rate remained at 0.377 Bahraini Dinars.",
+        "• In 2005, GDP significantly increased to 6,004 million Bahraini Dinars, with inflation index at 105; the exchange rate was unchanged at 0.377 Bahraini Dinars.",
+        "• By 2010, GDP had grown to 9,668 million Bahraini Dinars, inflation index increased to 120, maintaining the exchange rate of 0.377 Bahraini Dinars.",
+        "• In 2015, GDP was 11,675 million Bahraini Dinars, with an inflation index of 133, still at 0.377 Bahraini Dinars per US dollar.",
+        "• In 2020, GDP reached 13,058 million Bahraini Dinars; inflation index was 139; the exchange rate remained at 0.377 Bahraini Dinars.",
+        "• For purchasing power parity (PPP) comparisons, the US dollar is exchanged at a rate of 0.30 Bahraini Dinars.",
+        "• The mean wages in Bahrain in 2009 were $19.81 per man-hour.",
+        "• A comprehensive table presents key economic indicators from 1980 to 2022, including GDP in billions of US dollars (PPP and nominal), GDP per capita in US dollars (PPP), real GDP growth rates, inflation rates, and government debt as a percentage of GDP.",
+        "• In 1980, Bahrain’s GDP was $7.3 billion PPP, with a per capita GDP of $20,779, and a nominal GDP of $3.6 billion; real GDP growth was 7.5%, inflation was 3.8%, and government debt was unspecified.",
+        "• By 1985, GDP increased to $11.4 billion PPP, with per capita GDP at $27,186, nominal GDP at $4.3 billion, and a slight decline in real growth to -0.9%; inflation was -2.4%, government debt data not specified.",
+        "• In 1990, GDP reached $14.7 billion PPP, with per capita GDP of $30,044, nominal GDP of $5.0 billion, and real growth of 3.5%; inflation was 1.3%, and government debt was 8% of GDP.",
+        "• The 1995 data shows GDP at $20.5 billion PPP, per capita GDP at $36,705, nominal GDP at $6.8 billion, with real growth at 1.9%, inflation at 3.1%, and government debt at 14%.",
+        "• In 2000, GDP was $28.0 billion PPP, with per capita GDP of $43,920, nominal GDP of $9.1 billion, real growth of 7.0%, inflation at -0.7%, and government debt at 26%.",
+        "• The 2005 figures indicate GDP of $40.4 billion PPP, per capita GDP of $45,440, nominal GDP of $16.0 billion, with real growth at 6.8%, inflation at 2.6%, and government debt at 24%.",
+        "• In 2010, GDP was $58.2 billion PPP, with per capita GDP of $47,117, nominal GDP of $25.7 billion, real growth at 4.3%, inflation at 2.0%, and government debt at 30%.",
+        "• The data for 2011 shows GDP of $60.6 billion PPP, per capita GDP of $50,673, nominal GDP of $28.8 billion, with 2.0% real growth, -0.3% inflation, and government debt at 33%.",
+        "• In 2012, GDP increased to $65.9 billion PPP, with per capita GDP at $54,489, nominal GDP at $30.7 billion, real growth at 3.7%, inflation at 2.8%, and government debt at 36%.",
+        "• The 2013 figures show GDP of $67.7 billion PPP, per capita GDP of $54,035, nominal GDP of $32.5 billion, with 5.4% real growth, inflation at 3.3%, and government debt at 44%.",
+        "• In 2014, GDP was $68.3 billion PPP, with per capita GDP of $51,938, nominal GDP of $33.4 billion, real growth at 4.4%, inflation at 2.6%, and government debt at 44%.",
+        "• The 2015 data reports GDP of $62.5 billion PPP, per capita GDP of $45,627, nominal GDP of $31.1 billion, with 2.5% real growth, inflation at 1.8%, and government debt at 66%.",
+        "• In 2016, GDP was $63.8 billion PPP, with per capita GDP of $44,834, nominal GDP of $32.2 billion, real growth at 3.8%, inflation at 2.8%, and government debt at 81%.",
+        "• The 2017 figures show GDP of $71.3 billion PPP, per capita GDP of $47,486, nominal GDP of $35.5 billion, with 4.9% real growth, inflation at 1.4%, and government debt at 88%.",
+        "• In 2018, GDP was $74.5 billion PPP, with per capita GDP of $48,424, nominal GDP of $37.8 billion, real growth at 2.0%, inflation at 2.1%, and government debt at 90%.",
+        "• The 2019 data indicates GDP of $77.5 billion PPP, per capita GDP of $50,118, nominal GDP of $38.7 billion, with 2.0% real growth, inflation at 1.0%, and government debt at 97%.",
+        "• In 2020, GDP was $78.7 billion PPP, with per capita GDP of $48,166, nominal GDP of $34.6 billion, experiencing a contraction with a -5.9% real decline, inflation at -2.3%, and government debt rising to 126%.",
+        "• The 2021 figures show GDP of $82.7 billion PPP, per capita GDP of $48,357, nominal GDP of $39.3 billion, with 4.3% real growth, inflation at -0.6%, and government debt at 122%.",
+        "• In 2022, GDP increased to $93.9 billion PPP, with per capita GDP of $49,482, nominal GDP of $44.4 billion, real growth at 6.0%, inflation at 3.6%, and government debt at 111%.",
+        "• The projections for 2023 estimate GDP at $100.1 billion PPP, per capita GDP at $57,213, nominal GDP at $46.1 billion, with 3.0% real growth, inflation at 0.1%, and government debt at 123%.",
+        "• For 2024, GDP is forecasted to reach $105.6 billion PPP, with per capita GDP of $57,503, nominal GDP of $47.8 billion, maintaining a 3.0% growth rate, inflation at 1.4%, and government debt at 126%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:31:57.239391",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 35
+      },
+      "source_file": "economy_of_bahrain.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Investment",
+      "chapter_name": "Economy of Bahrain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, the stock market capitalization of listed companies in Bahrain was valued at $21,176 million, according to the World Bank.",
+        "• Bahrain is characterized as a country that is open to developing a unique, rapidly growing economy.",
+        "• The country aims to foster an environment that is accessible and conducive to creating diverse business opportunities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:31:59.374745",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_bahrain.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Hydrocarbon industry",
+      "chapter_name": "Economy of Bahrain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Petroleum and natural gas are the only significant natural resources in Bahrain, with limited reserves prompting efforts to diversify the economy over the decade prior to 2004.",
+        "• Bahrain has stabilized its oil production at approximately 40,000 barrels per day (6,400 m³), with reserves expected to last between 10 to 15 years.",
+        "• The Bahrain Petroleum Company refinery was constructed in 1935, has a capacity of about 250,000 barrels per day (40,000 m³), and was the first refinery in the Persian Gulf outside of Iran.",
+        "• In 1980, Bahrain sold 60% of the refinery to the state-owned Bahrain National Oil Company; the remaining 40% is owned by Caltex, a U.S. company.",
+        "• Saudi Arabia supplies most of the crude oil used in Bahrain's refinery via pipeline, and Bahrain also receives a significant portion of the net output and revenues from Saudi Arabia's Abu Saafa offshore oilfield.",
+        "• The Bahrain National Gas Company operates a gas liquefaction plant that processes gas piped directly from Bahrain's oilfields; current gas reserves are estimated to last about 50 years at present consumption rates.",
+        "• The Gulf Petrochemical Industries Company (GPIC) is a joint venture involving Kuwait's petrochemical industry, the Saudi Basic Industries Corporation, and the Government of Bahrain; it was completed in 1985 and produces ammonia, methanol, and urea for export.",
+        "• Bahrain's industrial sector includes Aluminum Bahrain, which operates the world's largest aluminum smelter with an annual production of approximately 1,500,000 metric tons, along with related factories such as the Aluminum Extrusion Company and the Gulf Aluminum Rolling Mill Company (GARMCO).",
+        "• Other key industries include the Arab Iron and Steel Company's iron ore pelletizing plant, with an annual capacity of 4 million tons, and a shipbuilding and repair yard.",
+        "• Bahrain's development as a major financial center is a significant aspect of its economic diversification; international financial institutions operate freely both offshore and onshore.",
+        "• In 2001, Bahrain's central bank issued 15 new banking licenses, expanding the financial sector.",
+        "• Over 100 offshore banking units and representative offices are established in Bahrain, along with 65 American firms operating within the country.",
+        "• Bahrain's international airport is among the busiest in the Persian Gulf, serving 22 carriers, facilitating extensive regional and international air traffic.",
+        "• The country's port is modern and busy, providing direct and frequent cargo shipping connections to the United States, Europe, and the Far East.",
+        "• Recognized Bahraini companies include Investcorp, a venture capital firm credited with revitalizing Gucci, exemplifying Bahrain's growing prominence in international finance and investment sectors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:32:08.332503",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_bahrain.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "Taxation",
+      "chapter_name": "Economy of Bahrain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Taxation and import laws in Bahrain apply equally to both Bahraini and foreign-owned companies, requiring foreign investors to adhere to the same legal and regulatory standards as local firms.",
+        "• Oil and gas companies operating in Bahrain are taxed at a rate of 46 percent on income generated from the sale of hydrocarbons and their derivative products.",
+        "• Bahrain does not impose any personal income tax on individuals.",
+        "• Employers and workers are mandated to contribute to social insurance schemes, with specific rates and categories as follows:",
+        "• Since May 2022, Bahraini employers contribute 14% of the employee's salary plus constant allowances, with this percentage increasing by 1% annually, reaching up to 20% in 2028.",
+        "• Bahraini employees contribute 7% of their salary plus constant allowances.",
+        "• Non-Bahraini employers contribute 3% of the employee's salary plus constant allowances, and non-Bahraini employees are only entitled to employment injury benefits under this scheme.",
+        "• Implemented on June 1, 2007, all wages are subject to a 2% unemployment insurance tax, equally paid by both employer and employee.",
+        "• This 2% contribution is applicable to both nationals and non-citizens.",
+        "• The scheme is supplemented by a 1% government contribution, making Bahrain the first among GCC countries to establish a unified unemployment insurance scheme."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:32:12.081424",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_bahrain.json",
+      "original_index": 6
+    }
+  ]
+}

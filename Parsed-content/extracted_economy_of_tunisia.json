@@ -1,0 +1,215 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_tunisia.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.301290",
+    "total_sections_in_source": 8,
+    "extracted_sections_count": 8,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Tunisia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Tunisia is undergoing a process of liberalization following several decades characterized by heavy state direction and active government participation in economic activities.",
+        "• Tunisia has experienced moderate but sustained economic growth for over ten years, attributed to prudent economic and fiscal planning.",
+        "• Historically, Tunisia’s economic growth has relied on key sectors including oil production, phosphate mining, agri-food products, manufacturing of car parts, and tourism.",
+        "• In the World Economic Forum Global Competitiveness Report for the years 2015–2016, Tunisia was ranked 92nd in terms of global economic competitiveness.",
+        "• The year 2015 was notably impacted by terrorist attacks in Tunisia, which are expected to negatively influence economic growth, particularly affecting the tourism sector, a major component of the national economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:07.573060",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_tunisia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Historical trend",
+      "chapter_name": "Economy of Tunisia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tunisia's GDP per capita experienced a dramatic increase of more than 380% during the 1970s, rising from USD 280 in 1970 to USD 1,369 in 1980, reflecting rapid economic growth in that decade.",
+        "• This rapid growth was unsustainable, as the 1980s saw a significant slowdown with only a cumulative 10% growth in GDP per capita, increasing modestly from USD 1,369 in 1980 to USD 1,507 in 1990, a period marked by economic turbulence.",
+        "• The 1990s witnessed a resurgence in economic performance, with GDP per capita growing by nearly 50% cumulatively, from USD 1,507 in 1990 to USD 2,245 in 2000, indicating the positive effects of successful economic diversification strategies.",
+        "• In response to growing foreign debt and a foreign exchange crisis in the mid-1980s, the Tunisian government initiated a structural adjustment program in 1986 aimed at liberalizing prices, reducing tariffs, and transitioning towards a market-oriented economy.",
+        "• Tunisia's economic reform program was internationally recognized as a model by financial institutions such as the World Bank, which praised the government's efforts to liberalize prices, reduce tariffs, lower debt-service-to-exports and debt-to-GDP ratios, and extend the average maturity of its $10 billion foreign debt.",
+        "• Structural adjustment policies facilitated additional lending from the World Bank and Western creditors, supporting Tunisia's economic stabilization and reform initiatives.",
+        "• Tunisia became a member of the General Agreement on Tariffs and Trade (GATT) in 1990 and subsequently joined the World Trade Organization (WTO), integrating further into the global trading system.",
+        "• In 1996, Tunisia signed an \"Association Agreement\" with the European Union (EU), which progressively eliminated tariffs and other trade barriers on most goods by 2008, enhancing trade relations between Tunisia and the EU.",
+        "• The EU supported Tunisia's _Mise A Niveau_ (upgrading) program alongside the Association Agreement, aimed at improving the productivity of Tunisian businesses and preparing them for competition in the global marketplace.",
+        "• Beginning in 1987, the Tunisian government embarked on a privatization program, fully or partially privatizing approximately 160 state-owned enterprises, a process supported by GATT but managed cautiously to avoid mass layoffs.",
+        "• Despite reforms, unemployment remained a persistent challenge, exacerbated by a rapidly growing workforce, with an estimated 55% of the population under the age of 25 and an official unemployment rate of 15.2% as of the early 2010s.",
+        "• Following the 2011 Arab Spring, Tunisia's economy experienced a downturn but recovered with a 2.81% GDP growth rate in 2014; however, unemployment remained high at 15.2% in the first quarter of 2014.",
+        "• Tunisia's political transition gained momentum in early 2014 with the resolution of a political deadlock, the adoption of a new Constitution, and the appointment of a new government, facilitated by a national dialogue platform brokered by key civil society organizations that united major political parties.",
+        "• This political consensus was expected to enable further economic and public sector reforms in Tunisia.",
+        "• The 2015 Bardo National Museum terrorist attack severely impacted Tunisia's tourism sector, the country's third largest economic sector, leading to a sharp decline in tourism activity and widespread reports from Tunisian tourist workers describing the sector as \"completely dead.\"",
+        "• The number of ragpickers in Tunisia has increased due to persistent high unemployment, declining purchasing power among disadvantaged families, and a surge in plastic waste from changing consumption patterns; these ragpickers lack social protection and are vulnerable to exploitation within the recycling industry.",
+        "• Key economic indicators from 1980 to 2017 reveal that Tunisia's GDP (in billion US$ PPP) grew from 13.6 in 1980 to 135.4 in 2017, while GDP per capita (in US$ PPP) increased from 2,127 in 1980 to 11,755 in 2017, demonstrating long-term economic growth.",
+        "• Nominal GDP rose from USD 9.6 billion in 1980 to USD 42.2 billion in 2017, with real GDP growth rates fluctuating over the years, including negative growth of −1.9% in 2011 and modest positive growth rates around 1-2% in the mid-2010s.",
+        "• Inflation rates varied considerably, with periods of low inflation under 5% highlighted, including rates of −0.5% in 1982, 0.1% in 1988, and consistently low inflation around 1-3% in the 2010s.",
+        "• Unemployment rates remained a significant concern, ranging from 10.1% in 1980, fluctuating throughout the decades, and stabilizing around 15.3% in 2014 and 2017.",
+        "• Government debt as a percentage of GDP was not available for the early 1980s but was recorded at 16.2% in 1990, rising steadily to 71.3% by 2017, indicating increasing fiscal pressures over time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:27.146654",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_tunisia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "External trade and investment",
+      "chapter_name": "Economy of Tunisia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1992, Tunisia re-entered the private international capital market after a six-year hiatus, securing a $10-million line of credit to support its balance of payments.",
+        "• In January 2003, Standard & Poor's affirmed Tunisia's investment grade credit ratings, reflecting confidence in the country's financial stability.",
+        "• The World Economic Forum's 2002-03 Global Competitiveness Index ranked Tunisia 34th globally, placing it two positions behind South Africa, the leading African economy.",
+        "• In April 2002, Tunisia issued its first US dollar-denominated sovereign bond since 1997, raising $458 million with a maturity date set for 2012.",
+        "• The Bourse de Tunis, overseen by the state-run Financial Market Council, lists over 50 companies and benefits from substantial government tax incentives aimed at encouraging company listings and market expansion.",
+        "• Tunisia adopted a unified investment code in 1993 designed to attract foreign capital, facilitating the operation of more than 1,600 export-oriented joint venture firms that leverage low labor costs and preferential access to European markets.",
+        "• Tunisia's economic ties are strongest with European countries, which dominate its trade relationships.",
+        "• The Tunisian dinar is not traded internationally but has partial convertibility for bona fide commercial and investment transactions; however, certain restrictions still limit operations conducted by Tunisian residents.",
+        "• In 2007, the stock market capitalization of listed Tunisian companies was valued at $5.3 billion, representing 15% of the country's GDP, according to the World Bank.",
+        "• Foreign direct investment (FDI) in Tunisia totaled 2 billion Tunisian dinars in 2007, accounting for 5.18% of the total investment volume, marking a 35.7% increase from 2006; this included the establishment of 271 new foreign enterprises and the expansion of 222 existing ones.",
+        "• Tunisia achieved an economic growth rate of 6.3% in 2007, the highest annual growth recorded in a decade.",
+        "• On 29 and 30 November 2007, Tunisia hosted an international investment conference attended by country leaders worldwide, resulting in pledges totaling $30 billion to finance new public projects.",
+        "• By 2022, Tunisia faced a severe public finance crisis, raising concerns about potential debt default and causing shortages of food and fuel, according to government critics.",
+        "• In December 2022, the Tunisian government announced plans to reduce its fiscal deficit from a forecasted 7.7% in 2022 to 5.5% in 2023, implementing austerity measures intended to facilitate a final agreement with the International Monetary Fund (IMF) for a rescue package.",
+        "• In 2025, Tunisia severed its ties with the International Monetary Fund, ending its engagement with the organization.",
+        "• Between 2020 and 2024, Tunisia's exports to Libya experienced growth exceeding 18%, indicating strengthening trade relations between the two countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:20.170223",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_tunisia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Loan guarantee",
+      "chapter_name": "Economy of Tunisia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 20 April 2012, U.S. Treasury Secretary and Tunisian Finance Minister Houcine Dimassi signed a declaration of intent to advance a U.S. loan guarantee for Tunisia.",
+        "• The U.S. Government’s loan guarantee aimed to enable the Tunisian government to access significant market financing at affordable rates and favorable maturities, backed by a U.S. guarantee covering up to 100 percent of principal and interest.",
+        "• The support involved the U.S. guarantee of Tunisian government-issued debt or bank loans made to the Government of Tunisia, intended to substantially reduce Tunisia’s borrowing costs amid increasingly expensive market access for many emerging market countries.",
+        "• Both the U.S. and Tunisian governments planned to progress toward a formal loan guarantee agreement in the weeks following the declaration, facilitating Tunisia’s ability to proceed with debt issuance.",
+        "• The signing ceremony occurred at the World Bank immediately after the meeting of Finance Ministers of the Deauville Partnership with Arab Countries in Transition.",
+        "• Microfinance institutions like Enda Tamweel serve populations unable to access the formal banking system, particularly those in rural or impoverished regions where the informal sector constitutes 34% of Tunisia’s GDP.",
+        "• Since its inception 30 years ago, Enda Tamweel has issued over 3 million microloans to more than 900,000 individuals, injecting over €1.6 billion into the local Tunisian economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:13.000640",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_tunisia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Tunisia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tunisia's natural resources are relatively modest compared to those of its neighboring countries, Algeria and Libya.",
+        "• Due to the limited natural resources, Tunisia is compelled to import oil to meet its energy needs.",
+        "• The reliance on imported oil has contributed to an increase in the cost of gasoline within the country.",
+        "• On 26 April 2006, the price of gasoline in Tunisia surpassed one Tunisian dinar per liter, reaching 1.50 Tunisian dinars.",
+        "• The gasoline price of 1.50 Tunisian dinars per liter in 2006 was considered equivalent to European gasoline prices when adjusted for purchasing power parity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:08.392257",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_tunisia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Electricity",
+      "chapter_name": "Economy of Tunisia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2011, Tunisia's electricity production amounted to 16.13 billion kilowatt-hours (kWh).",
+        "• In 2010, the composition of electricity production by source in Tunisia was predominantly fossil fuels, accounting for 96.8% of total production.",
+        "• Hydroelectric power contributed 1.7% to Tunisia's electricity production in 2010.",
+        "• Other sources of electricity generation represented 1.5% of the total production in 2010.",
+        "• The total electricity consumption in Tunisia in 2010 was 13.29 billion kWh.",
+        "• Tunisia did not export any electricity in 2010.",
+        "• Electricity imports into Tunisia in 2010 were recorded at 19 million kWh."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:08.915783",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_tunisia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4",
+      "section_name": "Economic structure",
+      "chapter_name": "Economy of Tunisia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Tunisia's economy was composed of three main sectors with distinct contributions to the Gross Domestic Product (GDP).",
+        "• The agriculture sector contributed 10.1% to Tunisia's GDP in 2017, reflecting its role in the national economy.",
+        "• The industry sector accounted for 26.2% of the GDP in 2017, indicating its significant presence in Tunisia's economic structure.",
+        "• The services sector was the largest contributor to Tunisia's GDP in 2017, representing 63.8% of the total economic output."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:10.746251",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_tunisia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Tunisia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tunisia's agricultural sector produces a variety of key products including olives, grain, tomatoes, citrus fruit, sugar beets, dates, and almonds.",
+        "• In 2018, Tunisia produced 1.5 million tons of wheat, highlighting its significance in the country's grain production.",
+        "• Tomato production reached 1.3 million tons in 2018, making Tunisia the 16th largest tomato producer globally.",
+        "• Olive production amounted to 825 thousand tons in 2018, positioning Tunisia as the 7th largest olive producer worldwide.",
+        "• Barley production was recorded at 700 thousand tons in 2018, contributing substantially to Tunisia's cereal output.",
+        "• Watermelon production totaled 548 thousand tons in 2018, indicating its importance among fruit crops.",
+        "• Onion production reached 450 thousand tons in 2018, reflecting its role in Tunisian agriculture.",
+        "• Pepper production was 426 thousand tons in 2018, demonstrating significant cultivation of this vegetable.",
+        "• Potato production stood at 423 thousand tons in 2018, underscoring its relevance in the agricultural sector.",
+        "• Date production was 241 thousand tons in 2018, ranking Tunisia as the 10th largest date producer globally.",
+        "• Carrot production amounted to 217 thousand tons in 2018, contributing to the diversity of vegetable crops.",
+        "• Grape production was 146 thousand tons in 2018, indicating the presence of viticulture in Tunisia.",
+        "• Orange production reached 144 thousand tons in 2018, emphasizing the role of citrus fruits in the economy.",
+        "• Peach production totaled 118 thousand tons in 2018, highlighting the cultivation of stone fruits.",
+        "• Apple production was 114 thousand tons in 2018, showing the significance of temperate fruit crops.",
+        "• Grapefruit production amounted to 104 thousand tons in 2018, further illustrating the diversity of citrus fruit production.",
+        "• Melon production was 102 thousand tons in 2018, adding to the variety of fruit crops grown.",
+        "• Almond production was recorded at 66 thousand tons in 2018, representing a smaller but notable nut crop.",
+        "• Sugar beet production reached 76 thousand tons in 2018, contributing to Tunisia’s sugar industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:16.482945",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_tunisia.json",
+      "original_index": 7
+    }
+  ]
+}

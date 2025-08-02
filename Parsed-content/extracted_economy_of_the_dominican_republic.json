@@ -1,0 +1,425 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_dominican_republic.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.163294",
+    "total_sections_in_source": 15,
+    "extracted_sections_count": 15,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Dominican Republic ranks as the seventh largest in Latin America and is the largest in the Caribbean and Central American region, reflecting its significant regional economic stature.",
+        "• Classified as an upper-middle income developing country, the Dominican Republic's economy encompasses diverse sectors including mining, tourism, manufacturing (notably medical devices, electrical equipment, pharmaceuticals, and chemicals), energy, real estate, infrastructure, telecommunications, and agriculture.",
+        "• The country aims to achieve high-income status by 2030, with projections indicating an economic growth of 79% during the current decade.",
+        "• The Dominican Republic hosts the Pueblo Viejo mine, recognized as the single largest gold mine in Latin America, underscoring the importance of mining in its economy.",
+        "• The service sector is the leading employer in the country, driven primarily by growth in tourism and free-trade zones; however, agriculture remains vital domestically and ranks second in export earnings behind mining.",
+        "• Tourism generated over $7.4 billion in annual earnings in 2019, marking it as a major contributor to the national economy.",
+        "• Free-trade zone earnings and tourism represent the fastest-growing export sectors, with the free-trade zone's medical equipment production being a key growth engine, featuring a value-added per employee of US$20,000, total revenue of US$1.5 billion, and a growth rate of 7.7% in 2019.",
+        "• The medical instrument export sector is among the highest value-added sectors in the Dominican economy, serving as a significant driver for the emerging market.",
+        "• Remittances contributed US$8.2 billion in 2020, primarily funding household expenses such as housing, food, clothing, health care, and education; additionally, remittances have financed businesses and productive activities, stimulated private sector investment, and supported public sector funding through value-added tax revenues.",
+        "• The combined import market, including free-trade zones, amounted to $20 billion in 2019, while the combined export sector generated revenues totaling $11 billion in the same year.",
+        "• The consumer market was valued at $61 billion in 2019, indicating substantial domestic consumption capacity.",
+        "• The average commercial loan interest rate, a critical indicator influencing short-term and long-term investment, stood at 8.30% as of June 2021.",
+        "• The United States is the Dominican Republic’s most important trading partner, accounting for over 40% of total commercial exchange and over $12 billion in trade.",
+        "• Other major trade partners, in descending order of trade volume, include China (over $3 billion), Switzerland (over $1 billion), Puerto Rico (over $800 million), Mexico (over $700 million), Haiti (over $700 million), Spain (over $700 million), the Netherlands (over $700 million), Canada (over $600 million), Brazil (over $500 million), and Germany (over $500 million).",
+        "• The country’s exports consist of free-trade-zone manufactured products such as medical devices, electrical equipment, pharmaceuticals, and chemicals, as well as gold, nickel, agricultural products, liquor, cocoa beans, silver, and sauces and seasonings.",
+        "• Imports primarily include petroleum, industrial raw materials, capital goods, and foodstuffs, reflecting the country’s industrial and consumer needs.",
+        "• On 5 September 2005, the Dominican Republic’s Congress ratified the Dominican Republic – Central America Free Trade Agreement (CAFTA-DR) with the U.S. and five Central American countries; this agreement entered into force for the Dominican Republic on 1 March 2007.",
+        "• As of 2019, the total stock of U.S. foreign direct investment (FDI) in the Dominican Republic was US$42 billion, largely directed towards energy, tourism, real estate, manufacturing, infrastructure, and telecommunications sectors.",
+        "• Foreign direct investment stock grew significantly over the last decade and a half, increasing more than ten-fold since 2006 when liberalization efforts began.",
+        "• Despite the COVID-19 pandemic in 2020, foreign direct investment flows remained strong with an addition of $2.5 billion to the FDI stock, which reached an estimated $44.5 billion.",
+        "• The Free Trade Zone (FTZ) industry is a crucial component of the economy, accounting for U.S. $6.2 billion in exports in 2019.",
+        "• Between 2005 and 2007, the FTZs experienced a loss of approximately 60,000 jobs and a 4% decrease in total exports in 2006.",
+        "• The textiles sector within the FTZs suffered an approximate 17% drop in exports in 2006, attributed to factors including the appreciation of the Dominican peso against the U.S. dollar, increased Asian competition following the expiration of Multi-Fiber Arrangement quotas, and a government-mandated salary increase delayed from 2005 to January 2006.",
+        "• The decline in textiles exports resulted in lost business to firms in Central America and Asia.",
+        "• Conversely, the tobacco, jewelry, medical, and pharmaceutical sectors within the FTZs reported export increases in 2006, partially offsetting losses in textiles and garments.",
+        "• Industry experts anticipated that the enforcement of the CAFTA-DR agreement would stimulate substantial growth in the FTZ sector starting in 2007.",
+        "• By the end of the last decade and a half, the FTZ sector had rebounded, surpassing previous export levels from $4.5 billion in 2006 to $6.2 billion by 2019."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:17.037784",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, the Dominican Republic produced 644 thousand tons of avocado, ranking as the 2nd largest producer globally, and 1 million tons of papaya, making it the 4th largest producer worldwide.",
+        "• The country also produced 5.2 million tons of sugarcane, 2.1 million tons of banana, 85 thousand tons of cocoa, 442 thousand tons of palm oil, 407 thousand tons of pineapple, 403 thousand tons of coconut, 627 thousand tons of rice, 160 thousand tons of cassava, and 136 thousand tons of orange in 2018.",
+        "• Additional smaller agricultural productions in 2018 included potato, lemon, melon, onion, and yam.",
+        "• Approximately 80% of the Dominican Republic's total land area is suitable for crop production, with about 17% of the labor force engaged in farming activities.",
+        "• Agriculture remained the primary occupation and contributed 11% to the GDP in 2001.",
+        "• The value of agricultural output grew at an average annual rate of 7.1% during 1968–1973.",
+        "• Since 1975, the agricultural sector has faced challenges from droughts in 1975, 1977, and 1979; hurricanes in 1979 and 1980; and declining world prices and quota restrictions for sugar since 1985.",
+        "• Agricultural production in 1999 was 0.4% higher than the average production during 1989–1991.",
+        "• The fertile Cibao Valley serves as the main agricultural center of the Dominican Republic.",
+        "• In 1998, arable land covered 1,020,000 hectares (2,500,000 acres), with an additional 480,000 hectares (1,200,000 acres) under permanent crops.",
+        "• The Dominican Republic is the second-largest sugarcane producer in the Caribbean after Cuba, with sugarcane being the nation's most important crop.",
+        "• The State Sugar Council operates 12 sugar mills and accounts for about half of the country's total sugar production.",
+        "• Other major sugar producers include the privately owned Vicini group, which operates three mills, and Central Romana Corporation, which owns the largest mill in the country.",
+        "• Sugarcane is cultivated primarily in the southeastern plains, around Barahona, and on the North Coast Plain.",
+        "• Sugar production declined from an average of 7.1 million tons during 1989–1991 to 4.4 million tons in 1999.",
+        "• Sugar output has been decreasing annually since 1982, with land gradually being converted from sugarcane to food crops.",
+        "• Raw sugar production increased from 636,000 tons in 1990 to 813,000 tons in 1997 but fell sharply to 374,000 tons in 1999.",
+        "• Hurricanes in 1979 and 1980 destroyed part of the sugarcane crop, resulting in a production of only 670,000 bags (40,200 tons) during 1979–1980.",
+        "• Coffee production in the 1980s averaged about 57,000–59,000 tons annually, but harvested acreage declined from 157,000 hectares (390,000 acres) in the early 1980s to 139,000 hectares (340,000 acres) in 1999, indicating improved yield per acre.",
+        "• Coffee production in 1999 was estimated at 35,000 tons, with coffee exports generating $11 million in 2001.",
+        "• Cocoa and tobacco are also significant export crops; the Dominican Republic ranks among the top 10 major cocoa producers and exporters globally.",
+        "• Cocoa is primarily grown in the Cibao Valley around San Francisco de Macoris, while tobacco cultivation is concentrated in the Cibao Valley near Santiago.",
+        "• In 1999, production of cocoa beans was 26,000 tons, and tobacco production was 35,000 tons.",
+        "• Rice cultivation occurs mainly around Monte Cristi and San Francisco de Macoris.",
+        "• Banana production in 1999 reached 432,000 tons.",
+        "• Other crop production in 1999 included rice (563 thousand tons), coconuts (184 thousand tons), cassava (127 thousand tons), tomatoes (281 thousand tons), pulses (69 thousand tons), dry beans (26 thousand tons), eggplants (7 thousand tons), and peanuts (2 thousand tons)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:11.613132",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "Livestock farming",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2001, the Dominican Republic's livestock population included 187,000 goats and 106,000 sheep, reflecting the scale of small ruminant farming in the country.",
+        "• The cattle population in 2001 was approximately 2.1 million head, with 60% raised for beef production and 40% for dairy purposes, indicating a significant dual-purpose cattle industry.",
+        "• The hog population experienced a severe decline due to African swine fever in 1978, dropping drastically from 400,000 in 1978 to only 20,000 in 1979, demonstrating the impact of disease on livestock numbers.",
+        "• By 2001, the hog population had recovered substantially to 565,000, showing a significant rebound in swine farming over two decades.",
+        "• Poultry serves as the primary source of meat in the Dominican Republic because it is more affordable than beef or pork, highlighting consumer preferences and economic factors influencing meat consumption.",
+        "• Poultry production in the Dominican Republic depends heavily on imported feed grain from the United States, underscoring the reliance on international agricultural inputs for domestic livestock production.",
+        "• In 2001, the country produced 203,000 tons of poultry meat, 71,000 tons of beef, and 420,000 tons of milk, providing quantitative data on the output levels of key livestock products."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:03.419297",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, the total marine production in the Dominican Republic amounted to 18,000 metric tons.",
+        "• The Monte Cristi Bank and Samaná Bay are notable fishing areas in the Dominican Republic.",
+        "• These regions are habitats for various fish species including marlin, barracuda, kingfish, mackerel, tuna, sailfish, and tarpon.",
+        "• Additionally, the Monte Cristi Bank and Samaná Bay support populations of bonito, snapper, and American grouper."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:00.537991",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "Forestry",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the year 2000, approximately 28.4% of the Dominican Republic's total land area was covered by forests and woodlands.",
+        "• The production of round wood in the Dominican Republic in 2000 amounted to 562,000 cubic meters, equivalent to 19.8 million cubic feet.",
+        "• Timber harvesting in the country is primarily conducted to clear land for agricultural purposes.",
+        "• The Dominican Republic has established important national parks aimed at protecting the country's natural resources and aquifers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:00.343183",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "Mining",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, the Dominican Republic was the 9th largest nickel producer globally, marking its significant position in the world nickel market.",
+        "• The country had negligible gold production until 2011, after which gold production increased exponentially, reaching almost 38 tons in 2016.",
+        "• Silver production was nearly zero until 2008, then grew rapidly, with the country producing 147 tons of silver in 2017.",
+        "• Ferronickel was the Dominican Republic’s leading export commodity and ranked as the third-largest industry in the country.",
+        "• Nickel mining occurs primarily in Bonao, with production in 2000 recorded at 39,943 tons, ranking tenth worldwide, though this was a decline from 49,152 tons in 1997.",
+        "• Currently, gold is the most important mineral export of the Dominican Republic, surpassing nickel in economic significance.",
+        "• The Pueblo Viejo mine is the largest gold-producing mine in Latin America and the fourth most productive gold mine globally, producing 30,100 kg of gold in 2018.",
+        "• The extraction of gold at Pueblo Viejo by a foreign company, Barrick Gold, has caused concern and protests among some Dominican groups since 2009-2010, who argue that natural resources should be mined by local rather than foreign companies.",
+        "• In 2019, gold exports totaled $1.6 billion, making gold one of the country’s largest exports and contributing positively to balancing the commodity current account.",
+        "• Bauxite production, once the principal mining product, ceased in 1992; the Aluminum Co. of America (Alcoa) mined bauxite from 1959 until 1983 before transferring its concession to the state.",
+        "• In 1991, bauxite production dropped by 92% compared to the previous year due to a presidential decree suspending mining operations at the largest mine amid growing deforestation concerns, despite ongoing reforestation efforts.",
+        "• Annual bauxite output averaged around 1 million tons before the decline and cessation of production.",
+        "• The Dominican Republic was one of the few sources of amber in the Western Hemisphere, highlighting its unique mineral resources.",
+        "• Salt Mountain, located west of Barahona, is a 16-kilometer block of nearly solid salt and is recognized as the world’s largest known salt deposit.",
+        "• Large gypsum deposits near Salt Mountain make the Dominican Republic one of only three sources of gypsum in the Caribbean region.",
+        "• The country also produces hydraulic cement, limestone, marble, sand, and gravel, indicating a diverse mineral production portfolio.",
+        "• Substantial lignite deposits were discovered in the early 1980s, expanding the country’s mineral resource base.",
+        "• Deposits of copper and platinum are also present in the Dominican Republic, contributing to its mineral wealth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:11.300272",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1",
+      "section_name": "Industry",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, the industrial sector of the Dominican Republic contributed an estimated 31.1% to the country's Gross Domestic Product (GDP), with mining and the manufacture of goods for export to the United States, Europe, and Asia as the leading activities.",
+        "• The industrial sector also includes the manufacture of food products, consumer non-durables, and building materials primarily for the local market, though these are less dominant compared to export-oriented manufacturing.",
+        "• In 2014, the industrial sector employed 20.8% of the Dominican Republic’s workforce, indicating its significant role in national employment.",
+        "• Approximately 500 companies in the Dominican Republic manufacture goods mainly for the North American market, operating within 50 industrial free zones distributed throughout the country.",
+        "• These industrial free zones are mostly occupied by foreign-owned corporations that benefit from generous tax incentives and other financial inducements provided by the government to encourage business operations within these zones.",
+        "• The free zone manufacturing sector employs about 200,000 people, representing roughly 8% of the national workforce.",
+        "• The primary products assembled in these free trade zones include clothing, electronic components, footwear, and leather goods, with raw materials or semi-manufactured inputs usually imported duty-free from other emerging markets.",
+        "• Electronic parts used in the free zones are predominantly imported from industrialized Puerto Rico.",
+        "• Other products manufactured in the free trade zones include cosmetics, pharmaceuticals, textiles, perfumes, and foodstuffs.",
+        "• In 2019, the value of exports from the free trade zones amounted to US$6.2 billion, while imports of intermediate products for assembly reached US$4 billion.",
+        "• Traditional manufacturing industries in the Dominican Republic focus on sugar refining, cement production, iron and steel manufacturing, and food processing.",
+        "• Rum is a significant export commodity produced by the traditional manufacturing sector, while beer and cigarettes are primarily manufactured for local consumption.",
+        "• Most traditional industrial activities are located around the working-class perimeters of Santo Domingo and other large towns.",
+        "• Metaldom is the main steel manufacturer in the country, producing approximately 1 million tons of steel per year, with the majority of this production being exported."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:09.663140",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "Services",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, the services sector was estimated to contribute 56% of the Dominican Republic's Gross Domestic Product (GDP).",
+        "• The services sector employed 64.7% of the Dominican Republic's population in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:02.183722",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the mid-1980s, the tourism sector in the Dominican Republic has become one of the country's most important sources of foreign exchange and has contributed to the rise of more popular tourist destinations.",
+        "• The Dominican Republic is renowned for its favorable location in the Caribbean, tropical climate, attractive beaches, and restored Spanish colonial architecture, which collectively enhance its appeal to tourists.",
+        "• Foreign investors have been actively encouraged to invest in the Dominican Republic, focusing on building and expanding resorts and airports primarily along the coastal regions.",
+        "• During the period from the mid-1980s to 1997, tourism displaced sugar as the main source of the country's earnings, and by 1997 tourism was generating more than half of the Dominican Republic’s total foreign exchange.",
+        "• In 2019, tourism generated one-third of the total foreign exchange for the Dominican Republic, indicating its continued significant economic role.",
+        "• Tourism is the single largest revenue earner for the Dominican Republic, growing from modest beginnings in 1980 to generating more than $7.4 billion by 2019.",
+        "• Successive Dominican governments have invested heavily in tourism infrastructure, including upgrading airports and other facilities to support tourism growth.",
+        "• In 2019, the Dominican Republic received 6.4 million tourists, with the majority originating from Europe and approximately 25% coming from the United States or Canada.",
+        "• The country boasts nearly 70,000 hotel rooms, the highest number of any Caribbean nation, reflecting its extensive tourism infrastructure.",
+        "• Approximately 50,000 Dominicans are directly employed in the tourism sector, primarily in hotels, while an additional 110,000 are indirectly employed in related roles such as taxi driving, tour guiding, and working in tourist shops.",
+        "• Most tourists visit the Dominican Republic for its beaches; however, there is a growing eco-tourism and outdoor activity sector that focuses on the country’s mountains and wildlife.",
+        "• Despite the substantial economic benefits of tourism, some scholars and activists argue that tourism development has significant negative socioeconomic impacts, including ecological deterioration, profit leakage, social displacement, distortion of cultural patterns, rising land values, and issues related to drugs and prostitution.",
+        "• The contribution of travel and tourism to the Dominican Republic’s GDP was 19.2% in 2001 and decreased slightly to 17.6% in 2008.",
+        "• For comparison, the Caribbean region’s travel and tourism contribution to GDP was 18.2% in 2001 and increased to 19.5% in 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:10.992554",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Retail",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Retail activity in the Dominican Republic encompasses a diverse range of formats, including U.S.-style supermarkets and shopping malls predominantly located in Santo Domingo, as well as rural markets and small family-run corner stores in village settings.",
+        "• The retail landscape reflects socioeconomic divisions, with a small but affluent middle class having the purchasing power to shop at supermarkets and malls, while the lower-income rural population typically buys small quantities of daily essentials from general stores.",
+        "• These small general stores in rural areas frequently serve dual purposes, often functioning as pubs in addition to retail outlets.",
+        "• The government has recently implemented reforms in taxation laws aimed at regulating the retail sector by requiring small shops to pay taxes on a consistent monthly basis.",
+        "• Despite these regulatory efforts, a significant portion of retail transactions remains unrecorded, indicating challenges in formalizing the sector fully."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:05.052514",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3",
+      "section_name": "Energy",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 2010 and 2020, the electricity sector in the Dominican Republic underwent substantial investments aimed at diversifying energy generation away from petroleum, which declined from 50% to 7% of total electricity generation by 2021.",
+        "• As of 2021, the primary sources of electricity generation in the Dominican Republic are coal, natural gas, and renewables, collectively accounting for 93% of the total electricity production.",
+        "• This diversification has transformed the electricity sector into a more stable and lower-cost component of the national economy.",
+        "• Electricity loss rates improved from 38% in 2005 to 30% in 2019, reflecting enhancements in infrastructure, although losses remain high due to factors such as low collection rates, illegal connections, infrastructure deficiencies, and poor governance.",
+        "• The government continues to provide subsidies for electricity, funding these subsidies through indirect taxation rather than direct price increases, particularly to support lower-income households, making the policy redistributive and partly financed by the broader population rather than solely by electricity consumers.",
+        "• In 2007, the Dominican Congress enacted legislation criminalizing illegal electric connections to address unauthorized electricity use.",
+        "• The electricity sector’s profitability is currently positive for renewables, natural gas, and coal, which are considered the sustainable and future-oriented energy sources, in contrast to petroleum derivatives that are viewed as more volatile and costly in operational expenses.",
+        "• A major milestone in the sector’s development was the construction of the Punta Catalina coal-fired power plant, completed by 2020, which significantly diversified the electricity generation mix and contributed to lowering costs.",
+        "• The growth of renewable energy and natural gas power sectors has made notable progress in recent years and is expected to continue expanding, supported by both foreign and local investments.",
+        "• Wind energy development is specifically noted in the Pedernales province, contributing to the renewable energy portfolio of the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:14.065036",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4",
+      "section_name": "Employment",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Labor participation in the Dominican Republic has improved over the last decade, increasing from 62.4% to 67.3%.",
+        "• Despite this overall growth, female labor participation remains significantly lower than male labor participation, with rates of 52.7% for women compared to 77.9% for men.",
+        "• The more than 25 percentage point gap between female and male labor participation rates underscores persistent challenges in achieving gender equality within the workforce.",
+        "• This gender disparity indicates the presence of potential barriers that women face in accessing employment opportunities in the Dominican Republic.",
+        "• Marginal real wage growth since the late 1990s reflects the prevalence of low-quality jobs and limited bargaining power among employees.",
+        "• The combination of low wage growth and gender disparities in labor participation contributes to the exacerbation of economic inequality in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:14.482599",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Informal Employment",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, 45.5% of Dominicans resided in households where all employed members worked in informal jobs, indicating a substantial segment of the population reliant on informal employment.",
+        "• The prevalence of informal employment signifies a large portion of the Dominican economy functioning outside formal regulatory frameworks, resulting in limited job security for workers.",
+        "• Workers engaged in informal employment typically lack access to social safety net resources, exacerbating their economic vulnerability.",
+        "• There is a marked regional disparity in informal employment rates within the Dominican Republic, with rural areas experiencing a significantly higher rate of 69.1%.",
+        "• In contrast, urban areas had a lower but still considerable informal employment rate of 56.9%, highlighting differences in formal employment opportunities between rural and urban regions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:14.569229",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "5",
+      "section_name": "Data",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents the main economic indicators of the Dominican Republic from 1980 to 2024, with IMF staff estimates for 2025 to 2029, including GDP in billion US dollars (PPP and nominal), GDP per capita (PPP and nominal), real GDP growth, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, the Dominican Republic's GDP was 13.7 billion US$ PPP with a GDP per capita of 2,429.3 US$ PPP; nominal GDP was 8.7 billion US$ with a nominal GDP per capita of 1,534.3 US$, real GDP growth was 8.0%, inflation was 21.7%, and unemployment and government debt data were not available.",
+        "• From 1981 to 1989, GDP (PPP) increased from 15.7 billion to 26.7 billion US$, with GDP per capita (PPP) rising from 2,710.8 to 3,818.6 US$; nominal GDP fluctuated between 7.6 billion and 9.7 billion US$, with nominal GDP per capita between 1,113.8 and 1,677.4 US$; real GDP growth rates varied from -5.5% in 1990 to 10.1% in 1987; inflation rates ranged widely, peaking at 50.5% in 1990; unemployment data was unavailable; government debt data was unavailable.",
+        "• In 1991, GDP (PPP) was 27.3 billion US$ with GDP per capita of 3,766.8 US$; nominal GDP was 9.9 billion US$ and nominal GDP per capita 1,365.2 US$; real GDP growth was 0.9%; inflation decreased to 47.1%; unemployment was 9.2%; government debt data remained unavailable.",
+        "• Between 1992 and 1999, GDP (PPP) grew from 31.0 billion to 53.4 billion US$, with GDP per capita (PPP) increasing from 4,207.8 to 6,457.7 US$; nominal GDP rose from 11.6 billion to 22.1 billion US$; nominal GDP per capita increased from 1,573.7 to 2,674.8 US$; real GDP growth was positive, peaking at 11.2% in 1992; inflation rates dropped significantly to as low as 4.3% in 1992; unemployment ranged from 4.3% to 7.4%; government debt data became available in 1997, starting at 13.8% of GDP and fluctuating up to 16.0% in 1999.",
+        "• From 2000 to 2009, GDP (PPP) increased from 57.2 billion to 100.9 billion US$, with GDP per capita (PPP) rising from 6,811.6 to 10,757.5 US$; nominal GDP grew from 24.3 billion to 48.3 billion US$; nominal GDP per capita increased from 2,894.3 to 5,151.2 US$; real GDP growth rates varied, including a negative growth of -1.3% in 2003 and a low of 0.9% in 2009; inflation rates fluctuated widely, reaching 51.5% in 2004 and dropping to 1.4% in 2009; unemployment rates ranged from 4.2% to 8.7%; government debt increased sharply from 16.7% in 2000 to 48.2% in 2003, then decreased to 36.7% in 2009.",
+        "• During 2010 to 2019, GDP (PPP) expanded from 110.6 billion to 205.7 billion US$, with GDP per capita (PPP) rising from 11,672.3 to 19,854.6 US$; nominal GDP increased from 53.9 billion to 89.0 billion US$; nominal GDP per capita grew from 5,688.8 to 8,595.2 US$; real GDP growth was generally strong, peaking at 8.3% in 2010 and maintaining positive growth throughout; inflation rates were mostly below 10%, with a low of 0.8% in 2015; unemployment rates decreased from 6.5% to 6.2%; government debt as a percentage of GDP increased from 37.3% in 2010 to 53.6% in 2019.",
+        "• In 2020, the economy contracted with a GDP (PPP) of 194.4 billion US$ and GDP per capita of 18,602.9 US$; nominal GDP was 78.9 billion US$ with nominal GDP per capita of 7,553.5 US$; real GDP growth was negative at -6.7%; inflation was 3.8%; unemployment was 5.8%; government debt surged to 71.5% of GDP, reflecting economic impacts likely related to the COVID-19 pandemic.",
+        "• From 2021 to 2024, the economy recovered and grew steadily: GDP (PPP) rose from 228.2 billion to 293.4 billion US$; GDP per capita (PPP) increased from 21,655.0 to 27,120.4 US$; nominal GDP grew from 94.5 billion to 127.4 billion US$; nominal GDP per capita increased from 8,962.3 to 11,773.6 US$; real GDP growth rebounded to 12.5% in 2021 and stabilized around 5% by 2024; inflation rates fluctuated but remained mostly below 9%, reaching 4.01% in 2024; unemployment rates ranged from 5.3% to 6.2%; government debt as a percentage of GDP decreased from 63.2% in 2021 to 59.5% in 2024.",
+        "• IMF staff projections for 2025 to 2029 forecast continued economic growth with GDP (PPP) increasing from 313.3 billion US$ in 2025 to 411.2 billion US$ in 2029; GDP per capita (PPP) rising from 28,715.5 US$ to 36,399.7 US$; nominal GDP growing from 136.3 billion US$ to 179.9 billion US$; nominal GDP per capita increasing from 12,491.6 US$ to 15,925.3 US$; real GDP growth steady at 5.0% annually; inflation rate stable at 4.0%; unemployment rate constant at 6.0%; government debt as a percentage of GDP projected to decline from 58.7% in 2025 to 51.3% in 2029.",
+        "• Inflation rates below 5% are highlighted in green in the original data table, indicating periods of relatively low inflation, particularly from the early 1990s onward, with some exceptions during economic crises.",
+        "• Government debt as a percentage of GDP was not available for the 1980s and early 1990s but became reported from 1997 onward, showing a general upward trend peaking in the early 2000s, followed by fluctuations and a gradual decline projected in the late 2020s.",
+        "• Unemployment data is sporadic in the early years but consistently reported from 1991, showing rates generally between 4% and 9%, with occasional decreases to below 4% in recent years.",
+        "• The data reflects significant economic events, including high inflation and debt in the 1980s and 1990s, economic contractions in 2003 and 2020, and strong recovery and growth in the 2010s and early 2020s, supported by IMF projections for continued stability and growth through 2029."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:49.498109",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "6",
+      "section_name": "Other statistics",
+      "chapter_name": "Economy of the Dominican Republic",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Dominican Republic's GDP based on purchasing power parity is estimated at $293.365 billion for the year 2024.",
+        "• The real GDP growth rate for the Dominican Republic is projected at 5.4% in 2024.",
+        "• The GDP per capita, measured by purchasing power parity, is estimated at $27,120 for 2024.",
+        "• The GDP composition by sector as of 2017 is 5.5% agriculture, 33.8% industry, and 60.8% services.",
+        "• The consumer price inflation rate is estimated at 4.2% for the year 2024.",
+        "• The labor force in the Dominican Republic was approximately 5.278 million people in 2022.",
+        "• Labor force distribution by occupation in 2014 was 14.4% in agriculture, 20.8% in industry, and 64.7% in services.",
+        "• The unemployment rate is estimated at 6.0% for 2024.",
+        "• Approximately 23.9% of the population was living below the poverty line as of 2021.",
+        "• The national budget for 2021 reported revenues of $14.10 billion and expenditures of $16.60 billion.",
+        "• Key industries in the Dominican Republic include tourism, sugar processing, ferronickel and gold mining, textiles, cement, tobacco, electrical components, and medical devices.",
+        "• Electricity production was 15.53 billion kWh in 2015, while consumption was 13.25 billion kWh in the same year.",
+        "• The country had no electricity exports or imports recorded in 2005 (0 kWh for both).",
+        "• Oil production was zero barrels per day (0 bbl/d) as of 2014.",
+        "• Oil consumption was estimated at 122,300 barrels per day (19,440 m³/d) in 2012.",
+        "• Oil exports were zero barrels per day (0 bbl/d) in 2017, while oil imports were 116,700 barrels per day (18,550 m³/d) in 2017.",
+        "• The Dominican Republic had no proved oil reserves as of 1 January 2006 (0 bbl).",
+        "• Natural gas production was zero cubic meters in 2005.",
+        "• Natural gas consumption was 1.108 million cubic meters in 2015.",
+        "• Natural gas exports were zero cubic meters in 2005, while imports matched consumption at 1.108 million cubic meters in 2015.",
+        "• The country had no proved natural gas reserves as of 1 January 2006 (0 cu m).",
+        "• Major agricultural products include sugarcane, coffee, cotton, cocoa, tobacco, rice, beans, potatoes, corn, bananas, as well as livestock products such as cattle, pigs, dairy products, beef, and eggs.",
+        "• Total exports were valued at $10.33 billion f.o.b. in 2017.",
+        "• Export commodities in 2017 included ferro nickel, sugar, gold, silver, coffee, cocoa, tobacco, meats, and consumer goods.",
+        "• The main export partners in 2017 were the United States (50.4%), the United Kingdom (3.2%), and Belgium (2.4%).",
+        "• Imports totaled $19 billion f.o.b. in 2017.",
+        "• Imported commodities included foodstuffs, petroleum, cotton and fabrics, chemicals, and pharmaceuticals.",
+        "• The principal import partners in 2017 were the United States (41.4%), China (13.9%), Mexico (4.5%), and Brazil (4.3%).",
+        "• External debt stood at $29.69 billion as of 31 December 2017.",
+        "• The Dominican Republic received $76.99 million in economic aid in 2005.",
+        "• The official currency is the Dominican peso (DOP).",
+        "• Exchange rates of Dominican pesos per US dollar were 33.113 in 2007, 33.406 in 2006, 30.409 in 2005, 42.12 in 2004, and 30.831 in 2003.",
+        "• The fiscal year in the Dominican Republic corresponds to the calendar year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:33.936657",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 33
+      },
+      "source_file": "economy_of_the_dominican_republic.json",
+      "original_index": 14
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_palestine.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.649278",
+    "total_sections_in_source": 23,
+    "extracted_sections_count": 23,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Palestine encompasses all economic activities within the Palestinian territories.",
+        "• Palestine receives substantial financial aid from various international donors, including governments and international organizations, which is vital for supporting the Palestinian Authority and funding public services and development projects.",
+        "• In 2020, Palestine experienced an inflation rate of -0.7% and an unemployment rate of 25.9%.",
+        "• The total value of exports in 2020 was recorded at US$1 billion, while imports amounted to US$6 billion.",
+        "• The national economy is primarily composed of the service sector (47%), followed by wholesale and repair (19%), manufacturing (12%), agriculture (7%), finance and banking (3%), construction (5%), information technology (5%), and transportation (2%).",
+        "• Remittances sent by Palestinians working abroad constitute a significant source of income for many households and contribute notably to the Palestinian economy.",
+        "• International aid and donations come from multiple sources, including the United Nations Relief and Works Agency (UNRWA), Qatar, Turkey, the European Union, and various non-governmental organizations (NGOs).",
+        "• The Palestinian economy heavily depends on these remittances and international aid for financial stability and development.",
+        "• The Gaza Strip faces additional economic challenges due to an Israeli-imposed siege controlling the movement of people and goods, severely limiting business opportunities.",
+        "• In contrast, the West Bank offers more diverse economic opportunities, with some Palestinians owning businesses in tourism-centric areas such as Bethlehem and Jerusalem, where tourism is a significant income source.",
+        "• Other economic activities in West Bank cities like Ramallah and Hebron include trading, construction, and information technology services.",
+        "• Approximately 100,000 Palestinians are employed by Israeli companies as low-cost labor, earning wages significantly lower than the average Israeli worker.",
+        "• Despite political restrictions on trade, Palestine engages in export activities, including agricultural products and traditional crafts, which are sold in regional and international markets.",
+        "• Tourism contributes to the Palestinian economy by attracting visitors to historically and culturally significant sites such as Bethlehem and Jerusalem.",
+        "• Agriculture remains a vital sector, with Palestinians cultivating crops, producing olive oil, and raising livestock.",
+        "• Many Palestinians are employed in service industries such as education, healthcare, and technology.",
+        "• Numerous international NGOs and humanitarian agencies operate in Palestine, contributing to the local economy and providing employment opportunities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:38:35.489523",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1968 to 1980, GDP per capita in the Palestinian territories increased at an annual rate of 7%, though this growth rate slowed during the 1980s.",
+        "• Between 1970 and 1991, significant improvements in social indicators were recorded in the Palestinian territories: life expectancy rose from 56 to 66 years, and infant mortality per 1,000 live births declined from 95 to 42.",
+        "• Household access to basic amenities improved markedly from 1970 to 1991: electricity availability increased from 30% to 85%, access to safe water rose from 15% to 90%, ownership of refrigerators grew from 11% to 85%, and ownership of washing machines increased from 23% in 1980 to 61% in 1991.",
+        "• Economic activity in the West Bank and Gaza Strip (WBGS) was regulated under the Paris Economic Protocol of April 1994, an agreement between Israel and the Palestinian Authority.",
+        "• The WBGS experienced economic deterioration in the early 1990s, with real per capita GDP declining by 36.1% between 1992 and 1996 due to falling aggregate incomes combined with rapid population growth.",
+        "• The economic downturn was primarily caused by Israeli closure policies implemented in response to terrorist attacks in Israel, which disrupted established labor and commodity market linkages between Israel and the Palestinian territories.",
+        "• A critical consequence of these disruptions was the rise of chronic unemployment in the WBGS; average unemployment rates, which had been below 5% during the 1980s, surged to over 20% by the mid-1990s.",
+        "• After 1997, Israel reduced the use of comprehensive closures and introduced new policies to ease restrictions.",
+        "• In October 1999, Israel authorized the opening of a safe passage between the West Bank and Gaza Strip, in accordance with the 1995 Interim Agreement, facilitating improved movement and economic activity.",
+        "• These policy changes contributed to a moderate economic recovery in the WBGS during 1998–1999.",
+        "• Due to the Israeli blockade, 85% of factories in the Palestinian territories were either shut down or operated at less than 20% of their capacity.",
+        "• The economic impact of closures was substantial: Israeli businesses reportedly lost approximately $2 million per day, while Gaza's economy lost about $1 million per day.",
+        "• According to World Bank estimates, the nominal GDP of the Palestinian territories was US$4,007,000, compared to Israel’s nominal GDP of US$161,822,000.",
+        "• On a per capita basis, the nominal GDP was US$1,036 per year in the Palestinian territories and US$22,563 per year in Israel."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:38:47.056701",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Prosperity",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the worldwide recession of the 1930s, Palestine, including its Arab population, experienced severe economic hardships characterized by economic decline and increased unemployment due to the global economic downturn.",
+        "• By the end of World War II, Palestine had achieved a significant level of prosperity and was regarded as one of the most economically advanced countries in the Middle East.",
+        "• The wartime prosperity in Palestine was largely attributed to its role as a center of British communications, which brought economic benefits through contracts in transport, military construction, and supply sectors.",
+        "• The establishment of a large oil refinery in Haifa during World War II contributed to employment creation and stimulated economic growth in the region.",
+        "• Agricultural exports, particularly citrus fruit, experienced a marked increase during the war due to disrupted supplies from other Mediterranean regions caused by German military actions, leading to higher demand for Palestinian citrus products.",
+        "• Both Arab and Jewish citrus producers capitalized on the increased demand for citrus exports, thereby contributing to Palestine’s economic growth during this period.",
+        "• Although many British Mandatory government contracts were awarded to new Jewish immigrants, Arab Palestinians also benefited economically by providing cheaper labor, securing employment in railroads, military construction projects, and government departments such as the police.",
+        "• The wartime economic prosperity coincided with new forms of investment and trade that connected Palestinian entrepreneurs to the global market, with profits invested in shares, government bonds, and commodity stocks.",
+        "• Following the 1948 dispersion of people, some individuals were able to recover portions of their wealth through these financial investments.",
+        "• Data collected by the British Mandatory government estimated that total capital ownership in Palestine in 1945 was 281 million Palestinian pounds.",
+        "• Of the total capital ownership in 1945, approximately 47 percent (132.6 million Palestinian pounds) was owned by the Arab community.",
+        "• The majority of Arab-owned wealth, amounting to 74.8 million Palestinian pounds, was invested in rural landholdings, which were non-transferable abroad.",
+        "• Arab Palestinians also held other assets in recoverable forms such as foreign stocks and shares, amounting to just over 39 million Palestinian pounds, which could be reclaimed by exiles.",
+        "• Arab banks in Palestine held 7 million Palestinian pounds in bank deposits, with an additional 3 million pounds deposited in the Ottoman Bank or the local branch of Barclays Bank; some of these funds were recovered through international litigation in the early 1950s.",
+        "• Approximately 10 million Palestinian pounds in bank deposits held by Arab banks were transferred to Jordan as a result of the mass displacement of Palestinians during the 1948-1949 Arab-Israeli war, with many refugees seeking shelter in Jordan.",
+        "• At least 1.5 million Palestinian pounds in the form of physical banknotes were brought into Palestine prior to the abolition of the Palestinian currency, indicating that individuals who left Palestine took physical cash with them.",
+        "• Similar transfers of physical banknotes occurred to Syria (at least 1.5 million pounds), with smaller amounts sent to Egypt and Iraq, reflecting the movement of Palestinian refugees and migrants carrying cash assets to these countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:39:03.228972",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Economic rise (1970—2000)",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 1970s and subsequent years, a significant number of Palestinians sought employment opportunities in Israel, integrating into its labor market and providing income and remittances that positively influenced the Palestinian economy.",
+        "• Palestinian workers contributed substantially to various sectors of the Israeli economy, including construction, agriculture, and manufacturing, although economic disparities between Israel and the occupied Palestinian territories remained pronounced.",
+        "• Despite some economic benefits from labor integration, Palestinians faced restricted access to essential resources, markets, and capital, which impeded their broader economic development.",
+        "• Employment opportunities in Israel spanned multiple sectors such as construction, agriculture, manufacturing, and services, helping to reduce unemployment among Palestinians and providing vital income for workers and their families.",
+        "• The General Federation of Trade Unions was established to represent Palestinian workers and advocate for their rights and interests within this labor context.",
+        "• Palestinian exports reached their peak in 1981 but subsequently declined throughout the 1990s, while imports nearly doubled during the same period, causing the trade deficit to widen from 35% of GDP in 1981 to 45% of GDP in 1996.",
+        "• The First Intifada (1987–1993), a Palestinian uprising against Israeli occupation, severely disrupted the Palestinian economy through widespread closures and Israeli-imposed restrictions, adversely affecting economic activities and livelihoods.",
+        "• The 1991 invasion of Kuwait and the ensuing Gulf War had a notable impact on the Palestinian economy, while the Madrid Conference held that year fostered improved economic collaboration between Arab countries and Israel.",
+        "• The Oslo Accords of the 1990s resulted in the creation of the Palestinian Authority (PA) and granted limited self-governance in parts of the West Bank and Gaza, with the PA assuming responsibilities in trade, investment, and public services.",
+        "• Despite these developments, the overall economic impact of the Oslo Accords was mixed due to ongoing setbacks in the peace process and the continued Israeli occupation.",
+        "• In 1994, the Paris Protocol was signed, establishing the framework for economic relations between Israel and the PA, including regulations on labor movement and employment.",
+        "• In 1995, the Israeli government imposed restrictions on the movement of Palestinian workers within Israel, citing security concerns, while the PA gained control over certain economic sectors such as tourism, trade, and investment.",
+        "• Between 1995 and 1999, the Palestinian economy experienced a period of relative growth and stability, supported by increased international aid and improved economic indicators.",
+        "• For approximately 30 years, Israel allowed thousands of Palestinians to enter daily for work in construction, agriculture, and other blue-collar jobs, during which time the Palestinian economy was significantly larger than that of most Arab states.",
+        "• Until the mid-1990s, up to 150,000 Palestinians—about 20% of the Palestinian labor force—entered Israel each day for employment.",
+        "• Following a wave of Palestinian suicide bombings, Israeli public opinion shifted towards separation from Palestinians, leading Israel to gradually replace Palestinian laborers with migrant workers from countries such as Thailand and Romania due to labor shortages."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:39:13.519658",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Intifada and recovery (2000–present)",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2005, the Palestinian National Authority (PNA) Ministry of Finance identified the Israeli West Bank barrier, whose construction began in the latter half of 2002, as a significant factor contributing to depressed Palestinian economic activity.",
+        "• Real GDP growth in the West Bank experienced a substantial decline during the years 2000, 2001, and 2002, followed by modest increases in 2003 and 2004.",
+        "• The World Bank attributed the modest economic growth since 2003 to factors including diminished levels of violence, fewer curfews, more predictable (though still intense) closures, and Palestinian businesses adapting to the constraints of the West Bank economy.",
+        "• Under a \"disengagement scenario,\" the World Bank projected a real growth rate of −0.2% in 2006 and −0.6% in 2007 for the Palestinian economy.",
+        "• Following Israel's unilateral disengagement from Gaza, shortages of bread and basic supplies occurred due to the closure of the al Mentar/Karni border crossing into Israel.",
+        "• Israel offered to open alternative border crossings after the Gaza disengagement, but the Hamas-led Palestinian Authority declined these offers.",
+        "• After the January 2006 legislative elections, which Hamas decisively won, the Quartet (comprising the United States, European Union, United Nations, and Russia, though Russia did not participate in the sanctions) cut all funds to the Palestinian Authority led by Prime Minister Ismail Haniyah of Hamas.",
+        "• The Palestinian Authority faced a monthly cash deficit of $60 million to $70 million, despite receiving $50 million to $55 million monthly from Israel in taxes and customs duties collected at the borders.",
+        "• Post-election, the Palestinian stock market declined by approximately 20%, and the Palestinian Authority exhausted its borrowing capacity with local banks.",
+        "• Israel ceased transferring $55 million in tax receipts to the Palestinian Authority, funds which represented one-third of the PA's budget and financed the salaries of 160,000 Palestinian civil servants, including 60,000 security and police officers.",
+        "• The United States and the European Union halted direct aid to the Palestinian Authority, and the United States imposed a financial blockade on PA banks, obstructing the transfer of some funds from Arab League countries such as Saudi Arabia and Qatar.",
+        "• In May 2006, hundreds of Palestinians in Gaza and the West Bank protested to demand payment of their wages amid the financial crisis.",
+        "• The economic squeeze on the Palestinian Authority intensified tensions between Hamas and Fatah factions.",
+        "• In 2009, the Israeli military removed its checkpoint at the entrance of Jenin as part of a series of security measure reductions.",
+        "• In September 2012, European Union activists reported that the Palestinian economy had lost access to 40% of the West Bank territory, 82% of its groundwater resources, and more than two-thirds of its grazing land due to Israeli occupation and settlement construction.",
+        "• The first planned Palestinian city, Rawabi, was under construction north of Ramallah with financial assistance from Qatar.",
+        "• In 2013, commercial trade between Israel and the Palestinian territories was valued at approximately US$20 billion annually."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:39:27.026391",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture constitutes a fundamental component of the Palestinian economy, providing essential sustenance for the population and serving as a significant contributor to Palestine's export revenues.",
+        "• The Council for European Palestinian Relations reports that the agricultural sector formally employs 13.4% of the Palestinian population, while informal employment within the sector reaches as high as 90%.",
+        "• Approximately 183,000 hectares of land in the Palestinian territories are under cultivation, with about 50% of this cultivated land dedicated to olive production.",
+        "• Olive products represent the highest-earning agricultural export crop for Palestine, generating more export income than any other agricultural commodity.",
+        "• Over the last decade, unemployment rates in Palestine have risen, rendering the agricultural sector the most impoverished economic sector within the region.",
+        "• Palestinian agriculture faces multiple challenges, including blockades that restrict the export of produce and the import of necessary agricultural inputs.",
+        "• There is widespread confiscation of agricultural land, which is repurposed for nature reserves, military use, and settler activities, severely limiting available farming areas.",
+        "• The destruction and confiscation of wells further exacerbate water scarcity issues critical to agricultural productivity.",
+        "• Physical barriers within the West Bank impede agricultural activities and access to farmland.",
+        "• The agricultural difficulties in Palestine are deeply intertwined with the broader Israeli-Palestinian conflict, as disputes over land ownership and control are directly reflected in the challenges faced by Palestinian agriculture."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:39:33.664674",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "High tech",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 2000s, a high-tech sector emerged in the Palestinian territories, benefiting from its proximity to Israel and focusing on software outsourcing, telecommunication development, and manufacturing equipment.",
+        "• By 2013, approximately 4,500 Palestinians were employed in the IT sector, with many specializing in outsourced work from Israeli companies.",
+        "• The Palestinian IT sector’s contribution to GDP increased significantly from 0.8% in 2008 to 5% in 2010.",
+        "• Since 2009, the Palestinian IT industry experienced a 64% increase in foreign business.",
+        "• The majority of Palestinian IT companies are concentrated in the city of Ramallah, located north of Jerusalem.",
+        "• From 2010 onwards, Israeli high-tech companies began employing Palestinian engineers, primarily as outsourced workers.",
+        "• Mellanox, a computer hardware firm, planned to hire 15–20 Palestinian engineers as regular employees, marking a shift from outsourcing to direct employment.",
+        "• Joint economic cooperation between Israeli and Palestinian officials has grown in recent years, fostering collaboration in the high-tech sector.",
+        "• Starting in 2008, Cisco Systems initiated a comprehensive effort to develop the Palestinian IT sector using a holistic ecosystem approach that included venture capital, private equity, capacity building, and direct outsourcing to Palestinian companies.",
+        "• Cisco Systems invested $15 million in this initiative and attracted other major international investors and donors such as Microsoft, HP, and Google.",
+        "• The Palestinian IT sector’s GDP contribution grew from 0.8% in 2008 to 5% in 2010, partly due to these investments and collaborations.",
+        "• In May 2018, the World Bank published a report titled \"Tech startup ecosystem in West Bank and Gaza,\" analyzing the Palestinian technology sector.",
+        "• According to the World Bank report, as of early 2017, there were 241 active tech start-ups in the Palestinian Territories, creating a total of 1,247 jobs.",
+        "• The report identified 51 active investors in Palestinian tech companies, with approximately 75% being angel investors and 25% venture capital firms.",
+        "• Major venture capital firms investing in Palestinian tech companies include Sadara Ventures, Ibtikar Fund, and Oasis500.",
+        "• By 2017, venture capital firms had invested just under US$150 million in over 40 Palestinian tech companies.",
+        "• The report documented 20 start-up accelerator programs, with 19 located in the West Bank and one, Gaza Sky Geeks, in the Gaza Strip.",
+        "• Palestine has earned the nickname \"Silicon Valley of the NGOs,\" reflecting its growing reputation in the tech startup ecosystem."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:39:42.873921",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "Traditional industries",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Palestinian handicrafts encompass a wide variety of traditional products that have been produced by Arabs in Palestine for hundreds of years and continue to be made today.",
+        "• Key Palestinian handicrafts include embroidery work, pottery-making, soap-making, glass-making, weaving, and carvings made from olive wood and Mother of Pearl.",
+        "• Several Palestinian cities in the West Bank are renowned for specializing in particular handicrafts, with Bethlehem, Hebron, and Nablus being notable examples.",
+        "• The production, sale, and export of these specialized handicrafts constitute a significant component of the local economies of Bethlehem, Hebron, and Nablus.",
+        "• Stonecutting represents a traditional and important source of income within the Palestinian economy.",
+        "• The stone industry in Palestine has the highest annual average output per worker compared to any other economic sector.",
+        "• There are a total of 650 stone production outlets operating in the West Bank, with 138 of these located specifically in Beit Fajjar.",
+        "• The quarried stone material is processed into a diverse range of bricks and tiles characterized by colors such as pink, sand, golden, and off-white, collectively known as Jerusalem stone."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:39:48.121042",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2010, the Palestinian territories received 4.6 million visitors, a significant increase from 2.6 million in 2009, with 2.2 million identified as foreign tourists and 2.7 million as domestic visitors.",
+        "• The reported number of international visits is somewhat misleading, as most tourists visit for only a few hours or participate in day trip itineraries rather than extended stays.",
+        "• During the last quarter of 2012, over 150,000 guests stayed in hotels located in the West Bank, with 40% of these guests originating from Europe and 9% from the United States and Canada.",
+        "• Major travel guides have recently noted that while the West Bank is not the easiest place to travel, the effort required is richly rewarded by the experience.",
+        "• The Palestinian Authority and Israeli tourism ministries have attempted collaboration through a Joint Committee to promote tourism in the Palestinian territories, but cooperation has been largely unsuccessful due to issues related to the Israeli occupation.",
+        "• Israel maintains control over the movement of tourists entering the West Bank, restricting foreign tourism primarily to East Jerusalem and the West Bank following the indefinite closure of the Rafah crossing between Egypt and the Hamas-controlled Gaza Strip in August 2013.",
+        "• Since 2005, there has been essentially no tourist flow to Gaza due to the ongoing Israeli military blockade by land, air, and sea.",
+        "• In 2013, Palestinian Authority Tourism Minister Rula Ma'ay'a emphasized that while the government aims to encourage international tourism, the Israeli occupation remains the principal obstacle preventing tourism from becoming a major source of income for Palestinians.",
+        "• There are no specific visa conditions imposed on foreign nationals entering the Palestinian territories beyond those required by Israeli visa policy; however, access to Jerusalem and the West Bank is controlled by Israel, and access to Gaza is controlled by Hamas.",
+        "• Entry to the occupied Palestinian territories requires a valid international passport, but entry to Israel may be denied to Palestinians or Arabic visitors.",
+        "• In October 2009, a new project was initiated to promote tourism and travel between the West Bank and Israel, including new business ventures and tourist attractions in Jenin.",
+        "• Several international hotel brands operate within the Palestinian territories, including the Intercontinental Jacir Palace and Seven Arches Hotel Intercontinental in Bethlehem, Marriott Gaza (later renamed Al-Mashtal), and the Millennium Palestine Ramallah Hotel.",
+        "• In 1995, Marriott International proposed constructing a business center combined with a luxury hotel in Gaza; this project was later modified to focus on a different hotel within the same city."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:37.847087",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1.8",
+      "section_name": "Oil and gas",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The presence of oil and gas reserves in Palestine is a contentious issue, with some advocates suggesting these fossil fuel resources influence Israel's attacks on the region.",
+        "• A 2019 U.N. report estimates over 3 billion barrels of oil exist off the coast and beneath the occupied lands of Palestine.",
+        "• The Levant Basin in the Mediterranean is believed to hold around 1.7 billion barrels of oil, with an additional 1.5 billion barrels estimated beneath the occupied West Bank area.",
+        "• Under Israeli occupation, Palestinians are prohibited from drilling for oil and gas or developing independent energy systems, including solar energy.",
+        "• Israel has been actively claiming these resources, approving licenses for companies to explore offshore gas fields, and pursuing a pipeline to export gas to European nations amid Europe's search for alternative energy due to the Russia-Ukraine conflict.",
+        "• Many advocates argue that foreign interests in extracting Palestinian fossil fuel resources contribute to the potential genocide faced by Palestinians.",
+        "• The Middle East's foreign policy has historically revolved around fossil fuels, and the Israel-Palestine conflict is deeply intertwined with the region's oil and gas resources.",
+        "• The discovery of oil complicated the Israel-Palestine conflict, as world powers sought access to this crucial commodity, making it difficult to separate regional conflicts from oil and gas influences.",
+        "• The ongoing conflict between Israel and Palestine includes disputes over ownership and exploitation of oil and gas reserves.",
+        "• In 1999, a gas field was discovered approximately 20 miles off the coast of Gaza, but negotiations to divide these resources were disrupted by the Second Intifada starting in 2000.",
+        "• International law stipulates that oil and gas resources in occupied territories belong to those territories, not the occupying power; however, Israel benefits from reserves beneath Palestinian lands and waters.",
+        "• Palestine's inability to access these resources results in a loss of billions of dollars in economic potential.",
+        "• Environmental concerns about fossil fuel extraction have led Palestinian activists to advocate for a focus on renewable energy.",
+        "• Some view the international community’s complicity in the Israeli occupation and Gaza conflict as linked to capitalist interests and profit motives.",
+        "• The history of colonialism and oil extraction in the Middle East forms part of the broader context of the Israel-Palestine conflict.",
+        "• Opinions vary on the role of fossil fuels in the conflict, with some emphasizing religious ideology, geopolitical strategies, and control of trade routes as more significant factors.",
+        "• Palestine holds massive potential reserves of oil and gas, with over 3 billion barrels (480,000,000 m³) estimated off the coast and beneath occupied lands.",
+        "• The Levant Basin contains around 1.7 billion barrels (270,000,000 m³) of oil, and approximately 1.5 billion barrels (240,000,000 m³) lie beneath the occupied West Bank.",
+        "• Around 2 billion barrels (320,000,000 m³) of oil reserves are believed to exist onshore in the Gaza Strip.",
+        "• A UNCTAD report estimates about 1,250 billion barrels (1.99×10¹¹ m³) of oil reserves in the occupied West Bank, likely referring to the Meged oil field.",
+        "• According to the Palestinian Authority, 80% of the Meged oil field falls under Palestinian-owned lands.",
+        "• Masadder, a subsidiary of the Palestine Investment Fund, is developing the oilfield in the West Bank.",
+        "• The Block-1 field spans 432 square kilometers (167 sq mi) from northwest Ramallah to Qalqilya and has significant potential for recoverable hydrocarbons.",
+        "• Block-1 is estimated to have a P90 recoverable oil volume of 0.03 billion barrels (4,800,000 m³) and 6 billion cubic feet (170,000,000 m³) of gas.",
+        "• The estimated development cost for Block-1 is $390 million, to be conducted under a production sharing agreement with the Government of Palestine.",
+        "• An initial pre-exploration work program for Block-1 is underway to prepare an exploration plan for approval before full development.",
+        "• Natural gas in Palestine is primarily found in the Gaza Strip, notably in the Gaza Marine gas field located about 32 kilometers (20 miles) off the Mediterranean coast.",
+        "• Gaza Marine holds gas reserves estimated between 28 billion cubic meters (990 billion cubic feet) and 32 billion cubic meters (1.1 trillion cubic feet), exceeding Palestinian energy needs.",
+        "• The Gaza Marine gas field was discovered by the British Gas Group in 1999.",
+        "• Yasser Arafat hailed the discovery as a \"Gift from God.\"",
+        "• A regional cooperation agreement for developing Gaza Marine was signed by the Palestinian Authority, Israel, and Egypt, with Hamas also approving the Palestinian Authority’s role.",
+        "• The Gaza Marine development project has been delayed due to the ongoing Gaza war."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:46.114576",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 32
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "1.9",
+      "section_name": "Communications",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The World Bank estimated in 2016 that restrictive measures imposed by Israel on telecommunication operators in the West Bank have significantly hindered the development of Palestinian telecommunications networks.",
+        "• These restrictions have caused the Palestinian telecommunications sector to sustain financial losses estimated at approximately $1 billion.",
+        "• One major restriction is the denial of operation rights in 60% of the West Bank, specifically in Area C, which is under Israeli military administration.",
+        "• Palestinian ICT companies face limitations on the importation of technology, restricting their ability to develop and expand telecommunications infrastructure.",
+        "• Palestinian operators are required to access international telecommunication links exclusively through companies registered in Israel, limiting their autonomy and increasing operational costs.",
+        "• There have been delays in the provision and rollout of mobile broadband services within the Palestinian territories due to these restrictions.",
+        "• The establishment of an independent regulatory authority for the telecommunications sector in the Palestinian territories has not been implemented, further impeding sector development.",
+        "• Israeli telecommunication operators continue to operate within the Palestinian market without obtaining appropriate authorizations, complicating regulatory oversight and market fairness."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:30.853736",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "1.10",
+      "section_name": "West Bank",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, the West Bank economy showed gradual improvement with economic growth reaching approximately 4–5% and unemployment decreasing by about 3%.",
+        "• Israeli data indicated that wages in the West Bank increased by more than 20% in 2008, while trade volume rose by approximately 35%.",
+        "• Tourism in Bethlehem doubled compared to previous levels, and tourism in Jericho increased by 50% during the same period.",
+        "• Life expectancy in the Palestinian territories was recorded at 73.4 years, ranking 77th globally; this compares to 72.5 years in Jordan, 71.8 years in Turkey, and 80.7 years in Israel.",
+        "• Car sales in the West Bank in 2008 were twice those of 2007, indicating a significant rise in consumer purchasing power.",
+        "• The International Monetary Fund (IMF) forecasted a 7% economic growth rate for the West Bank in 2009.",
+        "• The Bethlehem Small Enterprise Center was inaugurated in early 2008, funded by Germany, with a mission to enhance computer literacy and marketing skills among local entrepreneurs.",
+        "• In 2009, efforts to build Palestinian local institutions and governments intensified, with significant contributions from Tony Blair and US General Keith Dayton, aiming to establish viable institutions and promote local peace.",
+        "• In August 2009, a state-of-the-art web-based system for tracking goods entering and exiting the West Bank through Palestinian customs was launched in collaboration with the United Nations Conference on Trade and Development (UNCTAD).",
+        "• The year 2009 marked the beginning of an economic \"boom\" in the West Bank, with growth reaching 8%, surpassing growth rates in Israel and Western countries.",
+        "• Despite the nominal growth, inflation in 2009 was around 9.9%, resulting in negative real economic growth due to decreased purchasing power.",
+        "• Tourism to Bethlehem increased from 1 million visitors in 2008 to nearly 1.5 million in 2009.",
+        "• New car imports in 2009 rose by 44%, reflecting increased consumer demand.",
+        "• New shopping malls were opened in the cities of Jenin and Nablus, indicating retail sector expansion.",
+        "• Following the Palestine Investment Conference, Palestinian developers announced plans to build Rawabi, the first modern Palestinian city.",
+        "• In 2010, Ramallah emerged as a central hub of economic activity, attributed to improved security, successful anti-corruption measures, and a large consumer base.",
+        "• In 2011, the Palestinian Planning Minister projected GDP growth rates of 9% for 2011, increasing to 10% in 2012 and 12% in 2013."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:35.383490",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "1.11",
+      "section_name": "East Jerusalem",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• East Jerusalem was historically the primary business and shopping center of the West Bank, serving as a commercial hub for the region.",
+        "• The establishment of Israeli security checkpoints and the construction of the separation barrier, beginning over a decade ago, have isolated East Jerusalem from its traditional customer base, resulting in significant economic decline.",
+        "• Hanna Siniora, representing the Palestinian-American Chamber of Commerce, identifies 1993 as the critical turning point when East Jerusalem effectively became a closed city due to isolation from the rest of the West Bank.",
+        "• Between 1993 and 2001, East Jerusalem experienced a 50% reduction in business activity, directly linked to its increasing isolation.",
+        "• A 2012 report by the Association for Civil Rights in Israel (ACRI), supplemented by interviews conducted by the Forward, highlights that the economic downturn in East Jerusalem has precipitated unprecedented poverty levels.",
+        "• According to the 2012 ACRI report, approximately 80% of the Palestinian population in East Jerusalem lives below the poverty line.",
+        "• The primary cause of this economic and social decline is attributed to political and physical barriers that separate East Jerusalem from the rest of the West Bank.",
+        "• The ACRI report specifically cites \"the cumulative effects of annexation, neglect, rights violations and the completion of the separation barrier\" as key factors exacerbating the economic crisis.",
+        "• Another significant factor contributing to the economic decline is the housing situation in East Jerusalem, where the Israeli government has promoted extensive construction for Israeli settler neighborhoods.",
+        "• Conversely, the Israeli authorities have imposed severe restrictions on development and building permits for the Palestinian population in East Jerusalem, further limiting economic growth and exacerbating poverty."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:30.022335",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "1.12",
+      "section_name": "Gaza Strip",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the CIA's _The World Factbook_, Israel's closure policy, which was intensified following the Hamas administration's rise to power in 2007, caused high levels of poverty and unemployment in Gaza City and led to a significant decline in the private sector, which had been heavily dependent on export markets.",
+        "• Israel attributed the implementation of the closure policy to actions taken by Hamas that it deemed responsible for the restrictions.",
+        "• A substantial portion of Gaza City's population relies on humanitarian assistance, primarily provided by United Nations agencies.",
+        "• In 2010, an easing of Israel's closure policy resulted in improvements in some economic indicators in Gaza City; however, regular exports from the Gaza Strip remained prohibited.",
+        "• According to the Israeli Defense Forces, the Gaza Strip's economy improved in 2011, evidenced by a decrease in unemployment rates and an increase in Gross Domestic Product (GDP).",
+        "• Economic development in 2011 included the opening of new shopping malls, growth in local industry, construction of hotels, and a rise in car imports.",
+        "• This wide-scale economic development was facilitated by the unhindered movement of goods into Gaza through the Kerem Shalom Crossing and tunnels connecting the Gaza Strip with Egypt.",
+        "• The current rate of trucks entering Gaza through the Kerem Shalom Crossing is approximately 250 trucks per day, though this number fluctuates depending on the level of interference with goods brought in from Egypt via tunnels.",
+        "• The surge in construction activity has created a shortage of construction workers in Gaza City.",
+        "• To address the deficit in skilled labor, young people from Gaza are being sent to Turkey to receive training in construction trades."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:34.202184",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2",
+      "section_name": "Currency",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Under the Protocol on Economic Relations, Palestinians are prohibited from independently introducing a separate Palestinian currency.",
+        "• The Israeli new shekel serves as the primary currency in the Palestinian territories.",
+        "• In the West Bank, the Jordanian dinar is also in circulation alongside the shekel.",
+        "• The Israeli new shekel is predominantly used for most transactions, particularly retail purchases.",
+        "• The Jordanian dinar is primarily utilized for savings and transactions involving durable goods in the West Bank.",
+        "• The United States dollar is occasionally used for savings and for purchasing foreign goods within the Palestinian territories.",
+        "• The overwhelming majority of transactions overseen by the Palestinian Monetary Authority, which functions as Palestine's central bank, are conducted in US dollars; however, these transactions represent only a fraction of the total economic activity conducted in Palestine or by Palestinians.",
+        "• In the Gaza Strip, the Israeli new shekel is also the main currency, but it is in short supply due to the blockade imposed by the Palestinian Authority, Israel, and Egypt.",
+        "• The Palestinian Monetary Authority does not issue its own currency, which prevents it from pursuing an independent and effective monetary policy.",
+        "• The use of multiple currencies in the Palestinian territories increases transaction costs and creates inconvenience due to fluctuating exchange rates."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:34.298118",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "3",
+      "section_name": "Taxation",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Taxation in the Palestinian territories involves a complex system requiring payments to both the Palestinian Authority (PA) and Israel.",
+        "• In 2005, the Palestinian Authority collected approximately $34 million per month from taxes and other charges within the territories.",
+        "• During the same period, Israel collected about $75 million per month in tariffs on foreign imports and value added taxes (VAT) on Israeli goods and services consumed by Palestinians.",
+        "• Of the $75 million collected by Israel monthly, it retained on average about $15 million to cover the payment of water and power bills for Palestinians.",
+        "• The remaining $60 million collected by Israel was forwarded monthly to the Palestinian Authority as part of its revenue.",
+        "• Funds collected by Israel on behalf of the PA constitute roughly two-thirds of the PA’s self-generated revenue.",
+        "• Reuters reported that the PA’s self-generated revenue was approximately $100 million as of December 2012.",
+        "• Since the 2006 Palestinian legislative election and the subsequent formation of a Hamas government within the PA, Israel has regularly withheld the tax revenues it owes to the Palestinian Authority."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:35.354324",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4",
+      "section_name": "Employment",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the Council for European Palestinian Relations, the agricultural sector formally employs 13.4% of the Palestinian population.",
+        "• The agricultural sector informally employs 90% of the Palestinian population, indicating a significant reliance on informal labor within this sector.",
+        "• Over the past 10 years, unemployment rates in Palestine have increased, reflecting worsening employment conditions.",
+        "• The agricultural sector has become the most impoverished sector in Palestine during this period of rising unemployment.",
+        "• Unemployment rates in Palestine peaked in 2008, reaching 41% specifically in the Gaza Strip."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:37.101009",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "By Israelis",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• High unemployment in the Palestinian economy has driven approximately 100,000 Palestinians to seek employment in Israel.",
+        "• By March 2014, around 45,000 work permits were issued to Palestinians for employment in Israel, with an additional 25,000 permits granted for work in West Bank settlements.",
+        "• It is estimated that about 35,000 Palestinians work in Israel through illegal channels without obtaining the necessary permits.",
+        "• Recently, the quota for work permits has been increased, and the minimum age required to obtain a permit was lowered from 26 to 24 years old.",
+        "• Palestinians employed in Israel and settlements work in various sectors, including construction, manufacturing, commerce, and agriculture.",
+        "• As of 2013, the average daily wages for Palestinians working in Israel and Israeli settlements were nearly 2.2 times higher than wages in the private sector in the West Bank and over four times higher than wages in Gaza.",
+        "• By 2022, the Palestinian monthly minimum wage was ₪1,450, which is approximately one-quarter of the Israeli minimum wage of ₪5,300.",
+        "• In the West Bank, Israeli labor laws are partially applied through military enactments, and a 2007 ruling by the Supreme Court of Israel mandates the application of Israeli labor law for work performed inside Israeli settlements.",
+        "• Despite legal protections, there have been instances where Israeli employers failed to meet their legal obligations by refusing to provide paychecks or by concealing actual work hours to circumvent labor laws such as minimum wage requirements and social security benefits.",
+        "• In 2014, an article published in Al-Hayat Al-Jadida, the official daily newspaper of the Palestinian Authority, praised the treatment of Palestinian workers by Israelis.",
+        "• The article noted that Palestinians receive additional benefits when working for Israelis, such as transportation, medical care, and pensions, making them inclined to leave Palestinian employers for Israeli ones whenever possible.",
+        "• Safety regulations for Palestinian workers in Israel are strictly enforced by the Israeli Workers' Union, and medical physical examinations are conducted by doctors.",
+        "• Although the Palestinian Authority has enacted labor laws, it does not effectively enforce regulations concerning minimum wage, annual vacations, sick leave, or overtime pay."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:44.469122",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "5",
+      "section_name": "Foreign aid",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, the economies of the West Bank and Gaza were heavily dependent on foreign aid, which amounted to approximately US$1.8 billion, representing about 30% of the Palestinian GDP or US$487 per Palestinian annually.",
+        "• Foreign aid in 2008 was crucial for providing essential services to nearly half of the Palestinian population and enabled the Palestinian Authority (PA) to function and pay its estimated workforce of 140,000 employees.",
+        "• In 2010, Arab states reduced their financial aid contributions to the Palestinian Authority; by August 2010, the PA received US$583.5 million in budget support, with only 22% of this amount coming from Arab countries.",
+        "• The majority of the PA’s 2010 budget support came from international donors, notably the European Union and the United States.",
+        "• Salah Rafat, a member of the Palestine Liberation Organization (PLO) Executive Committee, publicly called on Arab countries to fulfill their financial commitments to the Palestinian Authority.",
+        "• In April 2011, Palestinian Prime Minister Salam Fayyad met with Western donors in Brussels, requesting US$5 billion in aid to support the Palestinian economy.",
+        "• In 2013, US Secretary of State John Kerry proposed a US$4 billion private investment plan aimed at stimulating the Palestinian economy in the West Bank as part of efforts to encourage peace talks between Israelis and Palestinians.",
+        "• The 2013 investment plan was described as having significant potential to grow the West Bank economy but lacked detailed information regarding specific projects, potential investors, or necessary changes to Israeli restrictions on the West Bank.",
+        "• This proposal was coordinated with the Quartet on the Middle East, a peacemaking group consisting of the United States, Russia, the European Union, and the United Nations, with former UK Prime Minister Tony Blair serving as the Quartet’s envoy.",
+        "• The Palestinian Authority responded to the 2013 proposal by affirming that it would not exchange its political goals for economic aid, but was reassured that the investment plan was intended to complement peace negotiations rather than replace them.",
+        "• Ultimately, peace talks failed for reasons unrelated to the investment proposal, and the US$4 billion plan was not implemented."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:42.832172",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Commerce",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Olives of Peace is a joint Israeli–Palestinian business venture focused on selling olive oil, involving collaborative training sessions and planning between Israelis and Palestinians, with the product marketed under the brand name \"Olives of Peace.\"",
+        "• Plans exist for a joint industrial zone bridging the Israeli-Palestinian border, where Palestinians would produce locally-made handicrafts to be sold through Gilboa to international markets.",
+        "• Another proposed project includes establishing a joint language center for Israelis and Palestinians to teach each other Arabic and Hebrew, alongside sharing aspects of their respective cultural heritages.",
+        "• In 2011, bilateral trade between Israel and the Palestinian-ruled areas reached a total of $4.3 billion, with Israeli exports to the Palestinian Authority (PA) amounting to $3.5 billion and Palestinian exports to Israel totaling $816 million.",
+        "• Nader Tamimi, chair of the Association of Traditional Industries in the PA, noted that regular interactions occur between Palestinian and Israeli businessmen, indicating ongoing commercial cooperation.",
+        "• In 2012, a conference hosted by the Faculty of Business and Management at Ben-Gurion University of the Negev convened Israeli and Palestinian trade experts to discuss strategies for enhancing cross-border business interactions.",
+        "• By 2013, commercial trade between Israel and the Palestinian Authority was valued at approximately US$20 billion annually, reflecting a significant increase in economic transactions.",
+        "• The growth in trade led to the establishment of the Jerusalem Arbitration Center (JAC), a joint Palestinian and Israeli initiative designed as an independent institution specializing in business arbitration between Israelis and Palestinians.",
+        "• According to a 2019 World Bank report, the Palestinian economy suffered severe impacts on public finances due to the clearance revenue crisis with Israel, which caused a fiscal shock after no real economic growth was observed in 2018.",
+        "• Anna Bjerde, World Bank Acting Country Director for West Bank Gaza, highlighted that the economy faced a severe fiscal shock due to the standoff over clearance revenue transfers between Israel and the PA.",
+        "• The 2019 standoff arose after Israel unilaterally deducted US$138 million from the PA’s clearance revenues to offset estimated payments made by the PA to Palestinian martyrs and prisoners' families, exacerbating economic difficulties amid declining aid flows."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:44.571791",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Conflict",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, the unity of the Palestinian economy was fractured following the political split between Fatah and Hamas, which prompted Israel to sever direct economic ties between the West Bank and Gaza.",
+        "• The war of 2008–2009 severely damaged the Gaza Strip's economic infrastructure, resulting in the destruction of most facilities and leaving the Palestinian economy in Gaza with no remaining economic activity and a debt burden of $1.4 billion.",
+        "• The Oslo Accords, signed in 1993, aimed to prevent economic fragmentation and instability in Palestine, but ultimately failed to stabilize the Palestinian economy, which continued to experience significant fluctuations.",
+        "• The current Palestinian economy largely depends on foreign aid and customs revenue collected between Israel and Palestine, highlighting its reliance on external financial support.",
+        "• Israeli restrictions continue to impede and fragment the Palestinian economy by limiting movement, trade, and access to resources, thereby exacerbating economic challenges.",
+        "• By 2008, unemployment in the Gaza Strip reached a critical level of 71%, indicating severe economic distress and lack of employment opportunities.",
+        "• Border restrictions and ongoing Israeli control in both the West Bank and Gaza have negatively impacted Palestine’s import and export activities, weakening key sectors such as industry and agriculture.",
+        "• The removal of Israeli restrictions on Palestinian land is identified as a necessary condition for the Palestinian economy to achieve sustainable growth and prosperity.",
+        "• According to _The Guardian_ and a World Bank report, Israeli restrictions in the West Bank caused the Palestinian economy to lose approximately $3.4 billion, equivalent to 35% of the annual GDP.",
+        "• Unemployment rates in Gaza and the West Bank fluctuated significantly from 2000 to 2008, with the following percentages: 12.5% in 2000, 21% in 2001, 32% in 2002, 26% in 2003, 27.5% in 2004, 24.5% in 2005, 23% in 2006, 21.5% in 2007, and rising again to 26.5% in 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:49.078408",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "6",
+      "section_name": "Macroeconomic data",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents key macroeconomic indicators for Palestine from 1994 to 2023, including GDP (in billion US$ PPP and nominal), GDP per capita (in US$ PPP and nominal), real GDP growth, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1994, Palestine's GDP was 5.85 billion US$ PPP with a GDP per capita of 2,524 US$ PPP; nominal GDP was 2.84 billion US$ with a nominal GDP per capita of 1,227 US$, unemployment stood at 18.6%, while inflation and government debt data were not available.",
+        "• From 1995 to 1999, GDP increased steadily from 6.40 billion US$ PPP to 9.76 billion US$ PPP, with GDP per capita rising from 2,575 to 3,295 US$ PPP; nominal GDP grew from 3.28 billion US$ to 4.27 billion US$, and nominal GDP per capita increased from 1,322 to 1,442 US$; unemployment declined from 18.7% to 11.8%, inflation rates ranged from 5.5% to 7.6%, and government debt data remained unavailable.",
+        "• In 2000, GDP slightly declined to 9.13 billion US$ PPP with GDP per capita at 2,990 US$ PPP; nominal GDP was 4.31 billion US$ and nominal GDP per capita 1,413 US$; real GDP growth was negative at −8.6%, inflation was 2.8%, unemployment increased to 14.3%, and government debt was recorded at 20.0% of GDP.",
+        "• The years 2001 to 2003 saw continued economic contraction with GDP falling from 8.47 billion US$ PPP in 2001 to 7.52 billion US$ PPP in 2002 before recovering to 8.75 billion US$ PPP in 2003; GDP per capita decreased from 2,697 US$ PPP in 2001 to 2,333 US$ PPP in 2002 then rose to 2,639 US$ PPP in 2003; nominal GDP declined from 4.00 billion US$ to 3.56 billion US$ in 2002 and rebounded to 3.97 billion US$ in 2003; real GDP growth was negative in 2001 (−9.3%) and 2002 (−12.5%) but positive in 2003 (14.0%); inflation varied between 1.2% and 5.7%; unemployment peaked at 31.2% in 2002 before falling to 25.5% in 2003; government debt remained around 20.7% to 22.2% of GDP.",
+        "• Between 2004 and 2008, the economy experienced robust growth with GDP rising from 10.95 billion US$ PPP in 2004 to 14.97 billion US$ PPP in 2008; GDP per capita increased from 3,214 to 3,919 US$ PPP; nominal GDP grew from 4.60 billion US$ to 7.31 billion US$; nominal GDP per capita rose from 1,351 to 1,913 US$; real GDP growth rates were strong, peaking at 21.9% in 2004 and maintaining positive growth through 2008; inflation rates fluctuated between 1.9% and 9.9%; unemployment ranged from 20.1% to 26.6%; government debt hovered around 21.1% to 23.7% of GDP.",
+        "• From 2009 to 2013, GDP continued to grow from 16.36 billion US$ PPP to 22.55 billion US$ PPP, with GDP per capita rising from 4,171 to 5,210 US$ PPP; nominal GDP increased from 8.09 billion US$ to 13.52 billion US$; nominal GDP per capita grew from 2,062 to 3,123 US$; real GDP growth remained positive, ranging from 4.7% to 9.6%; inflation rates were low, between 1.7% and 4.4%; unemployment rates stayed relatively stable around 23.0% to 30.2%; government debt increased from 24.0% to 30.2% of GDP.",
+        "• In 2014 and 2015, GDP was approximately 22.91 billion US$ PPP and 23.98 billion US$ PPP respectively, with GDP per capita around 5,171 and 5,293 US$ PPP; nominal GDP was near 14.0 billion US$ in 2014 and 13.97 billion US$ in 2015; nominal GDP per capita was approximately 3,159 US$ and 3,084 US$; real GDP growth was slightly negative in 2014 (−0.2%) but positive in 2015 (3.7%); inflation was low at 1.4% and unemployment increased to 26.9% and 25.9%; government debt rose from 34.0% to 37.1% of GDP.",
+        "• From 2016 to 2019, GDP expanded from 26.35 billion US$ PPP to 30.49 billion US$ PPP; GDP per capita increased from 5,689 to 6,127 US$ PPP; nominal GDP grew from 15.41 billion US$ to 17.13 billion US$; nominal GDP per capita rose from 3,326 to 3,443 US$; real GDP growth was strong, peaking at 8.9% in 2016 and stabilizing around 1.2% to 1.4% in later years; inflation rates were low or slightly negative, ranging from −0.2% to 1.6%; unemployment remained high between 25.4% and 33.1%; government debt increased from 31.0% to 34.5% of GDP.",
+        "• The year 2020 saw a significant economic contraction due to external shocks, with GDP falling to 28.61 billion US$ PPP and GDP per capita decreasing to 5,608 US$ PPP; nominal GDP dropped to 15.53 billion US$ and nominal GDP per capita to 3,045 US$; real GDP growth was sharply negative at −11.3%; inflation was negative at −0.7%; unemployment remained high at 25.9%; government debt surged to 47.1% of GDP.",
+        "• In 2021, GDP partially recovered to 27.88 billion US$ PPP with GDP per capita at 5,333 US$ PPP; nominal GDP increased to 18.11 billion US$ and nominal GDP per capita to 3,464 US$; real GDP growth rebounded to 7.0%; inflation was moderate at 1.2%; unemployment slightly increased to 26.4%; government debt rose further to 50.2% of GDP.",
+        "• For 2022, GDP reached 31.09 billion US$ PPP with GDP per capita of 5,805 US$ PPP; nominal GDP was 19.17 billion US$ and nominal GDP per capita 3,579 US$; real GDP growth slowed to 4.1%; inflation increased to 3.7%; unemployment decreased to 24.4%; government debt remained high at 47.1% of GDP.",
+        "• In 2023, GDP slightly declined to 30.46 billion US$ PPP with GDP per capita at 5,562 US$ PPP; nominal GDP dropped to 17.42 billion US$ and nominal GDP per capita to 3,181 US$; real GDP growth was negative at −5.4%; inflation rose to 5.9%; unemployment data was not available; government debt increased to 49.7% of GDP.",
+        "• Inflation rates below 5% are highlighted in green in the original table, indicating that most years experienced moderate inflation, with exceptions in years such as 1997 (7.6%), 1998 (5.6%), 2002 (5.7%), 2008 (9.9%), and 2023 (5.9%).",
+        "• Unemployment rates have fluctuated significantly over the period, peaking at 31.2% in 2002 and reaching lows around 20.1% in 1997, with a general trend of high unemployment above 20% in most years.",
+        "• Government debt as a percentage of GDP was not reported before 2000, but from 2000 onwards, it ranged from 19.3% in 2006 to a high of 50.2% in 2021, indicating increasing fiscal pressures over time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:45:21.316705",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "7",
+      "section_name": "Development indicators",
+      "chapter_name": "Economy of Palestine",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The gross primary school enrollment rate in Palestine was recorded at 94% in the year 2012, indicating a high level of access to primary education among the population.",
+        "• Carbon dioxide emissions per capita in Palestine were measured at 0.6 metric tons in 2010, reflecting the country's level of industrial activity and environmental impact at that time.",
+        "• The poverty rate in Palestine stood at 25.8% in 2011, highlighting the proportion of the population living below the poverty line during that year.",
+        "• Access to improved water sources in rural areas of Palestine was 82% in 2012, demonstrating the extent of rural infrastructure development for safe drinking water.",
+        "• Life expectancy at birth in Palestine was 73 years in 2012, indicating the average expected lifespan of individuals born in that year.",
+        "• The Gross National Income (GNI) per capita in Palestine, measured in current US dollars, was $2,810 in 2012, reflecting the average income level per person.",
+        "• The total population of Palestine was recorded as 4,169,509 individuals in 2013, providing a demographic snapshot of the territory at that time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:44:48.265215",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_palestine.json",
+      "original_index": 22
+    }
+  ]
+}

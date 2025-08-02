@@ -1,0 +1,309 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_angola.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.283575",
+    "total_sections_in_source": 10,
+    "extracted_sections_count": 10,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The change in per capita GDP of Angola from 1950 to 2018 is depicted with figures adjusted for inflation to 2011 International dollars, illustrating long-term economic fluctuations.",
+        "• Angola has a semi-planned economy characterized by central planning that guides economic activities alongside private enterprise participation.",
+        "• The country's economy has been heavily influenced by four decades of conflict, including the war for independence from Portugal (1961–1975) and the subsequent civil war (1975–2002).",
+        "• Since the end of the civil war in 2002, poverty has been reduced by over 50%, and approximately one-third of the population depends on subsistence agriculture.",
+        "• Post-2002 government policies focused on repairing and improving infrastructure and strengthening political and social institutions following the 27-year civil war.",
+        "• During the first decade of the 21st century, Angola experienced one of the world's fastest economic growth rates, with an average annual GDP growth of 11.1 percent from 2001 to 2010.",
+        "• The rapid economic growth during this period was primarily driven by high international oil prices and increasing oil production, although it was accompanied by significant inequality.",
+        "• In 2022, Angola's trade surplus was valued at $30 billion, a decrease from $48 billion in 2012, indicating a decline in trade balance surplus over that decade.",
+        "• Corruption remains widespread throughout Angola's economy, undermining economic integrity and development efforts.",
+        "• The country remains heavily dependent on the oil sector, which in 2017 accounted for over 90 percent of exports by value and 64 percent of government revenue.",
+        "• Following the end of the oil boom, starting in 2015, Angola entered a period of economic contraction, reflecting reduced oil prices and production challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:13:41.965817",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Angolan economy has historically been dominated by the production of raw materials and the utilization of cheap labor since European colonization began in the sixteenth century.",
+        "• Portugal primarily used Angola as a source for the transatlantic slave trade, with Luanda becoming the largest slaving port in Africa.",
+        "• The Portuguese abolished the slave trade in Angola in 1858 and shifted to concessional agreements, granting exclusive rights to private companies to exploit land, people, and resources within designated territories.",
+        "• In Mozambique, this policy led to exploitation by several companies, whereas in Angola, only Diamang achieved moderate success.",
+        "• Concurrently, Portuguese emigrants established farms and plantations (_fazendas_) to grow cash crops for export; these farms were only partially successful before World War II but laid the groundwork for future economic growth.",
+        "• In the 19th century, Angola’s principal exports included rubber, beeswax, and ivory; before World War I, exports expanded to coffee, palm kernels and oil, cattle, leather and hides, and salt fish, with small quantities of gold and cotton also produced.",
+        "• Local consumption included grains, sugar, and rum.",
+        "• Major imports comprised foodstuffs, cotton goods, hardware, and British coal.",
+        "• Legislation against foreign traders was enacted in the 1890s, yet the economy remained reliant on plantations worked by indentured labor from the interior.",
+        "• Prior to World War II, the Portuguese government prioritized self-sufficiency in its colonies, investing minimally in Angola’s local infrastructure—no roads were built until the mid-1920s, and the Benguela railway was completed in 1929.",
+        "• Between 1900 and 1940, only 35,000 Portuguese emigrants settled in Angola, mostly working in urban commerce, facilitating trade with Portugal.",
+        "• Rural Portuguese settlers struggled due to fluctuating world prices for sugarcane and sisal and difficulties in obtaining cheap labor, often suspending operations until market prices rose, then marketing local produce.",
+        "• Post-World War II, Portugal intensified efforts to develop Angola’s economy, driven by global industrialization and increased demand for raw materials.",
+        "• In the 1930s, Portugal strengthened trade ties with its colonies; by 1940, Portugal absorbed 63% of Angola’s exports and accounted for 47% of its imports, up from 39% and 37%, respectively, a decade earlier.",
+        "• After the war, the rise in prices for coffee and sisal prompted Portuguese reinvestment in infrastructure, including dams, hydroelectric power stations, and transportation systems during the 1950s.",
+        "• Portuguese citizens were encouraged to emigrate to Angola, where planned settlements (_colonatos_) were established in rural areas.",
+        "• Mining operations for iron ore, manganese, and copper commenced, and in 1955, the first successful oil wells were drilled in Angola.",
+        "• By 1960, Angola’s economy was transformed, featuring a successful commercial agricultural sector, emerging mineral and petroleum industries, and an incipient manufacturing industry.",
+        "• Following independence and the subsequent internal conflicts, by August 1976, Angola’s economy was in severe disarray: over 80% of plantations had been abandoned, only 284 of 692 factories remained operational, and more than 30,000 skilled workers had left the country.",
+        "• Additionally, 2,500 enterprises had closed, with 75% abandoned by owners; only 8,000 vehicles remained out of 153,000 registered; numerous bridges were destroyed; the trading network was disrupted; administrative services were non-existent; and files and studies were missing.",
+        "• The economic decline was partly due to the legacy of Portuguese colonial development, where settlers had appropriated land, disrupting local peasant production, and Angola’s industries depended heavily on trade with Portugal for markets and machinery.",
+        "• Only the petroleum and diamond industries had a broader client base for investment and markets.",
+        "• Portuguese had not trained Angolans to operate large industrial or agricultural enterprises nor actively educated the population, leaving Angola without the skills or markets needed for sustained economic growth post-independence.",
+        "• The Angolan government responded by nationalizing most businesses and farms abandoned by the Portuguese, establishing state farms for crops like coffee, sugar, and sisal, and taking over factory operations to sustain production.",
+        "• These nationalization efforts largely failed due to the lack of experienced managers and ongoing rural disruptions caused by the UNITA insurgency.",
+        "• The petroleum sector remained the only consistently successful industry, and by 1980, it contributed to a GDP of US$3.6 billion, the highest until 1988.",
+        "• Amid ongoing economic challenges and rural warfare, the Angolan government announced plans in 1987 to liberalize economic policies and promote private investment and involvement in the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:13:54.980484",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "1990s",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Nations Angola Verification Mission III and MONUA collectively spent approximately US$1.5 billion to oversee the implementation of the Lusaka Protocol, a peace agreement signed in 1994 aimed at ending the Angolan civil war.",
+        "• The Lusaka Protocol prohibited UNITA from purchasing foreign arms; however, the United Nations largely failed to enforce this provision, allowing both sides to continue accumulating weapon stockpiles.",
+        "• UNITA acquired weapons in 1996 and 1997 from private sources in Albania and Bulgaria, as well as from Zaire, South Africa, the Republic of the Congo, Zambia, Togo, and Burkina Faso.",
+        "• In October 1997, the UN imposed travel sanctions on UNITA leaders; however, it was not until July 1998 that the UN took further action to limit UNITA’s diamond exports and froze UNITA bank accounts.",
+        "• Between 1986 and 1991, the U.S. government provided approximately US$250 million to UNITA; during the period from 1994 to 1999, UNITA exported diamonds worth an estimated US$1.72 billion, primarily through Zaire to Europe.",
+        "• The Angolan government received large quantities of weapons from the governments of Belarus, Brazil, Bulgaria, China, and South Africa; despite no arms shipments violating the protocol, no country officially informed the U.N. Register on Conventional Weapons as required.",
+        "• Despite escalating civil warfare in late 1998, Angola’s economy experienced an estimated growth of 4% in 1999.",
+        "• In 1999, the Angolan government introduced new currency denominations, including a 1 kwanza note and a 5 kwanza note, as part of monetary reforms.",
+        "• The Central Bank governor explained the arrangements for the new currency in a BBC transcript titled \"Selected Transcripts: Africa,\" published on November 1, 1999, and retrieved on October 10, 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:14:01.063782",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "21st century",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Angolan government has been actively pursuing the prosecution of Isabel dos Santos, the daughter of a former Angolan president, on charges of corruption, which is believed to have contributed to Angola's economic recession.",
+        "• An economic reform initiative was launched in 1998 aimed at stabilizing and modernizing the economy.",
+        "• In 2000, Angola ranked 160th out of 174 nations on the United Nations Human Development Index, indicating a low level of human development.",
+        "• In April 2000, Angola commenced an International Monetary Fund (IMF) Staff-Monitored Program (SMP), which formally lapsed in June 2001; however, the IMF continued to engage with Angola afterward.",
+        "• During this period, the Angolan government succeeded in unifying its exchange rates and increased tariffs on fuel, electricity, and water to boost revenue.",
+        "• Legal and regulatory reforms included modernization of the Commercial Code, telecommunications law, and Foreign Investment Code.",
+        "• A privatization effort, supported by the World Bank, was initiated with the sale of the BCI bank, among other assets.",
+        "• Despite reforms, a legacy of fiscal mismanagement and corruption persisted within the government.",
+        "• The Angolan civil war had displaced approximately 3.8 million people, representing 32% of the population, by 2001.",
+        "• Following the 2002 peace settlement, security improvements facilitated the resettlement of 4 million displaced persons, leading to significant increases in agricultural production.",
+        "• In 2003, Angola produced over 3 million carats (600 kilograms) of diamonds, with projections to increase production to 10 million carats (2,000 kilograms) annually by 2007.",
+        "• In 2004, China’s Eximbank approved a $2 billion line of credit to Angola aimed at rebuilding infrastructure.",
+        "• The Angolan economy experienced an 18% growth rate in 2005, with expectations to reach 26% in 2006 and maintain above 10% growth throughout the decade.",
+        "• By 2020, Angola's national debt had reached $76 billion, with $20 billion owed to China.",
+        "• The construction sector expanded significantly, driven by government-led housing initiatives such as the Angola Investe program and the Casa Feliz (Meña) projects.",
+        "• Not all public construction projects achieved full functionality; for example, Kilamba Kiaxi, a new satellite town in Luanda built to house hundreds of thousands, remained uninhabited for over four years due to high prices but was later sold out after the government reduced prices and introduced mortgage plans around election time, making housing affordable for the middle class.",
+        "• ChevronTexaco began oil production in Block 14 in January 2000, initially pumping 50,000 barrels per day (7.9×10³ m³/d), but production declined to 57,000 barrels per day (9.1×10³ m³/d) by 2007 due to poor-quality oil.",
+        "• Angola joined the Organization of the Petroleum Exporting Countries (OPEC) on January 1, 2007.",
+        "• The Cabinda Gulf Oil Company discovered the Malange-1 oil reservoir in Block 14 on August 9, 2007."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:14:08.728098",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Despite Angola's abundant natural resources, its per capita output remains among the lowest globally, highlighting significant economic challenges.",
+        "• Subsistence agriculture is the primary livelihood for approximately 85% of the Angolan population, indicating limited diversification in economic activities.",
+        "• Oil production and related activities are critical to Angola's economy, accounting for about 45% of the gross domestic product (GDP) and approximately 90% of the country's export revenue.",
+        "• Oil production surged past 1.4 million barrels per day (220×10^3 m³/d) in late 2005, with projections to increase to 2 million barrels per day (320×10^3 m³/d) by 2007, fueling economic growth.",
+        "• The Angolan government maintains control over the oil industry through Sonangol Group, a state-owned conglomerate that consolidates industry operations.",
+        "• Revenue increases from oil exports have enabled the government to initiate ambitious development programs aimed at improving infrastructure, including roads and basic services.",
+        "• Historically, during the last decade of colonial rule, Angola was a major African food exporter; however, due to severe wartime conditions, including widespread landmine planting, the country now imports nearly all its food supplies.",
+        "• The prolonged conflict has nearly halted agricultural activities, although some recovery efforts are underway, notably in fisheries.",
+        "• Coffee production, though significantly reduced from pre-1975 levels, remains sufficient to meet domestic demand and supports some export activities.",
+        "• Oil expansion now constitutes nearly half of Angola’s GDP and 90% of its exports, with current production at approximately 800,000 barrels per day (130×10^3 m³/d).",
+        "• Diamonds historically provided substantial revenue, notably funding Jonas Savimbi's UNITA rebellion through illicit trade.",
+        "• Other resource sectors with potential for development include gold, forest products, fisheries, iron ore, coffee, and fruits.",
+        "• The nominal GDP of Angola has shown significant growth from 1980 to 2007, with figures in millions of USD and corresponding exchange rates and per capita income percentages relative to the USA.",
+        "• Key GDP figures (in millions USD) include:",
+        "• 1980: data not specified; per capita income at 6.33% of US levels",
+        "• 1985: data not specified; per capita income at 4.46%",
+        "• 1990: data not specified; per capita income at 4.42%",
+        "• 1995: $5,066 million; exchange rate of 14 Angolan Kwanza; per capita income at 1.58%",
+        "• 2000: $9,135 million; exchange rate of 91,666 Angolan Kwanza; per capita income at 1.96%",
+        "• 2005: $28,860 million; exchange rate of 2,515,452 Angolan Kwanza; per capita income at 4.73%",
+        "• From 1980 to 2023, Angola's GDP in PPP terms increased from approximately $10.9 billion (1980) to $260.3 billion (2023), with fluctuations influenced by political stability, oil prices, and economic policies.",
+        "• The nominal GDP grew from about $6.6 billion in 1980 to roughly $93.8 billion in 2023.",
+        "• GDP per capita in PPP terms rose from $1,317 in 1980 to $7,077 in 2023, reflecting overall economic growth.",
+        "• The GDP growth rate experienced periods of decline, notably in 1981 (−4.4%), 1990 (−3.5%), 1991 (1.0%), 1992 (11.4%), and 1996 (11.2%), with recovery phases thereafter.",
+        "• Inflation rates varied significantly, with periods below 5% indicated in green, such as in 2003 (4.2%) and 2004 (11.0%), and peaks exceeding 1000% during the 1990s, notably 1993 (949.8%) and 1994 (107.4%).",
+        "• Government debt as a percentage of GDP fluctuated from 46.7% in 1980 to a peak of over 1,379.5% in 1993, then declining to around 13.1% in 2023.",
+        "• The economic indicators reflect Angola's transition from a war-torn, resource-dependent economy to one experiencing steady growth driven primarily by oil revenues, with ongoing challenges in diversification and infrastructure development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:14:23.441437",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Angola produced approximately 8.6 million tons of cassava, making it the 8th largest producer in the world.",
+        "• The country produced about 3.5 million tons of bananas in 2018, ranking as the 7th largest producer globally; when considering plantains together with bananas, Angola is the 10th largest producer.",
+        "• Angola's maize production in 2018 was approximately 2.2 million tons.",
+        "• The country produced around 1.2 million tons of sweet potatoes in 2018, ranking as the 10th largest producer worldwide.",
+        "• Potato production in Angola reached approximately 806 thousand tons in 2018.",
+        "• Pineapple production was about 597 thousand tons, making Angola the 13th largest producer in the world.",
+        "• The country produced roughly 572 thousand tons of sugarcane in 2018.",
+        "• Cabbage production was approximately 355 thousand tons.",
+        "• Beans were produced at a scale of about 314 thousand tons.",
+        "• Angola produced around 280 thousand tons of palm oil in 2018.",
+        "• Peanut production was approximately 154 thousand tons.",
+        "• In addition to these major crops, Angola produced smaller quantities of other agricultural products, including coffee, with a production volume of about 16 thousand tons."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:14:28.905608",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4",
+      "section_name": "Foreign trade",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2004, Angola's total exports amounted to US$10,530,764,911.",
+        "• Petroleum products constituted the overwhelming majority of Angola's exports in 2004, accounting for 92% of total exports.",
+        "• Diamonds worth US$785 million were exported in 2004, representing 7.5% of Angola's total exports.",
+        "• Nearly all of Angola's oil exports are directed to the United States and China.",
+        "• In 2006, Angola exported approximately 526,000 barrels per day (kbbl/d), equivalent to 83.6×10^3 cubic meters per day (m^3/d), of oil to the United States, making Angola the eighth largest oil supplier to the U.S.",
+        "• In the same year, 2006, Angola exported about 477 kbbl/d (75.8×10^3 m^3/d) of oil to China.",
+        "• In the first quarter of 2008, Angola became the primary exporter of oil to China.",
+        "• Besides the U.S. and China, Angola's petroleum exports are primarily sent to Europe and Latin America.",
+        "• U.S. companies account for more than half of foreign investment in Angola, with Chevron-Texaco being the leading investor.",
+        "• The United States exports industrial goods and services to Angola, including oilfield equipment, mining equipment, chemicals, aircraft, and food.",
+        "• The main U.S. import from Angola is petroleum.",
+        "• Trade between Angola and South Africa exceeded US$300 million in 2007.",
+        "• Since the 2000s, many Chinese individuals have settled in Angola and started new businesses."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:14:35.521272",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Petroleum",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Angola produces and exports more petroleum than any other nation in sub-Saharan Africa, surpassing Nigeria first in the 2000s and maintaining this lead until at least 2022.",
+        "• In January 2007, Angola became a member of the Organization of Petroleum Exporting Countries (OPEC), but left the organization in December 2023 to expand its oil production capacity.",
+        "• Since 2017, under President João Lourenço, Angola has undertaken efforts to incentivize investments and reverse declining oil production, resulting in new investments by international oil companies.",
+        "• In 2019, petrol prices in Angola are noted, although specific figures are not provided in the section.",
+        "• Major international oil companies operating in Angola include Chevron Corporation, TotalEnergies, ExxonMobil, Eni, and BP, which collectively account for the majority of daily oil production.",
+        "• Block 17, operated by TotalEnergies, is Angola's largest producing asset, known as the Golden Block, and is currently executing several subsea tieback projects, including CLOV 3 and Begonia, with final investment decisions (FIDs) made in 2022.",
+        "• The United Nations has criticized the Angolan government for human rights abuses such as torture, rape, summary executions, arbitrary detention, and disappearances; the Angolan government justifies these actions as necessary to maintain oil output.",
+        "• Angola is the third-largest trading partner of the United States in sub-Saharan Africa, primarily due to petroleum exports.",
+        "• The United States imports approximately 7% of its oil from Angola, which is about three times the amount imported from Kuwait prior to the Gulf War in 1991.",
+        "• The U.S. government has invested around US$4 billion in Angola's petroleum sector.",
+        "• Over 90% of Angola's exports are composed of oil, highlighting the sector's critical importance to the national economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:14:42.588305",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Diamonds",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Angola is the third largest producer of diamonds in Africa, with only approximately 40% of its diamond-rich territory having been explored.",
+        "• The country has faced challenges in attracting foreign investment due to issues such as corruption, human rights violations, and diamond smuggling.",
+        "• Diamond production in Angola increased by 30% in 2006.",
+        "• Endiama, the national diamond company of Angola, projects an 8% increase in diamond production in 2007, reaching an estimated 10 million carats annually.",
+        "• The Angolan government is actively seeking to attract foreign companies to develop diamond resources in the provinces of Bié, Malanje, and Uíge.",
+        "• The government loses approximately $375 million annually due to diamond smuggling activities.",
+        "• In 2003, Angola launched Operation Brilliant, an anti-smuggling initiative that resulted in the arrest and deportation of 250,000 smugglers between 2003 and 2006.",
+        "• Journalist and human rights activist Rafael Marques, in his 2006 report _Angola's Deadly Diamonds_, described the diamond industry as plagued by violence and human rights abuses, including murders, beatings, arbitrary detentions, and other violations.",
+        "• Marques called for a boycott of Angola's \"conflict diamonds\" by foreign countries to pressure reforms.",
+        "• In December 2014, the Bureau of International Labor Affairs listed Angola as one of the major African diamond-producing countries that relies on child labor and forced labor in its diamond industry.",
+        "• The U.S. Department of Labor noted that there is limited publicly available information regarding Angola's efforts to enforce child labor laws within the diamond sector.",
+        "• Diamonds constituted approximately 1.48% of Angola's total exports in 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:14:48.323401",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Iron",
+      "chapter_name": "Economy of Angola",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Under Portuguese rule, Angola initiated iron mining activities in 1957.",
+        "• In 1967, Angola produced approximately 1.2 million tons of iron.",
+        "• By 1971, iron production had increased significantly to about 6.2 million tons.",
+        "• During the early 1970s, approximately 70% of Angola's iron exports were directed to Western Europe and Japan.",
+        "• Angola gained independence from Portugal in 1975, leading to the onset of the Angolan Civil War, which lasted from 1975 to 2002.",
+        "• The civil war resulted in the destruction of most of Angola's mining infrastructure.",
+        "• The redevelopment of Angola’s mining industry, including iron mining, began in the late 2000s."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:14:50.983867",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_angola.json",
+      "original_index": 9
+    }
+  ]
+}

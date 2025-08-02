@@ -1,0 +1,397 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_sudan.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.021308",
+    "total_sections_in_source": 17,
+    "extracted_sections_count": 16,
+    "skipped_sections_count": 1
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Sudan is primarily based on agriculture and oil exports, with additional revenue generated from mining and manufacturing sectors.",
+        "• Sudan experienced significant GDP growth, registering more than 10% per year in 2006 and 2007.",
+        "• As of 2019, Sudan's gross domestic product (GDP) was valued at $30.873 billion.",
+        "• Sudan has been collaborating with the International Monetary Fund (IMF) to implement macroeconomic reforms, including adopting a managed float exchange rate system.",
+        "• Sudan began exporting crude oil in the last quarter of 1999, marking a significant development in its economy.",
+        "• Agricultural production remains a crucial component of Sudan’s economy, employing approximately 80% of the workforce and contributing about one-third of the GDP.",
+        "• Ongoing conflicts, including the War in Darfur and the aftermath of the Second Sudanese Civil War (1983–2005) in the south, have severely impacted economic stability and development.",
+        "• Large areas of Sudan suffer from a lack of basic infrastructure, and a significant portion of the population relies on subsistence agriculture, contributing to persistent poverty levels.",
+        "• Despite rapid increases in average per capita income, a substantial portion of the population remains at or below the poverty line.",
+        "• In January 2007, the Sudanese government introduced a new Sudanese pound, setting the initial exchange rate at US$1 = £S.2.",
+        "• According to the United Nations, Sudan continues to be classified as a least developed country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:33.764695",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sudan's GDP per capita experienced significant fluctuations from the 1960s to the 1990s, growing by 46% in the 1960s and reaching a peak growth of 170% in the 1970s, but this growth was unsustainable, declining to 34% in the 1980s and shrinking by 26% in the 1990s.",
+        "• Until the early 1970s, Sudan's agricultural output was primarily focused on internal consumption, with limited emphasis on exports.",
+        "• In 1972, the Sudanese government adopted a more pro-Western stance and initiated plans to export food and cash crops to boost the economy.",
+        "• Throughout the 1970s, declining commodity prices created economic difficulties for Sudan, compounded by rising debt servicing costs due to investments in mechanizing agriculture.",
+        "• In 1978, the International Monetary Fund (IMF) negotiated a Structural Adjustment Program with Sudan’s government, which further promoted mechanized export agriculture but caused significant economic hardship for Sudanese pastoralists.",
+        "• During the late 1970s and 1980s, the IMF, World Bank, and major donors collaborated to implement reforms aimed at addressing inefficient economic policies and practices in Sudan.",
+        "• By 1984, a combination of drought, inflation, and the confused application of Islamic law led to reduced donor disbursements, capital flight, a severe foreign-exchange crisis, and increased shortages of imported inputs and commodities.",
+        "• The 1989 revolution in Sudan resulted in many donors from Europe, the United States, and Canada suspending official development assistance, although humanitarian aid continued.",
+        "• By 1993, Sudan had become the world's largest debtor to the World Bank and IMF, leading to a deteriorated relationship with these international financial institutions that remains unresolved.",
+        "• Sudan’s government fell out of compliance with an IMF standby program in the mid-1990s and accumulated substantial arrears on repurchase obligations.",
+        "• Although a 4-year economic reform plan was announced in 1988, it was not pursued effectively.",
+        "• In 1989, Sudan announced and began implementing a 3-year economic restructuring program aimed at reducing the public sector deficit, ending subsidies, privatizing state enterprises, and encouraging both foreign and domestic investment.",
+        "• In 1993, the IMF suspended Sudan’s voting rights, and the World Bank suspended Sudan’s ability to make withdrawals under effective and fully disbursed loans and credits.",
+        "• Additionally, Lome Funds and European Union agricultural credits, totaling over one billion euros, were suspended as part of the international response to Sudan’s economic and political situation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:42.369510",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sudan’s primary agricultural resources include cotton, peanuts, gum arabic, and sesame seeds, with cotton and peanuts remaining the major agricultural exports despite efforts to diversify cash crops.",
+        "• Grain sorghum (dura) is Sudan’s principal food crop, while wheat is cultivated primarily for domestic consumption; sesame seeds and peanuts are grown both for domestic use and increasing export markets.",
+        "• Sudan’s agriculture is divided into three main sub-sectors: pastoral livestock, cropping, and fish production, with livestock production having vast potential, particularly in the export of cows, sheep, and camels to Saudi Arabia and other Arab countries.",
+        "• Despite its agricultural potential, Sudan remains a net importer of food due to challenges in investment finance, production, and transportation, which constrain the development of a more dynamic agricultural economy.",
+        "• A significant long-term issue is the continual loss of open lands previously used for animal grazing, which are increasingly converted to mechanized drylands and irrigated farming.",
+        "• Sudan possesses 84 million hectares of arable land, of which less than 20% is currently cultivated, highlighting significant untapped agricultural potential.",
+        "• Major agricultural projects, such as the Gezera Scheme in Gezira state, aim to enhance food self-sufficiency in Sudan.",
+        "• Sudan is considered one of the world’s potential breadbaskets and is nicknamed the “Arab world food basket” because it accounts for 45% of the arable land in the Arab world.",
+        "• In 1998, Sudan had an estimated 16.9 million hectares (42 million acres) of arable land, with approximately 1.9 million hectares (4.7 million acres) designated for irrigation, primarily along the Nile and other rivers in the north.",
+        "• As of 1999, cash crops grown under irrigation in Sudan included cotton (172,000 tons), cottonseed (131,000 tons), sesame (220,000 tons), sugarcane (5,950,000 tons), peanuts (980,000 tons), dates (176,000 tons), citrus fruits, yams (136,000 tons), tomatoes (240,000 tons), mangoes, coffee, and tobacco.",
+        "• The main subsistence crops produced in Sudan are sorghum (3,045,000 tons), millet (1,499,000 tons), wheat (168,000 tons), cowpeas, beans, pulses, corn (65,000 tons), and barley.",
+        "• Cotton is Sudan’s principal export crop and a vital component of the national economy.",
+        "• Sudan ranks as the world’s third largest producer of sesame seeds, following India and China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:32.228186",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sudan's rapid industrial development encompasses a diverse range of sectors including agricultural processing, electronics assembly, plastics manufacturing, furniture production, tanning, sugar production, meat processing, and various light industries, all primarily located within the 10 designated Industrial areas in Khartoum.",
+        "• Sudan is strategically focusing on becoming a regional hub for the medical industry in East Africa, motivated by the reliance of many countries on Sudan for medicines and medical services; the country provides facilities and concessions to attract medical investments and currently meets approximately 70% of domestic medical needs while exporting medical products to numerous neighboring nations.",
+        "• The Giad Industrial Complex, situated in Al Jazirah state, has recently expanded its manufacturing capabilities to include the assembly of small automobiles and trucks, as well as the production of heavy military equipment such as armored personnel carriers, the “Bashir” and \"Zubair\" main battle tanks, handguns, light and heavy machine guns, howitzers, and more recently, drones.",
+        "• Sudan is recognized for its substantial mineral wealth, with extensive exploration efforts underway, particularly for gold, which is produced at nearly 30 tons annually; this gold production significantly contributes to the nation’s foreign exchange reserves and involves investment companies from around the world.",
+        "• In addition to gold, Sudan commercially exploits quantities of asbestos, chromium, mica, kaolin, and copper, with a significant portion of these minerals being exported, especially to China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:30.993249",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Petroleum",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Extensive petroleum exploration in Sudan commenced in the mid-1970s, marking the beginning of significant oil development in the country.",
+        "• Major oil discoveries were made in the Upper Nile region, leading to the commencement of commercial oil exports in October 2000, which helped reduce Sudan's foreign exchange outflow previously spent on imported petroleum products.",
+        "• Oil has become a crucial export industry for Sudan, with estimates indicating that petroleum accounts for between 70% and 90% of the country’s total exports.",
+        "• The principal importers of Sudanese oil include Japan, China, South Korea, Indonesia, and India, highlighting Sudan’s integration into the global oil market.",
+        "• The majority of Sudan’s oil reserves are situated in the Muglad and Melut rift basins, located in the southern part of the country.",
+        "• Key oil fields in the south, such as those at Heglig and in the South Sudanese state of Unity (formerly part of Sudan), are connected to national refineries through extensive pipeline infrastructure.",
+        "• The Greater Nile Oil Pipeline, Sudan’s largest pipeline, spans 1,600 kilometres, transporting oil from the Unity oil field to Port Sudan on the Red Sea via Khartoum.",
+        "• The PetroDar pipeline extends 1,380 kilometres from the Palogue oil field in the Melut Basin to Port Sudan, serving as a critical conduit for oil transport.",
+        "• Crude oil extracted from the Muglad Basin is referred to as \"Nile Blend\" and is processed at the Khartoum crude oil refinery.",
+        "• In 2006, the China National Petroleum Corporation (CNPC) upgraded the Khartoum refinery, doubling its refining capacity to 100,000 barrels per day (16,000 m³/d).",
+        "• Oil from the Melut Basin is known as \"Dar Blend\" and is refined at the Port Sudan Refinery, which has a refining capacity of 21,700 barrels per day (3,450 m³/d).",
+        "• In 2005, the Sudanese government awarded a contract to Petronas, the Malaysian national oil company, to construct a new refinery at Port Sudan, aiming to expand refining capacity and infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:32.737298",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The mining industry in Sudan contributed minimally to the country's GDP until the late 1970s.",
+        "• The discovery of commercially exploitable quantities of petroleum in the late 1970s raised expectations that the mining sector would assume a more significant role in Sudan's economy.",
+        "• Sudan possesses a variety of nonhydrocarbon minerals with actual or potential commercial value.",
+        "• These nonhydrocarbon minerals include gold, chrome, copper, iron ore, manganese, asbestos, gypsum, mica, limestone, marble, uranium, silver, lead, talc, tungsten, zinc, and diamonds."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:28.436943",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2",
+      "section_name": "Employment",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The precise size of Sudan's labor force is challenging to ascertain due to varying definitions of economic activity participation and the lack of accurate official data.",
+        "• In rural Sudan, a significant number of women and girls participate in traditional productive roles, though many are likely excluded from official workforce statistics.",
+        "• According to an International Labour Organisation (ILO) estimate, more than 7.9 million people were employed in Sudan in 1989.",
+        "• The employment situation in Sudan during the early 1990s was negatively impacted by the 1991 Persian Gulf War, which caused thousands of Sudanese workers based in Kuwait and Iraq to return home abruptly, often leaving their possessions behind.",
+        "• Sudan’s political support of Iraq during the Gulf War contributed to the departure of thousands of Sudanese workers from Saudi Arabia.",
+        "• By the year 2000, Sudan’s total labor force was estimated to have grown to approximately 12 million individuals.",
+        "• Of the estimated 12 million labor force in 2000, the Sudanese government reported that 9.6 million were actively employed.",
+        "• Women constituted about 30 percent of Sudan’s workforce around the year 2000."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:34.477325",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Unemployment",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The severe drought that affected Sudan throughout the 1980s significantly influenced unemployment figures in the country.",
+        "• During 1983–84, several million people migrated from the most severely affected regions in both Western and Eastern Sudan to urban centers such as Khartoum and other areas along the Nile River.",
+        "• Many migrants remained in these urban areas even after the drought conditions improved, residing in shantytowns and thereby contributing to increased unemployment, underemployment, or employment within the informal sector in these cities.",
+        "• Over the years, more than 2 million people from Southern Sudan migrated to the North, driven by the civil war and famines affecting the southern regions.",
+        "• In 2009, the Sudanese government estimated the national unemployment rate to be approximately 20 percent.",
+        "• This 20 percent unemployment figure may not be entirely accurate due to the substantial proportion of the Sudanese population engaged in small-scale and subsistence agriculture, which is not always captured in formal employment statistics."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:35.411072",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Labor force by sector",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture was historically the predominant economic activity in Sudan, with its share of the labor force gradually declining as other sectors expanded over time.",
+        "• In the 1955–56 census, approximately 86 percent of the workforce were engaged in agriculture, livestock raising, forestry, fisheries, or hunting.",
+        "• The International Labour Organization (ILO) estimated that by 1998, the proportion of the labor force involved in agriculture and related activities had decreased to between 70 and 80 percent.",
+        "• By 2008, the Sudanese government claimed that the percentage of the labor force engaged in agriculture and related sectors was significantly lower than the 1998 estimates.",
+        "• The services sector, which included a government workforce that grew at an annual rate of about 10 percent during the 1970s, became the second largest area of economic activity.",
+        "• In 1998, the services sector encompassed an estimated 13 to 22 percent of those economically active, a substantial increase from 4.6 percent recorded in the 1955–56 census.",
+        "• The industry sector, comprising manufacturing, mining, electric power, and construction, accounted for between 7 and 9 percent of the labor force in 1998, compared to 5.6 percent in 1955–56.",
+        "• The proportions of the labor force engaged in agriculture, services, and industry sectors likely changed after 1998, reflecting shifts in the relative importance of these sectors in subsequent years.",
+        "• Precise determination of labor force changes post-1998 was challenging due to the oil sector’s significant economic role but limited direct employment impact.",
+        "• The oil sector influenced employment indirectly by increasing government revenue, which in turn funded the creation of new jobs, predominantly in the public sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:39.440186",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Child labor",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the early 2000s, the minimum legal working age in Sudan was set at 18 years; however, this law was not effectively enforced across the country.",
+        "• Approximately 27 percent of Sudanese children aged between 10 and 14 years were estimated to be engaged in the labor force during this period.",
+        "• Children as young as 11 or 12 years old were employed in various factories located outside the capital city, specifically in facilities producing edible oils.",
+        "• Child labor was prevalent in Sudan’s informal economy, where regulatory oversight was minimal or absent.",
+        "• It was customary for children to begin working on family farms from a very young age, reflecting traditional labor practices.",
+        "• Sudan was not a signatory to or did not comply with the International Labour Organization (ILO) Convention No. 182, which addresses the Worst Forms of Child Labor.",
+        "• The Child Act of 2010, along with other legislative measures, established regulations governing the working hours and conditions for young workers in Sudan.",
+        "• Despite the existence of these laws, enforcement was largely ineffective, particularly within the informal sector, where monitoring and regulation posed significant challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:37.149433",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Forced labor",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 1998 constitution of Sudan prohibited forced and bonded labor but did not explicitly prohibit trafficking in persons.",
+        "• Despite constitutional prohibitions, credible reports indicated that slavery persisted in Sudan, particularly affecting women and children.",
+        "• The seizure and sale of women as domestic servants continued during this period.",
+        "• All parties involved in the Sudanese conflict forcibly conscripted men and boys into their fighting forces.",
+        "• In May 1998, the Sudanese government established the Committee for the Eradication of the Abduction of Women and Children, which led to the identification and release of several hundred abductees.",
+        "• The Sudanese government did not effectively enforce laws against forced and bonded labor despite the committee’s efforts.",
+        "• In November 2001, the government announced the creation of special civilian tribunals in the border regions between South and North Sudan to prosecute individuals involved in the abduction, transport, holding, selling, or exchanging of women and children from war zones.",
+        "• As late as 2010, the Committee estimated that possibly 10,000 or more abductees, including members of the Misiriyyah and Rizayqat groups as well as South Sudanese, were subjected to some form of forced labor in the border regions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:41.854388",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sudan is traversed by two major trans-African automobile routes: the Cairo-Cape Town Highway, which runs from north to south, and the N'Djamena-Djibouti Highway, which runs from west to east.",
+        "• The country possesses 4,725 kilometers of narrow-gauge, single-track railroads primarily serving the northern and central regions of Sudan.",
+        "• The principal railway line extends from Wadi Halfa, located on the Egyptian border, to Khartoum, and continues southwest to Al Ubayyid, passing through Sannar and Kusti, with further extensions reaching Nyala in Southern Darfur and Wau in Bahr al Ghazal.",
+        "• Additional railway connections include lines linking Atbarah and Sannar with the port city of Port Sudan, as well as a line connecting Sannar with Ad Damazin.",
+        "• A significant 1,400-kilometer railway line services the al Gezira region, which is notable for its cotton-growing industry.",
+        "• There is an ongoing, albeit modest, initiative to upgrade Sudan’s rail transport infrastructure aimed at reversing the effects of decades of neglect and declining operational efficiency.",
+        "• Rail service on certain lines is subject to potential interruptions during the rainy season, affecting reliability and continuity of transport.",
+        "• The post office in Port Sudan is mentioned, indicating the presence of postal infrastructure in this key port city."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:37.150526",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2010, the primary sources of energy in Sudan were wood and charcoal, hydroelectric power, and oil.",
+        "• Sudan aimed to expand its installed electricity generation capacity, which was approximately 300 MW at the time, with 180 MW derived from hydroelectric sources and the remainder from thermal power.",
+        "• Due to ongoing U.S. economic, trade, and financial sanctions, European investors were considered the most probable providers of technology and investment for Sudan’s electricity generation expansion.",
+        "• Over 70% of Sudan’s hydropower was generated by the Roseires Dam, located on the Blue Nile grid, making it the dominant source of hydroelectric power in the country.",
+        "• The Sudanese government proposed various projects to increase capacity in hydropower, thermal generation, and alternative energy sources, but faced significant challenges in securing adequate financing for these initiatives.",
+        "• The Merowe Dam, a new hydroelectric project, was completed and opened in 2008, contributing 125 MW of electricity to Sudan’s power grid."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:39.456022",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4",
+      "section_name": "Currency and banking",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The \"Currency and banking\" section of the \"Economy of Sudan\" chapter on Wikipedia is currently empty as of March 2020.",
+        "• There is an invitation for contributors to add content to this section to enhance the article's completeness and provide detailed information on Sudan's currency and banking system."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:39.463793",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "5",
+      "section_name": "Trade, sanctions, and foreign aid",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 3 November 1997, the U.S. government imposed a trade embargo against Sudan and enacted a total asset freeze against the Government of Sudan under Executive Order 13067.",
+        "• The U.S. government justified the embargo by asserting that the Government of Sudan supported international terrorism, destabilized neighboring governments, and permitted human rights violations.",
+        "• As a direct consequence of the embargo, U.S. corporations are prohibited from investing in Sudan's oil industry, resulting in major investments coming from companies based in China, Malaysia, and India.",
+        "• Historically, Sudan has received most of its economic assistance from the United States, the United Kingdom, the Netherlands, Italy, Germany, Saudi Arabia, Kuwait, and other member nations of the Organization of Petroleum Exporting Countries (OPEC).",
+        "• Sudan’s strategic economic position as a link between Arab and African countries is exemplified by the presence of the Arab Bank for African Development in Khartoum.",
+        "• The World Bank has traditionally been the largest source of development loans for Sudan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:42.481647",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "6",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1980, Sudan's GDP measured at 20.6 billion US$ PPP with a GDP per capita of 1,103 US$ PPP, nominal GDP of 9.1 billion US$, real GDP growth of 2.5%, and inflation rate of 26.5%; government debt data was not provided.",
+        "• By 1985, GDP increased to 27.2 billion US$ PPP, GDP per capita rose to 1,241 US$ PPP, nominal GDP decreased to 5.5 billion US$, real GDP growth was negative at −0.6%, inflation surged to 45.6%, with government debt data unavailable.",
+        "• In 1990, Sudan's GDP reached 39.6 billion US$ PPP, GDP per capita was 1,538 US$ PPP, nominal GDP dropped to 2.2 billion US$, real GDP growth slightly positive at 0.8%, inflation was negative at −0.9%, and government debt figures were not recorded.",
+        "• The year 1995 saw GDP at 58.5 billion US$ PPP, GDP per capita at 2,092 US$ PPP, nominal GDP at 6.7 billion US$, real GDP growth at 8.9%, inflation at 68.4%, and government debt at a high 239% of GDP.",
+        "• In 2000, GDP rose to 86.9 billion US$ PPP, GDP per capita to 2,794 US$ PPP, nominal GDP to 13.1 billion US$, real GDP growth at 8.4%, inflation dropped significantly to 7.1%, and government debt decreased to 143% of GDP.",
+        "• By 2005, GDP expanded to 135.1 billion US$ PPP, GDP per capita increased to 3,828 US$ PPP, nominal GDP surged to 35.2 billion US$, real GDP growth was 5.6%, inflation at 8.5%, and government debt further declined to 75% of GDP.",
+        "• In 2006, GDP reached 148.4 billion US$ PPP, GDP per capita was 4,098 US$ PPP, nominal GDP jumped to 45.3 billion US$, real GDP growth increased to 6.5%, inflation decreased to 7.2%, and government debt dropped to 64% of GDP.",
+        "• The year 2007 recorded GDP at 161.2 billion US$ PPP, GDP per capita at 4,337 US$ PPP, nominal GDP at 59.4 billion US$, real GDP growth at 5.7%, inflation rose to 14.8%, and government debt declined to 54% of GDP.",
+        "• In 2008, GDP was 170.6 billion US$ PPP, GDP per capita 4,475 US$ PPP, nominal GDP 64.8 billion US$, real GDP growth slowed to 3.8%, inflation slightly decreased to 14.3%, and government debt slightly increased to 56% of GDP.",
+        "• Sudan's GDP in 2009 was 166.9 billion US$ PPP, GDP per capita dropped to 4,267 US$ PPP, nominal GDP declined to 54.8 billion US$, real GDP growth was negative at −2.8%, inflation fell to 11.3%, and government debt rose to 71% of GDP.",
+        "• In 2010, GDP increased to 175.4 billion US$ PPP, GDP per capita rose to 4,371 US$ PPP, nominal GDP climbed to 65.7 billion US$, real GDP growth rebounded to 3.9%, inflation increased to 13.0%, and government debt rose to 75% of GDP.",
+        "• The year 2011 saw GDP slightly decline to 173.3 billion US$ PPP, GDP per capita increased significantly to 5,306 US$ PPP, nominal GDP marginally increased to 66.4 billion US$, real GDP growth was negative at −3.2%, inflation rose to 18.1%, and government debt increased to 78% of GDP.",
+        "• In 2012, GDP sharply decreased to 146.5 billion US$ PPP, GDP per capita dropped to 4,180 US$ PPP, nominal GDP fell to 48.9 billion US$, real GDP growth plummeted to −17.0%, inflation surged to 35.6%, and government debt escalated to 118% of GDP.",
+        "• Sudan's GDP in 2013 slightly recovered to 151.9 billion US$ PPP, GDP per capita stabilized at 4,201 US$ PPP, nominal GDP increased to 52.9 billion US$, real GDP growth was positive at 2.0%, inflation marginally increased to 36.5%, and government debt decreased to 106% of GDP.",
+        "• In 2014, GDP rose to 161.8 billion US$ PPP, GDP per capita increased to 4,338 US$ PPP, nominal GDP grew to 60.7 billion US$, real GDP growth improved to 4.7%, inflation remained high at 36.9%, and government debt reduced to 84% of GDP.",
+        "• The year 2015 recorded GDP at 171.3 billion US$ PPP, GDP per capita at 4,456 US$ PPP, nominal GDP at 64.5 billion US$, real GDP growth at 4.9%, inflation significantly dropped to 16.9%, and government debt increased to 93% of GDP.",
+        "• In 2016, GDP increased to 181.0 billion US$ PPP, GDP per capita rose to 4,572 US$ PPP, nominal GDP slightly increased to 64.9 billion US$, real GDP growth was 4.7%, inflation rose slightly to 17.8%, and government debt surged to 110% of GDP.",
+        "• Sudan's GDP in 2017 was 185.7 billion US$ PPP, GDP per capita slightly decreased to 4,553 US$ PPP, nominal GDP dropped to 48.9 billion US$, real GDP growth slowed to 0.8%, inflation increased sharply to 32.4%, and government debt rose significantly to 150% of GDP.",
+        "• In 2018, GDP grew to 192.3 billion US$ PPP, GDP per capita marginally increased to 4,580 US$ PPP, nominal GDP declined to 33.6 billion US$, real GDP growth was negative at −2.3%, inflation surged to 63.3%, and government debt escalated to 210% of GDP.",
+        "• The year 2019 saw GDP decrease to 183.6 billion US$ PPP, GDP per capita dropped to 4,248 US$ PPP, nominal GDP slightly decreased to 31.5 billion US$, real GDP growth was negative at −2.5%, inflation decreased to 51.0%, and government debt further increased to 217% of GDP.",
+        "• In 2020, GDP rose to 197.6 billion US$ PPP, GDP per capita increased to 4,455 US$ PPP, nominal GDP increased to 35.2 billion US$, real GDP growth declined to −3.6%, inflation soared dramatically to 163.3%, and government debt peaked at 278% of GDP.",
+        "• Sudan's GDP in 2021 fell sharply to 171.1 billion US$ PPP, GDP per capita dropped to 3,761 US$ PPP, nominal GDP remained stable at 35.1 billion US$, real GDP growth was marginally positive at 0.5%, inflation surged to an extreme 359.1%, and government debt decreased to 190% of GDP.",
+        "• In 2022, GDP slightly recovered to 178.7 billion US$ PPP, GDP per capita rose to 3,829 US$ PPP, nominal GDP declined to 33.5 billion US$, real GDP growth was negative at −2.5%, inflation decreased to 138.8%, and government debt slightly decreased to 187% of GDP.",
+        "• The year 2023 experienced a significant GDP decline to 151.3 billion US$ PPP, GDP per capita dropped to 3,158 US$ PPP, nominal GDP increased to 38.1 billion US$, real GDP growth plummeted to −18.3%, inflation decreased to 77.2%, and government debt surged to 252% of GDP.",
+        "• In 2024, Sudan's GDP further contracted to 123.5 billion US$ PPP, GDP per capita decreased to 2,513 US$ PPP, nominal GDP declined to 29.8 billion US$, real GDP growth worsened to −20.3%, inflation rose sharply to 200.1%, and government debt reached a peak of 344% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:13.834663",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_sudan.json",
+      "original_index": 16
+    }
+  ]
+}

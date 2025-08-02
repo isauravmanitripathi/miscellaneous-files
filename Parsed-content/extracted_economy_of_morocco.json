@@ -1,0 +1,1372 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_morocco.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.422691",
+    "total_sections_in_source": 53,
+    "extracted_sections_count": 53,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Morocco operates as a market economy governed by the law of supply and demand, with a policy of privatisation initiated since 1993, aligning with changes in many Western countries.",
+        "• Morocco is a significant player in African economic affairs, ranking as the 6th largest African economy by GDP based on purchasing power parity (PPP).",
+        "• According to the World Economic Forum’s African Competitiveness Report 2014–2015, Morocco was identified as the most competitive economy in North Africa.",
+        "• The Moroccan economy demonstrated resilience to climate, commodity, and pandemic shocks during the early 2020s.",
+        "• As of 2022, Morocco held the eighth-highest GDP in the Arab world despite lacking significant oil production.",
+        "• Since the early 1980s, Morocco has pursued an economic growth acceleration program supported by the International Monetary Fund (IMF), the World Bank, and the Paris Club of creditors.",
+        "• From 2018, the Moroccan dirham became fully convertible for current account transactions; concurrently, financial sector reforms were implemented and state enterprises underwent privatisation.",
+        "• The services sector constitutes just over 50% of Morocco’s GDP, while the industry sector—which includes mining, construction, and manufacturing—accounts for approximately 25%.",
+        "• The tourism, telecommunications, and textile sectors have recorded the highest growth rates within the Moroccan economy.",
+        "• Agriculture remains a critical sector, contributing around 14% of GDP but employing 40–45% of the population, despite Morocco’s semi-arid climate and variable rainfall impacting GDP stability.",
+        "• Fiscal prudence has enabled consolidation efforts, resulting in reductions in both the budget deficit and national debt as percentages of GDP.",
+        "• Morocco’s major economic resources include agriculture, phosphate minerals, and tourism, with fish and seafood sales also playing an important role.",
+        "• Industry and mining collectively contribute about one-third of Morocco’s annual GDP.",
+        "• Morocco is the world’s third-largest producer of phosphates, following the United States and China; international phosphate price fluctuations significantly affect the Moroccan economy.",
+        "• Since independence, tourism and workers’ remittances have been critical to Morocco’s economic development.",
+        "• The textile and clothing manufacturing sector is growing, accounting for approximately 34% of total exports in 2002 and employing 40% of the industrial workforce.",
+        "• The Moroccan government aimed to increase exports from $1.27 billion in 2001 to $3.29 billion by 2010, achieving an increase to $5.7 billion by 2019.",
+        "• A major economic challenge is the high cost of imports, particularly petroleum imports.",
+        "• Morocco faces structural unemployment and a large external debt burden.",
+        "• The youth unemployment rate was 27.2% in 2021.",
+        "• Approximately 80% of jobs in Morocco are informal, and income inequality is very high.",
+        "• In 2022, Morocco ranked 120th out of 191 countries on the Human Development Index (HDI), trailing Algeria (93rd) and Tunisia (101st).",
+        "• According to the NGO Oxfam, Morocco is the most unequal country in North Africa."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:45:43.217230",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco has maintained a fairly stable economy with continuous growth over the past fifty years, with GDP per capita increasing by 47% during the 1960s and peaking at 274% growth in the 1970s, though growth slowed significantly to 8.2% in the 1980s and 8.9% in the 1990s due to unsustainable expansion.",
+        "• In recent years, Morocco's economy showed resilience despite global challenges, with real GDP growth rebounding to 3.4% in 2023, driven by a resurgence in tourism, strong manufacturing exports—especially in the automotive and aeronautics sectors—and increased private consumption.",
+        "• Agricultural output contracted in 2023 due to drought conditions, leading to a projected slowdown in overall economic growth to 3.2% in 2024; however, the International Monetary Fund (IMF) projected growth to accelerate to approximately 3.9% in 2025, supported by infrastructure projects and structural reforms.",
+        "• Key economic indicators from 1980 to 1995 show GDP in millions of US dollars, exchange rates, inflation index (base year 2000=100), and per capita income as a percentage of the USA: for example, in 1980, GDP was $74,090 million, exchange rate was 3.93 Dirhams per USD, inflation index was 33, and per capita income was 8.87% of the USA.",
+        "• Inflation in Morocco declined significantly from a peak of 10.1% in early 2023 to an average of 1.5% in 2024, primarily due to falling food prices; in response, Bank Al-Maghrib, the central bank, reduced the key interest rate from 3.0% to 2.75% in June 2024.",
+        "• The IMF projected inflation to stabilize around 2% in the medium term, reflecting successful monetary policy adjustments.",
+        "• Fiscal consolidation efforts reduced the budget deficit from 5.2% of GDP in 2022 to 4.7% in 2023, while public debt was projected to decline gradually from 69.5% of GDP in 2023 to 68.2% by 2025.",
+        "• The current account deficit narrowed significantly to 0.6% of GDP in 2023, the lowest since 2007, supported by strong tourism revenues, manufacturing exports, and remittances.",
+        "• Foreign direct investment increased notably in emerging sectors such as green hydrogen and electric vehicle battery components, indicating diversification and modernization of Morocco’s economy.",
+        "• Unemployment remained elevated at 13% in 2023, with disproportionately higher rates among youth (35.8%), women (18.3%), and recent graduates (19.7%).",
+        "• The poverty rate increased from 3% in 2021 to 4.9% in 2022, signaling socio-economic challenges despite overall growth.",
+        "• Morocco’s GDP per capita reached $3,672 in 2023, representing a 6.69% increase from 2022, while the IMF estimated GDP per capita based on purchasing power parity (PPP) at $10,615 in 2024.",
+        "• Historical economic data from 1980 to 2022 show fluctuations in GDP (in billion US$ PPP), GDP per capita (in US$ PPP), nominal GDP (in US$), real GDP growth rates, inflation rates, unemployment rates, and government debt as a percentage of GDP, illustrating Morocco’s economic trajectory over four decades.",
+        "• For example, in 1980, GDP was $31.4 billion (PPP), GDP per capita was $1,615, nominal GDP was $23.8 billion, real GDP growth was 3.8%, inflation was 9.4%, and government debt data were not available.",
+        "• Notable economic downturns include a -2.8% real GDP growth in 1981 and -7.2% in 2020, the latter reflecting the impact of the COVID-19 pandemic.",
+        "• Inflation rates varied widely, peaking at 12.5% in 1981 and falling below 5% in many years, with green shading indicating years with inflation below 5%.",
+        "• Government debt as a percentage of GDP fluctuated, reaching 70.5% in 1990, decreasing to around 50.6% in 2006, and rising again to 72.2% in 2020 before stabilizing near 70% in recent years.",
+        "• Unemployment rates ranged from approximately 9.0% to 16.0% between 1995 and 2022, with a peak of 16.0% in 1995 and a rate of 11.1% in 2022.",
+        "• Real GDP growth rates showed periods of strong expansion, such as 12.4% in 1996 and 10.6% in 1994, as well as periods of contraction and stagnation, reflecting economic volatility and external shocks.",
+        "• Overall, Morocco’s macroeconomic trends indicate steady long-term growth with episodes of volatility, ongoing structural reforms, and recent improvements in fiscal and monetary policy frameworks aimed at sustaining economic stability and growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:46:00.229647",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "History",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco's economic history is deeply intertwined with its extensive historical timeline, spanning from prehistory through classical antiquity, early Islamic periods, territorial fragmentation, empire eras, decline, protectorate status, and modern developments.",
+        "• Prehistoric periods in Morocco include significant cultural phases such as the Acheulean, Mousterian, Aterian, Iberomaurusian, and Capsian, which laid the foundational human activity in the region.",
+        "• During classical to late antiquity (8th century BC – 7th century AD), Morocco was influenced by Carthaginian and Roman civilizations, with the territory known as Mauretania, specifically Mauretania Tingitana, and later incorporated into the Exarchate of Africa.",
+        "• The early Islamic period (8th–10th century AD) saw the Muslim conquest of Morocco under the Umayyad Caliphate, followed by significant events such as the Berber Revolt and the establishment of various political entities including the Emirate of Nekor, Emirate of Sijilmasa, Barghwata confederacy, and the Idrisid dynasty.",
+        "• Between the 10th and 11th centuries AD, Morocco experienced territorial fragmentation influenced by the Caliphate of Córdoba and the Fatimid Caliphate, alongside the presence of the Ifranids, Miknasas, Maghrawas, and Arab migrations to the Maghreb region.",
+        "• The beginning of the 11th century AD marked the rise of Moroccan empires, including the Almoravids, Almohads, Marinids, Wattasids, Saadis, and the Alawis, which shaped the political and economic landscape of the country.",
+        "• Other notable political entities during the empire period included the Zawiya Dila'iya, Principality of Debdou, and the Republic of Salé, each contributing to Morocco's complex historical fabric.",
+        "• From the beginning of the 19th century AD, Morocco entered a period of decline characterized by conflicts such as the Franco-Moroccan War, Hispano-Moroccan War, and diplomatic events like the Anglo-Moroccan Treaty of 1856, Treaty of Wad Ras, Treaty of Madrid, Tangier Crisis, Treaty of Algeciras, and the Agadir Crisis.",
+        "• The decline era also involved the Protégé system, the Hafidiya movement, the Bombardment of Casablanca in 1907, and ultimately the French conquest of Morocco.",
+        "• Morocco was subjected to protectorate status from 1912 to 1956, formalized by the Treaty of Fez, dividing control between the French protectorate and Spanish protectorate, with significant events including the French Conquest, Zaian War, Rif War, and the establishment of the Tangier International Zone.",
+        "• During the protectorate period, there was notable emigration of Moroccan Jews and growing opposition to European control, culminating in the Revolution of the King and the People.",
+        "• Since gaining independence in 1956, Morocco has faced various challenges and developments such as the Ifni War, Sand War, Moroccanization policies, coup d'état attempts in 1971 and 1972, the Moulay Bouazza plot, and the Years of Lead.",
+        "• Key geopolitical events in the modern era include the Madrid Accords, the Green March, the Western Sahara War, and ongoing Western Saharan clashes from 2020 to the present.",
+        "• Social and political movements such as the 2011–2012 protests and the Hirak Rif Movement have influenced Morocco's contemporary socio-economic environment.",
+        "• Morocco's recent diplomatic milestones include participation in the Abraham Accords, reflecting its evolving international relations.",
+        "• Over the decades, Morocco has implemented multiple development plans and economic reforms aimed at achieving sustained economic growth, reducing unemployment, and improving living standards from the 1960s to the present day.",
+        "• The country’s economic trajectory has been shaped by its historical experiences, political changes, and social movements, reflecting a complex interplay between internal dynamics and external influences."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:46:19.670961",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "1960–1989",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 1960s, Morocco implemented a series of development plans aimed at modernizing the economy and increasing production, with net investment under the 1960–64 five-year plan totaling approximately $1.3 billion.",
+        "• The 1960–64 plan targeted a 6.2% growth rate in GDP, but by 1964, the actual growth rate had only reached 3%, with a primary focus on developing and modernizing the agricultural sector.",
+        "• The 1968–72 five-year development plan emphasized increased agriculture and irrigation, alongside significant development of the tourist industry, aiming for an annual GDP growth rate of 5%, which was surpassed with an actual growth rate exceeding 6%.",
+        "• Investment priorities during the 1970s expanded to include industry and tourism development, with the 1973–77 five-year plan projecting a real economic growth rate of 7.5% annually.",
+        "• Key industries targeted for development in the 1970s included chemicals (notably phosphoric acid), phosphate production, paper products, and metal fabrication.",
+        "• In 1975, King Hassan II announced a 50% increase in investment targets to accommodate inflationary effects, reflecting adjustments in economic planning.",
+        "• The 1978–80 plan focused on economic stabilization and retrenchment, specifically designed to improve Morocco’s balance-of-payments position.",
+        "• The ambitious 1981–85 five-year plan, with an estimated cost exceeding $18 billion, aimed for an annual growth rate of 6.5% and prioritized the creation of approximately 900,000 new jobs.",
+        "• A key component of the 1981–85 plan was the training of managers and workers in modern agricultural and industrial techniques to support economic modernization.",
+        "• Other major objectives of the 1981–85 plan included increasing agricultural and fisheries production to achieve food self-sufficiency and developing energy, industry, and tourism sectors to reduce reliance on foreign loans.",
+        "• The plan called for significant expansion of irrigated land and increased public works projects, including the construction of hospitals and schools.",
+        "• Economic decentralization and regional development were promoted through the establishment of 25 new industrial parks located outside the heavily populated Casablanca-Kénitra coastal area.",
+        "• Large-scale industrial projects under the 1981–85 plan included phosphoric acid plants, sugar refineries, and mining operations to exploit cobalt, coal, silver, lead, and copper deposits, as well as oil-shale development initiatives."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:46:30.220008",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "1990–2000s",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Moroccan economic policies in the early 1990s achieved macroeconomic stability but failed to generate sufficient growth to reduce unemployment, despite ongoing government efforts to diversify the economy.",
+        "• Drought conditions in the late 1990s depressed activity in Morocco’s key agricultural sector, contributing to an economic slowdown in 1999.",
+        "• Favorable rainfall in 2000 led to a significant economic growth rate of 6% for that year.",
+        "• Long-term challenges for Morocco’s economy included servicing external debt, preparing for freer trade with the European Union, improving education, and attracting foreign investment to enhance living standards and job prospects for the youthful population.",
+        "• Between 2000 and 2005, Morocco’s economy was characterized by macroeconomic stability but relatively slow growth, with continued heavy dependence on the agricultural sector.",
+        "• The primary economic challenge during 2000–2005 was accelerating growth to reduce persistently high unemployment levels.",
+        "• The government continued economic liberalization efforts, including the telecommunications sector reforms initiated by the sale of a second GSM license in 1999.",
+        "• In 2002, Morocco liberalized rules for oil and gas exploration, furthering sectoral reforms.",
+        "• By 2003, the government was using revenue generated from privatizations to finance increased public spending.",
+        "• Despite economic growth in the early 2000s, the improvements were insufficient to significantly reduce poverty levels.",
+        "• Morocco maintained inflation rates comparable to industrial countries over the decade through a foreign exchange rate anchor and well-managed monetary policy.",
+        "• Inflation rates were below 2% in both 2000 and 2001.",
+        "• Exporters criticized the Moroccan dirham for being overvalued, but the current account deficit remained modest.",
+        "• Foreign exchange reserves were strong, exceeding $7 billion at the end of 2001.",
+        "• Strong foreign exchange reserves combined with active external debt management enabled Morocco to service its external debt, which stood at approximately $16.6 billion.",
+        "• Economic growth was erratic and relatively slow, largely due to over-reliance on the agricultural sector, which accounted for between 13% and 20% of GDP.",
+        "• Approximately 36% of Morocco’s population depended directly on agricultural production, making the economy highly vulnerable to droughts.",
+        "• Two consecutive years of drought resulted in only a 1% increase in real GDP in 1999 and economic stagnation in 2000.",
+        "• Improved rainfall during the 2000–2001 growing season contributed to a 6.5% GDP growth rate in 2001.",
+        "• In 2006, economic growth exceeded 9%, driven primarily by a booming real estate market.",
+        "• Structural reforms introduced in recent years included significant liberalization of the telecommunications sector.",
+        "• In 2001, Morocco privatized 35% of the state-owned operator Maroc Telecom as part of ongoing sector reforms.",
+        "• The government announced plans in 2002 to sell two fixed-line telecommunications licenses.",
+        "• Morocco liberalized regulations for oil and gas exploration and granted concessions for many public services in major cities.",
+        "• The tender process for public contracts in Morocco became increasingly transparent during this period.",
+        "• Despite reforms, many observers believed that economic reform needed to accelerate to reduce urban unemployment, which remained above 20%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:46:39.434321",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Recent developments",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco has demonstrated sound economic management in recent years, achieving strong growth and attaining investment grade status, while effectively mitigating the adverse effects of the global economic crisis.",
+        "• The country is actively addressing persistent social issues by reducing absolute poverty rates, investing in human capital through improvements in quality education, expanding access to potable drinking water, and enhancing rural connectivity to markets via infrastructure investments in roads.",
+        "• Despite progress over the past decade, Morocco continues to face significant challenges in human development outcomes, including high overall illiteracy rates and pronounced gender disparities in access to secondary education.",
+        "• Morocco experiences poor health outcomes, particularly in infant and maternal mortality rates, highlighting ongoing public health challenges.",
+        "• Economic diversification, increased competitiveness, and deeper integration into the global economy are identified as critical needs for Morocco to achieve higher levels of economic growth.",
+        "• The Moroccan government has acknowledged these challenges and initiated an ambitious process of legal, policy, and institutional modernization encompassing political, economic, and social reforms.",
+        "• A comprehensive set of new sector strategies has been designed and is currently being implemented, aligned with the national vision and aimed at addressing development challenges through clear, measurable goals and indicators.",
+        "• Between 2000 and 2007, Morocco experienced steady annual economic growth rates in the range of 4–5%, including a 4.9% year-on-year growth rate during the period 2003–2007, reflecting a more robust and resilient economy compared to previous years.",
+        "• Economic growth has become more diversified, with the emergence of new service and industrial hubs, notably in Casablanca and Tangier.",
+        "• The agriculture sector has undergone rehabilitation efforts, which, combined with favorable rainfall, contributed to an agricultural growth rate exceeding 20% in 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:46:46.500582",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.3.1",
+      "section_name": "2008",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In July 2008, the International Monetary Fund (IMF) described Morocco as \"a pillar of development in the region\" and commended King Mohammed VI and the Central Bank for Morocco's sustained strong economic progress and effective monetary policy management.",
+        "• The Moroccan finance minister projected Morocco's economy to grow by 6.5% in 2008, a slight revision downward from an earlier forecast of 6.8%, yet still considered a significant achievement given prevailing circumstances.",
+        "• Morocco's GDP growth in 2007 was only 2.2%, primarily due to a poor agricultural harvest caused by prolonged drought; however, nonagricultural GDP growth in 2007 reached 6.6%.",
+        "• Inflation in Morocco was expected to rise to 2.9% in 2008, driven by increasing energy costs amid a challenging global economic environment.",
+        "• The IMF anticipated continued expansion in Morocco’s nonagricultural sectors despite global economic difficulties.",
+        "• According to Bank Al-Maghrib, the 2008 global financial crisis had only a limited impact on the Moroccan economy.",
+        "• A July 2008 IMF report highlighted Morocco’s financial sector as sound and resilient to external shocks, crediting recent fiscal consolidation efforts for enabling the economy to withstand adverse international economic conditions and rising global prices for essential commodities such as petroleum and energy.",
+        "• International economic experts acknowledged Morocco’s exemplary economic performance as beneficial not only to its population but also to the nearly 90 million inhabitants of the Maghreb region.",
+        "• Morocco was expected to close 2008 with a budgetary surplus between MAD 3 billion and MAD 3.5 billion (equivalent to $348 million to $407 million), despite the severe international economic crisis.",
+        "• By the end of November 2008, Morocco’s state budget recorded a surplus of MAD 3.2 billion ($372 million), with projections for a budgetary surplus of MAD 6.9 billion ($803 million) by the end of November 2009.",
+        "• Economic diversification efforts in Morocco included a multidisciplinary approach focusing on the development of non-agricultural sectors such as industry, tourism, and services outsourcing through the creation of special sectorial zones.",
+        "• Planned reforms under a new program-contract signed in 2009 between the government, the banking sector, and zone-development companies aimed to improve the higher education system and business law.",
+        "• The diversification strategy also emphasized supporting small-business development and exploring external markets, with the objective of transforming Morocco into an emerging industrial country comparable to Vietnam by 2015.",
+        "• The US Ambassador to the European Union remarked that Morocco stands out as a model of economic reform for the region and other developing countries, asserting that Morocco’s economic progress—and the potential for similar progress in the Maghreb—is the best antidote to the threat of terrorism in the region.",
+        "• Maghreb GDP growth rates were as follows: 4.3% in 2006, 4.3% in 2007, 5.5% in 2008, and 4.9% projected for 2009.",
+        "• Moroccan GDP growth rates were 7.8% in 2006, 2.7% in 2007, 6.5% in 2008, and projected 5.5% in 2009.",
+        "• Algerian GDP growth rates were 2.0% in 2006, 4.6% in 2007, 4.9% in 2008, and projected 4.5% in 2009.",
+        "• Tunisian GDP growth rates were 5.5% in 2006, 6.3% in 2007, 5.5% in 2008, and projected 5.0% in 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:47:02.373150",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.3.2",
+      "section_name": "2009",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco's economy remained insulated from the worst effects of the global financial crisis as of 2009, partly due to the recovery of the agricultural sector following a drought in 2007.",
+        "• The Moroccan economy expanded by 5.6% in 2008, with a forecasted growth rate of 5.7% for 2009.",
+        "• According to the International Monetary Fund (IMF), Morocco's economy ranked as the 61st largest in the world in 2009, although its per-capita GDP was low compared to other nations with similar rankings.",
+        "• King Mohammed VI initiated two national economic strategies: Plan Maroc Vert and Plan Emergence.",
+        "• Plan Maroc Vert aims to create 1.5 million jobs in the agricultural sector and contribute approximately €7.65 billion to Morocco’s GDP by 2020 through investments totaling €10.8 billion.",
+        "• Plan Emergence focuses on establishing new industrial zones and enhancing workforce training to improve industrial efficiency.",
+        "• The phosphate production sector, which accounted for more than one-third of Morocco’s exports in 2008, was undergoing restructuring to increase its value-added output.",
+        "• Economic growth in the first quarter of 2009 was expected to reach 6.6%, up from 4.8% in the previous quarter, driven by prospects of an agricultural campaign surpassing the average of the previous five years.",
+        "• By the end of December 2008, rainfall levels exceeded those of an average year by 106%, benefiting all agricultural regions and increasing water storage in dams for agricultural use to 40.7%.",
+        "• Under these favorable conditions, and with a cereal production campaign approaching 70 million quintals, the agricultural value added was projected to increase by 22.2% in the first quarter of 2009, contributing 2.9% to national economic growth.",
+        "• Despite positive agricultural performance, foreign demand for Moroccan goods was expected to moderately slow in 2009 due to decreased economic activity among Morocco’s main commercial partners.",
+        "• The growth rate of foreign demand was not expected to exceed 2% in the first quarter of 2009, down from a 9% increase in 2008, reflecting a weak global economic outlook and a slowdown in international trade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:47:10.155602",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.3.3",
+      "section_name": "2019",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In June 2019, Morocco entered into two agreements to secure a loan totaling $237 million from the Arab Fund for Economic and Social Development.",
+        "• The purpose of the $237 million loan was to finance two distinct investment projects within Morocco."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:47:11.966993",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.3.4",
+      "section_name": "2020",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, the Moroccan economy experienced its first recession since 1995 due to the economic shock caused by the COVID-19 pandemic.",
+        "• Economic output in Morocco contracted by 15.1% in the second quarter of 2020, primarily as a result of the nationwide lockdown measures implemented to contain the virus.",
+        "• The sharp reduction in exports significantly contributed to the economic contraction, driven by disruptions to global value chains caused by the pandemic.",
+        "• The collapse of receipts from tourism, a key sector in Morocco’s economy, further exacerbated the economic downturn in 2020.",
+        "• The pandemic-induced shock to both supply and demand was intensified by a severe drought, which led to a fall in agricultural production during the same period.",
+        "• Despite some recovery in economic activity during the third and fourth quarters of 2020, the overall impact remained negative for the year.",
+        "• Preliminary government estimates for 2020 indicated that Morocco’s real Gross Domestic Product (GDP) contracted by 7%.",
+        "• The economic downturn contributed to a rise in the national unemployment rate, which increased from 9.2% before the pandemic to 11.9% by the end of 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:47:17.424236",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3",
+      "section_name": "Economic growth",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco has maintained a fairly stable economy characterized by continuous growth over the past fifty years, with notable fluctuations across decades.",
+        "• During the 1960s, Morocco's GDP per capita experienced a significant increase of 47%, followed by an even more substantial peak growth of 274% in the 1970s.",
+        "• The rapid growth observed in the 1970s proved unsustainable, leading to a sharp decline in growth rates to just 8.2% in the 1980s and 8.9% in the 1990s.",
+        "• Real GDP growth for Morocco was projected to average 5.5% during the 2009–2013 period, influenced by positive prospects in the tourism sector and non-agricultural industries.",
+        "• Despite these positive sectors, growth was expected to be constrained by subdued demand growth in the Eurozone, which is Morocco’s key export market and primary source of tourists.",
+        "• The anticipated growth rate of 5.5% was considered insufficient to achieve the 8–10% growth levels widely regarded as necessary to significantly reduce poverty and unemployment in Morocco.",
+        "• Economic growth was also expected to face intermittent challenges due to periodic droughts affecting the rain-fed agricultural sector, which remains the largest employer in the country.",
+        "• According to IMF data, Moroccan GDP measured in purchasing power parity (PPP) increased from 101.904 billion USD in 2004 to 159.007 billion USD in 2010.",
+        "• Moroccan nominal GDP rose from 56.948 billion USD in 2004 to 106.59 billion USD in 2010, reflecting substantial nominal economic expansion.",
+        "• Moroccan GDP (PPP) per capita increased steadily from 3,409 USD in 2004 to 5,025 USD in 2010, indicating gradual improvement in average income levels.",
+        "• Annual GDP growth rates fluctuated between 2.7% and 7.8% from 2004 to 2008, with estimated growth rates of 4.4% for both 2009 and 2010, resulting in an average growth rate of 5.2% over the 2004–2010 period.",
+        "• Public debt as a percentage of GDP showed a declining trend, starting at 59.4% in 2004, peaking at 63.1% in 2005, and then decreasing steadily to an estimated 50.1% in 2010."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:47:26.844419",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture employs approximately 40% of Morocco's workforce, indicating its significant role in the national economy.",
+        "• On the Atlantic coast of Morocco, extensive plains support the cultivation of olives, citrus fruits, and wine grapes, with irrigation primarily supplied by artesian wells.",
+        "• Livestock farming is practiced alongside forestry activities, where forests provide cork, cabinet wood, and building materials.",
+        "• A portion of Morocco's maritime population relies on fishing for their livelihood, with key fishing harbours located in Agadir, Essaouira, El Jadida, and Larache.",
+        "• In the northeastern regions of Morocco, which receive higher rainfall, cereals such as barley and wheat are cultivated without the need for irrigation.",
+        "• In 2018, Morocco produced 7.3 million tons of wheat, ranking as the 20th largest wheat producer globally.",
+        "• The country produced 3.7 million tonnes of sugar beet in 2018, a crop used for producing sugar and ethanol.",
+        "• Barley production in 2018 reached 2.8 million tons, making Morocco the 15th largest barley producer worldwide.",
+        "• Potato production was 1.8 million tons in 2018, highlighting its importance among staple crops.",
+        "• Olive production amounted to 1.5 million tons in 2018, positioning Morocco as the 3rd largest olive producer globally, behind Spain and Italy.",
+        "• Tomato production was 1.4 million tons in 2018, with Morocco ranking as the 15th largest producer in the world.",
+        "• Tangerine production reached 1.2 million tons in 2018, making Morocco the 4th largest producer globally, following China, Spain, and Turkey.",
+        "• Orange production was recorded at 1 million tons in 2018, ranking Morocco as the 15th largest producer worldwide.",
+        "• Onion production totaled 954 thousand tons in 2018, contributing significantly to vegetable agriculture.",
+        "• Watermelon production was 742 thousand tons in 2018, reflecting the diversity of fruit cultivation.",
+        "• Apple production reached 696 thousand tons in 2018, indicating the presence of temperate fruit farming.",
+        "• Sugarcane production was 616 thousand tons in 2018, used for sugar and related products.",
+        "• Melon production amounted to 500 thousand tons in 2018, further diversifying Morocco's fruit output.",
+        "• Carrot production was 480 thousand tons in 2018, supporting vegetable crop variety.",
+        "• Grape production totaled 451 thousand tons in 2018, important for both fresh consumption and wine production.",
+        "• Banana production was 319 thousand tons in 2018, contributing to tropical fruit agriculture.",
+        "• Chilli pepper production reached 256 thousand tons in 2018, used in culinary and commercial applications.",
+        "• Fig production was 128 thousand tons in 2018, ranking Morocco as the 3rd largest producer globally, behind Turkey and Egypt.",
+        "• Morocco also produces smaller yields of various other agricultural products, indicating a diverse agricultural sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:47:38.828323",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Land",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco possesses significant exploitable natural resources, including approximately 85,000 square kilometres (33,000 sq mi) of arable land, of which one-seventh is suitable for irrigation.",
+        "• The country benefits from a generally temperate Mediterranean climate, enhancing its agricultural potential, which is considered superior to that of most other Arab or African nations.",
+        "• Morocco is among the few Arab countries with the capacity to achieve self-sufficiency in food production.",
+        "• In an average year, Morocco produces about two-thirds of the grains required for domestic consumption, primarily wheat, barley, and corn (maize).",
+        "• The nation exports citrus fruits and early vegetables to the European market, indicating a strong presence in international agricultural trade.",
+        "• Morocco has a developed wine industry and is expanding the production of commercial crops such as cotton, sugarcane, sugar beets, and sunflowers.",
+        "• Newer agricultural crops including tea, tobacco, and soybeans have progressed beyond experimental cultivation, particularly thriving in the fertile Gharb plain region.",
+        "• The country is actively enhancing its irrigation infrastructure, aiming to irrigate more than 2.5 million acres (1 million hectares) to support agricultural productivity.",
+        "• Morocco’s forestry policy focuses on restoring over 600,000 hectares of forest ecosystems, combating soil erosion, regulating water flow, and increasing revenue from forestry and tourism sectors.",
+        "• This forestry initiative is supported by the European Investment Bank’s development branch, EIB Global.",
+        "• The EIB-financed component of the forestry program plans to reforest approximately 55,000 hectares, which is expected to generate 30,200 years of temporary employment and create over 6,800 permanent jobs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:47:46.408148",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Drought",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Unreliable rainfall in Morocco is a chronic issue that results in either drought or sudden floods, significantly impacting the economy.",
+        "• In 1995, Morocco experienced its worst drought in thirty years, which compelled the country to import grain and had a detrimental effect on the national economy.",
+        "• Subsequent droughts occurred in 1997 and again during 1999–2000, each causing economic setbacks.",
+        "• The drought-induced reductions in income led to declines in Morocco’s GDP by 7.6% in 1995, 2.3% in 1997, and 1.5% in 1999.",
+        "• Conversely, periods between droughts with favorable rainfall resulted in bumper crops, positively influencing the economy.",
+        "• For example, good rainfall in 2001 contributed to a 5% growth rate in Morocco’s GDP.",
+        "• Despite assertions by Moroccan decisionmakers that the economy is becoming more diversified and less dependent on rainfall, drought remains a significant threat to economic stability.",
+        "• Cereal yields in Morocco continue to be highly dependent on annual precipitation, exhibiting considerable variation with rainfall levels.",
+        "• Cereals represent the essential component of agricultural value added in Morocco, and their production is highly sensitive to rainfall fluctuations.",
+        "• The yield of cereals not only determines the aggregate value added within the agricultural sector but also has a broader impact on overall economic growth.",
+        "• According to Moroccan economist Brahim Mansouri, in his 2008 UNECA study titled \"Fiscal Policy and Economic Growth: Egypt, Morocco and Tunisia Compared,\" severe drought conditions—measured as a dummy variable based on the growth rate of cereal yield—can cause the real GDP growth rate to decline by as much as 10%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:47:52.063433",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Cannabis",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco consistently ranks among the world's largest producers and exporters of cannabis, with its cultivation and sale forming the economic base for much of northern Morocco.",
+        "• The cannabis produced in Morocco is typically processed into hashish, a concentrated form of cannabis resin.",
+        "• Cannabis-related activities contribute approximately 0.57% to Morocco's Gross Domestic Product (GDP).",
+        "• A United Nations survey conducted in 2003 estimated that cannabis cultivation covered about 1,340 square kilometers (520 square miles) across Morocco's five northern provinces.",
+        "• This cultivated area represented 10% of the total land area and 23% of the arable land within the surveyed northern territory, and accounted for 1% of Morocco's total arable land nationwide.",
+        "• On May 26, 2021, the Moroccan Parliament voted to legalize the use of cannabis for medical, cosmetic, and industrial purposes, marking a significant policy shift.",
+        "• Morocco is a signatory to the 1988 United Nations Drug Convention, committing to international drug control standards.",
+        "• In 1992, Morocco enacted legislation to implement the provisions of the 1988 UN Drug Convention.",
+        "• Morocco’s National Committee on Narcotics formulated a new national strategy against drugs, which was adopted in 2005 to strengthen drug control efforts.",
+        "• In 2005, the International Narcotics Control Board (INCB) commended the Moroccan government for its efforts to eradicate cannabis cultivation, noting a 10% decrease in the total potential production of cannabis resin in the Rif region compared to the previous year.",
+        "• The INCB also called upon the international community to support Morocco’s cannabis eradication efforts wherever possible.",
+        "• Since the early 2010s, there has been a growing national debate in Morocco regarding the decriminalization of cannabis.",
+        "• Influential political parties advocating for cannabis decriminalization include the Istiqlal Party and the Authenticity and Modernity Party, reflecting significant political support for reform."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:00.537123",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The fishing industry in Morocco constitutes a major source of national revenue, representing 56% of the country’s agricultural exports and 16% of its total exports.",
+        "• Historically, the fishing sector has served as a fundamental economic pillar for Morocco, underpinning significant aspects of the national economy.",
+        "• Morocco holds the distinction of being the largest fish market in Africa, reflecting its prominent role in the continent’s fisheries sector.",
+        "• In the year 2001, Morocco’s total fish catch was estimated at 1,084,638 metric tons (MT), underscoring the scale and productivity of its fishing industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:04.017948",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "5",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Moroccan industrial sector experienced robust growth, recording a 5.5% increase in industrial activity in 2007, which was a slight improvement over the 4.7% growth observed in 2006.",
+        "• Added value within the Moroccan industrial sector increased by 5.6% in 2007, reflecting enhanced productivity and output.",
+        "• The industrial sector's contribution to Morocco's GDP fluctuates annually between approximately 25% and 35%, with variations largely dependent on the performance of the agricultural sector.",
+        "• In 2007, the industrial sector accounted for about 21.1% of total employment in Morocco, highlighting its significance as a major source of jobs.",
+        "• The industrial sector is a central element of the Moroccan government’s strategy to reduce unemployment rates across the country.",
+        "• Morocco’s industrial sector attracts substantial foreign direct investment (FDI), indicating strong international confidence and interest in the country’s industrial potential.",
+        "• Moroccan authorities have launched initiatives aimed at improving the investment climate, with a particular focus on developing off-shoring activities, and key industries such as automotive, aeronautics, electronics, food processing, seafood products, and textiles.",
+        "• Additional important industrial sectors in Morocco include mining, chemicals, construction materials, and pharmaceuticals, contributing to the diversity and resilience of the industrial base.",
+        "• The outlook for Morocco’s industrial sector is positive, with new initiatives enhancing its global competitiveness across multiple sectors, positioning the country for sustained industrial growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:09.037732",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Manufacturing constitutes approximately one-sixth of Morocco's GDP and is progressively increasing in economic significance.",
+        "• The industrial sector in Morocco is notably characterized by two key components: the processing of raw materials for export and the production of consumer goods for the domestic market.",
+        "• Many manufacturing operations in Morocco have origins dating back to the colonial period.",
+        "• Prior to the early 1980s, the Moroccan government played a dominant role in manufacturing, focusing primarily on import substitution strategies.",
+        "• Since the early 1980s, there has been a strategic shift towards privatizing state-owned enterprises and attracting new private investment, including significant foreign direct investment.",
+        "• A major economic activity within manufacturing is the processing of phosphate ore into fertilizers and phosphoric acid, primarily for export purposes.",
+        "• Food processing is a vital sector, encompassing both export-oriented products such as canned fish, fresh vegetables, and fruit, and domestic products including flour milling and sugar refining.",
+        "• The textile and clothing manufacturing industry, utilizing domestically produced cotton and wool, is a significant source of foreign exchange earnings for Morocco.",
+        "• Morocco's iron and steel manufacturing industry, while relatively small in scale, fulfills a substantial portion of the country's domestic demand.",
+        "• The manufacturing sector produces a variety of light consumer goods, notably foodstuffs, beverages, textiles, matches, and metal and leather products.",
+        "• Heavy industry in Morocco is predominantly concentrated in petroleum refining, chemical fertilizer production, automobile and tractor assembly, foundry work, asphalt production, and cement manufacturing.",
+        "• Many processed agricultural products and consumer goods are primarily intended for local consumption; however, Morocco exports several items including canned fish and fruit, wine, leather goods, textiles, and traditional Moroccan handicrafts such as carpets and brass, copper, silver, and wood implements.",
+        "• Ownership within the manufacturing sector is predominantly private.",
+        "• The Moroccan government retains ownership of the phosphate-chemical fertilizer industry and a significant portion of sugar-milling capacity, often through partnerships or joint financing arrangements.",
+        "• The government is also a major participant in the automobile and truck assembly industry as well as in tire manufacturing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:20.816099",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Automotives",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The automotive sector is Morocco's leading export sector, establishing the country as the leading car manufacturer in Africa.",
+        "• Morocco's rapid integration into the global economy has been facilitated by numerous free trade agreements with the United States and the European Union.",
+        "• These free trade agreements have played a significant role in promoting the emergence and growth of export activities within Morocco.",
+        "• Foreign direct investment (FDI) in Morocco's automotive sector has been expanding due to the country's favorable economic conditions.",
+        "• Government support has been instrumental in attracting investment, including initiatives such as tax exemptions for the first five years and exemptions from value-added tax (VAT).",
+        "• Morocco offers modern infrastructure and a skilled workforce, further enhancing its attractiveness to automotive companies.",
+        "• The automotive sector is the strongest contributor to job creation in Morocco, with 85,000 new jobs generated between 2014 and 2018.",
+        "• As of 2018, the total number of jobs in Morocco's automotive sector reached 158,000."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:25.117532",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Textiles",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Textiles constitute a major industry within Morocco's economy, playing a significant role in the country's export sector.",
+        "• The European Union serves as Morocco's primary client for textiles and clothing exports, highlighting the importance of this regional market.",
+        "• France is a key importer within the EU, accounting for 46% of Morocco's hosiery exports, 28.5% of basic textile imports, and 27.6% of ready-to-wear clothing imports, as emphasized by the managing director of the Moroccan Export Development Center.",
+        "• In 2007, Morocco's textile and clothing exports reached a total value of approximately $3.7 billion, demonstrating the sector's substantial contribution to national export revenues.",
+        "• Saad Benabdallah attributed this export performance to several competitive advantages enjoyed by Morocco, including its geographical proximity to major markets, operational flexibility, strong sourcing capabilities, and the benefits derived from multiple Free Trade Agreements with the European Union, United States, and Turkey."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:30.439631",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "5.4",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The mining sector is a fundamental component of Morocco's economy, generating a turnover of US$2.7 billion in 2005.",
+        "• In 2005, the mining sector accounted for MAD 2.17 billion in exports and consumed 20% of the country's total energy.",
+        "• The sector employed approximately 39,000 individuals in 2005, with total salaries estimated at MAD 571 million.",
+        "• Morocco’s mineral production includes several key minerals and metals, with phosphates, silver, and lead being the most significant.",
+        "• Morocco holds 75 percent of the world’s phosphate reserves, making it a dominant player in the global phosphate market.",
+        "• The country is the world’s leading exporter of phosphates, supplying 28% of the global market.",
+        "• Morocco ranks as the third-largest producer of phosphates worldwide, contributing 20% of global phosphate production.",
+        "• In 2005, Morocco produced 27.254 million tons of phosphates and an additional 5.895 million tons of phosphate derivatives."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:36.684242",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "6",
+      "section_name": "Services",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Services, including government and military expenditures, constitute approximately one-fourth of Morocco's Gross Domestic Product (GDP).",
+        "• Government spending represents fully 50% of the service economy in Morocco, despite ongoing efforts by the government to privatize many of its assets.",
+        "• Since the mid-1980s, tourism and related services have grown to become an increasingly significant sector within the Moroccan economy.",
+        "• By the late 1990s, tourism had emerged as Morocco's largest source of foreign currency earnings.",
+        "• The Moroccan government committed substantial resources to the development of the tourism industry and associated services, providing loans and tax exemptions to support growth in this sector.",
+        "• In addition to financial incentives, the government made direct capital investments in the service sector's development.",
+        "• Beginning in the early 1990s, the Moroccan government initiated a process of divesting itself of many service sector properties previously under its control.",
+        "• Morocco receives several million visitors annually, with the majority originating from European countries.",
+        "• Other notable sources of tourists include Algeria, the United States, and East Asia, particularly Japan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:41.819650",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco is a major touristic destination, with tourism being a significant contributor to the country’s economic output, current account balance, and employment.",
+        "• In 2008, Morocco received 8 million tourists, demonstrating the sector’s substantial scale and importance.",
+        "• Tourist receipts in 2007 amounted to US$7.55 billion, highlighting the financial impact of tourism on the Moroccan economy.",
+        "• Morocco developed an ambitious tourism strategy called \"Vision 2010,\" aiming to attract 10 million tourists by the year 2010.",
+        "• The \"Vision 2010\" strategy planned to create 160,000 new beds, increasing the national accommodation capacity to 230,000 beds.",
+        "• The strategy also aimed to generate approximately 600,000 new jobs within the tourism sector.",
+        "• Marrakech remains the leading market in Moroccan tourism, maintaining its dominant position in attracting visitors.",
+        "• Fez experienced a 20% increase in visitors in 2004, indicating that improved organization and development can diversify Morocco’s tourism sector.",
+        "• Fez’s tourism development is coordinated by the Centre Regional du Tourisme (CRT), a local tourism body that collaborates with industry stakeholders and authorities.",
+        "• Fez’s tourism plan includes substantial restructuring of the old city and upgrading hotel capacity to enhance visitor experience.",
+        "• Improved transport links, including the introduction of direct flights from France to Fez (previously requiring a transfer in Casablanca), have increased the city’s accessibility to tourists.",
+        "• The \"Plan Azur,\" a large-scale project initiated by King Mohammed VI, aims to internationalize Morocco’s tourism appeal.",
+        "• \"Plan Azur\" includes the creation of six coastal resorts designed for holiday-home owners and tourists, with five resorts located on the Atlantic coast and one on the Mediterranean coast.",
+        "• The plan also encompasses upgrading regional airports to attract budget airlines and constructing new train and road infrastructure to improve connectivity.",
+        "• Morocco recorded an 11% increase in tourism during the first five months of 2008 compared to the same period in the previous year.",
+        "• French tourists were the largest group of visitors in early 2008, totaling 927,000, followed by 587,000 Spanish visitors and 141,000 British visitors.",
+        "• Morocco’s proximity to Europe, combined with its unique cultural offerings and exotic appeal, makes it a popular destination for Europeans purchasing holiday homes."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:48.974133",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Information technology",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, Morocco's IT sector generated a turnover of Dh7 billion ($910 million), marking an 11% increase compared to 2006.",
+        "• The number of Moroccan internet subscribers in 2007 reached 526,080, representing a 31.6% increase from the previous year and a 100% increase compared to 2005.",
+        "• Despite growth, national internet subscription penetration remained low, rising from 0.38% in 2004 to 1.72% in 2007.",
+        "• Over 90% of Moroccan internet subscribers had broadband ADSL connections in 2007, one of the highest ratios globally.",
+        "• The strategic plan \"Maroc 2006–12\" was established to guide the future development of Morocco’s IT sector.",
+        "• The Maroc 2006–12 plan aimed to increase the combined value of the telecoms and IT sectors from Dh24 billion ($3.1 billion) in 2004 to Dh60 billion ($7.8 billion) by 2012.",
+        "• By 2012, the telecoms sector was projected to remain the largest revenue generator with Dh33 billion ($4.3 billion).",
+        "• The IT and offshore industries were each expected to generate Dh21 billion ($2.7 billion) by 2012.",
+        "• Employment in the IT and telecom sectors was anticipated to grow significantly, from 40,000 employees to 125,000 by 2012.",
+        "• The Moroccan government aimed to increase internet usage by promoting more local content on the internet.",
+        "• Initiatives were undertaken to increase the availability of computers in schools and universities to support IT development.",
+        "• E-commerce was expected to expand in the coming years, supported by the growing use of credit cards in Morocco.",
+        "• Despite significant advances in computer and internet use over the previous five years, Morocco’s IT market was still considered in its infancy with substantial potential for further growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:48:56.758583",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Retail",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The retail industry in Morocco accounts for 12.8% of the country's Gross Domestic Product (GDP) and employs approximately 1.2 million people, representing 13% of the total workforce.",
+        "• Organised retail constitutes only a small portion of Morocco's domestic trade, as consumers predominantly shop at 1,151 souks and markets, alongside roughly 700,000 independent groceries and shops.",
+        "• The rapid growth of Morocco's middle class, which comprises about 30% of the population, coupled with a young, increasingly urban demographic and a strong demand for international brands, is significantly transforming consumer spending patterns.",
+        "• Despite these demographic and social changes, the average purchasing power in Morocco remains relatively low, compelling retailers to serve a wide range of consumers and maintain low price points.",
+        "• The retail sector in Morocco exhibits substantial growth potential, with the franchising segment expected to expand continuously.",
+        "• While strong local brands are beginning to emerge within the retail market, international brand names are projected to contribute the largest percentage increase in the sector’s turnover.",
+        "• Shifts in consumption habits, rising purchasing power, and an increasing number of tourists are anticipated to stimulate the growth of shopping malls and luxury retail outlets.",
+        "• Nevertheless, independent stores and traditional markets are expected to continue dominating the majority of domestic trade in Morocco for the foreseeable future."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:03.515451",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "6.4",
+      "section_name": "Offshoring",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2009, Morocco was ranked among the top thirty countries globally in the offshoring sector, highlighting its emerging prominence in this industry.",
+        "• Morocco officially opened its doors to offshoring in July 2006 as part of the broader economic development initiative known as Plan Emergence.",
+        "• Since the inception of its offshoring strategy, Morocco has attracted approximately half of the French-speaking call centres that have relocated offshore, as well as a number of Spanish-speaking call centres.",
+        "• Experts attribute the attractiveness of Morocco to multinational companies to its geographical and cultural proximity to Europe, which facilitates communication and business operations.",
+        "• Additionally, Morocco’s time zone alignment with Europe is considered a significant advantage for companies seeking efficient coordination and service delivery.",
+        "• By 2007, Morocco had established around 200 call centres, of which 30 were classified as being of significant size, collectively employing over 18,000 individuals."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:07.595339",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "6.5",
+      "section_name": "Finance",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The central bank of Morocco is Bank Al-Maghrib, which oversees the country’s banking sector and financial stability.",
+        "• In 2007, Morocco’s economic environment remained conducive to the continued growth of banking activity, following a very strong performance in 2006.",
+        "• Macroeconomic growth in 2007, excluding the agricultural sector, was robust, providing a favorable backdrop for dynamic expansion in banking credit.",
+        "• Total assets of Morocco’s banking sector increased by 21.6% in 2007, reaching MAD 654.7 billion (equivalent to $85.1 billion), surpassing the previous year’s growth rate of 18.1%.",
+        "• The domestic banking sector structure remained stable over the past two years, dominated by three major local banks.",
+        "• The Moroccan state began reducing its involvement in the domestic banking sector by divesting part of its share capital in public banks.",
+        "• As of the end of 2007, public capital still held controlling stakes in five banks and four financing companies within Morocco.",
+        "• Foreign ownership in Morocco’s local financial sector continued to increase, with foreign institutions controlling five banks and eight financing companies, and holding significant stakes in an additional four banks and three financing companies.",
+        "• Despite the financial system’s robustness, it faces the challenge of absorbing excessive amounts of low risk-low return government debt, which crowds out riskier but more productive private sector lending.",
+        "• This crowding-out effect reduces the profitability and growth incentives of Morocco’s financial sector by limiting private sector investment opportunities.",
+        "• Fitch Ratings affirmed Morocco’s long-term local issuer default rating at \"BBB−\" and foreign issuer default rating at \"BBB,\" both with a stable outlook.",
+        "• Fitch attributed Morocco’s credit rating partly to the \"relative resilience of Morocco’s economy to the global economic downturn,\" highlighting the country’s economic stability amid global challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:15.694852",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "6.6",
+      "section_name": "Insurance",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The insurance sector in Morocco is experiencing dynamic growth, primarily driven by developments in life insurance, which has overtaken motor insurance in the past two years to become the leading segment of the market, accounting for approximately one-third of total premiums.",
+        "• Following life and motor insurance, the largest contributors to the Moroccan insurance market include accident insurance, work-related accident insurance, fire insurance, and transport insurance.",
+        "• In 2007, total insurance premiums in Morocco reached Dh17.7 billion (equivalent to $2.3 billion), positioning Morocco as one of the largest insurance markets in the Arab world, ranking behind only Saudi Arabia and the United Arab Emirates.",
+        "• The insurance penetration rate in Morocco stands at 2.87% of GDP, while the insurance density is measured at $69 per person, indicating the average amount spent on insurance per individual.",
+        "• The Moroccan insurance sector is currently consolidated, with five major companies dominating the market, reflecting a concentrated industry structure.",
+        "• From 2010 onward, the Moroccan insurance market is planned to be opened to foreign competition, which is expected to increase market competitiveness.",
+        "• The ongoing consolidation of insurance companies into larger entities is anticipated to strengthen local players, enabling them to better compete with incoming foreign insurers.",
+        "• There is potential for the introduction of new insurance niches in Morocco’s medium-term future, including takaful (Islamic insurance) and microinsurance products; however, these are not expected to emerge in the immediate short term."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:23.799020",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "6.7",
+      "section_name": "Media and advertising",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the Moroccan Advertisers Group, advertising expenditure in Morocco reached Dh3.9 billion ($507 million) in 2007, representing nearly a fourfold increase from Dh1.1 billion ($143 million) spent in 2000.",
+        "• Despite this growth, the Moroccan advertising market remains underdeveloped by international standards, indicating significant potential for further expansion.",
+        "• In 2007, advertising expenditure accounted for just over 0.6% of Morocco’s GDP, which is lower compared to 1% in Egypt and between 1.5% to 2% in European Union countries.",
+        "• The top 10 advertising spenders in Morocco collectively represent approximately 35% of the total advertising expenditure, with major contributions coming from companies in the telecommunications, consumer goods, and services sectors.",
+        "• Television maintained the dominant position in advertising media, capturing 55% of above-the-line advertising expenditure in Morocco.",
+        "• A 2006 poll conducted by the Groupement des Annonceurs du Maroc (GAM) revealed that 94% of its members utilized outdoor advertising; however, 81% of these companies reported issues primarily related to quality and delays.",
+        "• The advertising sector in Morocco has substantial growth potential, with telecommunications expected to remain the largest advertising segment.",
+        "• Emerging and fast-growing economic sectors such as retail, automobile, and real estate are creating new opportunities for advertising companies in Morocco."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:29.826539",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "6.8",
+      "section_name": "Communications",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The telecommunications sector in Morocco increased in value from Dh25.6 billion ($3.3 billion) in 2006 to Dh33.3 billion ($4.2 billion) in 2007, reflecting significant growth within a single year.",
+        "• Employing approximately 41,000 individuals, the telecoms sector contributes 7% to Morocco’s annual Gross Domestic Product (GDP), highlighting its importance to the national economy.",
+        "• The sector is one of Morocco’s leading recipients of foreign direct investment (FDI), indicating strong international investor confidence and involvement.",
+        "• According to the national development plan, the telecoms sector is projected to employ 125,000 people by 2012 and increase its contribution to 10% of Morocco’s GDP, demonstrating ambitious growth targets.",
+        "• Mobile phone penetration in Morocco stood at 69.4%, while fixed-line penetration was 8.95%, suggesting a dominant preference for mobile telecommunications and substantial room for growth in fixed-line services.",
+        "• The Moroccan call centre industry is expected to continue expanding, driven in part by offshore initiatives such as Casanearshore and Rabat Technopolis, which aim to position Morocco as a competitive player in this sector.",
+        "• Despite growth opportunities, the global call centre industry remains highly competitive, and Morocco’s success in becoming a leading international player depends critically on improvements in education and workforce skills."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:35.772893",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "6.9",
+      "section_name": "Telephone system",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the late 1980s and early 1990s, the Moroccan government undertook a significant expansion and modernization of the telecommunications system, resulting in nearly quadrupling the number of internal telephone lines and substantially improving international communications.",
+        "• In 1996, a new law opened the state-owned telecommunications industry to privatization, allowing private investment in the retail sector while the state retained control over fixed assets.",
+        "• In 1998, the government established Maroc Telecom (Ittiṣālāt al-Maghrib), a company responsible for providing telephone, cellular, and Internet services throughout Morocco.",
+        "• Satellite dishes are commonly found on rooftops even in the poorest neighborhoods, indicating widespread access to global telecommunications networks across all social and economic levels in Morocco.",
+        "• The Internet has progressively expanded in Morocco, with major institutions having direct access, and private individuals connecting through telecommunications \"boutiques\" (similar to Western cyber cafés) and home computers.",
+        "• Morocco’s telecommunications infrastructure comprises a robust system of open-wire lines, cables, and microwave radio relay links, with principal switching centers located in Casablanca and Rabat.",
+        "• The national telecommunications network is nearly 100% digital, utilizing fiber-optic links, and rural service has been improved through the use of microwave radio relay technology.",
+        "• The international telecommunications system includes seven submarine cables, three satellite earth stations (two Intelsat stations over the Atlantic Ocean and one Arabsat station), and microwave radio relay connections to Gibraltar, Spain, and the Western Sahara.",
+        "• Coaxial cables and microwave radio relays provide telecommunications links to Algeria, and Morocco participates in Medarabtel, with a fiber-optic cable connecting Agadir to Algeria and Tunisia.",
+        "• As of 2012, the estimated number of main telephone lines in use in Morocco was 3.28 million.",
+        "• By 2015, the estimated number of mobile cellular subscriptions reached 47.25 million, representing 135% of the total population, indicating multiple subscriptions per individual on average.",
+        "• In 2014, the estimated number of Internet users in Morocco was 21.2 million, corresponding to 60.6% of the total population."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:41.404047",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "6.10",
+      "section_name": "Radio",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2007, Morocco had a total of 25 AM radio stations operating within the country.",
+        "• In the same year, there were 31 FM radio stations available to Moroccan listeners.",
+        "• Additionally, Morocco maintained 11 shortwave radio stations as of 2007.",
+        "• The number of radio sets owned by the population in Morocco was recorded at 7.78 million units in 2007."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:43.656892",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "6.11",
+      "section_name": "Broadband Internet access",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Broadband Internet access in Morocco is primarily operated by Maroc Telecom, a leading telecommunications provider in the country.",
+        "• The broadband service initially commenced as a test phase in November 2002, allowing for preliminary trials and assessments.",
+        "• Following the successful testing period, the broadband service was officially launched in October 2003, marking the start of commercial availability.",
+        "• Maroc Telecom offers the broadband service through its subsidiary company, Menara, which manages and delivers the internet services to consumers.",
+        "• In addition to Maroc Telecom, other key providers in the Moroccan broadband market include Inwi, formerly known as Wana Co., which is a significant competitor in the sector.",
+        "• Another major broadband provider is Meditel, which has since rebranded and integrated into the global telecommunications group Orange, expanding its service offerings under this new identity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:48.064289",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "6.12",
+      "section_name": "Equity markets",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Privatization has significantly stimulated activity on the Casablanca Stock Exchange (Bourse de Casablanca), particularly through trading shares of large former state-owned enterprises.",
+        "• The Casablanca Stock Exchange was founded in 1929, making it one of the oldest stock exchanges in Africa.",
+        "• The exchange gained prominence following financial reforms implemented in 1993, which contributed to its development into the third largest stock exchange in Africa.",
+        "• According to the World Bank, the stock market capitalization of listed companies in Morocco was valued at $75,495 billion in 2007.",
+        "• This valuation represented a 74% increase in market capitalization compared to the year 2005.",
+        "• Despite the challenges posed by the global financial meltdown, the Casablanca Stock Exchange has maintained resilience and is reinforcing its central role in financing the Moroccan economy.",
+        "• The exchange has set ambitious goals to double the number of listed companies and to more than quadruple the number of investors over the next few years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:53.047425",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "6.13",
+      "section_name": "Fiscal policies",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco has achieved significant progress in fiscal consolidation in recent years due to strong revenue performance and efforts to address expenditure rigidities, particularly the wage bill.",
+        "• Over the last four years, Morocco’s overall fiscal deficit decreased by more than 4 percentage points of GDP, bringing the budget close to balance by 2007.",
+        "• Despite previous consolidation, the overall fiscal deficit is projected to widen to 3.5 percent of GDP in 2008, primarily driven by the increased fiscal cost of Morocco’s universal subsidy scheme amid sharp rises in world commodity and oil prices.",
+        "• Fiscal policy decisions in Morocco have been predominantly discretionary, as there is currently no explicit medium-term fiscal policy goal or anchor.",
+        "• Looking ahead, the establishment of a medium-term fiscal policy anchor is considered important for guiding fiscal decisions.",
+        "• Morocco’s low social indicators and substantial infrastructure needs provide justification for potential increases in social spending and public investment.",
+        "• Some nominal tax rates in Morocco remain high compared to international standards, suggesting the possibility of reducing certain tax rates to improve competitiveness.",
+        "• The relatively high level of public debt in Morocco continues to be a limiting factor for fiscal policy, especially given the country’s strategic emphasis on enhancing investor attractiveness to deepen integration into the global economy.",
+        "• Morocco has made major strides in recent years to boost economic growth and enhance the economy’s resilience to external shocks.",
+        "• These economic gains are attributed to sound macroeconomic policies and sustained structural reforms.",
+        "• Improvements in economic performance are reflected in the gradual enhancement of living standards and increases in per capita income in Morocco."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:49:59.017677",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "6.14",
+      "section_name": "Debt management",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• At the start of the 21st century, Morocco's overall fiscal deficit was 5.3 percent of GDP, indicating a significant budget shortfall relative to the size of the economy.",
+        "• During the same period, Morocco's gross total government debt was approximately three-fourths (75%) of GDP, reflecting a high debt burden.",
+        "• By 2007, Morocco's budget situation had improved markedly, with the budget nearly balanced due to strong revenue performance and moderate growth in government expenditure.",
+        "• The improvement in fiscal performance was driven by a combination of prudent fiscal policy measures and substantial receipts from privatization activities.",
+        "• As a result of these factors, Morocco's total government debt stock decreased by 20 percentage points of GDP, reducing it to just over half of GDP by 2007.",
+        "• This significant reduction in debt and improved fiscal management enhanced perceptions of Morocco's creditworthiness among investors and international observers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:02.600409",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "6.15",
+      "section_name": "Taxation",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tax revenues constitute the largest portion of Morocco's general budget, highlighting their critical role in national fiscal policy.",
+        "• The Moroccan taxation system imposes taxes on multiple bases, including individuals, corporations, goods and services, as well as specific commodities such as tobacco and petroleum products."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:04.651023",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "7",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco maintains strong trade relations with the European Union (EU), which remains its largest trading partner, with 56% of Morocco's exports and 45% of its imports directed to and originating from the EU in 2022.",
+        "• In 2022, the total trade in goods between Morocco and the EU amounted to €53.3 billion, highlighting the significant economic exchange between the two entities.",
+        "• Key Moroccan exports to the EU in 2022 included transport equipment (23.5%), machinery and appliances (21.2%), and textiles (14.3%), indicating the prominence of these sectors in Morocco’s export economy.",
+        "• In 2023, Morocco’s primary export destinations were Spain (22.5%), France (20.5%), Italy (5.2%), the United Kingdom (4.5%), and Germany (4.3%), reflecting a concentration of trade within major European economies.",
+        "• The main import suppliers to Morocco in 2023 were Spain (15.7%), China (10.6%), France (10.6%), the United States (8.4%), and Türkiye (5.1%), demonstrating a diverse range of trading partners beyond the EU.",
+        "• Morocco’s trade deficit narrowed by 7.3% in 2023, reaching 286 billion dirhams ($28.6 billion), due to a 2.5% decrease in imports to 715 billion dirhams and a slight increase in exports to 429 billion dirhams.",
+        "• Energy imports in Morocco declined significantly by 20.4% in 2023, falling to 122 billion dirhams, contributing to the reduction in the trade deficit.",
+        "• Exports from Morocco’s automotive sector surged by over 27% in 2023, reaching a record 141 billion dirhams, underscoring the sector’s growing importance to the national economy.",
+        "• Tourism revenues in Morocco increased by 11.7% in 2023, totaling 104 billion dirhams, supported by a record 14.5 million visitors, highlighting the sector’s recovery and expansion.",
+        "• Remittances from Moroccans living abroad rose by 4% in 2023 to 115 billion dirhams, representing a significant source of foreign currency inflows.",
+        "• In 2024, Morocco’s trade deficit increased by 7.3% to 306.47 billion dirhams, driven by a 6.4% rise in imports to 761.45 billion dirhams and a 5.8% increase in exports to 454.97 billion dirhams.",
+        "• The growth in Moroccan exports in 2024 was mainly propelled by the aerospace sector (14.9%), phosphates and derivatives (13.1%), the automotive industry (6.3%), and the agriculture and agri-food sector (3.1%).",
+        "• The EU-Morocco Association Agreement, signed in 1996 and effective from 2000, aims to establish a free trade area and strengthen economic ties as part of the Barcelona Process.",
+        "• Morocco has entered into additional free trade agreements including with the United States (effective from 2006), the Agadir Agreement with Egypt, Jordan, and Tunisia, and a free trade agreement with Türkiye.",
+        "• In 2012, Morocco acceded to the Regional Convention on pan-Euro-Mediterranean preferential rules of origin, facilitating regional integration and enhancing trade within the Euro-Mediterranean area."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:20.287380",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "8",
+      "section_name": "Investment",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco has become an attractive destination for European investors due to its relocation sites \"Casashore\" and \"Rabatshore,\" as well as the rapid cost escalation in Eastern Europe, making offshoring in Morocco economically advantageous.",
+        "• The offshoring sector in Morocco is significant because it creates high-level jobs and generally attracts an influx of Moroccan immigrants, contributing to the labor market and economic growth.",
+        "• Despite the sector's growth, human resources remain a major concern for companies aiming to establish operations in Morocco, prompting the Moroccan government to prioritize accelerating training in relevant disciplines to meet industry demands.",
+        "• In 2007, Morocco implemented a series of measures and legal provisions designed to promote foreign investments by simplifying procedures and ensuring suitable conditions for project initiation and completion.",
+        "• Abdellatif Maazouz, the Foreign Trade Minister in 2007, highlighted that these measures included financial incentives and tax exemptions outlined in the investment code, alongside the establishment of regional investment centres to support projects.",
+        "• The combined effect of these measures and initiatives by the Hassan II Fund for Development led to an increase in foreign investments in Morocco by $544.7 million in 2007, with 20% of these investments originating from Islamic countries.",
+        "• Moroccan officials have reported a significant rise in remittances sent home by Moroccan expatriates, with government efforts focused on encouraging Moroccans living abroad to increase their investments domestically and addressing concerns about bureaucracy and corruption.",
+        "• In 2007, remittances sent by Moroccan migrants reached $5.7 billion, placing Morocco second on the World Bank’s list of the top 10 remittance recipient countries in the MENA region, behind Egypt; Algeria ranked fifth with $2.9 billion.",
+        "• According to the World Bank, remittances accounted for 6.4% of Morocco’s GDP in 2020, amounting to more than $7.4 billion, and despite the COVID-19 pandemic, remittances from Moroccans abroad continued to increase.",
+        "• The European Investment Bank began investing in Morocco in 1979 and has invested a total of €9.6 billion since then, including €2.5 billion invested since 2017, demonstrating long-term financial commitment to Morocco’s economic development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:33.117036",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "8.1",
+      "section_name": "Foreign direct investment",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Foreign Direct Investment (FDI) inflows into Morocco increased to $2.57 billion in 2007, up from $2.4 billion in 2006, positioning Morocco as the fourth largest FDI recipient in Africa according to the United Nations Conference on Trade and Development (UNCTAD).",
+        "• Some alternative studies have reported significantly higher FDI figures for Morocco than those cited by UNCTAD.",
+        "• In 2008, expectations for FDI were optimistic, with 72 projects approved amounting to a total investment of $9.28 billion, projected to create 40,023 direct and stable jobs in the country.",
+        "• Despite these positive projections, FDI inflows declined by 29% to €2.4 billion in 2008, marking the first decrease since 2004 and reflecting the impact of the global economic downturn.",
+        "• The recovery of Morocco’s FDI levels to pre-crisis figures is largely dependent on the overall health of the global economy.",
+        "• Morocco has undertaken measures to enhance its attractiveness as an FDI destination, as evidenced by its ranking in the World Bank’s Doing Business 2010 report, where it placed second among North African countries.",
+        "• The majority of Morocco’s FDI originates from the European Union, with France being the predominant investor.",
+        "• Morocco is also an active source of foreign investments abroad, having invested $652 million in international projects in 2007, which ranked the country third in Africa for outward FDI during that year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:40.182880",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 39
+    },
+    {
+      "section_number": "8.2",
+      "section_name": "Investment by country",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The majority of foreign direct investments (FDIs) in Morocco originated from the European Union, with France as the leading economic partner, contributing investments valued at $1.86 billion.",
+        "• Spain followed France as the second-largest European investor in Morocco, with investments amounting to $783 million.",
+        "• European countries collectively accounted for 73.5% of the total global FDIs received by Morocco in the year 2007.",
+        "• Arab countries contributed 19.3% of Morocco’s FDIs in 2007, marking a significant increase from their 9.9% share in 2006.",
+        "• Several Arab nations, predominantly from the Persian Gulf region, are engaged in large-scale projects in Morocco, including the development of the major Tanger Med port on the Mediterranean Sea.",
+        "• Morocco is the preferred destination for foreign investors within the Maghreb region, which includes Algeria, Libya, Mauritania, Morocco, and Tunisia.",
+        "• Between 2001 and 2007, Morocco attracted a total of $13.6 billion in FDIs, positioning it at the top of the Maghreb region in terms of foreign investment inflows."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:44.688658",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 40
+    },
+    {
+      "section_number": "8.3",
+      "section_name": "Investment by sector",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism sector holds the largest share of investment in Morocco, amounting to $1.55 billion, which represents 33% of the total foreign direct investments (FDIs).",
+        "• The real estate sector is the second-largest recipient of investment, with a total of $930 million.",
+        "• The industrial sector ranks third in terms of investment, receiving $374 million.",
+        "• Moroccan expatriates contributed $92 million to the FDI in 2007, showing an increase from $57 million in 2006.",
+        "• Investments by Moroccan expatriates primarily target the real estate, tourism, and catering sectors, as indicated by the report."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:47.880368",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 41
+    },
+    {
+      "section_number": "9",
+      "section_name": "Science and technology",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The national system of scientific and technical research in Morocco is guided by multiple elements including the pronouncements of the king, reports from special commissions, five-year plans, and the establishment of a special programme to support research.",
+        "• The Moroccan government's Five-Year Plan for 2000–2004 defined priority research lines with the declared objective of aligning science and technology (S&T) research with socio-economic development priorities.",
+        "• Priority sectors identified in the 2000–2004 Five-Year Plan included agriculture, health, fisheries, drinking water, geology, mining, energy, environment, information and telecommunications technologies, and transport.",
+        "• The strategic approach emphasized the necessity of effective institutional coordination to enable various stakeholders to collaborate around shared socioeconomic objectives.",
+        "• The private sector is the least active participant in research activities within Morocco, with REMINEX Corporation (Research on Mines and Exploitation) being the most prominent private research entity.",
+        "• REMINEX Corporation is a subsidiary of Omnium Nord Africain, which is the largest privately owned mining group in Morocco.",
+        "• According to the 2002–2003 annual report by the Ministry of National Education, Higher Education, Professional Training and Scientific Research, Morocco had 17,390 research staff during that period.",
+        "• Of the total research staff in 2002–2003, 58% were employed within the university sector, indicating the predominance of academic institutions in research activities.",
+        "• Key research institutions include the Scientific Institute in Rabat, founded in 1920, which conducts fundamental research in the natural sciences.",
+        "• Another significant institution is the Scientific Institute of Maritime Fishing, established in 1947 in Casablanca, focusing on oceanography, marine biology, and development-related studies of the fishing industry.",
+        "• Morocco has nine universities and colleges that offer degrees in basic and applied sciences, supporting the education and training of scientific personnel.",
+        "• Between 1987 and 1997, students enrolled in science and engineering disciplines constituted 41% of total college and university enrollments, reflecting a substantial focus on these fields in higher education."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:56.977744",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 42
+    },
+    {
+      "section_number": "10",
+      "section_name": "Economy of Western Sahara",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Fishing and phosphate mining constitute the primary economic activities in the Moroccan-administered region of Western Sahara.",
+        "• Agricultural production in Western Sahara is limited to the cultivation of fruits and vegetables, which occurs predominantly in the few existing oases within the territory.",
+        "• Nomadic herding remains a traditional livelihood in Western Sahara, with herders raising camels, sheep, and goats across the region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:50:59.559126",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 43
+    },
+    {
+      "section_number": "11",
+      "section_name": "Development of the Northern Region",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Historically, the Casablanca-Rabat axis has been more prosperous and received greater government attention compared to the predominantly mountainous northern provinces and the Western Sahara region of Morocco.",
+        "• Since the 1990s, the Western Sahara region has attracted government focus primarily due to its phosphate deposits, whereas the northern provinces, including the Rif Mountains, home to approximately 6 million Moroccans, remained largely neglected.",
+        "• The uneven regional development in Morocco has contributed to a persistent cycle of rural-to-urban migration, which continues unabated.",
+        "• In 1998, the Moroccan government initiated a development program targeting the northern region, with substantial international assistance.",
+        "• Spain demonstrated particular interest in the development of Morocco’s northern region, motivated by concerns that the area’s underdevelopment was driving illegal immigration and drug trafficking across the Strait of Gibraltar.",
+        "• Following the death of King Hassan II, his son Mohammed VI prioritized the development of the Northern Region, with a special focus on its largest city, Tangier.",
+        "• The state-owned railway company committed approximately $755 million in investments for the northern region, including constructing a 43-kilometer railway line between Tangier and the Tangier-Med port.",
+        "• Additional railway investments include upgrading the Tangier-Casablanca railway line and modernizing multiple train stations in the northern region over the forthcoming years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:51:06.600434",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 44
+    },
+    {
+      "section_number": "11.1",
+      "section_name": "Tangier",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to 1956, Tangier held an international status, boasting a prestigious image that attracted numerous artists to the city.",
+        "• Following Morocco’s reclamation of Tangier in 1956, the city experienced a decline in attention, with reduced investment and a loss of its previous economic significance.",
+        "• The economic revival of Tangier was initiated under King Mohammed VI, who ascended to the throne in 1999 and implemented a comprehensive development plan for the city.",
+        "• Key infrastructural developments under this plan included the construction of a new airport terminal, a soccer stadium with a seating capacity of 45,000 spectators, a high-speed train line, and a new highway connecting Tangier to Casablanca.",
+        "• A new train station named Tanger-Ville was also constructed as part of the transportation improvements.",
+        "• The establishment of a free economic zone in Tangier significantly boosted the city’s economic output, positioning it as an industrial hub within Morocco.",
+        "• The most substantial investment was the creation of the Tanger-Med port, which is recognized as the largest port in both Africa and the Mediterranean region.",
+        "• Tangier is currently experiencing an economic boom, which necessitated the development of a commercial district known as Tangier City Center, officially inaugurated in 2016.",
+        "• In 2012, the Renault Tanger Méditerranée automobile manufacturing plant commenced operations, achieving an annual production capacity exceeding 250,000 vehicles."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:51:14.298496",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 45
+    },
+    {
+      "section_number": "12",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Mohammed VI Bridge is recognized as the longest suspended bridge in Africa, symbolizing Morocco's modern infrastructure development efforts.",
+        "• Newly constructed roads are part of a development program specifically targeting the southern provinces of Morocco, aiming to enhance connectivity and economic integration.",
+        "• The Al Boraq RGV2N2 high-speed trainset was operational at Tanger Ville railway station as of November 2018, marking a significant advancement in Morocco’s rail transport capabilities.",
+        "• Tanger-Med port, located in the Tangiers free economic zone, is the largest port in Africa and the Mediterranean, ranked 18th globally with a container handling capacity exceeding 9 million containers, serving as a major logistics hub for Africa and international trade.",
+        "• According to the Global Competitiveness Report of 2019, Morocco achieved the following infrastructure rankings globally: 16th in Roads, 16th in Sea transport, 45th in Air transport, and 64th in Railways, making it the highest-ranked African country in these categories.",
+        "• The Moroccan government prioritizes modern infrastructure development, including ports, airports, and rail links, to support economic growth and meet increasing domestic demand.",
+        "• Between 2010 and 2015, Morocco invested over $15 billion in upgrading its basic infrastructure, reflecting a substantial commitment to enhancing national transport and logistics networks.",
+        "• Morocco possesses one of the continent’s best road systems, having constructed approximately 1,770 kilometers of modern roads over the past 20 years, primarily toll expressways connecting major cities.",
+        "• The Moroccan Ministry of Equipment, Transport, Logistics, and Water plans to build an additional 3,380 kilometers of expressways and 2,100 kilometers of highways by 2030, with an estimated investment cost of $9.6 billion.",
+        "• A key focus of road infrastructure expansion is linking the southern provinces, particularly the cities of Laayoune and Dakhla, to the rest of Morocco to promote regional development.",
+        "• In 2014, Morocco commenced construction of Africa’s second high-speed railway system, connecting Tangiers and Casablanca, which was inaugurated in 2018 by King Mohammed VI after over a decade of planning and construction by the Moroccan national railway company ONCF.",
+        "• The Tangiers-Casablanca high-speed rail line represents the first phase of a planned 1,500-kilometer (930-mile) high-speed rail network across Morocco, with extensions to Marrakesh already in planning stages."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:51:26.423420",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 46
+    },
+    {
+      "section_number": "13",
+      "section_name": "Economic inequality",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1998 and 2007, the Moroccan economy experienced significant growth, with the national income increasing at an average annual rate of 5.5%, leading to notable progress in national income, employment, and living standards.",
+        "• Despite this economic growth, substantial disparities persisted in the distribution of its benefits, manifesting between different production factors, socio-economic groups, and between urban and rural areas.",
+        "• The improvement in national income during the 1998–2007 decade was insufficient to adequately address the disparities in living standards and the magnitude of social deficits within Morocco.",
+        "• Over the last ten years preceding the report, the real income of the Moroccan population increased annually by 2.5%, a figure that accounts for fluctuations caused by climatic conditions which disproportionately impact the most vulnerable populations and their living standards.",
+        "• A national survey on Moroccans' living standards in 2001 revealed that the wealthiest 10% of the population accounted for consumption expenses twelve times greater than those of the poorest 10%, highlighting significant inequality in consumption.",
+        "• Although disparities in consumption and living standards tend to decrease within urban areas, the data underscore the critical need for intensified efforts to reduce economic inequality across the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:51:34.148237",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 47
+    },
+    {
+      "section_number": "14",
+      "section_name": "Labour",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Approximately one-third of Morocco's population is employed in the agricultural sector, reflecting the country's reliance on farming activities for employment.",
+        "• Another one-third of the population earns their livelihood through mining, manufacturing, and construction industries, indicating a significant portion of the workforce engaged in industrial and infrastructural development.",
+        "• The remaining segment of the workforce is occupied in trade, finance, and service sectors, highlighting the diversity of employment opportunities beyond primary and secondary industries.",
+        "• These employment estimates do not account for a substantial informal economy comprising street vendors, domestic workers, and other underemployed or poorly paid individuals, suggesting that actual labor dynamics are broader and more complex.",
+        "• Morocco faces a significant challenge with high unemployment rates; the official unemployment figure stands at roughly 10% of the workforce, though unofficial estimates suggest the real rate is considerably higher.",
+        "• Unemployment is particularly acute among university graduates holding nontechnical degrees, a trend consistent with patterns observed across most Middle Eastern and North African countries, indicating a mismatch between education and labor market demands.",
+        "• The country hosts several trade unions, with the largest being L'Union Marocaine du Travail, which boasts nearly 700,000 members and is affiliated with the International Confederation of Free Trade Unions, reflecting organized labor's presence and international connections in Morocco."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:51:40.395228",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 48
+    },
+    {
+      "section_number": "14.1",
+      "section_name": "Unemployment",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco's unemployment rate, historically a significant concern, experienced a steady decline in 2008, driven primarily by job growth in the services and construction sectors.",
+        "• Institutional reforms aimed at enhancing competitiveness and financial openness are anticipated to sustain the downward trend in unemployment.",
+        "• Despite economic growth, the unemployment rate is not expected to decrease substantially due to the continuous increase in the number of first-time labor market entrants.",
+        "• Between 1999 and 2005, urban unemployment in Morocco decreased from 22% to 18.3%, while the national unemployment rate fell from 13.9% to 10.8%.",
+        "• According to the State High Planning Commission, Morocco’s official unemployment rate declined to 9.1% in the second quarter of 2008, down from 9.6% in the first quarter of the same year.",
+        "• The total number of unemployed individuals in Morocco was approximately 1.03 million in Q2 2008, compared to 1.06 million at the end of March 2008.",
+        "• At the end of 2007, the unemployment rate stood at 9.8%, representing a slight increase of 0.1% from the end of 2006.",
+        "• Urban areas experienced particularly strong job growth, with the services and construction sectors being the primary contributors to employment creation.",
+        "• The services sector generated approximately 152,000 new jobs, notably driven by the business process outsourcing (BPO) and telecommunications industries.",
+        "• The construction sector created around 80,000 new jobs in the second quarter of 2008, supported by government infrastructure projects and substantial private investment in real estate and tourism.",
+        "• The declining unemployment trend in Morocco is positive, especially considering that joblessness has been a serious issue across North Africa.",
+        "• Morocco’s unemployment rate is lower than that of its Maghreb neighbors, with Tunisia at approximately 13.9% and Algeria at about 12.3%, yet unemployment remains a significant economic and social challenge.",
+        "• A 2006 government report indicated that Morocco requires a net increase of 400,000 jobs annually for the next twenty years to accommodate its demographic growth and provide sufficient employment.",
+        "• The Moroccan labor market may face additional pressure from returning workers due to economic difficulties faced by Spanish construction firms, potentially increasing unemployment challenges.",
+        "• According to the CIA, 30.5% of Morocco’s population of 34.3 million is aged 14 or younger, making youth employment a critical government priority.",
+        "• Data from 2007 show that 17.6% of individuals aged 15–24 in Morocco were unemployed.",
+        "• Youth unemployment rises to about one-third in urban areas, whereas rural youth often find employment in agriculture, including family farms, immediately after leaving school, contributing to higher youth employment rates in rural regions.",
+        "• Lower levels of official unemployment registration in rural areas also contribute to the disparity in youth unemployment statistics between urban and rural communities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:51:53.810733",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 49
+    },
+    {
+      "section_number": "14.2",
+      "section_name": "Child labour",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• A 2010 report estimated that approximately 150,000 children aged between 5 and 14 were engaged in child labour in Morocco.",
+        "• The predominant sectors employing child labour in Morocco are agriculture and domestic services.",
+        "• Young girls working as live-in domestic servants are locally referred to as _petites bonnes_ (little maids), many of whom are aged 10 years or younger.",
+        "• These _petites bonnes_ typically originate from very poor families and experience conditions akin to involuntary servitude, including long working hours without breaks, absence of holidays, physical, verbal, and sexual abuse, withheld wages, and restrictions on their freedom of movement.",
+        "• _Petites bonnes_ are systematically denied access to education.",
+        "• More visible forms of child labour in Morocco include street children in major cities such as Casablanca, Marrakech, Fès, and Mèknes.",
+        "• Street children survive by engaging in activities such as selling cigarettes, begging, shining shoes, washing cars, and working as porters and packers in ports.",
+        "• The Ministry of Planning in Morocco estimates that the number of _petites bonnes_ in the country ranges between 60,000 and 100,000.",
+        "• Government-commissioned studies identify poverty and lack of access to schooling, often in combination, as the primary causes of the _petites bonnes_ phenomenon in Morocco.",
+        "• Additionally, rural parents commonly hold the belief that education or obtaining a diploma will not improve their daughters’ employment prospects, contributing to the perpetuation of child domestic labour."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:51:59.954010",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 50
+    },
+    {
+      "section_number": "15",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco possesses very limited domestic energy reserves and was significantly impacted by the high oil prices experienced in 2007 and early 2008, necessitating the importation of 96% of its energy requirements.",
+        "• The national oil import bill for Morocco in the first quarter of 2008 reached $1.1 billion, representing a 69% increase compared to the same period in 2007.",
+        "• According to the International Energy Agency (IEA) report of 2014, Morocco remains highly dependent on imported energy, with over 91% of its energy supply sourced from abroad.",
+        "• Morocco is actively pursuing diversification of its energy sources, with a strategic emphasis on developing renewable energy, particularly wind energy; solar power and nuclear energy are also included in this strategy.",
+        "• Development of solar power in Morocco has been slow, and progress on nuclear energy has been minimal, aside from a 2007 announcement of collaboration with France on nuclear energy initiatives.",
+        "• In November 2009, Morocco announced a $9 billion solar energy project intended to account for 38% of the country's installed power generation capacity by 2020.",
+        "• The 2009 solar project involves the establishment of five solar power generation sites across Morocco, aiming to produce 2,000 megawatts (MW) of electricity by 2020.",
+        "• Funding for the solar energy project is planned to come from a combination of private and state capital.",
+        "• The announcement ceremony for the solar project was attended by U.S. Secretary of State Hillary Clinton and the Moroccan king, underscoring international support.",
+        "• Germany has expressed willingness to participate in Morocco’s solar energy project and in the development of a water-desalination plant, with the World Bank also supporting the solar initiative.",
+        "• The Moroccan government intends to reorganize its energy subsidy system, which currently imposes a heavy burden on government finances; although subsidies help ease consumer costs in the short term, they are unsustainable if they continue to rise indefinitely.",
+        "• National energy consumption per capita in Morocco is projected to increase from 0.4 tonnes of oil equivalent (toe) currently to as much as 0.90 toe by 2030, reflecting both development progress and significant future energy challenges.",
+        "• The integration of renewable energy sources is considered critically important to Morocco’s future energy strategy.",
+        "• According to a 2006 estimate by the Oil and Gas Journal (OGJ), Morocco’s proven oil reserves stand at 1,070,000 barrels (170,000 cubic meters), and proven natural gas reserves are estimated at 60 billion cubic feet (1.7×10^9 cubic meters).",
+        "• Morocco may possess additional hydrocarbon reserves, as many of its sedimentary basins remain unexplored; the Moroccan Office of Hydrocarbons and Mining (ONHYM) has expressed optimism about discovering further reserves, especially offshore, following recent discoveries in neighboring Mauritania.",
+        "• Exploration activities in Western Sahara, a territory believed to contain viable hydrocarbon reserves, have been controversial due to competing claims and licenses.",
+        "• In 2001, Morocco granted exploration contracts in Western Sahara to TotalEnergies and Kerr-McGee, which caused conflict with Premier Oil and Sterling Energy, companies that had previously obtained licenses from the Polisario government.",
+        "• In 2005, the government-in-exile of Western Sahara invited foreign companies to bid on 12 offshore exploration contracts, aiming to award production sharing contracts by the end of that year.",
+        "• Total energy consumption in Morocco has increased significantly over the decades, measured in Terrawatt-hours (TWh) as follows: 30 TWh in 1970; 61 TWh in 1980; 83 TWh in 1990; 117 TWh in 2000; 195 TWh in 2010; 243 TWh in 2020; and 271 TWh in 2023.",
+        "• Per capita energy consumption in Morocco, measured in Kilowatt-hours (KWh), has also risen steadily: 1,989 KWh in 1970; 3,088 KWh in 1980; 3,368 KWh in 1990; 4,114 KWh in 2000; 6,005 KWh in 2010; 6,611 KWh in 2020; and 7,169 KWh in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:52:11.115818",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 51
+    },
+    {
+      "section_number": "16",
+      "section_name": "Environment",
+      "chapter_name": "Economy of Morocco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Morocco’s shift towards an environment-conscious approach has generated numerous investment opportunities, primarily in the utility and renewable energy sectors, including increased sales of photovoltaic panels and a surge in the wind turbine market despite rising international prices due to growing demand.",
+        "• To advance sustainable development, Morocco requires technological upgrades such as improvements in automobile technology, enhancement of energy product quality, and expansion of renewable energy-producing plants, alongside government initiatives to promote water conservation and efficiency to combat scarcity.",
+        "• Morocco’s environmental efforts were internationally recognized when the Mohammed VI Foundation for Environment received the National Energy Globe Award in Brussels in 2007.",
+        "• Morocco is considered a model for water management within the MENA region, with ongoing upgrades under the National Wastewater Management Programme aimed at improving wastewater treatment and maximizing efficient water use.",
+        "• Agricultural water use, which accounts for 80% of Morocco’s water resources, is being rationalized through the replacement of traditional irrigation systems with micro-irrigation and drip irrigation networks to enhance water efficiency.",
+        "• As a net energy importer, Morocco launched the National Renewable Energy and Efficiency Plan in February 2008, targeting the development of alternative energy sources to satisfy 15% of domestic energy needs and promote energy-saving methods, with expectations to create over 40,000 jobs and attract more than €4.5 billion in investments by 2020.",
+        "• The National Plan for the Development of Solar Thermal Energy, established in 2001, aimed to install 440,000 solar-powered water heaters by 2012, with 235,000 units completed by that time.",
+        "• In May 2009, the World Bank approved a €121 million loan to support Morocco’s solid-waste management programme, which aims to achieve a 90% waste disposal rate in urban areas by 2021.",
+        "• The Moroccan government is implementing measures to mitigate the environmental impact of tourism on natural resources while promoting ecotourism projects through increased incentives.",
+        "• Since January 2008, hotels demonstrating good environmental practices are eligible to receive the Green Key label, a certification program administered by the Mohammed VI Foundation for the Protection of the Environment.",
+        "• Under a ten-year natural resource protection plan, Morocco annually replants between 40,000 and 50,000 hectares of forests with indigenous palm trees to restore and conserve forested areas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:52:20.953068",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_morocco.json",
+      "original_index": 52
+    }
+  ]
+}

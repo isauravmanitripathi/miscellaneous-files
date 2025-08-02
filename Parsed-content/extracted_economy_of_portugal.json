@@ -1,0 +1,915 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_portugal.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.723800",
+    "total_sections_in_source": 31,
+    "extracted_sections_count": 31,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Portugal is ranked 36th in the World Competitiveness Ranking 2024 by the Swiss institute IMD.",
+        "• In 2020, the European Union (EU) was the primary partner in Portugal’s international trade, receiving 71.4% of Portuguese exports and supplying 74.6% of Portuguese imports.",
+        "• Portugal’s official currency is the euro (€), and the country has been a member of the Eurozone since its inception.",
+        "• The central bank of Portugal is the Banco de Portugal, which is part of the European System of Central Banks.",
+        "• The major stock exchange in Portugal is Euronext Lisbon.",
+        "• Among OECD countries, Portugal has a highly efficient and strong social security system, with social expenditure accounting for approximately 24.6% of GDP.",
+        "• The International Monetary Fund (IMF) forecasts Portugal’s GDP growth at 2% for the year 2025.",
+        "• Portugal’s economic growth has been accompanied by a continuous decline in unemployment, from 13.9% at the end of 2014 to 6.3% in the first quarter of 2019.",
+        "• According to Statistics Portugal, the unemployment rate stood at 6.4% in January 2025.",
+        "• For the third quarter of 2024, Portugal ranked third in Europe for highest GDP growth compared to the same period in 2023, with a growth rate of 1.9%, surpassing the EU and Eurozone average growth rate of 0.9%.",
+        "• In 2023, Portugal’s budget surplus exceeded forecasts by 1 billion euros, achieving a historic surplus of 1.2% of GDP, equivalent to 2,191 million euros, surpassing the expected target of 0.8%.",
+        "• These positive economic indicators represent a reversal from the negative trends caused by the 2008 financial crisis, which led to economic contraction in 2011, 2012, and 2013, and a peak unemployment rate of 17.7% in early 2013.",
+        "• The 2008 crisis resulted in significant domestic challenges, including high public deficits and excessive debt levels.",
+        "• In April 2011, Portugal confirmed a €78 billion financial bailout from the European Union, following similar bailouts for Greece and the Republic of Ireland.",
+        "• The government that took office in June 2011 faced the challenge of stimulating the economy while maintaining the public deficit near the EU average.",
+        "• Portugal hosts several globally recognized companies, including The Navigator Company (a major international paper market player), Sonae Indústria (the world’s largest producer of wood-based panels), and Corticeira Amorim (the global leader in cork production).",
+        "• Other notable Portuguese companies include Conservas Ramirez (the oldest canned food producer), Cimpor (ranked 10th largest cement producer worldwide), and EDP Renováveis (the third largest wind energy producer globally).",
+        "• Jerónimo Martins is a leading consumer products manufacturer and retail market leader in Portugal, Poland, and Colombia.",
+        "• TAP Air Portugal is highly regarded for its safety record and is a leading airline connecting Europe with Africa and Latin America, particularly Brazil.",
+        "• Since the 1960s, education in Portugal has undergone gradual modernization and expansion, achieving recognition for world-standard practices and trends in the 21st century.",
+        "• According to the 2015 Programme for International Student Assessment (PISA), the average Portuguese 15-year-old student scores significantly above the OECD average in reading literacy, mathematics, and science.",
+        "• Portugal is home to several world-class universities and business schools that contribute to producing internationally renowned managers and attract an increasing number of foreign students.",
+        "• Portugal has the highest emigration rate as a proportion of population in the European Union, with more than two million Portuguese people, representing 20% of the population, living abroad."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:42.265211",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Portuguese Colonial Empire",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the Portuguese Empire period, beginning in the 15th century until the Carnation Revolution of 1974, Portugal's economy was primarily based on trade and raw materials sourced from its extensive colonial possessions across Asia, Africa, and South America.",
+        "• Key colonial exports included spices, silk, dyes, porcelain, and gems from Asia; ivory, timber, oil, diamonds, and slaves from Africa; and sugar cane, dyes, woods, and gold from South America, reflecting the empire's vast natural resources.",
+        "• Portugal maintained a transcontinental empire with abundant natural resources and largely unexploited territories, positioning it among the world's most powerful nations during this era.",
+        "• In 1822, Brazil, Portugal’s largest colony, gained independence; however, Portugal retained its African colonies, notably Angola and Mozambique, which experienced reasonable economic growth until the Portuguese withdrawal in 1975.",
+        "• On the eve of the Carnation Revolution (a military coup on 25 April 1974), the Portuguese economy and its overseas territories were growing at rates well above the European average, with rising average family purchasing power and evolving consumption patterns.",
+        "• This economic growth fostered increased investment in capital equipment and consumption expenditure on both durable and nondurable consumer goods.",
+        "• The Estado Novo regime’s economic policy promoted the formation of large business conglomerates, facilitating economic expansion through corporatism.",
+        "• The corporatist policy concentrated much of the Portuguese economy in the hands of several powerful conglomerates, famously known as the \"seven magnificent,\" which operated similarly to South Korean chaebols and Japanese keiretsus and zaibatsus.",
+        "• Prominent conglomerates among the \"seven magnificent\" included those founded and controlled by the Champalimaud, Mello (CUF group), Amorim, and Santos (Jerónimo Martins group) families.",
+        "• The CUF (Companhia União Fabril) group was the largest and most diversified Portuguese conglomerate, at one point the largest industrial group in the Iberian Peninsula and among the five largest in Europe.",
+        "• CUF’s core businesses spanned cement, chemicals, petrochemicals, agrochemicals, textiles, beer, beverages, metallurgy, naval engineering, electrical engineering, insurance, banking, paper, tourism, and mining.",
+        "• CUF’s headquarters and main business activities were based in mainland Portugal, but it also operated branches, plants, and development projects across Portuguese overseas territories, especially in Angola and Mozambique.",
+        "• Medium-sized family companies specialized in textiles (notably in Covilhã and northwest Portugal), ceramics, porcelain, glass, and crystal (in Alcobaça, Caldas da Rainha, and Marinha Grande), engineered wood (SONAE near Porto), canned fish (including some of the world's oldest continuously operating companies in Algarve and northwest), fishing, food and beverage production, tourism, and agriculture/agribusiness.",
+        "• Tourism was well established in Estoril, Cascais, and Sintra (the Portuguese Riviera) and was growing as an international attraction in the Algarve since the 1960s.",
+        "• Agricultural and agribusiness activities were prominent in Ribatejo and Alentejo (Portugal’s breadbasket) and included the notable Cachão Agroindustrial Complex established in Mirandela, Northern Portugal, in 1963.",
+        "• Rural populations remained heavily committed to agrarianism, with many families relying exclusively on agriculture or supplementing incomes through farming, husbandry, and forestry.",
+        "• From the 1920s onward, Portuguese overseas territories exhibited impressive economic growth and development, even during the Portuguese Colonial War (1961–1974), a counterinsurgency conflict against independence guerrillas.",
+        "• Angola and Mozambique, the largest Portuguese Overseas Provinces at the time, maintained continuous economic growth during the colonial war, with booming sectors including oil, coffee, cotton, cashew, coconut, timber, minerals (diamonds), metals (iron and aluminium), banana, citrus, tea, sisal, beer, cement, fish and other sea products, beef, and textiles.",
+        "• Labour unions were prohibited, and no minimum wage policy was enforced during this period.",
+        "• Despite restrictive labour policies, the expanding economy of the 1960s improved living conditions for the Portuguese population and triggered significant social changes, including the rapid incorporation of women into the labour market due to the colonial wars in Africa.",
+        "• Marcelo Caetano, who succeeded António Salazar, promoted continued economic growth and introduced social improvements such as monthly pensions for rural workers who had never contributed to social security.",
+        "• Caetano’s pension reform aimed to enhance equity, reduce fiscal and actuarial imbalances, and improve overall economic efficiency by implementing less labour market-distortive contributions and enabling pension fund savings to increase investments in the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:49.527974",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "1974",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1961 and 2003, the Portuguese population data (in thousands) from FAO 2005 shows a shift from emigration to the arrival of _retornados_, refugees numbering between 500,000 and 1 million following the 1974 Carnation Revolution.",
+        "• The post-Carnation Revolution period was marked by economic chaos and negative growth as industries were nationalized and Portugal suffered the adverse effects of severing ties with its former colonies, leading to an abrupt halt in heavy industry.",
+        "• All major economic sectors—manufacturing, mining, chemical, defense, finance, agriculture, and fishing—experienced severe decline during this period.",
+        "• Portugal transitioned rapidly from having the highest growth rate in Western Europe to the lowest, enduring several years of negative economic growth.",
+        "• This economic downturn was exacerbated by the mass emigration of skilled workers and entrepreneurs due to political intimidation and the financial burden of accommodating thousands of African _retornados_ refugees.",
+        "• By 1973, prior to the Carnation Revolution, Portugal’s economy had experienced significant growth compared to 1961, with total output (GDP at factor cost) increasing by 120% in real terms.",
+        "• The pre-revolution period featured robust average annual growth rates: GDP at 6.9%, industrial production at 9%, private consumption at 6.5%, and gross fixed capital formation at 7.8%.",
+        "• Following the 1974 leftist military coup, the Movimento das Forças Armadas abandoned moderate reformism and democracy, initiating sweeping nationalizations and land expropriations during the _PREC_ period.",
+        "• During _PREC_, extensive powers were granted to the working class under the ideological framework of the dictatorship of the proletariat, which had long-lasting negative effects on Portugal’s economic growth and development.",
+        "• In 1960, Portugal’s per capita GDP was only 38% of the EC-12 average, reflecting its relative economic underdevelopment within Europe.",
+        "• Influenced by a new generation of technocrats with expertise in economics and industrial technology, Salazar’s late economic policy shift toward liberalization and outward orientation raised Portugal’s per capita GDP to 48% of the EC-12 average by 1968.",
+        "• By 1973, on the eve of the revolution, Portugal’s per capita GDP had further increased to 56.4% of the EC-12 average.",
+        "• The turmoil of 1975 caused a decline in per capita GDP to 52.3% of the EC-12 average, marking the lowest point during the revolutionary period.",
+        "• Portugal’s real GDP growth began converging toward the EC average after 1985, with per capita GDP reaching 54.9% of the EC average by 1991, slightly surpassing the level during the worst revolutionary years.",
+        "• Portugal overtook Greece in GDP per capita in 1992 but fell below it again in 1993; this relative position persisted until 2013 when Greece was severely affected by the debt crisis.",
+        "• Portuguese merchandise exports grew at an impressive annual rate of 11% from 1959 to 1973.",
+        "• In 1960, exports were concentrated in a few products: canned fish, raw and manufactured cork, cotton textiles, and wine.",
+        "• By the early 1970s, before the 1974 military coup, Portugal’s export portfolio had diversified significantly to include both consumer and capital goods.",
+        "• Several Portuguese industrial sectors became export-oriented, with over 20% of manufactured output exported in 1973.",
+        "• The services sector’s share of GDP increased by 16 percentage points, from 39% in 1973 to 55.5% in 1990.",
+        "• This growth in services was largely due to the expansion of civil service employment and the rising costs of public administration, alongside tourism growth during the 1980s.",
+        "• The expansion of the services sector occurred at the expense of more sustainable and productive sectors such as manufacturing, exporting, and technology- or capital-intensive industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:43.177598",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "EU membership (1986)",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Portugal became a member of the European Communities in 1986, which contributed to stable economic growth and development primarily through increased trade ties and significant inflows of funds from the European Union aimed at improving the country's infrastructure.",
+        "• Between 1988 and 1991, the number of civil servants in Portugal increased from 485,368 to 509,732, a relatively modest rise compared to the more irrational and unsustainable state employment growth observed until 2005.",
+        "• From 1988 to 1993, under the government cabinets led by Prime Minister Aníbal Cavaco Silva, the Portuguese economy underwent radical changes characterized by a sharp and rapid decrease in the output of tradable goods and a rising importance of the non-tradable goods sector.",
+        "• After experiencing a recession in 1993, Portugal’s economy grew at an average annual rate of 3.3%, which was significantly above the European Union averages but still lagged behind the growth rates prior to the 1974 military coup.",
+        "• To qualify for the Economic and Monetary Union (EMU), Portugal committed to reducing its fiscal deficit and implementing structural reforms, which resulted in exchange rate stability, falling inflation, and declining interest rates after joining the EMU.",
+        "• The reduction in interest rates lowered the cost of public debt and facilitated Portugal’s achievement of fiscal targets during the late 1990s.",
+        "• Portugal qualified for the EMU in 1998 and joined the eurozone alongside 10 other European countries, officially launching the euro currency on 1 January 1999.",
+        "• The national side of Portuguese euro coins featured three different designs created by artist Vitor Manuel Fernandes dos Santos, inspired by the three seals of Portugal’s first king, Dom Afonso Henriques.",
+        "• In 1999, Portugal experienced a low inflation rate of 2.4%, sturdy economic growth, falling interest rates, and low unemployment.",
+        "• Household debt in Portugal expanded rapidly in the late 1990s and early 2000s, prompting advisories from the European Commission, OECD, and other organizations urging the Portuguese government to exercise greater fiscal restraint.",
+        "• Portugal’s public deficit exceeded the European Union’s self-imposed limit of 3% of GNP in 2001, exposing the country to potential EU sanctions or tighter financial supervision.",
+        "• Economic growth slowed in late 2001 and into 2002, making the implementation of fiscal austerity measures more challenging and painful.",
+        "• Portugal made significant progress in raising its standard of living relative to EU partners, with GDP per capita on a purchasing power parity (PPP) basis increasing from 51% of the EU average in 1985 to 78% in early 2002.",
+        "• By 2005, Portugal’s GDP per capita had declined to 72% of the EU average (now including 25 member states), despite seven of these countries having lower GDP per capita than Portugal.",
+        "• Unemployment in Portugal stood at 4.1% at the end of 2001, which was low compared to the EU average at that time.",
+        "• In 2006, Portugal’s GDP growth rate was 1.3%, the lowest in both the European Union and all of Europe.",
+        "• During the 2000s, countries such as the Czech Republic, Malta, and Slovenia surpassed Portugal in GDP per capita.",
+        "• Between 2010 and 2012, Portugal’s GDP per capita (PPP) fell below that of Slovakia in Europe and Seychelles outside Europe.",
+        "• In 2013, Portuguese GDP per capita was estimated to be within plus or minus US$1,000 of the GDP per capita of Greece, Estonia, and Lithuania.",
+        "• Portugal’s GDP per capita declined from just over 80% of the EU 25 average in 1999 to just over 70% in 2007, reflecting poor economic performance.",
+        "• The Economist magazine described Portugal as \"a new sick man of Europe\" in April 2007, highlighting the country’s economic difficulties.",
+        "• From 2002 to 2007, unemployment in Portugal increased by 65%, rising from 270,500 unemployed citizens in 2002 to 448,600 in 2007.",
+        "• In December 2009, the ratings agency Standard and Poor’s downgraded Portugal’s long-term credit rating from \"stable\" to \"negative,\" citing structural economic weaknesses and weak competitiveness that would hinder growth and the country’s ability to improve public finances and reduce debt.",
+        "• Despite economic challenges, Portuguese subsidiaries of multinational companies such as Siemens Portugal, Volkswagen Autoeuropa, Qimonda Portugal (prior to its parent company’s bankruptcy), IKEA, Nestlé Portugal, Microsoft Portugal, Unilever/Jerónimo Martins, and Danone Portugal ranked among the most productive worldwide.",
+        "• Since 1986, many Portuguese companies have expanded internationally, with notable global companies including SONAE, Amorim, Sogrape, EFACEC, Portugal Telecom, Jerónimo Martins, Cimpor, Unicer, Millennium bcp, Lactogal, Sumol + Compal, Delta Cafés, Derovo, Critical Software, Galp Energia, EDP, Grupo José de Mello, Sovena Group, Valouro, Renova, Teixeira Duarte, Soares da Costa, Portucel Soporcel, Simoldes, Iberomoldes, Logoplaste, and TAP Portugal."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:50.383613",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "Portuguese financial crisis (2010–2013)",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Portuguese financial crisis, part of the wider European sovereign debt crisis, began to be noted in early 2010 and was the most severe recession in Portugal since the 1970s, with recovery starting in late 2013.",
+        "• A January 2011 report by the Portuguese newspaper Diário de Notícias revealed that from 1974 to 2010, Portuguese democratic governments encouraged over-expenditure and investment bubbles via unclear public-private partnerships, funding ineffective external consultancy firms, causing slippage in public works, inflated management bonuses, and increased redundant public servants.",
+        "• Portugal's economy suffered for nearly four decades due to risky credit, public debt creation, and mismanaged European structural and cohesion funds; Prime Minister José Sócrates's government failed to foresee or prevent the crisis from 2005 and could not mitigate the near-bankruptcy situation in 2011.",
+        "• The acronym PIIGS, widely used in 2010 by bond analysts and the financial press, referred to the struggling economies of Portugal, Italy, Ireland, Greece, and Spain.",
+        "• The number of Portuguese civil servants rose significantly from 509,732 in 1991 to 727,701 in 2011, contributing to fiscal pressures.",
+        "• Four major factors contributed heavily to the crisis:",
+        "• The financial collapse of Banco Português de Negócios (BPN) due to toxic credits and illegal gains for administrators, leading to its nationalization in November 2008; the nationalization cost the State €3,405 million by 2012, with a €1,803 million impact on public accounts in 2010 alone, equivalent to 1.2% of GDP.",
+        "• The bankruptcy of Banco Privado Português (BPP), dissolved by Banco de Portugal in April 2010, which cost taxpayers €450 million in 2010 through state guarantees.",
+        "• Budgetary slippage in Public–Private Partnerships (PPPs) between 2008 and 2010 amounted to €560.2 million, mainly due to road concession rents exceeding budgets by €425.5 million; in 2011, road concession rent overruns rose by 28% to €197.4 million above budget and by 42.3% to €266.3 million above 2010 forecasts, with total state spending on road concession rents reaching €896.6 million; significant overruns also occurred in health and rail PPP sectors.",
+        "• State-owned companies contracted swaps with potential losses exceeding €3,000 million; in 2013, the government allocated €898 million in the Amending Government Budget to cover settlement costs for these contracts, supporting companies including Lisbon Metro (€548 million), Porto Metro (€315 million), REFER (€20 million; administered at the time by former Finance Minister Maria Luís Albuquerque), and Estradas de Portugal (€15 million).",
+        "• In April 2011, Portugal secured a €78 billion bailout from the International Monetary Fund (IMF) and the European Union (EU), following Greece and Ireland; this bailout was met with calls from senior German policymakers for harsh penalties on aid recipients, fueling social unrest, germanophobia, euroscepticism, and the rise of far-left and far-right parties in Southern Europe, including SYRIZA and Golden Dawn in Greece, and the Five Star Movement and Lega Nord in Italy.",
+        "• Public trust in EU institutions in Portugal declined sharply from 65% in May 2007 to 34% in November 2012, while distrust rose from 24% to 59%; despite this, Portugal's distrust levels were less extreme than Greece (81%) and Spain (72%).",
+        "• In response to EU disillusionment, Portugal began strengthening economic and diplomatic ties with Africa, Brazil, other Latin American countries, China, the USA, Switzerland, and other global regions, reflected in increased investments, foreign trade, and emigration patterns.",
+        "• The three-year EU aid program, including the €78 billion support package, concluded in May 2014; the Portuguese government reaffirmed its commitment to ongoing economic reforms, acknowledging that while the bailout helped stabilize the economy, significant challenges remained."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:53.420221",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "Resumption of Portuguese economic growth (2014–present)",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The year 2014 marked the beginning of the recovery of the Portuguese economy, with steady expansion starting from the third quarter of 2014.",
+        "• By the second quarter of 2015, Portugal registered a GDP growth rate of 0.4% quarterly and 1.5% yearly.",
+        "• The economic recovery was accompanied by a continuous decline in the unemployment rate, which fell to 8.5% in the third quarter of 2017 from a peak of 17% in 2012.",
+        "• The government budget deficit was significantly reduced from 11.2% of GDP in 2010 to 4.8% in 2014.",
+        "• In late June 2017, the International Monetary Fund (IMF) issued an update report highlighting a stronger near-term economic outlook for Portugal, with increases in investments and exports.",
+        "• Due to a budget surplus in 2016, Portugal was no longer subject to the European Union’s Excessive Deficit Procedure.",
+        "• The Portuguese banking system had stabilized by 2017, although challenges remained with non-performing loans and corporate debt; the IMF recommended addressing these issues to attract more private investment.",
+        "• The IMF emphasized that sustained strong growth combined with continued public debt reduction would mitigate vulnerabilities related to high indebtedness, especially as monetary accommodation is reduced.",
+        "• According to the OECD report, by 2021 Portugal’s GDP (PPP) per capita was $36,381, ranking as the 4th lowest among the 19 eurozone members and the 8th lowest among the 27 European Union member-states.",
+        "• Several former economically disadvantaged Communist Bloc countries, now Eastern European EU members, had nearly reached or surpassed Portugal in GDP (PPP) per capita by 2021.",
+        "• In 2021, Portugal’s labour productivity (PPP) was the fifth lowest among the 27 EU member-states, being 35% lower than the EU average.",
+        "• By 2022, Portugal’s labour productivity declined to the fourth lowest position in the EU, with only Bulgaria and Greece scoring lower.",
+        "• Since joining the European Union (then the EEC) in 1986, Portugal has been a net beneficiary of the EU budget.",
+        "• In the fourth quarter of 2024, Portugal recorded the highest GDP growth rate in the EU, with a 1.5% increase compared to the previous quarter, according to Eurostat.",
+        "• Portugal ranked 5th among 27 European countries for quarterly real GDP per capita growth in 2024, with an increase of 0.68%.",
+        "• Portugal achieved the second highest growth in household income in 2024, rising by 6.7%, surpassing the OECD average growth of 0.9%.",
+        "• Data published in January 2024 by Banco de Portugal, the country’s central bank, showed a declining debt-to-GDP ratio, with total net debt vis-à-vis the rest of the world decreasing from 85.4% of GDP in June 2023 to 82.7% in September 2023.",
+        "• Portugal’s budget surplus for 2023 exceeded forecasts by 1 billion euros, reaching a historic surplus of 1.2% of GDP, surpassing the target of 0.8%, which was expected to be 2,191 million euros.",
+        "• As of the fourth quarter of 2024, Portugal ranked 6th among EU countries for the highest gold reserves by value in euros, holding 382.66 tonnes of gold valued at nearly 35 billion euros."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:48.295558",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1",
+      "section_name": "Data",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economic data for Portugal from 1980 to 2024 includes key indicators such as GDP in billion US$ PPP and nominal terms, GDP per capita in US$ PPP and nominal terms, real GDP growth rate, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, Portugal's GDP was 63.5 billion US$ PPP with a GDP per capita of 6,503.6 US$ PPP; nominal GDP was 32.6 billion US$ with a nominal GDP per capita of 3,338.8 US$; real GDP growth was 6.7%, inflation rate 5.9%, unemployment 7.8%, and government debt data was not available.",
+        "• Throughout the 1980s, Portugal experienced fluctuating GDP growth rates, with a low of -1.0% in 1984 and a high of 7.6% in 1987; inflation rates were high early in the decade, peaking at 29.3% in 1984, then gradually declining to 9.4% by 1987.",
+        "• Unemployment rates during the 1980s ranged between 5.1% and 10.5%, with government debt data unavailable for this period.",
+        "• In 1990, Portugal's GDP reached 138.5 billion US$ PPP and GDP per capita 13,870.2 US$ PPP; nominal GDP was 79.4 billion US$ with a nominal GDP per capita of 7,957.3 US$; real GDP growth was 7.9%, inflation 13.4%, unemployment 4.2%, and government debt was 60.2% of GDP.",
+        "• From 1991 to 1999, Portugal's economy showed steady growth with GDP increasing from 148.0 billion US$ PPP to 214.8 billion US$ PPP and GDP per capita rising from 14,856.7 US$ PPP to 21,021.2 US$ PPP; real GDP growth rates fluctuated between -0.7% (1993) and 7.9% (1990), inflation rates decreased to below 5% from 1994 onwards, unemployment rates declined from 5.1% to 5.2%, and government debt stabilized around 55-63% of GDP.",
+        "• The early 2000s saw slower growth and some economic contraction, with real GDP growth rates ranging from -0.9% in 2003 to 3.8% in 2000; inflation remained low, unemployment increased slightly to 8.3% by 2005, and government debt rose to 72.2% of GDP in 2005.",
+        "• Between 2006 and 2008, GDP in PPP terms increased from 279.7 billion US$ to 301.1 billion US$, with GDP per capita rising from 26,582.7 US$ PPP to 28,520.1 US$ PPP; real GDP growth rates were positive but modest (0.3% in 2008), inflation rates remained low (around 2.4-3.0%), unemployment hovered around 8.3%, and government debt increased to 75.6% of GDP.",
+        "• The global financial crisis impacted Portugal significantly in 2009, with real GDP contracting by 3.1%, inflation turning negative at -0.9%, unemployment rising to 10.2%, and government debt escalating to 87.8% of GDP.",
+        "• From 2010 to 2014, Portugal experienced economic volatility with real GDP growth rates fluctuating between -4.1% in 2012 and 1.8% in 2004; inflation rates varied from -0.2% to 3.6%, unemployment peaked at 17.2% in 2013, and government debt surged to 132.5% of GDP by 2014.",
+        "• Between 2015 and 2019, Portugal's economy recovered with GDP in PPP terms growing from 313.6 billion US$ to 389.5 billion US$, GDP per capita increasing from 30,207.1 US$ PPP to 37,616.2 US$ PPP, real GDP growth rates averaging around 2.7%, inflation rates remaining low (0.3% to 1.6%), unemployment decreasing significantly from 12.9% to 6.6%, and government debt declining from 131.0% to 116.1% of GDP.",
+        "• The COVID-19 pandemic caused a sharp economic contraction in 2020, with real GDP shrinking by 8.2%, inflation slightly negative at -0.1%, unemployment increasing to 7.1%, and government debt rising sharply to 134.1% of GDP; GDP in PPP terms fell to 370.4 billion US$ and GDP per capita to 35,662.8 US$ PPP.",
+        "• In 2021 and 2022, Portugal's economy rebounded strongly with GDP in PPP terms reaching 402.7 billion US$ and 461.5 billion US$ respectively; GDP per capita rose to 38,690.8 US$ PPP in 2021 and 44,085.7 US$ PPP in 2022; real GDP growth was 5.6% in 2021 and 7.0% in 2022; inflation increased to 8.1% in 2022; unemployment rates declined to 6.7% in 2021 and 6.2% in 2022; government debt decreased to 123.9% of GDP in 2021 and 111.2% in 2022.",
+        "• For 2023 and 2024, GDP in PPP terms is estimated at 490.6 billion US$ and 512.2 billion US$ respectively, with GDP per capita projected at 46,381.4 US$ PPP in 2023 and 47,996.7 US$ PPP in 2024; real GDP growth is forecasted at 2.6% in 2023 and 1.9% in 2024; inflation rates are expected to moderate to 5.3% in 2023 and 2.7% in 2024; unemployment rates are projected at 6.6% in 2023 and 6.5% in 2024; government debt is forecasted to decline further to 97.7% of GDP in 2023 and 94.9% in 2024.",
+        "• IMF staff estimates for 2025 to 2030 (in italics) predict continued economic growth with GDP in PPP terms rising from 536.1 billion US$ in 2025 to 640.1 billion US$ in 2030; GDP per capita is expected to increase from 50,037.2 US$ PPP in 2025 to 60,444.4 US$ PPP in 2030.",
+        "• Real GDP growth rates for 2025-2030 are projected to range between 1.5% and 2.0%, inflation rates are forecasted to remain low between 1.9% and 2.1%, unemployment rates are expected to decline gradually from 6.4% in 2025 to 6.2% from 2027 onwards, and government debt as a percentage of GDP is projected to decrease steadily from 91.8% in 2025 to 75.8% in 2030."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:58.747530",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Government expenditure by function",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, Eurostat reported the General Government expenditure by main function in Portugal as a percentage of Total Expenditure, with Social Protection at 39.7%, Health at 16.2%, General Public Services at 13.0%, Economic Affairs at 11.0%, Education at 9.8%, Public Order and Safety at 3.7%, Recreation, Culture and Religion at 2.1%, Defence at 1.7%, Environmental Protection at 1.7%, and Housing and Community Amenities at 1.2%.",
+        "• These figures were compared to the Eurozone averages: Social Protection 39.8%, Health 14.9%, General Public Services 12.1%, Economic Affairs 11.5%, Education 9.2%, Public Order and Safety 3.4%, Recreation, Culture and Religion 2.2%, Defence 2.5%, Environmental Protection 1.7%, and Housing and Community Amenities 2.0%.",
+        "• The EU averages for the same functions were: Social Protection 39.3%, Health 15.5%, General Public Services 12.0%, Economic Affairs 11.8%, Education 9.5%, Public Order and Safety 3.4%, Recreation, Culture and Religion 2.3%, Defence 2.6%, Environmental Protection 1.6%, and Housing and Community Amenities 2.0%.",
+        "• Eurostat also provided data for General Government expenditure by three main functions as a percentage of GDP in 2022: Portugal spent 17.5% on Social Protection, 7.1% on Health, and 5.7% on General Public Services.",
+        "• The Eurozone averages for these GDP percentages were: Social Protection 20.0%, Health 7.9%, and General Public Services 6.1%.",
+        "• The EU averages for the same GDP percentages were: Social Protection 19.4%, Health 7.6%, and General Public Services 5.9%.",
+        "• The Social Protection function includes expenditures on sickness and disability, old age, survivors, family and children, unemployment, housing, research and development (R&D), social exclusion, social protection, and unspecified items.",
+        "• General Public Services cover executive and legislative organs, financial and fiscal affairs, external affairs, foreign economic aid, basic research, R&D related to general public services, public debt services, and transfers between different government levels.",
+        "• Economic Affairs encompass general economic, labor and commercial affairs, agriculture, forestry, fishing and hunting, fuel and energy, mining, manufacturing and construction, transport, communication, other industries, and related R&D.",
+        "• Health expenditures include medical products, appliances and equipment, outpatient services, hospital and public health services, and R&D related to health.",
+        "• Education spending covers pre-primary, primary, secondary and tertiary education, post-secondary non-tertiary education, education not definable by level, subsidiary services to education, and R&D.",
+        "• Public Order and Safety includes police, fire-protection services, law courts, prisons, and R&D related to public order and safety.",
+        "• Defence expenditures involve military and civil defense, foreign military aid, and R&D related to defense.",
+        "• Recreation, Culture and Religion cover recreational and sporting activities, cultural services, broadcasting and publishing services, religious and other community services, and R&D.",
+        "• Housing and Community Amenities include housing development, community development, water supply, street lighting, and related R&D.",
+        "• Environmental Protection consists of waste and water waste management, pollution abatement, protection of biodiversity and landscape, and related R&D.",
+        "• In 2022, Portugal did not exhibit overspending on social risk coverage functions such as Social Protection and Health.",
+        "• The slightly elevated spending on Education in Portugal is attributed to efforts to close the qualification gap between Portuguese citizens and their European counterparts.",
+        "• Significant progress in education is evidenced by the reduction of the school dropout rate from 43.6% in 2000 to 8.0% in 2023, with Portugal moving from top dropout rates in 2000 to 13th place in 2023, below the EU average.",
+        "• Potential overspending was identified in General Public Services, particularly related to employee compensations, intermediate and final consumptions in legislative and executive organs, financial and fiscal affairs, and external affairs.",
+        "• Some sub-functions within Economic Affairs showed probable overspending due to intensive public works, notably focused on new motorways, which had limited multiplier effects.",
+        "• Public Order and Safety and Defence functions also showed higher compensations to employees and consumption expenditures compared to the EU average.",
+        "• Despite higher spending in Public Order and Safety and Defence, Portugal’s role in international conflicts has been minimal, and the crime rate remains moderate.",
+        "• The purchase of two submarines sparked controversy regarding the necessity and justification of such defense expenditures.",
+        "• Within the Health function, outpatient services expenditures were significantly higher than the EU average, contrasting with very low hospital inpatient service expenses reported in 2011.",
+        "• Controlling fiscal deficits has been challenging in Portugal, partly due to interest payments on state loans which remained stable at around 3.0% of GDP until 2010 but surged to 4.2% in 2011."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:00.335431",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Evolution of the number of public employees in Portugal (1968–present)",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The number of public employees in Portugal was 196,755 in 1968, serving as the baseline for subsequent comparisons.",
+        "• By 1979, the public employee population had increased to 383,103, marking a significant growth of +94.7% since 1968.",
+        "• In 1983, the number rose further to 435,795, representing a +13.8% increase from 1979.",
+        "• The upward trend continued in 1986 with 464,321 public employees, a +6.5% increase from 1983; however, this data excludes military and militarized personnel and public employees in the Azores and Madeira islands, based on internal survey estimates.",
+        "• In 1988, the public workforce grew to 485,368, a +4.5% increase from 1986, with the same exclusions applying.",
+        "• By 1991, the number reached 509,732, an increase of +5.0% from 1988, again excluding military and militarized personnel and employees in the Azores and Madeira.",
+        "• A substantial rise occurred by 1996, with 614,256 public employees recorded as of 1 October, marking a +20.5% increase from 1991.",
+        "• The upward trend persisted through 1999, reaching 701,911 public employees, a +14.3% increase from 1996.",
+        "• In 2005, the number of public employees was 731,485, a +4.2% increase from 1999.",
+        "• A slight decline was observed in 2006, with 726,523 public employees, representing a −0.7% decrease from 2005.",
+        "• The downward trend continued in 2007, with 708,507 public employees, a −2.5% decrease from 2006.",
+        "• In 2008, the number further decreased to 692,279, a −2.3% decline from 2007.",
+        "• The decline persisted in 2009, with 675,048 public employees, a −2.5% decrease from 2008.",
+        "• By 2010, the estimated number of public employees was 663,167, reflecting a −1.8% decrease from 2009; this estimate was made in October 2010 for the State Budget 2011.",
+        "• A notable increase occurred in 2011, with 727,785 public employees, a +9.7% rise from 2010.",
+        "• The number decreased again in 2012 to 699,901, a −3.8% decline from 2011.",
+        "• In 2013, the public employee count dropped to 674,927, a −3.6% decrease from 2012.",
+        "• The downward trend continued in 2014 with 656,376 public employees, a −2.7% decrease from 2013.",
+        "• A slight increase was recorded in 2015, with 659,144 public employees, a +0.4% rise from 2014.",
+        "• The number continued to grow modestly in 2016, reaching 664,168, a +0.8% increase from 2015.",
+        "• In 2017, the public employee population rose to 669,321, marking another +0.8% increase from 2016.",
+        "• The upward trend accelerated in 2018 with 683,165 public employees, a +2.1% increase from 2017.",
+        "• By 2019, the number reached 699,031, a +2.3% increase from 2018.",
+        "• In 2020, public employees numbered 718,940, reflecting a +2.8% increase from 2019.",
+        "• The growth continued in 2021 with 733,896 public employees, a +2.1% increase from 2020.",
+        "• In 2022, the number rose to 742,260, a +1.1% increase from 2021.",
+        "• By 2023, public employees totaled 745,406, a +0.4% increase from 2022.",
+        "• The latest data for 2024 indicates 753,850 public employees, a +1.1% increase from 2023.",
+        "• All data refer to the number of public employees as of 31 December of the respective year, except for 1996, which refers to 1 October.",
+        "• Data for the years 1986, 1988, and 1991 were derived from internal surveys and exclude military and militarized personnel as well as public employees in the Azores and Madeira islands.",
+        "• The 2010 figure is an estimate made in October 2010 for the preparation of the State Budget 2011.",
+        "• In 2019, public employment accounted for 13.7% of the total labor force in Portugal, which is notably lower than the OECD average of 17.9% for general government employment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:06.629832",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 32
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2",
+      "section_name": "Regional economy",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, the Greater Lisbon region held the highest GDP among Portugal's NUTS II regions, with a total of €84,363,398,000, representing 31.6% of the national GDP, and a GDP per capita of €39,942, which is 158.0% of the Portugal average.",
+        "• The North Region ranked second in GDP with €78,659,537,000, accounting for 29.4% of Portugal's total GDP, and a GDP per capita of €21,509, equivalent to 85.1% of the national average.",
+        "• The Centro Region contributed €36,631,120,000 to the national GDP, making up 13.7% of the total, with a GDP per capita of €21,753, or 86.1% of the Portugal average.",
+        "• The West and Tagus Valley region generated €16,560,191,000 in GDP, representing 6.2% of the country's GDP, and had a GDP per capita of €19,603, which is 77.6% of the national average.",
+        "• The Setúbal Peninsula's GDP was €14,154,110,000 in 2023, comprising 5.3% of Portugal's GDP, with a GDP per capita of €17,069, corresponding to 67.5% of the Portugal average.",
+        "• The Algarve Region produced €13,143,033,000 in GDP, accounting for 4.9% of the national total, and had a GDP per capita of €27,303, which is 108.0% of the Portugal average.",
+        "• The Alentejo Region contributed €11,326,559,000 to Portugal's GDP, representing 4.2% of the total, with a GDP per capita of €23,910, or 94.6% of the national average.",
+        "• The Autonomous Region of Madeira recorded a GDP of €6,988,630,000, making up 2.6% of the country's GDP, and had a GDP per capita of €27,369, equivalent to 108.3% of the Portugal average.",
+        "• The Autonomous Region of the Azores had a GDP of €5,376,008,000 in 2023, accounting for 2.0% of Portugal's total GDP, with a GDP per capita of €22,346, which is 88.4% of the national average.",
+        "• Overall, Portugal's total GDP in 2023 was €267,384,332,000, with a national average GDP per capita of €25,277, set as 100.0% for comparative purposes across regions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:49:59.254581",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3",
+      "section_name": "Employment and wages",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the fourth quarter of 2024, Portugal's unemployment rate stood at 6.7%.",
+        "• The unemployment rate in Portugal has been continuously decreasing since the end of 2013, reversing the upward trend of unemployment observed since the 2000s.",
+        "• The negative trend in unemployment was exacerbated by the 2008 financial crisis, which caused the unemployment rate to peak at a record 17.7% in early 2013.",
+        "• The reduction in unemployment is linked to the expansion of the Portuguese economy starting in the third quarter of 2014, following economic contractions in 2011, 2012, and 2013.",
+        "• Portugal registered a yearly GDP growth rate of 1.5% in the second quarter of 2015, contributing to improved employment figures.",
+        "• Emigration played a significant role in lowering unemployment, particularly in 2013 when the labor force decreased by 1.6% during the first nine months of the year due to people moving abroad for work.",
+        "• Additional factors influencing the decline in unemployment include the methodology used by Statistics Portugal, which excludes individuals engaged in internships or professional training from the unemployed category.",
+        "• The prior substantial job losses, growth in tourism, and revival of the agricultural sector, which created many jobs, also contributed to the decrease in unemployment.",
+        "• Despite being a developed and high-income country, Portugal has the lowest GDP per capita in Western Europe.",
+        "• According to Eurostat data from 2018, Portugal had the 9th lowest purchasing power among the 27 European Union member states.",
+        "• Maria da Conceição Cerdeira, co-author of a research study by the Lisbon School of Economics and Management (ISEG), noted that Portuguese workers generally experience lower work intensity and psychological pressure compared to Northern Europe and North America.",
+        "• However, lower work pressure does not equate to better job quality; a 2007 European survey of workers, which informed a 2009 study, ranked Portugal as the 5th European country with the lowest quality of work.",
+        "• A Harvard Business School study comparing nine EU member countries found that Portugal had the second worst managers, ranking just above Greece and below Ireland, Poland, Italy, the UK, France, Germany, and Sweden.",
+        "• In the first quarter of 2013, Portugal's unemployment rate reached a new record of 17.8%, up from 16.9% in the previous quarter, with government forecasts predicting an 18.5% rate in 2014.",
+        "• Since 2011, when the Troika bailout program began in Portugal, approximately 300,000 to 360,000 people, many of them qualified young individuals, have emigrated from the country.",
+        "• In 2014, the unemployment rate was 13.9%, with around 70,000 jobs created that year.",
+        "• Concurrently, 59,000 people became unavailable for work due to prolonged unemployment or emigration.",
+        "• The number of part-time employees considered under-employed—those wishing to work more hours daily—was 251,700 people in 2014.",
+        "• Additionally, 240,300 people were classified as inactive, meaning they were neither working nor studying.",
+        "• The Portuguese Central Bank reported that one-third of the jobs created were internships facilitated by the IEFP public institute."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:04.073385",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Wages",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The minimum monthly wage in Portugal is set to be 870 euros starting from January 1, 2025, an increase from the previous minimum wage of 820 euros.",
+        "• This current minimum wage was established in December 2024 with a strategic objective to reach at least 1000 euros by the year 2028.",
+        "• Since 2015, the minimum wage in Portugal has been on a consistent upward trajectory, beginning at 505 euros in that year.",
+        "• The average gross wage in Portugal is 1525 euros (equivalent to approximately US$1648), which is comparable to the average wages in the Czech Republic and Estonia.",
+        "• The average net wage in Portugal stands at 1270 euros (approximately US$1372).",
+        "• Wages in Portugal are paid 14 times annually, comprising twelve monthly salary payments plus one additional payment as a Christmas bonus and another as a holiday bonus.",
+        "• According to Article 273 of the Portuguese Labor Code, the minimum wage is determined through dialogue and negotiations within the Permanent Social Conciliation Commission, which includes representatives from the Government, Employers' Confederations, and Trade Union Confederations.",
+        "• The following table summarizes the minimum and average monthly wages (after income taxes) for employees working for others from 2015 to the first quarter of 2025:",
+        "• 2015: Minimum wage 505 euros; Average wage 834 euros",
+        "• 2016: Minimum wage 530 euros; Average wage 846 euros",
+        "• 2017: Minimum wage 557 euros; Average wage 865 euros",
+        "• 2018: Minimum wage 580 euros; Average wage 896 euros",
+        "• 2019: Minimum wage 600 euros; Average wage 912 euros",
+        "• 2020: Minimum wage 635 euros; Average wage 968 euros",
+        "• 2021: Minimum wage 665 euros; Average wage 1,011 euros",
+        "• 2022: Minimum wage 705 euros; Average wage 1,019 euros",
+        "• 2023: Minimum wage 760 euros; Average wage 1,054 euros",
+        "• 2024: Minimum wage 820 euros; Average wage 1,184 euros",
+        "• 2025 (Q1): Minimum wage 870 euros; Average wage 1,203 euros"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:00.995646",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Graduate unemployment",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, approximately 8% of individuals holding a degree in Portugal were unemployed, with a significantly larger proportion experiencing underemployment, indicating a mismatch between qualifications and job market demands.",
+        "• The high graduate unemployment and underemployment rates were directly linked to a general lack of employability and inadequate preparation of students for the workplace, a problem prevalent across various courses and fields offered by certain higher education institutions or departments.",
+        "• To address these issues, Portugal implemented the Bologna process alongside other educational reforms, including the compulsory closure of numerous courses, departments, colleges, and private universities after 2005, due to concerns over insufficient academic rigor and low teaching standards.",
+        "• In 2007, state agencies investigated several major private universities, resulting in the immediate closure of two institutions, reflecting governmental efforts to improve higher education quality.",
+        "• Concurrently, multiple degree programs within the public higher education system were discontinued because of poor quality, low student demand, or limited interest from potential employers, signaling a restructuring of academic offerings to better align with labor market needs.",
+        "• Since 2007, secondary and post-secondary non-higher education, specifically intermediate education (_ensino médio_) encompassing technical and vocational training, has undergone redevelopment under the policies of the XVII Constitutional Government, led by Prime Minister José Sócrates, aiming to enhance workforce readiness.",
+        "• By March 2014, the graduate unemployment rate among Portuguese youth aged 15 to 24 had risen to over 35.4%, marking an increase compared to January and February of the same year, highlighting worsening employment prospects for recent graduates.",
+        "• In response to the fragile economic situation and uncertain future, 57% of Portuguese youth expressed intentions to emigrate to other countries, reflecting significant concerns about domestic job opportunities and economic stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:03.393591",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Poverty prevention",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Poverty and inequality have been persistent social issues in Portugal, addressed through various social policy measures aimed at mitigation.",
+        "• The European economic crisis significantly increased the number of Portuguese households living below the poverty line, with youth being the most affected demographic due to high unemployment rates.",
+        "• The global economic crisis is identified as the primary driver of income inequalities in Portugal, which in turn depresses market demand and hampers economic growth.",
+        "• Portugal’s minimum wage policy is designed to reduce extreme poverty and income inequality, thereby stimulating demand and promoting long-term economic stability.",
+        "• After a four-year freeze, Portugal increased its minimum wage by 4% in 2014, following negotiations between labor organizations and employers.",
+        "• The 2014 minimum wage increase was feasible only after substantial economic recovery and is intended to enhance the sustainability of the Portuguese economy while aiming to reduce poverty.",
+        "• Portugal employs tax and transfer payment systems to promote income equality between high-income and low-income earners.",
+        "• Income taxes in Portugal exhibit significant progressive characteristics, ensuring that high-income earners pay substantially higher taxes than low-income earners.",
+        "• High-income earners pay approximately three times the amount of taxes compared to low-income earners, facilitating redistribution and reducing income inequality.",
+        "• The progressive tax policy enables low-income earners to have greater purchasing power, thus stimulating demand for goods and services within the national economy.",
+        "• The Guaranteed Minimum Income (GMI) was established by Act no. 19-A/96 on 29 June as a means-tested social policy to ensure a minimum income and financial stability for Portuguese citizens.",
+        "• The GMI is regarded as a right for Portuguese people and is designed to be independent of market fluctuations.",
+        "• The GMI program targets low-income earners aged over 18, providing them with social and economic autonomy to encourage active participation in Portugal’s economic growth.",
+        "• A 2001 report indicated that 32% of beneficiaries previously approved for GMI were discontinued after their income rose above the minimum threshold, demonstrating the policy’s effectiveness.",
+        "• The GMI policy measures have been effective in eradicating poverty and enhancing income equality in Portugal over the past decade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:06.759999",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4",
+      "section_name": "Economy by sector",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Portugal's natural resources include iron ore (Fe), pyrite (PY), tin (Sn), tungsten (W), uranium (U), coal (C), and lignite (L).",
+        "• The tertiary sector is currently the most significant part of the Portuguese economy, accounting for 75.8% of the gross value added (GVA).",
+        "• The tertiary sector employs 68.1% of Portugal's working population, highlighting its dominant role in employment.",
+        "• The industry sector is the second most important economic sector in Portugal, contributing 21.9% to the GVA.",
+        "• The industry sector provides employment for 24.5% of the Portuguese workforce.",
+        "• Fisheries and agriculture, which together comprised 25% of Portugal's economy in 1960, have experienced a substantial decline in economic importance.",
+        "• Currently, fisheries and agriculture represent only 2.4% of the gross value added (GVA) in Portugal.",
+        "• Despite their reduced economic contribution, fisheries and agriculture still employ 7.5% of the working population in Portugal."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:04.990146",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Natural resources",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Forests constitute the primary natural resource of Portugal, encompassing approximately 34% of the national territory.",
+        "• The predominant forest types in Portugal include pine trees, covering an area of 13,500 square kilometers.",
+        "• Cork oaks represent a significant forest resource, occupying 6,800 square kilometers of Portuguese land.",
+        "• Holm oaks are also notable, with a forest area of 5,340 square kilometers.",
+        "• Eucalyptus forests cover 2,430 square kilometers, contributing to the country's forestry resources.",
+        "• Portugal is a leading global producer of cork, accounting for half of the world's cork production.",
+        "• The country possesses important mining resources, notably lithium, tungsten, tin, and uranium, which contribute to its mineral wealth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:04.991012",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After a prolonged period of decline, agriculture in Portugal experienced a notable resurgence triggered involuntarily by the Portuguese debt crisis, during which many highly qualified individuals lost their tertiary sector jobs and turned to developing agricultural businesses despite limited or no prior experience in agriculture.",
+        "• Although agriculture currently constitutes only a small percentage of Portugal’s overall economy, a significant portion of continental Portugal’s land is devoted to agricultural activities.",
+        "• The southern region of Portugal has developed extensive monocultures primarily consisting of cereals and olive trees, while the Douro Valley is predominantly dedicated to vineyards.",
+        "• Key agricultural land uses in Portugal include olive trees covering approximately 4,000 km² (1,545 sq mi), vineyards spanning about 3,750 km² (1,450 sq mi), wheat cultivated on 3,000 km² (1,160 sq mi), and maize grown on 2,680 km² (1,035 sq mi).",
+        "• Portuguese wine and olive oil are highly regarded domestically for their quality, which has resulted in minimal impact from external competition, even when foreign products are offered at significantly lower prices.",
+        "• Portugal has a long-standing tradition as a wine producer and exporter dating back to the dawn of Western civilization, with Port Wine, Vinho Verde, and Madeira Wine recognized as the country’s leading wine exports.",
+        "• The country is also known for producing high-quality fruits, including Algarve oranges, cherries with large-scale production in the Cova da Beira and Alto Alentejo regions, the Oeste region’s pêra rocha (a distinctive pear variety), and Alcobaça’s apples known as maçã de Alcobaça.",
+        "• In recent years, niche crops such as blueberries and raspberries have experienced substantial growth in production, primarily aimed at export markets.",
+        "• Additional agricultural exports from Portugal include horticultural and floricultural products, beet sugar, sunflower oil, cork, and tobacco."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:07.555124",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Fisheries",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Portugal's Exclusive Economic Zone (EEZ) covers an area of 1,727,408 km², making it the 3rd largest EEZ in the European Union and the 20th largest in the world.",
+        "• The Portuguese fishing industry is large and diversified, with fishing vessels classified based on their operational area into local fishing vessels, coastal fishing vessels, and long-distance fishing vessels.",
+        "• In 2004, the local fishing fleet consisted mainly of small traditional vessels under 5 gross tonnage (GT), comprising 87% of the total fishing fleet but only 8% of the total tonnage.",
+        "• Local vessels are typically polyvalent, equipped to use multiple fishing methods such as hooks, gill nets, and traps, allowing them to target various species.",
+        "• Despite low physical output, local fleet vessels achieve reasonable income due to the high commercial value of species caught, including octopus, black scabbardfish, conger, pouting, hake, and anglerfish.",
+        "• Purse seine fishing is included in the local fleet and targets primarily sardine on the mainland, with this fishery representing 37% of total landings by weight.",
+        "• The coastal fishing fleet, although only 13% of the total number of vessels, accounts for the largest gross tonnage at 93%, operating farther from the coast and sometimes beyond Portugal's EEZ.",
+        "• Coastal fishing vessels include polyvalent, purse seine, and trawl fishing vessels, with trawlers operating exclusively on the mainland continental shelf targeting demersal species such as horse mackerel, blue whiting, octopus, and crustaceans.",
+        "• The crustacean trawling fishery focuses on Norway lobster, red shrimp, and deepwater rose shrimp.",
+        "• In 2004, the most important fish species landed in Portugal by weight were sardine (37%), mackerel (9%), and horse mackerel (8%).",
+        "• By value in 2004, sardine accounted for 13%, mackerel 1%, and horse mackerel 8% of total landings.",
+        "• Molluscs represented 12% of total landings by weight but contributed 22% of the total value of landings in 2004.",
+        "• Crustaceans made up only 0.6% of total landings by weight but accounted for 5% of the total value in 2004."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:12.664573",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Oeiras Municipality, located in the Lisbon metropolitan area, hosts the headquarters of several Portuguese subsidiaries of major multinational companies.",
+        "• The Portuguese industry experienced significant development after the Second World War, reaching its peak in 1974 when it accounted for nearly 35% of Portugal’s GDP and exhibited a high degree of diversification.",
+        "• Currently, the major industries in Portugal encompass machinery, electrical and electronics industries, automotive and shipbuilding industries, injection moulding, plastics and ceramics industries, textile, footwear and leather industries, oil refinery, petrochemistry and cement industries, beverages and food industries, as well as furniture, pulp and paper, wood, and cork industries.",
+        "• Automotive and other mechanical industries, including the bicycle industry, are primarily concentrated in and around the cities of Setúbal, Porto, Lisbon, Aveiro, Braga, and Mangualde.",
+        "• Coimbra and Oeiras have emerging technology-based industries, notably in pharmaceuticals and software development.",
+        "• Sines hosts the largest oil refinery in Portugal and serves as a major petrochemical center, in addition to being the busiest port in the country.",
+        "• Maia contains one of the largest industrial parks in Portugal, featuring prominent wood processing and food industries.",
+        "• Figueira da Foz and Setúbal are significant centers for the pulp and paper industry.",
+        "• Marinha Grande is recognized as the most reputed glass-making center in Portugal.",
+        "• The cities of Leiria, Oliveira de Azeméis, Vale de Cambra, and Viseu have important light industries, including injection moulding and plastics manufacturing.",
+        "• Viana do Castelo and Setúbal are key centers for shipbuilding and ship repair industries.",
+        "• Modern, non-traditional technology-based industries such as aerospace, biotechnology, and information technology have developed in various locations throughout Portugal.",
+        "• The main centers of the Portuguese aerospace industry are Alverca, Covilhã, Évora, and Ponte de Sor, with leadership from the local branch of the Brazilian company Embraer and by OGMA.",
+        "• Since the early 21st century, numerous major biotechnology and information technology industries have been established, primarily concentrated in the metropolitan areas of Lisbon, Porto, Braga, Coimbra, and Aveiro."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:13.111031",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "4.5",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Serpa solar power plant is recognized as one of the largest solar power facilities globally, highlighting Portugal’s investment in solar energy infrastructure.",
+        "• Since the late 1990s, when wind power was virtually nonexistent in Portugal, the country has ascended to become the 6th largest producer of wind energy worldwide.",
+        "• Portuguese companies, notably the largest energy company EDP, alongside government support, have heavily invested in renewable energy sources beyond traditional hydroelectric power since the late 1990s.",
+        "• By 2010, renewable energy accounted for 52% of the total energy produced in Portugal, indicating significant progress in the country’s renewable energy sector.",
+        "• In 2013, renewable energy production in Portugal increased to 61.7% of total energy, distributed as 30.4% hydroelectric, 24.1% wind, 5.2% biomass, 0.9% solar energy, and 1.1% from other renewable sources, particularly geothermal energy in the Azores.",
+        "• Portugal’s renewable energy strategy in 2013 reduced its energy imports to only 5%, demonstrating increased energy self-sufficiency.",
+        "• Despite progress in renewables, fossil fuels remained responsible for 38.3% of the energy produced in 2013, although the trend was toward reduction.",
+        "• The rise in clean energy production in 2013 resulted in savings of 806 million Euros by reducing fossil fuel imports and CO2 emission license costs.",
+        "• In May 2016, Portugal achieved a global milestone by becoming the second country worldwide to cover all its energy consumption solely with renewable energy for four consecutive days.",
+        "• Portugal abandoned plans to develop nuclear power plants in the 1970s and has since chosen not to invest in nuclear energy, resulting in no nuclear power plants within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:11.759346",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "4.6",
+      "section_name": "Services",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The tertiary sector in Portugal has expanded to produce 74.4% of the country’s GDP and employs 65.9% of the working population, indicating its dominant role in the national economy.",
+        "• The trade sector within the tertiary industry exhibits the most significant growth rates, driven by the adoption of modern distribution methods, improved transport infrastructure, and advancements in telecommunications.",
+        "• Financial tertiary companies in Portugal have experienced increased efficiency and growth as a result of privatization initiatives.",
+        "• Tourism is a major contributor to Portugal’s economy, accounting for 16.5% of GDP by the year 2023.",
+        "• In 2023, Portugal received 26.5 million foreign tourists, and when combined with domestic tourists, the total number of tourists reached approximately 47 million.",
+        "• Several large Portuguese service sector companies have pursued international expansion, notably Jerónimo Martins, a retailer that operates the largest supermarket chain in Poland and is also investing in the Colombian market.",
+        "• TAP Portugal, the national airline, is a key player in international transit traffic between Europe, Africa, and Latin America (especially Brazil), and is recognized for its strong safety record.",
+        "• The Vasco da Gama Mall in Lisbon is an example of commercial infrastructure supporting the growth of the services sector in Portugal."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:14.235897",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "4.7",
+      "section_name": "Companies",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the sector with the highest number of companies registered in Portugal was the Services sector, comprising 224,004 companies.",
+        "• The Retail Trade sector was the second largest in terms of company registrations in 2022, with 99,596 companies.",
+        "• The Finance, Insurance, and Real Estate sector ranked third in 2022, with 66,581 companies registered.",
+        "• As of 2023, Portugal had a total of 1,526,926 active companies across all sectors.",
+        "• The number of active companies in Portugal in 2023 represented a 6.3% increase compared to the previous year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:09.789041",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "5",
+      "section_name": "Financial market",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The major stock exchange in the Portuguese financial system is Euronext Lisbon, which is part of Euronext, a major pan-European group of stock exchanges.",
+        "• Euronext Lisbon is supervised and regulated by the Portuguese Securities Market Commission.",
+        "• The PSI-20 is Portugal's most selective and widely recognized stock index.",
+        "• Portugal's central bank is the Banco de Portugal, which is an integral part of the European System of Central Banks.",
+        "• The largest Portuguese banks are Banco Comercial Português and the state-owned Caixa Geral de Depósitos (CGD).",
+        "• Portuguese banks hold strategic stakes in other sectors of the economy, including the insurance sector.",
+        "• Foreign bank participation in Portugal is relatively high, alongside significant state ownership through Caixa Geral de Depósitos.",
+        "• Portugal's financial system is characterized as sound, well managed, and competitive, with short-term risks and vulnerabilities well contained.",
+        "• The financial system is supported by a strong financial policy framework.",
+        "• Despite being relatively small and concentrated, Portugal’s banking system compares favorably with other European Union countries in terms of efficiency, profitability, and asset quality.",
+        "• The solvency of Portuguese banks is close to European levels.",
+        "• Supervision of Portuguese financial institutions, especially larger institutions, is active, professional, and well organized across all financial sub-sectors.",
+        "• The insurance sector in Portugal has performed well, partly due to rapid market deepening.",
+        "• Both the life and non-life insurance sectors are sensitive to various market and underwriting risks but are generally estimated to be able to withstand several severe shocks.",
+        "• The impact of shocks on individual insurers varies widely within the insurance sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:11.642853",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "6",
+      "section_name": "Competitiveness",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, Spain was the top market for Portuguese exports, with a total export value of $11,493,400,000.",
+        "• The global distribution of Portuguese exports in 2006 is analyzed as a percentage relative to the export value to Spain."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:11.132340",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Portugal's competitiveness in the world",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Portugal is ranked 36th in the World Competitiveness Ranking 2024, as published by the Swiss institute IMD.",
+        "• This ranking marks a significant improvement from Portugal's position at 51st in the 2013–2014 World Competitiveness Ranking by the same institute."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:13.076507",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Competitiveness by city",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• A study analyzing the competitiveness of the 18 Portuguese district capitals was conducted by economics researchers from Minho University, following the methodology established by the World Economic Forum.",
+        "• The results of this competitiveness study were published in the Portuguese newspaper Público on 30 September 2006.",
+        "• According to the study, the top three most competitive Portuguese district capitals were Évora, Lisbon, and Coimbra.",
+        "• Évora ranked first with a competitiveness score of 7,293, making it the highest-ranked city in the study.",
+        "• Lisbon secured the second position with a competitiveness score of 6,454.",
+        "• Coimbra was placed third, achieving a competitiveness score of 6,042.",
+        "• Beja ranked fourth with a score of 5,660, followed closely by Leiria in fifth place with 5,609 points.",
+        "• Castelo Branco was ranked sixth with a score of 5,608, just one point behind Leiria.",
+        "• Aveiro held the seventh position with a score of 5,452.",
+        "• Guarda was ranked eighth, scoring 5,178 in competitiveness.",
+        "• Santarém came in ninth place with a score of 5,037.",
+        "• Portalegre was positioned tenth with a competitiveness score of 4,711.",
+        "• Viseu ranked eleventh with a score of 4,628.",
+        "• Vila Real was twelfth in the ranking, scoring 5,514 points, notably higher than some cities ranked above it numerically.",
+        "• Bragança was placed thirteenth with a score of 4,271.",
+        "• Setúbal ranked fourteenth, achieving a score of 4,070.",
+        "• Braga was fifteenth with a competitiveness score of 4,055.",
+        "• Faro was ranked sixteenth, scoring 3,971.",
+        "• Viana do Castelo held the seventeenth position with a score of 3,859.",
+        "• Porto was ranked last, eighteenth, with a competitiveness score of 3,577, making it the lowest-ranked district capital in the study."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:22.086649",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "7",
+      "section_name": "Domestic issues",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Every year, large areas of Portuguese forest are destroyed by forest fires, a phenomenon common in countries experiencing very hot summers and seasonal drying of soils and vegetation; this destruction significantly impacts the economy due to the dependence of many people and industries on forestry-related activities, while also posing serious ecological and public safety concerns.",
+        "• As of June 2017, Portugal's national public debt stood at approximately 125% of its Gross Domestic Product (GDP), representing a substantial threat to the country's economic stability and the financial sustainability of the State.",
+        "• The Portuguese public sector has been widely regarded as excessively large, costly, and inefficient, characterized by an overabundance of public employees and redundant bureaucracy, which collectively result in annual financial losses amounting to millions of euros.",
+        "• Between the XVI Governo Constitucional, led by Prime Minister José Durão Barroso, and the XVII Governo Constitucional, headed by Prime Minister José Sócrates, efforts were made to enhance public sector efficiency and rationalize resource allocation through reforms aimed at reducing civil servant overcapacity (referred to as _excedentários_) and decreasing bureaucratic burdens on citizens and businesses.",
+        "• Key reform initiatives during this period included the _empresa na hora_ program, the _PRACE – Programa de Reestruturação da Administração Central do Estado_, and the SIMPLEX – Programa de Simplificação Administrativa e Legislativa, all designed to streamline administrative processes and improve governmental efficiency.",
+        "• Despite these reform attempts, the \"public expenditure problem\" remained a critical issue in Portugal, with little tangible improvement observed; by 2010, the country's public debt and fiscal deficit had escalated uncontrollably.",
+        "• João Bilhim, who led the committee responsible for the 2005 Programme for Restructuring the State's Central Administration (PRACE), publicly expressed disappointment regarding the limited success of the mid-2000s reforms.",
+        "• According to Transparency International's 2008 Corruption Perceptions Index, Portugal ranked 32nd out of 180 countries for the lowest perceived levels of corruption, but by 2012, it had declined slightly to a three-way tie for 33rd place; for context, the United States ranked 18th and 19th in those respective years.",
+        "• Corruption has emerged as a significant political and economic issue in Portugal, prompting active efforts by governmental authorities, civic associations, and think tanks to prevent its further escalation.",
+        "• Common corruption practices in Portugal involve abusive lobbying, illicit concessions, opaque approvals to contractors and economic groups, nepotistic job creation, and preferential commercial agreements, predominantly within the expansive public sector and affiliated companies.",
+        "• Several high-profile corruption scandals have been widely reported in Portuguese media, involving local town hall officials, businesspersons, and politicians with broader authority; notable criminal cases include _Face Oculta_, the scandal involving Oeiras Municipality Mayor Isaltino Morais, _Apito Dourado_, and the _Saco Azul de Felgueiras_."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:23.115187",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "8",
+      "section_name": "Education, training and research in business and economic sciences",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Portuguese higher education system includes numerous institutions awarding academic degrees in economics and business management, distributed throughout the entire country.",
+        "• Management and administration programs are offered by nearly all Portuguese universities and polytechnic institutes.",
+        "• Economics programs are available at all public universities and some private universities in Portugal.",
+        "• Major and reputable universities with dedicated economics departments and active research in economics include:",
+        "• University of Lisbon, through its ISEG (Lisbon School of Economics and Management)",
+        "• ISCTE – Lisbon University Institute",
+        "• Portuguese Catholic University, through Católica Lisbon School of Business and Economics and Católica Porto School of Economics and Management",
+        "• University of Porto, through its Faculdade de Economia",
+        "• Universidade Nova de Lisboa, through NOVA SBE (Nova School of Business and Economics)",
+        "• Minho University, through Escola de Economia e Gestão",
+        "• University of Coimbra, through Faculdade de Economia",
+        "• The Financial Times European Business School ranking has consistently ranked Católica Lisbon School of Business and Economics and NOVA SBE among the top European business and economics schools.",
+        "• In addition to academic institutions, the Bank of Portugal and Statistics Portugal conduct extensive, systematic research and produce detailed reports on the Portuguese economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:15.937275",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "9",
+      "section_name": "Poverty",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, Portugal had the second worst rate of quality of housing in the European Union, ranking only above Cyprus.",
+        "• In 2012, 45.4% of Portugal’s population was at risk of poverty before social transfers, slightly above the EU27 average of 44.1% (excluding Croatia).",
+        "• When pensions are included in the calculation for 2012, the at-risk-of-poverty rate in Portugal decreased to 25.2%.",
+        "• After social transfers in 2012, 17.5% of Portugal’s population was at risk of poverty, meaning their disposable income was below the national at-risk-of-poverty threshold set at 60% of the national median income per adult equivalent.",
+        "• Portugal’s 17.5% poverty rate after social transfers in 2012 was marginally above the EU average of 17%, but lower than other Southern European countries such as Spain (22.2%), Italy (19.4%), and Greece (23.1%).",
+        "• In January 2015, updated statistics for 2013 showed that 19.5% of Portugal’s population was at risk of poverty after social transfers, equating to nearly 2 million people.",
+        "• Economist Carlos Farinha Rodrigues from ISEG stated that by 2013, Portugal had regressed socially by about 10 years, losing all progress made until 2009.",
+        "• The 2013 risk of poverty after social transfers varied by demographic: 18.9% for men, 20% for women, 25.6% for children, 38.4% for monoparental families with at least one child, 15.4% for two-parent families with one child, and 28.8% for other aggregates with children such as elderly households.",
+        "• The National Statistics Institute (INE) conducted a separate poverty risk calculation using a fixed 2009 poverty line to avoid distortions from income decreases during the crisis, showing an increase from 17.9% in 2009 to 25.9% in 2013.",
+        "• Portuguese Prime Minister Pedro Passos Coelho stated that the 2013 poverty figures did not reflect the current situation at that time.",
+        "• By 2022, poverty in Portugal had increased again, affecting 17% of the population across all age groups, according to INE.",
+        "• Homelessness in Portugal rose sharply by 78% over four years, reaching 10,773 homeless people in 2022, up from 6,044 in 2018.",
+        "• The share of Portugal’s population below the poverty line from 1995 to 2023 showed fluctuations: starting at 23.0% in 1995, gradually declining to a low of 16.2% in 2019, then rising to 18.4% in 2020, and stabilizing around 16.6% in 2023.",
+        "• Specific poverty rates by year were: 23.0% (1995), 22.0% (1997), 21.0% (1999), 20.0% (2001), 20.4% (2003), 18.5% (2005 and 2007), 17.9% (2009 and 2011), 19.5% (2013), 19.0% (2015), 17.3% (2017), 16.2% (2019), 18.4% (2020), 16.4% (2021), 17.0% (2022), and 16.6% (2023)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:23.227753",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Food insecurity",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The National Health Survey conducted in 2005 and 2006 collected data on food security in Portugal, revealing that households with a monthly income of 251-500 euros constituted 37.3% of the food insecure population, indicating a disproportionate vulnerability among lower-income groups.",
+        "• In contrast, households earning more than 901 euros monthly represented only 15.9% of the food insecure, demonstrating a lower incidence of food insecurity among higher-income earners during the same period.",
+        "• Following the Portuguese financial crisis from 2010 to 2014, food insecurity significantly increased, particularly impacting poorer regions such as Alentejo and Algarve.",
+        "• In the Algarve region, total food insecurity rose sharply from 56.9% in 2011 to 77.1% in 2012, while severe food insecurity escalated from 13.2% to 41.7% during the same timeframe.",
+        "• Nationally, food insecurity showed a marginal increase of only 0.5%, from 48.6% in 2011 to 49.1% in 2012, indicating that the crisis had a more severe localized effect rather than a uniform national impact.",
+        "• Other regions like Centro and Norte began with lower levels of severe food insecurity and experienced only about a 3% increase, suggesting regional disparities in the crisis’s impact.",
+        "• Overall, from 2011 to 2013, the general prevalence of food insecurity in Portugal remained nearly constant, but the burden was disproportionately borne by economically disadvantaged and poorer regions despite some progress in other areas.",
+        "• In 2020 and 2022, over 12% of the Portuguese population experienced moderate or severe food insecurity, a rate higher than the Southern European average of 8.5%.",
+        "• Among 13 Southern European countries, Portugal ranked sixth in the percentage of population facing moderate or severe food insecurity, trailing behind Albania (30.2%), North Macedonia (24%), Serbia (14.8%), Bosnia Herzegovina (13.4%), and Montenegro (12.9%)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:20.543419",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "9.2",
+      "section_name": "Economic emigration",
+      "chapter_name": "Economy of Portugal",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, the United Nations revised its estimate of the number of Portuguese living abroad, lowering the figure from 2.6 million in 2020 to 2 million.",
+        "• This revision positioned Portugal as the 20th country globally in terms of the number of emigrants relative to its resident population.",
+        "• The year 2021 saw an increase in Portuguese emigration compared to pre-COVID-19 pandemic levels.",
+        "• There was a noted rise in emigration flows specifically to Northern Europe, including Belgium and the Netherlands.",
+        "• Portuguese emigrants residing in France, Switzerland, and the United Kingdom were identified as the largest sources of remittances sent back to Portugal.",
+        "• In 2022, emigrants living in France, Switzerland, and the United Kingdom accounted for more than half of the total remittances received by Portuguese families.",
+        "• Monthly data from the Bank of Portugal indicated that remittances sent by emigrants increased by 1.8% in 2021 compared to 2020, exceeding a total of 3 billion euros.",
+        "• Portugal ranked among the European Union member states with the highest amounts of remittances received from its emigrant population."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:50:21.062072",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_portugal.json",
+      "original_index": 30
+    }
+  ]
+}

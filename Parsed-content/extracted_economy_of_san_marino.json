@@ -1,0 +1,148 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_san_marino.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.823959",
+    "total_sections_in_source": 6,
+    "extracted_sections_count": 6,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of San Marino",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of San Marino is characterized as a developed free-market economy with a focus on several key industries including tourism, banking, and manufacturing.",
+        "• The manufacturing sector in San Marino produces a variety of goods such as ceramics, clothing, fabrics, furniture, paints, spirits, tiles, and wine.",
+        "• Combined, the manufacturing and financial sectors account for more than half of San Marino’s national Gross Domestic Product (GDP).",
+        "• The primary sector, which includes agriculture, contributes only marginally to the overall GDP of San Marino.",
+        "• The main agricultural products of San Marino are wine and cheeses, reflecting the limited but specialized nature of its primary sector.",
+        "• Additionally, San Marino generates revenue by selling collectible postage stamps to philatelists, indicating a niche market within its economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:47.308034",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_san_marino.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of San Marino",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, San Marino's per-capita GDP is nearly $53,000, ranking the country 17th globally in terms of per capita income.",
+        "• The standard of living and per capita output in San Marino are comparable to the wealthiest regions of Italy.",
+        "• The country imports most of its food, water, and raw materials from Italy, including 100% of its electricity and natural gas supplies.",
+        "• Taxation on labor and capital income in San Marino is significantly lower than in Italy, which is accompanied by very stringent citizenship acquisition requirements.",
+        "• The global recession of 2007–2008 caused a substantial contraction in San Marino’s economy, particularly affecting the finance and banking sectors.",
+        "• Between 2008 and 2019, San Marino’s GDP declined by 40%, reflecting the prolonged economic downturn.",
+        "• Unemployment, which was nearly nonexistent before 2007, rose to approximately 5–8% in the years following the global recession.",
+        "• Bank deposits in San Marino fell sharply from nearly 14 billion euros in 2008 to 5.2 billion euros in subsequent years.",
+        "• The country experienced a severe liquidity crisis exacerbated by the lack of a lender of last resort, as San Marino is not a member of the European Union.",
+        "• The government intervened with bailouts for several banks, including Cassa di Risparmio, the country’s principal banking institution.",
+        "• Despite government support, the banking sector remains fragile, with Non-Performing Loans (NPLs) totaling 114% of San Marino’s GDP, indicating significant financial distress.",
+        "• San Marino is transitioning away from an economic model characteristic of tax havens, which previously relied heavily on banking secrecy and tax advantages.",
+        "• Key reforms include the abolition of anonymous companies in 2010 and the elimination of banking secrecy in 2017.",
+        "• The country actively collaborates with international bodies such as the Council of Europe and the European Union to combat money laundering and terrorism financing.",
+        "• Due to these reforms and cooperation efforts, San Marino was removed from the Italian blacklist of tax havens in 2014.",
+        "• Subsequently, San Marino was also removed from the Ecofin blacklist of tax havens in 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:52.941982",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_san_marino.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Public finances",
+      "chapter_name": "Economy of San Marino",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to the global financial crisis known as the great recession, San Marino maintained very strong public finances characterized by a central government budget surplus and the absence of any national debt.",
+        "• In response to the economic downturn caused by the global recession, the San Marino government implemented various measures aimed at mitigating the impact on the real economy and providing financial support to banking institutions, which significantly compromised the robustness of public finances.",
+        "• Official government estimates reported San Marino's public debt at 32% of GDP in the year 2020; however, the International Monetary Fund (IMF), employing a more comprehensive assessment of government liabilities, estimated the actual debt level to be substantially higher at 86% of GDP.",
+        "• San Marino does not issue publicly traded debt securities on financial markets, distinguishing its public finance structure from many other nations.",
+        "• The creditworthiness of San Marino is evaluated by the international rating agency Fitch Ratings, which has progressively downgraded the country's credit rating over time.",
+        "• Fitch Ratings assigned San Marino a current credit rating of BB+, reflecting a series of downgrades that began during the great recession, including a drop from AA to A in 2009 and a further downgrade to BBB in 2016."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:48.790166",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_san_marino.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Economic relations with Italy and the EU",
+      "chapter_name": "Economy of San Marino",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the Italian unification of 1861, San Marino and the Kingdom of Italy signed several treaties addressing economic relations between the two states.",
+        "• In 1865, the first treaty concerning economic issues was signed, introducing the Sammarinese lira, which was equivalent in value to the Italian lira and recognized as legal tender in both San Marino and Italy.",
+        "• The most significant agreement in their economic relationship is the 1939 convention of friendship and good neighborhood, signed during the fascist period in Italy.",
+        "• The 1939 treaty established a customs union between San Marino and Italy and imposed certain restrictions on specific economic activities within San Marino, including tobacco cultivation, gambling, and radio broadcasting.",
+        "• Although San Marino is not a member of the European Union, it has maintained a customs union with the EU since 1991, facilitating an open border between San Marino and EU territories.",
+        "• Since 2000, San Marino has used the Euro as its official currency, following an agreement signed with Italy acting on behalf of the European Union.",
+        "• In 2012, San Marino signed a new monetary convention directly with the EU, expanding the scope of financial and monetary cooperation beyond the previous agreements.",
+        "• Under these agreements, San Marino is authorized to mint its own Euro coins, which are produced by the Italian mint in Rome but feature unique national designs distinct from Italian Euro coins.",
+        "• Sammarinese Euro coins are minted in limited quantities, making them rare and highly valued by numismatists and coin collectors worldwide.",
+        "• Italy remains San Marino’s principal commercial partner, accounting for approximately 88% of San Marino’s exports and 78% of its imports as of 2017.",
+        "• Other significant trading partners for San Marino include other European Union countries, particularly France and Germany."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:53.968719",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_san_marino.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Companies",
+      "chapter_name": "Economy of San Marino",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the sector with the highest number of companies registered in San Marino was Retail Trade, comprising 756 companies.",
+        "• The Wholesale Trade sector was the second largest in terms of company registrations in San Marino in 2022, with a total of 753 companies.",
+        "• The Services sector ranked third in the number of registered companies in San Marino in 2022, with 752 companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:45.362858",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_san_marino.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Coins and stamps",
+      "chapter_name": "Economy of San Marino",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• One significant source of income from tourism in San Marino derives from the sale of historic coins and stamps.",
+        "• San Marino issued its first commemorative stamps in 1894, marking the beginning of a substantial and ongoing economic activity centered on philately and numismatics within the republic.",
+        "• All 10 Post Offices in San Marino participate in the sale of these commemorative stamps and collectible coins, which include \"Legal Gold Tender Coins,\" contributing to the local economy.",
+        "• Historically, San Marino’s traditional economic activities comprised food crop cultivation, sheep farming, and stone quarrying.",
+        "• In contemporary times, agricultural practices in San Marino have shifted focus toward the production of grain, cultivation of vines and orchards, and animal husbandry involving cattle and swine."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:46.387748",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_san_marino.json",
+      "original_index": 5
+    }
+  ]
+}

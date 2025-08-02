@@ -1,0 +1,205 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_saint_lucia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.801637",
+    "total_sections_in_source": 7,
+    "extracted_sections_count": 7,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Saint Lucia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saint Lucia's economy has transitioned from a single-crop agricultural base to one focused on tourism and banking services.",
+        "• Tourism is the largest industry in Saint Lucia, serving as the primary source of employment, income, and foreign exchange, and it accounts for 65% of the island's Gross Domestic Product (GDP).",
+        "• Agriculture, formerly the dominant sector, now contributes less than 3% to Saint Lucia's GDP but still provides approximately 20% of the island’s employment.",
+        "• The banana industry in Saint Lucia is in decline due to intense competition from low-cost producers in Latin America and the reduction of European trade preferences.",
+        "• Despite challenges, the government has taken measures to revitalize the banana industry, resulting in an export volume of 13,734 tonnes in 2018.",
+        "• Other agricultural export crops include mangoes and avocados, contributing to the island’s agricultural output.",
+        "• Saint Lucia is recognized as having the most diverse and well-developed manufacturing industry within the eastern Caribbean region.",
+        "• The island has successfully attracted numerous foreign businesses and investors, although specific details and citations for this claim are not provided."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:00.203814",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_saint_lucia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Saint Lucia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, Saint Lucia's banana production experienced significant disruption due to the impact of Hurricane Dean.",
+        "• In 2006, the governor of Saint Lucia highlighted that although living standards had improved for many residents, a substantial portion of the population had been marginalized economically.",
+        "• The governor specifically noted that communities previously reliant on the banana industry for their livelihoods were particularly affected by this economic marginalization.",
+        "• The banana industry, once a major economic sector in Saint Lucia, faced challenges that contributed to pushing many individuals to the periphery of economic activity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:53:58.259559",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_saint_lucia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Saint Lucia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture is the second-largest industry in Saint Lucia, contributing 2.2% to the country’s GDP in 2020 while providing employment for approximately 10% of the employed population.",
+        "• According to the 2010 census, Saint Lucia had about 10,000 agricultural holdings covering a total area of 30,204 acres, with an average farm size of 3.0 acres per holding.",
+        "• Approximately 18% of Saint Lucia’s land area is utilized for agricultural purposes, with most farms being smaller than 5 acres in size.",
+        "• The primary agricultural products cultivated in Saint Lucia include bananas, coconuts, cocoa beans, mangoes, avocados, various vegetables, citrus fruits, and root crops such as yams and sweet potatoes.",
+        "• While most agricultural produce is grown for local consumption, bananas and coconuts are predominantly cultivated for export, alongside some vegetables.",
+        "• Bananas occupy about 14,826 acres of agricultural land, and coconuts cover approximately 12,400 acres.",
+        "• Saint Lucia’s livestock sector is relatively small and mainly consists of poultry and pork production.",
+        "• The island is self-sufficient in egg production and is actively working towards achieving self-sufficiency in poultry and pork production.",
+        "• The Ministry of Agriculture promotes the raising of sheep and goats to reduce reliance on imported frozen meats by providing farmer support, importing improved livestock bloodlines to enhance productivity, and offering subsidies on animal feed.",
+        "• Efforts to revitalize the local dairy and beef industries include introducing efficient cattle breeds, training farmers in proper livestock care, and establishing funds for constructing dairy units and abattoirs.",
+        "• Saint Lucia aims to expand its export market through the “Taste of Saint Lucia” brand, sponsored by Export Saint Lucia, promoting products such as Saint Lucia Honey, rum, chocolate, coconut oil, granola, and insect repellent."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:01.123961",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_saint_lucia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Saint Lucia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saint Lucia currently attracts over 900,000 visitors annually, highlighting its significance as a major tourist destination.",
+        "• The island has successfully attracted foreign businesses and investment, particularly in the offshore banking sector and the tourism industry.",
+        "• Tourism is the primary source of employment and income in Saint Lucia, accounting for 65% of the country’s Gross Domestic Product (GDP).",
+        "• Tourism also represents the main source of foreign exchange earnings for Saint Lucia, underscoring its critical role in the national economy.",
+        "• The northern end of Saint Lucia is the most urbanized area related to tourism, featuring a concentration of hotels and resorts situated along beaches or with seaside views.",
+        "• This northern region hosts many of the island’s large, all-inclusive resorts, catering to a significant portion of the tourist population."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:53:58.974546",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_saint_lucia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic trends",
+      "chapter_name": "Economy of Saint Lucia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The proportion of island households living at or below the poverty level in Saint Lucia increased from 18.7% in 1995 to 21.4% in 2005.",
+        "• As of 2006, an additional 16.2% of Saint Lucia’s population were considered vulnerable to economic shocks that could easily push them below the poverty line.",
+        "• In 2005, one rural district in Saint Lucia had an exceptionally high poverty rate, with 44.9% of households living below the poverty line.",
+        "• To diversify and broaden the island’s economic base, the Saint Lucian government incorporated small, computer-driven information technology and financial services as key development objectives.",
+        "• Saint Lucia’s primary revenue-generating sectors—agriculture, tourism, and small-scale manufacturing—benefited from targeted infrastructure improvements in roads, communications, water supply, sewerage, and port facilities.",
+        "• Infrastructure enhancements attracted foreign investors, who were also drawn by Saint Lucia’s educated and skilled workforce and relatively stable political environment.",
+        "• The largest foreign investment on the island was a petroleum storage and transshipment terminal constructed by Hess Oil.",
+        "• The Caribbean Development Bank financed an airport expansion project to support the island’s infrastructure development.",
+        "• Prior to the events of 11 September 2001, Saint Lucia’s tourism sector experienced significant growth and a boom period, despite facing some untimely and destructive hurricanes.",
+        "• In 2001, both stay-over visitors and cruise arrivals declined, leading to financial difficulties for several hotels, including the bankruptcy of the Hyatt hotel.",
+        "• The development of the tourism sector remains a national priority for Saint Lucia, with the government committed to maintaining a favorable investment environment.",
+        "• The government offers incentives for the construction and upgrading of tourism facilities to encourage sector growth.",
+        "• Public funds have been liberally used to improve the island’s physical infrastructure to support tourism and economic development.",
+        "• Efforts have been made by the government to attract cultural and sporting events and to develop historical sites as part of the tourism enhancement strategy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:06.757305",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_saint_lucia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Saint Lucia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• St. Lucia's economy is primarily dependent on revenue generated from tourism and banana production, with additional contributions from small-scale manufacturing activities.",
+        "• Since the 1960s, banana revenues have played a significant role in funding the country's development; however, the banana industry is currently in terminal decline due to reduced European Union trade preferences and competition from lower-cost Latin American banana producers.",
+        "• To address the decline in banana production, St. Lucia is encouraging farmers to diversify agricultural production by planting alternative crops such as cocoa, mangoes, and avocados, aiming to provide employment opportunities for workers displaced from the banana sector.",
+        "• Tourism experienced a recovery in 2004 following the economic downturn after the September 11, 2001 attacks, and continued to grow in 2005, accounting for more than 48% of St. Lucia’s Gross Domestic Product (GDP).",
+        "• The hotel and restaurant industry in St. Lucia expanded by 6.3% during 2005, reflecting the growth in the tourism sector.",
+        "• Stay-over tourist arrivals increased by 6.5% in 2005, with the United States remaining the most significant source market, representing 35.4% of these arrivals.",
+        "• Yacht passenger arrivals rose substantially by 21.9% in 2005.",
+        "• Factors such as the redeployment of cruise ships, remedial berth construction, and high fuel costs limited the potential for higher growth rates in tourism during this period.",
+        "• Several investors have planned new tourism projects on the island, including the development of a large hotel and resort in the southern region of St. Lucia.",
+        "• The global recession has negatively impacted St. Lucia’s tourism revenue and foreign investment, causing a significant slowdown in economic growth rates.",
+        "• St. Lucia’s official currency is the Eastern Caribbean Dollar (EC$), which is a regional currency shared among members of the Eastern Caribbean Currency Union (ECCU).",
+        "• The Eastern Caribbean Central Bank (ECCB) is responsible for issuing the Eastern Caribbean Dollar, managing monetary policy, and regulating and supervising commercial banking activities across its member countries.",
+        "• The ECCB has maintained a fixed exchange rate peg of EC$2.7 to US$1 for the Eastern Caribbean Dollar.",
+        "• St. Lucia benefits from the U.S. Caribbean Basin Initiative, which supports trade and economic development in the region.",
+        "• The country is a member of the Caribbean Community and Common Market (CARICOM), a regional organization promoting economic integration.",
+        "• St. Lucia hosts the executive secretariat of the Organization of Eastern Caribbean States (OECS), an intergovernmental organization focused on regional cooperation.",
+        "• The island nation serves as the headquarters for the Eastern Caribbean Telecommunications Authority (ECTEL), which by 2004 was developing regulatory frameworks to liberalize the telecommunications sector across the region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:07.886951",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_saint_lucia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4",
+      "section_name": "Economic statistics",
+      "chapter_name": "Economy of Saint Lucia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saint Lucia's GDP based on purchasing power parity was estimated at $1.667 billion in 2016.",
+        "• The real GDP growth rate of Saint Lucia was 3.5% as of 2012.",
+        "• GDP per capita, measured by purchasing power parity, was $12,952 in 2016.",
+        "• The composition of GDP by sector in 2016 was 2.43% agriculture, 13.43% industry, and 84.14% services.",
+        "• In 2005, 21.4% of Saint Lucia's population lived below the poverty line.",
+        "• Data on household income or consumption by percentage share for the lowest and highest 10% was not available (NA).",
+        "• The inflation rate based on consumer prices was -0.934% in 2016, indicating deflation.",
+        "• The labor force numbered 50,300 individuals in 2011.",
+        "• Labor force distribution by occupation in 2002 was 21.7% in agriculture, 24.7% in industry and commerce, and 53.6% in services.",
+        "• The unemployment rate was estimated at 15% in 2013.",
+        "• The highest reported weekly pay was $350.",
+        "• The national budget in 2000 included revenues of $141.2 million and expenditures of $146.7 million, with capital expenditures accounting for $25.1 million.",
+        "• Key industries included clothing manufacturing, assembly of electronic components, beverage production, corrugated cardboard box manufacturing, tourism, lime processing, and coconut processing.",
+        "• Industrial production growth rate was 8.9% as of 1997.",
+        "• Electricity production totaled 281 GWh in 2003.",
+        "• Electricity production by source in 1998 was 100% from fossil fuels, with no contribution from hydroelectric, nuclear, or other sources.",
+        "• Electricity consumption was 102 KWh in 1998.",
+        "• Major agricultural products included bananas, coconuts, vegetables, citrus fruits, root crops, and cocoa.",
+        "• Total exports were valued at $82 million in 2004.",
+        "• Export commodities in 2004 comprised 41% bananas, along with clothing, cocoa, vegetables, fruits, and coconut oil.",
+        "• Principal export partners in 2005 were France (25%), United States (18.3%), United Kingdom (14.5%), and Brazil (6.8%).",
+        "• Imports amounted to $410 million in 2004.",
+        "• Import commodities included food (23%), manufactured goods (21%), machinery and transportation equipment (19%), chemicals, and fuels.",
+        "• Major import partners in 2005 were the United States (23.8%), Trinidad and Tobago (16%), Netherlands (11.1%), Venezuela (6.3%), Finland (6.2%), United Kingdom (5.7%), and France (4.7%).",
+        "• External debt was recorded at $214 million in 2000.",
+        "• Saint Lucia received economic aid amounting to $51.8 million in 1995.",
+        "• The national currency is the East Caribbean dollar (EC$), subdivided into 100 cents.",
+        "• The exchange rate has been fixed at 2.7000 East Caribbean dollars per US dollar since 1976.",
+        "• The fiscal year in Saint Lucia runs from 1 April to 31 March."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:14.030360",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 29
+      },
+      "source_file": "economy_of_saint_lucia.json",
+      "original_index": 6
+    }
+  ]
+}

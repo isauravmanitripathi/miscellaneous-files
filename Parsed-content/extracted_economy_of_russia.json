@@ -1,0 +1,1079 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_russia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.755644",
+    "total_sections_in_source": 40,
+    "extracted_sections_count": 40,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Russia is characterized as an emerging and developing, high-income, industrialized, mixed market-oriented economy.",
+        "• Russia possesses the eleventh-largest economy globally by nominal GDP and ranks fourth by GDP based on purchasing power parity (PPP).",
+        "• Due to volatility in the currency exchange rate, Russia’s nominal GDP experiences significant fluctuations.",
+        "• Russia was the last major economy to join the World Trade Organization (WTO), becoming a member in 2012.",
+        "• The country has vast energy resources across its extensive territory, particularly natural gas and petroleum, which are critical for its energy self-sufficiency and export capacity.",
+        "• Russia is widely regarded as an energy superpower, holding the largest natural gas reserves worldwide, the second-largest coal reserves, the eighth-largest oil reserves globally, and the largest oil shale reserves in Europe.",
+        "• It is the world’s leading exporter of natural gas, the second-largest producer of natural gas, the second-largest exporter and producer of oil, and the third-largest exporter of coal.",
+        "• Russia’s foreign exchange reserves rank fifth-largest in the world.",
+        "• The country has a labor force of approximately 73 million people, making it the eighth-largest labor force globally.",
+        "• Russia is the third-largest arms exporter in the world.",
+        "• The oil and gas sector contributed up to 30% of Russia’s federal budget revenues in 2024, a decrease from 50% in the mid-2010s, indicating a trend toward economic diversification.",
+        "• Russia’s human development is classified as \"very high\" according to the annual Human Development Index.",
+        "• Approximately 70% of Russia’s total GDP is driven by domestic consumption, and it has the twelfth-largest consumer market worldwide.",
+        "• In 2015, Russia’s social security system accounted for roughly 16% of the total GDP.",
+        "• Russia holds the fifth-highest number of billionaires globally.",
+        "• Despite wealth concentration, income inequality remains comparatively high due to uneven distribution of natural resources among Russia’s federal subjects, causing regional economic disparities.",
+        "• Major challenges to future economic growth include high levels of corruption, a shrinking labor force, and an aging and declining population.",
+        "• Following the 2022 Russian invasion of Ukraine, Russia has faced extensive sanctions and financial restrictions from Western countries and their allies aimed at isolating its economy from the Western financial system.",
+        "• Despite sanctions, Russia’s economy has demonstrated broad resilience, maintaining economic stability and growth driven by high military expenditure, rising household consumption and wages, low unemployment, and increased government spending.",
+        "• Inflation in Russia has remained comparatively high post-sanctions, with experts forecasting that sanctions will exert a long-term negative impact on the Russian economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:49.104635",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Russian economy has experienced significant volatility over multiple decades, particularly following the year 1989.",
+        "• After 1989, Russia's institutional environment underwent a fundamental transformation, shifting from a command economy based on socialist organizations to a capitalistic system.",
+        "• The industrial structure of Russia changed dramatically over several years, moving away from heavy investment in manufacturing and traditional Soviet agriculture.",
+        "• During this transition, the economy increasingly focused on free market developments, particularly in natural gas and oil extraction industries, as well as mining businesses.",
+        "• Concurrently, the service sector expanded, contributing to the diversification of the Russian economy.",
+        "• Academic analyst Richard Connolly identified four main characteristics of the Russian economy that have persisted over the last four centuries despite political upheavals:",
+        "• First, the legal system is weak, characterized by the absence of impartial courts and problematic contract enforcement.",
+        "• Second, there has been an underdevelopment of modern economic activities, with basic peasant agriculture remaining dominant until the 1930s.",
+        "• Third, technological underdevelopment has been a persistent issue, though it was somewhat alleviated by borrowing technology from Western countries in the 1920s.",
+        "• Fourth, living standards in Russia have historically been lower compared to those in Western Europe and North America."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:46.670220",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Russian Empire",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Russian Empire encompasses the economic history of Russia from 1721 until the October Revolution of 1917, which led to a civil war and the eventual establishment of the Soviet Union.",
+        "• From the late 17th century to the mid-18th century, Russian national income per capita increased, approaching the levels of the most developed economies in Northern and Western Europe.",
+        "• After the mid-18th century, the Russian economy experienced stagnation and decline.",
+        "• In the 18th century, Russian national income per capita was approximately 40–70% of British per capita income, yet it remained higher than that of Poland.",
+        "• By 1860, Russia’s GDP per capita was comparable to that of Japan, about one-third of the GDP per capita of the United States or the United Kingdom, and roughly double that of China or India.",
+        "• Russia was a latecomer to industrialization compared to Western economies.",
+        "• During the late 19th and early 20th centuries, Russia’s railroad network expanded significantly, facilitating increased industrialization.",
+        "• The institution of serfdom, which hindered the development of a wage labor market and caused labor shortages in industry, was abolished in 1861.",
+        "• Following the abolition of serfdom, Russia’s GDP per capita was unstable and did not show substantial growth immediately.",
+        "• Steady economic growth in Russia began in the 1890s, accompanied by a structural transformation of the economy.",
+        "• By the outbreak of World War I, over half of the Russian economy was still based on agriculture.",
+        "• By the early 20th century, the Russian economy had fallen further behind the American and British economies in terms of development and income.",
+        "• From the late 19th century to the early 20th century, Russia’s economic growth rate was similar to that of Japan and faster than the growth rates of Brazil, India, and China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:49.277647",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Soviet Union",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Beginning in 1928, the Soviet Union's economy was directed by a series of five-year plans aimed at systematic economic development and industrialization.",
+        "• By the 1950s, the Soviet Union had transformed rapidly from a predominantly agrarian society into a major industrial power, marking significant economic progress.",
+        "• By the 1970s, the Soviet economy entered the Era of Stagnation, characterized by slowed growth and systemic inefficiencies.",
+        "• The modern economy's complex demands and the rigid, inflexible administrative system overwhelmed central planners in Moscow, limiting effective economic management.",
+        "• The sheer volume of decisions required at the central planning level became unmanageable, impeding timely and effective economic responses.",
+        "• Bureaucratic procedures were cumbersome, preventing free communication and flexible responses at the enterprise level, which were essential for addressing worker alienation, fostering innovation, and managing relationships with customers and suppliers.",
+        "• From 1975 to 1985, corruption and data manipulation became widespread within the Soviet bureaucracy as officials falsified reports to indicate that targets and quotas were met, thereby deepening the economic crisis.",
+        "• In 1986, Mikhail Gorbachev initiated reforms aimed at addressing economic problems by transitioning towards a market-oriented socialist economy through his policy of Perestroika.",
+        "• Despite these reforms, Perestroika failed to revitalize the Soviet economy and instead accelerated political and economic disintegration.",
+        "• The cumulative effect of economic stagnation, administrative inefficiency, corruption, and unsuccessful reforms contributed to the eventual dissolution of the Soviet Union in 1991.",
+        "• The Workers of Moscow Likhachev Automotive Plant in 1963 exemplify the industrial workforce during the Soviet industrialization period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:48.922265",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Transition to market economy (1991–1998)",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the collapse of the Soviet Union, Russia transitioned from a centrally planned economy to a globally integrated market economy, marked by corrupt and haphazard privatization processes that transferred major state-owned firms to politically connected \"oligarchs,\" resulting in highly concentrated equity ownership.",
+        "• Boris Yeltsin's radical, market-oriented reform program, known as \"shock therapy,\" was based on Washington Consensus policies and IMF recommendations, with influential American economists such as Larry Summers in 1994 urging the rapid completion of \"the three '-ations'—privatization, stabilization, and liberalization.\"",
+        "• The shock therapy reforms led to disastrous economic outcomes, including a real GDP decline of more than 40% by 1999, hyperinflation that wiped out personal savings, and a rapid spread of crime and destitution throughout Russia.",
+        "• The sharp price increases from shock therapy eradicated the modest savings accumulated under socialism and caused a regressive redistribution of wealth favoring elites who owned non-monetary assets.",
+        "• The transition period saw a significant drop in living standards, surging economic inequality and poverty, increased excess mortality, and a decline in life expectancy; Russia experienced the largest peacetime rise in mortality ever recorded in an industrialized country.",
+        "• Meat consumption in Russia decreased markedly during the 1990s, from an average of 63 kg per person per year in 1990 to 45 kg by 1999.",
+        "• Most state enterprises were privatized amid controversy, often ending up owned by insiders such as former Soviet-era factory directors, through financial manipulations that enriched a narrow group of business and government elites.",
+        "• Many newly wealthy individuals invested their capital abroad, causing enormous capital flight; this rapid and corrupt privatization process became known in Russia as \"prikhvatizatsiya,\" or \"grab-itization.\"",
+        "• The collapsing economy and difficulties in collecting government revenues, combined with reliance on short-term borrowing to finance budget deficits, culminated in the 1998 Russian financial crisis.",
+        "• During the 1990s, Russia was a major borrower from the International Monetary Fund (IMF), with loan facilities totaling $20 billion; the IMF faced criticism for lending large sums despite Russia implementing few promised reforms and significant portions of funds being diverted illegally abroad.",
+        "• On 24 September 1993, at a Commonwealth of Independent States (CIS) Council of Heads of State meeting in Moscow, Azerbaijan, Armenia, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, and Uzbekistan signed the Treaty on the creation of an Economic Union, aiming to establish a free trade area, customs union, and free movement of goods, services, capital, and labor; the treaty entered into force on 14 January 1994.",
+        "• Turkmenistan and Georgia joined and ratified the Economic Union Treaty in 1994; however, Georgia withdrew from the treaty in 2009.",
+        "• On 15 April 1994, all 12 post-Soviet states signed the Agreement on the Establishment of a Free Trade Area at a CIS Council of Heads of State meeting in Moscow, marking the first stage toward an economic union and confirming intentions to conclude a free trade agreement in services; the phrase \"the first stage of the creation of the Economic Union\" was removed from the agreement in 1999.",
+        "• Russia concluded bilateral free trade agreements with all CIS countries and did not adopt a multilateral free trade regime in 1999; these bilateral agreements, except with Georgia, Azerbaijan, and Turkmenistan (all still in force as of 2024), ceased to apply after 2012 following Russia's accession to the new multilateral CIS free trade area.",
+        "• Further economic integration occurred outside the CIS legal framework, including the Agreement on the Customs Union between Russia and Belarus signed on 6 January 1995 in Minsk, and the Agreement on the Customs Union including Kazakhstan signed on 20 January 1995 in Moscow, both aiming to advance the Economic Union.",
+        "• These customs union agreements facilitated the launch of the Customs Union of the Eurasian Economic Community in 2010; according to the Eurasian Economic Union's international treaties database, these agreements remain in force as of 2024 and are partially consistent with the Treaty on the Eurasian Economic Union.",
+        "• Additional international agreements deepened economic relations between Russia and Belarus, including the founding of the Community of Belarus and Russia on 2 April 1996, the signing of the \"Treaty on the Union between Belarus and Russia\" on 2 April 1997, and the Treaty on the Creation of a Union State of Russia and Belarus on 8 December 1999."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:58.244554",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Recovery and growth (1999–2008)",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the August 1998 financial crash, Russia experienced a rapid economic recovery, aided significantly by the devaluation of the ruble, which enhanced the competitiveness of domestic producers both nationally and internationally.",
+        "• Between 2000 and 2002, Russia implemented substantial pro-growth economic reforms, including a comprehensive tax reform that introduced a flat income tax rate of 13%, alongside extensive deregulation efforts that particularly benefited small and medium-sized enterprises.",
+        "• From 2000 to 2008, the Russian economy received a major stimulus from rising commodity prices, resulting in an average annual GDP growth rate of 7%.",
+        "• During the same period, disposable incomes in Russia more than doubled, and when measured in dollar terms, they increased eightfold.",
+        "• The volume of consumer credit expanded dramatically, increasing 45 times between 2000 and 2006, which fueled a significant boom in private consumption.",
+        "• The proportion of the Russian population living below the poverty line decreased substantially, from 30% in 2000 to 14% in 2008.",
+        "• In 2005, Russia repaid its $3.3 billion borrowing from the International Monetary Fund (IMF) three years ahead of schedule.",
+        "• Despite economic growth, inflation remained a persistent issue as the Central Bank of Russia aggressively expanded the money supply to counteract the appreciation of the ruble.",
+        "• In 2007, the World Bank recognized the Russian economy for achieving \"unprecedented macroeconomic stability.\"",
+        "• Russia maintained strong fiscal discipline until October 2007, recording budget surpluses every year from 2000 onward."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:49.314072",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "2009–2014",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Russian banks experienced impacts from the 2008 financial crisis but avoided long-term damage due to a proactive and timely response by the Russian government and central bank, leading to a sharp but brief recession followed by a strong economic recovery starting in late 2009.",
+        "• Between 2000 and 2012, Russia's energy exports drove rapid growth in living standards, with real disposable income rising by 160%, equating to more than a sevenfold increase in dollar-denominated disposable incomes since 2000.",
+        "• During the same period (2000–2012), unemployment and poverty rates in Russia more than halved, and Russians’ self-assessed life satisfaction increased significantly, attributed to the 2000s commodities boom, high oil prices, and prudent economic and fiscal policies.",
+        "• Despite overall growth, wealth distribution in Russia remained highly uneven; a Credit Suisse report found that the 110 wealthiest individuals owned 35% of all financial assets held by Russian households.",
+        "• Russia experienced significant illicit money outflows, ranking second globally, having lost over $880 billion between 2002 and 2011 through such means.",
+        "• Since 2008, Moscow has been repeatedly named the \"billionaire capital of the world\" by Forbes magazine, reflecting the concentration of wealth in the city.",
+        "• In July 2010, Russia, Belarus, and Kazakhstan became founding members of the Customs Union of the Eurasian Economic Community (EurAsEC), and on 1 January 2012, the EurAsEC Single Economic Space, a common market among the same countries, came into force, superseding previous bilateral free trade agreements.",
+        "• Russia’s membership in the World Trade Organization (WTO) was accepted in 2011, culminating in Russia officially joining the WTO on 22 August 2012 after 19 years of negotiations.",
+        "• On 20 September 2012, the multi-lateral Free Trade Area of the Commonwealth of Independent States (CIS FTA) came into force for Russia, superseding prior bilateral agreements among nine participating post-Soviet states.",
+        "• In 2015, Russia became a founding member of the Eurasian Economic Union (EAEU), which replaced EurAsEC and aimed to establish a supranational economic union, representing the deepest stage of economic integration among member states.",
+        "• Rapid GDP and income growth in Russia continued until 2013, with the middle-income trap being a central topic of economic discussion for a decade.",
+        "• In 2013, the World Bank announced that Russia had graduated to a high-income economy based on 2012 data; however, in 2016, Russia was reclassified as an upper-middle income economy due to fluctuations in the exchange rate of the Russian ruble, which is a floating currency.",
+        "• The United Nations Human Development Index (HDI) ranks Russia among countries with 'very high human development,' reflecting progress in standard of living, health, and education.",
+        "• Russian leadership consistently emphasized the necessity to diversify the economy away from heavy dependence on oil and gas and to develop a high-technology sector.",
+        "• In 2012, oil, gas, and petroleum products accounted for over 70% of Russia’s total exports, underscoring the economy’s reliance on energy commodities.",
+        "• The Russian economy’s growth slowed markedly in 2013, expanding by only 1.3% after years of strong performance, signaling potential limits of the existing economic model.",
+        "• Several factors were proposed to explain the 2013 economic slowdown, including a prolonged recession in the European Union (Russia’s largest trading partner), stagnant oil prices, lack of spare industrial capacity, and demographic challenges.",
+        "• Political turmoil in neighboring Ukraine during this period added to economic uncertainty and suppressed investment in Russia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:59.063368",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "2014–2021",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2014, Russia held the world's largest proven natural gas reserves, according to data from The World Factbook.",
+        "• Following Russia's annexation of Crimea in March 2014 and involvement in the War in Donbas, the United States, European Union, Canada, and Japan imposed sanctions on Russia, leading to a decline in the Russian ruble and fears of a financial crisis.",
+        "• In response to these sanctions, Russia implemented counter-sanctions, including a one-year total ban on food imports from the European Union and the United States.",
+        "• The Russian economic ministry reported in July 2014 that GDP growth for the first half of 2014 was 1%, projecting an overall growth of 0.5% for the year; the actual GDP growth for 2014 was 0.6%, exceeding expectations.",
+        "• Russia was identified as one of the most unequal major economies globally during this period.",
+        "• Due to Russia's designation as a high-income economy by the World Bank, U.S. President Barack Obama issued Proclamation 9188, terminating Russia's status as a beneficiary developing country under the Generalized System of Preferences (GSP) effective October 3, 2014.",
+        "• The U.S. Customs and Border Protection (CBP) confirmed that Russia formally graduated from the GSP program on October 4, 2014.",
+        "• By 2015, real income levels for 99% of Russians remained lower than those in 1991, indicating prolonged economic hardship for the majority of the population.",
+        "• During the period of conflicts including the Russo-Georgian War, Russo-Ukrainian War, and the Russian invasion of Ukraine, Russia utilized inverted yield curves on various government bonds (20-year, 10-year, 1-year, and 3-month bonds) as a monetary policy tool to control inflation.",
+        "• The Russian economy faced recession risks starting in early 2014 due to falling oil prices, international sanctions, and capital flight; GDP growth was positive at 0.6% in 2014 but contracted by 3.7% in 2015, with further contraction expected in 2016.",
+        "• In 2016, the Russian economy showed signs of recovery with 0.3% GDP growth, officially exiting recession, followed by continued growth of 1.5% in 2017.",
+        "• Bloomberg ranked Russia as the 12th most innovative economy globally in January 2016, improving from 14th in January 2015 and 18th in January 2014.",
+        "• Russia ranked 15th worldwide in patent application rates, 8th in concentration of high-tech public companies (including internet and aerospace sectors), and 3rd in the graduation rate of scientists and engineers.",
+        "• According to British company BP’s Statistical Yearbook 2018, at the end of 2017, Russia’s proven oil reserves were 14.5 billion tonnes (14.3 billion long tons; 16.0 billion short tons), and natural gas reserves were 35 trillion cubic metres (1.2 quadrillion cubic feet).",
+        "• The U.S. Geological Survey estimated Russia’s gold reserves at 5,500 tonnes (5,400 long tons; 6,100 short tons) as of the end of 2017.",
+        "• In 2019, Russia’s Ministry of Natural Resources provided physical estimates of mineral reserves as of the end of 2017: oil at 9.04 billion tonnes (8.90 billion long tons; 9.96 billion short tons), gas at 14.47 trillion cubic metres (511 trillion cubic feet), gold at 1,407 tonnes (1,385 long tons; 1,551 short tons), and diamonds at 375 million carats (75 tonnes).",
+        "• For the first time, the Ministry evaluated mineral reserves in monetary terms: oil valued at 39.6 trillion rubles, gas at 11.3 trillion rubles, coking coal nearly 2 trillion rubles, iron ore 808 billion rubles, diamonds 505 billion rubles, and gold 480 billion rubles.",
+        "• The combined value of all mineral and energy resources (including oil, gas, gold, copper, iron ore, thermal and lignite coal, and diamonds) amounted to 55.24 trillion rubles (US$844 billion), representing approximately 60% of Russia’s 2017 GDP.",
+        "• This valuation was based on a new classification of reserves and included only fields with issued licenses, resulting in a lower estimate than total explored reserves.",
+        "• Experts criticized the Ministry of Natural Resources’ valuation as an \"unsuccessful attempt to estimate reserves,\" cautioning against taking the estimate seriously and noting errors in the calculation formula.",
+        "• In the International Comparison Program (ICP) 2021, the Commonwealth of Independent States (CIS) region was linked through the standard global core list approach, unlike in ICP 2017.",
+        "• Based on ICP 2021 results, the World Bank announced that Russia was the 4th largest economy globally with a GDP of $5.7 trillion, accounting for 3.8% of the world economy, and was the largest economy in Europe and Central Asia when measured by purchasing power parity (PPP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:06.233422",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "2022–present",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Over the past 30 years, Russia has maintained one of the world's lowest import dependence ratios as a percentage of GDP among more than 200 countries and territories, comparable to major economies such as the United States, China, Brazil, Japan, and Argentina.",
+        "• In 2022, due to sanctions, boycotts, and supply chain disruptions, Russia’s import dependence dropped from 20.7% (ranking in the top 15 globally) to 15.6% (ranking in the top 5 globally).",
+        "• Heavy sanctions were imposed on Russia in 2022 following its invasion of Ukraine, which are expected to cause a steep recession; since early 2022, many official Russian economic statistics have ceased to be published.",
+        "• Sanctions included asset freezes on the Russian Central Bank, which holds $630 billion in foreign-exchange reserves, to prevent it from mitigating the sanctions' effects.",
+        "• Estimates indicate that each day of the war in Ukraine costs Russia between $500 million and $1 billion.",
+        "• On 27 June 2022, Russia defaulted on part of its foreign currency debt, marking its first default since 1918.",
+        "• In November 2022, the Federal State Statistics Service reported Russia had officially entered a recession, evidenced by a national GDP decline for two consecutive quarters.",
+        "• On 2 September 2022, G7 finance ministers agreed to cap the price of Russian oil and petroleum products to limit Russia’s revenue from oil sales while allowing continued production.",
+        "• According to _The Economist_ in 2022, Russia graduated into the category of high-income economies when measured by purchasing power parity (PPP), though this status could be threatened by the Ukraine invasion.",
+        "• A December 2022 study by the Bank of Russia’s Research and Forecasting Department found Russia’s import dependence to be relatively low, below the median of other countries, with most industries having a lower share of imports than international counterparts.",
+        "• The low import dependence is attributed to Russia’s limited integration in global value supply chains and its economic focus on raw material production.",
+        "• Despite low overall import dependence, 60% of Russia’s imports come from countries that have imposed sanctions against it.",
+        "• TASS reported that in the first quarter of 2023, the Russian economy showed poor performance with revenues of 5.7 trillion roubles (down 21%, mainly due to falling oil revenue), expenditures of 8.1 trillion roubles (up 34%, mainly due to increased military costs), resulting in a budget deficit of 2.4 trillion roubles (approximately $29.4 billion).",
+        "• The Central Bank of Russia’s interventions helped maintain relative stability of the rouble against the US dollar in 2022; however, in 2023 the rouble depreciated significantly, reaching RUB 97 per USD 1 on 15 August 2023.",
+        "• The rouble’s depreciation and Central Bank interventions drew significant criticism from Russian state propaganda.",
+        "• In the second quarter of 2023, the rouble fell 13% against the dollar, and the current account surplus was estimated to have declined by 80% from the 2022 annual surplus of $233 billion.",
+        "• On 8 June 2023, after 11 years of negotiations, Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, and Uzbekistan signed the Commonwealth of Independent States Agreement on Free Trade in Services, Establishment, Operations and Investment in Sochi.",
+        "• This agreement aimed to partially integrate Uzbekistan and Tajikistan into common standards of the WTO’s General Agreement on Trade in Services and the Eurasian Economic Union (EAEU), despite Uzbekistan not being a WTO member and both Uzbekistan and Tajikistan not being EAEU members.",
+        "• The Eurasian Economic Union Treaty preserved international agreements on trade in services within the national competence of member states; thus, the EAEU itself is not a party to this agreement.",
+        "• In August and September 2023, the Central Bank of Russia raised the key lending rate, reaching 13% in September 2023, while the USD to RUB exchange rate remained around RUB 95.",
+        "• By June 2023, Russia’s exports to the European Union had dropped to 1.7%, and imports from the EU fell to 1.5%.",
+        "• In October 2023, the rouble crossed the psychological threshold of RUB 100 per USD 1.",
+        "• In July 2024, the Russian Central Bank further raised the key interest rate to 18%.",
+        "• The 2024 Russian federal budget projects revenues of 35 trillion rubles ($349 billion) and expenditures of 36.6 trillion rubles, based on an Urals oil price forecast of $71.30 per barrel, an exchange rate of 90.1 rubles per USD 1, and inflation of 4.5%.",
+        "• Defence spending in the 2024 budget is set to double to 10.78 trillion rubles, constituting 29.4% of total expenditure.",
+        "• Russia’s unemployment rate is at a record low of approximately 3%, attributed to demographic decline, wartime demands for industrial and military manpower, and large-scale emigration.",
+        "• In January 2025, reports indicated Russia employed a two-pronged strategy to finance the high costs of the Russo-Ukrainian war since early 2022: an official defense budget estimated at US$250 billion through June 2024 (over 20% of annual GDP), and an off-budget financing mechanism involving over US$200 billion in preferential bank loans to defense contractors and war-related businesses, compelled by the government.",
+        "• The Russian economy experienced significant expansion in 2023, driven by defense spending, which created an inflationary output gap leading to stagnation and a recession forecast for 2025.",
+        "• Economic projections indicate stagnation in Russia through 2026 due to the shrinking output gap, with ongoing risks of stagflation.",
+        "• Additional contextual data includes Russia’s gross domestic product (PPP) per capita as of April 2022, the unemployment rate trends since the fall of the Soviet Union, and inflation rates from 2012 to 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:21.506218",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2",
+      "section_name": "Data",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The primary source of Russia's economic data is the Federal State Statistics Service, known as Rosstat, which publishes figures in the national currency, the Russian ruble.",
+        "• Additional economic data on Russia is provided by international organizations of which Russia is a member, including the Eurasian Economic Commission and the Statistical Committee of the Commonwealth of Independent States.",
+        "• When converting Russian economic data into other currencies, the nominal values can experience significant fluctuations due to exchange rate variability.",
+        "• To mitigate exchange rate volatility, the average annual exchange rate of the ruble is typically used for converting annual economic data into foreign currencies.",
+        "• The World Bank estimates Gross National Income (GNI) using the Atlas method, which is a three-year average designed to smooth out exchange rate fluctuations.",
+        "• Purchasing Power Parities (PPP) for Russia are calculated through the World Bank's International Comparison Program (ICP), which releases data after several years; the ICP 2021 data was published in May 2024.",
+        "• The World Bank began applying the ICP 2021 PPP data from July 2024, while the International Monetary Fund (IMF) started using it from October 2024.",
+        "• The provided table details Russia's main economic indicators from 1990 to 2023, with future projections for 2024 to 2026 indicated by the IMF.",
+        "• In 1990 and 1991, GDP data in billion international dollars (PPP) and nominal US dollars are not available; however, GDP per capita in international dollars (PPP) was 12,760 in 1990 and 12,490 in 1991.",
+        "• By 1992, Russia's GDP was 1,621.277 billion int$ PPP, with GDP per capita at 10,914.894 int$ PPP; nominal GDP was 71.603 billion US$, and nominal GDP per capita was 482.052 US$; unemployment was 5.2%.",
+        "• In 1993, GDP decreased to 1,515.308 billion int$ PPP, GDP per capita to 10,206.910 int$ PPP, nominal GDP rose to 196.227 billion US$, and nominal GDP per capita to 1,321.756 US$; real GDP growth was -8.7%, inflation soared to 874.3%, and unemployment was 5.9%.",
+        "• The 1994 economic crisis saw GDP fall to 1,351.113 billion int$ PPP and GDP per capita to 9,104.043 int$ PPP; nominal GDP increased to 293.768 billion US$, nominal GDP per capita to 1,979.465 US$; real GDP contracted by 12.7%, inflation was 307.5%, and unemployment rose to 8.1%.",
+        "• From 1995 to 1998, Russia experienced continued economic contraction with real GDP growth rates of -4.1% (1995), -3.581% (1996), 1.376% (1997), and -5.319% (1998); inflation peaked at 197.3% in 1995 and remained high; government debt as a percentage of GDP escalated from 51.519% in 1997 to 135.193% in 1998.",
+        "• The 1999 recovery showed GDP growth at 6.347%, with GDP at 1,383.147 billion int$ PPP and GDP per capita at 9,395.419 int$ PPP; nominal GDP was 209.657 billion US$, nominal GDP per capita was 1,424.156 US$; inflation remained high at 85.7%, unemployment increased to 13.0%, and government debt decreased to 92.379% of GDP.",
+        "• The early 2000s marked economic growth with GDP rising from 1,556.696 billion int$ PPP in 2000 to 2,351.723 billion int$ PPP in 2005; GDP per capita increased from 10,618.878 to 16,386.143 int$ PPP; nominal GDP grew from 278.264 billion US$ to 817.717 billion US$; real GDP growth rates ranged from 10.054% in 2000 to 6.397% in 2005; inflation rates decreased from 20.8% in 2000 to 12.7% in 2005; unemployment declined from 10.6% to 7.2%; government debt as a percentage of GDP dropped significantly from 55.868% in 2000 to 14.851% in 2005.",
+        "• Between 2006 and 2008, Russia's economy continued to expand with GDP reaching 3,136.188 billion int$ PPP in 2008 and GDP per capita at 21,971.026 int$ PPP; nominal GDP increased to 1,779.109 billion US$, nominal GDP per capita to 12,463.807 US$; real GDP growth rates were 8.165% (2006), 8.550% (2007), and 5.247% (2008); inflation declined to 9.7% in 2006 but rose again to 14.1% in 2008; unemployment rates decreased to 6.2% in 2008; government debt as a percentage of GDP fell to 7.446% in 2008.",
+        "• The 2009 global financial crisis caused a contraction with GDP falling to 2,908.738 billion int$ PPP and GDP per capita to 20,371.457 int$ PPP; nominal GDP dropped to 1,307.927 billion US$, nominal GDP per capita to 9,160.112 US$; real GDP declined by -7.821%; inflation was 11.6%; unemployment rose to 8.2%; government debt increased slightly to 9.918% of GDP.",
+        "• From 2010 to 2014, Russia's economy showed moderate growth with GDP increasing from 3,076.938 billion int$ PPP in 2010 to 3,670.432 billion int$ PPP in 2014; GDP per capita rose from 21,539.793 to 25,052.774 int$ PPP; nominal GDP grew from 1,633.111 billion US$ to 2,048.837 billion US$; real GDP growth rates varied from 4.512% in 2010 to 0.736% in 2014; inflation rates decreased from 6.8% in 2010 to 7.8% in 2014; unemployment declined from 7.4% to 5.2%; government debt increased from 10.105% to 15.136% of GDP.",
+        "• The period 2015 to 2016 was marked by economic stagnation and recession, with GDP slightly decreasing from 3,631.416 billion int$ PPP in 2015 to 3,673.023 billion int$ PPP in 2016; nominal GDP fell from 1,356.703 billion US$ to 1,280.648 billion US$; real GDP growth was -1.973% in 2015 and 0.194% in 2016; inflation peaked at 15.5% in 2015 before dropping to 7.0% in 2016; unemployment remained stable around 5.5%; government debt stayed near 15%.",
+        "• Economic recovery from 2017 to 2019 saw GDP rise from 3,807.099 billion int$ PPP to 4,579.554 billion int$ PPP; GDP per capita increased from 25,777.812 to 30,963.855 int$ PPP; nominal GDP grew from 1,575.140 billion US$ to 1,695.724 billion US$; real GDP growth rates were positive, ranging from 1.827% to 2.198%; inflation decreased to 4.47% in 2019; unemployment declined to 4.6%; government debt remained stable around 13.6-13.7% of GDP.",
+        "• The COVID-19 pandemic impacted Russia's economy in 2020, with GDP at 4,651.430 billion int$ PPP and GDP per capita at 31,490.712 int$ PPP; nominal GDP dropped to 1,488.118 billion US$ and nominal GDP per capita to 10,074.726 US$; real GDP contracted by -2.654%; inflation was 3.382%; unemployment increased to 5.767%; government debt rose to 19.156% of GDP.",
+        "• In 2021, Russia's economy rebounded with GDP reaching 5,732.444 billion int$ PPP and GDP per capita at 38,938.470 int$ PPP; nominal GDP increased to 1,843.130 billion US$, nominal GDP per capita to 12,519.735 US$; real GDP growth was 5.867%; inflation rose to 6.694%; unemployment decreased to 4.833%; government debt declined to 16.397% of GDP.",
+        "• In 2022, despite global challenges, GDP increased to 6,064.551 billion int$ PPP and GDP per capita to 41,335.869 int$ PPP; nominal GDP rose to 2,269.899 billion US$, nominal GDP per capita to 15,471.593 US$; real GDP contracted by -1.247%; inflation surged to 13.750%; unemployment decreased to 3.950%; government debt increased to 18.510% of GDP.",
+        "• The 2023 data shows GDP at 6,512"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:07.254786",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3",
+      "section_name": "Income inequality",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In Russia, regions with higher income levels have been observed to experience increased air pollution.",
+        "• Despite higher income in these regions, a greater disparity in income inequality was identified, indicating uneven wealth distribution.",
+        "• Research findings indicate that greater income inequality within a region correlates with higher levels of pollution, suggesting that both income level and its distribution are significant factors.",
+        "• Areas in Russia with fewer hospital beds per capita tend to suffer from greater air pollution compared to regions with more hospital beds.",
+        "• The correlation between inadequate public service distribution, such as hospital bed availability, and increased air pollution implies that environmental inequality is exacerbated by poor access to public services."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:51:53.123464",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4",
+      "section_name": "Currency and monetary policy",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 25 December 1993, the Constitution of the Russian Federation came into force, with the main provisions regarding currency and monetary policy prescribed in Article 75.",
+        "• The official currency of the Russian Federation is the ruble.",
+        "• Monetary emission, or the issuance of currency, is carried out exclusively by the Central Bank of the Russian Federation, also known as the Bank of Russia.",
+        "• The introduction and emission of any other form of money within the Russian Federation is prohibited by law.",
+        "• The primary function of the Central Bank of the Russian Federation is to protect and ensure the stability of the ruble, a responsibility it executes independently from other government bodies.",
+        "• On 1 September 2013, the Bank of Russia expanded its role to become the regulator of financial markets, implementing an integrated model of financial sector supervision.",
+        "• The Central Bank of the Russian Federation adopts an inflation targeting policy to manage monetary stability.",
+        "• Over the past 25 to 30 years since the dissolution of the Soviet Union, Russia has experienced consistently higher inflation rates compared to developed countries.",
+        "• Currency devaluation of the ruble, both relative to foreign currencies and domestic goods, has been significantly offset by higher interest rates and increases in nominal incomes and assets.",
+        "• This economic pattern of inflation and currency devaluation accompanied by compensatory financial mechanisms is characteristic of developing markets.",
+        "• Devaluations of the ruble relative to foreign currencies typically provide strong stimulation to Russia’s export-oriented economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:02.339104",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Foreign exchange",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Russian ruble operates under a floating currency exchange rate system.",
+        "• In 2011, the Bank of Russia, led by Sergei Ignatiev at the time, initiated a policy to abolish the currency corridor and transition the ruble to a floating exchange rate regime.",
+        "• Under the subsequent leadership of Elvira Nabiullina, head of the Central Bank of the Russian Federation, the plan was to complete the transition to a floating exchange rate by 1 January 2015.",
+        "• The Bank of Russia dismantled the currency corridor earlier than planned, on 10 November 2014, to avoid unnecessary depletion of gold and foreign exchange reserves.",
+        "• A 2025 study highlighted a significant economic constraint for Russia as its dependence on hard currencies such as the US dollar and the euro, noting only partial “yuanization” of its foreign trade transactions.",
+        "• Between 2022 and 2024, the ruble’s Real Effective Exchange Rate remained higher and stronger compared to the levels seen in 1994 and 1998, periods marked by sharp devaluations relative to foreign currencies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:02.954509",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Fiscal policy",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, Russia was projected to have a Government Budget deficit amounting to $21 billion.",
+        "• The budget deficit in Russia decreased significantly from 2.8% of GDP in 2016 to 0.6% of GDP in 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:00.698946",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Debts",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Russia is recognized as a creditor nation, possessing a positive net international investment position (NIIP), indicating that its external financial assets exceed its liabilities.",
+        "• Among major global economies, Russia maintains one of the lowest levels of government debt, encompassing both external and domestic obligations, as well as one of the lowest external debts, which include total public and private sector liabilities.",
+        "• In the year 2022, Russia's domestic government debt experienced an increase of 13.9 percent, rising to 18.78 billion rubles.",
+        "• By May 2023, the reported figure for Russia's domestic government debt had further increased to RUB 19,801.921 billion.",
+        "• The ratio of Russia's external debt to its Gross Domestic Product (GDP) declined from 26.3 percent in 2021 to 17 percent in 2022, reflecting a significant reduction in external liabilities relative to economic output.",
+        "• As of 1 January 2023, Russia's external debt was estimated at 381.8 billion U.S. dollars, marking a decrease of 20.8 percent compared to the previous year.",
+        "• In March 2023, Russia's external debt stood at USD 357.9 billion, showing a reduction from USD 380.5 billion recorded in the preceding quarter."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:05.923424",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "National wealth fund",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 1 January 2004, the Government of Russia established the Stabilization Fund of the Russian Federation as part of the federal budget, designed to balance the budget in the event of a fall in oil prices.",
+        "• On 1 February 2008, the original Stabilization Fund was divided into two separate funds: the Reserve Fund and the National Welfare Fund of the Russian Federation.",
+        "• The Reserve Fund was set to equal 10% of Russia's GDP and was to be invested similarly to the original Stabilization Fund, focusing on low-risk assets.",
+        "• The National Welfare Fund was created to be invested in higher-risk instruments, including shares in both domestic and foreign companies.",
+        "• The Reserve Fund initially started with $125 billion but was fully exhausted by 2017 and subsequently discontinued.",
+        "• The National Welfare Fund began with an initial capital of $32 billion in 2008.",
+        "• By August 2022, the National Welfare Fund had grown to a peak value of $201 billion.",
+        "• By December 2023, the National Welfare Fund's value had decreased to $133 billion, with liquid assets specifically reduced to $56 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:09.407072",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4.5",
+      "section_name": "Corruption",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to Transparency International's Corruption Perceptions Index for 2020, Russia was the lowest rated European country, ranking 129th out of 180 countries globally.",
+        "• Corruption in Russia is widely perceived as a significant problem impacting multiple sectors, including the economy, business environment, public administration, law enforcement, healthcare, and education.",
+        "• The entrenched nature of corruption in Russia is linked to the historical model of public governance and is attributed to the general weakness of the rule of law within the country.",
+        "• By 2020, 70% of Russian business owners expressed distrust towards law enforcement agencies, marking a substantial increase from 45% in 2017.",
+        "• Additionally, 75% of business owners did not believe in the impartiality of the courts in Russia as of 2020.",
+        "• A further 79% of business owners reported a lack of confidence that legal institutions would protect them from abuses of law, including practices such as racketeering or arrests on dubious grounds."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:07.434795",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4.6",
+      "section_name": "Federal subjects",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the Moscow Government, Moscow's economy is the largest among the constituent entities of the Russian Federation, accounting for one fifth (20%) of the country's total gross regional product.",
+        "• Moscow ranks as one of the largest urban economies globally in terms of GDP measured by purchasing power parity (PPP) and is among the top 5 global megalopolises by this economic value.",
+        "• In 2021, Moscow's GDP (PPP) amounted to USD 25.500 billion, surpassing the GDP (PPP) of major cities such as Seoul, Shanghai, and Paris.",
+        "• The Moscow Government cites Oxford Economics data indicating that Moscow ranked third worldwide among cities in terms of GDP at purchasing power parity.",
+        "• Statements by the Mayor of Moscow in 2024 highlight that Moscow contributes more than 20% of Russia's national GDP, with significant contributions stemming from innovation, the IT sector, and services.",
+        "• Labour productivity in Moscow is on average 2.5 times higher than the Russian national average, attributed to the high concentration of residents in the city.",
+        "• In 2025, Moscow is home to 90 billionaires, which is an increase of 16 billionaires compared to the previous year.",
+        "• According to Forbes, Moscow ranks second globally in the number of billionaires, behind only New York City.",
+        "• Moscow hosts approximately 30,000 high-net-worth individuals (HNWI) with wealth estimated at $1 million or more, based on data from Henley & Partners."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:10.225458",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "4.7",
+      "section_name": "Groupings",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Russia is administratively divided into twelve distinct economic regions for purposes of economic planning and development.",
+        "• In 2018, the Russian Ministry of Economic Development formulated a comprehensive strategy aimed at the spatial development of the country, proposing a division of Russia into 14 macro-regions to enhance regional economic management.",
+        "• By February 2019, this spatial development strategy received official approval, resulting in the implementation of a revised division that consolidated the regions into 12 macro-regions instead of the initially proposed 14.",
+        "• Apart from the macro-regional divisions, Russia also recognizes specific macrozones, including the Baikal Amur Mainline economic zone, which represents a significant economic area within the national framework."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:09.096067",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "4.8",
+      "section_name": "Centre-periphery model",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• A 2011 research article identifies the current relationship between the centre and regions in Russia as conforming to the \"centre-periphery\" model, characterized by excessive centralisation, lack of alternative centres to Moscow within the territorial structure, and weak horizontal links, which are persistent and continuously reproduced features of Russian political and economic space.",
+        "• Over a decade prior to 2011, Professor Natalia Zubarevich extended the centre-periphery model by proposing the \"theory of four Russias,\" which explains the varying speeds of social modernisation across the country more accurately through this framework.",
+        "• According to Zubarevich’s theory, Russia’s population can be divided into three roughly equal parts, each comprising about one-third of the total population, with an additional \"fourth Russia\" representing underdeveloped republics where approximately 6% of the population resides, possessing distinct characteristics.",
+        "• \"First Russia\" consists of cities with populations in the millions, representing the most modernised and economically developed territories in the country.",
+        "• \"Second Russia\" includes medium-sized cities with a strong industrial profile, forming a significant segment of the country’s urban-industrial landscape.",
+        "• \"Third Russia\" encompasses small towns, workers’ settlements, and rural areas, which constitute a deep periphery with lower quality socio-economic life compared to \"first\" and \"second Russia.\"",
+        "• The \"fourth Russia\" comprises the national republics of the Caucasus and southern Siberia regions such as Tuva and the Altai Republic; these areas are peripheral but distinct due to incomplete demographic transition, nascent urbanisation, and the persistence of patriarchal-clan social structures.",
+        "• Monoprofile towns, also known as monotowns, are identified as the most unstable component within \"second Russia,\" reflecting vulnerabilities in these medium-sized industrial cities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:16.265917",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "4.8.1",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Until 2022, Russia was a key oil and gas supplier to much of Europe, with Rosneft’s headquarters located on the bank of the Moskva River in Moscow.",
+        "• Russia’s natural resource wealth is concentrated in the mineral-rich Ural Mountains and the vast fossil fuel (oil, gas, coal) and timber reserves of Siberia and the Russian Far East, making natural resources dominant in Russian exports.",
+        "• Oil and gas exports remain the primary source of hard currency for Russia.",
+        "• Russia is widely described as an energy superpower, possessing the world’s largest natural gas reserves, the second-largest coal reserves, the eighth-largest oil reserves, and the largest oil shale reserves in Europe.",
+        "• Globally, Russia is the leading natural gas exporter, the second-largest natural gas producer, the second-largest oil exporter and producer, and the third-largest coal exporter.",
+        "• Fossil fuels are responsible for most of Russia’s greenhouse gas emissions.",
+        "• In 2019, Russia was the world’s fourth-largest electricity producer and the ninth-largest renewable energy producer.",
+        "• Russia was the first country to develop civilian nuclear power and built the world’s first nuclear power plant.",
+        "• In 2019, Russia ranked as the world’s fourth-largest nuclear energy producer.",
+        "• After the Soviet Union’s collapse, the Russian state nuclear conglomerate Rosatom became the dominant international nuclear power market actor, engaging in expert training, nuclear power plant construction, fuel supply, and spent fuel management worldwide.",
+        "• Following Russia’s full-scale invasion of Ukraine in February 2023, oil and gas sectors faced international sanctions, but Russia’s nuclear industry was not targeted by sanctions.",
+        "• In the mid-2000s, the oil and gas sector accounted for approximately 20% of Russia’s GDP, and in 2013 it represented 20–21% of GDP.",
+        "• Oil and gas constitute about 50% of Russia’s exports and federal budget revenues, making Russia’s GDP dynamics highly dependent on oil and gas prices, although the sector’s share in GDP is less than 50%.",
+        "• According to a comprehensive assessment by the Russian statistics agency Rosstat published in 2021, the total share of the oil and gas sector in Russia’s GDP (including extraction, refining, transport, sale, supporting activities, and all related goods and services) was 16.9% in 2017, 21.1% in 2018, 19.2% in 2019, and 15.2% in 2020.",
+        "• Comparative data using the same methodology show Russia’s oil and gas sector share of GDP exceeds that of the United States (8%) and Canada (less than 10%), is comparable to Norway (14%) and Kazakhstan (13.3%), but is much lower than the United Arab Emirates (30%) and Saudi Arabia (50%).",
+        "• The Rosstat assessment excluded certain related activities such as production of used pumps and specialized education, which experts argue should have been included.",
+        "• Russia consumes domestically two-thirds of its gas production and one-quarter of its oil production, while exporting three-quarters of its oil to the world market.",
+        "• Russia’s share of the traded world oil market is 17.5%, exceeding that of Saudi Arabia.",
+        "• Experts note the existence of both formal and informal components of oil and gas rent, estimating the total oil and gas rent in 2023 at approximately 24% of Russia’s GDP.",
+        "• Michael Alexeyev, professor of economics at Indiana University and son of Lyudmila Alexeyeva, highlights that government-reported oil and gas taxes exclude corporate dividends and indirect or additional revenues derived from oil and gas rent expenditures in the economy.",
+        "• The World Bank publishes an indicator called oil rent (% of GDP), which is 9.7% for Russia, 14.8% for Kazakhstan, 6.1% for Norway, 23.7% for Saudi Arabia, 15.7% for the United Arab Emirates, 2.8% for Canada, and 0.6% for the United States.",
+        "• In 2023, Russia’s oil and gas tax revenues fell by 24% to 8.8 trillion roubles (approximately $99.4 billion) compared to 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:25.686449",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "4.8.2",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Russia is a leading global producer and exporter of minerals and gold, playing a significant role in the international mining industry.",
+        "• In 2013, Russia was the largest diamond-producing nation worldwide, with an estimated production exceeding 33 million carats, representing 25% of the global diamond output, valued at over $3.4 billion.",
+        "• The state-owned company ALROSA is responsible for approximately 95% of all diamond production in Russia, underscoring its dominance in the sector.",
+        "• In 2019, Russia ranked as the 3rd largest gold producer globally, highlighting its substantial contribution to the precious metals market.",
+        "• Russia was the 2nd largest worldwide producer of platinum in 2019, indicating its significant position in platinum mining.",
+        "• The country was the 4th largest global producer of silver in 2019, further emphasizing its role in precious metal production.",
+        "• Russia ranked as the 9th largest copper producer worldwide in 2019, reflecting its importance in base metal mining.",
+        "• In 2019, Russia was the 3rd largest nickel producer globally, showcasing its strength in the production of this critical industrial metal.",
+        "• The nation was the 6th largest producer of lead in the world in 2019, contributing notably to the global lead supply.",
+        "• Russia ranked 9th globally in bauxite production in 2019, indicating its involvement in aluminum ore mining.",
+        "• It was the 10th largest zinc producer worldwide in 2019, marking its presence in zinc mining markets.",
+        "• Russia held the position of 2nd largest worldwide producer of vanadium in 2019, a metal important for steel alloys.",
+        "• The country was also the 2nd largest global producer of cobalt in 2019, a key metal for battery technologies.",
+        "• In 2019, Russia was the 5th largest iron ore producer in the world, underscoring its capacity in iron ore mining.",
+        "• Russia ranked 7th globally in boron production in 2019, contributing to this mineral's supply.",
+        "• The nation was the 9th largest producer of molybdenum worldwide in 2019, a metal used in steel strengthening.",
+        "• Russia was the 13th largest tin producer in the world in 2019, indicating its role in tin mining.",
+        "• It was the 3rd largest sulfur producer globally in 2019, important for chemical industries.",
+        "• In phosphate production, Russia ranked 4th worldwide in 2019, essential for fertilizer manufacturing.",
+        "• The country was the 8th largest producer of gypsum globally in 2019, used in construction materials.",
+        "• Russia was the 10th largest salt producer in the world in 2019, contributing to global salt supply.",
+        "• Additionally, Russia was the 6th largest uranium producer worldwide in 2018, highlighting its role in nuclear fuel resources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:16.334424",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "4.8.3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Russia's agriculture sector contributes approximately 5% to the country's total GDP while employing about one-eighth of the total labor force.",
+        "• The country possesses the world's third-largest cultivated area, measuring 1,265,267 square kilometers (488,522 square miles).",
+        "• Due to Russia's harsh environmental conditions, only about 13.1% of its land is classified as agricultural, and a mere 7.4% is arable land suitable for crop production.",
+        "• Grain has historically been the principal product of Russian farming, occupying significantly more than half of the cropland area.",
+        "• Russia is the world's largest exporter of wheat and holds the position of the largest producer of barley, buckwheat, oats, and rye.",
+        "• Additionally, Russia is the second-largest global producer of sunflower seed.",
+        "• Analysts studying climate change adaptation predict substantial opportunities for Russian agriculture throughout the 21st century, particularly due to increasing arability in Siberia, which is expected to stimulate both internal and external migration to this region.",
+        "• More than one-third of Russia’s sown agricultural area is dedicated to fodder crops, while the remaining farmland is used for industrial crops, vegetables, and fruits.",
+        "• Benefiting from an extensive coastline along three oceans, Russia maintains one of the world’s largest fishing fleets.",
+        "• In 2018, Russia ranked sixth globally in fish catch tonnage, capturing 4.77 million tonnes (4.69 million long tons; 5.26 million short tons) of fish.",
+        "• Russia is renowned for producing the world’s finest caviar, specifically the beluga variety.",
+        "• The country produces approximately one-third of all canned fish worldwide and about one-fourth of the global total of fresh and frozen fish."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:22.168297",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "4.9",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1992 and 1998, Russia experienced a significant decline in industrial output, with annual growth rates consistently negative, reflecting the economic turmoil following the dissolution of the Soviet Union.",
+        "• The lowest point of industrial production occurred in 1998, coinciding with the Russian financial crisis, where the annual industrial growth rate reached approximately -12%.",
+        "• From 1999 onwards, Russia's industrial sector began a gradual recovery, with positive growth rates recorded each year from 1999 to 2008.",
+        "• The peak of industrial growth during this recovery period was observed in 2000, with an approximate growth rate of 10%, indicating a strong rebound from the previous decade's decline.",
+        "• Between 2001 and 2007, industrial growth rates fluctuated moderately, generally ranging between 3% and 6% per year, reflecting steady but variable expansion in industrial production.",
+        "• In 2008, the global financial crisis impacted Russia's industry, causing a sharp decline in growth rates to about -10%, marking a significant contraction in industrial output.",
+        "• The year 2009 saw a continued negative growth rate, though less severe than in 2008, with industrial output decreasing by roughly 10%, indicating ongoing economic challenges.",
+        "• By 2010, Russia's industrial sector showed signs of recovery with a positive growth rate close to 5%, suggesting a rebound from the financial crisis effects.",
+        "• Overall, the period from 1992 to 2010 highlights a trajectory of initial industrial decline, a recovery phase in the early 2000s, disruption due to the global financial crisis, and subsequent recovery efforts by 2010."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:15.754588",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "4.9.1",
+      "section_name": "Defence industry",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The defence industry of Russia is a strategically important sector and a significant source of employment within the country.",
+        "• Russia possesses a large and sophisticated arms industry that is capable of designing and manufacturing advanced military equipment.",
+        "• The range of military technology produced includes fifth-generation fighter jets, nuclear-powered submarines, firearms, and both short-range and long-range ballistic missiles.",
+        "• Russia ranks as the world's second-largest exporter of arms, surpassed only by the United States.",
+        "• In 2016, President Vladimir Putin met with workers of the Kalashnikov Concern, a notable Russian arms manufacturer.",
+        "• The T-14 Armata tank is an example of advanced military hardware developed within Russia’s defence industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:19.338394",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "4.9.2",
+      "section_name": "Aerospace",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Sukhoi Superjet 100 is one of Russia's most recent civilian aviation products, with approximately 280 orders placed by various airlines and leasing companies as of 2018.",
+        "• Aircraft manufacturing is a significant industry sector in Russia, employing around 355,300 people.",
+        "• The Russian aircraft industry offers a portfolio of internationally competitive military aircraft, including models such as the MiG-29 and Su-30.",
+        "• New projects like the Sukhoi Superjet 100 are intended to revitalize the civilian aircraft segment in Russia.",
+        "• In 2009, companies under the United Aircraft Corporation delivered a total of 95 new fixed-wing aircraft to customers, of which 15 were civilian models.",
+        "• Additionally, the Russian aircraft industry produced over 141 helicopters in 2009.",
+        "• The aircraft manufacturing sector is one of the most science-intensive and high-technology industries in Russia, employing the largest number of skilled personnel within the defense sector.",
+        "• The production and value of the military aircraft branch significantly exceed those of other defense industry sectors in Russia.",
+        "• Aircraft products constitute more than half of Russia’s arms exports.",
+        "• The Russian space industry comprises over 100 companies and employs approximately 250,000 people."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:24.049115",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "4.9.3",
+      "section_name": "Automotive industry",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lada is a brand of AvtoVAZ, which is the largest Russian car manufacturer within the Russian automotive industry.",
+        "• Aurus Senat is a recent armored limousine project developed by NAMI, contributing to the Russian automotive sector.",
+        "• The automotive production industry in Russia is a significant economic sector, directly employing approximately 600,000 people, which constitutes about 1% of the country's total workforce.",
+        "• In 2018, Russia produced 1,767,674 vehicles, ranking 13th among global car-producing nations and accounting for 1.8% of worldwide vehicle production.",
+        "• Following the imposition of sanctions in 2022 and the withdrawal of Western automobile manufacturers, Russia's vehicle production declined sharply to 450,000 passenger cars in 2022, marking the lowest production level since the dissolution of the Soviet Union in 1991.",
+        "• The primary local automotive brands in Russia include AvtoVAZ and GAZ, which specialize in light vehicle production, while KamAZ is recognized as the leading producer of heavy vehicles.",
+        "• As of December 2022, the only foreign car manufacturers operating in Russia are eleven Chinese carmakers that either have existing production facilities or are in the process of constructing plants within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:22.558216",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "4.9.4",
+      "section_name": "Electronics",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Russia experienced a regrowth in the microelectronics sector, marked by the revival of the Joint-Stock Company (JCS) Mikron, a key player in the industry.",
+        "• The positive development in Russia's microelectronics industry, including the resurgence of JCS Mikron, was disrupted by the imposition of international sanctions in 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:22.512140",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "4.9.5",
+      "section_name": "Retail",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2013, Russians allocated 60% of their pre-tax income to shopping, marking the highest proportion in Europe at that time.",
+        "• This high expenditure on shopping was facilitated by the fact that many Russians did not pay rent or mortgage payments, as they owned their homes following the privatization of state-owned Soviet housing.",
+        "• Shopping malls in Russia gained popularity among international investors and the emerging middle class of shoppers.",
+        "• By 2020, Russia had over 1,000 shopping malls across the country.",
+        "• In 2022, numerous international companies exited the Russian market, leading to a significant number of vacant stores within shopping malls.",
+        "• In Russian shopping malls, supermarkets selling groceries typically serve as anchor stores, drawing consistent customer traffic.",
+        "• Total retail sales in Russia showed a general upward trend from 2009 to 2022, measured in Russian ruble (RUB) trillions as follows:",
+        "• 2009: 14.60 trillion RUB",
+        "• 2010: 16.49 trillion RUB",
+        "• 2011: 19.08 trillion RUB",
+        "• 2012: 21.3 trillion RUB",
+        "• 2013: 23.7 trillion RUB",
+        "• 2014: 26.4 trillion RUB",
+        "• 2015: 27.6 trillion RUB",
+        "• 2016: 29.75 trillion RUB",
+        "• 2017: 27.88 trillion RUB (notable slight decline from previous year)",
+        "• 2018: 31.58 trillion RUB",
+        "• 2019: 33.62 trillion RUB",
+        "• 2020: 33.56 trillion RUB (slight decrease from 2019)",
+        "• 2021: 39.47 trillion RUB",
+        "• 2022: 42.51 trillion RUB",
+        "• The data reflects fluctuations in retail sales with an overall growth trajectory despite occasional declines, influenced by economic factors including international company withdrawals in 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:29.785488",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "4.9.6",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of December 2007, Russia's telecommunications industry had an estimated 4,900,000 broadband lines, indicating significant growth in size and maturity.",
+        "• By 2020, there were 122,488,468 Internet users in Russia, representing 85% of the country's total population.",
+        "• Russia's mobile telecommunications market is served by four national mobile phone networks: MegaFon, Tele2, Beeline, and MTS.",
+        "• Between 2011 and 2021, the total number of mobile phone subscriptions across these four networks ranged between 200 million and 240 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:24.557381",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "4.9.7",
+      "section_name": "Transportation",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Trans-Siberian Railway is the longest railway line in the world, prominently visible across the coast of Lake Baikal in Russia.",
+        "• The Russky Bridge, located in Vladivostok, holds the distinction of being the longest cable-stayed bridge in the world.",
+        "• Railway transport in Russia is predominantly managed by the state-owned company Russian Railways.",
+        "• Russia possesses the third-longest network of commonly used railway tracks globally, with a total length exceeding 87,157 kilometers (54,157 miles).",
+        "• As of 2016, Russia had a total road length of 1,452.2 thousand kilometers, but its road density ranks among the lowest worldwide.",
+        "• Russia’s inland waterways are the second-longest in the world, totaling 102,000 kilometers (63,380 miles) in length.",
+        "• The country has 1,218 airports, with Sheremetyevo International Airport in Moscow being the busiest.",
+        "• The largest port in Russia is the Port of Novorossiysk, located in Krasnodar Krai along the Black Sea coast.",
+        "• Russia is uniquely the only country operating nuclear-powered icebreakers, which facilitate economic exploitation of the Arctic continental shelf and promote the development of sea trade via the Northern Sea Route."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:28.042213",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "4.9.8",
+      "section_name": "Construction",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the total value of construction in Russia amounted to 13 trillion rubles, representing a 5% increase compared to the construction value in 2021.",
+        "• Residential construction in Russia during 2022 reached a total area of 126.7 million square metres, equivalent to 1,364 million square feet.",
+        "• The national construction target set for the period 2020–2030 aims to achieve the construction of 1 billion square metres of housing, which corresponds to approximately 1.1×10¹⁰ square feet.",
+        "• The 2020–2030 construction goals also include renovating 20% of the existing housing stock across Russia.",
+        "• Another objective within the 2020–2030 construction plan is to increase the average living space per person from 27.8 square metres (299 square feet) to 33.3 square metres (358 square feet)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:25.823857",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "4.9.9",
+      "section_name": "Insurance",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• By the end of 2013, the Russian insurance market comprised 422 insurance companies, according to the Central Bank of Russia.",
+        "• The insurance business concentration was significant across all major segments except the compulsory motor third party liability market (CMTPL).",
+        "• In 2013, the top 10 insurance companies accounted for 58.1% of total premiums charged, excluding compulsory health insurance (CHI).",
+        "• The Russian insurance market experienced notable growth in 2013, with total premiums charged (excluding CHI) reaching RUB 904.9 billion, representing an 11.8% increase compared to 2012.",
+        "• Total claims paid in 2013 amounted to RUB 420.8 billion, marking a 13.9% increase from the previous year.",
+        "• The premiums to GDP ratio (excluding CHI) increased to 1.36% in 2013, up from 1.31% in 2012.",
+        "• The share of premiums in household spending rose to 1.39% in 2013.",
+        "• The level of claims paid relative to total premiums (excluding CHI) was 46.5% in 2013, showing only a modest increase compared to 2012.",
+        "• The total number of insurance policies issued in 2013 increased slightly by 0.1% compared to 2012, reaching 139.6 million policies.",
+        "• Although relative indicators of the Russian insurance market returned to pre-crisis levels, growth was primarily driven by life insurance and accident insurance segments.",
+        "• The contribution of life insurance and accident insurance to premium growth in 2013 significantly exceeded their overall market share.",
+        "• Life insurance and accident insurance products are frequently used by banks as supplementary components to credit contracts, providing protection against borrower default due to death or disability.",
+        "• The increase in life and accident insurance premiums correlates with a 28% rise in consumer credit obligations, which reached RUB 9.9 trillion in 2013.",
+        "• When excluding life and accident insurance, the premiums to GDP ratio remained steady at 1.1% in 2013, the same level as in 2012.",
+        "• The Russian insurance market, excluding \"banking\" lines of business (life and accident insurance), has been in a stagnation phase for the last four years, with the premiums to GDP ratio stable at 1.1% since 2010."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:33.468381",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "4.9.10",
+      "section_name": "Information technology",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Russia has the highest number of academic graduates in Europe and leads globally in the percentage of the population holding an associate degree or higher, with 54% compared to 31% in the United Kingdom.",
+        "• The information technology (IT) market is among the most dynamic sectors of the Russian economy, demonstrating rapid growth and increasing export revenues.",
+        "• Russian software exports increased dramatically from $120 million in 2000 to $3.3 billion in 2010, reflecting substantial expansion over the decade.",
+        "• Since 2000, the Russian IT market has experienced annual growth rates between 30% and 40%, with a notable 54% growth recorded in 2006 alone.",
+        "• The largest revenue-generating sector within the Russian IT market is system and network integration, accounting for 28.3% of total market revenues.",
+        "• Offshore programming represents the fastest growing segment within the Russian IT market, indicating a shift towards outsourcing and international software development services.",
+        "• The Russian government has initiated a program to promote the construction of IT-oriented technology parks, known as Technoparks, which feature established infrastructure and benefit from favorable tax and customs regimes.",
+        "• Seven Technoparks have been established in various locations across Russia: Moscow, Novosibirsk, Nizhny Novgorod, Kaluga, Tumen, the Republic of Tatarstan, and the St. Petersburg Region.",
+        "• A government decree signed in June 2013 introduced a special \"roadmap\" aimed at facilitating business suppliers' access to procurement programs of state-owned infrastructure monopolies, including Gazprom, Rosneft, Russian Railways, Rosatom, and Transneft.",
+        "• The decree mandates that these large state-owned companies increase the proportion of domestic technology solutions used in their operations, with a particular focus on purchasing innovative products and technologies.",
+        "• According to the 2013 decree, by 2015, government-connected companies were required to double their purchases of Russian technology solutions relative to 2013 levels, and by 2018, these purchasing levels were to quadruple.",
+        "• Russia is among the few countries globally to have a significant homegrown internet search engine, with the Russian-based Yandex commanding a 53.8% market share among internet users in the country.",
+        "• Prominent Russian IT companies include ABBYY, known for its FineReader optical character recognition (OCR) system and Lingvo dictionaries; Kaspersky Lab, recognized for Kaspersky Anti-Virus and Kaspersky Internet Security products; and Mail.Ru, which operates a portal, search engine, mail service, Mail.ru Agent messenger, ICQ, the Odnoklassniki social network, and various online media sources.",
+        "• The Beriev Scientific and Technical Complex, located in Taganrog, is an example of Russia’s advanced technological infrastructure supporting the IT sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:39.102057",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "4.9.11",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Peterhof Palace in Saint Petersburg is recognized as a UNESCO World Heritage Site, highlighting its cultural and historical significance within Russia's tourism sector.",
+        "• According to a 2018 report by the United Nations World Tourism Organization (UNWTO), Russia ranked as the sixteenth-most visited country globally and the tenth-most visited country in Europe, receiving 24.6 million visits that year.",
+        "• In the Travel and Tourism Competitiveness Report 2019, Russia was positioned 39th, reflecting its standing in global tourism infrastructure and appeal.",
+        "• The Federal Agency for Tourism of Russia reported that the number of inbound trips by foreign citizens to Russia reached 24.4 million in 2019, indicating sustained international interest.",
+        "• Russia's international tourism receipts totaled $11.6 billion in 2018, demonstrating the economic importance of tourism to the national economy.",
+        "• In 2020, tourism contributed approximately 4% to Russia's gross domestic product (GDP), underscoring its role as a significant sector within the country's economy.",
+        "• Key tourist routes in Russia include the Golden Ring theme route, which encompasses a series of ancient cities known for their historical and architectural heritage.",
+        "• Cruises along major rivers such as the Volga offer popular travel experiences, showcasing Russia’s natural landscapes and cultural sites.",
+        "• The Trans-Siberian Railway is a famous and iconic journey that attracts tourists seeking to explore the vast expanse of Russia by rail.",
+        "• Among Russia’s most visited and popular landmarks are Red Square in Moscow, the Peterhof Palace in Saint Petersburg, the Kazan Kremlin, the Trinity Lavra of St. Sergius monastery, and Lake Baikal, each representing significant cultural, historical, or natural attractions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:37.976223",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "5",
+      "section_name": "Economic integration",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, the top four largest economies in the world by purchasing power parity (PPP)-adjusted GDP are China, the United States, India, and Russia, according to the World Bank.",
+        "• The Eurasian Economic Union (EAEU), along with Tajikistan and Uzbekistan, is forming a common market within the Commonwealth of Independent States (CIS), collectively referred to as EAEU+2.",
+        "• Russia officially joined the World Trade Organization (WTO) on 22 August 2012, marking a significant step in its global economic integration.",
+        "• On 20 September 2012, the Free Trade Agreement (FTA) of the Commonwealth of Independent States, originally signed on 18 October 2011, came into force for Russia, superseding previous trade agreements within the CIS framework.",
+        "• Russia is a founding member of the Eurasian Economic Union (EAEU), which facilitates regional economic integration among member states.",
+        "• The EAEU has established trade agreements with several countries, including Vietnam, Iran, Singapore, and Serbia, enhancing Russia’s trade relations beyond the union.",
+        "• In 2018, the EAEU signed a trade cooperation agreement with China, further expanding its economic partnerships.",
+        "• The EAEU is engaged in ongoing trade negotiations with India, Israel, and Egypt to broaden its international economic ties.",
+        "• Russia is also party to multiple trade agreements that predate the formation of the EAEU, maintaining continuity in its economic relations.",
+        "• The 2015 EAEU Treaty superseded earlier integration agreements and envisioned the creation of an economic union, representing the deepest stage of economic integration among member states.",
+        "• The EAEU guarantees the free movement of goods, services, capital, and labor without requiring work permits, embodying the \"four economic freedoms\" similar to those in the European Union.",
+        "• The union pursues coordinated, harmonized, and unified policies in sectors specified by the EAEU Treaty and relevant international agreements within the union.",
+        "• The EAEU operates a Eurasian Customs Union and maintains an integrated single market comprising approximately 183 million people."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:34.695829",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "6",
+      "section_name": "External trade and investment",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Over the past 30 years, the share of imports of goods and services as a percentage of Russia's GDP has remained below 25% for nearly all years.",
+        "• Factors such as the growth of oil rents, rapid economic growth, economic integration, accession to the World Trade Organization (WTO), improved transport accessibility, and the government's import substitution program did not significantly alter the import share percentage.",
+        "• A notable decline in the import share occurred in 2022, when sanctions and boycotts caused the percentage to drop to 15.6%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:30.804543",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, Russia recorded a trade surplus of US$15.8 billion, as reported by the Central Bank of Russia, reflecting the country's consistent pattern of running trade surpluses primarily due to commodity exports.",
+        "• From 1997 to 2013, Russia's balance of trade averaged US$8.338 billion, with a historical high of US$20.647 billion in December 2011 and a record low deficit of −US$185 million in February 1998.",
+        "• In 2015, Russia's main export commodities were oil and natural gas, comprising 62.8% of total exports, followed by ores and metals at 5.9%, chemical products at 5.8%, machinery and transport equipment at 5.4%, and food at 4.7%; other exports included agricultural raw materials (2.2%) and textiles (0.2%).",
+        "• In 2021, Russia's top exports by value were crude oil at US$110.9 billion, processed oil at US$69.9 billion, gold at US$17.3 billion, coal at US$15.4 billion, and natural gas at US$7.3 billion.",
+        "• The leading imports into Russia in 2021 included transmission equipment valued at US$10.7 billion, medication at US$7.3 billion, tankers at US$3.7 billion, parts and accessories for data processing at US$3.7 billion, and storage units at US$3.3 billion.",
+        "• Between 2005 and 2021, Russia's export values fluctuated, starting at US$241 billion in 2005, peaking at US$527 billion in 2013, declining to US$302 billion in 2016, and rising again to US$492 billion in 2021.",
+        "• Over the same period, Russia's imports also varied, beginning at US$99 billion in 2005, reaching US$316 billion in 2012, dropping to US$183 billion in 2015, and increasing to US$293 billion in 2021.",
+        "• In 2021, Russia's top import partners by value were China (US$72.7 billion, 24.7%), Germany (US$27.3 billion, 9.3%), the United States (US$17.2 billion, 5.8%), Belarus (US$15.6 billion, 5.3%), South Korea (US$12.9 billion, 4.4%), France (US$12.2 billion, 4.1%), Italy (US$12.0 billion, 4.1%), Japan (US$9.1 billion, 3.1%), Kazakhstan (US$7.1 billion, 2.4%), and Turkey (US$6.5 billion, 2.2%).",
+        "• Russia's top export destinations in 2021 included China (US$68.6 billion, 13.9%), the Netherlands (US$42.1 billion, 8.5%), Germany (US$29.6 billion, 6.0%), Turkey (US$26.4 billion, 5.3%), Belarus (US$23.1 billion, 4.7%), the United Kingdom (US$22.2 billion, 4.5%), Italy (US$19.2 billion, 3.9%), Kazakhstan (US$18.4 billion, 3.7%), the United States (US$17.7 billion, 3.6%), and South Korea (US$16.8 billion, 3.4%).",
+        "• Gross Regional Product (GRP) per capita in Russia for 2016 varied significantly, with categories including regions with GRP per capita of US$50,000 and over; US$30,000 to 50,000; the Russian average range of US$9,750 to 20,000; US$7,500 to 9,750; US$5,000 to 7,500; and under US$3,000, indicating regional economic disparities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:53:00.913335",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "2013–present",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, the Russian Federation's commercial services constituted 13.9% of total exports and 26.8% of total imports.",
+        "• Russia had a trade-to-GDP ratio of 46.6% in 2017, indicating the relative importance of trade to its economy.",
+        "• Between 2013 and 2017, Russia experienced a trade surplus in goods and a trade deficit in services; since goods trade volume exceeds services trade, the overall trade balance was a significant surplus.",
+        "• The ratio of Russia's goods trade (exports plus imports) to GDP has averaged approximately 40% in recent years, compared to about 20% for the United States, highlighting the greater relative importance of trade in Russia.",
+        "• In 2021, Russia ranked 13th globally among goods exporters and 22nd among goods importers.",
+        "• Official Russian sources reported that goods exports totaled $492 billion in 2021, representing a 46% increase from 2020 figures, without adjusting for inflation.",
+        "• Minerals, including oil and gas, accounted for nearly 45% of Russia's goods exports in 2021.",
+        "• Goods imports increased by 27% in 2021, reaching a total of $294 billion.",
+        "• Machinery and mechanical appliances were the leading category of goods imports, comprising almost one-third of Russia's total goods imports in 2021.",
+        "• In services trade for 2020, the most recent year with available data, Russia ranked 26th among global services exporters and 19th among importers.",
+        "• Russia was a net importer of services in 2020, exporting services worth $49 billion and importing services valued at $76 billion.",
+        "• According to the World Bank, in 2021, imports of goods and services accounted for 21.3% of Russia's GDP, while exports accounted for 30.9%.",
+        "• Russia's trade-to-GDP ratio (trade openness) was 49.26% in 2021, which is below the global average.",
+        "• A December 2022 study by an economist from the Bank of Russia's Research and Forecasting Department concluded that Russia's import dependence is relatively low and does not exceed the median level of other countries.",
+        "• The study noted that the share of imports in most Russian industries is lower than in other countries, attributed primarily to Russia’s limited integration into global value supply chains and its economic focus on raw material production.",
+        "• Despite the relatively low overall import dependence, 60% of Russia's imports originate from countries that have imposed sanctions against it."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:43.231586",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "7",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of Russia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1985 and 2018, nearly 28,500 mergers or acquisitions were announced in Russia, amounting to a total value of approximately USD 984 billion, equivalent to RUB 5.456 billion.",
+        "• The year 2007 recorded the highest total deal value in Russian M&A history, with transactions summing to USD 158 billion.",
+        "• The peak in the number of M&A deals occurred in 2010, with 3,684 deals announced, although the total value that year was significantly lower at USD 964 million compared to 2007.",
+        "• Since 2010, both the number and value of mergers and acquisitions in Russia have steadily declined, though another wave of M&A activity is anticipated in the future.",
+        "• The financial sector dominated Russian M&A activity, accounting for 29% of all deals involving Russian companies, followed by banks at 8.6%, oil and gas at 7.8%, and metals and mining at 7.2%.",
+        "• The largest M&A transaction by value was announced on 22 October 2012, when Rosneft Oil Co (Russian Federation, oil & gas) acquired TNK-BP Ltd (Russian Federation, oil & gas) for USD 27,854.12 million.",
+        "• Another significant transaction involving Rosneft Oil Co acquiring TNK-BP Ltd occurred on 24 July 2012, valued at USD 26,061.15 million.",
+        "• On 22 April 2003, Yukosneftegaz (Russian Federation, oil & gas) acquired Sibirskaia Neftianaia Co (Russian Federation, oil & gas) for USD 13,615.23 million.",
+        "• Gazprom (Russian Federation, oil & gas) acquired Sibneft (Russian Federation, oil & gas) on 28 September 2005 in a deal worth USD 13,101.08 million.",
+        "• On 13 April 2005, shareholders in the \"Other financials\" sector in Russia acquired Polyus (Russian Federation, metals & mining) for USD 12,867.39 million.",
+        "• MMC Norilsk Nickel PJSC (Russian Federation, metals & mining) was involved in a transaction on 16 December 2010 valued at USD 12,800 million, involving itself as both acquiror and target.",
+        "• Shareholders in the \"Other financials\" sector in Russia acquired HydroOGK (Russian Federation, power) on 27 July 2007 for USD 12,381.83 million.",
+        "• On 10 December 2016, QHG Shares Pte Ltd (Singapore, other financials) acquired Rosneft Oil Co (Russian Federation, oil & gas); the transaction value was not specified.",
+        "• KazakhGold Group Ltd (Kazakhstan, metals & mining) acquired Polyus Zoloto (Russian Federation, metals & mining) on 30 June 2010 for USD 10,261.33 million.",
+        "• Vladimir Potanin (Russian Federation, other financials) acquired MMC Norilsk Nickel PJSC (Russian Federation, metals & mining) on 5 August 2008 in a deal valued at USD 10,021.11 million.",
+        "• The majority of the top ten largest M&A deals involving Russian companies are concentrated in the oil and gas sector, followed by metals and mining."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:52:43.170498",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_russia.json",
+      "original_index": 39
+    }
+  ]
+}

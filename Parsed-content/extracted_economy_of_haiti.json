@@ -1,0 +1,410 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_haiti.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.007444",
+    "total_sections_in_source": 16,
+    "extracted_sections_count": 16,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Haiti has a free market economy characterized by low labor costs, supporting various sectors including agriculture and manufacturing.",
+        "• The country is a republic that was formerly a French colony, gaining independence through an uprising led by its enslaved population.",
+        "• Following independence, Haiti faced international embargoes and periods of political isolation, compounded by internal political crises, foreign interventions, and natural disasters.",
+        "• The estimated population of Haiti in 2018 was approximately 11,439,646 people.",
+        "• According to _The Economist_ in 2010, Haiti has long been recognized as the poorest country in the Western Hemisphere, experiencing continuous crises since the Duvalier era (François Duvalier's rule).",
+        "• Haiti's economy is predominantly agricultural, with over 50% of the world's vetiver oil produced in the country, an essential oil used in high-end perfumes.",
+        "• Major export crops include bananas, cocoa, and mangoes, which are significant for Haiti’s export economy.",
+        "• The country has been making efforts to diversify into higher-end manufacturing, producing Android-based tablets, current sensors, and transformers.",
+        "• The United States is Haiti’s primary trading partner, providing preferential trade access through legislation such as the Haiti Hemispheric Opportunity through Partnership Encouragement (HOPE) Act and the Haiti Economic Lift Program Encouragement Acts (HELP).",
+        "• Haiti faces significant vulnerabilities due to natural disasters, widespread poverty, and limited access to education, which hinder economic development.",
+        "• Approximately 40% (two-fifths) of Haitians depend on agriculture, mainly small-scale subsistence farming, making them highly vulnerable to damage from natural disasters.",
+        "• Widespread deforestation exacerbates Haiti’s vulnerability to natural calamities and environmental degradation.",
+        "• The country maintains a persistent trade deficit, which it aims to reduce by advancing into higher-end manufacturing and adding more value to its agricultural products.",
+        "• Remittances from the Haitian diaspora are the primary source of foreign exchange, accounting for nearly 20% of the country’s GDP.",
+        "• Haiti’s economy was severely impacted by the earthquake that occurred on 12 January 2010, causing extensive destruction and economic disruption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:28.852382",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Before the Haitian revolution in 1804, Haiti was the world's richest and most productive colony, with a highly developed economy based on plantation agriculture.",
+        "• During early independence, Haiti faced international isolation, with European countries and the United States (which did not recognize Haiti until 1862) withholding diplomatic recognition, negatively impacting investment.",
+        "• Haiti was compelled to pay France 150 million francs starting in 1825 as indemnity for its independence, which drained the country's capital and hindered economic development.",
+        "• A 2014 study attributes Haiti’s economic stagnation to weak state capacity and adverse international relations, noting the difficulty in gaining recognition, forming alliances, accessing foreign loans, and safeguarding trade interests due to external debt and restrictions like prohibiting foreign landownership.",
+        "• Late 19th-century export-led growth opportunities were limited by these stacked disadvantages, making economic progress difficult.",
+        "• The United States invaded and occupied Haiti from 1915 to 1934, impacting its political and economic stability.",
+        "• Post-1994, after constitutional governance was restored, Haiti committed to economic reforms including sound fiscal and monetary policies, legislation for modernizing state-owned enterprises, and establishing the Council to Modernize Enterprises Program (CMEP).",
+        "• Progress on privatizing some state enterprises, such as flour-mills and cement plants, has been achieved, but efforts on other parastatals have stalled, making modernization a controversial political issue.",
+        "• Under President René Préval (1996–2001, 2006–2011), Haiti pursued trade and tariff liberalization, expenditure control, tax revenue increases, civil-service downsizing, financial sector reform, privatization, and public-private management contracts; structural adjustment agreements with IMF, World Bank, and IDB aimed at fostering private sector growth, with only partial success.",
+        "• Since the 1980s, Haiti has lagged behind other low-income developing countries in social and economic indicators due to prior inappropriate policies, political instability, limited arable land, environmental degradation, reliance on traditional technologies, under-capitalization, low public investment in human resources, migration of skilled workers, and a weak savings rate.",
+        "• The 1991 coup exacerbated economic decline; international sanctions, including a 1994 UN embargo restricting all goods except humanitarian supplies, led to significant employment losses, especially in the assembly sector which employed nearly 80,000 workers in the mid-1980s but fell to 33,000 in 1991 and only 400 in October 1995.",
+        "• Post-coup, private, domestic, and foreign investment has been slow to recover; employment in the assembly sector has gradually increased to over 20,000 but growth remains hindered by safety and supply concerns.",
+        "• Remittances from abroad have been a vital financial support, consistently constituting a significant portion of household income.",
+        "• The Haitian Ministry of Economy and Finance implemented the 1996 economic reforms centered on the Emergency Economic Recovery Plan (EERP) and subsequent budget reforms to rebuild the economy.",
+        "• Haiti’s real GDP growth turned negative in FY 2001, declining by 1.1%, and continued to fall by 0.9% in FY 2002, due to political uncertainty, collapse of informal banking cooperatives, high budget deficits, low investment, and reduced international capital flows, including suspension of IFI lending.",
+        "• The economy stabilized in 2003; measures included floating fuel prices, raising interest rates, and reaching agreements with IMF and IDB, which disbursed loans totaling $35 million of a $50 million policy-based loan and $146 million in project loans.",
+        "• Despite stabilization, GDP per capita (which was $425 in FY 2002) is projected to decline further due to a population growth rate of 1.3% annually; external support remains critical to prevent economic collapse.",
+        "• In 2002, foreign remittances amounted to $931 million, and foreign assistance was $130 million; overall aid levels have declined since FY 1995, when aid exceeded $600 million following the restoration of elected government under a UN mandate.",
+        "• A legal minimum wage of 36 gourdes per day (about US $1.80) was established in 1995, later increased to 70 gourdes per day; the current minimum is 200 gourdes per day (about US $4.80), with 1 US dollar equal to 39.175 gourdes.",
+        "• The January 2010 earthquake, with a magnitude of 7.0, caused extensive destruction in Port-au-Prince and surrounding areas, inflicting $7.8 billion in damages and contracting GDP by 5.4% in 2010; Haiti was already the poorest country in the Americas, with 80% living under the poverty line and 54% in abject poverty.",
+        "• Post-earthquake reconstruction pledges totaled $4.59 billion, but progress has been slow.",
+        "• The US Haitian Hemispheric Opportunity through Partnership Encouragement (HOPE) Act, passed in December 2006, boosted apparel exports and investment by providing duty-free access to the US market; this legislation was extended until 2020 under the HELP Act.",
+        "• The apparel sector accounts for approximately 90% of Haitian exports and nearly 10% of GDP; remittances constitute about 20% of GDP, more than twice the earnings from exports.",
+        "• Haiti faces investment shortages due to limited infrastructure and security concerns; in 2005, Haiti paid its arrears to the World Bank, enabling reengagement, and received over $1 billion in debt forgiveness through the Highly-Indebted Poor Country initiative in mid-2009.",
+        "• Following the 2010 earthquake, external debt was canceled by donors but has since risen to over $600 million.",
+        "• The Haitian government relies heavily on international aid, with over half of its annual budget funded by external sources; in 2011, the Michel Martelly administration launched a campaign to attract foreign investment for sustainable development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:36.120300",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Debt cancellation",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2005, Haiti's total external debt was estimated at approximately US$1.3 billion, with a debt per capita of US$169, significantly lower than the US debt per capita of US$102,000.",
+        "• Following the democratic election of President Jean-Bertrand Aristide in December 1990, many international creditors responded by canceling substantial portions of Haiti's debt, reducing it to US$777 million in 1991.",
+        "• During the 1990s, Haiti's debt increased again due to new borrowing, surpassing US$1 billion.",
+        "• At its peak, Haiti's total external debt was estimated at US$1.8 billion, which included US$500 million owed to the Inter-American Development Bank, Haiti's largest creditor.",
+        "• In September 2009, Haiti qualified for debt relief under the IMF and World Bank's Heavily Indebted Poor Countries (HIPC) program after meeting specific conditions, resulting in a cancellation of US$1.2 billion of its external debt.",
+        "• Despite the debt cancellation in 2009, as of 2010, civil society groups such as the Jubilee Debt Campaign strongly called for the complete cancellation of Haiti's remaining approximately US$1 billion in debt, citing the adverse effects of the 2010 earthquake on the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:42.262404",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Primary industries",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Primary industries are essential for maintaining Haiti's economic diversity and its relevance in the international market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:43.798355",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Agriculture, forestry, and fishing",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Many Haitians rely on subsistence farming as their primary means of livelihood, but Haiti also maintains an agricultural export sector.",
+        "• Agriculture, combined with forestry and fishing, contributed approximately 28% to Haiti's gross domestic product (GDP) in 2004.",
+        "• The agriculture sector employed about 66% of the Haitian labor force in 2004.",
+        "• Expansion of agricultural activities has been challenging due to the mountainous terrain covering much of the countryside, which limits available land for cultivation.",
+        "• Haiti has a total of 550,000 hectares of arable land; of this, 125,000 hectares are suitable for irrigation, but only 75,000 hectares have been developed with irrigation infrastructure.",
+        "• The country's dominant cash crops include coffee, mangoes, and cocoa.",
+        "• Haiti has reduced its sugarcane production, a historically significant cash crop, due to declining global prices and intense international competition.",
+        "• Deforestation has led to a dramatic thinning of Haiti's forests, resulting in a decline in timber exports.",
+        "• Haiti's annual roundwood removals are approximately 1,000 kilograms.",
+        "• The country maintains a small fishing industry, with recent annual catches totaling about 5,000 tons."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:46.665686",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Mining and minerals",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, Haiti's mining industry extracted minerals valued at approximately US$13 million.",
+        "• The most extensively extracted minerals in Haiti include bauxite, copper, calcium carbonate, gold, and marble.",
+        "• Lime and aggregates are also extracted in Haiti, with marble being mined to a lesser extent.",
+        "• Gold was mined by the Spanish during early colonial times, indicating historical gold extraction activities.",
+        "• Bauxite mining occurred near Miragoâne on the Southern peninsula of Haiti over recent years.",
+        "• From 1960 to 1972, International Halliwell Mines, Ltd., a Canadian corporation, operated in Haiti through its wholly owned subsidiary, La Societe d'Exploitation et de Developpement Economique et Natural d'Haiti (Sedren).",
+        "• Sedren mined copper near Gonaïves, Haiti, during this period.",
+        "• The copper mining operation exported approximately 0.5 million tons of ore.",
+        "• The copper ore was valued at about US$83.5 million, generating significant revenue.",
+        "• The Haitian government received approximately US$3 million from the copper exports.",
+        "• As of 2012, there was promising potential for gold and copper mining activities in northern Haiti."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:53.324663",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.2.1",
+      "section_name": "Gold",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, it was reported that the Haitian government entered into confidential agreements and negotiations that granted licenses for exploration or mining of gold and associated metals such as copper.",
+        "• These licenses covered over 1,000 square miles (2,600 km²) within a mineralized zone extending from east to west across northern Haiti.",
+        "• The estimated value of the gold potentially extractable through open-pit mining in this zone is as high as US$20 billion.",
+        "• Eurasian Minerals and Newmont Mining Corporation are two of the firms involved in the exploration and mining activities within this region.",
+        "• According to Alex Dupuy, who is the Chair of African American Studies and John E. Andrus Professor of Sociology at Wesleyan University, Haiti’s capacity to effectively manage the mining operations or to utilize the funds generated for the benefit of its population remains untested and is a matter of serious concern.",
+        "• Lakwèv is one of the locations where local residents manually dig earth from tunnels and wash it for specks of free gold, indicating small-scale, informal gold extraction practices.",
+        "• In the same mineralized zone located in the Dominican Republic, companies Barrick Gold and Goldcorp are planning to reopen the Pueblo Viejo mine, highlighting regional interest in gold mining activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:22:58.750541",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Secondary industries",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Secondary industries in Haiti face a range of significant challenges that hinder their development and growth.",
+        "• These industries are characterized by various problems that impact their productivity, efficiency, and overall contribution to the Haitian economy.",
+        "• Despite these difficulties, Haiti has implemented certain austerity measures aimed at mitigating the adverse effects on its secondary industrial sector.",
+        "• The specific nature of these problems and the details of the austerity measures are not elaborated upon in the provided content, indicating a need for further explanation or additional information to fully understand the scope and impact of these issues."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:00.900853",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The leading manufacturing industries in Haiti include the production of beverages, butter, cement, detergent, edible oils, flour, refined sugar, soap, and textiles.",
+        "• Growth in both the manufacturing sector and the broader industry has been hindered primarily by a lack of capital investment.",
+        "• Although grants from the United States and other countries have aimed to address the capital deficit, these efforts have largely been unsuccessful.",
+        "• Private home building and construction are identified as subsectors with positive growth prospects.",
+        "• In 2004, the manufacturing sector contributed approximately 20 percent to Haiti's gross domestic product (GDP).",
+        "• In the same year, less than 10 percent of the Haitian labor force was employed in industrial production.",
+        "• Since the 1980s, the manufacturing sector's share of GDP has contracted.",
+        "• The United Nations embargo of 1994 resulted in the displacement of most of the 80,000 workers employed in Haiti’s assembly sector.",
+        "• The military rule following the 1991 presidential coup led to the closure of most offshore assembly plants located in free zones around Port-au-Prince.",
+        "• The return of President Aristide to Haiti brought some improvements to the manufacturing sector.",
+        "• In the late 1990s, Haiti's lower labor costs attracted some textile and garment assembly work back to the island.",
+        "• Despite these gains, international competition limited the growth of the apparel sector.",
+        "• By 2008, the apparel industry accounted for two-thirds of Haiti’s annual exports, which totaled approximately 490 million US dollars.",
+        "• The HOPE Act, enacted in December 2006, enhanced Haiti’s apparel exports and investment by providing tariff-free access to the US market.",
+        "• The HOPE II legislation, introduced in October 2008, extended preferential trade benefits to 2018, further supporting the apparel sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:10.525713",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Haiti's energy consumption is very low, approximately 250 kilograms of oil per person per year.",
+        "• In 2003, Haiti produced 546 million kilowatt-hours (kWh) of electricity while consuming 508 million kWh, indicating a slight net export or surplus.",
+        "• As of 2013, Haiti ranked 135th out of 135 countries in net total electricity consumption, reflecting very low energy use relative to other nations.",
+        "• The majority of Haiti's energy originates from the burning of wood, which is the primary energy source for the country.",
+        "• Haiti imports oil, with a consumption rate of about 11,800 barrels per day (1,880 cubic meters per day) as of 2003.",
+        "• The Péligre Dam, Haiti's largest hydroelectric facility, supplies electricity to Port-au-Prince, the capital city.",
+        "• Thermal power plants provide electricity to the rest of the country outside the capital region.",
+        "• Despite low overall energy demand, Haiti's electricity supply has historically been sporadic and prone to shortages.",
+        "• Mismanagement by the Haitian government has resulted in the loss of over US$100 million in foreign investment aimed at improving the country's energy infrastructure.",
+        "• Haitian businesses often secure backup power sources to cope with frequent electricity outages.",
+        "• There is significant potential for hydropower development in Haiti, contingent upon the country's willingness and capacity to invest in such projects.",
+        "• The Haitian government controls oil and gas prices to some extent, which helps shield consumers from fluctuations in international energy prices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:15.648168",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "5",
+      "section_name": "Tertiary industries",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Haiti's economy is heavily dependent on tertiary industries, which encompass services such as tourism, banking, telecommunications, and transportation.",
+        "• The tertiary sector plays a crucial role in providing employment and generating income for the country, contributing substantially to GDP.",
+        "• Tourism is a vital component of Haiti’s tertiary industries, with attractions including historical sites, beaches, and cultural festivals, although the sector faces challenges due to political instability and natural disasters.",
+        "• The banking sector in Haiti is relatively underdeveloped but remains essential for financial transactions, with several local banks operating within the country.",
+        "• Telecommunications infrastructure is limited but growing, facilitating communication and business operations, though coverage and quality vary across regions.",
+        "• Transportation services, including domestic and international shipping, air travel, and road networks, are integral to Haiti’s service economy, supporting trade and mobility.",
+        "• The expansion of tertiary industries is seen as critical for economic development, especially in diversifying the economy beyond agriculture and manufacturing.",
+        "• Despite their importance, these industries face obstacles such as inadequate infrastructure, political instability, and vulnerability to natural disasters, which hinder growth.",
+        "• The government and international organizations recognize the need to strengthen and modernize the tertiary sector to improve economic resilience and reduce poverty."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:23.530529",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Services",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2004, Haiti's services sector constituted 52 percent of the country's gross domestic product (GDP).",
+        "• The services sector employed 25 percent of Haiti's labor force in 2004.",
+        "• According to World Bank statistics, the services sector is one of the few sectors in Haiti's economy that experienced steady, albeit modest, growth throughout the 1990s.",
+        "• A distinctive institution within Haiti's services sector is the Madan Saras, a large group of women who buy and transport agricultural produce from farms to markets.",
+        "• Women in Haiti have traditionally played the role of marketers of produce, while men are primarily responsible for cultivating the land."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:26.602368",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Banking",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The lack of a stable and trustworthy banking system has significantly impeded Haiti's overall economic development.",
+        "• Haitian banks have experienced regular collapses, contributing to financial instability within the country.",
+        "• The majority of Haitians lack access to any form of credit or loans, limiting economic participation and growth.",
+        "• In the 2000 presidential election, President Jean-Bertrand Aristide was reelected and promised to address the banking sector issues; however, he implemented a plan centered on \"cooperatives\" that proved unsustainable.",
+        "• The cooperative scheme introduced by Aristide guaranteed investors a 10 percent rate of return, but by 2000, these cooperatives had failed, resulting in Haitians collectively losing over US$200 million in savings.",
+        "• Haiti's central banking authority is the Bank of the Republic of Haiti, which supervises 10 commercial banks and two foreign banks operating within the country.",
+        "• Most banking activities are concentrated in Port-au-Prince, the capital city of Haiti.",
+        "• International organizations such as the United Nations and the International Monetary Fund have led efforts to diversify and expand Haiti’s financial sector, aiming to increase credit availability, particularly to rural populations.",
+        "• In 2002, the Canadian International Development Agency conducted a training program specifically for Haitian Credit Unions to strengthen local financial institutions.",
+        "• Haiti does not have a stock exchange, limiting avenues for capital markets development within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:31.833084",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism in Haiti has been significantly impacted by the country's political upheaval, leading to a decline in visitor numbers and industry stability.",
+        "• The country's inadequate infrastructure has further limited the number of visitors, hindering the development of a robust tourism sector.",
+        "• During the 1970s and 1980s, tourism was a vital industry for Haiti, attracting an average of 150,000 visitors annually.",
+        "• Following the 1991 coup d'état, Haiti's tourism industry experienced a slow recovery, indicating ongoing challenges in restoring visitor confidence and infrastructure.",
+        "• The Caribbean Tourism Organization (CTO) has collaborated with the Haitian government to attempt to restore Haiti's image as a desirable tourist destination.",
+        "• In 2001, the number of foreign visitors to Haiti was 141,000, representing a slight decline from previous peak levels; most of these visitors originated from the United States.",
+        "• To transform tourism into a major industry, Haiti requires further improvements in its hotels, restaurants, and overall infrastructure to attract and accommodate more visitors effectively."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:40.142532",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "5.4",
+      "section_name": "Television",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• International television companies have established subscriber bases in Haiti numbering in the tens of thousands, although specific citation details are not provided.",
+        "• Canal+, a prominent international television provider, perceives substantial potential for growth within the Haitian pay TV market.",
+        "• As of the year 2021, Canal+ had accumulated over 100,000 subscribers in Haiti."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:42.610250",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "6",
+      "section_name": "Macro-Economic",
+      "chapter_name": "Economy of Haiti",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents key macroeconomic indicators for Haiti from 1980 to 2024, illustrating trends in GDP (both PPP and nominal), GDP per capita, real GDP growth, inflation rates, and government debt as a percentage of GDP.",
+        "• In 1980, Haiti's GDP was approximately 10.2 billion US dollars (PPP), with a GDP per capita of 1,715 US dollars (PPP), and a nominal GDP of 2.7 billion US dollars.",
+        "• Between 1980 and 1985, Haiti's GDP increased from 10.2 billion to 12.9 billion US dollars (PPP), with GDP per capita rising from 1,715 to 1,978 US dollars (PPP), and nominal GDP growing from 2.7 to 4.0 billion US dollars.",
+        "• During this period, Haiti experienced a significant decrease in GDP growth from 7.3% in 1980 to 0.8% in 1985, with inflation rates decreasing from 19.1% to 10.6%.",
+        "• In 1990, Haiti's GDP reached approximately 14.8 billion US dollars (PPP), with a GDP per capita of 2,089 US dollars (PPP), and nominal GDP of 1.7 billion US dollars, with a slight decline in GDP growth to -0.4% and inflation rising to 21.3%.",
+        "• The mid-1990s saw a modest increase in GDP to 15.3 billion US dollars (PPP) in 1995, with GDP per capita at 1,953 US dollars (PPP), and nominal GDP at 4.8 billion US dollars; inflation peaked at 9.9%, and government debt was 30.2% of GDP.",
+        "• From 2000 onward, Haiti's GDP in PPP terms showed consistent growth, reaching 18.8 billion US dollars in 2000 and increasing to 37.7 billion US dollars in 2022, with fluctuations in growth rates.",
+        "• In 2000, GDP per capita was 2,195 US dollars (PPP), and nominal GDP was 6.8 billion US dollars; the GDP growth rate was 0.9%, and government debt was 32% of GDP.",
+        "• The period from 2005 to 2010 saw gradual increases in GDP, with 2008 reaching 26.4 billion US dollars (PPP), GDP per capita at 2,707 US dollars, and nominal GDP at 10.5 billion US dollars; inflation was relatively low at 2.7% in 2008.",
+        "• In 2010, Haiti experienced a negative GDP growth of -5.7%, with GDP at 26.9 billion US dollars (PPP), and GDP per capita at 2,666 US dollars (PPP), alongside a significant drop in government debt to 25% of GDP.",
+        "• From 2011 to 2014, Haiti's GDP continued to grow, reaching 32.4 billion US dollars (PPP) in 2014, with GDP per capita at 3,017 US dollars, and nominal GDP at 15.1 billion US dollars; inflation remained low at 1.7%.",
+        "• The years 2015 to 2018 saw steady growth, with GDP peaking at 36.0 billion US dollars in 2017, GDP per capita at 3,200 US dollars, and nominal GDP at 16.5 billion US dollars; inflation was around 1.7% in 2018.",
+        "• In 2019, Haiti's GDP was approximately 35.4 billion US dollars (PPP), with GDP per capita at 3,057 US dollars, and nominal GDP at 14.8 billion US dollars; inflation turned negative at -1.7%, and government debt increased to 27%.",
+        "• The COVID-19 pandemic period (2020) saw a decline in GDP to 34.9 billion US dollars (PPP), with GDP per capita at 2,971 US dollars, and nominal GDP at 14.5 billion US dollars; inflation was -3.3%, and government debt rose to 22.9%.",
+        "• In 2021, Haiti's GDP recovered slightly to 35.8 billion US dollars (PPP), with GDP per capita at 3,005 US dollars, and nominal GDP at 21.0 billion US dollars; inflation was -1.8%, with government debt at 29%.",
+        "• The year 2022 marked a peak in nominal GDP at 37.7 billion US dollars, with GDP per capita at 3,123 US dollars, and a nominal GDP of 19.8 billion US dollars; inflation was again negative at -1.7%, and government debt increased to 30%.",
+        "• In 2023, GDP was approximately 38.3 billion US dollars (PPP), with GDP per capita at 3,133 US dollars, and nominal GDP at 19.6 billion US dollars; inflation remained negative at -1.9%, and government debt decreased to 28%.",
+        "• The projected data for 2024 indicates a slight decline in GDP to 37.7 billion US dollars (PPP), with GDP per capita estimated at 3,039 US dollars, and nominal GDP at 26.3 billion US dollars; inflation is forecasted at -4.0%, with government debt at 14%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:51.708204",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_haiti.json",
+      "original_index": 15
+    }
+  ]
+}

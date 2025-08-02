@@ -1,0 +1,237 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_maldives.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.197182",
+    "total_sections_in_source": 10,
+    "extracted_sections_count": 10,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In ancient times, the Maldives were renowned for exporting cowries, coir rope, dried tuna fish (known locally as Maldive fish), ambergris (referred to as _maavaharu_), and coco de mer (_tavakkaashi_), which were loaded onto local and foreign trading ships for international trade.",
+        "• The contemporary economy of the Maldives is a mixed economy primarily based on tourism, fishing, and shipping, influenced significantly by the country's strategic geographic location near vital sea routes critical for China’s energy supplies.",
+        "• China has actively leveraged its economic resources to increase its influence over the Maldivian government, reflecting the geopolitical importance of the Maldives in regional energy and trade routes.",
+        "• Tourism is the largest sector in the Maldivian economy, contributing 28% to the country’s GDP and accounting for more than 60% of foreign exchange earnings, highlighting its central role in economic development.",
+        "• The expansion of GDP per capita in the Maldives was notably driven by tourism, with a 265% increase during the 1980s and an additional 115% growth in the 1990s, underscoring tourism’s transformative economic impact.",
+        "• Over 90% of government tax revenues in the Maldives are derived from import duties and taxes related to the tourism industry, indicating the sector’s critical fiscal importance.",
+        "• Fishing is the second most significant economic sector in the Maldives, benefiting from government economic reforms initiated in 1989 that removed import quotas and opened certain exports to private sector participation.",
+        "• Post-1989 reforms also liberalized regulations to encourage increased foreign investment in the Maldivian economy, particularly in fishing and related industries.",
+        "• Agriculture and manufacturing have a minor economic role due to limited cultivable land and a shortage of domestic labor; consequently, most staple foods consumed in the Maldives are imported.",
+        "• The industrial sector in the Maldives mainly comprises garment production, boat building, and handicrafts, collectively accounting for approximately 18% of the national GDP.",
+        "• Maldivian authorities express concern over environmental challenges such as coastal erosion and the potential impacts of global warming, which threaten the low-lying island nation.",
+        "• Out of the total 1,190 islands in the Maldives, only 198 are inhabited, with the population dispersed across these islands but most densely concentrated on the capital island, Malé.",
+        "• Residents of Malé face challenges including limited access to potable water, scarce arable land, and problems related to congestion due to the high population density.",
+        "• Infrastructure development in the Maldives is heavily reliant on the tourism industry and its associated tertiary sectors, including transport, distribution, real estate, construction, and government services.",
+        "• Revenues from taxes on the tourism sector are reinvested into infrastructure projects and are also used to enhance technological advancements in the agricultural sector, supporting broader economic development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:24.063097",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The International Monetary Fund (IMF) estimated the gross domestic product (GDP) of the Maldives at market prices in millions of rufiyaa for selected years between 1980 and 2011, showing a growth from 440 million rufiyaa in 1980 to 10,458 million rufiyaa in 2005 and maintaining the same nominal value in 2011.",
+        "• The US dollar exchange rate against the Maldivian rufiyaa fluctuated over the period, starting at 7.58 rufiyaa per US dollar in 1980, reaching 15.40 rufiyaa per US dollar by 2011, indicating a depreciation of the rufiyaa.",
+        "• Per capita income of the Maldives as a percentage of the USA’s per capita income increased from 3.11% in 1980 to a peak of 7.43% in 2011, with some fluctuations including a dip to 5.33% in 2005.",
+        "• The Maldives experienced relatively low inflation rates in recent years, with real GDP growth averaging about 10% during the 1980s.",
+        "• In 1990, the Maldives recorded an exceptional real GDP growth rate of 16.2%, which declined to 4% by 1993.",
+        "• Between 1995 and 2004, the Maldives’ real GDP growth averaged just over 7.5% per year, indicating sustained economic expansion during that decade.",
+        "• The 2005 Indian Ocean tsunami caused a contraction of the Maldives’ GDP by approximately 5.5%, but the economy rebounded strongly in 2006 with a 13% increase in GDP.",
+        "• Key economic indicators from 1980 to 2020 show the Maldives’ GDP in purchasing power parity (PPP) terms grew from 0.24 billion US dollars in 1980 to a peak of 7.63 billion US dollars in 2015, before slightly declining to 7.27 billion US dollars in 2020.",
+        "• GDP per capita in PPP terms increased steadily from 1,599 US dollars in 1980 to a high of 21,931 US dollars in 2015, followed by a decrease to 19,222 US dollars in 2020.",
+        "• Inflation rates in the Maldives showed significant variability over the period, with a high of 27.9% in 1980, negative inflation (deflation) of -9.16% in 1985, and fluctuating positive and negative rates thereafter, including -1.59% in 2020.",
+        "• Government debt as a percentage of GDP was not specified for years before 2000 but was recorded at 39% in 2000, increasing to 43% in 2005, 53% in 2010, 55% in 2015, and sharply rising to 146% by 2020, indicating a significant increase in public debt relative to the economy’s size."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:22.268859",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Industry",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The industrial sector in the Maldives contributes approximately 7% to the country's Gross Domestic Product (GDP).",
+        "• Traditional industries in the Maldives primarily include boat building and the production of handicrafts.",
+        "• Modern industrial activities in the Maldives are limited and consist mainly of a few tuna canneries.",
+        "• The Maldives has five garment factories operating within its industrial sector.",
+        "• Additional modern industrial enterprises in the capital produce various goods such as PVC pipes, soap, furniture, and food products.",
+        "• The Maldives currently does not have any patent laws in place to protect intellectual property rights."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:13.351785",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Financial",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The banking industry is the predominant component of the Maldives' small financial sector, consisting of seven banks that operate under the regulation of the Maldives Monetary Authority.",
+        "• Historically, the Maldives had no income tax, sales tax, property tax, or capital-gains tax, resulting in what was considered the simplest tax code globally.",
+        "• Taxation in the Maldives is currently overseen by the Maldives Inland Revenue Authority (MIRA), which administers the country's tax policies and regulations.",
+        "• In 2011, the Tax Justice Network assigned the Maldives a \"secrecy score\" of 92 on its Financial Secrecy Index, marking the highest score in that category among all actively-ranked countries at the time.",
+        "• By 2022, the Maldives' secrecy score had decreased to 75, causing it to fall out of the top ten countries in the Financial Secrecy Index rankings.",
+        "• Despite changes in secrecy scores, the Maldives consistently ranked near the bottom of the overall weighted lists in both 2011 and 2022 due to its minor share of the global financial market.",
+        "• A notable geopolitical trend involves Beijing leveraging its economic influence to achieve strategic objectives, a pattern evident not only in small Indian Ocean island nations such as the Maldives and Sri Lanka but also across the broader Indo-Pacific region, including countries with large and advanced economies.",
+        "• The government of the Maldives is actively addressing concerns related to the risk of falling into debt entrapment with China, reflecting apprehensions about the implications of Chinese economic involvement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:16.018683",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Shipping",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Beginning in the 1990s, the Port of Male received over £10 million in loans from the Asian Development Bank (ADB) specifically designated for infrastructure upgrades.",
+        "• According to the ADB, from 1991 to 2011, the port's annual throughput in freight tons increased from 273,000 to 1 million, directly attributed to the loan-funded improvements.",
+        "• The Asian Development Bank also provided training programs for port authority staff aimed at enhancing operational efficiency.",
+        "• A joint report by the ADB and the Government of Maldives highlighted significant improvements in ship turn-around times at the Port of Male, reducing from approximately 10 days in 1991 to 3.8 days by 1997, and further down to about 2.6 days by 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:13.696531",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2",
+      "section_name": "Environmental concerns",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The coral reef and marine life of the Maldives face increasing threats from coral mining, which is utilized for building materials and jewelry making, as well as from sand dredging, solid waste pollution, and oil spills originating from boats.",
+        "• The extraction of sand and coral has led to the destruction of natural coral reefs that historically protected several key islands, resulting in these islands becoming highly vulnerable to the erosive forces of the sea.",
+        "• The degradation of large coral beds due to elevated sea temperatures is an escalating environmental concern in the Maldives.",
+        "• In April 1987, high tides caused widespread inundation of Malé and nearby islands, an event that prompted Maldivian authorities to take the implications of global climatic changes seriously.",
+        "• A 2003 research study conducted by the International Union for Quaternary Research (INQUA) found that actual sea levels in the Maldives had decreased during the 1970s and projected minimal change in sea levels over the following century.",
+        "• There is significant concern regarding shark fishing practices in the Maldives; although shark fishing is legally prohibited, enforcement of these laws is weak, leading to a sharp decline in shark populations in recent years.",
+        "• The presence of the Asian brown cloud over the northern Indian Ocean is another environmental issue affecting the Maldives, with studies indicating that this atmospheric phenomenon contributes to decreased sunshine and increased acid rain in the region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:13.665712",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Energy",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Historically, electricity generation in the Maldives has relied entirely on diesel generators, reflecting the country's dependence on imported fossil fuels for energy production.",
+        "• To mitigate the high costs associated with diesel fuel, the Maldives has increasingly adopted solar power as an alternative energy source, aiming to reduce operational expenses and environmental impact.",
+        "• The resort located on Dhiddhoofinolhu island claims to operate the world's largest oceanic floating solar plant, with a capacity of 678 kilowatts (kW), which is sufficient to meet the peak electricity demand of the facility.",
+        "• The Environment Ministry of the Maldives has implemented solar–battery–diesel hybrid energy systems across the outer islands, integrating renewable energy with traditional diesel generators to enhance energy reliability and sustainability.",
+        "• These hybrid systems are part of a strategic initiative to reduce government subsidies on imported diesel fuel, thereby lowering the fiscal burden and encouraging energy self-sufficiency.",
+        "• The deployment of solar–battery–diesel hybrid systems also aims to promote low-carbon energy independence in the Maldives, contributing to the country’s environmental goals and climate change mitigation efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:19.506627",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Poverty, income and gender inequality",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Maldives successfully achieved its Millennium Development Goal (MDG) of reducing by half the proportion of people living below the poverty line, reaching a poverty rate of 1% as of 2011.",
+        "• The country has effectively eliminated starvation, reduced HIV infection rates, and eradicated malaria, marking significant public health achievements.",
+        "• Despite these positive outcomes and ongoing economic growth, the Maldives continues to face developmental challenges, particularly concerning income inequality and gender disparities.",
+        "• Economic and social development has been concentrated mainly in the capital city, Malé, resulting in uneven progress across the country.",
+        "• Islands outside Malé experience higher vulnerability to poverty, lower per-capita income, reduced employment opportunities, and limited access to essential social services compared to the capital.",
+        "• A nationwide household income survey conducted during 1997-1998 revealed that the average income in Malé was 75% greater than that of the surrounding islands, highlighting significant regional income disparities.",
+        "• The Maldives has a Gini coefficient of 0.41, indicating a moderate level of income inequality within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:18.780131",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Poverty and Income Disparity",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The persistence of poverty among Maldivians is influenced by several key factors, including geographic location, health status, household demographics, and gender composition.",
+        "• Geographic disparity is significant, with residents in the northern regions of the Maldives experiencing higher poverty rates due to relatively lower levels of development compared to other regions.",
+        "• Health-related poverty arises as Maldivians who are unable to work due to poor health often remain impoverished, potentially because of limited accessibility to health services across the country.",
+        "• Household composition impacts income levels; specifically, a larger proportion of young family members within a household correlates with lower overall household income.",
+        "• Gender dynamics also affect income, as households with a greater proportion of female members tend to have lower incomes, attributed to the lower female labor participation rate in the Maldives.",
+        "• The challenge of accessing social services and infrastructure in the outer atolls is a critical geographic factor contributing to poverty and income disparity in the Maldives.",
+        "• Islands located far from the capital suffer from a lack of production opportunities, inadequate utilization of fishery resources, underdeveloped value chains, and insufficient credit availability for small-scale producers and entrepreneurs.",
+        "• Environmental and agricultural constraints, including scarcity of land and water, underdeveloped farming practices, and the absence of support services in the atolls, result in low agricultural production and consequently low incomes in these regions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:20.420974",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Current Efforts",
+      "chapter_name": "Economy of the Maldives",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The government of the Maldives has acknowledged the challenges related to income and gender disparities within the country.",
+        "• In collaboration with the United Nations Development Programme (UNDP), the Maldives has implemented targeted policies aimed at directly addressing issues of income inequality and gender disparity.",
+        "• In 2011, President Mohamed Nasheed emphasized the critical role of human capital in national development, stating that the most important resource for a country's progress is its people.",
+        "• President Nasheed highlighted that since women constitute half of the population, their full participation is essential and will significantly accelerate the pace of the Maldives' development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:18.836479",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_the_maldives.json",
+      "original_index": 9
+    }
+  ]
+}

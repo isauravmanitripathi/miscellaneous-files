@@ -1,0 +1,570 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_serbia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.875687",
+    "total_sections_in_source": 19,
+    "extracted_sections_count": 19,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Serbia is classified as a developing upper-middle income economy, indicating a transitional stage with moderate to high income levels.",
+        "• The tertiary sector, encompassing services, constitutes approximately two-thirds of Serbia's total gross domestic product (GDP), highlighting the dominance of service industries in the economy.",
+        "• Serbia's nominal GDP is projected to reach $92 billion by the year 2025, reflecting anticipated economic growth.",
+        "• The GDP per capita in Serbia is estimated at $14,175, providing a measure of average economic output per person.",
+        "• Serbia's purchasing power parity (PPP) GDP stood at $216.22 billion, which translates to a PPP per capita of $33,115, indicating the relative domestic purchasing power of its citizens.",
+        "• Belgrade serves as Serbia's capital city and primary financial centre, playing a central role in the country's economic activities.",
+        "• Novi Sad and Niš are recognized as significant economic hubs within Serbia, contributing to regional economic development.",
+        "• The Belgrade Waterfront, a major urban development project, is located adjacent to the National Bank of Serbia and the Belgrade Stock Exchange, symbolizing the integration of financial institutions and urban growth.",
+        "• Serbia possesses a substantial industrial and manufacturing sector, with key focuses on machinery production, automotive manufacturing, energy generation, and mining operations.",
+        "• The core export commodities of Serbia include automobiles, base metals, furniture, food processing products, machinery, chemicals, tires, clothing, and pharmaceuticals, demonstrating a diversified export portfolio.",
+        "• Serbia's economy is highly dependent on international trade within Europe, emphasizing the importance of regional economic integration.",
+        "• Key trading partners for Serbia encompass neighboring countries in Central Europe, as well as major global economies such as China and Russia, reflecting a broad international trade network."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:21.216971",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Historical preview",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the decades preceding World War I, Serbia's GDP growth rate was 0.28% per annum, which was slower than that of Northwestern Europe, resulting in a widening economic divergence between Serbia and Western Europe.",
+        "• Prior to World War I, Serbia experienced extensive growth in its dominant agricultural sector, while its industrial and service sectors remained relatively small.",
+        "• In the late 1980s, at the onset of economic transition from a planned economy to a market economy, Serbia's economy was favorably positioned compared to most Eastern Bloc countries.",
+        "• During the 1990s, Serbia's economy was severely impacted by poor economic decision-making, the Yugoslav Wars, and United Nations sanctions and trade embargoes.",
+        "• Concurrently, Serbia experienced a significant \"brain drain,\" with many skilled individuals leaving the country.",
+        "• The Serbian economy underwent a severe recession that persisted until 1999.",
+        "• Following the overthrow of Slobodan Milošević in 2000, Serbia embarked on a transition to a market-based economy, resulting in sustained economic growth.",
+        "• During the post-2000 transition period, Serbia's economy grew at an annual rate of 4-5%, average wages quadrupled, and economic and social opportunities improved dramatically.",
+        "• In 2009, during the Great Recession, Serbia's economy contracted by 3.1%.",
+        "• After several years of economic stagnation, Serbia only returned to its pre-crisis GDP level in 2016.",
+        "• Since 2014, Serbia has been engaged in accession negotiations to join the European Union."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:18.548662",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Economic growth",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Serbian economy is projected to reach a value of $116 billion by the year 2029, according to the International Monetary Fund (IMF), indicating a growth rate that slightly surpasses that of other former Yugoslav Republics.",
+        "• Since 2008, Serbia has held the position as the largest economy among the former Yugoslav Republics when measured by purchasing power parity (PPP).",
+        "• By nominal GDP, Serbia has been the second-largest economy among the former Yugoslav Republics since 1998.",
+        "• Serbia's current debt-to-GDP ratio stands at 41.7%, which is notably below the Maastricht criteria threshold of 60%, considered the upper limit for an acceptable debt level.",
+        "• The country's sovereign debt level is forecasted to be the second-lowest among the former Yugoslav Republics by 2029, with a projected reduction from the current 49% to 46% of GDP.",
+        "• The average annual GDP growth rate for Serbia from 2020 to 2025 is estimated at 4%.",
+        "• The GDP structure by sector in Serbia is composed of 67.9% services, 26.1% industry, and 6.0% agriculture.",
+        "• The GDP composition by end use in 2017 was as follows: household consumption accounted for 78.2%, government consumption for 10.1%, investment in fixed capital for 18.5%, investment in inventories for 2%, exports of goods and services for 52.5%, and imports of goods and services represented -61.3%.",
+        "• Serbia's GDP growth rates over selected years, according to the World Bank, are: 7.8% in 2000; 7.1% in 2002; 9.0% in 2004; 9.7% in 2006; 5.7% in 2008; 0.7% in 2010; 2.0% in 2011; -0.7% in 2012; 2.9% in 2013; -1.6% in 2014; 1.8% in 2015; 3.3% in 2016; 2.0% in 2017; 4.4% in 2018; 4.2% in 2019; -0.9% in 2020; 7.5% in 2021; 2.3% in 2022; and 2.5% in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:18.035742",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Public finances",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 2000 and 2008, Serbia's public debt relative to GDP decreased significantly by 140.1 percentage points, reflecting a major reduction in debt burden during this period.",
+        "• After 2008, Serbia's public debt began to increase again as the government took measures to combat the effects of the global financial crisis that started in 2008.",
+        "• In 2018, Serbia's public debt was recorded at 53.8% of GDP, indicating a moderate level of indebtedness relative to the size of the economy.",
+        "• Public debt in absolute terms (billions of euros) and as a share of GDP over selected years is as follows:",
+        "• In 2000, public debt was €14.17 billion, constituting 201.2% of GDP.",
+        "• By 2002, debt decreased to €13.43 billion, or 68.3% of GDP.",
+        "• In 2004, debt further declined to €11.02 billion (52.6% of GDP).",
+        "• In 2006, debt stood at €9.35 billion (35.9% of GDP).",
+        "• In 2008, debt was €8.78 billion, representing 28.3% of GDP.",
+        "• Post-crisis, debt rose to €9.85 billion (32.8% of GDP) in 2009 and continued increasing to €12.16 billion (41.8% of GDP) in 2010.",
+        "• In 2011, debt reached €14.78 billion (45.4% of GDP).",
+        "• By 2012, it increased to €17.72 billion (56.2% of GDP).",
+        "• In 2013, debt was €20.14 billion (59.6% of GDP).",
+        "• In 2014, debt rose to €22.76 billion (70.4% of GDP).",
+        "• In 2015, debt further increased to €24.81 billion (74.7% of GDP).",
+        "• In 2016, debt slightly decreased to €24.71 billion (71.9% of GDP).",
+        "• In 2017, debt was €23.21 billion (61.5% of GDP).",
+        "• In 2018, debt stood at €23.01 billion (53.8% of GDP).",
+        "• By 2021, debt increased to €29.60 billion (56.5% of GDP).",
+        "• In 2022, public debt was €30.56 billion, accounting for 52.1% of GDP.",
+        "• The source of the public debt data is the Ministry of Finance of Serbia, with archival records available as of 13 May 2018 via the Wayback Machine Public Debt Administration.",
+        "• Serbian foreign exchange reserves experienced substantial growth from 2000 to 2009, reaching €10.6 billion by 2009, and have remained relatively stable at that level since then.",
+        "• Foreign exchange reserves held by the National Bank of Serbia and commercial banks, along with total reserves (billions of euros), over selected years are as follows:",
+        "• In 2000, central bank reserves were €0.55 billion, commercial banks held €0.39 billion, totaling €0.95 billion.",
+        "• By 2002, central bank reserves increased to €2.19 billion, commercial banks to €0.68 billion, totaling €2.86 billion.",
+        "• In 2004, central bank reserves were €3.10 billion, commercial banks €0.59 billion, total €3.70 billion.",
+        "• In 2006, central bank reserves rose sharply to €9.02 billion, commercial banks held €0.52 billion, total €9.54 billion.",
+        "• In 2008, central bank reserves were €8.16 billion, commercial banks €0.92 billion, total €9.08 billion.",
+        "• In 2009, central bank reserves peaked at €10.60 billion, commercial banks €1.42 billion, total €12.03 billion.",
+        "• In 2010, central bank reserves slightly decreased to €10.00 billion, commercial banks increased to €1.68 billion, total €11.69 billion.",
+        "• In 2011, central bank reserves were €12.06 billion, commercial banks €0.80 billion, total €12.87 billion.",
+        "• In 2012, central bank reserves were €10.91 billion, commercial banks €1.06 billion, total €11.97 billion.",
+        "• In 2013, central bank reserves were €11.19 billion, commercial banks €0.91 billion, total €12.10 billion.",
+        "• In 2014, central bank reserves decreased to €9.91 billion, commercial banks increased to €1.73 billion, total €11.64 billion.",
+        "• In 2015, central bank reserves were €10.38 billion, commercial banks €1.43 billion, total €11.81 billion.",
+        "• In 2016, central bank reserves slightly declined to €10.20 billion, commercial banks €1.56 billion, total €11.76 billion.",
+        "• In 2017, central bank reserves were €9.96 billion, commercial banks €1.11 billion, total €11.07 billion.",
+        "• In 2018, central bank reserves increased to €11.26 billion, commercial banks €1.63 billion, total €12.89 billion.",
+        "• By 2021, central bank reserves rose to €13.90 billion, commercial banks €2.55 billion, total €16.45 billion.",
+        "• In 2022, central bank reserves reached €14.22 billion, commercial banks €3.05 billion, total €17.27 billion.",
+        "• The source of the foreign exchange reserves data is the National Bank of Serbia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:25.819702",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 41
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Currency and inflation",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The official currency of Serbia is the Serbian dinar, with its earliest recorded use dating back to the year 1214.",
+        "• Serbia has historically struggled with high inflation rates, particularly during the 1980s and 1990s, culminating in a period of hyperinflation in 1992 and 1993 that lasted for 25 months.",
+        "• In 1993, Serbia experienced an extreme monthly inflation rate of 313 million percent, marking one of the most severe hyperinflation episodes in modern history.",
+        "• Since the early 2000s, Serbia’s inflation rate has stabilized significantly, with relatively low inflation levels recorded in recent years.",
+        "• Inflation rates in Serbia from 2002 to 2022 show a general downward trend with fluctuations, starting at 19.5% in 2002, decreasing to single digits by 2009, reaching as low as 1.1% in 2016 and 2020, before rising again to 15.0% in 2022.",
+        "• The inflation rates for selected years are as follows: 19.5% (2002), 11.0% (2004), 11.7% (2006), 12.4% (2008), 8.1% (2009), 6.1% (2010), 11.1% (2011), 7.3% (2012), 7.7% (2013), 2.1% (2014), 1.4% (2015), 1.1% (2016), 3.0% (2017), 2.0% (2018), 1.9% (2019), 1.1% (2020), 4.2% (2021), and 15.0% (2022).",
+        "• Exchange rates of the Serbian dinar against the US dollar (USD) and the euro (EUR) have fluctuated over the years, with data recorded annually on December 31 by the World Bank and the National Bank of Serbia.",
+        "• The USD to RSD exchange rate ranged from 58.98 in 2002 to a peak of 117.13 in 2016, with values such as 62.90 (2008), 79.28 (2010), 99.46 (2014), and 110.48 (2022).",
+        "• The EUR to RSD exchange rate increased from 61.51 in 2002 to values around 117 in recent years, with notable figures including 88.60 (2008), 105.50 (2010), 120.96 (2014), and 117.67 (2022).",
+        "• The data on inflation and exchange rates reflect Serbia’s economic stabilization efforts post-hyperinflation and the ongoing challenges in maintaining currency stability amid regional and global economic conditions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:22.336555",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Motor vehicles, exemplified by the Fiat 500L, constitute the leading export product of Serbia, highlighting the significance of the automotive sector in the country's external trade.",
+        "• Serbia maintains an extensive network of free trade agreements with various foreign countries and trading blocs, facilitating the reduction or elimination of customs duties and other trade barriers.",
+        "• In 2008, Serbia signed a free trade agreement with the European Union (EU), which allows the export of all products originating from Serbia to EU member states without customs and other fees; however, annual import quotas remain in effect for a limited number of products, specifically baby beef, sugar, and wine.",
+        "• As of 2016, EU countries represented the largest trading partners of Serbia, accounting for 64.4% of the country's total foreign trade, underscoring the EU's dominant role in Serbia's trade relations.",
+        "• Serbia is a member of the Central European Free Trade Agreement (CEFTA), which permits duty-free exports of all Serbian-origin products to neighboring countries including Albania, Bosnia and Herzegovina, North Macedonia, Moldova, Montenegro, and Kosovo; in 2016, CEFTA countries were Serbia's second largest trading partners.",
+        "• In 2009, Serbia signed a free trade agreement with the European Free Trade Association (EFTA) members, specifically Switzerland, Norway, and Iceland, further broadening its trade partnerships.",
+        "• Serbia's free trade agreement with Russia has been in effect since 2000, allowing duty-free trade for most products, though annual import quotas apply to a limited number of goods.",
+        "• The free trade agreement with Turkey has been operational since 2010, enhancing bilateral trade relations between Serbia and Turkey.",
+        "• Trade relations with the United States are governed by the Generalized System of Preferences (GSP), which grants Serbia preferential duty-free entry for approximately 4,650 products, facilitating access to the US market.",
+        "• After six years of negotiations, Serbia signed a free trade agreement with China in October 2023, marking a significant development in Serbia's external trade policy and expanding its access to the Chinese market.",
+        "• Serbia's export values have shown substantial growth over the years, increasing from 1,558 million USD in 2000 to 30,934 million USD in 2023, reflecting the expansion and diversification of its export sector.",
+        "• Import values have also risen significantly, from 5,614 million USD in 2000 to 39,837 million USD in 2023, indicating increased demand for foreign goods and inputs.",
+        "• The trade balance has consistently been negative throughout the period from 2000 to 2023, with deficits ranging from -1,772 million USD in 2000 to -8,903 million USD in 2023, demonstrating that imports have exceeded exports annually.",
+        "• The ratio of exports to imports (expressed as a percentage) has varied over the years, starting at 46.8% in 2000, dipping to a low of 32.8% in 2004, and improving to 77.7% by 2023, indicating a gradual narrowing of the trade gap relative to imports.",
+        "• Notable fluctuations in trade figures occurred during the period, such as a peak export value of 25,563 million USD in 2021 and the highest import value of 41,154 million USD in 2022, reflecting dynamic trade activities influenced by global and regional economic conditions.",
+        "• The data presented are sourced from the Statistical Office of Serbia, ensuring official and reliable statistical information on Serbia’s external trade performance from 2000 through 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:25.217858",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Foreign direct investments",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The government of Serbia prioritizes attracting foreign direct investments (FDI) and offers both financial and tax incentives to companies willing to invest in the country.",
+        "• Leading investor countries in Serbia include Germany, Italy, the United States, China, Austria, Norway, and Greece.",
+        "• The majority of FDI in Serbia has been directed towards the automotive industry, food and beverage industry, machinery, textile, and clothing sectors.",
+        "• From 2010 to 2021, foreign direct investments originating from the European Union accounted for more than 63% of the total FDI inflows into Serbia.",
+        "• Prominent blue-chip corporations investing in Serbia’s manufacturing sector include Fiat Chrysler Automobiles, Bosch, Michelin, Siemens, Panasonic, Continental, Schneider Electric, Philip Morris, LafargeHolcim, PepsiCo, Coca-Cola, and Carlsberg.",
+        "• In the energy sector, major Russian companies such as Lukoil and Gazprom have made significant investments in Serbia.",
+        "• The metallurgy sector has attracted Chinese steel and copper companies, with Hesteel acquiring the steel mill in Smederevo and Zijin Mining acquiring the copper mining complex in Bor.",
+        "• The financial sector in Serbia has seen investments from Italian banks Intesa Sanpaolo and UniCredit, French banks Crédit Agricole and Société Générale, and Austrian banks Erste Bank and Raiffeisen, among others.",
+        "• The ICT and telecommunications sectors have attracted investments from multinational corporations including Microsoft, Telenor, Telekom Austria, and NCR.",
+        "• In the retail sector, major foreign investors are Dutch company Ahold Delhaize, German companies Metro AG and Schwarz Gruppe, Greek company Veropoulos, and Croatian company Fortenova.",
+        "• Foreign direct investment inflows to Serbia (in million USD) were as follows: 54 (2000), 546 (2002), 1,511 (2003), 1,077 (2004), 1,579 (2005), 5,663 (2006), 4,389 (2007), 3,407 (2008), 2,729 (2009), 1,549 (2010), 3,018 (2011), 2,629 (2012), 1,518 (2013), 1,550 (2014), 2,114 (2015), 2,080 (2016), 2,867 (2017), 3,984 (2018), 4,605 (2019), 3,638 (2020), 4,433 (2021), and 4,709 (2022).",
+        "• Foreign direct investment inflows per capita (in USD) were: 7.2 (2000), 72.8 (2002), 202.0 (2003), 144.3 (2004), 212.2 (2005), 764.0 (2006), 594.6 (2007), 461.5 (2008), 372.8 (2009), 212.5 (2010), 415.8 (2011), 365.2 (2012), 211.9 (2013), 216.7 (2014), 297.7 (2015), 292.9 (2016), 320.6 (2017), 569.1 (2018), 602.3 (2019), 552.3 (2020), 644.6 (2021), and 703.8 (2022).",
+        "• The data on foreign direct investments in Serbia is sourced from the Development Agency of Serbia and the National Bank of Serbia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:33.091246",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic sectors",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the Services sector in Serbia had the highest number of registered companies, totaling 125,511.",
+        "• The Wholesale Trade sector was the second largest in terms of company registrations, with 28,699 companies.",
+        "• The Manufacturing sector ranked third, with 21,865 companies registered in Serbia in 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:21.719968",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Serbia possesses highly favourable natural conditions, including land and climate, conducive to diverse agricultural production, with a total of 5,056,000 hectares of agricultural land, equating to 0.7 hectares per capita, of which 3,294,000 hectares is arable land, or 0.45 hectares per capita.",
+        "• In 2024, Serbia exported agricultural and food products valued at $5.3 billion, with agricultural exports accounting for more than 20% of the country's total sales on the global market.",
+        "• Serbia is a major supplier of frozen fruit to the European Union, being the largest provider to the French market and the second largest to the German market.",
+        "• The most prominent agricultural production occurs in the Vojvodina region, situated on the fertile Pannonian Plain; other significant agricultural regions include Mačva, Pomoravlje, Tamnava, Rasina, and Jablanica.",
+        "• The composition of Serbia’s agricultural production consists of approximately 70% crop field production and 30% livestock production.",
+        "• Serbia ranks as the world’s second largest producer of plums, producing 582,485 tons, second only to China.",
+        "• It is the third largest global producer of raspberries, with an output of 127,010 tons, following Russia and the United States.",
+        "• Serbia is also a significant producer of maize, yielding 6.48 million tons and ranked 32nd worldwide, and wheat, producing 2.07 million tons and ranked 35th globally.",
+        "• Other important agricultural products in Serbia include sunflower, sugar beet, soybean, potato, apple, mutton, pork meat, beef, poultry, and dairy products.",
+        "• Serbia has 56,000 hectares of vineyards, which produce approximately 230 million litres of wine annually.",
+        "• The most renowned viticulture regions in Serbia are located in Vojvodina and Šumadija.",
+        "• In 2014, Serbia was the 11th largest wine producer in Europe and ranked 19th in the world."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:31.347770",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The energy sector is one of the largest and most important sectors in Serbia's economy, with the country being a net exporter of electricity but an importer of key fuels such as oil and gas.",
+        "• Serbia possesses abundant coal reserves and significant oil and gas reserves, with proven coal lignite reserves totaling 5.5 billion tons, ranking 5th largest globally and 2nd in Europe after Germany.",
+        "• Coal deposits in Serbia are primarily located in two large basins: Kolubara with 4 billion tons of reserves and Kostolac with 1.5 billion tons of reserves.",
+        "• Serbia’s oil and gas resources, although small on a global scale, hold regional significance as the largest in the former Yugoslavia and the Balkans (excluding Romania), with 77.4 million tons of oil equivalent and 48.1 billion cubic meters of gas reserves.",
+        "• Approximately 90% of Serbia’s discovered oil and gas reserves are located in the Banat region, with these fields being among the largest in the Pannonian basin but average in size compared to European standards.",
+        "• In 2018, Serbia produced 38.3 billion kilowatt-hours (KWh) of electricity, while final electricity consumption was 28.1 billion KWh.",
+        "• The majority of electricity production in Serbia comes from thermal power plants, accounting for 71% of total electricity, followed by hydroelectric power plants at 24%, and wind energy at 3%.",
+        "• Serbia operates six lignite-fired thermal power plants with a combined installed capacity of 3,936 MW; the largest are Nikola Tesla 1 (1,502 MW) and Nikola Tesla 2 (1,160 MW), both located in Obrenovac.",
+        "• The total installed capacity of Serbia’s nine hydroelectric power plants is 2,831 MW, with the largest being Đerdap 1, which has a capacity of 1,026 MW.",
+        "• Additional thermal power plants fueled by mazut and gas have an installed capacity of 353 MW.",
+        "• All electricity production in Serbia is concentrated under Elektroprivreda Srbije (EPS), the public electric-utility power company.",
+        "• Serbia’s current oil production exceeds 1.1 million tons of oil equivalent, meeting approximately 43% of the country’s oil demand, with the remainder imported.",
+        "• The national petroleum company, Naftna Industrija Srbije (NIS), was acquired by Gazprom Neft in 2008.",
+        "• NIS operates a modern oil refinery in Pančevo with a capacity of 4.8 million tons per year, considered one of the most modern refineries in Europe.",
+        "• NIS manages a network of 334 filling stations in Serbia, covering 74% of the domestic market, and operates additional stations abroad: 36 in Bosnia and Herzegovina, 31 in Bulgaria, and 28 in Romania.",
+        "• A 155-kilometer crude oil pipeline connects the Pančevo and Novi Sad refineries, forming part of the trans-national Adria oil pipeline system.",
+        "• Serbia is heavily reliant on imported natural gas, with only 17% of consumption met by domestic production, which totaled 491 million cubic meters in 2012.",
+        "• The majority of imported natural gas comes from Russia, transported via pipelines running through Ukraine and Hungary.",
+        "• Srbijagas, a public company, operates Serbia’s natural gas transportation system, which includes 3,177 kilometers of trunk and regional pipelines and a 450 million cubic meter underground gas storage facility located at Banatski Dvor."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:50.088299",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The industry sector in Serbia was severely impacted during the 1990s by UN sanctions, trade embargoes, and NATO bombing, followed by challenges during the transition to a market economy in the 2000s, resulting in a dramatic downsizing of industrial output; by 2013, industrial output was expected to be only half of that in 1989.",
+        "• Key industrial sectors in Serbia include automotive, mining, non-ferrous metals, food-processing, electronics, pharmaceuticals, and clothing.",
+        "• As of September 2017, Serbia had established 14 free economic zones, which have attracted numerous foreign direct investments.",
+        "• The automotive industry is a major sector, led by Fiat Chrysler Automobiles, with a dominant industrial cluster located in Kragujevac and its surrounding area, contributing approximately $2 billion to Serbia’s exports.",
+        "• Serbia is a leading steel producer in the South Central Europe region, producing nearly 2 million tons of raw steel in 2018, all sourced from the Smederevo steel mill, which is owned by the Chinese company Hesteel.",
+        "• Serbia manufactures Tesla-branded smartphones, notable for being Intel-based devices.",
+        "• The food industry in Serbia is recognized both regionally and internationally as a strong economic sector, with several major international companies establishing production facilities in the country.",
+        "• Prominent international brands in Serbia’s food-processing sector include PepsiCo and Nestlé.",
+        "• In the beverage industry, international companies such as Coca-Cola (based in Belgrade), Heineken (Novi Sad), and Carlsberg (Bačka Palanka) have established production operations.",
+        "• Nordzucker operates in Serbia’s sugar industry, contributing to the sector’s development.",
+        "• Serbia’s electronics industry peaked in the 1980s but had declined to about one-third of its former size; however, it has experienced a partial revival in the last decade due to investments by companies such as Siemens (wind turbines in Subotica), Panasonic (lighting devices in Svilajnac), and Gorenje (electrical home appliances in Valjevo).",
+        "• The pharmaceutical industry in Serbia consists of approximately a dozen manufacturers specializing in generic drugs, with Hemofarm (located in Vršac) and Galenika (based in Belgrade) producing 80% of the country’s pharmaceutical output.",
+        "• Domestic pharmaceutical production in Serbia satisfies over 60% of the local market demand."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:30.526964",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.3.1",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Serbia's mining industry is relatively strong on a global and European scale, reflecting its significant role in the extraction of key minerals.",
+        "• Serbia ranks as the 18th largest coal producer worldwide and holds the 7th position in Europe for coal production.",
+        "• The primary coal deposits in Serbia are located in the Kolubara and Kostolac basins, which serve as major sources for coal extraction.",
+        "• In copper production, Serbia is the 23rd largest producer globally and the 3rd largest producer in Europe.",
+        "• Copper mining in Serbia is primarily conducted by Zijin Bor Copper, a major copper mining company.",
+        "• Zijin Bor Copper was acquired by the Chinese company Zijin Mining in 2018, marking significant foreign investment in Serbia's mining sector.",
+        "• Serbia also has notable gold extraction activities centered around the Majdanpek area, highlighting the diversity of its mining industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:29.342565",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Telecommunications and IT industry",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Fixed telephone lines connect 89% of households in Serbia, indicating widespread access to traditional telecommunication infrastructure.",
+        "• The number of cellphone users in Serbia is approximately 8.82 million, surpassing the total population by 25%, reflecting high mobile penetration.",
+        "• Telekom Srbija is the largest mobile operator in Serbia with 4.06 million subscribers, followed by Yettel Serbia with 2.73 million users and A1 Srbija with about 2.03 million subscribers.",
+        "• Approximately 58% of Serbian households have fixed-line (non-mobile) broadband Internet connections, demonstrating significant internet accessibility.",
+        "• Pay television services are available to 67% of households, distributed as 38% cable television, 17% IPTV, and 10% satellite television.",
+        "• Serbia completed its digital television transition in 2015, adopting the DVB-T2 standard for signal transmission, marking a modernization of broadcast technology.",
+        "• The Avala Tower, standing 205 meters high, is a notable telecommunications landmark in Serbia, with a referenced image from 2010.",
+        "• The Serbian IT industry is experiencing rapid growth and transformation, with IT services exports reaching $1.3 billion in 2018.",
+        "• As of 2013, there were 6,924 companies operating in Serbia’s IT sector, highlighting the sector’s size and economic significance.",
+        "• Belgrade is recognized as a major information technology center in the region, exhibiting strong growth and attracting international companies.",
+        "• The Microsoft Development Center in Belgrade was the fifth such center globally at the time of its establishment, underscoring Serbia’s importance in Microsoft’s global operations.",
+        "• Major global IT companies such as Asus, Intel, Dell, Huawei, NCR, and Ubisoft have established regional or European centers in Belgrade, leveraging Serbia’s large pool of engineers and relatively low wages.",
+        "• While large investments by global tech companies characterized the 2000s, the current trend shows a rise in domestic startups securing funding from both domestic and international investors.",
+        "• The initial attraction for companies like Microsoft was Serbia’s large pool of talented engineers and mathematicians, which continues to support the IT sector’s growth.",
+        "• In the first quarter of 2016 alone, Serbian startups raised over US$65 million in funding, including $45 million for Seven Bridges, a bioinformatics firm, and $14 million for Vast, a data analysis company.",
+        "• Nordeus, founded in Belgrade in 2010, is one of Serbia’s most successful startups and one of Europe’s fastest-growing companies in the video game industry, known for developing Top Eleven Football Manager, a game played by over 20 million people worldwide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:38.310624",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, the tourism sector in Serbia accounted for 1.4% of the country's Gross Domestic Product (GDP) and employed approximately 75,000 people, representing about 3% of the national workforce.",
+        "• Foreign exchange earnings from tourism in Serbia were estimated at $1.5 billion in 2018.",
+        "• Serbia is not considered a mass-tourism destination but offers a diverse range of touristic products catering to various interests.",
+        "• In 2018, over 3.4 million tourists were recorded in Serbian accommodations, with approximately half of these tourists being foreign visitors.",
+        "• Tourism in Serbia primarily focuses on mountain resorts and spa towns, which are predominantly frequented by domestic tourists.",
+        "• Belgrade is the preferred destination for foreign tourists, serving as a hub for city-break and conference tourism.",
+        "• The most renowned mountain resorts in Serbia include Kopaonik, Stara Planina, and Zlatibor.",
+        "• Major spa towns in Serbia include Vrnjačka Banja, Soko Banja, and Banja Koviljača, which attract numerous visitors seeking wellness tourism.",
+        "• In 2018, Belgrade was visited by 938,448 foreign tourists, accounting for more than half of all international visits to Serbia.",
+        "• Novi Sad also contributes to city-break and conference tourism, though to a lesser extent than Belgrade.",
+        "• Serbia offers additional touristic attractions such as natural wonders like Đavolja Varoš, Christian pilgrimage sites including numerous Orthodox monasteries, and river cruising along the Danube River.",
+        "• The country hosts several internationally recognized music festivals, notably the EXIT festival, which attracts 25,000 to 30,000 foreign visitors from 60 countries.",
+        "• The Guča trumpet festival is another prominent cultural event drawing significant international attention."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:36.775103",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Serbia occupies a strategic transportation location due to the Morava Valley, which serves as the easiest land travel route from continental Europe to Asia Minor and the Near East.",
+        "• The Serbian road network is the primary carrier of traffic in the country, with a total length of 45,419 km comprising 915 km of class-Ia state roads (motorways), 4,481 km of class-Ib state roads (national roads), 10,941 km of class-II state roads (regional roads), and 23,780 km of municipal roads.",
+        "• Except for most class-Ia roads, Serbia’s road network is of comparatively high quality by Western European standards, attributed to significant financial investments made over the past decade.",
+        "• In the last ten years, over 300 kilometers of new motorways have been constructed, with an additional 142 kilometers currently under construction, including the A5 motorway (from north of Kruševac to Čačak) and a 30 km segment of the A2 motorway (between Čačak and Požega).",
+        "• Coach transport is extensive in Serbia, connecting nearly every location from large cities to villages, and includes international routes primarily to Western European countries with Serbian diaspora communities.",
+        "• More than 100 bus companies operate domestic and international routes, with the largest being Lasta and Niš-Ekspres.",
+        "• As of 2018, Serbia had 1,959,584 registered passenger cars, equating to one passenger car per 3.5 inhabitants.",
+        "• Serbia’s railway network comprises 3,819 kilometers of rail tracks, including 1,279 km electrified and 283 km of double-track railroad.",
+        "• The major railway hub is Belgrade, with Niš also serving as a significant rail center.",
+        "• Key rail lines include Belgrade–Bar (Montenegro), Belgrade–Šid–Zagreb (Croatia)/Belgrade–Niš–Sofia (Bulgaria) (part of Pan-European Corridor X), Belgrade–Subotica–Budapest (Hungary), and Niš–Thessaloniki (Greece).",
+        "• Despite remaining a major freight transport mode, Serbian railroads face challenges related to infrastructure maintenance and declining speeds.",
+        "• Rail services are operated by Srbija Voz for passenger transport and Srbija Kargo for freight transport.",
+        "• Serbia has three airports with regular passenger traffic: Belgrade Nikola Tesla Airport, Niš Constantine the Great Airport, and Morava Airport.",
+        "• In 2018, Belgrade Nikola Tesla Airport served 5.6 million passengers and functions as the hub for Air Serbia, which carried approximately 2.5 million passengers that year.",
+        "• Niš Constantine the Great Airport primarily serves low-cost airlines, while Morava Airport is currently only served by Air Serbia.",
+        "• Serbia possesses a developed inland water transport system with 1,716 kilometers of navigable inland waterways, including 1,043 km of navigable rivers and 673 km of navigable canals, mostly located in the northern third of the country.",
+        "• The Danube River is the most important inland waterway in Serbia and forms part of Pan-European Corridor VII.",
+        "• Other navigable rivers include the Sava, Tisza, Begej, and Timiş Rivers, which connect Serbia to Northern and Western Europe via the Rhine–Main–Danube Canal and North Sea route, to Central Europe via the Tisza, Begej, and Danube Black Sea routes, and to Southern Europe via the Sava River.",
+        "• In 2016, over 2 million tons of cargo were transported on Serbian rivers and canals.",
+        "• The largest river ports in Serbia are Novi Sad, Belgrade, Pančevo, Smederevo, Prahovo, and Šabac."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:57.769648",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "3",
+      "section_name": "Economic indicators",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2000, Serbia's GDP in Purchasing Power Parity (PPP) was $47.5 billion with a GDP per capita of $6,313,275; nominal GDP was €28.5 billion with a per capita of €2,650, and $9.3 billion nominal GDP with $1,239,745 per capita; real GDP growth was 7.759%, total investment was 10.720% of GDP, foreign direct investment (FDI) was $54 billion, inflation was 70.000%, exchange rates were 61.51 RSD to 1 EUR and 58.98 RSD to 1 USD; unemployment rate was 12.1%, employment rate 32.3%, labor force numbered 3,569,895, and foreign exchange reserves totaled €0.95 billion; trade exports were $1,558 million, imports $5,614 million, with a trade balance deficit of -$1,772 million; government debt was 201.2% of GDP; minimum net salary was €101.",
+        "• In 2001, GDP (PPP) increased to $49.5 billion and GDP per capita to $6,789,478; nominal GDP was €14.6 billion (€2,840 per capita) and $12.3 billion ($1,642,080 per capita); real GDP growth slowed to 4.993%; total investment rose to 19.350% of GDP; FDI surged to $501 billion; inflation reached 80.744%; exchange rates were 65.5 RSD/EUR and 58.95 RSD/USD; unemployment remained at 12.2%, employment rate rose to 41.4%; labor force slightly decreased to 3,550,875; foreign exchange reserves increased to €0.98 billion; government debt decreased to 49.8%; minimum net salary was €102.",
+        "• In 2002, GDP (PPP) was $55.4 billion, GDP per capita $7,389,302; nominal GDP €18.2 billion (€3,020 per capita) and $16.2 billion ($2,158,378 per capita); real GDP growth was 7.116%; total investment 21.367% of GDP; FDI $546 billion; inflation sharply decreased to 8.868%; exchange rates at 78.89 RSD/EUR and 57.94 RSD/USD; unemployment increased to 14.47%, employment rate 43.5%; labor force 3,535,725; foreign exchange reserves €2.86 billion; trade exports $2,074 million, imports $5,614 million, trade deficit -$3,540 million; government debt 68.3%; minimum net salary €92; average net salary €152.",
+        "• In 2003, GDP (PPP) reached $59.0 billion, GDP per capita $7,888,299; nominal GDP €19.9 billion (€3,160 per capita) and $21.2 billion ($2,838,501 per capita); real GDP growth slowed to 4.415%; total investment 22.311%; FDI rose to $1,511 billion; inflation further declined to 2.901%; exchange rates 79.23 RSD/EUR and 58.85 RSD/USD; unemployment increased to 16.0%, employment rate steady at 43.5%; labor force 3,522,846; foreign exchange reserves €3.20 billion; government debt 34.5%; minimum net salary €105; average net salary €177.",
+        "• In 2004, GDP (PPP) was $66.1 billion, GDP per capita $8,853,456; nominal GDP €21.0 billion (€3,460 per capita) and $24.8 billion ($3,317,624 per capita); real GDP growth accelerated to 9.047%; total investment peaked at 30.104%; FDI $1,077 billion; inflation rose to 10.602%; exchange rates 78.89 RSD/EUR and 59.98 RSD/USD; unemployment rose to 19.53%, employment rate 43.6%; labor force 3,497,569; foreign exchange reserves €3.70 billion; trade exports $3,523 million, imports $10,755 million, trade deficit -$7,232 million; government debt 52.6%; minimum net salary €124; average net salary €194.",
+        "• In 2005, GDP (PPP) increased to $75.1 billion, GDP per capita $10,088,561; nominal GDP €22.3 billion (€3,660 per capita) and $27.5 billion ($3,697,899 per capita); real GDP growth 10.154%; total investment 22.541%; FDI $1,579 billion; inflation rose to 16.253%; exchange rates 79.00 RSD/EUR and 62.90 RSD/USD; unemployment 21.83%, employment rate 43.8%; labor force 3,369,669; foreign exchange reserves €3.80 billion; government debt 51.6%; minimum net salary €126; average net salary €210.",
+        "• In 2006, GDP (PPP) was $81.3 billion, GDP per capita $10,974,129; nominal GDP €25.9 billion (€3,860 per capita) and $32.6 billion ($4,401,870 per capita); real GDP growth slowed to 5.108%; total investment 21.762%; FDI surged to $5,663 billion; inflation at 10.732%; exchange rates 88.60 RSD/EUR and 66.73 RSD/USD; unemployment 21.56%, employment rate 43.8%; labor force 3,211,965; foreign exchange reserves €9.54 billion; trade exports $6,431 million, imports $13,174 million, trade deficit -$6,743 million; government debt 52.6%; minimum net salary €145; average net salary €258.",
+        "• In 2007, GDP (PPP) reached $88.9 billion, GDP per capita $12,045,218; nominal GDP €31.6 billion (€4,130 per capita) and $43.4 billion ($5,882,939 per capita); real GDP growth 6.440%; total investment 25.070%; FDI $4,389 billion; inflation 6.002%; exchange rates 95.89 RSD/EUR and 79.28 RSD/USD; unemployment decreased to 18.8%, employment rate rose to 47.5%; labor force 3,204,276; foreign exchange reserves €9.08 billion; government debt 45.1%; minimum net salary €188; average net salary €347.",
+        "• In 2008, GDP (PPP) was $95.7 billion, GDP per capita $13,025,828; nominal GDP €35.7 billion (€4,380 per capita) and $52.1 billion ($7,092,355 per capita); real GDP growth 5.656%; total investment 26.522%; FDI $3,407 billion; inflation 12.411%; exchange rates 105.50 RSD/EUR and 80.87 RSD/USD; unemployment 14.4%, employment rate 48.8%; labor force 3,229,170; foreign exchange reserves €12.03 billion; trade exports $10,974 million, imports $24,332 million, trade deficit -$13,358 million; government debt 28.3%; minimum net salary €233; average net salary €401.",
+        "• In 2009, GDP (PPP) decreased slightly to $93.7 billion, GDP per capita $12,802,431; nominal GDP €32.5 billion (€4,280 per capita) and $45.2 billion ($6,172,494 per capita); real GDP contracted by -2.732%; total investment 18.737%; FDI $2,729 billion; inflation 8.117%; exchange rates 104.64 RSD/EUR and 86.18 RSD/USD; unemployment rose to 16.9%, employment rate steady at 48.8%; labor force 3,074,965; foreign exchange reserves €11.69 billion; government debt 59.3%; minimum net salary €220; average net salary €338.",
+        "• In 2010, GDP (PPP) slightly increased to $95.5 billion, GDP per capita $13,103,603; nominal GDP €31.5 billion (€4,330 per capita) and $41.4 billion ($5,677,545 per capita); real GDP growth was 0.731%; total investment 18.380%; FDI $1,549 billion; inflation 6.143%; exchange rates 105.50 RSD/EUR and 83.13 RSD/USD; unemployment rose to 20.0%, employment rate 46.5%; labor force 2,931,478; foreign exchange reserves €12.87 billion; trade deficit -$6,677 million; government debt 59.7%; minimum net salary €203; average net salary €330; average gross salary €468.",
+        "• In 2011, GDP (PPP) was $99.5 billion, GDP per capita $13,751,806; nominal GDP €35.4 billion (€4,450 per capita) and $49.3 billion ($6,814,650 per capita); real GDP growth 2"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:01.672011",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4",
+      "section_name": "Labour",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Serbia's labour force was estimated at 3.201 million individuals, with total employment reaching 2.848 million persons; formal employment accounted for 2.473 million, while informal employment stood at 0.375 million.",
+        "• The employment rate among the population aged 15 and over was relatively low at 48.6% in 2021.",
+        "• Employment distribution by sector in 2018 was as follows: 15.9% in agriculture, 28.1% in industry, and 56% in services.",
+        "• Serbia's unemployment rate has consistently remained in double digits throughout the post-socialist period, peaking at 25.9% in 2012.",
+        "• Since 2012, the unemployment rate has significantly declined due to job creation primarily in the private sector, reaching 9.8% in 2021.",
+        "• Unemployment rates by district in 2021 were categorized by color on a map: purple districts had rates below 10%, blue districts ranged from 10% to 15%, orange districts ranged from 15% to 20%, and red districts had rates of 20% and above.",
+        "• According to the Statistical Office of the Republic of Serbia's latest monthly report, the average gross monthly salary in January 2022 was 120,085 Serbian dinars (1,022 euros), while the net average salary was 85,422 dinars (727 euros).",
+        "• The median gross salary in January 2022 was 85,422 dinars (727 euros), and the median net salary was 64,860 dinars (552 euros), indicating that 50% of employees earned up to these amounts.",
+        "• Employers are responsible for additional social security contributions, raising the total labour cost for the average salary to 150,107 Serbian dinars (1,280 euros), with a total tax ratio of 26.9%.",
+        "• A regional salary map for December 2022, expressed in gross terms for Eurostat comparability, showed variations in average salaries across Serbia.",
+        "• A significant portion of Serbia’s workforce operates under the \"entrepreneurship\" salary scheme, common among local trades such as plumbers and many IT professionals.",
+        "• Entrepreneurs in Serbia benefit from a tax contribution cap of 10% of their salary, with average monthly tax contributions ranging from €80 to €250 depending on the registered location.",
+        "• The entrepreneurial tax contribution corresponds to between 0.0042% and 2% of the maximum income allowed under the entrepreneurship bracket, making Serbia one of the most favorable countries in Europe for entrepreneurship due to its low income tax rates.",
+        "• A salary map for January 2025 categorized districts by gross average monthly salary: purple districts earned €1,300 and above, blue districts earned between €1,100 and €1,299, orange districts earned between €1,000 and €1,099, and red districts earned below €1,000."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:43.688747",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "5",
+      "section_name": "Regional economies",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, the Belgrade Region was the leading statistical region of Serbia by GDP, generating a total GDP of €19.19 billion, which accounted for 41.7% of the country's total GDP, with a GDP per capita of €11,327 and an average gross salary of €1,098.",
+        "• The Vojvodina region ranked second in 2019, producing a total GDP of €12.21 billion, representing 26.5% of Serbia's total GDP, with a GDP per capita of €6,599 and an average gross salary of €831.",
+        "• Šumadija and Western Serbia held the third position in 2019, with a total GDP of €8.34 billion, contributing 18.1% to the national GDP, a GDP per capita of €4,371, and an average gross salary of €729.",
+        "• Southern and Eastern Serbia was the fourth region by GDP in 2019, with a total GDP of €6.30 billion, making up 13.7% of Serbia's total GDP, a GDP per capita of €4,226, and an average gross salary of €739."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:56:41.816811",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "6",
+      "section_name": "Companies",
+      "chapter_name": "Economy of Serbia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, the largest Serbian company by revenue was JP EPS Beograd, headquartered in Belgrade, classified as a large enterprise in the energy sector (electricity, gas, steam, and air conditioning supply), with business revenue of €2.729 billion, employing 23,507 people, net loss of €14,948,733, total assets of €962,087,508, equity of €600,980,511, and a loss exceeding equity by €225,651,530.",
+        "• NIS A.D. Novi Sad ranked second by revenue in 2021, a large company in the mining sector located in Novi Sad, with €2.4 billion in revenue, 5,108 employees, net profit of €23,131,745, total assets of €419,340,174, and equity of €272,247,874.",
+        "• HBIS Group Serbia Iron & Steel D.O.O. Beograd, a large manufacturing company in Belgrade, generated €1.1 billion in revenue in 2021, employed 4,858 people, had a net profit of €23,737,043, assets totaling €81,540,610, equity of €33,177,265, and a loss exceeding equity by €28,210,037.",
+        "• Serbia Zijin Copper DOO from Bor, a large mining company, reported €1.04 billion in revenue, 5,724 employees, net profit of €23,773,643, assets of €202,939,349, equity of €83,439,659, and a loss exceeding equity by €4,043,284 in 2021.",
+        "• Delhaize Serbia DOO Beograd, a large wholesale and retail trade company in Belgrade, earned €1.02 billion in revenue, employed 11,637 people, had a net profit of €2,973,113, assets of €83,478,530, and equity of €42,755,532 in 2021.",
+        "• JP Srbijagas Novi Sad, a large energy company in Novi Sad, reported €0.99 billion in revenue, 941 employees, net profit of €3,772,985, assets of €278,802,471, and equity of €124,349,098 in 2021.",
+        "• Tigar Tyres DOO from Pirot, a large manufacturing company, had €0.89 billion in revenue, 3,634 employees, net profit of €9,154,260, assets of €53,099,960, and equity of €12,380,135 in 2021.",
+        "• Telekom Srbija A.D., a large telecommunications company based in Belgrade, generated €0.88 billion in revenue, employed 7,300 people, had a net profit of €13,142,891, assets of €405,774,598, and equity of €169,098,203 in 2021.",
+        "• Elektrodistribucija Srbije D.O.O. Beograd, a large electric utility company in Belgrade, earned €0.87 billion in revenue, had 7,817 employees, net profit of €33,864, assets of €359,714,038, equity of €275,101,995, and a loss exceeding equity by €34,732,602 in 2021.",
+        "• Mercator-S DOO, a large wholesale and retail trade company in Belgrade, reported €690 million in revenue, 8,352 employees, net loss of €1,628,999, assets of €53,134,586, and a loss exceeding equity by €8,151,416 in 2021.",
+        "• NELT Co. DOO Beograd, a large wholesale and retail trade company in Dobanovci, had €690 million in revenue, 2,094 employees, net profit of €487,885, assets of €27,246,215, and equity of €13,813,634 in 2021.",
+        "• Mercata VT DOO Novi Sad, a large wholesale and retail trade company, earned €610 million in revenue, employed 1,005 people, net profit of €944,941, assets of €12,131,963, and equity of €1,060,919 in 2021.",
+        "• Lidl Srbija KD, a large wholesale and retail trade company in Nova Pazova, generated €610 million in revenue, employed 2,935 people, net profit of €4,132,545, assets of €62,073,676, equity of €32,937,849, and a loss exceeding equity by €13,117,010 in 2021.",
+        "• JP Putevi Srbije, a large construction company in Belgrade, reported €520 million in revenue, 2,085 employees, net loss of €4,992,801, assets of €561,615,729, equity of €397,819,296, and a loss exceeding equity by €84,256,575 in 2021.",
+        "• Phoenix Pharma DOO Beograd, a large wholesale and retail trade company in Belgrade, had €500 million in revenue, 526 employees, net profit of €687,689, assets of €28,816,386, and equity of €7,039,039 in 2021.",
+        "• MOL Serbia D.O.O. Beograd, a large wholesale and retail trade company in Belgrade, earned €500 million in revenue, employed 98 people, net profit of €1,157,757, assets of €19,346,886, and equity of €12,231,759 in 2021.",
+        "• Serbia Zijin Mining D.O.O. Brestovac, a medium-sized mining company in Bor region, generated €470 million in revenue, employed 442 people, net profit of €34,356,111, assets of €73,402,523, equity of €30,658,661, and a loss exceeding equity by €11,284,450 in 2021.",
+        "• Henkel Srbija DOO Beograd, a large manufacturing company in Belgrade, reported €460 million in revenue, 593 employees, net profit of €2,219,466, assets of €39,618,036, and equity of €18,352,298 in 2021.",
+        "• Coca-Cola HBC - Srbija DOO Zemun, a large manufacturing company in Belgrade, had €440 million in revenue, 872 employees, net profit of €6,794,801, assets of €51,018,365, and equity of €41,612,872 in 2021.",
+        "• Knez Petrol DOO Zemun, a large wholesale and retail trade company in Belgrade, earned €440 million in revenue, employed 1,171 people, net profit of €482,786, assets of €10,637,448, and equity of €2,968,702 in 2021.",
+        "• Telenor DOO Beograd, a large telecommunications company in Belgrade, generated €430 million in revenue, employed 1,389 people, net profit of €7,314,130, assets of €31,094,719, and equity of €22,014,647 in 2021.",
+        "• Yugorosgaz AD Beograd, a large transport and storage company in Belgrade, reported €420 million in revenue, 20 employees, net profit of €1,065,856, assets of €10,574,975, and equity of €4,490,288 in 2021.",
+        "• GEN - I DOO Beograd, a medium-sized energy company in Belgrade, earned €400 million in revenue, employed 4 people, net profit of €45,837, assets of €4,474,639, and equity of €122,767 in 2021.",
+        "• HIP-Petrohemija AD Pančevo, a large manufacturing company in the South Banat region, generated €390 million in revenue, employed 1,252 people, net profit of €5,504,635, assets of €33,424,493, equity of €27,910,859, and a loss exceeding equity by €38,496,838 in 2021.",
+        "• Centrosinergija DOO Beograd, a large transport and storage company in Belgrade, reported revenue of €43,307,937, 794 employees, net profit of €1,750, assets of €5,221,688, and equity of €202,956 in 2021.",
+        "• OMV Srbija DOO Beograd, a large wholesale and retail trade company in Belgrade, had revenue of €42,520,267, 47 employees, net profit of €1,192,527, assets of €18,258,949, and equity of €10,063,577 in 2021.",
+        "• Hemofarm AD Vršac, a large manufacturing company in South Banat, earned €41,687,901 in revenue, employed 2,894 people, net profit of €4,391,174, assets of €58,908,657, and equity of €43,665,097 in 2021.",
+        "• FCA Srbija D.O.O. Kragujevac, a large manufacturing company in Šumadija, generated €41,512,762 in revenue, employed 2,072 people, had a net loss of €3,866,426, assets of €49,527,397, and equity of €31,198,492 in 2021.",
+        "• EMS AD Beograd, a large energy company in Belgrade, reported €37,644,783 in revenue, 1,365 employees,"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:57:14.564975",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 29
+      },
+      "source_file": "economy_of_serbia.json",
+      "original_index": 18
+    }
+  ]
+}

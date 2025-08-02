@@ -1,0 +1,388 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_uzbekistan.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.377031",
+    "total_sections_in_source": 12,
+    "extracted_sections_count": 12,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Uzbekistan, previously structured as a Soviet-style command economy, has transitioned toward a market economy framework.",
+        "• Under President Islam Karimov’s administration, currency conversion capacity was restricted, imports were tightly controlled, and Uzbekistan’s borders with Kazakhstan, Kyrgyzstan, and Tajikistan were intermittently closed.",
+        "• Since the election of President Shavkat Mirziyoyev, Uzbekistan has implemented economic and social reforms aimed at stimulating growth and modernizing the country.",
+        "• International Financial Institutions (IFIs) such as the European Bank for Reconstruction and Development (EBRD), the Asian Development Bank (ADB), and the World Bank have supported Uzbekistan’s reform process and increased their operational presence in the country.",
+        "• Uzbekistan is a major global producer and exporter of cotton; in 2022, the Cotton Campaign and other organizations, including the US Government, lifted all bans on cotton imports that had been imposed due to international human rights concerns.",
+        "• The country is also a significant producer of gold, hosting the largest open-pit gold mine in the world, and possesses substantial deposits of silver, strategic minerals, natural gas, and oil.",
+        "• Since 2016, Uzbekistan has undertaken significant economic reforms, including the liberalization of its currency in 2017, which facilitated freer foreign currency flows and eased the import and export of goods, thereby opening pathways for foreign investment.",
+        "• Tax reforms enacted in 2019 enabled company consolidation, simplified the tax system, and promoted the professionalization of the private sector.",
+        "• The government has committed to the privatization of State Owned Enterprises (SOEs), with the domestic Initial Public Offering (IPO) of UzAuto anticipated in 2022.",
+        "• The Uzbekistan Economic Forum, organized by the Ministry of Finance, convenes annually to bring together IFIs, businesses, government officials, and other stakeholders; the first forum was held in Tashkent, followed by the second in Samarkand.",
+        "• In December 2022, the Uzbek Government secured a loan of nearly US$1 billion from the World Bank to support the implementation of strategic reforms.",
+        "• As of the latest data, Uzbekistan’s Gross Domestic Product (GDP) has reached a volume of 146 billion US dollars."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:55.945107",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "GDP and employment",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The chart presents Uzbekistan's gross domestic product (GDP) in constant 1995 prices, measured in millions of soum, as estimated by the International Monetary Fund (IMF), alongside the consumer price index (CPI) as an inflation measure from the same source, and the end-of-year U.S. dollar exchange rate from the Central Bank of Uzbekistan database.",
+        "• For purchasing power parity comparisons in 2006, the U.S. dollar was exchanged at a rate of 340 soum.",
+        "• Key data points from the chart include:",
+        "• In 1992, GDP was 330,042 million soum, the U.S. dollar exchange rate was 1 soum per dollar, and CPI was 0.07 (with 2000=100).",
+        "• In 1995, GDP was 302,790 million soum, exchange rate was 36 soum per dollar, and CPI was 20.",
+        "• In 2000, GDP rose to 356,325 million soum, exchange rate was 325 soum per dollar, and CPI was 100.",
+        "• In 2003, GDP reached 402,361 million soum, exchange rate was 980 soum per dollar, and CPI was 166.",
+        "• In 2006, GDP was 497,525 million soum, exchange rate was 1,240 soum per dollar, and CPI was 226.",
+        "• Uzbekistan’s GDP, similar to other Commonwealth of Independent States (CIS) countries, experienced a decline during the early transition years post-Soviet Union, followed by recovery after 1995 due to the cumulative effects of policy reforms.",
+        "• Between 1998 and 2003, Uzbekistan’s GDP grew at an average annual rate of 4%, accelerating to 7–8% per year thereafter, with the growth rate reaching 9% in 2011.",
+        "• The total employed population increased from 8.5 million in 1995 to 13.5 million in 2011, representing nearly a 25% increase in the labor force over this period.",
+        "• Despite the labor force growth, GDP increased by 64% during the same timeframe, indicating a significant rise in labor productivity.",
+        "• Official unemployment rates are very low, with fewer than 30,000 registered job seekers in government labor exchanges during 2005–2006, equating to approximately 0.3% of the labor force.",
+        "• Underemployment remains high, particularly in the agricultural sector, which employs 28% of the workforce, many of whom work part-time on small household plots.",
+        "• The minimum wage, public-sector wages, and old-age pensions are adjusted biannually to prevent erosion of base income by inflation.",
+        "• Although average wage statistics are not published, old-age pensions serve as a proxy and showed significant increases between 1995 and 2006 in both real terms and U.S. dollar value.",
+        "• The monthly old-age pension increased nearly fivefold in real (CPI-adjusted) soums from 1995 to 2006.",
+        "• In U.S. dollar terms, the monthly pension was approximately $20–$25 until 2000, declined to $15–$20 between 2001 and 2004, and rose to $64 by 2006.",
+        "• The minimum wage was raised to $34.31 in November 2011.",
+        "• Estimations based on pension multiples suggest average monthly wages in Uzbekistan in 2006 ranged from $100 to $250, or approximately $3 to $8 per day.",
+        "• The Asian Development Bank forecasted Uzbekistan’s GDP growth at 7% for 2009.",
+        "• For 2010, Uzbekistan’s GDP growth was predicted to be 6.5% according to the same Asian Development Bank forecast."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:03.011258",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Work force and vocational training",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Literacy in Uzbekistan is nearly universal, reflecting a high level of basic education across the population.",
+        "• To address labor force needs, hundreds of Uzbek students are sent abroad annually to the United States, Europe, and Japan for university degrees, with a government-mandated commitment to work for the Uzbek government for five years after graduation.",
+        "• Despite this commitment, approximately 60% of students who study abroad secure employment with foreign companies upon completing their degrees.",
+        "• Uzbekistan provides subsidies for students attending Westminster International University in Tashkent, one of the few Western-style institutions in the country.",
+        "• In 2002, the government’s \"Istedod\" Foundation (formerly \"Umid\" Foundation) funded 98 out of 155 students studying at Westminster International University in Tashkent.",
+        "• For the 2003 academic year, Westminster admitted 360 students, with the Istedod Foundation subsidizing tuition for 160 students.",
+        "• Tuition fees at Westminster International University in Tashkent are set at $5,200 per academic year.",
+        "• The Management Development Institute of Singapore at Tashkent was established in 2008 to provide high-quality education with internationally recognized degrees.",
+        "• Tuition fees at the Management Development Institute of Singapore at Tashkent were $5,000 in 2012.",
+        "• In 2009, Turin Polytechnic University was opened in Uzbekistan, becoming the only university in Central Asia focused on preparing high-quality employees for industrial sectors.",
+        "• Despite the availability of qualified employees due to the downsizing or closure of many foreign firms, salaries in Uzbekistan remain very low compared to Western standards.",
+        "• The Uzbek government enforces salary caps, apparently to prevent firms from circumventing restrictions on cash withdrawals from banks, which limits foreign firms’ ability to pay higher wages.",
+        "• Labor market regulations in Uzbekistan resemble those of the Soviet Union, guaranteeing all labor rights in principle, though some rights are not fully observed in practice.",
+        "• Unemployment is a growing issue in Uzbekistan, prompting an increasing number of citizens to seek employment abroad, particularly in Russia, Kazakhstan, and Southeast Asia.",
+        "• The Uzbekistan Ministry of Labor does not publish official data on Uzbek citizens working abroad; however, Russia’s Federal Migration Service reports approximately 2.5 million Uzbek migrant workers in Russia.",
+        "• There are indications of up to 1 million Uzbek migrants working illegally in Kazakhstan.",
+        "• The total number of Uzbek migrant workers abroad is estimated to be between 3.5 and 4 million people, representing about 25% of Uzbekistan’s labor force of 14.8 million.",
+        "• The U.S. Department of State estimates that between three and five million Uzbek citizens of working age live outside Uzbekistan.",
+        "• Recognizing the need for expanded higher education to support labor market demands, Uzbekistan has opened new academic programs and initiated cooperation with foreign universities.",
+        "• Private higher education providers have emerged in Uzbekistan to equip students with skills, knowledge, and competencies required by the labor market.",
+        "• TEAM University, a private university in Tashkent, focuses on developing entrepreneurial skills among students, thereby contributing to the growth of businesses and private enterprises in Uzbekistan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:02.709429",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Prices and monetary policy",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following Uzbekistan's independence, the country experienced extreme inflation rates of approximately 1000% annually during the period 1992–1994.",
+        "• Stabilization measures, implemented with active guidance from the International Monetary Fund (IMF), successfully reduced inflation to 50% by 1997 and further down to 22% by 2002.",
+        "• From 2003 onwards, Uzbekistan maintained annual inflation rates averaging below 10%, indicating significant macroeconomic stabilization.",
+        "• The early years of independence saw severe inflationary pressures that caused a dramatic depreciation of Uzbekistan's national currency.",
+        "• Initially, Uzbekistan used the \"notional\" rouble inherited from the Soviet Union, followed by the \"coupon soum\" introduced in November 1993 at a 1:1 ratio to the rouble.",
+        "• The exchange rate depreciated from 100 roubles per US dollar in early 1992 to 3,627 roubles (or coupon soum) by mid-April 1994.",
+        "• On July 1, 1994, the \"coupon soum\" was replaced by the permanent Uzbek soum (UZS) at a conversion ratio of 1000:1, with the initial exchange rate set at 7 soum per US dollar.",
+        "• This initial soum exchange rate implied nearly a two-fold depreciation compared to mid-April 1994.",
+        "• Between July and December 1994, the soum further depreciated to 25 soum per US dollar and continued to depreciate rapidly until December 2002.",
+        "• By December 2002, the exchange rate reached 969 soum per US dollar, representing a 138-fold depreciation from the starting rate in 1994 and nearly 10,000-fold since early 1992.",
+        "• After 2002, the soum’s depreciation effectively ceased due to government stabilization programs that also significantly lowered inflation.",
+        "• From 2003 to 2007, the soum depreciated only modestly by a factor of 1.33, reaching approximately 1,865 soum per US dollar by May 2012.",
+        "• Between 1996 and spring 2003, both the official and \"commercial\" exchange rates were administratively set by the Central Bank and were highly overvalued.",
+        "• Due to restricted access to dollars at official rates, a widespread black market for foreign currency emerged to satisfy demand.",
+        "• The gap between official and black market (\"curb\") exchange rates widened notably after the 1998 Russian financial crisis.",
+        "• At the end of 1999, the black market rate was 550 soum per US dollar, nearly four times higher than the official rate of 140 soum, up from a factor of two in 1997 and early 1998.",
+        "• By mid-2003, government stabilization and liberalization efforts reduced the gap between official, commercial, and black market rates to approximately 8%.",
+        "• The gap disappeared rapidly after October 2003 when the soum was made convertible, marking a shift to a \"controlled floating rate\" foreign exchange regime.",
+        "• Since October 2003, four foreign currencies—the U.S. dollar, euro, pound sterling, and yen—have been freely exchanged at commercial booths throughout Uzbek cities.",
+        "• Other currencies, including the Russian rouble and Kazakh tenge, are traded by individual money changers operating openly without harassment, often referred to as \"black market\" dealers.",
+        "• Despite liberalization, Uzbekistan’s trade regime remains partially controlled, and further liberalization is a prerequisite for participation in IMF-financed programs.",
+        "• By mid-June 2011, the \"black market\" or \"bazar rate\" for the US dollar was significantly higher than the official rate, at 2,850 soum versus 1,865 soum per US dollar.",
+        "• The term \"bazar rate\" derives from money changers operating near large farmer markets (\"bazars\") where unofficial currency exchange occurs.",
+        "• Tax collection rates in Uzbekistan remained high due to the government’s use of the banking system as a collection mechanism.",
+        "• Technical assistance for reforming Uzbekistan’s Central Bank and Ministry of Finance has been provided by the World Bank, the Office of Technical Assistance at the U.S. Treasury Department, and the United Nations Development Programme (UNDP).",
+        "• These reforms aim to develop institutions capable of implementing market-oriented fiscal and monetary policies in Uzbekistan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:04.039029",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Uzbekistan produced 5.4 million tonnes of wheat, establishing it as a significant crop in the country’s agricultural output.",
+        "• Potato production in Uzbekistan reached 2.9 million tons in 2018, highlighting its importance in the national diet and agriculture.",
+        "• Uzbekistan was the 8th largest cotton producer globally in 2018, producing 2.2 million tons of cotton.",
+        "• Tomato production stood at 2.2 million tons in 2018, ranking Uzbekistan as the 14th largest producer worldwide.",
+        "• The country produced 2.1 million tonnes of carrots in 2018, making it the 2nd largest carrot producer in the world, second only to China.",
+        "• Watermelon production was 1.8 million tons in 2018, with Uzbekistan ranking as the 8th largest producer globally.",
+        "• Grape production reached 1.5 million tons in 2018, placing Uzbekistan as the 15th largest producer in the world.",
+        "• Onion production was 1.4 million tons in 2018, also ranking Uzbekistan 15th globally.",
+        "• Apple production totaled 1.1 million tons in 2018, with Uzbekistan ranked 14th in the world.",
+        "• Cucumber production was 857 thousand tons in 2018, making Uzbekistan the 7th largest producer worldwide.",
+        "• Cabbage production amounted to 743 thousand tons in 2018, indicating its role in local agriculture.",
+        "• Apricot production was 493 thousand tons in 2018, ranking Uzbekistan as the 2nd largest apricot producer globally, just behind Turkey.",
+        "• Maize production reached 413 thousand tons in 2018, contributing to the country’s cereal output.",
+        "• Garlic production was 254 thousand tons in 2018, reflecting its agricultural significance.",
+        "• Rice production totaled 221 thousand tons in 2018, supporting dietary and economic needs.",
+        "• Cherry production was 172 thousand tons in 2018, contributing to fruit agriculture.",
+        "• Peach production reached 161 thousand tons in 2018, indicating its cultivation scale.",
+        "• Plum production was 134 thousand tons in 2018, with Uzbekistan ranked 17th largest producer globally.",
+        "• Besides these major crops, Uzbekistan produced smaller quantities of various other agricultural products in 2018.",
+        "• At the end of 2013, the Uzbek government, via the Central Bank of the Republic of Uzbekistan, forecasted agriculture as a major component of future economic development.",
+        "• Agriculture employed 28% of Uzbekistan’s labor force and contributed 24% to GDP based on 2006 data.",
+        "• Processing of domestic agricultural output contributed an additional 8% to Uzbekistan’s GDP as of 2006.",
+        "• Cotton, once the primary cash crop and export earner, declined in prominence post-independence due to increased emphasis on wheat for food security amid population growth.",
+        "• Cotton-cropped area decreased by over 25%, from 2 million hectares in 1990 to less than 1.5 million hectares in 2006.",
+        "• Wheat cultivation increased by 60%, from about 1 million hectares in 1990 to 1.6 million hectares in 2006.",
+        "• Cotton production dropped from 3 million tons annually in the pre-independence decade to approximately 1.2 million tons since 1995.",
+        "• Despite reduced production, Uzbekistan produced three times more cotton than all other Central Asian countries combined, including Azerbaijan.",
+        "• Cotton exports declined from about 45% of total exports in the early 1990s to 17% in 2006.",
+        "• Uzbekistan is the largest producer of jute in West Asia and also produces significant quantities of silk (notably Uzbek ikat), fruit, and vegetables.",
+        "• Food products contributed nearly 8% of Uzbekistan’s total exports in 2006.",
+        "• Nearly all agricultural production in Uzbekistan requires irrigation; however, due to budget constraints, the irrigated area has remained static at 4.2 million hectares since 1990, following rapid Soviet-era expansion.",
+        "• Government intervention persists through state orders for cotton and wheat, with farmers receiving binding directives on crop areas and required to sell harvests at state-fixed prices to designated marketers.",
+        "• Farmers’ incomes are substantially lower than the national average because the government pays below world prices for cotton and wheat, using the price differential to subsidize capital-intensive industries such as automobile, airplane, and tractor manufacturing.",
+        "• Due to fixed low prices for cotton and wheat, many farmers focus on fruit and vegetable production on small household plots, where prices are market-determined rather than state-controlled.",
+        "• Some farmers engage in smuggling cotton and especially wheat across borders with Kazakhstan and Kyrgyzstan to obtain higher prices.",
+        "• The government’s pricing policy for cotton and wheat has contributed to rapid growth in the cattle herd, as prices for milk and meat are market-determined.",
+        "• The cattle population increased from 4 million head in 1990 to 7 million head in 2006, with most animals maintained by rural families owning 2–3 head each.",
+        "• Sales of self-produced milk, meat, and vegetables in urban markets provide important supplementary income for rural families.",
+        "• The Soviet-era practice of mobilizing \"volunteer labor\" for cotton harvest continues in Uzbekistan, involving schoolchildren, university students, medical professionals, and state employees who are sent en masse to the fields annually.",
+        "• A domestic news agency with anti-government leanings described Uzbekistan’s cotton harvest as \"riches gathered by the hands of hungry children,\" highlighting ongoing concerns about labor practices in cotton production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:04.523549",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 40
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Natural resources and energy",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, Uzbekistan ranked as the 5th largest global producer of uranium, the 12th largest producer of gold, the 7th largest producer of rhenium, the 12th largest producer of molybdenum, the 21st largest producer of phosphate, and the 19th largest producer of graphite.",
+        "• Minerals and mining constitute significant sectors of Uzbekistan's economy, with gold and cotton serving as major foreign exchange earners, unofficially estimated to account for 20% of the country’s total exports.",
+        "• Uzbekistan is the world’s seventh-largest gold producer, extracting approximately 80 tons annually, and possesses the fourth-largest gold reserves globally.",
+        "• The country has abundant natural gas resources utilized for both domestic consumption and export purposes, alongside oil reserves primarily used for domestic consumption.",
+        "• Uzbekistan holds substantial reserves of copper, lead, zinc, tungsten, and uranium, contributing to its diversified mineral wealth.",
+        "• Energy consumption in Uzbekistan is generally high due to controlled energy prices, which do not incentivize consumers to conserve energy.",
+        "• Uzbekistan participated as a partner country in the European Union’s INOGATE energy programme, which aimed to enhance energy security, promote the convergence of member state energy markets based on EU internal energy market principles, support sustainable energy development, and attract investment for energy projects of common and regional interest.",
+        "• Uzmetkombinat is the largest steel manufacturing company in Uzbekistan, with plans to conduct an initial public offering (IPO) in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:27:52.168046",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "External trade and investment",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the 2017 liberalisation of Uzbekistan's foreign exchange market, the country has experienced rapid export growth, with traditional export products such as gas and cotton now retained domestically for processing, replaced by significant increases in exports of fruit, textiles, and home appliances.",
+        "• Textile exports in Uzbekistan have doubled in revenue in recent years, reaching nearly US$3 billion in goods exports, while home appliance manufacturer Artel's exports surged from US$5.6 million in 2017 to approximately US$100 million in 2021.",
+        "• Prior to liberalisation, Uzbekistan's multiple exchange rate system and highly regulated trade regime caused both imports and exports to decline from about US$4.5 billion in 1996 to less than US$3 billion in 2002.",
+        "• Following stabilization and currency liberalization in 2003, Uzbekistan saw significant increases in exports and imports; by 2011, exports had more than doubled to US$15.5 billion, whereas imports rose more modestly to US$6.5 billion, reflecting government import substitution policies aimed at preserving hard currency reserves.",
+        "• The Uzbek government's use of draconian tariffs, sporadic border closures, and border crossing fees negatively impacts legal imports of consumer products and capital equipment.",
+        "• Uzbekistan is a member of the International Monetary Fund (IMF), World Bank, Asian Development Bank (ADB), and European Bank for Reconstruction and Development (EBRD).",
+        "• The country holds observer status at the World Trade Organization (WTO), is a member of the World Intellectual Property Organization (WIPO), and is a signatory to several international agreements including the Convention on Settlement of Investment Disputes Between States and Nationals of Other States, the Paris Convention for the Protection of Industrial Property, the Madrid Agreement on Trademarks Protection, and the Patent Cooperation Treaty.",
+        "• In 2002, Uzbekistan was placed on the special \"301\" Watch List due to inadequate intellectual copyright protection.",
+        "• Daewoo Gentra is identified as a flagship model of UzDaewooAuto, a prominent automotive company in Uzbekistan.",
+        "• Until 2017, according to European Bank for Reconstruction and Development (EBRD) transition indicators, Uzbekistan's investment climate was among the least favorable in the Commonwealth of Independent States (CIS), with only Belarus and Turkmenistan ranking lower.",
+        "• The unfavorable investment climate caused foreign investment inflows to dwindle significantly, with Uzbekistan believed to have the lowest foreign direct investment (FDI) per capita in the CIS.",
+        "• Since independence, U.S. firms have invested approximately US$500 million in Uzbekistan; however, declining investor confidence, harassment, and currency convertibility issues have led many international investors to exit or consider exiting the country.",
+        "• In 2005, Uzbekistan's Central Bank revoked the license of Biznes Bank due to unspecified violations of local currency exchange rules, leading to bankruptcy procedures that froze client deposits for two months without accruing interest.",
+        "• In 2006, the Uzbek government forced Newmont Mining Corporation, then the largest U.S. investor, out of its gold mining joint venture at the Muruntau gold mine; although the dispute was resolved, this action damaged Uzbekistan's reputation among foreign investors.",
+        "• The government attempted similar actions against British-owned Oxus Mining, and U.S.-owned telecommunications company Coscom was compelled to sell its joint venture stake to another foreign company involuntarily.",
+        "• GM-DAT, a Korean subsidiary of General Motors, is the only known U.S. business to have entered Uzbekistan in over two years, recently signing a joint-venture agreement with UzDaewooAuto to assemble Korean-manufactured cars for export and domestic sale.",
+        "• Other major U.S. investors in Uzbekistan include Case IH (manufacturing and servicing cotton harvesters and tractors), Coca-Cola (operating bottling plants in Tashkent, Namangan, and Samarkand), Texaco (producing lubricants for the Uzbek market), and Baker Hughes (engaged in oil and gas development).",
+        "• In 2024, Uzbekistan’s external debt reached US$64.1 billion, equivalent to 55.7% of GDP, up from 51.9% of GDP in 2023; this figure includes both public and private liabilities, with much of the private sector, especially banks and industrial enterprises, remaining state-owned.",
+        "• Government external debt in 2024 rose to US$33.9 billion (29.5% of GDP), while corporate external debt reached US$30.2 billion (26.2% of GDP).",
+        "• The Uzbek government maintained control over approximately 65% of the banking sector and held significant stakes in major firms such as UzAuto Motors and Uzbekneftegaz.",
+        "• Public debt was projected to increase to US$45.1 billion (36.7% of GDP) by the end of 2025.",
+        "• In 2025, President Shavkat Mirziyoyev signed legislation for Uzbekistan’s accession to the Agreement Establishing the Eurasian Development Bank (EADB), making Uzbekistan the seventh member and the third largest shareholder with a 10% equity stake."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:16.836167",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "7",
+      "section_name": "Banking",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Uzbekistan's banking sector has shown reasonably stable performance within a predominantly state-dominated local economy, supported by rapid economic growth and a strong external and fiscal sovereign position.",
+        "• The banking sector's stability benefits from low exposure to external financial markets, reducing vulnerability to global financial shocks.",
+        "• Despite stability, the sector remains susceptible to economic shocks due to weak corporate governance, inadequate risk management practices, rapid recent asset growth, significant directed lending, and acquisitions of problem assets.",
+        "• Banks’ foreign currency obligations, particularly those related to trade finance, are especially vulnerable because of existing foreign exchange constraints in Uzbekistan.",
+        "• Fitch Ratings highlights notable risks of asset quality deterioration if there is a reversal in current positive economic trends.",
+        "• The banking sector’s funding base is predominantly short-term, mainly sourced from corporate current accounts, with retail deposits constituting only 25% of total deposits.",
+        "• Longer-term funding is primarily provided by the Ministry of Finance and other state agencies, which represent a significant portion of the sector’s liabilities.",
+        "• Foreign funding accounts for a relatively small share of total liabilities, estimated at 10%, and plans for additional foreign borrowings are moderate.",
+        "• Liquidity management within banks is limited by the absence of deep capital markets, leading banks to maintain substantial cash reserves on their balance sheets as a precaution.",
+        "• The quality of bank capital is occasionally compromised due to less conservative regulatory standards for recognizing credit impairment and due to investments in non-core assets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:03.521419",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "8",
+      "section_name": "Retail",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Uzbekistan's retail sector is predominantly characterized by traditional markets called _bozorlar_, where individual vendors sell a variety of consumer goods including food, housewares, and clothing.",
+        "• Despite the dominance of traditional markets, the retail sector in Uzbekistan is undergoing rapid modernization, marked by the accelerated construction of modern supermarkets and shopping malls in recent years.",
+        "• In 2017, Uzbekistan's retail market was estimated to be worth $17 billion, with projections indicating continued growth driven by rising incomes, population growth, and a transition from informal to formal retail channels.",
+        "• Major supermarket chains operating in Uzbekistan include local companies Korzinka.uz and Makro (Uzbekistan), as well as the French multinational Carrefour, which planned to open its first store in Uzbekistan in 2021.",
+        "• The first modern shopping malls in Uzbekistan are located in the capital city, Tashkent, with notable developments including the Samarkand Darvoza and Compass shopping centers.",
+        "• The retail sector has also experienced significant growth in online retail platforms, reflecting broader modernization trends within the industry.",
+        "• In 2021, Korzinka expanded its business by acquiring a US$40 million stake in Anglesey Food, the Singapore-based parent company of Korzinka.",
+        "• Additionally, in 2021, Korzinka secured $12 million in debt financing aimed at promoting food security and sustaining the livelihoods of over 5,000 employees and 1,200 farm workers in Uzbekistan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:07.103192",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "9",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Uzbekistan is home to three significant cities on the historic Silk Road route: Khiva, Bukhara, and Samarkand.",
+        "• The country boasts numerous tourist destinations that are well connected, facilitating travel and exploration within Uzbekistan.",
+        "• Uzbekistan contains five UNESCO World Heritage Sites officially recognized for their cultural and historical importance.",
+        "• In addition to the five recognized sites, Uzbekistan has 30 locations listed on the UNESCO tentative list, indicating potential future recognition."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:05.371232",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "10",
+      "section_name": "Controversy",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to investigations by the Organized Crime and Corruption Reporting Project (OCCRP), Vlast, and iStories, Uzbekistan significantly increased its exports of cotton pulp and nitrocellulose to Russia after February 24, 2022; these substances are key components used in the manufacture of explosives and gunpowder.",
+        "• Ekonomichna Pravda reported that at least two major Uzbek exporters have been collaborating with enterprises within the Russian military-industrial complex, facilitating the supply chain for military production.",
+        "• Documents obtained from the Russian Federal Tax Service confirm that at least three Russian companies—Bina Group, Khimtrade, and Lenakhim—have sold imported Uzbek cotton pulp to Russian military plants.",
+        "• The Kazan Powder Plant, one of the recipients of the cotton pulp, is a strategic defense-industrial enterprise producing gunpowder and charges for various weapon types; this plant is subject to sanctions imposed by the United States.",
+        "• The Tambov Powder Plant, another recipient, is a defense-industrial enterprise manufacturing ammunition and special chemicals; it is subject to sanctions from both the United States and Ukraine.",
+        "• The Perm Powder Plant, also supplied with cotton pulp, is involved in producing advanced weaponry including Topol-M and Bulava intercontinental ballistic missiles, Kornet anti-tank guided missiles (ATGMs), and Grad and Smerch multiple rocket launchers; this plant is under Ukrainian sanctions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:08.844658",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "11",
+      "section_name": "Miscellaneous data",
+      "chapter_name": "Economy of Uzbekistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The main economic indicators for Uzbekistan from 1993 to 2025 include GDP in billion US$ PPP and nominal terms, GDP per capita in US$ PPP and nominal, real GDP growth rates, inflation percentages, and government debt as a percentage of GDP, with detailed yearly data showing trends such as GDP growth from 46.6 billion US$ PPP in 1993 to a projected 471.9 billion US$ PPP in 2025.",
+        "• GDP per capita in PPP terms increased from 2,133 US$ in 1993 to a projected 12,596 US$ in 2025, while nominal GDP per capita rose from 316 US$ in 1993 to an estimated 3,355 US$ in 2025.",
+        "• Real GDP growth fluctuated over the years, with negative growth in the early 1990s (−2.3% in 1993 and −5.2% in 1994), followed by steady positive growth reaching peaks such as 9.5% in 2007, and projected moderate growth of 6.3% in 2025.",
+        "• Inflation rates were extremely high in the early 1990s, peaking at 1,568.3% in 1994, then declined significantly to single digits by the mid-2000s, stabilizing around 10% in recent years, with 10.0% inflation projected for 2024 and 9.4% for 2025.",
+        "• Government debt as a percentage of GDP was not available for the early 1990s but recorded at 15.3% in 1997, fluctuated thereafter, reaching a low of 6.1% in 2014, and rising again to an estimated 35.4% in 2025.",
+        "• Household income distribution in 2003 showed the lowest 10% of the population held 2.8% of income or consumption, while the highest 10% accounted for 29.6%, with a Gini index of 36.8 indicating moderate income inequality.",
+        "• Uzbekistan’s agricultural sector produces cotton, vegetables, fruits, grains, and livestock, reflecting its role in the economy.",
+        "• Industrial production growth was estimated at 6.2% in 2003, indicating moderate industrial expansion.",
+        "• Electricity production in 2002 was 47.7 TWh, with consumption at 46.66 TWh; exports were 4.5 TWh and imports 6.8 TWh, showing a near balance in electricity trade.",
+        "• Electricity production sources in 2001 were predominantly fossil fuels at 88.2%, hydroelectric power at 11.8%, with no contribution from nuclear or other sources.",
+        "• Oil production in 2004 was estimated at 143,300 barrels per day (22,780 m3/d), with consumption slightly lower at 142,000 barrels per day (22,600 m3/d) in 2001; proved oil reserves stood at 297 million barrels (47.2 million m3) as of January 1, 2002.",
+        "• Natural gas production in 2001 was 63.1 billion m3, with consumption at 45.2 billion m3; exports totaled 17.9 billion m3, imports were zero, and proved reserves were 937.3 billion m3 as of January 1, 2002.",
+        "• The current account balance was positive at $3.045 billion in 2007, indicating a surplus.",
+        "• In 2006, Uzbekistan’s export commodities included cotton (17.2%), energy products (13.1%), metals (12.9%), machinery and equipment (10.1%), food products (7.9%), chemical products (5.6%), and services (12.1%).",
+        "• Imports in 2006 were dominated by machinery and equipment (40.3%), chemical products (15.0%), metals (10.4%), food products (8.1%), energy products (4.3%), and services (9.1%).",
+        "• Foreign exchange and gold reserves were estimated at $5.6 billion as of December 2007.",
+        "• Exchange rates varied significantly over time: 1,865 Uzbekistani som (UZS) per US dollar in early 2012, depreciating to 10,097 UZS per USD by April 2020; similarly, the exchange rate for the euro was 2,900 UZS per EUR and later 10,981 UZS per EUR in April 2020.",
+        "• Economic growth in the first six months of 2009 showed a GDP increase of 8.2%, industrial production growth of 9.1%, and agricultural production growth of 4.6%, indicating robust recovery despite global economic challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:26.050696",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_uzbekistan.json",
+      "original_index": 11
+    }
+  ]
+}

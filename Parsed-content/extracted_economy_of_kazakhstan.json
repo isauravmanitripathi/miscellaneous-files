@@ -1,0 +1,671 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_kazakhstan.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.184619",
+    "total_sections_in_source": 26,
+    "extracted_sections_count": 26,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Kazakhstan is the largest in Central Asia both in absolute terms and per capita, reflecting its significant regional economic influence.",
+        "• As of 2023, Kazakhstan has attracted over US$370 billion in foreign investments since gaining independence following the dissolution of the Soviet Union in 1991.",
+        "• The country possesses substantial natural resources, including oil reserves, minerals, and metals, with nearly every known element on the periodic table found within its territory.",
+        "• Kazakhstan has considerable agricultural potential, with its extensive steppe lands supporting livestock farming and grain production; the southern mountains are notable for wild apple and walnut growth.",
+        "• The industrial sector is primarily based on the extraction and processing of natural resources, including oil, minerals, and metals.",
+        "• The collapse of the Soviet Union and the subsequent decline in demand for Kazakhstan’s traditional heavy industry products led to a sharp economic downturn starting in 1991, with the most severe decline occurring in 1994.",
+        "• Between 1995 and 1997, the government accelerated economic reforms and privatization efforts, resulting in a significant transfer of assets to the private sector.",
+        "• Kazakhstan was granted \"market economy country\" status by the European Union in 2000 and by the United States in 2002.",
+        "• The signing of the Caspian Pipeline Consortium agreement in December 1996 aimed to build a pipeline from western Kazakhstan’s Tengiz Field through Russia to the Black Sea, enhancing prospects for increased oil exports until geopolitical issues arose.",
+        "• Russian President Vladimir Putin expressed concerns over Kazakhstan’s lukewarm support following the 2022 Russian invasion of Ukraine, affecting oil export prospects.",
+        "• Kazakhstan’s economy declined in 1998 with a 2.5% decrease in GDP, influenced by falling oil prices and the August 1998 Russian financial crisis.",
+        "• In 1999, the economy recovered due to rising international petroleum prices, a strategic tenge devaluation, and a bumper grain harvest, pulling it out of recession.",
+        "• During the 1990s, GDP per capita decreased by 26%.",
+        "• The 2000s saw rapid economic growth driven by higher global prices for oil, metals, and grain, with GDP increasing by 9.6% in 2000 (up from 1.7% in 1999) and reaching 10.6% growth in 2006.",
+        "• Growth was supported by trade with Russia, China, and other CIS nations, contributing to a positive shift in government finances from a 3.7% GDP cash deficit in 1999 to a 0.1% surplus in 2000.",
+        "• The economy experienced a slowdown starting in 2014 due to declining oil prices and the impacts of the Russo-Ukrainian War, with the national currency devalued by 19% in 2014 and 22% in 2015.",
+        "• In 2023, Kazakhstan was ranked 37th out of 64 countries in the International Institute for Management Development’s World Competitiveness Ranking, which assesses countries’ ability to achieve long-term value creation.",
+        "• Cyril Muller, Vice President of the World Bank for Europe and Central Asia, visited Astana in January 2017, praising Kazakhstan’s 25-year partnership with the World Bank and noting improvements in the country’s ranking in the 2017 Doing Business Report, where Kazakhstan ranked 35th out of 190 countries.",
+        "• Post-2000, Kazakhstan implemented several public sector reforms based on the New Public Management approach, aiming to reduce costs and enhance efficiency in public service delivery.",
+        "• Kazakhstan ranked 3rd in the Central and South Asia region in the 2018 Global Innovation Index (GII) published by the World Intellectual Property Organization.",
+        "• The main producer of cotton pulp in Kazakhstan is Khlopkoprom, which has supplied products to gunpowder manufacturers in Russia since 2022.",
+        "• Many factories importing Kazakh pulp for explosive manufacturing are under US and Ukrainian sanctions, yet exports of cotton pulp and derivatives to Russia increased significantly after February 24, 2022.",
+        "• Exported components from Kazakhstan are key in the manufacture of explosives and gunpowder, with contracts in place for the supply of raw materials to the Kazan Gunpowder Plant until 2026 and the Aleksinsky Chemical Plant until 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:55:30.135991",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1973, Kazakhstan's GDP per capita has experienced significant fluctuations, reflecting broader economic transitions and growth patterns over the decades.",
+        "• In 1995, Kazakhstan's GDP was approximately 78,014,200 million tenge, with an exchange rate of T 61.11 per US dollar, inflation index at 64, and per capita income at 3.81% of the USA.",
+        "• By 2000, GDP increased to approximately 102,599,902 million tenge, with the exchange rate rising to T 142.26, inflation index reaching 100, and per capita income slightly decreasing to 3.53% of the USA.",
+        "• In 2005, GDP further grew to 147,453,000 million tenge, with an exchange rate of T 132.88, inflation index at 140, and per capita income increasing to 9.01% of the USA.",
+        "• In 2017, the GDP was approximately 159,406,930 million tenge, with an exchange rate of ₸344.18; specific inflation and per capita income figures are not provided for this year.",
+        "• According to IMF estimates, Kazakhstan's gross domestic product at market prices was 417.5 billion US dollars in 2013, with a GDP per capita of 24,326 US dollars, and a GDP growth rate of 5.9%.",
+        "• In 2014, GDP slightly increased to 427.5 billion US dollars, with a GDP per capita of 24,545 US dollars, and a growth rate of 4.3%; inflation was 6.7%, and unemployment was 5.0%.",
+        "• The economic indicators from 1980 to 2023 show a steady increase in GDP in both nominal and PPP terms, with notable fluctuations in growth rates and inflation.",
+        "• In 1992, Kazakhstan's GDP was 120.2 billion US dollars (PPP), with a GDP per capita of 7,052 US dollars, and a growth rate of 2.9%.",
+        "• The year 1993 saw a decline to 111.8 billion US dollars (PPP), with a GDP per capita of 6,613 US dollars, and a significant decrease in GDP growth of −9.2%, alongside inflation at 5.2%.",
+        "• In 1994, GDP further declined to 99.8 billion US dollars (PPP), with a GDP per capita of 6,315 US dollars, and a decrease in growth of −12.6%, inflation at 11.9%, and unemployment at 10.1%.",
+        "• From 1995 onward, Kazakhstan's GDP gradually recovered, reaching 93.5 billion US dollars (PPP) with a GDP per capita of 5,966 US dollars, and a decline in growth to −8.2%, inflation at −8.2%, and unemployment at 11.0%.",
+        "• Between 2000 and 2007, Kazakhstan experienced consistent economic growth, with GDP in PPP terms rising from 114.9 billion US dollars to 269.3 billion US dollars, and GDP per capita increasing from 7,727 to 17,293 US dollars.",
+        "• The global financial crisis of 2008 caused a slowdown, with GDP in PPP terms reaching 283.5 billion US dollars and growth slowing to 3.3%, while inflation decreased to 17.1%.",
+        "• Post-2009, Kazakhstan's economy recovered, with GDP in PPP terms increasing to 344.0 billion US dollars in 2011, and further to 448.5 billion US dollars in 2017, with GDP per capita rising correspondingly.",
+        "• In 2020, amid the COVID-19 pandemic, GDP in PPP terms was approximately 501.8 billion US dollars, with a growth rate of −2.6%, and inflation at 6.8%.",
+        "• The year 2021 saw GDP in PPP terms increase to 545.8 billion US dollars, with a growth rate of 4.1%, inflation at 8.0%, and unemployment at 4.9%.",
+        "• In 2022, GDP in PPP terms reached 603.3 billion US dollars, with a growth rate of 3.3%, inflation at 15.0%, and unemployment remaining at 4.9%.",
+        "• As of 2023, Kazakhstan's GDP in PPP terms is approximately 654.1 billion US dollars, with a growth rate of 4.6%, inflation at 15.0%, and unemployment at 4.8%.",
+        "• Overall, Kazakhstan's macroeconomic trend demonstrates a trajectory of growth with periods of volatility, influenced by global economic conditions, commodity prices, and internal reforms."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:55:38.327421",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic growth and GDP",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the World Bank, Kazakhstan's economy grew by 5.1% in the first half (H1) of 2023, primarily driven by exports and fiscal stimulus measures.",
+        "• The GDP of Kazakhstan is projected to grow by 4.5% in 2023 and subsequent years, supported by new oil production coming on-stream.",
+        "• Over the decade leading up to 2022, Kazakhstan's economy experienced an average real GDP growth rate of 3.0%, which is higher than the 2.5% average for Eastern Europe.",
+        "• In 2022, Kazakhstan's real GDP growth was 3.3%.",
+        "• The official estimate of Kazakhstan's GDP at the end of 2022 was $512 billion in purchasing power parity (PPP) terms.",
+        "• Kazakhstan devalued its currency by 19% in February 2014.",
+        "• The country experienced an economic slowdown starting in 2014, triggered by falling oil prices and the impacts of the 2014 Russo-Ukrainian War.",
+        "• On 1 May 2014, the Government of Kazakhstan signed a Framework Partnership Agreement with the International Bank for Reconstruction and Development (IBRD), International Finance Corporation (IFC), and Multilateral Investment Guarantee Agency (MIGA), under which the World Bank committed to allocate US$2.5 trillion to Kazakhstan for economic diversification and sustainable development.",
+        "• As of 2015, Kazakhstan reached the status of an upper-middle-income country with a GDP of US$170 billion, according to the World Bank report.",
+        "• A second devaluation of the Kazakhstani tenge occurred in August 2015, amounting to 22%.",
+        "• In 2015, foreign direct investment (FDI) increased by 30% in Kazakhstan's agricultural sector and by 80% in the petroleum products sector.",
+        "• Kazakhstan's economy began recovering in 2016 from the crisis caused by low oil prices and the devaluation of the tenge; during the first nine months of 2016, GDP growth reached 0.4%.",
+        "• In 2016, the sectors with the highest growth included construction (+6.9%), agriculture (+4.9%), and transport (+4.0%).",
+        "• Between 2013 and 2017, Kazakhstan's GDP per capita in current US dollars declined by approximately 40%.",
+        "• In the 2020 World Bank Doing Business report, Kazakhstan ranked 25th out of 190 countries, improving three positions from 28th place the previous year, ahead of countries such as Iceland (26th), Austria (27th), Russia (28th), and Japan (29th).",
+        "• Kazakhstan prioritized developing its non-oil sectors, which contributed to 85% of the country's economic growth in 2019.",
+        "• In 2020, the sectors with the most significant growth included automotive (+53.6%), pharmaceuticals (+39.7%), processed metal products (+19.5%), mechanical engineering (+16.5%), and light industry (+16.4%).",
+        "• Service sector growth in 2020 was notable in construction (+10.7%) and information and communications (+8.2%).",
+        "• The World Bank reported Kazakhstan's GDP growth was 3.2% in 2022.",
+        "• The economy was projected to grow by 3.9% in 2023, mainly driven by hydrocarbons and increased oil production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:55:44.368378",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.0.1",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kazakhstan is the leading country in the world for uranium production volumes, accounting for 35% of global uranium production.",
+        "• Kazakhstan possesses the world's second-largest uranium reserves, following Australia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:55:45.903046",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.0.2",
+      "section_name": "Oil and gas",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Oil and gas constitute the leading sector of Kazakhstan's economy, significantly influencing its economic development and growth.",
+        "• In the year 2000, Kazakhstan produced 35,252,000 metric tons of oil, which is equivalent to approximately 700,000 barrels per day, representing a 17.4% increase compared to 1999's production of 30,025,000 tons.",
+        "• Kazakhstan's oil exports in 2000 totaled 28,883,000 tons, marking a 38.8% increase from the 20,813,000 tons exported in 1999.",
+        "• Oil production in 2001 has been growing at an approximate rate of 20%, aligning with the government's forecast to reach 40,100,000 tons of oil, or about 800,000 barrels per day.",
+        "• In 2000, natural gas production reached 11.5 cubic kilometers (km³), up from 8.2 km³ in 1999, indicating significant growth in natural gas output.",
+        "• Kazakhstan has substantial potential to become a world-class oil exporter in the medium term, driven by its rich reserves and foreign investment.",
+        "• The landmark foreign investment project is the TengizChevroil joint venture, which is owned 50% by ChevronTexaco, 25% by ExxonMobil, 20% by KazMunaiGas of Kazakhstan, and 5% by LukArco of Russia.",
+        "• The Karachaganak natural gas and gas condensate field is under development by a consortium including BG Group, Eni (through Agip), ChevronTexaco, and Lukoil.",
+        "• The offshore Kashagan oil field, located in the northern Caspian Sea, was discovered by the Agip-led Offshore Kazakhstan Consortium and is considered potentially huge, with significant future development prospects.",
+        "• Kazakhstan's economic future heavily depends on oil and gas development, with GDP growth being contingent on oil prices and the country's ability to develop new deposits.",
+        "• In January 2022, Kazakhstan experienced widespread protests beginning with thousands of people returning to the streets to oppose surging gas prices, marking four consecutive days of demonstrations.",
+        "• These protests in January 2022 are claimed to be the largest in decades in the oil-rich country, involving protesters invading government buildings and seizing police vehicles despite the enforcement of a strict state emergency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:55:52.456841",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.0.3",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kazakhstan is a leading global producer of numerous mineral commodities, including salt, uranium, ferrochrome, titanium sponge, cadmium, potash, magnesium, rhenium, copper, bauxite, gallium, and zinc.",
+        "• In 2022, Kazakhstan was the world's largest producer of uranium.",
+        "• In 2019, Kazakhstan ranked as the 10th largest producer of gold worldwide.",
+        "• In 2019, Kazakhstan was the 11th largest producer of copper globally.",
+        "• Kazakhstan was the 3rd largest producer of chromium worldwide in 2019.",
+        "• In 2019, Kazakhstan was the 9th largest producer of bauxite.",
+        "• Kazakhstan ranked as the 9th largest producer of zinc in 2019.",
+        "• In 2019, Kazakhstan was the 10th largest producer of antimony globally.",
+        "• Kazakhstan was the 12th largest producer of iron ore in 2019.",
+        "• Kazakhstan ranked as the 12th largest producer of lead worldwide in 2019.",
+        "• In 2019, Kazakhstan was the 14th largest producer of manganese.",
+        "• Kazakhstan was the 17th largest producer of phosphate globally in 2019.",
+        "• Kazakhstan ranked as the 6th largest producer of bismuth in 2019.",
+        "• In 2019, Kazakhstan was the 7th largest producer of sulfur worldwide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:55:55.510183",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.0.4",
+      "section_name": "Motor cars",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In June 2014, the CKD (Complete Knock-Down) assembly of the Toyota Fortuner was launched in Kostanay, Kazakhstan, with an expected annual production of approximately 3,000 cars.",
+        "• Kazakhstan's car industry was experiencing rapid development in 2014, producing goods valued at around US$2 billion annually.",
+        "• Despite initial optimism, the industry faced a decline, with vehicle sales decreasing to only 47,000 units in 2016.",
+        "• In 2020, Kazakhstan's automotive sector experienced its most significant growth to date, with a 53.6% increase in industry output, despite the challenges posed by the COVID-19 pandemic.",
+        "• The Kazakh government has provided ongoing state support to the domestic auto industry, primarily through recycling fees, which has become a contentious issue.",
+        "• Over the past 20 years, the industry has largely functioned as a simple assembly hub, importing spare parts from abroad and performing basic assembly tasks such as fitting wheels, without progressing toward establishing a truly Kazakh automotive brand.",
+        "• This limited development has led to public dissatisfaction, notably from groups like #Нетутильсбору (No Recycling Fee), who argue that government policies unfairly favor industry support over the needs of ordinary citizens.",
+        "• The support policies have contributed to an increase in the average age of vehicles across Kazakhstan, as affordable, newer options remain inaccessible to many consumers.",
+        "• The primary demands of the #Нетутильсбору group include the abolition of recycling fees and a redirection of government support toward addressing more urgent public needs.",
+        "• Critics argue that continued government backing effectively \"mummifies\" an unproductive industry, hindering broader automotive sector development and consumer access."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:00.545341",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.0.5",
+      "section_name": "Rail",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• GE Transportation acquired a 50% stake in Lokomotiv Kurastyru Zauyty, establishing a joint venture with Kazakhstan's national railway company, Temir Zholy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:01.979190",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.0.6",
+      "section_name": "Technology",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 22 December 2014, the World Bank approved a loan of US$88 million to support Kazakhstan's technological development initiatives.",
+        "• The purpose of the loan was to facilitate commercially and socially viable innovation in technology within Kazakhstan.",
+        "• The loan was allocated to the Fostering Productive Innovation Project, which aims to enhance the country's capacity for technological innovation.",
+        "• The project focuses on improving sectors that can foster and support technological innovation, thereby contributing to Kazakhstan's overall economic development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:03.731467",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.0.7",
+      "section_name": "Retail",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to A.T. Kearney's 2015 Global Retail Development Index, Kazakhstan ranked 13th out of 30 countries.",
+        "• In the 2016 edition of the Index, Kazakhstan was ranked as the 4th best developing country for retail investments.",
+        "• Kazakhstan scored 56.5 out of 100 on the 2016 Index, indicating a favorable environment for retail development.",
+        "• The country's retail market attracted significant international retailers, including French retail chains Carrefour and Leroy Merlin.",
+        "• Major food service giants such as McDonald's and KFC also established a presence in Kazakhstan's retail sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:05.564481",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.0.8",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kazakhstan is the ninth-largest country by area globally and the largest landlocked country in the world.",
+        "• Tourism is not a major component of Kazakhstan's economy, contributing only 0.3% to the country's GDP as of 2014.",
+        "• The Kazakh government aimed to increase the contribution of tourism to 3% of GDP by the year 2020.",
+        "• According to the World Economic Forum's Travel and Tourism Competitiveness Report 2017, the travel and tourism industry GDP in Kazakhstan was valued at $3.08 billion, representing 1.6% of the total GDP.",
+        "• In the 2017 WEF report, Kazakhstan was ranked 81st in terms of travel and tourism competitiveness, which is a four-position improvement compared to the previous ranking period.",
+        "• Kazakhstan received approximately 6.5 million international tourists in the year 2016.",
+        "• The section includes a visual reference to the Mausoleum of Khoja Ahmed Yasawi, a notable tourism site in Kazakhstan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:08.301269",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.0.9",
+      "section_name": "Gambling",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Gambling activities in Kazakhstan have historical roots dating back to the era of Czarist Russia, with lotteries being organized during that period.",
+        "• In 1698, Czar Peter I issued a decree permitting the organization of lotteries for the first time in Russian history, marking an official recognition of such activities.",
+        "• During the Soviet era, lotteries were managed and organized by the Ministry of Finance of the Union of Soviet Socialist Republics, which included the territory of Kazakhstan.",
+        "• The Ministry of Finance of the Republic of Kazakhstan began issuing licenses for gambling activities in 1999, marking the formal regulation of the industry in independent Kazakhstan.",
+        "• In 2007, the Kazakh government enacted a new law that effectively banned gambling across the country, with exceptions made for two designated zones intended to serve as examples of Russia’s special gambling zones.",
+        "• Under this law, existing casinos outside the designated zones were required to close or relocate to areas where their operations would be legal.",
+        "• The first legally recognized casino after the 2007 law was Casino Flamingo, located in Kapchagay, which opened on 1 October 2008.",
+        "• In 2018, the total income generated by gambling companies in Kazakhstan reached ₸19.5 billion, representing a 16.1% increase compared to 2017.",
+        "• The gambling industry’s revenue in 2017 was ₸16.8 billion, indicating significant growth in the subsequent year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:12.437149",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.0.10",
+      "section_name": "Housing market",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2016, the total housing area in Kazakhstan was 342.6 million square meters (3,688 million square feet).",
+        "• The average housing area per person in Kazakhstan in 2016 was 21.4 square meters (230 square feet).",
+        "• Between 2005 and 2016, the housing area per person increased by 20%.",
+        "• Despite the increase, the housing area per person in Kazakhstan remained below the United Nations' recommended standard of 30 square meters (320 square feet) per person."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:14.472704",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kazakhstan possesses 11 transcontinental routes, including both rail and road pathways, as well as numerous oil and gas pipelines, facilitating extensive transportation infrastructure.",
+        "• The country's geographic location enables the transportation of goods from China to Europe three to four times faster than alternative routes, providing a strategic logistical advantage.",
+        "• On 13 October 2006, Sherin Suzhikova, Counselor of Kazakhstan's Chamber of Commerce and Industry, and Chao Yon-chuan, Secretary-General of the Taiwan External Trade Development Council (TAITRA), signed an agreement in Taipei aimed at enhancing economic relations through the exchange of market information and facilitating visits by trade professionals.",
+        "• TAITRA maintains an office in Almaty, Kazakhstan, to support trade development and bilateral economic cooperation.",
+        "• In 2006, North Dakota's then Lieutenant Governor Jack Dalrymple led an 18-member delegation from the North Dakota Trade Office, representing seven North Dakota companies and Dickinson State University, on a trip to Kazakhstan, Ukraine, and Russia to promote trade relations.",
+        "• North Dakota's exports to Kazakhstan primarily consist of machinery, which ranked as the eighth largest destination for North Dakotan exports; machinery exports increased significantly from US$22,000 in 2000 to US$25 million in 2005.",
+        "• The share of high-tech exports within Kazakhstan's manufactured exports grew from 4.46% in 1995 to 37.17% in 2014, indicating substantial technological development.",
+        "• A key driver of this growth was the Technology Commercialization Project, developed and implemented by the World Bank Group in partnership with the Kazakh government, which provided funding and training to 65 Kazakh tech startups to facilitate market entry for their innovations.",
+        "• China is a major trade partner for Kazakhstan; in late March 2015, the two countries signed 33 agreements valued at US$23.6 billion, covering industries such as oil refining, automobile manufacturing, and steel production.",
+        "• Kazakhstan's foreign trade turnover in 2018 reached US$93.5 billion, representing a 19.7% increase compared to 2017.",
+        "• In 2018, exports amounted to US$67 billion, up 25.7% from the previous year, while imports totaled US$32.5 billion, increasing by 9.9%.",
+        "• The Kazakhstani government supports exporters through the QazTrade incubator program, launched in September 2019, which assists businesses in navigating bureaucratic procedures and establishing connections in foreign markets.",
+        "• The QazTrade program prioritizes markets including Germany, Turkey, the United Arab Emirates, Iran, and China to promote Kazakhstani exports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:20.822535",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "New economic reforms",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In his state-of-the-nation address on September 1, 2023, President Kassym-Jomart Tokayev of Kazakhstan unveiled a comprehensive plan centered on economic reforms and a new economic course for the country.",
+        "• Key focus areas of the plan include industrialization, economic diversification, a transition toward green energy, simplification of tax codes, and enhancing transparency and fairness in governance.",
+        "• Specific sectors emphasized for development are heavy engineering, uranium enrichment, and automotive components.",
+        "• Tokayev proposed that both foreign and domestic investors involved in manufacturing should be exempt from paying taxes and other mandatory payments for the first three years to support industrial growth.",
+        "• On fiscal policy, the President called for coordination between financial and monetary policies aimed at achieving stable economic growth of 6-7 percent.",
+        "• He emphasized the importance of attracting foreign banks to increase competition and address the issue of insufficient corporate lending within Kazakhstan.",
+        "• The address highlighted the need to support small and medium enterprises (SMEs) and to accelerate privatization processes.",
+        "• Legislative changes will be initiated to encourage consolidation among small businesses and efforts will be intensified to demonopolize key markets.",
+        "• Kazakhstan’s commitment to sustainability and environmental protection was underscored, with plans to increase renewable energy capacity and develop hydrogen generation technologies.",
+        "• Tokayev proposed holding a national referendum on constructing a nuclear power plant to further energy diversification.",
+        "• The President articulated a vision for transforming Kazakhstan into an IT-focused country, aiming to increase the export of IT services to one billion dollars by 2026, facilitated through partnerships with major foreign IT companies.",
+        "• In transportation, plans were outlined to establish Kazakhstan as a major transit hub in Eurasia, emphasizing key routes such as the Trans-Caspian and the international North-South Corridor.",
+        "• He noted that Kazakhstan aspires to become a full-fledged transport and logistics power, contingent upon maintaining constructive and good-neighborly relations with neighboring countries including Russia, China, and nations in Central and South Asia.",
+        "• Kazakhstan is developing a national infrastructure plan to ensure high-quality project implementation by 2029.",
+        "• The government is introducing new financial incentive mechanisms to attract investment into complex oil and gas projects."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:26.967649",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Bond market",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In October 2014, Kazakhstan issued its first overseas dollar bonds in 14 years, marking a significant development in its bond market.",
+        "• The country issued a total of $2.5 billion in bonds on 5 October 2014, comprising both 10-year and 30-year maturities.",
+        "• This issuance was Kazakhstan’s first dollar-denominated overseas bond sale since 2000, ending a 14-year hiatus.",
+        "• The $2.5 billion issuance included $1.5 billion of 10-year bonds, which were priced to yield 1.5 percentage points above midswaps.",
+        "• Additionally, Kazakhstan issued $1 billion of 30-year bonds, which carried a yield of two percentage points over midswaps.",
+        "• The bond issuance attracted bids totaling $11 billion, indicating strong investor interest."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:29.627216",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Foreign direct investment",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kazakhstan is the largest recipient of total and annual foreign direct investment (FDI) among all Commonwealth of Independent States (CIS) countries.",
+        "• The Organization for Economic Co-operation and Development (OECD) has acknowledged Kazakhstan’s progress in opening up to international investment and enhancing its investment policy framework as part of efforts to diversify the economy.",
+        "• In 2017, Kazakhstan was invited by the OECD to become an Adherent to the OECD Declaration on International Investment and Multinational Enterprises.",
+        "• As of 30 September 2014, total foreign investment in Kazakhstan reached US$211.5 billion.",
+        "• Of the total foreign investment, net FDI amounted to US$129.3 billion, while portfolio and other investments comprised the remaining US$82.2 billion.",
+        "• FDI growth in Kazakhstan was primarily driven by increased investments in mining, transport, financial services, telecommunication, and energy sectors, which offset declining inflows in construction, metallurgy, and trade.",
+        "• Kazakhstan’s Prime Minister, Alikhan Smailov, announced that the country aims to attract approximately US$25 billion in FDI in 2023.",
+        "• During 2022, Kazakhstan implemented 46 projects involving international financial investments across sectors such as renewable energy, metallurgy, agriculture, mining, and engineering.",
+        "• The top 10 FDI source countries in Kazakhstan in 2022 included the Netherlands, the United States, Switzerland, Belgium, Russia, South Korea, China, France, the United Kingdom, and Turkey.",
+        "• The Astana International Financial Center (AIFC) was established in 2018, modeled after Dubai International Financial Center, providing foreign investors with an alternative jurisdiction featuring tax holidays, flexible labor rules, a Common Law-based legal system, and currency transaction flexibility.",
+        "• The Kazakh government recommends that foreign investors utilize the AIFC for contracts with Kazakh businesses.",
+        "• Over the past five years, the leading foreign investors in Kazakhstan have been the Netherlands ($33.8 billion), the United States ($19.4 billion), Switzerland ($12.5 billion), China ($6.2 billion), and France ($4.7 billion).",
+        "• Approximately 60% of investment projects are related to non-extractive sectors, including manufacturing, transportation, trade, financial, and insurance services.",
+        "• Agriculture is a key sector in Kazakhstan’s economic strategy, with efforts to attract foreign investment to enhance competitiveness; in 2017, KazAgro negotiated a €200 million loan with the European Investment Bank (EIB) for 15 years.",
+        "• In 2020, despite the COVID-19 pandemic, 13 out of Kazakhstan’s 14 regions experienced investment growth, notably in construction within Turkestan region, Zhambyl region, and Shymkent city.",
+        "• The gross FDI inflow in Kazakhstan reached a record-high US$28 billion in 2022, representing a 17.7% increase from US$23.8 billion in 2021; in 2012, the inflow was US$28.9 billion.",
+        "• The Atyrau Region received the largest share of investment at US$8.3 billion, a 48.3% increase; followed by Almaty city with US$7.6 billion (10.9%), Astana with US$2.2 billion (107.2%), East Kazakhstan Region with US$2.2 billion (3.1%), and Aktobe Region with US$1.2 billion (11.2% decrease).",
+        "• Renewable energy is a major investment focus due to Kazakhstan’s significant solar and wind potential, as well as its abundant reserves of critical raw materials, which constitute 90% of Central Asia’s total.",
+        "• Critical raw materials essential for green technologies include rare earth magnets, lithium, cobalt, and polysilicon for semiconductors.",
+        "• In November 2022, the European Union recognized Kazakhstan’s strategic importance for the green transition by signing a partnership agreement for the supply of critical raw materials and green hydrogen."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:39.764674",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Investor support",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kazakhstan's investment environment is characterized by active government support aimed at attracting foreign direct investment (FDI).",
+        "• To enhance FDI inflow, the country established the Kazakh Invest National Company, commonly referred to as Kazakh Invest.",
+        "• Kazakh Invest functions as a one-stop shop for investors, facilitating the entire investment process from initial idea to project implementation and providing aftercare services.",
+        "• In 2018, Kazakh Invest assisted in developing over 70 investment proposals across various industries, including metallurgy, petrochemicals, food industry, tourism, and others.",
+        "• The support provided by Kazakh Invest in 2018 included creating business plans, developing financial models, and preparing project teasers.",
+        "• Currently, Kazakh Invest is engaged in 216 investment projects and initiatives valued at approximately $42.5 billion.",
+        "• These projects are expected to generate around 47,000 jobs in Kazakhstan.",
+        "• In the current year, four investment projects worth $217 million have been launched with Kazakh Invest's support.",
+        "• Additionally, 85 projects valued at $12.3 billion are actively being implemented under the organization's auspices.",
+        "• To streamline foreign investment procedures, Kazakhstan launched the online portal elicense.kz in 2020, enabling the conclusion of investment contracts digitally and reducing bureaucratic barriers.",
+        "• The first agreement via the elicense.kz portal was signed between Kaz Solar 50 and the German company Solarnet Investment GmbH, for a renewable energy project valued at ₸5 billion.",
+        "• To further attract foreign investors, Kazakhstan established 14 special economic zones (SEZs), offering companies located within these zones preferential treatment.",
+        "• Companies operating in SEZs benefit from exemptions from various taxes, including corporate income tax, land tax, property tax, VAT, and customs duties, for up to 25 years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:45.103873",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Intellectual property",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2015, Kazakhstan enacted legislation aimed at regulating Intellectual Property (IP), including patent law and copyright protections.",
+        "• The primary objectives of this legislation were to align Kazakhstan's IP laws with international standards and treaties.",
+        "• Specifically, the law sought to bring Kazakhstan's IP legal framework into conformity with the European Patent Convention (EPC), particularly its 1994 revision.",
+        "• Additionally, the legislation aimed to harmonize Kazakhstan's IP laws with the provisions of the 2006 Singapore Treaty on the Law of Trademarks.",
+        "• This legislative update reflects Kazakhstan's efforts to improve its intellectual property regime to facilitate innovation, attract foreign investment, and enhance legal certainty for IP rights holders."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:47.956722",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "2.7",
+      "section_name": "United Arab Emirates",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In April 2025, Al Khaleej Sugar, a prominent sugar company from the United Arab Emirates, announced plans to establish a sugar manufacturing plant in Kazakhstan’s Almaty Region.",
+        "• The decision to develop the plant was made following a meeting on 27 April between Sheikh Jamal Al Ghurair, the managing director of Al Khaleej Sugar, and Marat Sultangaziyev, the governor of the Almaty Region.",
+        "• The proposed plant’s location was selected near the city of Konayev, chosen for its advantageous logistical position to facilitate transportation and distribution.",
+        "• Key considerations for the project included securing a reliable water supply, with alternative irrigation sources being explored to ensure consistent water availability.",
+        "• The project also involved the potential development of wind power plants to achieve energy self-sufficiency for the sugar plant, emphasizing sustainable energy use.",
+        "• Al Khaleej Sugar aimed to minimize the environmental impact of the new facility by relying on renewable energy sources, notably wind power.",
+        "• The company, which holds a 3% share of the global refined sugar market, conducted a detailed hydrological analysis to assess water resources and support the project's success."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:51.540577",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "2.8",
+      "section_name": "2015 \"Nurly Zhol\" economic policy",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 11 November 2014, President Nazarbayev announced Kazakhstan's new economic policy titled \"Nurly Zhol\" (The Path to the Future) during his address to the nation for 2015.",
+        "• The \"Nurly Zhol\" policy emphasizes large-scale state investment in infrastructure development over the coming years to stimulate economic growth.",
+        "• In the short term, the program will implement anti-crisis measures aimed at overcoming turbulence caused by the global economic downturn.",
+        "• The long-term component of the \"Nurly Zhol\" program focuses on infrastructure development to establish a robust foundation for sustainable new growth.",
+        "• Kazakhstan has identified five key priorities for the modernization of its state and economy to remain competitive in the context of the Fourth Industrial Revolution.",
+        "• In 2018, Kazakhstan was ranked 36th in the World Bank Group's Ease of Doing Business report, which assesses the ease of business regulations and the strength of property rights.",
+        "• The Heritage Foundation ranked Kazakhstan 41st in its 2018 Index of Economic Freedom, with an overall score that increased by 0.1 point, indicating a slight improvement.",
+        "• Despite the score increase, Kazakhstan remains classified as only \"moderately free,\" with notable progress in investment freedom and government integrity being offset by significant declines in fiscal health and monetary freedom.",
+        "• In 2017, Kazakhstan aimed to stimulate economic growth by attracting private investors to develop national companies, with privatization serving as a primary strategy.",
+        "• The privatization goal was to reduce the share of public property to 15% of GDP, with major state-owned enterprises such as Kazakhstan Railways, Samruk-Energo, Kazatomprom, Kaspost, KazMunayGas, and Air Astana targeted for sale through initial public offerings (IPOs).",
+        "• Kazakhstan's ranking in the IMD World Competitiveness Report declined from 32nd place in 2017 to 38th place in 2018, reflecting assessments of business efficiency, public finance, and the domestic economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:56:56.457043",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "2.9",
+      "section_name": "Privatisation 2016–2020",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In December 2015, the Kazakhstan Government approved a new privatization plan covering the years 2016 to 2020, marking a continuation and expansion of previous privatization efforts from 2014.",
+        "• The 2016–2020 privatization program is large-scale, involving the privatization of 60 major state-owned companies.",
+        "• As of 20 September 2016, the Kazakh Finance Ministry reported that the privatization deals conducted within the 2014–2016 period generated ₸6.99 billion (approximately US$20.6 million) for the state budget.",
+        "• The primary goal of Kazakhstan’s privatization program is to reduce the state's participation in the economy to 15 percent, aligning with the level typical of OECD countries.",
+        "• Kazakhstan’s Prime Minister Alikhan Smailov stated that the implementation of this large-scale privatization plan aims to further decrease state involvement, targeting a reduction to 14 percent by 2025.",
+        "• The privatization list encompasses 675 facilities across the public and quasi-public sectors, including shares of 262 national companies.",
+        "• These national companies are part of larger holdings such as the Samruk Kazyna Sovereign Wealth Fund, KazMunayGas, and Kazakhstan Temir Zholy.",
+        "• According to Minister of National Economy Alibek Kuantyrov, the privatization plan explicitly excludes 200 critical social life support systems, including water, power, and heat facilities, which will remain under state ownership."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:00.757458",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "2.10",
+      "section_name": "Special Economic Zones",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• A Special Economic Zone (SEZ) in Kazakhstan is a designated territorial area with a special legal regime and comprehensive infrastructure, established to facilitate priority economic activities.",
+        "• Kazakhstan currently hosts 14 SEZs distributed across 12 regions nationwide, each with distinct industry orientations.",
+        "• Notable SEZs include the Khorgos-Eastern Gate logistics hub, which focuses on logistics and trade; Turkistan, a center of international tourism and pilgrimage; and the Aktau Seaport, which incorporated the ports of Aktau and Kuryk in summer 2023.",
+        "• In March 2023, Kazakhstan established the G4 City special economic zone in the Almaty Region, aiming to attract approximately 3.7 trillion tenge (equivalent to $8.1 billion) in investments through 2048.",
+        "• The G4 City SEZ covers an area of 30,000 hectares and is designed to create favorable conditions for attracting both domestic and foreign investments, fostering the development of an integrated urban and regional infrastructure.",
+        "• The following SEZs have been officially established in Kazakhstan, along with their respective expiry dates:",
+        "• 'Astana, the New City' in Nur-Sultan, with an expiry date in 2027.",
+        "• 'Aktau Sea Port' in Aktau, with an expiry date on 1 January 2028.",
+        "• 'Ontustik' in Sairam district of South-Kazakhstan region, with an expiry date on 1 July 2030.",
+        "• 'National Industrial Petrochemical Park' in Atyrau region, with an expiry date on 31 December 2032.",
+        "• 'Park of Innovative Technologies', with an expiry date on 1 January 2028.",
+        "• 'Saryarka' in Karaganda region, with an expiry date on 1 December 2036.",
+        "• 'Horgos - the eastern gates' in Almaty region, with an expiry date in 2035.",
+        "• 'Pavlodar' in Pavlodar, with an expiry date on 1 December 2036.",
+        "• 'Chemical Park Taraz' in Taraz, with an expiry date on 1 January 2037.",
+        "• 'International Center for Cross-Border Cooperation Horgos' in Almaty region, with an expiry date on 1 January 2041.",
+        "• 'Turkestan' in Turkestan region, with an expiry date on 1 January 2043."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:04.547943",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "2.11",
+      "section_name": "Small and medium-sized enterprises",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In February 2015, Kazakhstan launched a new program aimed at supporting small businesses, with 2015 designated as a pilot period focusing on three primary sectors: agribusiness, machinery building, and production of construction materials, with plans for future expansion into other industries.",
+        "• In May 2015, the European Bank for Reconstruction and Development (EBRD) committed to providing €41 million to support technical cooperation projects, advisory services for small and medium-sized enterprises (SMEs), and the implementation of a Women in Business program.",
+        "• The number of telecom start-ups in Kazakhstan increased by 10% in 2016 compared to 2015, with approximately 9,400 small telecom companies registered in the country.",
+        "• The Kazakh Government offers extensive support to businesses, particularly SMEs, with the share of SMEs in the gross domestic product (GDP) rising by 7.9% between 2015 and 2021, reaching 34.7%, and with a strategic goal to increase this indicator to 50% by 2050.",
+        "• As of 2023, the number of SMEs in Kazakhstan grew by 23.4% to nearly two million, with employment in SMEs increasing by over 18% to 4.1 million people, representing approximately 40% of total employment in the economy.",
+        "• The contribution of SMEs to the economy increased from 33.3% to 36.5%, while the output volume of SMEs rose by 28% to over 59 trillion tenge, equivalent to $132.4 billion.",
+        "• Kazakhstan has implemented various programs to improve SMEs’ access to finance, including concessional lending, microfinance, subsidized interest rates, loan guarantees, and grants; the primary operator of these financial support initiatives is the Damu Entrepreneurship Development Fund.",
+        "• The “Business Roadmap 2025” (BRM 2025) program, operational since 2010 and managed by the Ministry of National Economy, initially targeted non-extracting and import-substituting sectors, later expanding support to rural areas and small, single-industry towns without sector restrictions; the program involves central and local authorities, Damu Fund, Atameken Chamber of Entrepreneurs, and commercial banks, offering interest subsidies, loan guarantees, grants, training, and consulting.",
+        "• The Damu Entrepreneurship Development Fund manages multiple programs financed through its own capital, local authorities, and international organizations; regional loans are provided at rates up to 8.0% in priority sectors tailored to regional economic specifics, while international programs offer loans on market terms without sector restrictions.",
+        "• By the end of 2020, Damu Fund and its partners (banks, leasing, microfinance organizations) financed over 55,112 projects totaling KZT 837,756 million.",
+        "• In May 2023, Prime Minister Alikhan Smailov emphasized that medium-sized businesses should serve as the engine of Kazakhstan’s manufacturing growth through the development of competitive products and diverse services.",
+        "• The government is introducing a “regulation-from-scratch” mechanism aimed at eliminating 10,000 unwarranted regulatory requirements and automating processes across all areas of state control to better protect entrepreneurs’ rights."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:14.376309",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "3",
+      "section_name": "Recent miscellany",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Kazakhstan was ranked 54th in the Economic Freedom of the World report published by the Fraser Institute.",
+        "• When adjusted by the Gender Disparity Index, which measures the extent to which women have the same legal rights as men and modifies the economic freedom score accordingly, Kazakhstan's rank drops to 66th, indicating a significant disadvantage for women in business.",
+        "• The Gender Disparity Index adjustment reveals a substantial gender gap in legal rights and economic participation for women in Kazakhstan.",
+        "• In recent years, a trade route has been established between Kazakhstan and the United States, which now accounts for 54% of the world's salt imports and exports by volume, totaling approximately 350,000 tonnes per year.",
+        "• As of 2021, Kazakhstan exports 14 products developed by Kazakh scientists to countries including China, Russia, Turkey, Georgia, Kyrgyzstan, and the Czech Republic.",
+        "• The exported products encompass a range of items such as food and drinks based on milk whey, probiotics, an anti-fungal drug, and biological sanitation products.",
+        "• In 2021, it was reported that the number of young female entrepreneurs in Kazakhstan increased by 15 percent, indicating a growth trend in female-led business initiatives."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:18.267787",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Global tariff war",
+      "chapter_name": "Economy of Kazakhstan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 11 April 2025, President Kassym-Jomart Tokayev announced that Kazakhstan was prepared to confront the ongoing global economic crisis, which he characterized as one of the most severe in recent decades.",
+        "• He identified key challenges including disruptions in global trade and production chains, increased price volatility, and intensified competition for investment.",
+        "• Despite these adverse conditions, Tokayev affirmed Kazakhstan's commitment to maintaining its development agenda and continuing to fund priority infrastructure projects.",
+        "• The statement was made following a government meeting that specifically addressed the issue of falling global prices for energy and commodities.",
+        "• At that time, Kazakhstan’s economy experienced a temporary boost attributed to rising export demand and the suspension of certain U.S. tariffs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:21.237014",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_kazakhstan.json",
+      "original_index": 25
+    }
+  ]
+}

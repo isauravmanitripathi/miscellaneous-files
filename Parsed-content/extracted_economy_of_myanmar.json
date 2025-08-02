@@ -1,0 +1,640 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_myanmar.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.442275",
+    "total_sections_in_source": 23,
+    "extracted_sections_count": 23,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Myanmar ranks as the seventh largest in Southeast Asia.",
+        "• Following the return of civilian rule in 2011, Myanmar's government initiated large-scale reforms, initially focusing on the political system to restore peace and achieve national unity.",
+        "• After political stabilization efforts, the government rapidly implemented economic and social reform programs.",
+        "• Economic statistics in recent years show a significant decline compared to previous data; specifically, in the fiscal year 2020, Myanmar’s nominal GDP was recorded at $81.26 billion.",
+        "• In the same fiscal year (2020), Myanmar’s GDP adjusted for purchasing power parity (PPP) was $279.14 billion.",
+        "• Since the military coup d'état in 2021, Myanmar has experienced an ongoing economic crisis.",
+        "• The International Monetary Fund (IMF) estimates Myanmar’s GDP per capita for the year 2024 to be $1,179."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:55:24.038551",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Classical era",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 100 BC, Burma has served as the main trade route connecting China and India, facilitating significant regional commerce.",
+        "• The Mon Kingdom of lower Burma functioned as an important trading center within the Bay of Bengal, highlighting its strategic economic role in maritime trade.",
+        "• The majority of Burma’s population during the classical era was engaged primarily in rice production and various other agricultural activities, underscoring the agrarian foundation of the economy.",
+        "• Silver was utilized as the medium of exchange in Burma, indicating the presence of a monetized economy.",
+        "• All land within Burma was technically owned by the Burmese monarch, reflecting a centralized system of land ownership and control.",
+        "• Key economic sectors such as exports, oil wells, gem mining, and teak production were under the direct control of the Burmese monarch, demonstrating royal dominance over valuable resources.",
+        "• Burma played a vital role in Indian Ocean trade networks, integrating its economy with broader maritime commerce.",
+        "• Teak, a highly durable wood, was a prized export from Burma and was extensively used in European shipbuilding; it became the focal point of Burmese exports from the 1700s through the 1800s.",
+        "• The Burmese monarchy’s economic system was based on the principle of redistribution, a concept deeply embedded in local society, religion, and politics, particularly through the practice of Dāna (generosity or giving).",
+        "• The state regulated the prices of the most important commodities, indicating a controlled economy with state intervention in market mechanisms.",
+        "• Agrarian self-sufficiency was considered vital to the economy, while trade was regarded as secondary, emphasizing a focus on domestic agricultural production over external commerce."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:55:31.324914",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "British Burma (1885–1948)",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Under British administration in Burma, the social hierarchy placed Europeans at the top, Indians, Chinese, and Christianized minorities in the middle, and Buddhist Burmese at the bottom of the social structure.",
+        "• Burma was forcibly integrated into the global economy, with economic growth primarily driven by extractive industries and cash crop agriculture.",
+        "• During British rule, Burma achieved the second-highest GDP per capita in Southeast Asia, although wealth was predominantly concentrated in the hands of Europeans.",
+        "• Burma became the world’s largest exporter of rice, mainly supplying European markets, contrasting with other colonies such as India, which experienced mass starvation during the same period.",
+        "• British colonial policies were influenced by Social Darwinism and free market ideologies, leading to large-scale immigration; by the 1920s, Rangoon surpassed New York City as the greatest immigration port worldwide.",
+        "• Historian Thant Myint-U highlighted that this immigration scale was enormous relative to Burma’s population of 13 million, equating to the United Kingdom taking in 2 million people annually.",
+        "• By the 1920s, Indian immigrants formed the majority population in most of Burma’s largest cities, including Rangoon, Akyab, Bassein, and Moulmein.",
+        "• The Burmese population under British rule experienced feelings of helplessness and responded with a form of racism combining feelings of superiority and fear.",
+        "• The indigenous crude oil industry centered in Yenangyaung was taken over by the British and placed under the monopoly of Burmah Oil.",
+        "• British Burma began exporting crude oil as early as 1853 and produced 75% of the world’s teak during the colonial period.",
+        "• Despite economic production, wealth distribution remained heavily skewed toward Europeans.",
+        "• In the 1930s, Burma’s agricultural production declined sharply due to falling international rice prices, and this downturn persisted for several decades.",
+        "• During World War II, the British employed a scorched earth policy in Burma, destroying major government buildings, oil wells, and mines containing tungsten, tin, lead, and silver to prevent their capture by the Japanese.",
+        "• Burma was extensively bombed by Allied forces during the war, resulting in widespread destruction.",
+        "• Following independence, Burma’s infrastructure was devastated, and the country was left in ruins.",
+        "• The loss of India as a colonial possession diminished Burma’s strategic relevance, facilitating its independence from British rule.",
+        "• After Burma gained independence in 1948 and formed a parliamentary government, Prime Minister U Nu initiated a policy of nationalization, declaring all land state-owned.",
+        "• The post-independence government attempted to implement an eight-year economic plan, partially financed by monetary injections into the economy, which led to some inflation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:55:41.552590",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "Post-independence and under U Nu and Ne Win (1948–1988)",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1948, following the establishment of a parliamentary government in Burma, Prime Minister U Nu initiated a policy of nationalisation aimed at transforming the country’s economic structure.",
+        "• U Nu sought to develop Burma into a welfare state by implementing central planning measures to guide economic activities and resource allocation.",
+        "• During the 1950s, Burma experienced a significant decline in its export sectors, with rice exports falling by two-thirds and mineral exports decreasing by over 96%.",
+        "• Despite nationalisation efforts, plans were made to develop light consumer industries through private sector involvement to stimulate economic diversification.",
+        "• The 1962 Burmese coup d'état led to the introduction of an economic policy known as the Burmese Way to Socialism, which mandated the nationalisation of all industries except agriculture.",
+        "• The Burmese Way to Socialism proved to be a disastrous economic program, resulting in severe impoverishment and economic decline, rendering Burma one of the poorest countries globally.",
+        "• Due to its economic conditions, Burma was officially classified as a least developed country by the United Nations in 1987."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:55:48.411257",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "Rule of the generals (1988–2011)",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After 1988, Myanmar's military regime retreated from a command economy, permitting modest expansion of the private sector and allowing some foreign investment to obtain much-needed foreign exchange.",
+        "• Than Shwe, the military leader, advocated for some deregulation of economic policies and relaxed certain restrictions on Burma's economy, although his economic policies were frequently criticized as ill-planned.",
+        "• Than Shwe supported Burma's participation in the Association of South East Asian Nations (ASEAN) and relaxed some state control over the economy during his tenure.",
+        "• In 1997, Than Shwe oversaw a significant crackdown on corruption, resulting in the dismissal of several cabinet ministers and regional commanders.",
+        "• Than Shwe was also an advocate of crony capitalism, where private enterprises were often co-owned or indirectly owned by the state, suppressing all basic market institutions.",
+        "• In 2009, Myanmar's economy was rated as the least free in Asia, tied with North Korea.",
+        "• Transparency International’s 2007 Corruption Perceptions Index, released on 26 September 2007, ranked Burma as the most corrupt country in the world, tied with Somalia.",
+        "• The national currency of Myanmar is the kyat, and the country operated a dual exchange rate system similar to Cuba’s, with the market rate approximately two hundred times lower than the government-set rate in 2006.",
+        "• In 2011, the Burmese government sought assistance from the International Monetary Fund (IMF) to evaluate options for reforming the exchange rate system, aiming to stabilize the domestic foreign exchange market and reduce economic distortions.",
+        "• The dual exchange rate system enabled the government and state-owned enterprises to divert funds and revenues, while also providing the government with greater control over the local economy and the ability to temporarily suppress inflation.",
+        "• Inflation in Myanmar averaged 30.1% between 2005 and 2007, significantly impacting economic stability.",
+        "• In April 2007, the National League for Democracy (NLD) organized a two-day workshop on the economy, concluding that skyrocketing inflation was hindering economic growth.",
+        "• Soe Win, the moderator of the NLD workshop, stated that basic commodity prices had increased by 30% to 60% since the military regime promoted a pay rise for government workers in April 2006, and noted that inflation was correlated with corruption.",
+        "• Myint Thein, an NLD spokesperson, described inflation as the critical source of Myanmar’s ongoing economic crisis.",
+        "• In recent years, China and India have attempted to strengthen ties with Myanmar for mutual economic benefit.",
+        "• The European Union, along with countries including the United States and Canada, imposed investment and trade sanctions on Burma during this period.",
+        "• The United States banned all imports from Burma, although this restriction has since been lifted.",
+        "• Foreign investment in Myanmar primarily originates from China, Singapore, South Korea, India, and Thailand."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:56:01.212297",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "Economic liberalisation (2011–2019)",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2011, under the new government of President Thein Sein, Myanmar initiated significant economic reforms targeting anti-corruption measures, currency exchange rate regulation, foreign investment laws, and taxation policies.",
+        "• Foreign investments surged dramatically from US$300 million in 2009–10 to US$20 billion in 2010–11, representing an increase of approximately 6567%.",
+        "• The large inflow of capital strengthened the Burmese kyat by about 25%, prompting the government to relax import restrictions and abolish export taxes.",
+        "• Despite ongoing currency challenges, Myanmar's economy was projected to grow by approximately 8.8% in 2011.",
+        "• The completion of the US$58 billion Dawei deep seaport was expected to position Myanmar as a major trade hub connecting Southeast Asia and the South China Sea, via the Andaman Sea, to the Indian Ocean, facilitating trade with the Middle East, Europe, and Africa, and stimulating growth in the ASEAN region.",
+        "• In 2012, the Asian Development Bank (ADB) formally resumed engagement with Myanmar by issuing a US$512 million loan, the first in 30 years, aimed at financing infrastructure and development projects including banking services, roads, energy, irrigation, and education.",
+        "• In March 2012, Myanmar introduced a draft foreign investment law—the first in over two decades—ushering in unprecedented economic liberalisation by allowing foreigners to start businesses without local partners and legally lease land.",
+        "• The draft foreign investment law required that Burmese citizens constitute at least 25% of a firm’s skilled workforce, with plans to increase this to 50–75% through subsequent training initiatives.",
+        "• On 28 January 2013, Myanmar announced agreements with international lenders to cancel or refinance nearly US$6 billion of foreign debt, accounting for almost 60% of its total foreign debt; Japan wrote off US$3 billion, Paris Club nations wrote off US$2.2 billion, and Norway wrote off US$534 million.",
+        "• Myanmar’s inward foreign direct investment steadily increased post-reform, with US$4.4 billion worth of investment projects approved between January and November 2014.",
+        "• A McKinsey Global Institute report released on 30 May 2013 projected that Myanmar’s economy could quadruple by 2030 if it invested in high-tech industries, contingent on the absence of disruptive factors such as the drug trade and ongoing conflicts with ethnic groups.",
+        "• As of October 2017, fewer than 10% of Myanmar’s population had a bank account, despite approximately 98% smartphone penetration during 2016–17.",
+        "• Mobile money schemes were being implemented in Myanmar without reliance on traditional banks, following models similar to those in African countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:56:12.389134",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "0.6",
+      "section_name": "Economic crisis (2020–present)",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Myanmar's economy has been in a state of economic crisis since the military coup d’état in February 2021, marking a significant downturn from previous years.",
+        "• On April 30, 2021, the United Nations Development Programme highlighted that the combined effects of the COVID-19 pandemic and the 2021 Myanmar coup d'état risk reversing economic gains achieved over the prior sixteen years.",
+        "• Under the rule of the State Administration Council (SAC), Myanmar’s economy is characterized by stagnation, inflation, capital flight, and fractured governance, with no political resolution in sight, resulting in bleak prospects for economic recovery and inclusive growth.",
+        "• The SAC’s economic strategy focuses on regime survival through resource extraction and coercive economic controls, including forced currency conversions and price fixing, which have undermined investor confidence and distorted market operations.",
+        "• Since the coup, Myanmar’s economy has sharply declined, becoming the weakest in Southeast Asia, with a projected real GDP contraction of 1% in fiscal year 2024-25, continuing a prolonged downturn that followed an 18% GDP collapse immediately after the coup.",
+        "• The agricultural sector contracted by 4%, while the industrial and services sectors showed no growth during this period, indicating widespread economic stagnation.",
+        "• As the formal economy contracts, informal and illicit sectors have expanded significantly; Myanmar has become the world’s largest opium producer and a major hub for synthetic drugs and online scam centers.",
+        "• Foreign direct investment (FDI) approvals have plummeted from over $5 billion in fiscal year 2019-20 to $662 million in fiscal year 2023-24, reflecting a dramatic decline in investor interest and confidence.",
+        "• International sanctions, financial blacklisting, and increasing regulatory opacity have further discouraged foreign and domestic economic engagement.",
+        "• Poverty levels have surged nationwide, with 77% of households now classified as poor or near-poor, up from 58% in 2017, indicating a significant deterioration in living standards.",
+        "• Inflation, driven by extensive money printing, peaked at 35% in 2022 and remains elevated, particularly affecting prices of food and transport, exacerbating economic hardship for the population.",
+        "• Real wages have fallen across various economic sectors, deepening household vulnerability and reducing purchasing power.",
+        "• Labour shortages have worsened due to mass outmigration, especially following the introduction of the 2024 conscription law, which has compelled many to leave the country.",
+        "• Approximately one-fifth of Myanmar’s population has fled their communities due to conflict or economic hardship, resulting in a significant drain on the workforce and a reduction in overall productivity.",
+        "• Trade declined in 2023 after a brief rebound, with exports falling by $4 billion and land border trade sharply reduced in 2024, further weakening the economy.",
+        "• The financial sector remains fragile, characterized by liquidity shortages, low public trust, and a shrinking microfinance industry, limiting access to credit and financial services.",
+        "• Following a one-third depreciation of the kyat relative to its pre-coup value, Myanmar’s central bank sold $600 million worth of foreign reserves—equivalent to 10% of the country’s total reserves—to support the currency.",
+        "• By April 2022, foreign reserves had dwindled significantly, foreign investment had decreased, and remittances had plummeted, prompting the junta to impose capital controls and import restrictions.",
+        "• These capital controls and import restrictions led to shortages of critical medicines, including those for diabetes and cancer, exacerbating public health challenges.",
+        "• The overall loss of skilled workers has contributed to a 9–11% contraction in GDP since 2020, reflecting the economic impact of human capital flight.",
+        "• With the SAC prioritizing military objectives over economic and human development, Myanmar faces a prolonged human resource crisis that could hinder its economic recovery for decades to come."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:56:26.526049",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1",
+      "section_name": "Still unresolved internal problems",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, the Myanmar government conducted its first-ever countrywide study, revealing that 37 percent of the population were unemployed and 26 percent lived in poverty.",
+        "• Economic hardship in Myanmar has led to significant social consequences, including extreme delays in marriage and family formation, with the average age of marriage being 27.5 years for men and 26.4 years for women, a figure nearly unmatched in the Southeast Asian region except in developed countries like Singapore.",
+        "• Myanmar’s fertility rate was recorded at 2.07 children per woman in 2010, which is notably low compared to other Southeast Asian countries with similar economic conditions, such as Cambodia at 3.18 and Laos at 4.41 children per woman.",
+        "• The fertility rate in Myanmar has declined substantially from 4.7 children per woman in 1983, despite the absence of a formal national population policy.",
+        "• The decline in fertility rate is partly attributed to the economic burden additional children impose on family income, leading to a prevalence of illegal abortions and increased use of birth control methods in the country.",
+        "• The 2012 draft of the foreign investment law proposed transforming the Myanmar Investment Commission from a government-appointed body into an independent board, aiming to increase transparency in the issuance of investment licenses.",
+        "• Despite the proposed reforms to the Myanmar Investment Commission, concerns remain regarding the persistence of government corruption, with documented links between key government individuals and illicit activities such as the drug trade and industries employing forced labor, notably the mining sector.",
+        "• Several regions in Myanmar, including the Golden Triangle, remain inaccessible to foreigners due to ongoing conflicts, with the government engaged in armed conflict against ethnic minority groups and opposition forces in these areas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:56:35.107170",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2",
+      "section_name": "Industries",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Rice is the major agricultural product in Myanmar, covering approximately 60% of the country's total cultivated land area and accounting for 97% of total food grain production by weight.",
+        "• Between 1966 and 1997, Myanmar released 52 modern rice varieties through collaboration with the International Rice Research Institute (IRRI), which contributed to increasing national rice production to 14 million tons in 1987 and 19 million tons in 1996.",
+        "• By 1988, modern rice varieties were planted on half of Myanmar’s rice fields, including 98% of the irrigated areas, demonstrating widespread adoption of improved strains.",
+        "• In 2011, Myanmar’s total milled rice production reached 10.60 million tons, marking an increase from a 1.8% growth rate recorded in 2010.",
+        "• In northern Burma, longstanding opium cultivation traditions ended following opium bans; between 20,000 and 30,000 former poppy farmers left the Kokang region as a direct consequence of the 2002 ban.",
+        "• Rubber plantations are actively promoted in high elevation areas such as Mong Mao, while sugar cultivation is concentrated in lowland regions like Mong Pawk District.",
+        "• Myanmar’s economic challenges are exacerbated by a lack of an educated workforce skilled in modern technology, hindering development and industrial progress.",
+        "• The country suffers from inadequate infrastructure; goods primarily transit through Thai and Chinese borders and via the main port located in Yangon.",
+        "• Myanmar’s railroads are old and dilapidated, with minimal repairs since their construction during British colonial rule in the late nineteenth century; currently, China and Japan are providing aid to upgrade rail transport infrastructure.",
+        "• Highways in Myanmar are generally paved except in remote border regions, where road quality is poorer.",
+        "• Energy shortages are widespread across Myanmar, including in Yangon; approximately 30% of the population lacks access to electricity, with 70% of those without electricity residing in rural areas.",
+        "• The civilian government has announced plans to import electricity from Laos to meet domestic demand and alleviate energy shortages.",
+        "• Other significant industries in Myanmar include agricultural goods, textiles, wood products, construction materials, gems, metals, oil, and natural gas.",
+        "• The private sector predominantly controls agriculture, light industry, and transport activities, whereas the government maintains control over energy, heavy industry, and military-related industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:56:44.868926",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Garment production",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The garment industry is a significant source of employment in the Yangon area, with approximately 200,000 workers employed as of mid-2015.",
+        "• The Myanmar Government established a minimum wage for garment workers at MMK 4,800 per day, equivalent to US$3.18, effective from March 2018.",
+        "• The Myanmar garment sector has experienced a notable influx of foreign direct investment, particularly measured by the number of foreign firms entering the market rather than the total investment value.",
+        "• In March 2012, six of Thailand’s largest garment manufacturers announced plans to relocate production to Myanmar, mainly to the Yangon area, motivated primarily by lower labor costs.",
+        "• By mid-2015, approximately 55% of officially registered garment firms in Myanmar were either fully or partly foreign-owned.",
+        "• Among the foreign-owned garment firms in Myanmar, about 25% originated from China and 17% from Hong Kong as of mid-2015.",
+        "• Foreign-linked firms are responsible for nearly all garment exports from Myanmar.",
+        "• Garment exports from Myanmar have increased rapidly in recent years, particularly following the lifting of European Union sanctions in 2012.",
+        "• In 2016, Myanmar exported garments and textiles valued at US$1.6 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:56:50.863206",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Illegal drug trade",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Burma (Myanmar) is the largest global producer of methamphetamines, with the majority of _ya ba_ tablets found in Thailand originating from Burma, specifically the Golden Triangle and Northeastern Shan State, which borders Thailand, Laos, and China.",
+        "• Burmese-produced _ya ba_ is typically trafficked to Thailand through Laos and then transported via the northeastern Thai region of Isan.",
+        "• In 2010, Burma trafficked approximately 1 billion _ya ba_ tablets to neighboring Thailand.",
+        "• In 2009, Chinese authorities seized over 40 million _ya ba_ tablets that had been illegally trafficked from Burma.",
+        "• Ethnic militias and rebel groups, particularly the United Wa State Army, are responsible for much of the methamphetamine production in Burma; however, Burmese military units are also believed to be heavily involved in drug trafficking activities.",
+        "• Burma is the world’s second largest supplier of opium, following Afghanistan, with 95% of the country’s opium cultivation concentrated in Shan State.",
+        "• Illegal narcotics generate between US$1 billion and US$2 billion in exports annually for Burma, with estimates suggesting that 40% of the country’s foreign exchange earnings come from drug-related activities.",
+        "• Efforts to eradicate opium cultivation have prompted many ethnic rebel groups, including the United Wa State Army and the Kokang, to diversify into methamphetamine production.",
+        "• Prior to the 1980s, heroin trafficking routes involved transporting heroin from Burma to Thailand, then by sea to Hong Kong, which remains a major international transit point for heroin.",
+        "• Drug trafficking routes have shifted toward southern China, specifically through the provinces of Yunnan, Guizhou, Guangxi, and Guangdong, due to a growing drug market in China before heroin reaches Hong Kong.",
+        "• Prominent drug traffickers in Burma have expanded their influence into other sectors of the Burmese economy, including banking, airlines, hotels, and infrastructure industries.",
+        "• Investments by drug traffickers in infrastructure have enabled them to increase profits, facilitate drug trafficking, and engage in money laundering.",
+        "• Myanmar’s informal economy is one of the largest globally and significantly feeds into the trade of illegal drugs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:57:01.629533",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Oil and gas",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Myanma Oil and Gas Enterprise (MOGE) is the national oil and gas company of Myanmar (Burma), serving as the sole operator responsible for oil and gas exploration, production, and domestic gas transmission via a 1,900-kilometre (1,200-mile) onshore pipeline network.",
+        "• The Yadana Project focuses on exploiting the Yadana gas field located in the Andaman Sea and transporting natural gas through Myanmar to Thailand.",
+        "• The Sino-Burma pipelines are planned infrastructure projects designed to connect Myanmar’s deep-water port of Kyaukphyu (Sittwe) in the Bay of Bengal with Kunming in Yunnan province, China, facilitating the transport of oil and natural gas.",
+        "• The Norwegian offshore drilling company Seadrill, owned by John Fredriksen, is engaged in offshore oil drilling activities in Myanmar, which are anticipated to generate oil and oil export revenues for the Burmese government.",
+        "• In the fiscal year ending March 2012, Myanmar exported natural gas valued at $3.5 billion, with the majority of exports directed to Thailand.",
+        "• On 18 January 2013, Myanmar initiated a bidding process for oil exploration licenses covering 18 onshore oil blocks, signaling an expansion in exploration activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:57:08.590997",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Renewable energy",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Myanmar possesses significant renewable energy resources, with particularly rich potential in solar power and hydropower sectors.",
+        "• Among the countries in the Greater Mekong Subregion, Myanmar has the highest technical potential for solar power generation.",
+        "• Other renewable energy sources such as wind energy, biogas, and biomass have limited potential within Myanmar and remain underdeveloped.",
+        "• Financing geothermal energy projects in Myanmar is based on an estimated break-even power cost ranging from 5.3 to 8.6 U.S. cents per kilowatt-hour (kWh), equivalent to 53 to 86 Myanmar Kyat (K) per kWh, assuming a fixed exchange rate of $1 = 1000 K.",
+        "• The assumption of a stable exchange rate is a critical concern for funding power projects due to depreciation pressures in the foreign exchange (FX) market.",
+        "• Between June 2012 and October 2015, the Myanmar Kyat depreciated by approximately 35%, falling from 850 K to 1300 K against the U.S. Dollar.",
+        "• This significant depreciation caused local businesses with foreign-denominated loans to urgently seek strategies to mitigate currency risk exposure.",
+        "• Myanmar currently lacks effective currency hedging solutions, which poses a substantial challenge to the financing and development of geothermal power projects."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:57:12.890311",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Gemstones",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Myanmar's economy is heavily reliant on the sales of precious stones, including sapphires, pearls, and jade, with rubies being the most significant revenue source, as 90% of the world's rubies originate from Myanmar, renowned for their purity and distinctive red hue.",
+        "• Thailand is the primary purchaser of Myanmar's gemstones, with the Mogok region, located approximately 200 km (120 mi) north of Mandalay and known as Burma's \"Valley of Rubies,\" famous for its rare pigeon's blood rubies and blue sapphires.",
+        "• The gemstone industry is a fundamental pillar of Myanmar's economy, with exports exceeding $1 billion, underscoring its critical economic importance.",
+        "• In 2007, following the crackdown on pro-democracy protests in Myanmar, human rights organizations, gem dealers, and US First Lady Laura Bush advocated for a boycott of Myanmar's biannual gem auctions, arguing that proceeds supported the dictatorial regime.",
+        "• Debbie Stothard of the Alternative ASEAN Network on Burma reported that mining operators used drugs on employees to enhance productivity, with shared needles increasing the risk of HIV infection among workers.",
+        "• Richard W. Hughes, a Bangkok-based gemologist, highlighted that for every ruby sold through the military junta, another gem supporting subsistence mining is smuggled across the Thai border, indicating a parallel informal trade.",
+        "• The Chinese have become the dominant force in Myanmar's gem mining industry and jade exports, controlling all levels from financing and concession operations to retail merchants who own numerous newly established gem markets.",
+        "• One Chinese-owned jeweler reportedly controls 100 gem mines and produces over 2,000 kilograms of raw rubies annually, illustrating the scale of Chinese involvement.",
+        "• Since the privatization of Myanmar's gem industry in the 1990s, Burmese jewelers and entrepreneurs of Chinese descent have transformed the industry by opening retail jewelry shops that cater primarily to customers from Hong Kong and Taiwan.",
+        "• On 11 February, the Myanmar ministry announced that permits for new gem mines in Mogoke, Mineshu, and Nanyar states would be issued by the ministry, indicating ongoing regulatory activity in the sector.",
+        "• Although many sanctions on Myanmar's former regime were eased or lifted in 2012, the United States has maintained restrictions on importing rubies and jade from Myanmar.",
+        "• Recent amendments to Myanmar's foreign investment law removed minimum capital requirements for investments except in mining ventures, which still require substantial proof of capital documented through a domestic bank.",
+        "• The investment law also eliminated foreign ownership restrictions in joint ventures except in restricted sectors such as mining, where foreign direct investment (FDI) is capped at 80%, reflecting a partial liberalization of investment policies.",
+        "• Myanmar is internationally renowned for its production of Golden South Sea Pearls, with auctions held in Hong Kong since 2013, initially organized by the Belpearl company, achieving critical acclaim and premium prices driven by strong Chinese demand.",
+        "• Notable pearls from Myanmar include the \"New Dawn of Myanmar,\" a 19mm round golden pearl sold to an anonymous buyer for an undisclosed price, exemplifying the high value of Myanmar's pearl exports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:57:27.534904",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1992, the Myanmar government has actively encouraged tourism as part of its economic development strategy.",
+        "• Until 2008, Myanmar received fewer than 750,000 tourists annually, but the sector has experienced substantial growth in subsequent years.",
+        "• In 2012, Myanmar welcomed 1.06 million tourists, with projections estimating 1.8 million visitors by the end of 2013.",
+        "• Tourism is a rapidly expanding sector within Myanmar’s economy, supported by the country’s diverse and varied tourist attractions.",
+        "• Myanmar is internationally accessible via numerous airlines offering direct flights, and both domestic and foreign airlines operate flights within the country.",
+        "• Cruise ships also dock at Yangon, providing additional access for international tourists.",
+        "• Overland entry into Myanmar is permitted at several border checkpoints with a border pass.",
+        "• The government mandates that all tourists and business visitors possess a valid passport and an entry visa.",
+        "• Since May 2010, foreign business visitors from any country can obtain a visa on arrival at Yangon and Mandalay international airports without prior arrangements through travel agencies.",
+        "• Both tourist and business visas are initially valid for 28 days; tourist visas can be renewed for an additional 14 days, while business visas can be extended for three months.",
+        "• Personal tour guides are popular among travelers, and guides can be hired through travel agencies within Myanmar.",
+        "• Aung San Suu Kyi has publicly requested that international tourists refrain from visiting Myanmar.",
+        "• The military junta’s forced labor programs were concentrated in tourist destinations, leading to significant criticism regarding human rights abuses in these areas.",
+        "• Myanmar’s Minister of Hotels and Tourism, Major-General Saw Lwin, acknowledged that the government receives a significant portion of the income generated by private sector tourism services, excluding official government fees.",
+        "• Only a very small minority of Myanmar’s impoverished population benefits financially from tourism-related activities.",
+        "• Prior to 2012, large areas of Myanmar were completely off-limits to tourists, with the military tightly controlling interactions between foreigners and local people.",
+        "• Local residents were prohibited from discussing politics with foreigners under threat of imprisonment.",
+        "• In 2001, the Myanmar Tourism Promotion Board issued an order directing local officials to protect tourists and limit “unnecessary contact” between foreigners and ordinary Burmese citizens.",
+        "• Since 2012, Myanmar has progressively opened up to increased tourism and foreign investment, coinciding with the country’s political transition towards democracy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:57:36.546753",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "2.7",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Myanmar Infrastructure Summit 2018 highlighted an urgent need for Myanmar to \"close its infrastructure gap,\" projecting an anticipated expenditure of US$120 billion on infrastructural projects between 2018 and 2030.",
+        "• Myanmar’s infrastructural development priorities include three major challenges: first, the modernization of roads and their integration with neighboring countries’ roads and transportation networks.",
+        "• The second priority is the development of regional airports alongside the expansion of existing airport capacities to accommodate growing transportation demands.",
+        "• The third challenge involves the maintenance and consolidation of urban transport infrastructure, incorporating innovative transportation solutions such as water-taxis and air-conditioned buses.",
+        "• Myanmar must enhance its enabling infrastructure sectors, including transport, power supply, and public utilities, to support sustainable economic growth.",
+        "• China’s Belt and Road Initiative (BRI) infrastructure projects are expected to impact approximately 24 million people residing in Myanmar’s BRI corridors.",
+        "• The BRI projects have the potential to significantly transform the distribution of economic benefits and losses among various economic actors within Myanmar."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:57:42.990714",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "3",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 2006–2007 financial year, Myanmar's normal trade had a budgeted export value of US$4,233.60 million and an import value of US$2,468.40 million, totaling a trade volume of US$6,702.00 million; the actual trade volume recorded was US$7,076.80 million, with exports at US$4,585.47 million and imports at US$2,491.33 million.",
+        "• During the same period, border trade was budgeted at US$814.00 million for exports and US$466.00 million for imports, totaling US$1,280.00 million; the real trade volume was US$1,092.61 million, with exports of US$647.21 million and imports of US$445.40 million.",
+        "• The combined total trade for the 2006–2007 financial year was budgeted at US$7,982.00 million, with exports of US$5,047.60 million and imports of US$2,934.40 million; the actual trade volume was US$8,169.41 million, consisting of exports worth US$5,232.68 million and imports worth US$2,936.73 million.",
+        "• From the financial year 2006–2007 to 2009–2010, Myanmar's total trade value showed consistent growth:",
+        "• In 2006–2007, exports were valued at US$5,222.92 million and imports at US$2,928.39 million, resulting in a total trade value of US$8,151.31 million.",
+        "• In 2007–2008, exports increased to US$6,413.29 million and imports to US$3,346.64 million, with a total trade value of US$9,759.93 million.",
+        "• In 2008–2009, exports further rose to US$6,792.85 million and imports to US$4,563.16 million, culminating in a total trade value of US$11,356.01 million.",
+        "• By 2009–2010, exports reached US$7,568.62 million and imports were US$4,186.28 million, with the total trade value peaking at US$11,754.90 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:57:48.191432",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4",
+      "section_name": "Macro-economic trends",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The gross domestic product (GDP) of Burma at market prices, estimated by the International Monetary Fund and EconStats, showed a steady increase from 7,627 million Myanmar kyats in 1965 to 604,728 million Myanmar kyats in 1995.",
+        "• Key economic indicators from 1999 to 2024 reveal that Burma's GDP in billion US dollars (PPP) rose from 32.59 in 1999 to an estimated 283.75 in 2024, with GDP per capita increasing from 725 US$ PPP in 1999 to 5,206 US$ PPP in 2024.",
+        "• Nominal GDP in billion US dollars grew from 6.04 in 1999 to a peak of 77.80 in 2020, before fluctuating to 64.28 in 2024.",
+        "• Real GDP growth rates were generally strong, with notable peaks such as 15.3% in 2004 and consistent growth above 5% from 2009 until 2019, followed by contractions in 2020 (-1.2%), 2021 (-10.5%), and 2022 (-4.0%), and a recovery to 2.5% in 2023 and 1.0% in 2024.",
+        "• Inflation rates varied significantly, with highs of 47.5% in 2003 and 34.4% in 2007, and lows near zero or negative in some years, such as 0.4% in 2012 and 3.7% in 2009; inflation rose again to 27.1% in 2023.",
+        "• Government debt as a percentage of GDP was extremely high in the early 2000s, peaking at 269% in 2001, but steadily declined to around 35-40% from 2014 to 2019, before increasing again to approximately 60% by 2024.",
+        "• According to the CIA World Factbook, Burma is a resource-rich country hindered by pervasive government controls, inefficient economic policies, and widespread rural poverty.",
+        "• The military junta initiated economic liberalization in the early 1990s after failures under the \"Burmese Way to Socialism,\" but these reforms stalled and some were reversed.",
+        "• Burma lacks monetary and fiscal stability, resulting in serious macroeconomic imbalances including inflation, multiple official exchange rates that overvalue the kyat, and a distorted interest rate regime.",
+        "• Overseas development assistance largely ceased after the junta suppressed the democracy movement in 1988 and refused to honor the 1990 legislative election results.",
+        "• In May 2003, following an attack on Aung San Suu Kyi and her convoy, the United States imposed economic sanctions on Burma, including bans on imports of Burmese products and financial services by US persons.",
+        "• A poor investment climate, inadequate infrastructure, unpredictable import/export policies, deteriorating health and education systems, and corruption have impeded growth in manufacturing and services sectors.",
+        "• The most productive sectors remain extractive industries such as oil and gas, mining, and timber.",
+        "• A major banking crisis in 2003 led to the closure of Burma’s 20 private banks, severely disrupting the economy; as of December 2005, remaining private banks operated under strict restrictions limiting private sector access to formal credit.",
+        "• Official economic statistics are considered inaccurate, with foreign trade figures greatly understated due to a large black market and unofficial border trade, often estimated to be as large as the official economy.",
+        "• Burma’s trade with neighboring countries Thailand, China, and India has been increasing.",
+        "• Despite good economic relations with neighbors, Burma requires improved investment and business climates and a better political situation to attract foreign investment, boost exports, and develop tourism.",
+        "• From 2009 onwards, Burma experienced continuous real GDP growth of at least 5% annually until the economic contractions beginning in 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:58:04.911169",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "5",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Foreign investment in Myanmar has been encouraged by the government but has achieved only moderate success to date.",
+        "• The United States has imposed trade sanctions on Myanmar (Burma) due to concerns over human rights violations.",
+        "• The European Union has implemented multiple restrictive measures against Myanmar, including arms embargoes, bans on non-humanitarian aid, visa bans targeting military regime leaders, and limited investment prohibitions.",
+        "• Both the US and the EU sanctions are primarily motivated by allegations of human rights abuses within Myanmar.",
+        "• Several Asian countries, notably India, Thailand, and China, have maintained active trade relations with Myanmar despite Western sanctions.",
+        "• On April 22, 2013, the European Union officially suspended its economic and political sanctions against Myanmar, signaling a shift in international engagement.",
+        "• Public sector enterprises in Myanmar remain highly inefficient, and efforts to privatize these entities have largely stalled, though specific citations are lacking.",
+        "• Estimates of Myanmar’s foreign trade are unreliable due to the significant volume of black market trading that occurs within the country.",
+        "• A persistent economic challenge for Myanmar is the failure to establish monetary and fiscal stability.",
+        "• The Myanmar government has initiated efforts to capitalize on the country’s substantial natural gas reserves as a means to stimulate economic growth.",
+        "• Myanmar has attracted foreign investment from a diverse group of countries, including Thailand, Malaysia, the Philippines, Russia, Australia, India, and Singapore.",
+        "• As of February 2013, trade between Myanmar and the United States amounted to $243.56 million, encompassing 15 investment projects and representing only 0.58 percent of Myanmar’s total foreign trade according to official government statistics."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:58:14.742938",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Asian investment",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• _The Economist_'s special report on Burma highlights increased economic activity in Myanmar driven by the country's political transformation and a significant influx of foreign direct investment from Asian neighbors.",
+        "• Near the Mingaladon Industrial Park in Myanmar, Japanese-owned factories have emerged from the \"debris\" left by decades of international sanctions and economic mismanagement, signaling industrial revival.",
+        "• Japanese Prime Minister Shinzō Abe has identified Myanmar as an economically attractive market that can contribute to stimulating the Japanese economy.",
+        "• Japan is involved in multiple enterprises in Myanmar, including the construction of the Thilawa Port, which is a component of the Thilawa Special Economic Zone, as well as efforts to improve the electricity supply infrastructure in Yangon.",
+        "• Despite Japan’s active involvement, it is not the largest investor in Myanmar; China holds the position of the largest investor.",
+        "• Thailand is the second largest investor in Myanmar after China and is advancing a larger-scale project similar to Thilawa at Dawei, located on Myanmar’s Tenasserim Coast.",
+        "• The Dawei project is strategically significant for Thailand, as it aligns with a long-standing ambition by Thai rulers to construct a canal across the Kra Isthmus.",
+        "• The proposed Kra Isthmus canal would link the Gulf of Thailand directly to the Andaman Sea and the Indian Ocean, providing a maritime shortcut that would bypass the longer route around peninsular Malaysia through the Strait of Malacca.",
+        "• The development of Dawei would thus provide Thailand with a critical maritime connection, enhancing regional trade and economic integration."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:58:21.499725",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Chinese investment",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China is the largest investor in Myanmar, focusing primarily on constructing oil and gas pipelines that traverse the country from Kyaukphyu (near Sittwe) through Mandalay to the Chinese border town of Ruili and onward to Kunming, the capital of Yunnan province, thereby reducing China's dependence on oil routes through the Singapore bottleneck.",
+        "• Since the military junta, known as the State Peace and Development Council, took power in Myanmar in 1988, close ties have developed and been formalized between China’s People's Liberation Army and Myanmar’s military forces, strengthening bilateral relations.",
+        "• China became Myanmar’s principal source of aid, loans, and financial assistance following the 1988 military takeover, maintaining its status as the largest foreign investor in Myanmar as of 2013, despite the country opening its economy to other investors such as Japan and India.",
+        "• Chinese financial assistance has enabled China to gain structural power over Myanmar’s economy, particularly securing a dominant position within Myanmar’s natural resource sectors.",
+        "• During this period, Myanmar’s underdeveloped industrial sector was partially driven by Chinese investment, especially in extractive industries like mining, which shifted domestic production focus away from consumer goods sectors such as textiles and electronics.",
+        "• By 1988, legal two-way trade between Myanmar and mainland China reached US$1.5 billion annually, with additional Chinese trade, investment, economic, and military aid sought to stimulate Myanmar’s re-emerging economy.",
+        "• Foreign capital investment from mainland China, Germany, and France has contributed to the development of various construction projects across Myanmar, many of which are managed by Chinese construction contractors and civil engineers, including irrigation dams, highways, bridges, ground satellite stations, and an international airport in Mandalay.",
+        "• Burmese entrepreneurs of Chinese ancestry have formed numerous joint ventures and corporate partnerships with mainland Chinese state-owned enterprises to facilitate oil pipeline construction projects, potentially creating thousands of jobs nationwide.",
+        "• Private Chinese companies utilize the established overseas Chinese bamboo network as a conduit to connect mainland Chinese and Burmese Chinese businesses, aiding navigation of the local economic environment and facilitating bilateral trade.",
+        "• Mainland China is Myanmar’s most important source of foreign goods and services and a critical source of foreign direct investment (FDI).",
+        "• In the fiscal year 2013, China accounted for 61 percent of all foreign direct investment in Myanmar.",
+        "• Between 2007 and 2015, Chinese FDI in Myanmar surged from US$775 million to US$21.867 billion, representing 40 percent of all FDI in the country during that period.",
+        "• A significant portion of Chinese investment has been directed toward Myanmar’s energy and mining industries.",
+        "• Chinese private firms control 87 percent of total legal cross-border trade at Ruili and wield considerable structural power over Myanmar’s illicit economy.",
+        "• China’s structural power over Myanmar’s financial system allows it to maintain dominance in the country’s natural resource sectors, especially in oil, gas, and uranium.",
+        "• China’s role as Myanmar’s primary investor also positions it as the largest consumer of Myanmar’s extractive industries.",
+        "• Numerous Chinese state-owned enterprises are targeting Myanmar’s high-value natural resource industries, including raw jade stones, teak and timber, rice, and marine fisheries.",
+        "• Yanlonkyine Gate, located on the Myanmar-China border within the Kokang Self-Administered Zone, exemplifies a key border crossing point in 2019 facilitating trade and movement between the two countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:58:35.649443",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Foreign aid",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Myanmar (Burma) receives one of the lowest levels of international aid globally and the lowest in Southeast Asia, with development assistance amounting to only $4 per capita compared to the regional average of $42.30 per capita.",
+        "• In April 2007, the U.S. Government Accountability Office (GAO) released a report titled \"Assistance Programs Constrained in Burma,\" highlighting the financial and operational restrictions imposed by Myanmar’s military government on international humanitarian aid.",
+        "• The GAO report details how the Burmese military regime actively hinders humanitarian efforts by international organizations, including restricting the free movement of international staff within the country.",
+        "• Since the purge of former Prime Minister Khin Nyunt in October 2004, the military government has intensified its control over international assistance programs.",
+        "• In February 2006, the military government formalized its restrictive policies through new guidelines requiring humanitarian programs to \"enhance and safeguard the national interest.\"",
+        "• These guidelines mandate that international organizations coordinate their activities with state agents and select Burmese staff exclusively from government-approved lists.",
+        "• United Nations officials have publicly condemned these restrictions as unacceptable impediments to humanitarian work.",
+        "• U.S. Representative Tom Lantos (D-CA) condemned the military regime’s obstruction of humanitarian aid, noting that in eastern Burma over 3,000 villages have been burned or destroyed, resulting in at least one million internally displaced persons, many of whom are left to die in the jungle.",
+        "• Representative Lantos emphasized that the military regime’s actions have severely decimated humanitarian relief efforts and called for an end to these oppressive policies.",
+        "• U.S. Representative Ileana Ros-Lehtinen (R-FL) stated that the GAO report underscores the urgent need for democratic reform in Burma, criticizing the military regime for arbitrary arrests, torture, rape, executions, persecution of ethnic minorities, and neglect of critical issues such as refugee crises, illicit narcotics, human trafficking, and the spread of HIV/AIDS and other communicable diseases.",
+        "• Ros-Lehtinen also highlighted the regime’s paradoxical focus on constructing a new capital city while failing to address these pressing humanitarian and social challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:58:50.583626",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "6",
+      "section_name": "Other statistics",
+      "chapter_name": "Economy of Myanmar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, Myanmar's electricity production was estimated at 17,866.99 GWh.",
+        "• Electricity consumption in Myanmar for 2016 was divided as follows: 7,572.60 GWh for residential use, 4,650.90 GWh for industrial use, 3,023.27 GWh for commercial use, and 2,384.89 GWh accounted as loss.",
+        "• Myanmar exported 2,381.34 kWh of electricity in 2016.",
+        "• Myanmar imported 0 kWh of electricity as of 2006.",
+        "• The primary agricultural products of Myanmar include rice, pulses, beans, sesame, groundnuts, watermelon, avocado, sugarcane, hardwood, and fish and fish products.",
+        "• The currency of Myanmar is the kyat (K), with 1 kyat equal to 100 pyas.",
+        "• Official exchange rates of the kyat per US dollar were as follows: 1,205 in 2008, 1,296 in 2007, 1,280 in 2006, 5.82 in 2005, 5.7459 in 2004, and 6.0764 in 2003.",
+        "• Unofficial exchange rates in 2004 ranged from 815 kyat/US dollar to nearly 970 kyat/US dollar, and by the end of 2005, the unofficial rate was 1,075 kyat/US dollar; data from 2003 to 2005 reflect official rates.",
+        "• In the first eight months of the financial year 2019-2020, Myanmar received US$5.7 billion in foreign direct investment (FDI).",
+        "• Singapore was the top source of FDI in Myanmar during the financial year 2019-2020, with 20 Singapore-listed enterprises investing US$1.85 billion.",
+        "• Hong Kong was the second-largest investor in Myanmar for the financial year 2019-2020, contributing an estimated US$1.42 billion from 46 enterprises.",
+        "• Japan invested US$760 million in Myanmar during the financial year 2019-2020.",
+        "• Total foreign trade in Myanmar reached over US$24.5 billion in the first eight months of the fiscal year 2019-2020.",
+        "• As of January 2024, Myanmar had 24.11 million internet users, representing 44.0% of the total population."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:58:58.105260",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_myanmar.json",
+      "original_index": 22
+    }
+  ]
+}

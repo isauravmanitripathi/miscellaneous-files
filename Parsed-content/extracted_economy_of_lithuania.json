@@ -1,0 +1,913 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_lithuania.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.287289",
+    "total_sections_in_source": 32,
+    "extracted_sections_count": 32,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lithuania possesses the largest economy among the three Baltic states and is a member of the European Union, the World Trade Organization (WTO), and the Organisation for Economic Co-operation and Development (OECD), classified as a country with very high human development.",
+        "• During the 1990s, Lithuania transitioned rapidly from a centrally planned economy to a market economy by implementing numerous liberal reforms, which facilitated significant economic growth.",
+        "• Since regaining independence in 1990, Lithuania's Gross Domestic Product (GDP) has increased by more than 500 percent, contributing to the Baltic states' reputation as the \"Baltic Tiger\" economies following their accession to the European Union.",
+        "• The combined workforce of the Baltic states totals approximately 3.3 million people, with Lithuania accounting for 1.5 million employed individuals.",
+        "• Lithuania is recognized as one of the fastest growing economies within the European Union, with GDP growth peaking in 2008 and approaching similar levels again by 2018.",
+        "• The Lithuanian economy experienced a severe recession in 2009, with GDP contracting by nearly 15%, mirroring economic challenges faced by the other Baltic states.",
+        "• Economic recovery began in the third quarter of 2009, with Lithuania returning to positive GDP growth in 2010 at 1.3%, followed by a robust 6.6% growth during the first half of 2011, although growth rates remained slower than pre-crisis levels.",
+        "• The successful management of the 2009 economic crisis is largely attributed to the Lithuanian government's implementation of austerity policies.",
+        "• Lithuania maintained a sound fiscal position in 2017, achieving a budget surplus of 0.5% and stabilizing gross government debt at approximately 40% of GDP; the budget remained positive in 2017 and was projected to continue this trend in 2018.",
+        "• Foreign direct investment (FDI) in Lithuania has increased annually since 2015, with significant growth during the 2020s, culminating in the highest recorded FDI levels in 2023.",
+        "• Approximately 80% of all FDI in Lithuania originates from European Union countries; historically, Sweden was the largest investor, contributing 20% to 30% of total FDI, but in the 2010s, Germany, the Netherlands, and Estonia surpassed Sweden in investment volume.",
+        "• In 2017, Lithuania ranked third globally, following the Republic of Ireland and Singapore, in terms of the average job value created by investment projects.",
+        "• Lithuania holds an 11th place ranking worldwide in the Ease of Doing Business Index by the World Bank Group, 16th out of 178 countries in the Index of Economic Freedom by The Heritage Foundation, and 8th out of 165 countries in the Economic Freedom of the World 2021 report by the Fraser Institute.",
+        "• According to OECD data, Lithuania ranks among the top five countries globally for postsecondary (tertiary) education attainment, providing a highly educated workforce that has attracted substantial investment, particularly in the information and communications technology (ICT) sector.",
+        "• The Lithuanian government, in collaboration with the Bank of Lithuania, has simplified licensing procedures for e-money and payment institutions, enhancing the country's attractiveness as a hub for financial technology (fintech) initiatives within the European Union."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:11:49.097950",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History of economy",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The history of Lithuania's economy is segmented into seven major periods, each characterized by distinct economic conditions and developments influenced by historical events.",
+        "• The first period, Ancient times until the 13th century, was dominated by Baltic tribes whose economic activities were primarily based on agriculture, hunting, fishing, and trade within the Baltic region.",
+        "• The Kingdom of Lithuania (1251–1263) marked the establishment of a centralized state under Mindaugas, which began to influence economic structures through consolidation of territories and increased trade.",
+        "• The Grand Duchy of Lithuania (1263–1569) was a significant era of territorial expansion and political power, fostering economic growth through agriculture, trade routes connecting the Baltic and Black Seas, and the development of towns and markets.",
+        "• The Polish–Lithuanian Commonwealth (1569–1795) represented a union that created one of the largest and most populous states in Europe, with an economy based on agriculture, feudal estates, and increasing involvement in European trade networks.",
+        "• During the Pressure of the Russian Empire (1795–1914), Lithuania experienced economic changes under Russian rule, including industrialization in some regions, but also economic restrictions and integration into the Russian imperial economy.",
+        "• The Republic of Lithuania during the interwar period (1918–1940) saw efforts to rebuild and modernize the economy after independence, focusing on land reforms, industrial development, and establishing financial institutions.",
+        "• The Lithuanian Soviet Socialist Republic (1944–1990) was characterized by a centrally planned economy with emphasis on heavy industry, collectivized agriculture, and integration into the Soviet economic system.",
+        "• The Republic of Lithuania (1990–) marks the post-Soviet transition to a market economy, involving privatization, economic liberalization, integration into global markets, and membership in international organizations such as the European Union."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:11:57.700880",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "History up to the 20th century",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The first Lithuanians were part of the ancient ethno-linguistic group known as the Balts, maintaining close trade contacts with the Roman Empire up to the 4th century via the Aquileia processing center and Carnuntum.",
+        "• Amber was the primary commodity supplied from the Baltic Sea coast to the Roman Empire, transported along a long trade route known as the Amber Road.",
+        "• After the 4th century, trading ties continued with Central European tribes, involving a consistent exchange of goods including amber, leathers, furs, beeswax, and limited agricultural products.",
+        "• Linguistic evidence of trade connections is seen in the shared name for amber: the Hungarian terms _gyanta, gyantar_ are closely related to the Lithuanian _gintaras_, though it remains debated which language group originally loaned the word.",
+        "• The consolidation of Lithuanian lands began in the late 12th century, culminating in King Mindaugas becoming the first Catholic King of Lithuania in 1253.",
+        "• The Grand Duchy of Lithuania reached its territorial peak in the mid-14th century under Grand Duke Gediminas (reigned 1316–1341), who established a strong central government controlling territories from the Baltic Sea to the Black Sea.",
+        "• Grand Duke Gediminas issued letters to the Hanseatic League, granting free access to his domains for men of all orders and professions, including nobles, knights, and tillers of the soil, thereby encouraging economic immigration and religious freedom which enhanced handicraft production.",
+        "• During the reign of Duke Kęstutis (1297–1382), the first cash taxes were introduced in Lithuania, although the majority of taxes continued to be paid in goods such as wheat, cattle, and horses.",
+        "• In 1569, the Polish–Lithuanian Commonwealth was formed through the union of the Kingdom of Poland and the Grand Duchy of Lithuania, creating a feudal agricultural economy reliant on the exploitation of serfs.",
+        "• The Commonwealth played a significant role in supplying 16th-century Western Europe with exports primarily consisting of grain (rye), cattle (oxen), and fur, which together accounted for nearly 90% of the country's exports to western markets via overland and maritime trade.",
+        "• The Lithuanian trading vessel known as the vytinė was used for approximately four hundred years to transport grain along the Nemunas River.",
+        "• The Statutes of Lithuania, first published in 1529, served as the main collections of legal statements and rules for nearly three centuries.",
+        "• The Polish–Lithuanian Commonwealth was notable for adopting Europe's first and the world's second modern codified national constitution, the Constitution of 3 May, declared on 3 May 1791, following the 1788 ratification of the United States Constitution.",
+        "• Economic and commercial reforms were introduced in the Commonwealth after 1791, encouraging industrial development despite previous neglect by the Szlachta (nobility).",
+        "• Following the partitions of the Polish–Lithuanian Commonwealth in 1772, 1793, and 1795, the Russian Empire gained control over the majority of Lithuanian territory.",
+        "• Under Russian administration from 1772 to 1917, the emancipation reform of 1861 was a pivotal event that abolished serfdom, thereby ending peasants' dependence and stimulating the development of capitalism in Lithuania.",
+        "• Despite these changes, Lithuania and its neighboring provinces remained primarily agricultural suppliers to post-Industrial Revolution European markets during the Russian Empire's rule."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:12:10.087412",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Lithuania in the 20th century",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the interwar period (1919–1940), Lithuania experienced stagnant economic growth, with its GDP growth pattern resembling that of newly established agricultural states such as Estonia and Poland.",
+        "• Lithuania’s economy did not contract during the Great Depression, maintaining relative stability in this global economic crisis.",
+        "• On 16 February 1918, the Council of Lithuania passed a resolution to re-establish the Independent State of Lithuania, initiating numerous economic reforms aimed at sustainable growth.",
+        "• In 1922, Lithuania introduced a national currency called the Lithuanian litas, which became one of the strongest and most stable currencies in Europe during the interwar period.",
+        "• The Lithuanian litas operated under a monometalism system, where one litas was backed by 0.150462 grams of gold held by the Bank of Lithuania in foreign countries.",
+        "• The litas remained stable even throughout the Great Depression, contributing to economic resilience during this period.",
+        "• Between 1918 and 1940, Lithuania made significant economic progress, becoming the third-largest flax producer and exporter globally, with flax exports constituting about 30 percent of the country’s total export share, surpassed only by Soviet Russia and Poland.",
+        "• Lithuanian agricultural products such as meat, dairy, various grains, and potatoes were recognized for their superior quality in the world market.",
+        "• Lithuanian farmers increasingly joined cooperative companies such as _Lietūkis_, _Pienocentras_, and _Linas_, which enhanced the efficiency and profitability of processing and selling farm products.",
+        "• The USSR occupied Lithuania in 1940, motivated by favorable international conditions and foreign policy aims hostile to Lithuanian statehood.",
+        "• Following Soviet occupation, land and key economic assets were nationalized, and most farms were collectivized.",
+        "• Within one year of Soviet occupation, poverty and unemployment rose sharply, and shortages of food products emerged.",
+        "• The Soviet regime established many inefficient factories and industrial enterprises in Lithuania, which were highly dependent on other USSR regions.",
+        "• By 1990, the GDP per capita of the Lithuanian Soviet Socialist Republic was $8,591, exceeding the Soviet Union average of $6,871 but remaining below levels in developed Western countries.",
+        "• The Soviet era brought intensive industrialization and economic integration into the USSR, although technological advancement and state attention to environmental, health, and labor standards lagged significantly behind Western norms.",
+        "• Urbanization in Lithuania increased from 39% in 1959 to 68% in 1989 under Soviet rule.",
+        "• Between 1949 and 1952, the Soviets abolished private agricultural ownership, replacing it with collective and state farms, which initially caused a decline in agricultural production that did not recover to pre-war levels until the early 1960s.",
+        "• Agricultural production was later intensified through increased mechanization and chemical use, which eventually doubled output but also caused ecological problems.",
+        "• After Lithuania regained independence, agricultural production declined due to challenges in restructuring the agricultural sector.",
+        "• The overall damage caused by the Soviet occupation, including loss of gross domestic product, was estimated at approximately US$800 billion based on UN-recognized methodologies.",
+        "• Direct damages from the Soviet occupation, including genocide, deportations, and property looting, were estimated at US$20 billion.",
+        "• A 2019 study by economic historians found that Lithuania experienced above-average economic growth from 1937 to 1973 compared to other economies, but below-average growth from 1973 to 1990."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:12:25.346830",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Development since the 1990s",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the mid-1990s, Lithuania has undergone reforms that transformed its economy into an open and rapidly growing system characterized by high levels of business, fiscal, and financial freedom.",
+        "• Lithuania is a member of both the European Union (EU) and the World Trade Organization (WTO), resulting in relatively transparent and efficient regulation where foreign and domestic capital are subject to the same rules.",
+        "• The financial sector in Lithuania is advanced, regionally integrated, and operates with minimal intrusive regulations.",
+        "• A key reform was the privatization of state-owned assets, initiated between 1991 and 1995, during which citizens received investment vouchers worth €3.1 billion nominally to participate in asset sales.",
+        "• By October 1995, the investment vouchers were utilized as follows: 65% for acquiring shares, 19% for residential dwellings, 5% for agricultural properties, and 7% remained unused.",
+        "• Over 5,700 enterprises with a book value of €2.0 billion in state capital were privatized through four initial methods: share offerings, auctions, best business plan competitions, and hard currency sales.",
+        "• The second phase of privatization began in 1995 with a new law that expanded privatization methods and allowed participation without vouchers; between 1996 and 1998, 526 entities were sold for over €0.7 billion.",
+        "• Prior to reforms, the public sector dominated Lithuania’s economy, but by 2000 the private sector accounted for over 70% of GDP, increasing to 80% by 2011.",
+        "• Lithuania implemented monetary reform in the early 1990s, adopting a currency board system managed by the independent Bank of Lithuania.",
+        "• On 25 June 1993, the Lithuanian litas was introduced as a freely convertible currency; on 1 April 1994, it was pegged to the US dollar at a fixed rate of 4 to 1.",
+        "• The currency board system stabilized inflation rates to single digits, fostering stable currency exchange rates that facilitated foreign economic relations and sustained growth in foreign trade.",
+        "• By 1998, Lithuania’s economy had overcome early uncertainties and setbacks, including a banking crisis, but the August 1998 collapse of the Russian ruble triggered negative growth and necessitated a shift in trade focus from Russia to Western markets.",
+        "• In 1997, exports to the Commonwealth of Independent States (CIS) accounted for 45% of Lithuania’s total exports; by 2006, this share dropped to 21%, while exports to EU members rose to 63%.",
+        "• In 2006, exports to the United States constituted 4.3% of Lithuania’s total exports, and imports from the US made up 2% of total imports.",
+        "• Foreign direct investment (FDI) in Lithuania reached €0.8 billion in 2005.",
+        "• Lithuania was invited to the Helsinki EU summit in December 1999 to commence EU accession negotiations in early 2000.",
+        "• On 2 February 2002, the Lithuanian litas was pegged to the euro at a rate of 3.4528 to 1, a peg maintained until Lithuania adopted the euro in 2015.",
+        "• Lithuania nearly adopted the euro in 2007 but was delayed due to inflation exceeding the Maastricht criteria.",
+        "• On 1 January 2015, Lithuania became the 19th country to adopt the euro as its official currency.",
+        "• The Vilnius Stock Exchange (VSE), established in 1993 as the first stock exchange in the Baltic states, was acquired by OMX in 2003.",
+        "• Since 27 February 2008, the Vilnius Stock Exchange has been part of the NASDAQ OMX Group, the world’s largest exchange company with over 3,800 listed companies across six continents.",
+        "• The market capitalization of the Vilnius Stock Exchange was €3.4 billion as of 27 November 2009.",
+        "• Between 1998 and 2008, Lithuania’s economic structure changed significantly, notably in agriculture where employment declined from 19.2% in 1998 to 7.9% in 2008.",
+        "• The service sector’s importance increased, with the share of GDP from financial intermediation and real estate rising from 11% in 1998 to 17% in 2008.",
+        "• Employment in the financial sector doubled between 1998 and 2008, reflecting the sector’s growing role in the Lithuanian economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:12:44.292369",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Lithuania in the 21st century",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 2000 and 2017, Lithuania's GDP grew by 308%, indicating substantial economic expansion over this period.",
+        "• Lithuania's accession to the World Trade Organization (WTO) in 2001 and the European Union (EU) in 2004 were pivotal factors in its economic growth, facilitating free movement of labor, capital, and trade among EU member states.",
+        "• Rapid economic growth in Lithuania led to imbalances such as inflation and a significant balance of payments deficit; the current account deficit to GDP ratio was in double digits during 2006–2008, peaking at 18.8% in the first quarter of 2008.",
+        "• The high current account deficit was largely driven by rapid loan portfolio growth, with Scandinavian banks providing cheap credit under lax regulations; loans for housing acquisition increased dramatically from 50 million LTL in 2004 to 720 million LTL in 2007.",
+        "• Credit expansion fueled consumption, resulting in high inflation of goods and services and a trade deficit, ultimately causing a housing bubble in Lithuania.",
+        "• The global credit crunch beginning in 2008 severely impacted Lithuania’s real estate and retail sectors, with the construction sector contracting by 46.8% and retail trade declining by nearly 30% during the first three quarters of 2009.",
+        "• Lithuania’s GDP fell sharply by 15.7% in the first nine months of 2009, marking a severe recession period.",
+        "• Lithuania was the last Baltic state to enter recession, maintaining positive GDP growth in 2008 before experiencing a slump exceeding 15% in 2009; however, GDP rebounded by 6.1% in the third quarter of 2009 compared to the previous quarter after five quarters of negative growth.",
+        "• The austerity policy implemented by the Kubilius government, primarily consisting of expenditure cuts (four-fifths of fiscal adjustment), helped improve the current account balance from −15.5% in 2007 to 1.6% in 2009.",
+        "• Economic sentiment and business confidence recovered from record lows at the start of 2009, signaling a gradual economic recovery.",
+        "• Despite ongoing challenges in sectors tied to domestic consumption and real estate, exporters began generating profits even with reduced revenue levels, aided by lower raw material prices and decreased staff expenses.",
+        "• By the end of 2017, Lithuanian enterprises’ investments abroad totaled EUR 2.9 billion, with the largest shares in the Netherlands (24.1%), Cyprus (19.8%), Latvia (14.9%), Poland (10.5%), and Estonia (10.3%).",
+        "• Lithuania’s direct investment in EU member states amounted to EUR 2.6 billion in 2017, representing 89.3% of its total direct investment abroad.",
+        "• According to Eurostat data, Lithuanian exports experienced the fastest growth in 2017 among the Baltic countries and across Europe, with a 16.9% increase.",
+        "• The OECD Better Life Index ranks Lithuania above average in education and skills, and work-life balance, while it ranks below average in income and wealth, jobs and earnings, housing, health status, social connections, civic engagement, environmental quality, personal security, and subjective well-being.",
+        "• Among the Baltic States, Lithuanian people are considered the happiest, reflecting relatively higher subjective well-being within the region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:12:55.658389",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.4.1",
+      "section_name": "Euro adoption",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 1 January 2015, Lithuania officially adopted the euro, becoming the 19th country to join the Eurozone.",
+        "• The adoption of the euro relieved the Bank of Lithuania from the responsibility of defending the value of the national currency, the litas.",
+        "• By joining the Eurozone, Lithuania gained the right to participate in the decision-making processes of the European Central Bank (ECB).",
+        "• Lithuania also obtained access to the ECB's single-resolution fund, which supports the stability of the banking sector within the Eurozone.",
+        "• Euro adoption provided Lithuania with the benefit of cheaper borrowing costs due to increased financial integration and credibility within the Eurozone.",
+        "• The section references the real GDP per capita development of Estonia, Latvia, and Lithuania, implying economic context related to the Baltic states’ economic performance around the time of euro adoption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:13:00.472798",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "Business climate",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2024, Lithuania is ranked 9th in the International Tax Competitiveness Index, highlighting its attractiveness for business activities.",
+        "• Lithuania holds the 15th position in the Index of Economic Freedom, reflecting a favorable economic environment.",
+        "• The country is ranked 11th in the Ease of Doing Business Index, underscoring its status as one of the most favorable jurisdictions for entrepreneurship in Europe.",
+        "• As of 2017, cumulative foreign direct investment (FDI) in Lithuania amounted to EUR 14.7 billion, representing 35 percent of GDP and EUR 5215 per capita.",
+        "• The largest FDI inflows in Lithuania were directed towards manufacturing (EUR 73.7 million), agriculture, forestry, and fishery (EUR 27.4 million), and information and communication sectors (EUR 10 million).",
+        "• Sweden, The Netherlands, and Germany have consistently been the largest foreign investors in Lithuania.",
+        "• Lithuania aims to become an innovation hub by 2020, focusing on attracting FDI to high value-added sectors such as IT services, software development, consulting, finance, and logistics.",
+        "• Prominent international companies with operations in Lithuania include Microsoft, IBM, Transcom, Barclays, Siemens, SEB, TeliaSonera, Paroc, Wix.com, Philip Morris, and Thermo Fisher Scientific.",
+        "• Lithuanian Free Economic Zones (FEZs) provide developed infrastructure, service support, and tax incentives, including exemption from corporate taxation for the first six years, as well as exemptions from dividend and real estate taxes.",
+        "• There are seven FEZs operating in Lithuania: Marijampolė, Kaunas, Klaipėda, Panevėžys, Akmenė, Šiauliai, and Kėdainiai Free Economic Zones.",
+        "• Lithuania also hosts nine industrial sites offering additional advantages such as well-developed infrastructure, consultancy services, and tax incentives.",
+        "• Lithuania ranks third among developed economies by the number of Special Economic Zones (16), following the USA (256) and Poland (21).",
+        "• Lithuanian municipalities provide special incentives to investors who create jobs or invest in infrastructure, with criteria potentially linked to job creation or environmental benefits.",
+        "• Strategic investors may receive favorable tax incentives for up to ten years from municipalities.",
+        "• Municipalities may grant special incentives to encourage investments in municipal infrastructure, manufacturing, and service sectors.",
+        "• Approximately 40 percent of surveyed investors confirmed they are conducting or planning to conduct Research and Experimental Development (R&D) activities in their Lithuanian branches.",
+        "• In 2018, Lithuania was ranked as the second most attractive location for manufacturers according to the Manufacturing Risk Index 2018.",
+        "• In 2019, Lithuania was placed 16th in the \"Top 20 European FDI destination countries\" list compiled by Ernst & Young."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:13:14.396471",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Regional situation",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lithuania is administratively divided into ten counties, with four cities having populations exceeding 100,000 and two cities with populations over 50,000.",
+        "• The gross regional product (GRP) of Lithuania is predominantly concentrated in the two largest counties, Vilnius and Kaunas, which together generate two-thirds of the national GDP while comprising only 50% of the country's population.",
+        "• As of the third quarter of 2023, Vilnius County was the sole county with an average salary surpassing the national average, whereas Utena County recorded the lowest average salary, approximately 20% below the national average.",
+        "• To promote a balanced regional GDP distribution, Lithuania established nine public industrial parks: Akmene Industrial Park, Alytus Industrial Park, Kedainiai Industrial Park, Marijampolė Industrial Park, Pagegiai Industrial Park, Panevėžys Industrial Park, Radviliskis Industrial Park, Ramygala Industrial Park, and Šiauliai Industrial Park.",
+        "• Additionally, three private industrial parks were created: Tauragė Private Industrial Park, Sitkunai Private Industrial Park, and Ramučiai Private Logistic and Industrial Park; these parks offer tax incentives and have prepared physical infrastructure to stimulate regional economic development.",
+        "• In 2022 and 2023, the Lithuanian counties exhibited the following economic and demographic characteristics:",
+        "• Alytus County covers an area of 5,425 km², with a population of 134,181 (January 2024), a 2023 GDP of €1.9 billion, GDP per capita of €14,300, and an average monthly wage in Q1 2025 of €1,934 gross (€1,232 net).",
+        "• Kaunas County spans 8,089 km², has 585,430 inhabitants, a GDP of €14.7 billion, GDP per capita of €25,200, and an average monthly wage of €2,320 gross (€1,427 net).",
+        "• Klaipėda County encompasses 5,209 km², with 339,831 residents, a GDP of €7.6 billion, GDP per capita of €22,500, and an average monthly wage of €2,179 gross (€1,356 net).",
+        "• Marijampolė County covers 4,463 km², population 134,663, GDP €2.0 billion, GDP per capita €14,800, average monthly wage €1,735 gross (€1,118 net).",
+        "• Panevėžys County has an area of 7,881 km², population 209,093, GDP €3.8 billion, GDP per capita €18,200, average monthly wage €1,897 gross (€1,213 net).",
+        "• Šiauliai County, with 8,540 km² area and 266,803 population, recorded GDP of €4.8 billion, GDP per capita €18,000, and average monthly wage €1,955 gross (€1,242 net).",
+        "• Tauragė County covers 4,411 km², population 90,534, GDP €1.3 billion, GDP per capita €14,800, average monthly wage €1,975 gross (€1,252 net).",
+        "• Telšiai County spans 4,350 km², with 130,913 inhabitants, GDP €2.3 billion, GDP per capita €17,700, average monthly wage €2,050 gross (€1,291 net).",
+        "• Utena County, area 7,201 km², population 126,192, GDP €1.8 billion, GDP per capita €14,200, average monthly wage €1,910 gross (€1,220 net).",
+        "• Vilnius County is the largest with 9,731 km², population 868,251, GDP €33.6 billion, GDP per capita €39,100, and the highest average monthly wage of €2,592 gross (€1,578 net).",
+        "• The total area of Lithuania is 65,300 km², with a national population of 2,885,891 (January 2024), a GDP of €73.8 billion in 2023, a GDP per capita of €25,700, and an average monthly wage in Q1 2025 of €2,338 gross (€1,436 net)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:13:28.835351",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3",
+      "section_name": "Sectors of economy",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the Services sector in Lithuania registered the highest number of companies, totaling 53,386 entities.",
+        "• The sector categorized as Unknown industry was the second largest in terms of company registrations, with 50,660 companies.",
+        "• Wholesale Trade ranked third in Lithuania for the number of registered companies in 2022, with a total of 26,974 companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:13:31.190559",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Services",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The information and communication technologies (ICT) sub-sector is one of the most important in Lithuania's services economy, employing approximately 37,000 individuals across more than 2,000 ICT companies.",
+        "• ICT attracted 9.5% of Lithuania's total foreign direct investment (FDI), highlighting its significance in the national economy.",
+        "• Lithuania is home to 13 of the 20 largest IT companies operating in the Baltic States, underscoring its regional prominence in the technology sector.",
+        "• In the second quarter of 2018, Lithuania exported ICT services valued at EUR 128 million, indicating substantial international demand for its ICT capabilities.",
+        "• The development of shared services and business process outsourcing (BPO) represents a highly promising area within Lithuania’s service sector.",
+        "• Numerous multinational companies have outsourced their business operations to Lithuania, including Danske Bank, CITCO Group, Western Union, Uber, MIRROR, PricewaterhouseCoopers, Anthill, Adform, Booking Holdings (encompassing Kayak.com and Booking.com), HomeToGo, Visma, Unity, Yara International, Nasdaq Nordic, Bentley Systems, and Ernst & Young."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:13:34.775241",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.1.1",
+      "section_name": "Financial services",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The financial sector in Lithuania primarily focuses on the domestic market, with thirteen commercial banks licensed by the Bank of Lithuania and eight foreign bank branches operating within the country.",
+        "• The majority of these banks are subsidiaries of international corporations, predominantly from Scandinavian countries.",
+        "• Between 1998 and 2008, the Lithuanian financial sector experienced remarkable growth during the pre-crisis period.",
+        "• In the year 2000, total bank assets amounted to €3.2 billion, representing 25.5% of Lithuania’s GDP, with approximately half of these assets composed of the loan portfolio.",
+        "• By early 2009, bank assets had expanded significantly to €26.0 billion, equating to 80.8% of GDP, while the loan portfolio reached €20.7 billion.",
+        "• The loan-to-GDP ratio increased to 64% by 2009, indicating substantial credit growth relative to the economy.",
+        "• Deposit growth lagged behind loan growth, and by the end of 2008, the loan portfolio was nearly double the size of total deposits, reflecting a high dependency on external financing sources.",
+        "• Over the subsequent year, a contraction in the loan portfolio was observed, leading to a gradual normalization of the loans-to-deposits ratio toward healthier levels.",
+        "• Moody’s Corporation announced plans to open an office in Vilnius, signaling increased international financial services presence in Lithuania."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:13:42.760723",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.1.1.1",
+      "section_name": "Fintech",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lithuania has strategically positioned itself as the European Union's primary fintech hub, aiming to attract international fintech firms by offering European operational licenses within a three-month timeframe, significantly faster than the up to one-year waiting periods in countries such as Germany and the United Kingdom.",
+        "• In 2017 alone, Lithuania attracted 35 fintech companies, a direct outcome of the Lithuanian government's and Bank of Lithuania's streamlined procedures for obtaining licenses related to e-money and payment institution activities.",
+        "• In 2018, Vilnius became home to Europe's first international Blockchain Centre, marking a significant milestone in Lithuania's fintech development.",
+        "• Since 2021, Lithuania has issued hundreds of licenses for cryptocurrency exchange and storage services, positioning the country as one of the leading EU nations in granting such permits.",
+        "• The Lithuanian government actively seeks to attract financial institutions relocating due to Brexit, offering a favorable regulatory environment.",
+        "• Lithuania has granted a total of 39 e-money licenses, ranking second in the European Union only to the United Kingdom, which holds 128 such licenses.",
+        "• In 2018, Google established a payment company in Lithuania, highlighting the country's growing importance in the fintech sector.",
+        "• Vilnius was ranked as the seventh leading fintech city in Europe by foreign direct investment (FDI) performance in 2019.",
+        "• The Bank of Lithuania, serving as the Central Bank of Lithuania, established a Regulatory Sandbox to enable the testing of financial innovations in a live environment under its guidance and supervision.",
+        "• The Bank of Lithuania developed LBChain, the world's first blockchain-based sandbox created by a financial market regulator, which integrates both technological and regulatory infrastructures to foster fintech innovation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:13:48.188644",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Linpra is recognized as the largest association for engineering and manufacturing companies in the Baltic States, representing a significant organizational body within the sector.",
+        "• Lithuania's manufacturing sector holds a substantially larger share in the national economy's structure compared to the other Baltic countries, aligning it more closely with Central European nations such as the Czech Republic and Germany.",
+        "• Manufacturing represents the largest component of Lithuania's gross value added, underscoring its critical role in the country's economic output.",
+        "• The food processing sector accounts for 11% of Lithuania's total exports, with dairy products, particularly cheese, being well-known and highly regarded in neighboring countries.",
+        "• The chemical products manufacturing sector is another vital area, with machinery and equipment manufacturing contributing 7.1% to Lithuania's GDP; notably, 80% of chemical production is exported, making chemical products constitute 12.5% of total exports.",
+        "• The year 2019 was notable for Lithuania's manufacturing sector, with the opening of more than 10 new factories specializing in engineering, high precision instruments, furniture, and medical products, indicating robust industrial growth.",
+        "• The furniture manufacturing industry employs over 50,000 people in Lithuania and has experienced double-digit growth over the preceding three years, highlighting its expanding economic significance.",
+        "• Major furniture companies in Lithuania collaborate closely with IKEA, which owns one of the largest wood processing companies in the country; Lithuania ranks as the fourth largest supplier of furniture to IKEA, following Poland, Italy, and Germany.",
+        "• In the automotive industry, Continental AG initiated construction of a factory for high precision car electronics in 2018, marking the largest greenfield investment project in Lithuania to date.",
+        "• Also in 2018, German lighting technology manufacturer Hella opened a plant in the Kaunas Free Economic Zone (FEZ) to produce sensors, actuators, and control modules for the automotive sector, contributing to industrial diversification.",
+        "• Lithuania's automotive cluster has experienced significant growth over the past five years, reflecting increasing industrial capacity and specialization.",
+        "• Companies within the automotive and engineering sectors tend to be relatively small but provide flexible services tailored to small and non-standard orders at competitive prices, enhancing Lithuania's niche market competitiveness.",
+        "• The automotive and engineering sectors employ approximately 3% of Lithuania’s working population and attract 5.6% of the country’s foreign direct investment (FDI), indicating their importance in employment and investment.",
+        "• Vilnius Gediminas Technical University plays a key role in preparing specialists for the automotive and engineering sectors, supporting workforce development and industry expertise.",
+        "• Lithuania’s biotechnology and life sciences sector is expanding rapidly, with annual growth rates of approximately 20–25%, focusing particularly on biotechnology production and research, pharmaceuticals, and medical devices.",
+        "• Lithuanian laser technology companies were pioneers in transforming fundamental research into commercial manufacturing, establishing a strong global presence.",
+        "• Lithuanian laser producers export their technologies and devices to nearly 100 countries worldwide, demonstrating extensive international reach.",
+        "• Lithuanian companies manufacture half of all picosecond lasers sold globally, indicating a dominant position in this advanced laser technology market.",
+        "• Additionally, Lithuanian-made femtosecond parametric light amplifiers, which are essential for generating ultrashort laser pulses, account for approximately 80% of the global market share, underscoring Lithuania's leadership in this specialized field."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:14:01.809503",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism in Lithuania accounted for approximately 5.3% of the country's GDP in the year 2016, indicating its growing significance to the local economy.",
+        "• The country is characterized by extensive natural water resources, including 22,000 rivers and rivulets and 3,000 lakes, which contribute to its appeal as a tourist destination.",
+        "• Lithuania possesses a well-developed rural tourism infrastructure, enhancing the accessibility and attractiveness of its countryside for visitors.",
+        "• The nation features a unique coastal area that extends nearly 100 kilometers, offering diverse recreational and tourism opportunities along the Baltic Sea.",
+        "• Lithuania is home to four UNESCO World Heritage Sites, underscoring its cultural and historical significance on the global stage.",
+        "• Annually, Lithuania attracts more than 1.4 million foreign tourists, reflecting its increasing popularity as a travel destination.",
+        "• The primary sources of international tourists to Lithuania are Germany, Poland, Russia, Latvia, and Belarus, highlighting regional travel patterns.",
+        "• Additionally, a notable number of tourists also arrive from countries including the United Kingdom, the United States, Finland, and Italy, demonstrating Lithuania’s broader international appeal."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:14:07.455011",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agricultural sector in Lithuania, despite its decreased share in GDP, remains significant as it employs nearly 8% of the workforce and provides raw materials for the food processing industry.",
+        "• In 2023, agriculture combined with food products accounted for 19.6% of all Lithuanian exports, underscoring its economic importance.",
+        "• Lithuania's total agricultural land area in 2023 was 2.9 million hectares, with 44.8% of the country's land classified as arable; specifically, 2.3 million hectares were arable land.",
+        "• The three municipalities with the largest agricultural areas in Lithuania are Panevėžys district, Kupiškis, and Raseiniai, which are geographically connected.",
+        "• The primary crops cultivated on Lithuanian farms include cereals, wheat, and triticale, reflecting their popularity and economic value.",
+        "• Since the 1990s, the number of livestock and poultry in Lithuania has halved, indicating a significant decline in animal husbandry.",
+        "• At the beginning of 2009, Lithuania had 770,000 cattle, including 395,000 dairy cows, and a poultry population of 9.1 million.",
+        "• Between 1992 and 2008, Lithuanian food consumption patterns changed notably: vegetable consumption increased by 30% to 86 kg per capita.",
+        "• During the same period, consumption of meat and meat products rose by 23%, reaching 81 kg per capita.",
+        "• Conversely, consumption of milk and dairy products decreased by 21% to 268 kg per capita between 1992 and 2008.",
+        "• Bread and grain product consumption also declined by 19%, falling to 114 kg per capita during the same timeframe.",
+        "• In 2018, Lithuania produced 2.8 million tons of wheat, making it the largest agricultural product by volume.",
+        "• Sugar beet production in 2018 was 888 thousand tons; this crop is utilized for manufacturing sugar and ethanol.",
+        "• Barley production reached 619 thousand tons in 2018, marking it as another major cereal crop.",
+        "• Rapeseed production amounted to 433 thousand tons in 2018, contributing to oilseed agriculture.",
+        "• Potato production in 2018 was 296 thousand tons, reflecting its role in Lithuanian agriculture.",
+        "• Pea production totaled 213 thousand tons in 2018, indicating its significance among leguminous crops.",
+        "• Oat production in 2018 was 182 thousand tons, supporting cereal diversity.",
+        "• Triticale production reached 153 thousand tons in 2018, consistent with its popularity among cereals.",
+        "• Bean production was 149 thousand tons in 2018, contributing to the legume sector.",
+        "• Additional smaller-scale agricultural products in 2018 included apples at 92 thousand tons, maize at 87 thousand tons, and rye at 44 thousand tons."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:14:20.359876",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4",
+      "section_name": "Corporations",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lithuania has traditionally strong industries in agriculture, furniture manufacturing, logistics, meatpacking and poultry, biotechnology, and laser technologies.",
+        "• Maxima is a retail chain operating across Lithuania, Latvia, Estonia, Poland, and Bulgaria, recognized as the largest Lithuanian capital company and the largest employer in the Baltic states.",
+        "• Girteka Logistics holds the distinction of being Europe's largest transport company.",
+        "• Biotechpharma is a Lithuanian biopharmaceutical research and development company specializing in recombinant protein technology development.",
+        "• The BIOK Laboratory, a startup founded by biochemistry scientists, is the largest producer of natural cosmetic products in Lithuania.",
+        "• UAB SANITEX is the largest wholesale, distribution, and logistics company operating in Lithuania and Latvia, with additional activities in Estonia and Poland.",
+        "• SoliTek is the largest manufacturer of photovoltaic modules and energy storage batteries in Northern Europe.",
+        "• UAB Teltonika is one of the leading producers of cellular IoT gateways in Europe.",
+        "• In the \"Baltic Top 50\" ranking, created by Coface to list the biggest companies in the Baltic states, Lithuania is represented by 27 companies, which constitute more than half of the total.",
+        "• These 27 Lithuanian companies collectively account for 69.1% of the combined turnover, 67.1% of the net profit, and 76.2% of the employees of all companies listed in the \"Baltic Top 50\"."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:14:27.408115",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Largest companies",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, the total revenue of the 1000 largest companies in Lithuania amounted to 77.9 billion euros, reflecting a 2.6% year-to-year contraction in overall revenue.",
+        "• The largest company in Lithuania by revenue in 2023 was Orlen Lietuva, AB, headquartered in Mažeikiai, with a revenue of 6.427 billion euros, employing 1,545 people, and operating in the oil and petrol industry.",
+        "• Maxima LT, UAB, based in Vilnius, ranked second with a revenue of 2.143 billion euros, employing 11,704 individuals, and operating in the retail sector.",
+        "• Ignitis, UAB, also headquartered in Vilnius, was the third largest company by revenue, generating 1.381 billion euros, with 404 employees, and functioning within the electric power industry.",
+        "• Linas Agro, AB, located in Panevėžys, ranked fourth with a revenue of 1.177 billion euros, employing 216 people, and operating in the agribusiness sector.",
+        "• Circle K Lietuva, UAB, based in Vilnius, ranked fifth with a revenue of 0.894 billion euros, employing 1,025 individuals, and operating in the petrol stations industry.",
+        "• Viada LT, UAB, headquartered in Vilnius, was sixth with a revenue of 0.897 billion euros, employing 1,197 people, and also operating in the petrol stations sector.",
+        "• Iki Lietuva, UAB, located in Vilnius, ranked seventh with a revenue of 0.887 billion euros, employing 5,650 people, and operating in retail.",
+        "• Thermo Fisher Scientific Baltics, UAB, based in Vilnius, was eighth with a revenue of 0.821 billion euros, employing 1,556 individuals, and operating in biotechnology and pharmaceuticals.",
+        "• Lidl Lietuva, UAB, headquartered in Vilnius, ranked ninth with a revenue of 0.871 billion euros, employing 3,071 people, and operating in retail.",
+        "• Sanitex, UAB, located in Kaunas, ranked tenth with a revenue of 0.806 billion euros, employing 1,260 people, and operating in wholesale and logistics.",
+        "• The ranking reflects the financial year 2023 and includes companies from diverse industries such as oil and petrol, retail, electric power, agribusiness, petrol stations, biotechnology, pharmaceuticals, wholesale, and logistics."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:14:37.650155",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Most valuable companies",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to 15min (2024), the largest Lithuanian company by valuation is Maxima Group, UAB, headquartered in Vilnius, with a valuation of €2.865 billion, operating in the retail industry.",
+        "• Thermo Fisher Scientific Baltics, UAB, based in Vilnius, ranks second with a valuation of €2.404 billion, specializing in life sciences.",
+        "• Avia Solutions Group, PLC, also located in Vilnius, holds the third position with a valuation of €2.394 billion, operating within the aviation sector.",
+        "• Orlen Lietuva, AB, headquartered in Mažeikiai, is valued at €2.196 billion and operates in the oil and petrol industry, ranking fourth.",
+        "• Luminor Bank, AS Lietuvos skyrius, based in Vilnius, is the fifth largest company with a valuation of €1.583 billion, functioning in the banking sector.",
+        "• Swedbank, AB, headquartered in Vilnius, holds the sixth position with a valuation of €1.441 billion; the industry is banking though not explicitly stated in the table.",
+        "• Ignitis grupė, AB, located in Vilnius, is valued at €1.354 billion and operates in the electric power industry, ranking seventh.",
+        "• Baltic Classifieds Group, PLC, based in Vilnius, has a valuation of €1.284 billion and operates as a web portal, placing eighth.",
+        "• SEB bankas, AB, headquartered in Vilnius, is valued at €1.217 billion, operating in the banking sector, and ranks ninth.",
+        "• Girteka Group, UAB, located in Vilnius, is valued at €1.097 billion and operates in logistics, ranking tenth among Lithuanian companies by valuation.",
+        "• Telia Lietuva, AB, based in Vilnius, holds the eleventh position with a valuation of €0.926 billion, operating in telecommunications.",
+        "• Tele2, UAB, also headquartered in Vilnius, is valued at €0.809 billion and operates in telecommunications, ranking twelfth.",
+        "• Lithuanian Railways, AB, located in Vilnius, is valued at €0.706 billion and operates in rail transport, ranking thirteenth.",
+        "• Bitė Lietuva, UAB, based in Vilnius, is valued at €0.672 billion, operates in telecommunications, and ranks fourteenth among the largest Lithuanian companies by valuation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:14:44.509458",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "5",
+      "section_name": "Workforce",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, the population of Lithuania aged 15 years and over was 1.45 million, with an economic activity rate of 60 percent.",
+        "• Between 1995 and 2017, the average salary in Lithuania increased more than fourfold, yet labor costs remained among the lowest in the European Union.",
+        "• In the fourth quarter of 2018, the average monthly net salary in Lithuania was EUR 800, reflecting a 9.5 percent increase from the previous period.",
+        "• Lithuania’s unemployment rate has experienced significant fluctuations since 2001, decreasing from nearly 20 percent to below 4 percent by 2007 due to rapid economic expansion and job creation.",
+        "• The reduction in unemployment between 2001 and 2007 was also influenced by emigration following Lithuania’s accession to the European Union, which alleviated domestic labor market pressures.",
+        "• The global economic crisis of 2008 led to a diminished demand for workers in Lithuania, causing the unemployment rate to rise to 13.8 percent and subsequently stabilize by the third quarter of 2009.",
+        "• By the first quarter of 2018, Lithuania’s unemployment rate had decreased to 6.3 percent.",
+        "• Lithuania ranks among the top five countries worldwide in terms of postsecondary (tertiary) education attainment.",
+        "• As of 2016, 54.9 percent of Lithuanians aged 25 to 34 and 30.7 percent of those aged 55 to 64 had completed tertiary education.",
+        "• The proportion of tertiary-educated individuals aged 25–64 in Lithuania working in STEM fields (science, technology, engineering, and mathematics) was above the OECD average, with 29 percent in Lithuania compared to 26 percent OECD-wide.",
+        "• Similarly, the share of tertiary-educated individuals in business, administration, and law fields was higher in Lithuania (25 percent) than the OECD average (23 percent).",
+        "• Lithuania’s labor productivity level is currently approximately one-third below the OECD average.",
+        "• Lithuania is ranked 15th globally on the Employment Flexibility Index, indicating a relatively high degree of labor market flexibility."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:14:52.392418",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Largest employers by municipality",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2024, the largest employers in Lithuanian municipalities, each providing at least 1,000 jobs, are identified excluding employment agencies.",
+        "• In Vilnius municipality, Maxima LT, a retail company, employed 4,576 workers, constituting 40% of the local workforce.",
+        "• Švenčionys municipality’s largest employer is Intersurgical, a health technology firm, with 2,191 employees, representing 100% of the workforce.",
+        "• PKC Group Lithuania, specializing in automotive electronics, is the largest employer in Panevėžys municipality, with 2,094 employees.",
+        "• In Klaipėda district, Vlantana, a logistics company, employs 1,909 people, accounting for 79% of the district’s workforce.",
+        "• Kaunas district’s largest employer is Hoptransa, operating in logistics, with 1,670 employees, making up 94% of the workforce.",
+        "• Within Kaunas municipality, Maxima LT also ranks as a major employer in retail, with 1,634 employees, representing 14% of the workforce.",
+        "• Marijampolė municipality’s largest employer is Mantinga, a bakery company, employing 1,603 workers, which equals 100% of the local workforce.",
+        "• Visaginas municipality is dominated by the Ignalina Nuclear Power Plant, focused on radioactive waste management, employing 1,599 people, or 100% of the workforce.",
+        "• Orlen Lietuva, operating in oil and petrol, is the largest employer in Mažeikiai municipality with 1,467 employees, comprising 100% of the workforce.",
+        "• Vilnius district’s largest employer is Vilniaus paukštynas, a poultry farming company, with 1,296 employees, representing 100% of the workforce.",
+        "• In Šiauliai municipality, Trasis, a logistics company, employs 1,239 people, accounting for 78% of the workforce.",
+        "• Telšiai municipality’s largest employer is Žemaitijos pienas, a dairy products company, with 1,239 employees, making up 100% of the workforce.",
+        "• Biovela-Utenos mėsa, specializing in meat-packing, is the largest employer in Utena municipality, employing 1,196 workers, or 100% of the workforce.",
+        "• Jonava municipality’s largest employer is Achema, a fertilizer producer, with 1,157 employees, representing 100% of the workforce.",
+        "• In Kėdainiai municipality, Krekenavos agrofirma, a meat-packing company, employs 1,084 people, constituting 100% of the local workforce."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:15:04.273380",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "6",
+      "section_name": "Income and wealth distribution",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the Credit Suisse Global Wealth Report 2019, Lithuania is classified within the high income group.",
+        "• In 2019, the average wealth per adult in Lithuania was reported to be $50,254.",
+        "• This figure represents an 82% increase from the average wealth per adult of $27,507 recorded in 2017.",
+        "• Household debt in Lithuania is notably low compared to other European Union countries.",
+        "• Specifically, household debt amounted to 49 percent of net disposable income in Lithuania in the year 2015."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:15:07.242795",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Municipalities by median home value",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Lithuanian municipalities were ranked by median home value based on government estimates, revealing significant regional disparities in housing prices.",
+        "• Neringa Municipality recorded the highest median home value at €111,000, nearly double that of the capital city Vilnius, which had a median home value of €60,100.",
+        "• Klaipėda followed Vilnius with a median home value of €47,400, while Palanga and Kaunas (district) had median home values of €44,100 and €43,900 respectively.",
+        "• The city of Kaunas itself had a median home value of €40,700, slightly higher than Klaipėda (district) at €39,800 and Šiauliai at €36,400.",
+        "• Vilnius (district) showed a median home value of €35,100, with Druskininkai at €30,200 and Panevėžys at €29,200, indicating a gradual decrease in home values outside major urban centers.",
+        "• Other notable municipalities included Birštonas (€25,500), Trakai (€25,100), Kretinga (€24,000), Tauragė (€23,500), and Marijampolė (€23,300), reflecting moderate home values.",
+        "• Municipalities such as Alytus (€20,800), Elektrėnai (€20,600), Utena (€17,300), Jonava (€17,000), and Mažeikiai (€15,000) exhibited lower median home values compared to larger cities.",
+        "• Plungė and Telšiai both had median home values of €13,700, while Šiauliai (district) was slightly lower at €13,100.",
+        "• Raseiniai (€12,600), Jurbarkas (€12,500), Šilutė (€11,900), Širvintos (€11,800), Ukmergė (€11,100), and Vilkaviškis (€10,700) rounded out the mid-to-lower range of home values.",
+        "• The lowest median home values were found in Kazlų Rūda (€10,300), Visaginas (€10,000), Šakiai (€9,900), Kėdainiai (€9,600), and Kalvarija (€8,800).",
+        "• Kaišiadorys had a median home value of €8,200, followed by Radviliškis (€7,900), Rietavas (€7,800), Joniškis (€7,800), and Šilalė (€7,600).",
+        "• Skuodas (€7,400), Švenčionys (€7,300), Panevėžys (district) (€6,800), Šalčininkai (€6,400), and Lazdijai (€6,400) also featured among municipalities with relatively low home values.",
+        "• Prienai (€6,300), Biržai (€6,200), Alytus (district) (€6,200), Molėtai (€6,200), and Pagėgiai (€6,000) continued the trend of lower median home prices.",
+        "• The lowest median home values were observed in Akmenė (€5,700), Kelmė (€5,700), Pakruojis (€5,600), Rokiškis (€5,300), Varėna (€5,100), Kupiškis (€5,000), Anykščiai (€4,800), Pasvalys (€4,700), Zarasai (€4,200), and Ignalina (€3,700).",
+        "• The data highlights a stark contrast in housing affordability across Lithuania, with coastal and major urban municipalities commanding significantly higher median home values compared to rural and less populated areas.",
+        "• Additionally, the demographic note on Didžiasalis, Ignalina District, indicates a population decline from 2,600 in 1989 to approximately 1,000 in 2021, illustrating demographic changes that may influence local housing markets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:15:20.556885",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "7",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The transport, storage, and communication sector has grown significantly in importance within the Lithuanian economy.",
+        "• In 2008, this sector contributed 12.1% to Lithuania's Gross Domestic Product (GDP).",
+        "• This represents an increase from 9.1% of GDP in 1996, indicating substantial growth over the 12-year period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:15:23.348597",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Communications",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lithuania possesses a broadly developed communications infrastructure encompassing radio, television, landline and mobile phone networks, as well as broadband internet services.",
+        "• The Lithuanian National Radio and Television, serving as the public broadcaster, operates three television channels—including a satellite channel—and three radio stations.",
+        "• In addition to the public broadcaster, privately owned commercial TV and radio broadcasters operate numerous national, regional, and local channels throughout Lithuania.",
+        "• Lithuania hosts four TIER III data centers, reflecting a significant capacity for data storage and processing.",
+        "• According to Cloudscene, Lithuania ranks 44th globally in terms of data center density.",
+        "• The fixed landline network in Lithuania connects approximately 625,000 households and businesses, a decline from the peak of 845,000 connections recorded in 2005.",
+        "• The reduction in landline subscriptions and usage is primarily attributed to the increased availability and adoption of mobile phone services.",
+        "• Lithuania’s mobile telephony penetration rate was 151 subscriptions per 100 population in 2013, placing it among the highest mobile penetration rates worldwide.",
+        "• In 2013, there were 13 mobile phone service providers operating in Lithuania, with the three largest being BITĖ Lietuva, Omnitel, and Tele2, each operating their own cellular networks.",
+        "• The Lithuanian retail internet sector is highly competitive, featuring more than 100 service providers.",
+        "• Retail internet connectivity in Lithuania was among the cheapest in Europe as of 2013.",
+        "• Despite affordable internet services, Lithuania’s internet penetration rate stood at 64% of households using the internet in 2013, which was lower than neighboring EU countries: Estonia at 79%, Latvia at 70%, and Poland at 69%.",
+        "• Lithuanian internet connection speeds have been reported to be among the fastest globally, based on user-initiated speed tests conducted on Speedtest.net."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:15:31.511545",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The utilities sector contributes more than 3% to Lithuania's gross value added, indicating its significant role in the national economy.",
+        "• In 2007, Lithuania produced over 12 billion kWh of electricity while consuming more than 9.6 billion kWh, resulting in a surplus of electricity that is exported.",
+        "• Lithuania operated a nuclear power plant located in Visaginas, which was responsible for producing 72% of the country's electricity before its shutdown.",
+        "• The Visaginas nuclear power plant was shut down on 31 December 2009 as part of Lithuania's commitments upon joining the European Union in 2004.",
+        "• A proposal for a new nuclear power plant in Visaginas was made; however, the project’s status remains uncertain following its rejection by voters in a 2012 referendum.",
+        "• Between 1998 and 2008, Lithuania modernized its heating energy supply, achieving a significant reduction in technological losses in the heat energy system from 26.2% in 2000 to 16.7% in 2008.",
+        "• During the same period, air pollution from heating energy was reduced by one-third, reflecting environmental improvements in the sector.",
+        "• The share of renewable energy resources in Lithuania’s total fuel balance for heat production increased to nearly 20% by 2008, demonstrating progress in sustainable energy use.",
+        "• To reduce Gazprom's monopoly in Lithuania’s natural gas market, the Klaipėda LNG Floating Storage and Regasification Unit (FSRU) terminal was constructed in the port of Klaipėda in 2014, marking the first large-scale LNG import terminal in the Baltic region.",
+        "• The Klaipėda LNG terminal was named _Independence_, symbolizing Lithuania’s strategic goal to diversify its energy market and reduce dependency on Russian gas supplies.",
+        "• From 2015 to 2020, the Norwegian company Equinor supplied 540 million cubic metres (19 billion cubic feet) of natural gas annually to Lithuania through the Klaipėda LNG terminal.",
+        "• The Klaipėda LNG terminal has the capacity to meet 100% of Lithuania’s natural gas demand and is projected to cover 90% of the national demand for Latvia and Estonia in the future.",
+        "• The Kruonis Pumped Storage Plant functions as a pumped-storage facility providing a spinning reserve to the power system, enabling regulation of the power system’s load curve continuously over 24 hours.",
+        "• In 2015, the Kruonis Industrial Park was established adjacent to the pumped storage plant, serving as a dedicated location for data centers.",
+        "• In 2018, efforts began to synchronize the Baltic States’ electricity grid with the Synchronous grid of Continental Europe, aiming to integrate Lithuania’s power system more closely with the European grid network."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:15:41.854544",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "7.3",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lithuania serves as a crucial transport corridor connecting Eastern and Western regions, facilitating significant transit and trade activities.",
+        "• Since 1996, the volume of goods transported by road in Lithuania has increased fivefold, reflecting substantial growth in road freight transport.",
+        "• The total length of Lithuanian roadways exceeds 80,000 kilometers, with approximately 90% of these roads being paved, indicating a well-developed road infrastructure.",
+        "• In 2008, government expenditure on road infrastructure in Lithuania surpassed €0.5 billion, demonstrating significant investment in maintaining and expanding road networks.",
+        "• The Via Baltica highway, a major international route, passes through the city of Kaunas, enhancing Lithuania’s connectivity with neighboring countries.",
+        "• Lithuania’s membership in the Schengen Agreement facilitates smooth and efficient border crossings with Poland and Latvia, promoting seamless international transport.",
+        "• Rail transport in Lithuania provides both long-distance passenger and cargo services, carrying about 50 million tons of cargo and 7 million passengers annually.",
+        "• Lithuania’s railways maintain direct connections with Russia, Belarus, Latvia, Poland, and Germany, supporting extensive international rail transport links.",
+        "• The main transit rail route between Russia and Russia’s Kaliningrad Region passes through Lithuania, underscoring the country’s strategic position in regional rail logistics.",
+        "• Lithuanian Railways AB is responsible for transporting approximately 44% of the freight carried through Lithuania, a notably high proportion compared to the EU average of 10% for rail freight transport.",
+        "• The ice-free seaport of Klaipeda, located in western Lithuania, functions as a vital regional transport hub integrating sea, land, and rail routes from both east and west.",
+        "• Annually, the Klaipeda seaport handles around 7,000 ships and processes approximately 30 million tons of cargo, highlighting its significant maritime throughput.",
+        "• The port accommodates large-tonnage vessels, including dry-cargo ships up to 70,000 deadweight tons (DWT), tankers up to 100,000 DWT, and cruise ships up to 270 meters in length.",
+        "• Klaipeda seaport is capable of receiving Panamax-type vessels, which are among the largest ships able to transit the Panama Canal, indicating its capacity for substantial maritime traffic.",
+        "• Passenger traffic at Klaipeda seaport has grown rapidly, increasing fourfold since 2002, marking one of the fastest-growing segments in Lithuanian sea transport.",
+        "• The inland river cargo port in Marvelė, linking the cities of Kaunas and Klaipeda, commenced operations by receiving its first cargo shipment in 2019, enhancing inland waterway transport.",
+        "• Lithuania operates four international airports: Vilnius Airport (VNO), Kaunas Airport (KUN), Šiauliai Airport (SQQ), and Palanga Airport (PLQ), supporting both passenger and cargo air transport.",
+        "• In addition to international airports, Lithuania has more than 30 domestic airports primarily used by aeroclubs and amateur pilots, indicating a network of smaller airfields for recreational and local aviation activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:15:55.987139",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "7.4",
+      "section_name": "Storage",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lithuania possesses more than 600,000 square meters of modern logistics and warehousing facilities, reflecting significant infrastructure for storage and distribution.",
+        "• The capital city Vilnius holds the largest supply of new, modern warehousing facilities, with the rentable area reaching 334,400 square meters following the completion of several new projects in the third quarter of 2009.",
+        "• Vilnius experienced an increase of nearly 12% in the supply of modern warehousing premises as a result of these developments in 2009.",
+        "• Kaunas ranks second in terms of warehousing facility supply, with approximately 200,000 square meters of modern warehousing space available.",
+        "• Klaipėda is third in warehousing supply, offering around 122,500 square meters of modern logistics and warehousing facilities.",
+        "• Since the beginning of 2009, prices for warehousing premises in Vilnius, Kaunas, and Klaipėda have decreased by 20 to 25 percent.",
+        "• The current rental prices for warehousing premises in these three cities have reverted to levels comparable to those in 2003, indicating a significant market adjustment.",
+        "• Rental costs for new warehouses in Vilnius, Kaunas, and Klaipėda are relatively uniform, ranging from 0.75 to 1.42 euros per square meter.",
+        "• Older warehouse facilities in these cities command lower rents, between 0.35 and 0.67 euros per square meter, reflecting their less modern status."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:16:03.152074",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "8",
+      "section_name": "International trade",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Lithuanian economy is characterized by a high degree of openness, with international trade playing a critical role; the ratio of foreign trade to GDP in Lithuania has frequently exceeded 100%.",
+        "• In 2015, the European Union (EU) was Lithuania's largest trade partner, accounting for 67% of total imports and 61.3% of total exports.",
+        "• The Commonwealth of Independent States (CIS) was Lithuania's second most significant economic union for trade in 2015, representing 25% of imports and 23.9% of exports.",
+        "• Lithuania imports the majority of its commodities, including oil, gas, and metals, primarily from Russia; however, recent years have seen a shift in energy dependence towards countries such as Norway and the United States.",
+        "• Mineral products made up 25% of Lithuania’s imports and 18% of its exports, largely influenced by the presence of the ORLEN Lietuva oil refinery.",
+        "• ORLEN Lietuva, owned by the Polish company PKN Orlen, has a refining capacity of 9 million tons per year and sold over €3.5 billion worth of products abroad in 2014.",
+        "• Lithuania’s total exports amounted to €24 billion in 2014, with ORLEN Lietuva contributing a significant portion through its oil product sales.",
+        "• Several Lithuanian industrial sectors are predominantly export-oriented: transport and logistics export approximately two-thirds of their output; biotechnology exports 80%; plastics 52%; laser technologies 86%; metal processing, machinery, and electric equipment 64%; furniture and wood processing 55%; textile and clothing 76%; and the food industry 36%.",
+        "• In the period from January to December 2022, the structure of Lithuania’s foreign trade was heavily influenced by ORLEN Lietuva’s large-scale import and export of oil products.",
+        "• The European Union accounted for 62.80% of Lithuania’s combined trade share in 2022, with 63.27% of imports and 62.23% of exports, and 65.72% of exported goods were of Lithuanian origin.",
+        "• Poland was Lithuania’s largest individual import partner in 2022 with a 10.46% share and the largest import partner at 11.67%; Latvia was the largest export partner at 12.86%, followed by Poland at 9.04%.",
+        "• Germany ranked third in imports at 9.93% and second in exports at 11.62%, with 75.47% of goods exported to Germany being of Lithuanian origin.",
+        "• The United States was the fourth largest import partner at 6.52% and export partner at 7.56%, with 91.10% of goods exported to the US being of Lithuanian origin.",
+        "• Russia accounted for 5.50% of imports and 4.93% of exports in 2022, with only 7.38% of goods exported to Russia being of Lithuanian origin, reflecting limited domestic content in exports to this market.",
+        "• Other notable import partners in 2022 included the Netherlands (4.93%), Sweden (4.73%), Estonia (4.39%), Norway (3.74%), and the United Kingdom (3.08%).",
+        "• Leading export partners besides Latvia and Poland included Sweden (5.26%), Norway (4.84%), Saudi Arabia (4.15%), China (3.78%), and Italy (3.66%).",
+        "• The share of Lithuanian-origin goods in exports varied significantly by country, with the highest shares to the United States (91.10%), Sweden (87.66%), and the Netherlands (84.46%), and the lowest to Russia (7.38%) and Belarus (5.39%).",
+        "• Other countries with notable shares of Lithuanian-origin goods in exports included Germany (75.47%), Italy (79.83%), France (73.77%), Denmark (84.41%), Finland (71.15%), Belgium (80.10%), Spain (81.84%), and Turkey (63.63%).",
+        "• The detailed 2022 trade rankings illustrate Lithuania’s diversified trade relationships across Europe, North America, and parts of Asia, with a strong emphasis on EU countries and strategic partners influenced by energy and industrial sectors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:16:13.187606",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "8.1",
+      "section_name": "Foreign corporate taxpayers",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The monthly average number of foreign corporate taxpayers in Lithuania from June to December 2024 totaled 53,218 entities.",
+        "• Germany accounted for the largest share of foreign corporate taxpayers in Lithuania, with 15,308 companies representing 28.8% of the total.",
+        "• Poland was the second-largest contributor, with 5,108 foreign corporate taxpayers, making up 9.6% of the total.",
+        "• Italy had 3,800 foreign corporate taxpayers in Lithuania, constituting 7.2% of the overall foreign corporate presence.",
+        "• The Netherlands contributed 3,735 foreign corporate taxpayers, representing 7.0% of the total number.",
+        "• The United Kingdom had 3,255 foreign corporate taxpayers, which accounted for 6.1% of the total foreign corporate taxpayers in Lithuania.",
+        "• France was represented by 2,688 foreign corporate taxpayers, comprising 5.1% of the total.",
+        "• Spain had 2,292 foreign corporate taxpayers, making up 4.3% of the total foreign corporate taxpayers.",
+        "• Austria contributed 1,614 foreign corporate taxpayers, representing 3.0% of the total.",
+        "• Estonia and Latvia had similar numbers of foreign corporate taxpayers, with Estonia at 1,457 (2.7%) and Latvia at 1,448 (2.7%).",
+        "• Sweden also accounted for 1,427 foreign corporate taxpayers, representing 2.7% of the total.",
+        "• The United States had 1,132 foreign corporate taxpayers in Lithuania, constituting 2.1% of the total.",
+        "• Czechia contributed 1,128 foreign corporate taxpayers, also making up 2.1% of the total.",
+        "• Belgium had 957 foreign corporate taxpayers, representing 1.8% of the total foreign corporate taxpayers.",
+        "• Denmark accounted for 921 foreign corporate taxpayers, which was 1.7% of the total.",
+        "• These figures collectively illustrate the distribution and concentration of foreign corporate taxpayers in Lithuania during the latter half of 2024, highlighting Germany as the predominant country of origin."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:16:19.228090",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "9",
+      "section_name": "Natural resources",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The total value of natural resources in Lithuania is approximately €17 billion, representing about one third of the country's Gross Domestic Product (GDP).",
+        "• The most valuable natural resource in Lithuania is subterranean water, which accounts for more than half of the total value of the nation's natural resources.",
+        "• In 1990, Lithuania commenced petroleum production from onshore oil wells as a strategic response to the Soviet economic blockade.",
+        "• Since 2001, Lithuania's annual petroleum production has declined due to the government's cessation of support for the development of new oil wells.",
+        "• Additionally, the Lithuanian government has imposed a ban on the development of offshore oil rigs, further contributing to the reduction in petroleum production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:16:22.264069",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "10",
+      "section_name": "Macro-economic",
+      "chapter_name": "Economy of Lithuania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the year 2000, Lithuania's GDP measured in purchasing power parity (PPP) was 33.7 billion US dollars, with a GDP per capita of 9,618 US dollars PPP, and a nominal GDP of 11.5 billion US dollars; the real GDP growth rate was 3.8%, inflation was at 1.0%, unemployment stood at 16.4%, and government debt was 23% of GDP.",
+        "• By 2005, Lithuania's GDP (PPP) increased to 54.6 billion US dollars, GDP per capita rose to 16,422 US dollars PPP, and nominal GDP reached 26.1 billion US dollars; real GDP growth accelerated to 7.7%, inflation increased to 2.7%, unemployment decreased significantly to 8.3%, and government debt declined to 18% of GDP.",
+        "• In 2006, the GDP (PPP) further grew to 60.4 billion US dollars, GDP per capita was 18,472 US dollars PPP, and nominal GDP was 30.2 billion US dollars; real GDP growth was 7.4%, inflation rose to 3.8%, unemployment dropped to 5.8%, and government debt slightly decreased to 17% of GDP.",
+        "• The year 2007 saw Lithuania's GDP (PPP) reach 68.9 billion US dollars, GDP per capita at 21,319 US dollars PPP, and nominal GDP at 39.8 billion US dollars; real GDP growth peaked at 11.1%, inflation increased to 5.8%, unemployment fell to 4.2%, and government debt further reduced to 16% of GDP.",
+        "• In 2008, GDP (PPP) was 72.1 billion US dollars, GDP per capita 22,539 US dollars PPP, and nominal GDP 48.0 billion US dollars; real GDP growth slowed to 2.6%, inflation surged to 11.2%, unemployment slightly increased to 5.8%, and government debt decreased to 15% of GDP.",
+        "• The economic downturn in 2009 resulted in a GDP (PPP) decline to 61.9 billion US dollars, GDP per capita dropped to 19,562 US dollars PPP, and nominal GDP fell to 37.5 billion US dollars; real GDP contracted sharply by −14.8%, inflation moderated to 4.2%, unemployment rose substantially to 13.8%, and government debt increased markedly to 29% of GDP.",
+        "• In 2010, Lithuania's GDP (PPP) slightly recovered to 63.7 billion US dollars, GDP per capita was 20,552 US dollars PPP, and nominal GDP was 37.2 billion US dollars; real GDP growth was modest at 1.6%, inflation decreased to 1.2%, unemployment peaked at 17.8%, and government debt rose to 36% of GDP.",
+        "• The year 2011 showed improvement with GDP (PPP) at 68.9 billion US dollars, GDP per capita at 22,752 US dollars PPP, and nominal GDP at 43.6 billion US dollars; real GDP growth rebounded to 6.0%, inflation increased to 4.1%, unemployment decreased to 15.4%, and government debt slightly increased to 37% of GDP.",
+        "• In 2012, GDP (PPP) grew to 72.9 billion US dollars, GDP per capita to 24,382 US dollars PPP, and nominal GDP was 43.0 billion US dollars; real GDP growth slowed to 3.8%, inflation dropped to 3.2%, unemployment declined to 13.4%, and government debt rose to 40% of GDP.",
+        "• Lithuania's GDP (PPP) in 2013 was 76.7 billion US dollars, GDP per capita was 25,904 US dollars PPP, and nominal GDP reached 46.5 billion US dollars; real GDP growth was 3.5%, inflation decreased to 1.2%, unemployment further declined to 11.8%, and government debt slightly decreased to 39% of GDP.",
+        "• In 2014, GDP (PPP) increased to 80.8 billion US dollars, GDP per capita to 27,537 US dollars PPP, and nominal GDP to 48.6 billion US dollars; real GDP growth remained steady at 3.5%, inflation was very low at 0.2%, unemployment dropped to 10.7%, and government debt rose to 41% of GDP.",
+        "• The year 2015 recorded GDP (PPP) at 83.3 billion US dollars, GDP per capita at 28,671 US dollars PPP, and nominal GDP at 41.4 billion US dollars; real GDP growth slowed to 2.0%, inflation was negative at −0.7%, unemployment decreased to 9.1%, and government debt increased to 43% of GDP.",
+        "• In 2016, Lithuania's GDP (PPP) rose to 86.3 billion US dollars, GDP per capita to 30,097 US dollars PPP, and nominal GDP to 43.0 billion US dollars; real GDP growth was 2.3%, inflation slightly increased to 0.7%, unemployment declined to 7.9%, and government debt decreased to 40% of GDP.",
+        "• By 2017, GDP (PPP) reached 91.2 billion US dollars, GDP per capita was 32,298 US dollars PPP, and nominal GDP was 47.7 billion US dollars; real GDP growth improved to 3.8%, inflation rose to 3.7%, unemployment further decreased to 7.1%, and government debt slightly decreased to 39% of GDP.",
+        "• In 2018, Lithuania's GDP (PPP) grew significantly to 101.1 billion US dollars, GDP per capita increased to 36,239 US dollars PPP, and nominal GDP rose to 53.8 billion US dollars; real GDP growth was 3.6%, inflation moderated to 2.5%, unemployment declined to 6.1%, and government debt decreased to 34% of GDP.",
+        "• The year 2019 saw GDP (PPP) increase to 107.4 billion US dollars, GDP per capita to 38,587 US dollars PPP, and nominal GDP to 54.8 billion US dollars; real GDP growth was 3.9%, inflation was 2.2%, unemployment slightly increased to 6.3%, and government debt rose to 38% of GDP.",
+        "• In 2020, Lithuania's GDP (PPP) slightly decreased to 106.9 billion US dollars, GDP per capita remained stable at 38,605 US dollars PPP, and nominal GDP increased to 56.9 billion US dollars; real GDP contracted by −1.8%, inflation was 1.2%, unemployment rose to 8.2%, and government debt significantly increased to 48% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:16:51.500044",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_lithuania.json",
+      "original_index": 31
+    }
+  ]
+}

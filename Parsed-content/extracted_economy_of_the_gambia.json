@@ -1,0 +1,205 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_gambia.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.186789",
+    "total_sections_in_source": 8,
+    "extracted_sections_count": 8,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Gambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Gambia is heavily reliant on agriculture, forming the cornerstone of its economic activities.",
+        "• The Gambia operates a mixed economy characterized by a significant dependence on agriculture, alongside relatively weak centralized economic planning and limited government regulation.",
+        "• Prior to 2017, under the leadership of Yahya Jammeh, the Gambia maintained a liberal, market-based economy marked by traditional subsistence agriculture and a historic reliance on groundnuts (peanuts) as the primary export earner.",
+        "• The country’s economy included a re-export trade developed around its ocean port, benefiting from low import duties and minimal administrative procedures.",
+        "• The Gambia experienced a fluctuating exchange rate system without exchange controls, facilitating trade and currency movement.",
+        "• Tourism constituted a significant sector within the Gambian economy, contributing notably to economic activity and foreign exchange earnings.",
+        "• The Gambia lacks significant mineral or other natural resources, and its agricultural base is limited in scope and diversity.",
+        "• Approximately 75% of the Gambian population depends on crops and livestock for their livelihood, underscoring the importance of agriculture to the general population.",
+        "• Small-scale manufacturing in the Gambia primarily involves the processing of peanuts, fish, and animal hides, reflecting the country’s agricultural and natural resource outputs.",
+        "• Short-term economic progress in the Gambia remains highly dependent on foreign aid, highlighting the country’s reliance on external financial support.",
+        "• Responsible government economic management, supported by technical assistance and advice from the International Monetary Fund (IMF), is critical for sustaining economic development in the Gambia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:04.041221",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_gambia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of the Gambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Gambia's current GDP per capita experienced a peak growth rate of 23.3% during the 1970s, indicating a period of significant economic expansion.",
+        "• Economic growth in The Gambia decelerated by 8.30% in the 1980s, reflecting a notable slowdown compared to the previous decade.",
+        "• Further economic contraction occurred in the 1990s, with growth declining by an additional 5.20%, marking continued economic challenges.",
+        "• Re-export trade has traditionally been a major component of The Gambia's economic activity, playing a crucial role in its trade dynamics.",
+        "• In January 1994, the 50% devaluation of the CFA franc adversely affected The Gambia’s re-export trade by making Senegalese goods more competitively priced, thereby undermining The Gambia’s market position.",
+        "• The Gambia's tourism sector experienced a decline following the military takeover in July 1994, which negatively impacted visitor numbers and related economic benefits.",
+        "• Subsequently, the tourism industry in The Gambia has seen a rebound, contributing positively to the country's economic recovery.",
+        "• Indian global health expert Dr. Edmond Fernandes identified The Gambia as a global investment opportunity, highlighting various sectors and areas of business interest for potential investors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:05.199053",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_gambia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of the Gambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The International Monetary Fund (IMF) provides estimates of the Gambia's gross domestic product (GDP) at market prices, expressed in millions of Dalasi, the national currency of the Gambia.",
+        "• In 1980, the Gambia's GDP was 435 million Dalasi, with a US dollar exchange rate of 1.71 Dalasi per US dollar, and an inflation index of 13 (base year 2000=100).",
+        "• By 1985, the GDP increased to 782 million Dalasi, the US dollar exchange rate depreciated to 4.09 Dalasi per US dollar, and the inflation index rose to 25.",
+        "• In 1990, the GDP reached 2,367 million Dalasi, the exchange rate further depreciated to 8.13 Dalasi per US dollar, and the inflation index increased to 65.",
+        "• The year 1995 saw the GDP grow to 3,617 million Dalasi, with the exchange rate at 9.49 Dalasi per US dollar and the inflation index at 90.",
+        "• In 2000, the GDP was 5,382 million Dalasi, the exchange rate stood at 12.78 Dalasi per US dollar, and the inflation index was normalized at 100.",
+        "• By 2005, the GDP had significantly increased to 13,174 million Dalasi, the exchange rate depreciated to 28.70 Dalasi per US dollar, and the inflation index rose to 158.",
+        "• For purchasing power parity (PPP) comparisons, the US dollar is exchanged at a fixed rate of 4.35 Dalasi, which differs from the market exchange rates listed.",
+        "• The Gambian economy is predominantly based on traditional subsistence agriculture, with a historical dependence on peanuts (groundnuts) as the main export commodity generating foreign exchange earnings.",
+        "• The economy also features a re-export trade centered around the Gambia’s ocean port, benefiting from low import duties and minimal administrative procedures.",
+        "• The exchange rate regime is characterized by fluctuations with no exchange controls imposed by the government.",
+        "• The tourism sector constitutes a significant component of the Gambian economy, contributing to foreign exchange and employment.",
+        "• Average daily wages in the Gambia around 2007 were approximately between US$1 and US$2, reflecting low income levels in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:05.272530",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_gambia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of the Gambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture constitutes 23% of the Gambia's gross domestic product (GDP), reflecting its significant role in the national economy.",
+        "• The agricultural sector employs 75% of the Gambia's labor force, indicating its importance as a primary source of employment.",
+        "• Within the agricultural sector, peanut production contributes 5.3% to the overall GDP, highlighting peanuts as a key crop.",
+        "• Other crops collectively account for 8.3% of the GDP, representing a diverse range of agricultural produce beyond peanuts.",
+        "• Livestock farming contributes 4.4% to the GDP, underscoring the role of animal husbandry in the agricultural economy.",
+        "• Fishing activities add 1.8% to the GDP, reflecting the significance of aquatic resources in the sector.",
+        "• Forestry contributes 0.5% to the GDP, indicating a smaller but notable component of the agricultural economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:00.046851",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_gambia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Industry",
+      "chapter_name": "Economy of the Gambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Industry contributes 12% to the Gross Domestic Product (GDP) of The Gambia.",
+        "• Manufacturing represents 6% of The Gambia's GDP, indicating a modest industrial base within the economy.",
+        "• The manufacturing sector in The Gambia is predominantly agriculturally based, with key activities including peanut processing, bakeries, a brewery, and a tannery.",
+        "• Additional manufacturing activities in The Gambia encompass the production of soap, soft drinks, and clothing.",
+        "• The services sector accounts for 19% of The Gambia's GDP, reflecting its role in the national economy alongside industry and manufacturing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:59.224605",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_gambia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of the Gambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism in The Gambia comprises three primary components: traditional sun-seeking holidays capitalizing on the country's hot climate and attractive beaches, birdwatching tourism driven by The Gambia's accessible and remarkable avian fauna, and heritage tourism involving African Americans tracing their ancestral roots linked to the transatlantic slave trade.",
+        "• The Gambia is often the first African destination for many European birders due to its easily accessible and spectacular bird species, making avian tourism a significant attraction.",
+        "• A notable segment of tourists includes African Americans exploring their heritage, as The Gambia was a departure point for some Africans taken during the slave trade, although relatively few American slaves originated from The Gambia.",
+        "• The popularity of The Gambia among African American tourists was significantly enhanced by Alex Haley’s historic novel and television miniseries \"Roots: The Saga of an American Family,\" which highlighted the country’s role in the slave trade.",
+        "• The peak tourist season in The Gambia coincides with the dry season, which occurs during the Northern Hemisphere winter months, attracting visitors seeking favorable weather conditions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:02.400211",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_gambia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Trade",
+      "chapter_name": "Economy of the Gambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, The Gambia's principal export markets were Senegal, Mali, Guinea-Bissau, India, and China, collectively accounting for 84% of the country's total exports.",
+        "• Among these, neighboring Senegal was the dominant export destination, representing 50.5% of The Gambia's exports in 2020.",
+        "• This export pattern in 2020 marked a significant shift from 1999, when the United Kingdom and other European Union countries were the primary export markets for The Gambia, comprising 86% of all exports at that time.",
+        "• Regarding imports in 2020, the major source countries for The Gambia were Norway, China, Côte d'Ivoire, Brazil, and Turkey, together accounting for 49% of total imports.",
+        "• This import composition in 2020 contrasted with the situation in 1999, when the United Kingdom and other European Union countries were the dominant sources of imports, making up 60% of all imports to The Gambia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:03.624104",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_gambia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of the Gambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Gambia's GDP based on purchasing power parity was estimated at $2.264 billion in 2008.",
+        "• The real GDP growth rate was estimated at 5.5% in 2019.",
+        "• GDP per capita based on purchasing power parity was approximately $1,300 in 2008.",
+        "• The composition of GDP by sector in 2008 was 33% agriculture, 8.7% industry, and 58.3% services.",
+        "• The inflation rate, measured by consumer prices, was estimated at 6.5% in 2019.",
+        "• The labor force in The Gambia consisted of approximately 400,000 individuals.",
+        "• Labor force distribution by occupation was 75% in agriculture, 19% in industry, commerce, and services, and 6% in government.",
+        "• The national budget for fiscal year 1996/97 showed revenues of $88.6 million and expenditures of $98.2 million, including unspecified capital expenditures.",
+        "• Key industries included processing of peanuts, fish, and hides; tourism; production of beverages; assembly of agricultural machinery; woodworking; metalworking; and clothing manufacturing.",
+        "• Electricity production in 1998 was 75 GWh, generated entirely from fossil fuels, with consumption at 70 GWh; The Gambia neither imported nor exported electricity.",
+        "• Agricultural products comprised peanuts, pearl millet, sorghum, rice, maize, cassava (tapioca), palm kernels, and livestock such as cattle, sheep, and goats; forest and fishery resources were noted as not fully exploited.",
+        "• Exports in 1998 were valued at $132 million (f.o.b.), primarily consisting of peanuts and peanut products, fish, cotton lint, and palm kernels.",
+        "• Major export partners in 1997 included Benelux countries (78%), Japan, the United Kingdom, Hong Kong, France, and Spain.",
+        "• Imports in 1998 totaled $201 million (f.o.b.), including foodstuffs, manufactured goods, fuel, machinery, and transport equipment.",
+        "• Principal import partners in 1997 were Hong Kong, the United Kingdom, the Netherlands, Ivory Coast, France, Senegal, and Belgium.",
+        "• External debt was estimated at $430 million in 1997.",
+        "• The Gambia received economic aid amounting to $45.4 million in 1995.",
+        "• The national currency is the Dalasi (D).",
+        "• Exchange rates of the Dalasi per US dollar were 43.860 in January 2017, 11.626 in November 1999, 10.643 in 1998, 10.200 in 1997, 9.789 in 1996, and 9.546 in 1995.",
+        "• The fiscal year in The Gambia runs from 1 July to 30 June."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:10.694140",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_the_gambia.json",
+      "original_index": 7
+    }
+  ]
+}

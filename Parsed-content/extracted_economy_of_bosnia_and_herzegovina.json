@@ -1,0 +1,538 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_bosnia_and_herzegovina.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.541780",
+    "total_sections_in_source": 20,
+    "extracted_sections_count": 20,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Bosnia and Herzegovina is classified as a developing, upper-middle income economy, indicating a moderate level of income and economic development.",
+        "• Bosnia and Herzegovina declared independence from socialist Yugoslavia on 1 March 1992, marking a significant political and economic transition.",
+        "• The country's primary trading partners include Germany, Italy, Austria, Turkey, and neighboring countries in Southeast Europe, highlighting regional and international economic integration."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:47:02.622479",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Bosnia and Herzegovina is classified as an upper middle-income country that has achieved significant economic progress since the mid-1990s.",
+        "• It is an EU candidate country actively pursuing a new growth model following a period of slow economic growth and the impact of the 2008 global financial crisis.",
+        "• The country has a small, open economy predominantly driven by the services sector, which constituted 55% of GDP in 2016.",
+        "• The industrial and manufacturing sectors are moderately developed, accounting for 23% and 12% of GDP respectively, while the agricultural sector is limited, making up about 6% of GDP.",
+        "• The national currency, the konvertibilna marka (convertible mark or BAM), was introduced in 1998 and is pegged to the euro, leading to increased confidence in the currency and the banking sector.",
+        "• Privatization efforts have been slow, with local entities showing reluctance to support national-level institutions; banking reform accelerated notably in 2001.",
+        "• Since 2001, foreign banks, mainly from Western Europe, control most of the banking sector in Bosnia and Herzegovina.",
+        "• The country faces two major economic challenges: a sizable current account deficit and a very high unemployment rate.",
+        "• Bosnia and Herzegovina receives substantial reconstruction assistance and humanitarian aid from the international community but must prepare for a future with declining aid flows.",
+        "• The United States Embassy in Sarajevo produces the annual Country Commercial Guide, providing comprehensive analysis of Bosnia and Herzegovina’s economic, political, and market environment.",
+        "• Economist Branko Milanović notes that Bosnia and Herzegovina performed the best in transitioning from socialism to capitalism among the former Yugoslav republics, with an average annual GDP per capita growth of 1.6% from 1985 to 2021, compared to Slovenia (1.4%), Croatia (1%), Serbia without Kosovo (0.9%), and North Macedonia (0.5%).",
+        "• During the era of the Socialist Federal Republic of Yugoslavia (SFRY), Bosnia and Herzegovina was a key mineral processing hub, supplying mineral commodities to other republics in exchange for consumer goods.",
+        "• The 1970s saw large public capital investments, but productivity remained low due to limited managerial capacity.",
+        "• Under leaders Džemal Bijedić and Tito, metal-product industries were promoted, leading to the development of significant metal processing plants.",
+        "• Merging small firms into larger conglomerates was common, resulting in the emergence of four major conglomerates: Energoinvest (energy sector), Unis (automotive and defense, partnered with Volkswagen in the early 1970s), Šipad (wood processing), and RMK Zenica (steel industry, later acquired by ArcelorMittal).",
+        "• Construction and defense industries were important but inefficient and oversupplied; the defense industry was particularly developed in southern districts and around Mostar, which was also a metallurgical center (Aluminij Mostar).",
+        "• Machinery production was concentrated in the north, especially around Banja Luka, while Tuzla was renowned for its chemical industry.",
+        "• The automotive industry developed from the 1950s, producing vehicle components, passenger, and commercial vehicles, with plants located in Sarajevo, Mostar, and Banja Luka.",
+        "• Agriculture was underdeveloped despite its employment significance and the presence of large conglomerates like Agrokomerc near the north-west border with Croatia.",
+        "• Tito promoted metal industries and the electro-energetic sector, resulting in numerous large industrial firms, some collaborating with global brands such as Coca-Cola, Pepsi, Marlboro, Volkswagen, and SKF.",
+        "• Major companies like Energoinvest, UNIS, Hidrogradnja, Vranica, RMK Zenica, TAS Sarajevo, FAMOS Sarajevo, and BNT Novi Travnik had annual incomes in the billions of USD at that time.",
+        "• The construction sector contributed significantly to income in USD, and unemployment was very low prior to the war.",
+        "• The workforce was highly skilled, comprising educated managers, engineers, and science experts utilizing Western technologies in large-scale industries.",
+        "• Yugoslav Premier Ante Marković had initiated preparations for privatization across the economy, finance, and industry sectors, but the outbreak of war halted these efforts.",
+        "• The Bosnian war caused extensive material damages estimated at over €200 billion, with GDP (excluding services) decreasing by 90% between 1990 and 1995.",
+        "• Most major companies have since been privatized; however, the economy remains fragile, heavily reliant on consumption and vulnerable to external shocks.",
+        "• The global economic crisis led to recessions in 2009 (-3% GDP growth) and 2012 (-0.8%), and severe floods in 2014 caused damages approximating 15% of GDP.",
+        "• Since 2015, annual GDP growth has exceeded 3%.",
+        "• In 2017, Bosnia and Herzegovina recorded a current account deficit of 4.7% of GDP, down from 5.3% in 2015, driven by a reduction in the trade deficit, which still remained large at 17.4% of GDP.",
+        "• The Central Bank of Bosnia and Herzegovina was established in late 1997, with debt negotiations conducted with the London Club in December 1997 and the Paris Club in October 1998.",
+        "• The new currency, the Bosnia and Herzegovina convertible mark, was introduced in mid-1998, and by 1999, it gained wider acceptance, with the Central Bank increasing its reserve holdings significantly.",
+        "• Due to the currency board regime pegging the BAM to the Euro, inflation has remained low across the country.",
+        "• Post-war output recovered rapidly from 1996–99 at high rates from a low base, but growth slowed between 2000–02.",
+        "• The country receives significant international reconstruction and humanitarian aid, with Support for East European Democracy (SEED) contributing 20–25% of economic growth.",
+        "• Economic growth has been uneven, with the Federation outpacing the Republika Srpska (RS); in 1996, GDP growth was 62% in the Federation and 25% in RS, with continued growth in the Federation in subsequent years.",
+        "• Progress in economic reform has been slow, especially in banking reform and privatization; many privatized companies faced difficulties, including salary reductions, non-payment to workers, and destruction of factories by new owners."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:47:22.397725",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 36
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Macro-Economic",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section presents main economic indicators of Bosnia and Herzegovina from 1997 to 2025, illustrating trends in GDP, GDP per capita, unemployment, debt, and growth rates over this period.",
+        "• In 1996, Bosnia and Herzegovina's GDP was approximately 11.394 billion US dollars (PPP), with a GDP per capita of 3,027 US dollars (PPP). The nominal GDP was 3.584 billion US dollars, and the nominal GDP per capita was 952 US dollars.",
+        "• By 1997, GDP increased to approximately 14.239 billion US dollars (PPP), with GDP per capita rising to 3,811 US dollars (PPP). The nominal GDP was 4.578 billion US dollars, and nominal GDP per capita was 1,225 US dollars, with a GDP growth rate of 22.9%.",
+        "• In 1998, GDP reached approximately 16.389 billion US dollars (PPP), with GDP per capita at 4,391 US dollars (PPP). Nominal GDP was 5.281 billion US dollars, and nominal GDP per capita was 1,415 US dollars; unemployment rate data is not specified for this year.",
+        "• The year 1999 saw GDP at approximately 18.406 billion US dollars (PPP), with GDP per capita at 4,917 US dollars (PPP). Nominal GDP was 5.766 billion US dollars, and nominal GDP per capita was 1,540 US dollars; unemployment rate data is not provided.",
+        "• In 2000, GDP increased to about 19.659 billion US dollars (PPP), with GDP per capita at 5,241 US dollars (PPP). Nominal GDP was 5.554 billion US dollars, nominal GDP per capita was 1,480 US dollars, with a real GDP growth of 4.4%, unemployment at 31.1%, and debt at 34.6%.",
+        "• From 2001 to 2003, GDP continued to grow, reaching approximately 21.954 billion US dollars (PPP) in 2002 and 23.251 billion US dollars (PPP) in 2003, with corresponding increases in GDP per capita and nominal values; unemployment remained steady at 31.1% during this period.",
+        "• Between 2004 and 2006, GDP rose from approximately 25.369 billion US dollars (PPP) to 29.714 billion US dollars (PPP), with GDP per capita increasing from 6,741 to 7,885 US dollars (PPP). Unemployment was stable at 31.1%, with debt decreasing from 25.5% to 21.2%.",
+        "• In 2007, GDP reached approximately 32.342 billion US dollars (PPP), with GDP per capita at 8,597 US dollars (PPP), and unemployment slightly increased to 32.4%. Debt decreased further to 18.7%.",
+        "• The 2008 economic data shows GDP at about 34.806 billion US dollars (PPP), GDP per capita at 9,271 US dollars (PPP), with unemployment at 34%, and debt at 30.9%.",
+        "• The 2009 recession is marked by a slight decline in GDP to approximately 34.743 billion US dollars (PPP), with GDP per capita at 9,299 US dollars (PPP), and a negative GDP growth of −0.8%. Unemployment increased to 35%, and debt rose to 35%.",
+        "• In 2010, GDP recovered slightly to 35.431 billion US dollars (PPP), with GDP per capita at 9,565 US dollars (PPP), and a modest GDP growth of 0.8%. Unemployment decreased to 34%, and debt increased to 40.8%.",
+        "• From 2011 to 2013, GDP growth continued, reaching approximately 36.495 billion US dollars (PPP) in 2011, 37.104 billion in 2012, and 38.975 billion in 2013, with corresponding increases in GDP per capita and nominal GDP. Unemployment decreased from 31% in 2012 to 31% in 2013, and debt remained around 42.2%.",
+        "• During 2014 and 2015, GDP increased to about 39.732 billion and 41.195 billion US dollars (PPP), respectively, with GDP per capita rising from 11,410 to 12,013 US dollars (PPP). Unemployment was around 32-35%, and debt slightly decreased from 45.9% to 45.5%.",
+        "• From 2016 onward, GDP growth accelerated, reaching approximately 44.253 billion US dollars (PPP) in 2016, 46.394 billion in 2017, and 50.333 billion in 2018, with GDP per capita increasing correspondingly. Unemployment decreased from 25.4% in 2016 to 19.4% in 2018, and debt decreased from 44.1% to 34.3%.",
+        "• In 2019, GDP was approximately 54.960 billion US dollars (PPP), with GDP per capita at 15,625 US dollars (PPP), unemployment at 15.7%, and debt at 32.5%.",
+        "• The COVID-19 pandemic in 2020 caused a GDP decline to about 54.012 billion US dollars (PPP), with GDP per capita at 15,231 US dollars (PPP), a significant negative GDP growth of −6.5%, unemployment rising to 19%, and debt increasing to 36.5%.",
+        "• Post-pandemic recovery is evident from 2021 onward, with GDP reaching approximately 60.180 billion US dollars (PPP), GDP per capita at 16,584 US dollars (PPP), and GDP growth at 5%. Unemployment decreased to 17.5%, and debt reduced to 34.5%.",
+        "• By 2022, GDP further increased to approximately 67.190 billion US dollars (PPP), with GDP per capita at 18,517 US dollars (PPP), and a GDP growth of 3.2%. Unemployment fell to 15.7%, and debt decreased to 29.7%.",
+        "• In 2023, GDP reached approximately 70.780 billion US dollars (PPP), with GDP per capita at 19,633 US dollars (PPP), and a 4% growth rate. Unemployment was 13.1%, and debt stood at 28.6%.",
+        "• Projections for 2024 show GDP at approximately 74.280 billion US dollars (PPP), with GDP per capita at 20,622 US dollars (PPP), and a 3% growth rate. Unemployment is estimated at 11.7%, with debt at 28.1%.",
+        "• The forecast for 2025 indicates GDP will be approximately 77.897 billion US dollars (PPP), with GDP per capita at 22,610 US dollars (PPP), and a 3% growth rate. Unemployment is expected to be 11.7%, and debt at 25.4%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:47:36.819473",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2",
+      "section_name": "Present",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During 2006, Bosnia and Herzegovina's exports contributed significantly to its economic profile, though specific export values for that year are not detailed in the provided content.",
+        "• The overall foreign direct investment (FDI) in Bosnia and Herzegovina from 1999 to 2011 showed fluctuating trends, with the following annual figures:",
+        "• In 2022, FDI reached €730 million, indicating a resurgence compared to previous years.",
+        "• From 1994 to 2011, Bosnia and Herzegovina attracted a total of €6.4 billion in foreign investment.",
+        "• The leading countries investing in Bosnia and Herzegovina between 1994 and 2007 were:",
+        "• Foreign investments in Bosnia and Herzegovina from 1994 to 2007 were distributed across sectors as follows:",
+        "• An estimated 25.5% of Bosnia and Herzegovina's GDP is attributed to the grey economy, indicating a substantial informal economic sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:47:46.112843",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.0.1",
+      "section_name": "2017",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Bosnia and Herzegovina's exports increased by 17% compared to the previous year, totaling €5.65 billion.",
+        "• The total volume of foreign trade in 2017 reached €14.97 billion, representing a 14% increase over the previous year.",
+        "• Imports of goods in 2017 rose by 12%, amounting to €9.32 billion.",
+        "• The coverage of imports by exports improved by 3% from the previous year, reaching 61%.",
+        "• In 2017, Bosnia and Herzegovina primarily exported car seats, electricity, processed wood, aluminium, and furniture.",
+        "• The main imports in 2017 included crude oil, automobiles, motor oil, coal, and briquettes.",
+        "• The unemployment rate in 2017 was 20.5%.",
+        "• The Vienna Institute for International Economic Studies projected a decline in unemployment rates for subsequent years: 19.4% in 2018, 18.8% in 2019, and 18.3% in 2020.",
+        "• As of 31 December 2017, Bosnia and Herzegovina’s public debt was reduced by €389.97 million (over 6%) compared to 31 December 2016.",
+        "• The total public debt at the end of 2017 was €5.92 billion, constituting 35.6% of the country's GDP.",
+        "• By 31 December 2017, there were 32,292 registered companies in Bosnia and Herzegovina, with combined revenues of €33.572 billion in that year.",
+        "• The country received €397.35 million in foreign direct investment in 2017, accounting for 2.5% of GDP.",
+        "• In 2017, Bosnia and Herzegovina ranked 3rd worldwide in the number of new jobs created by foreign investment relative to its population.",
+        "• Tourist arrivals in 2017 totaled 1,307,319, marking a 13.7% increase from the previous year.",
+        "• Tourist overnight stays numbered 2,677,125, reflecting a 12.3% rise compared to the previous year.",
+        "• Approximately 71.5% of tourists visiting Bosnia and Herzegovina in 2017 were from foreign countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:47:53.616296",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.0.2",
+      "section_name": "2018",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Bosnia and Herzegovina exported goods valued at 11.9 billion KM (€6.07 billion), representing a 7.43% increase compared to the same period in 2017.",
+        "• During the same year, imports totaled 19.27 billion KM (€9.83 billion), marking a 5.47% rise from the previous year.",
+        "• The average price of new apartments sold in Bosnia and Herzegovina during the first six months of 2018 was 1,639 KM (€886.31) per square meter, reflecting a 3.5% increase from the previous year.",
+        "• As of June 30, 2018, the public debt of Bosnia and Herzegovina was approximately €6.04 billion, with external debt constituting 70.56% and internal debt making up 29.4% of the total public debt.",
+        "• The share of public debt in the country's gross domestic product (GDP) was 34.92% in 2018.",
+        "• In 2018, the country received 1,465,412 tourists, representing a 12.1% increase from the previous year, and these tourists generated 3,040,190 overnight hotel stays, a 13.5% rise.",
+        "• Of the tourists in 2018, 71.2% were from foreign countries.",
+        "• The total value of mergers and acquisitions in Bosnia and Herzegovina in 2018 amounted to €404.6 million.",
+        "• According to a survey by the Bosnia and Herzegovina Statistics Agency, 99.5% of enterprises used computers in their business operations, and 99.3% had internet connections in 2018.",
+        "• Bosnia and Herzegovina attracted €400.64 million (783.4 million KM), equivalent to 2.3% of GDP, in direct foreign investment in 2018.",
+        "• The Central Bank of Bosnia and Herzegovina reported a profit of 8,430,875 KM (€4,306,347) in 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:01.806218",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.0.3",
+      "section_name": "2019",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The World Bank estimated that Bosnia and Herzegovina's economy grew by 2.8% in 2019.",
+        "• Bosnia and Herzegovina was ranked 83rd on the Index of Economic Freedom for 2019, with an overall score of 61.9.",
+        "• This ranking represented an improvement from 91st place in 2018, indicating some progress in economic freedom.",
+        "• The country's economic freedom score of 61.9 is below the regional average but remains above the global average, categorizing Bosnia and Herzegovina as a \"moderately free\" economy.",
+        "• As of 31 January 2019, total deposits in Bosnian banks reached KM 21.9 billion (€11.20 billion), accounting for 61.15% of the country's nominal GDP.",
+        "• In the second quarter of 2019, the average price of newly sold apartments was 1,606 KM (€821.47) per square meter.",
+        "• During the first six months of 2019, Bosnia and Herzegovina's exports totaled 5.829 billion KM (€2.98 billion), representing a 0.1% decrease compared to the same period in 2018.",
+        "• In the same period, imports amounted to 9.779 billion KM (€5.00 billion), which is a 4.5% increase over the first six months of 2018.",
+        "• Tourist arrivals in Bosnia and Herzegovina for the first seven months of 2019 numbered 906,788, marking an 11.7% increase from the previous year.",
+        "• Foreign direct investment (FDI) in Bosnia and Herzegovina during the first six months of 2019 was KM 650.1 million (€332.34 million)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:09.491573",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.0.4",
+      "section_name": "2020–2022",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, the economy of Bosnia and Herzegovina contracted by approximately 4.7%, primarily due to the impacts of the COVID-19 pandemic.",
+        "• The contraction was associated with increased government expenditures aimed at mitigating the economic effects of the pandemic.",
+        "• Following the downturn in 2020, the economy experienced a recovery and rebounded in 2021.",
+        "• During the period from 2020 to 2022, employment rates in Bosnia and Herzegovina showed an upward trend, indicating improvements in the labor market.",
+        "• Despite overall employment growth, youth unemployment remained high in 2022, exceeding 33%, highlighting persistent challenges in youth employment opportunities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:12.249386",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.0.5",
+      "section_name": "2023",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 30 November 2023, Bosnia and Herzegovina had a total of 1.3 million registered motor vehicles."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:13.781413",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Sarajevo",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The ARIA shopping and business center in Sarajevo also serves as the headquarters of Al Jazeera Balkans.",
+        "• Sarajevo's industries encompass tobacco products, furniture manufacturing, hosiery, automobile production, and communication equipment.",
+        "• Prominent companies based in Sarajevo include BH Telecom, Bosnalijek (a pharmaceutical company), Energopetrol (a petroleum company), FlyBosnia (an airline), Sarajevo Tobacco Factory, and Sarajevska Pivara (Sarajevo Brewery).",
+        "• The city has a strong tourism sector, recognized by Lonely Planet in 2006 as one of the top 50 \"Best Cities in the World.\"",
+        "• Sarajevo's sports tourism leverages legacy facilities from the 1984 Winter Olympics, notably skiing facilities on nearby mountains such as Bjelašnica, Igman, Jahorina, Trebević, and Treskavica.",
+        "• The city’s 600-year history, influenced by both Western and Eastern empires, is a significant tourist attraction.",
+        "• Historically, Sarajevo has been an important trading hub during the Ottoman and Austria-Hungarian empires, attracting travelers for centuries.",
+        "• Currently, Sarajevo is among the fastest developing cities in the region, with notable modern constructions including the Bosmal City Center, ARIA Centar, and the Avaz Twist Tower, the latter being one of the tallest skyscrapers in the Balkans.",
+        "• A new highway connecting Sarajevo and Kakanj was completed between 2006 and 2011, facilitating transportation and economic growth.",
+        "• The city’s service sector is rapidly expanding due to population growth, increased tourism, and airport traffic, attracting new business investments.",
+        "• Sarajevo boasts one of the most advanced commercial infrastructures in Southeast Europe, with the Sarajevo City Center, completed in 2014, being one of the largest shopping centers in the region.",
+        "• The Airport Center Sarajevo, which will be directly connected to the new airport terminal, offers a wide variety of brands, products, and services.",
+        "• In 1981, Sarajevo's GDP per capita was 133% of the Yugoslav average.",
+        "• In 2011, Sarajevo's GDP was estimated at 16.76 billion US dollars, representing 37% of Bosnia and Herzegovina's total GDP, according to the Central Bank of Bosnia and Herzegovina."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:20.026390",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Mostar",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The construction of the largest trade center in Herzegovina, \"Brodomerkur,\" is a significant development in Mostar's economy.",
+        "• Mostar's economy is predominantly based on tourism, the aluminium and metal industries, banking services, and the telecommunication sector.",
+        "• The city hosts some of the largest corporations in Bosnia and Herzegovina, highlighting its economic importance.",
+        "• Along with Sarajevo, Mostar is the second-largest financial center in Bosnia and Herzegovina, with two out of the three largest banks in the country headquartered there.",
+        "• Bosnia and Herzegovina has three major national corporations providing electric, postal, and telecommunication services; these, along with banks and the aluminium factory, constitute a substantial portion of the city's overall economic activity.",
+        "• Aluminij is one of the most influential companies in Mostar, the region, and the country, playing a key role in the local economy.",
+        "• Aluminij generates an annual export value exceeding €150 million, reflecting its significant manufacturing capacity.",
+        "• The company's international partners include renowned global corporations such as Venture Coke Company L.L.C. (Venco-Conoco joint venture) from the US, Glencore International AG from Switzerland, Debis International Trading GmbH, Daimler-Chrysler, and VAW Aluminium Technologie GmbH from Germany, Hydro ASA from Norway, Fiat from Italy, and TLM-Šibenik from Croatia.",
+        "• Mostar area benefits economically from Aluminij, receiving approximately €40 million annually in income derived from the company's operations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:25.676594",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Prijedor",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prijedor is the sixth largest city in Bosnia and Herzegovina, recognized for its economic prosperity and diverse industrial, service, and educational sectors.",
+        "• Its geographical location near major European capitals—Zagreb, Belgrade, Budapest, and Vienna—has established it as a significant industrial and commercial hub at the national level.",
+        "• The city features a well-developed financial sector, with 11 international banks operating within its territory, alongside 5 microcredit organizations and a development foundation.",
+        "• Prijedor's strategic position and favorable climate contribute to its substantial economic potential and prospects for expansion within Bosnia and Herzegovina.",
+        "• The surrounding agricultural land, local raw mineral resources, and a growing highly educated population enable the city to produce both sophisticated industrial products and food and service industry outputs.",
+        "• The city hosts the Bosnian branch of ArcelorMittal Steel Company (formerly RMK Zenica), which employs approximately 3,000 workers; ArcelorMittal is a Luxembourg-based steel corporation with over 320,000 employees across more than 60 countries.",
+        "• Other notable companies include Ferrox a.d., specializing in the production of iron oxides-pigments for the chemical industry; BosnaMontaza AD., a leading steel manufacturer producing steel constructions, pipelines, reservoirs, technological equipment, cranes, and energy plants.",
+        "• The Croatian food company Kraš operates one of its largest facilities in Prijedor, producing confectionery products under the brands MIRA and Kraš.",
+        "• The brand \"Prijedorčanka\" is a prominent producer of Rakija, an alcoholic beverage, in Bosnia and Herzegovina.",
+        "• Prijedor also has a significant enterprise involved in the production of cellulose and paper for export.",
+        "• In 2022, the services sector was the most extensive in Bosnia and Herzegovina, with 39,707 registered companies, followed by retail trade with 12,060 companies and wholesale trade with 11,970 companies.",
+        "• The agricultural sector in Prijedor includes fruit growing, gardening, crop farming, mill and bakery industries, stock farming, processing industries, and a milk industry.",
+        "• Lake Saničani, located near Prijedor, is one of the largest commercial fish-farming lakes in southern Europe.",
+        "• The Prijedor municipality covers an area of 8,340.6 hectares, with 5,845 hectares privately owned and 2,495.6 hectares under state ownership.",
+        "• Agricultural land use includes 340.26 hectares of plowed fields and gardens, 23.86 hectares of orchards, and 5 hectares of vineyards, totaling 402.06 hectares of cultivated soil.",
+        "• The service sector in Prijedor is experiencing rapid growth, evidenced by the development of hotels, retail stores, roads, educational facilities, and shopping centers, positioning it as an expanding commercial hub within Bosnia and Herzegovina."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:33.097020",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Banja Luka",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Although Banja Luka was not directly affected by the Bosnian War in the early 1990s, its economy experienced significant setbacks during that period.",
+        "• For four years, the city fell behind global technological advancements, resulting in a stagnant economy.",
+        "• In recent years, the financial services sector in Banja Luka has gained increasing importance and prominence within the city’s economy.",
+        "• The Banja Luka Stock Exchange was established in 2002, marking a significant development in the city’s financial infrastructure.",
+        "• Since its inception, the stock exchange has seen substantial growth, with increases in the number of listed companies, trading volume, and investor participation.",
+        "• Notable companies listed on the Banja Luka Stock Exchange include Telekom Srpske, Rafinerija ulja Modriča, Banjalučka Pivara, and Vitaminka, all of which are traded regularly.",
+        "• The investor base has expanded beyond regional countries to include investment funds from the European Union, Norway, the United States, Japan, and China, alongside investors from Slovenia, Croatia, and Serbia.",
+        "• Several key financial regulatory bodies are headquartered in Banja Luka, including the Indirect Taxation Authority of Bosnia and Herzegovina, the Republika Srpska Securities Commission, and the RS Banking Agency.",
+        "• The city also hosts major financial institutions such as some of Bosnia’s largest banks, the Deposit Insurance Agency, and the Value-added Tax (VAT) Authority.",
+        "• The concentration of these financial institutions and regulators has established Banja Luka as a major financial centre within Bosnia and Herzegovina.",
+        "• In 1981, Banja Luka’s GDP per capita was 97% of the Yugoslav average, indicating its economic standing prior to the disintegration of Yugoslavia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:37.625583",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Bosnia and Herzegovina has historically been a heavy user of energy relative to the European Union (EU), with artificially low energy prices that create a disincentive for consumers and industries to implement energy-saving measures.",
+        "• The country relies heavily on lignite coal for power generation, making it one of the few nations still planning to expand its coal energy capacity as of 2021.",
+        "• In 2020, the total electricity production capacity in Bosnia and Herzegovina was 41.86 billion kWh, distributed across various energy sources:",
+        "• In 2020, the country's electricity consumption was 11.66 billion kWh, while total electricity production was 16.96 billion kWh, indicating a surplus that allowed for imports and exports.",
+        "• Bosnia and Herzegovina imported 3.27 billion kWh of electricity in 2020 and exported 7.32 billion kWh, reflecting a net export position.",
+        "• The country consumed 0.218 billion cubic meters of natural gas in 2020, with all of this consumption being through imports, as no domestic natural gas production is reported.",
+        "• CO₂ emissions from energy production and consumption in Bosnia and Herzegovina amounted to 20.95 million tons in 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:41.588280",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Renewable power",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The first wind farm in Bosnia and Herzegovina was constructed in 2018, marking the beginning of wind energy development in the country.",
+        "• The national 2030 energy plan aims to develop 1.5 gigawatts (GW) of solar power capacity, reflecting a significant investment in renewable energy sources.",
+        "• The same plan also targets the addition of 0.5 GW (500 megawatts) of wind power capacity by 2030, indicating a strategic focus on expanding wind energy infrastructure.",
+        "• As of 2021, Bosnia and Herzegovina had approximately 2,076 megawatts (MW) of installed hydropower capacity for plants larger than 10 MW, representing the country's substantial reliance on hydroelectric energy.",
+        "• In addition to large hydropower plants, the country had about 180 MW of small hydropower units, contributing to its renewable energy portfolio."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:44.731857",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Fossil fuels",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, electricity production in Bosnia and Herzegovina was primarily generated from five main lignite coal power plants, with a combined capacity of up to 2,065 MW.",
+        "• The Tuzla Thermal Power Plant was scheduled to close its Unit 4 in 2022; however, the government extended the operational life of this lignite coal generator.",
+        "• The Kakanj Power Station was also planned to shut down Unit 5 in 2022, as mandated by the 2006 Energy Community Treaty.",
+        "• Under the national 2030 energy plan, several coal power stations are slated for closure or conversion to biomass energy sources.",
+        "• The coal mines associated with these power plants include: Breza coal mine, Gacko coal mine, Kakanj coal mine, Kamengrad coal mine, Kongora coal mine, Stanari coal mine, Tušnica coal mine, Ugljevik coal mine, and Zenica coal mine."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:48.726549",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Stari Most in Mostar is recognized as a UNESCO World Heritage Site, highlighting its cultural and historical significance.",
+        "• The tourism sector in Bosnia and Herzegovina has been recovering, contributing positively to the overall economy through diverse activities such as winter skiing and summer countryside tourism.",
+        "• The country has been a top performer in tourism development in recent years, with tourist arrivals growing at an average rate of 24% annually from 1995 to 2000.",
+        "• In 2007, the European region experienced solid growth in tourist arrivals (+7%), largely driven by strong performances in Southern and Mediterranean Europe; Bosnia and Herzegovina was among the leading countries with a growth rate of 20%.",
+        "• In 2012, Bosnia and Herzegovina hosted 747,827 tourists, representing a 9% increase from the previous year, and recorded 1,645,521 overnight stays, which was a 9.4% increase from 2012.",
+        "• Of the total tourists in 2012, 58.6% were from foreign countries, indicating a significant international tourism influx.",
+        "• The World Tourism Organization estimates that Bosnia and Herzegovina will have the third highest tourism growth rate globally between 1995 and 2020.",
+        "• The diaspora population plays a notable role in tourism, frequently returning during summer months, thereby boosting retail sales and the food service industry.",
+        "• In 2017, the country saw 1,307,319 tourists, marking a 13.7% increase from the previous year, and recorded 2,677,125 overnight hotel stays, a 12.3% rise from 2016.",
+        "• In 2017, 71.5% of tourists visiting Bosnia and Herzegovina were from foreign countries, emphasizing the country's appeal to international visitors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:48:54.454088",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "5",
+      "section_name": "Challenges of doing business",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Business regulations in Bosnia and Herzegovina are comparable in strictness to those in most Central European countries, yet numerous problems persist that hinder economic development.",
+        "• The country faces a high post-war unemployment rate of 16.85%, which remains elevated, contributing to slow economic progress.",
+        "• The business environment is characterized by complicated bureaucracy, complex procedures, and frequent misconduct by public officers during audits and regulation enforcement, leading to volatility and insecurity for businesses.",
+        "• These bureaucratic challenges are considered a major obstacle to attracting foreign investment, particularly into the country's industrial and manufacturing sectors.",
+        "• The workforce in Bosnia and Herzegovina is relatively inexpensive, with an average net salary of €580 and an average gross salary of €891 as of June 2022.",
+        "• The workforce is well-skilled, especially in sectors that were prominent in the pre-war economy.",
+        "• Despite the skilled workforce, issues such as slow technological obsolescence, workforce exodus, high unemployment, and prolonged periods outside the labor market for unemployed individuals hinder economic efficiency.",
+        "• There is a need for foreign-owned businesses to invest in industrial sectors where Bosnia and Herzegovina could be competitive, given the current economic and labor market conditions.",
+        "• The country lacks a robust e-governance infrastructure and effective methods to enforce administrative accountability, both of which are essential for creating a more conducive business climate.",
+        "• Company registration in Bosnia and Herzegovina takes between 3 to 5 weeks; in some sectors, obtaining all necessary permits can still take months due to administrative inefficiencies.",
+        "• Many administrative procedures related to business operations are convoluted and time-consuming, further complicating business development and investment.",
+        "• Political corruption remains a significant issue, exacerbating inefficiencies within the administrative system and undermining effective allocation of tax revenues.",
+        "• The large and inefficient administrative apparatus hampers the proper expenditure of tax money, affecting the provision of public services and economic support.",
+        "• Bosnia and Herzegovina is preparing for a future with declining international assistance, making economic revitalization a top priority to generate jobs and income.",
+        "• Following the 2014 riots, both governmental administrations initiated reforms aimed at addressing economic issues, but progress has been slow and fragile, according to both local populations and economic analysts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:49:01.517714",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "6",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Bosnian government has issued an international tender for the construction of the 350 km long Pan-European Corridor Vc in Bosnia and Herzegovina, which will pass along the route Budapest-Osijek-Sarajevo-Ploče.",
+        "• The highway along Corridor Vc is the most significant roadway in Bosnia and Herzegovina and serves as the shortest communication route between Central Europe and the Southern Adriatic.",
+        "• The route of the corridor passes through the central part of Bosnia and Herzegovina in a north–south direction, from Donji Svilaj to the border of Bosnia and Herzegovina, north of the Croatian port of Ploče, following the rivers Bosna and Neretva.",
+        "• More than 50% of Bosnia and Herzegovina’s total population and economic activity are located within the zone of influence along this corridor route.",
+        "• As of August 2018, 200 km of the motorway along Corridor Vc had been completed.",
+        "• The construction and development of infrastructure are driven by the corridor’s importance as a major transportation link in the region.",
+        "• The Sarajevo International Airport has experienced an annual passenger growth rate of nearly 10%.",
+        "• In Fall 2012, plans were initiated to extend the passenger terminal of Sarajevo International Airport, including upgrading and expanding the taxiway and apron.",
+        "• The expansion of the existing terminal will add 7,000 square metres of space.",
+        "• The upgraded airport will be directly connected to the Sarajevo Airport Center, a commercial retail center, facilitating last-minute shopping for tourists and travelers before their flights."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:49:07.167898",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "7",
+      "section_name": "International rankings",
+      "chapter_name": "Economy of Bosnia and Herzegovina",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Bosnia and Herzegovina ranked 74th in the Human Development Index (HDI) based on 2021 data, which assesses overall human development levels globally.",
+        "• In the inequality-adjusted Human Development Index (IHDI) for 2021, Bosnia and Herzegovina was positioned at 60th place, reflecting disparities in human development.",
+        "• The country ranked 97th in the Democracy Index in 2022, indicating its relative standing in democratic governance and political freedoms.",
+        "• In the Henley Passport Index of 2023, Bosnia and Herzegovina held the 48th position, denoting its citizens' travel freedom and visa-free access to various countries.",
+        "• Bosnia and Herzegovina was ranked 81st in the Human Capital Index in 2020, measuring the potential of its population to contribute to economic productivity through education and health.",
+        "• The country was placed 88th in the Quality of Nationality Index in 2018, which evaluates the overall quality and desirability of nationalities based on factors like quality of life, economic strength, and political stability.",
+        "• In the Legatum Prosperity Index of 2023, Bosnia and Herzegovina ranked 72nd, assessing overall prosperity through economic quality, business environment, governance, education, health, safety, and personal freedom.",
+        "• Bosnia and Herzegovina was positioned 63rd in the Social Progress Index in 2022, measuring the extent to which countries provide for the social and environmental needs of their citizens.",
+        "• The country ranked 90th in the Ease of Doing Business index in 2020, indicating the relative ease for entrepreneurs to start and operate businesses.",
+        "• In the Economic Complexity Index of 2021, Bosnia and Herzegovina was ranked 39th, reflecting the diversity and sophistication of its export structure and productive capabilities.",
+        "• Bosnia and Herzegovina held the 92nd position in the Global Competitiveness Report in 2019, assessing the competitiveness of its economy based on factors like infrastructure, macroeconomic stability, and innovation capability.",
+        "• In the Index of Economic Freedom of 2023, Bosnia and Herzegovina was ranked 68th, evaluating economic policies that promote economic freedom, including trade, investment, and property rights.",
+        "• The country was placed 61st in the Global Peace Index of 2023, measuring the level of peace and safety within Bosnia and Herzegovina.",
+        "• Bosnia and Herzegovina ranked 110th in the Corruption Perceptions Index in 2022, indicating a relatively high perception of corruption within the country’s public sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T18:49:13.909155",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_bosnia_and_herzegovina.json",
+      "original_index": 19
+    }
+  ]
+}

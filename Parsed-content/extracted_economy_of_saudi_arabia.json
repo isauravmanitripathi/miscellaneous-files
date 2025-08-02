@@ -1,0 +1,683 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_saudi_arabia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.831870",
+    "total_sections_in_source": 26,
+    "extracted_sections_count": 26,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Saudi Arabia is predominantly dependent on its petroleum sector, with oil contributing approximately 30% of the country's Gross Domestic Product (GDP) and accounting for 55% of government revenue, subject to significant annual fluctuations based on oil price changes.",
+        "• Saudi Arabia possesses the second-largest proven petroleum reserves globally and holds the fourth-largest measured natural gas reserves, underscoring its substantial hydrocarbon wealth.",
+        "• The kingdom is recognized as the largest exporter of petroleum worldwide, emphasizing its critical role in the global energy market.",
+        "• Key economic activities beyond crude oil extraction include refining and chemical manufacturing derived from oil reserves, much of which is vertically integrated within the state-owned enterprise Saudi Aramco.",
+        "• Saudi Arabia is both a permanent and founding member of the Organization of the Petroleum Exporting Countries (OPEC), reflecting its influential position in global oil policy and production.",
+        "• In 2016, the Saudi government initiated the Saudi Vision 2030 program aimed at reducing the nation’s economic reliance on oil and diversifying its economic base across various sectors.",
+        "• By the year 2022, despite the Vision 2030 efforts, Saudi Arabia had only achieved modest reductions in its dependence on oil revenues.",
+        "• The country’s monetary policy is anchored by a fixed exchange rate system, with the Saudi Riyal pegged to the U.S. Dollar, providing currency stability.",
+        "• Nearly all major businesses operating within Saudi Arabia maintain extensive connections to the Saudi state, indicating a significant level of government involvement in the private sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:58.983584",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic overview",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saudi Arabia possesses the second largest oil reserves globally, following the Brazilian–Venezuelan oil reserves, and ranks as the world's leading oil exporter and second-largest oil producer.",
+        "• According to Saudi government figures, proven oil reserves are estimated at 260 billion barrels (41 km³), representing approximately one-quarter of the world's total oil reserves.",
+        "• Saudi petroleum reserves are not only abundant but are also situated under pressure close to the earth's surface, which reduces extraction costs and increases profitability compared to other regions.",
+        "• The petroleum sector contributes about 87% of Saudi Arabia's budget revenues, 90% of its export earnings, and 42% of its Gross Domestic Product (GDP).",
+        "• Saudi Aramco, a state-owned corporation, largely manages the country's oil reserves and production.",
+        "• The private sector accounts for an estimated 40% of Saudi Arabia's GDP.",
+        "• As of 2013, approximately 7.5 million foreigners legally work in Saudi Arabia, playing a vital role in the development of the Saudi economy, particularly in the oil and service sectors.",
+        "• The Saudi government has actively promoted private sector growth to reduce economic dependence on oil and to expand employment opportunities for the increasing Saudi population.",
+        "• In recent decades, the government has permitted private sector activities and foreign investment in specific sectors such as power generation and telecommunications, and Saudi Arabia has joined the World Trade Organization.",
+        "• Throughout much of the 2000s, high oil prices enabled the Saudi government to run budget surpluses and increase spending on job training, education, infrastructure development, and government salaries.",
+        "• The Saudi economy, characterized by its absolute monarchy, extensive state sector, and welfare benefits, has been described as a complex blend of a feudal fealty system and modern political patronage, where social and bureaucratic interactions are heavily influenced by personal privileges, favors, obligations, and connections.",
+        "• The government bureaucracy is noted for its overlapping and sometimes conflicting power centers, each under the patronage of various royal princes with distinct priorities, agendas, and dependents.",
+        "• Economic indicators from 1980 to 2021, with IMF staff estimates for 2022–2027, reveal fluctuations in GDP, GDP per capita, inflation, unemployment, and government debt, with inflation rates under 5% highlighted in green.",
+        "• In 1980, Saudi Arabia's GDP (PPP) was 418.1 billion Int$, with a GDP per capita of 44,859.5 Int$, nominal GDP of 164.5 billion US$, and nominal GDP per capita of 17,655.1 US$, alongside a real GDP growth of 5.7% and inflation of 4.4%.",
+        "• The 1980s saw significant GDP contractions, such as -20.7% in 1982 and -16.1% in 1983, with inflation rates ranging from -3.1% to 4.4%.",
+        "• From 1990 onwards, GDP and GDP per capita generally increased, with real GDP growth rates fluctuating, including a peak of 15.2% in 1990 and a low of -3.8% in 1999.",
+        "• Government debt as a percentage of GDP rose from 39.4% in 1991 to a peak of 103.0% in 1999, then gradually declined to 5.4% by 2011.",
+        "• Inflation rates remained mostly low or negative during the 1990s and early 2000s, with occasional increases such as 5.1% in 1995 and 6.1% in 2008.",
+        "• Unemployment rates were recorded at 4.3% in 1999, increasing to 7.4% in 2020, with fluctuations in between.",
+        "• Saudi Arabia experienced robust GDP growth in the 2000s, including 11.2% in 2003, 10.0% in 2011, and 7.6% in 2022 (IMF estimate).",
+        "• By 2014, GDP (PPP) reached 1,722.9 billion Int$, with a GDP per capita of 56,785.5 Int$, nominal GDP of 756.4 billion US$, and nominal GDP per capita of 24,929.3 US$, with 3.7% real growth and 2.2% inflation.",
+        "• The economy contracted in 2015 and 2016 with real GDP growth of 4.1% and 1.7% respectively, and inflation rates of 1.2% and 2.1%.",
+        "• From 2017 to 2021, GDP growth rates varied between -0.7% and 3.2%, with inflation rates generally around 2-3%, government debt fluctuating between 5.4% and 30.0% of GDP, and unemployment rates around 5.5% to 6.7%.",
+        "• IMF staff estimates forecast continued GDP growth from 2022 to 2027, with GDP (PPP) rising from 2,018.3 billion Int$ in 2022 to 2,629.4 billion Int$ in 2027, and GDP per capita increasing from 55,802.3 Int$ to 65,847.1 Int$ over the same period.",
+        "• Nominal GDP is projected to increase from 1,010.6 billion US$ in 2022 to 1,116.1 billion US$ in 2027, with nominal GDP per capita rising from 27,941.5 US$ to 27,950.0 US$.",
+        "• Real GDP growth is forecasted to remain positive, ranging from 2.9% to 3.0% annually between 2023 and 2027, while inflation rates are expected to stabilize around 2.0%.",
+        "• Government debt as a percentage of GDP is projected to decline steadily from 24.8% in 2022 to 22.4% in 2027, with unemployment data not available for these forecast years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:23.252961",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "History",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On March 4, 1938, Dammam No. 7 became the first well in Saudi Arabia to strike oil in commercial quantities, marking the kingdom's transition from a subsistence economy to an oil-based economy.",
+        "• In 1933, the Saudi government signed an oil concession agreement with the Standard Oil Company of California, leading to the discovery of commercial oil volumes five years later in 1938.",
+        "• The development of Saudi oil fields was primarily managed by the Arabian American Oil Company (Aramco), a partnership between Texaco and Chevron.",
+        "• In 1951, Aramco established the first offshore oil field in the Middle East at the Raʾs Al-Saffāniyyah area.",
+        "• By 1949, Saudi oil production reached 500,000 barrels per day (bpd) and increased rapidly to 1 million bpd by 1954.",
+        "• Also in 1951, Aramco began operating the Trans-Arabian Pipeline, which transported oil from eastern Saudi Arabia to the Mediterranean Sea via Jordan, Syria, and Lebanon.",
+        "• The Trans-Arabian Pipeline ceased operation in 1981, replaced by a new pipeline linking Jubail on the Persian Gulf to Yanbu on the Red Sea, significantly accelerating oil transport.",
+        "• Saudi Arabia was a founding member of the Organization of the Petroleum Exporting Countries (OPEC), established in 1960.",
+        "• During the 1973 oil crisis, oil prices surged from $3 to nearly $12 per barrel, causing Saudi Arabia’s GDP to grow from approximately $15 billion in 1973 to nearly $184 billion by 1981.",
+        "• The Saudi government gradually acquired Aramco’s assets, culminating in the nationalization of the company in 1980.",
+        "• In 1988, Saudi Aramco was established to assume the responsibilities of the former Aramco company.",
+        "• Oil prices peaked in 1980 at about $36 per barrel, but demand declined due to recessions in industrialized countries and improved energy efficiency, leading to a global oil glut.",
+        "• By 1986, oil prices had fallen to approximately $14 per barrel, and Saudi oil production dropped from nearly 10 million bpd in 1980–81 to about 2 million bpd in 1985, an 80% reduction.",
+        "• The Saudi government faced budget deficits during this period and drew down foreign assets to manage the economic impact.",
+        "• Starting in 1985, Saudi Arabia enforced OPEC production quotas more strictly to address the oil glut and declining production pressures.",
+        "• In June 1993, Saudi Aramco absorbed the state marketing and refining company SAMAREC, becoming the world’s largest fully integrated oil company.",
+        "• The majority of Saudi oil exports are shipped via tankers from oil terminals at Ras Tanura and Ju'aymah on the Persian Gulf.",
+        "• During the 1990s, Saudi Arabia experienced a significant contraction in oil revenues coupled with high population growth, causing per capita income to fall from $11,700 in 1981 to $6,300 in 1998.",
+        "• Adjusted for real oil price changes, Saudi Arabia’s real command-basis GDP was estimated at 330.381 billion 1999 USD in 2010.",
+        "• Rising oil prices in the early 2000s increased per capita GDP to $17,000 in 2007 dollars (approximately $7,400 adjusted for inflation), though it declined following the mid-2014 oil price drop.",
+        "• Beginning in late 1997, Saudi Arabia faced low oil prices due to factors including the East Asian economic crisis, a warm winter in the West caused by El Niño, and increased non-OPEC oil production, which reduced demand and lowered prices by over one-third.",
+        "• Saudi Arabia played a key role in the successful 1999 OPEC-led campaign to raise oil prices to their highest level since the Gulf War by managing petroleum supply and production.",
+        "• In 1999, Saudi Arabia established the Supreme Economic Council to better coordinate economic development policies and accelerate institutional and industrial reforms.",
+        "• After prolonged negotiations, Saudi Arabia joined the World Trade Organization (WTO) in 2005."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:09.356833",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to 2000, Saudi Arabia imposed strict restrictions on foreign direct investment (FDI), governed by the 1979 Foreign Investment Act which prohibited foreign ownership in certain economic sectors, allowed foreign investment only if the investor qualified for a license based on expertise, and prioritized businesses that were Saudi-owned or partially Saudi-owned.",
+        "• In the mid-1990s, Saudi Arabia relaxed foreign ownership regulations, actively seeking investment in sectors such as telecommunications, utilities, and financial services.",
+        "• The 2000 Foreign Direct Investment Act introduced significant reforms, permitting projects to be operated by companies that were 100% foreign-owned for the first time in Saudi Arabia.",
+        "• According to the United Nations Conference on Trade and Development (UNCTAD) June 2018 report, Saudi Arabia’s foreign direct investment amounted to only $1.4 billion in 2017, a sharp decline from $7.5 billion in 2016 and a peak of $12.2 billion in 2012.",
+        "• The decline in FDI was attributed to negative intra-company loans by foreign multinational corporations and various divestments.",
+        "• In the first quarter of 2018, Saudi Arabia experienced net capital outflows at approximately 5% of GDP, compared to less than 2% of GDP in late 2016.",
+        "• Contrarily, Trading Economics reported that foreign direct investment increased by $882 million in the second quarter of 2018.",
+        "• Data from the Saudi Arabian General Investment Authority (SAGIA) indicated a 130% increase in licenses granted to foreign investors in the first quarter of 2018, attributed to economic reforms.",
+        "• Facing declining oil revenues in the late 2010s, Saudi Arabia’s international debt surged; in December 2018, the kingdom announced plans to issue bonds worth approximately 120 billion riyals ($32 billion) to cover a 4.2% GDP deficit totaling 131 billion riyals.",
+        "• In January 2019, Saudi Arabia sold bonds worth $7.5 billion, contributing to a total issuance of $60 billion in bonds over nearly two and a half years, making Saudi Arabia one of the largest global borrowers.",
+        "• In September 2018, the Public Investment Fund (PIF) secured an $11 billion loan from a consortium of global lenders, exceeding initial expectations; this marked the PIF’s first incorporation of loans and debt instruments into its funding strategy.",
+        "• Fitch Ratings data revealed that from May 2016 over a two-year period, Saudi Arabia transitioned from zero debt to raising $68 billion through dollar-denominated bonds and syndicated loans, representing one of the fastest debt accumulation rates among emerging economies.",
+        "• Foreign investment activity surged in the first quarter of 2019, with the number of new licenses approved for foreign businesses increasing by 70% compared to 2018.",
+        "• The increase in foreign business licenses in early 2019 was primarily driven by British and Chinese companies.",
+        "• Foreign direct investment in Saudi Arabia rose by 28% in the first quarter of 2019 relative to the previous year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:13.419948",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Diversification and the development plans",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1970, all Saudi government five-year plans have aimed to diversify the economy beyond oil, but these efforts have achieved only marginal success.",
+        "• The Saudi government has sought to allocate petroleum income to transform the oil-based economy into a modern industrial state while preserving traditional Islamic values and customs.",
+        "• Although not all economic goals have been met, the Saudi economy has progressed rapidly, with oil wealth significantly increasing the standard of living for most Saudis.",
+        "• Rapid population growth has strained the government's capacity to finance further improvements in living standards.",
+        "• Despite diversification efforts, heavy dependence on petroleum revenue persists, though industry and agriculture now constitute a larger share of economic activity.",
+        "• A key obstacle to diversification is the mismatch between Saudi graduates' job skills and private sector market needs; approximately 4.6 million non-Saudis are employed in the Saudi economy.",
+        "• Economic diversification began in the 1970s during Saudi Arabia’s first five-year development plan, focusing on developing basic petrochemical industries using petroleum byproducts.",
+        "• The fishing villages of al-Jubail on the Persian Gulf and Yanbu on the Red Sea were developed as industrial centers, but their impact on the overall economy has been limited.",
+        "• The first two development plans in the 1970s prioritized infrastructure, resulting in tripling paved highway length, a 28-fold increase in power generation, and a tenfold expansion of seaport capacity.",
+        "• The third development plan (1980–85) shifted focus from infrastructure to education, health, and social services; however, diversification and expansion of productive sectors did not increase as planned.",
+        "• The industrial cities of Jubail and Yanbu, centered on steel, petrochemicals, fertilizer, and refined oil products production, were largely completed during the third plan.",
+        "• The fourth plan (1985–90) considered basic infrastructure largely complete but emphasized education and training, encouraged private enterprise, and welcomed foreign investment through joint ventures.",
+        "• By 1987, the private sector accounted for 70% of non-oil GDP, with increased private investment in industry, agriculture, banking, and construction, supported by government financing and incentives.",
+        "• The government aimed for private sector ownership of 70% to 90% in most joint ventures during the fourth plan.",
+        "• The fifth plan (1990–95) emphasized consolidating national defense, improving government social services, regional development, and creating more private-sector employment for Saudis by reducing foreign workers.",
+        "• The sixth plan (1996–2000) focused on lowering government service costs without cuts, expanding educational training, diversifying economic activity away from petroleum, especially in industry and agriculture, and continuing efforts to \"Saudize\" the labor force.",
+        "• The seventh plan (2000–2004) prioritized economic diversification and increasing the private sector’s role, targeting an average annual GDP growth of 3.16%, with 5.04% growth in the private sector and 4.01% in the non-oil sector.",
+        "• The government set a goal of creating 817,300 new jobs for Saudi nationals during the 2000–2004 period.",
+        "• By 2007, advertising expenditures in Saudi Arabia reached new peaks, driven by emphasis on value-added manufacturing.",
+        "• In 2016, the main foreign investors in Saudi Arabia were the United States, United Arab Emirates, France, Singapore, Kuwait, and Malaysia, investing primarily in chemical industry, real estate, tourism, fossil fuels, automobiles, and machinery.",
+        "• As part of diversification efforts, Saudi Arabia arranged major refinery contracts with Chinese and other international companies.",
+        "• Saudi Arabia joined the World Trade Organization (WTO) in 2005, which improved the foreign investment environment due to the kingdom’s stable economy, vast oil reserves, high spending power, developed infrastructure, and strong financial and banking systems.",
+        "• Following WTO accession, Saudi Arabia developed trade-related policies and legislation and has actively encouraged foreign investment under Saudi Vision 2030 to promote economic diversification.",
+        "• Since 2017, Crown Prince Mohammed bin Salman has implemented reforms to boost the economy and reduce oil dependency, including raising gasoline and electricity prices, imposing new taxes, and prioritizing Saudi workers over foreign labor.",
+        "• Some government officials and Saudi businessmen reported negative economic effects from these policies, including a decline in sales in 2018, with some blaming the government.",
+        "• In 2019, the Financial Times reported that plans to float Saudi Aramco were stalled due to tensions between the company’s attachment to the oil ministry and the desire to meet international standards.",
+        "• Energy Minister Khalid Al Falih maintained that Aramco’s association with the state represents a \"win-win policy\" for both the company and the government.",
+        "• Saudi Arabia planned to launch six \"economic cities,\" including King Abdullah Economic City, to diversify the economy and create jobs, with a total construction cost of $60 billion (2013) and expected economic contribution of $150 billion.",
+        "• These economic cities failed to attract the anticipated population and financial investment.",
+        "• The privatization program under Saudi Vision 2030 is behind schedule; oil prices have doubled since the program’s consideration began in 2015.",
+        "• Delays in Aramco’s initial public offering further indicate a lack of urgency in privatization, despite the International Monetary Fund urging acceleration of the process in July 2018.",
+        "• Reports indicate the Saudi government is interested in granting greater freedoms to foreign investors, including allowing 100% foreign ownership in wholesale and retail sectors under certain conditions.",
+        "• The Saudi Ministry of Commerce and Investment projected an increase in GDP per capita from US$20,700 to $33,500 by 2020; however, by 2020, GDP per capita stagnated at approximately US$20,000."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:11.273039",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 33
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Employment",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2008, approximately two-thirds of workers employed in Saudi Arabia were foreigners, with the proportion rising to about 90% in the private sector.",
+        "• In January 2014, the Saudi government claimed to have reduced the 90% foreign worker rate in the private sector by doubling the number of Saudi citizens employed there to 1.5 million, compared to 10 million foreign expatriates working in the kingdom.",
+        "• According to Reuters, economists estimate that only 30–40% of working-age Saudis hold jobs or actively seek employment, despite the official unemployment rate being around 12%.",
+        "• The majority of employed Saudis work in government positions, but the International Monetary Fund (IMF) has warned that the government cannot sustain such a large public payroll over the long term.",
+        "• Since 2000, the Saudi government has implemented multiple plans aimed at \"Saudization\" of the economy to address the imbalance between foreign workers and unemployment; however, both the foreign workforce and unemployment rates have continued to increase.",
+        "• Beginning in 2017, Saudi Arabia experienced record numbers of foreign workers leaving the country, with over 677,000 expatriates departing due to the government imposing higher fees on foreign workers.",
+        "• Despite the exodus of foreign workers, the unemployment rate in Saudi Arabia rose to 12.9%, marking the highest level on record.",
+        "• Annually, about 250,000 young Saudis enter the job market, intensifying the demand for employment opportunities.",
+        "• With the initial phase of Saudization implemented, it is expected that 70% of sales jobs will be filled by Saudi nationals; however, the private sector remains predominantly staffed by foreigners.",
+        "• The local unemployment rate of 12.9% is the highest in more than a decade, reflecting ongoing challenges in the labor market.",
+        "• A 2018 Bloomberg Economics report indicated that the Saudi government needs to create 700,000 jobs by 2020 to achieve its target unemployment rate of 9%.",
+        "• Social resistance presents a significant obstacle to employment, as jobs in service and sales sectors are widely regarded as unacceptable by both potential Saudi employees and customers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:00.313652",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4",
+      "section_name": "Non-petroleum resources sector",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saudi Arabia possesses natural resources beyond petroleum, including small mineral deposits of gold, silver, iron, copper, zinc, manganese, tungsten, lead, sulfur, phosphate, soapstone, and feldspar.",
+        "• The agricultural sector in Saudi Arabia is relatively small and is primarily concentrated in the southwestern region of the country, where the annual rainfall averages approximately 400 millimeters (16 inches).",
+        "• Saudi Arabia is recognized as one of the world’s largest producers of dates, highlighting the significance of this crop within its agricultural output.",
+        "• Prior to 2009, wheat cultivation in Saudi Arabia was sustained through irrigation using desalinated water; however, this practice was phased out by 2016 due to the high costs associated with water usage.",
+        "• As of 2009, the livestock population in Saudi Arabia consisted of approximately 7.4 million sheep, 4.2 million goats, 500,000 camels, and 250,000 cattle, indicating a substantial livestock sector.",
+        "• The annual Hajj pilgrimage, which attracts roughly two million pilgrims, creates approximately 40,000 temporary jobs in various service roles such as butchers, barbers, and coach drivers, thereby employing more people than the oil industry in this temporary capacity.",
+        "• The economic activity generated by the Hajj pilgrimage contributes between US$2 billion and US$3 billion in revenue to the Saudi economy.",
+        "• In 2008, Saudi Arabia launched the \"Initiative for Saudi Agricultural Investment Abroad,\" which resulted in extensive billion-dollar acquisitions of large tracts of agricultural land in countries including Ethiopia, Indonesia, Mali, Senegal, and Sudan.",
+        "• These overseas land purchases by Saudi Arabia have been criticized as \"land-grabbing\" and have, in some cases, provoked public uproars and controversies in the host countries.",
+        "• Other industrializing nations facing food security challenges and seeking agricultural land abroad include China, South Korea, India, and Persian Gulf States such as Kuwait, Qatar, and the United Arab Emirates, indicating a competitive international context for agricultural land acquisition."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:06.664078",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "5",
+      "section_name": "Automotive",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2010, the KSU Gazal-1, an SUV developed and built by students at King Saud University, became the first mass-produced vehicle to be manufactured domestically within Saudi Arabia.",
+        "• In 2022, the American electric vehicle manufacturer Lucid Motors announced plans to establish an electric vehicle production plant in the city of Jeddah, Saudi Arabia.",
+        "• Construction of the Lucid Motors manufacturing plant in Jeddah commenced in May 2022, with the facility designed to have an annual production capacity of 150,000 vehicles.",
+        "• Toyota is the leading automotive brand in Saudi Arabia, accounting for 30% of all car sales in the country.",
+        "• The combined market share of Kia and Hyundai in Saudi Arabia is 26%, making them the second most popular automotive brands after Toyota.",
+        "• The Renault, Nissan, and Mitsubishi alliance collectively holds 9% of the Saudi Arabian car sales market.",
+        "• The remaining market share in Saudi Arabia’s automotive sector is occupied by the American Big Three automakers: Ford, General Motors (GM), and Chrysler.",
+        "• In terms of vehicle units sold during the first half of 2023, Toyota led the Saudi Arabian market with 112,584 units sold.",
+        "• Hyundai ranked second in vehicle sales volume in Saudi Arabia for the first half of 2023, with 47,218 units sold under its badge."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:07.074132",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "6",
+      "section_name": "Private sector",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saudi Arabia's private sector is predominantly controlled by a limited number of large enterprises primarily operating within the service sector, especially in construction and real estate; notable companies include Olayan, Zamil, Almarai, Mobily, STC, SABIC, Sadara, Halliburton, Baker Hughes, Flynas, Hilton, Zain, Yanbu Cement, Alhokair, MBC, Mahfouz, Al Rajhi, and Alfanar.",
+        "• These major private sector firms are heavily reliant on government expenditure, which in turn depends significantly on revenues generated from oil.",
+        "• Between 2003 and 2013, Saudi Arabia undertook privatization of several key services including municipal water supply, electricity, telecommunications, as well as segments of education, health care, traffic control, and car accident reporting.",
+        "• Despite privatization efforts, Arab News columnist Abdel Aziz Aluwaisheg reported that consumers have expressed serious concerns regarding the performance of these privatized entities across nearly all these sectors.",
+        "• The food service industry in Saudi Arabia, which was relatively minor until experiencing rapid growth in the 1980s, is currently valued at approximately $13 billion.",
+        "• In July 2019, the Saudi Cabinet approved a decision aimed at enhancing support for the private sector and entrepreneurs by allowing businesses the option to operate 24 hours a day.",
+        "• By 2023, the average monthly salary for Saudi nationals employed in the private sector had increased to SR9600, marking a 45% rise from SR6600 in 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:12.193250",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "7",
+      "section_name": "Regional GDP",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The regional GDP data for Saudi Arabia is based on the year 2022, with figures calculated by dividing the total GDP by the provided percentage for each region.",
+        "• The Eastern Province ranks first in GDP contribution, with a GDP of 243.793 billion US dollars, accounting for 22% of the total GDP of Saudi Arabia.",
+        "• The Riyadh Province is tied for first place with the Eastern Province, also contributing a GDP of 243.793 billion US dollars, representing 22% of the national GDP.",
+        "• The Mecca Province holds the third position in GDP contribution, with a GDP valued at 144.059 billion US dollars, which constitutes 13% of the total GDP.",
+        "• The combined GDP of the rest of the provinces, excluding Eastern, Riyadh, and Mecca, amounts to 476.504 billion US dollars, making up 43% of Saudi Arabia’s total GDP.",
+        "• The total GDP of Saudi Arabia in 2022 is reported as 1,108.149 billion US dollars, representing 100% of the national economic output."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:09.224641",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "8",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In April 2000, the Saudi Arabian government established the Saudi Arabian General Investment Authority (SAGIA) to promote and encourage foreign direct investment (FDI) within the kingdom.",
+        "• Saudi Arabia maintains a negative list specifying sectors where foreign investment is prohibited, but the government planned gradual liberalization by opening previously closed sectors such as telecommunications, insurance, and power transmission/distribution.",
+        "• Saudi Arabia became a full member of the World Trade Organization (WTO) on 11 December 2005, marking a significant step in integrating its economy into the global trading system.",
+        "• In 2019, the Saudi government established the General Authority for Foreign Trade with the objective of enhancing the kingdom’s international commercial and investment activities.",
+        "• In early July 2020, Saudi Arabia nominated Mohammad Al-Tuwaijri, former Minister of Economy and adviser to the Saudi royal court, for the position of WTO director-general.",
+        "• The nomination of Al-Tuwaijri occurred approximately one month after the WTO reported Saudi Arabia for copyright infringement related to the distribution of pirated sports broadcasting content via the state-owned broadcaster BeoutQ.",
+        "• Human rights groups criticized Al-Tuwaijri’s nomination in mid-August 2020, calling for rejection due to Saudi Arabia’s human rights violations and Al-Tuwaijri’s silence on these issues.",
+        "• On 7 October 2020, Mohammad Al-Tuwaijri lost the bid for WTO director-general due to insufficient support, alongside nominees from the UK and Kenya; the final round of selection included nominees from Nigeria and South Korea.",
+        "• Saudi Arabia is a member of several key international trade and economic organizations, including the World Trade Organization (WTO), International Monetary Fund (IMF), International Chamber of Commerce (ICC), International Organization for Standardization (ISO), and World Customs Organization (WCO)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:15.743593",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "9",
+      "section_name": "Challenges",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Saudi economy faces several significant challenges, including halting or reversing the decline in per capita income, which is critical for improving overall living standards.",
+        "• Improving the education system is essential to better prepare Saudi youth for the workforce and to provide them with adequate employment opportunities.",
+        "• Economic diversification is a key challenge, requiring the reduction of dependence on oil revenues and the development of other sectors to ensure sustainable growth.",
+        "• Stimulating the private sector is necessary to create jobs and foster economic dynamism beyond the public sector’s dominance.",
+        "• Increasing housing construction is an important objective to meet the growing demand for residential infrastructure amid population growth.",
+        "• Addressing and diminishing corruption and inequality are vital to promote fair economic participation and social stability within the Kingdom.",
+        "• The UN Arab Human Development Report attributes the Saudi economy’s heavy reliance on foreign labor to stunted social and economic development caused by several factors: lack of personal freedom, poor education quality, government hiring practices based on non-meritocratic criteria, and the exclusion of women from many economic roles."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:14.276597",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Income drop",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Despite holding the second largest petroleum reserves globally, Saudi Arabia's per capita income declined significantly from approximately $18,000 in 1981, at the peak of the oil boom, to $7,000 in 2001, according to one estimate.",
+        "• By 2013, rapid population growth in Saudi Arabia resulted in a per capita income that was \"a fraction of that of smaller Persian Gulf neighbors,\" notably even less than that of petroleum-poor Bahrain.",
+        "• Unlike most developed countries where GDP growth is driven by productivity and inputs such as employment, Saudi Arabia’s domestic production growth or decline is primarily influenced by fluctuations in oil prices.",
+        "• Middle East journalist Karen House noted that Saudi oil reserves were steadily being depleted with no significant new discoveries to replace them, highlighting concerns about the sustainability of oil-based income.",
+        "• Saudi Arabia’s population increased sevenfold from 1960 to 2010, while petrol prices remained heavily subsidized, costing consumers less than equivalent quantities of bottled water.",
+        "• With stagnant oil production and rising population and domestic energy consumption, per capita income tends to decline unless oil prices increase proportionally to offset these factors.",
+        "• Post-2015, Saudi Arabia launched several initiatives, including Vision 2030, aimed at reducing oil dependency by investing in sectors such as tourism, entertainment, and technology.",
+        "• Despite a decline in oil GDP, Saudi Arabia’s overall GDP is projected to grow due to expansion in the non-oil sectors of the economy.",
+        "• In the second quarter of 2024, Saudi Arabia’s GDP contracted by 0.4% year-on-year, primarily driven by an 8.5% decline in oil-related activities.",
+        "• Concurrently, non-oil activities grew by 4.4% in the same quarter, resulting in a seasonally adjusted GDP growth of 1.4% compared to the previous quarter.",
+        "• As of 2024, Saudi Arabia’s GDP per capita surpassed all Gulf Cooperation Council (GCC) countries except Qatar and the United Arab Emirates.",
+        "• Saudi Arabia’s GDP per capita is estimated at approximately $33,040 in nominal terms, ranking it 35th globally.",
+        "• In purchasing power parity (PPP) terms, Saudi Arabia’s GDP per capita is estimated at $70,333, ranking it as the 15th highest worldwide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:21.407190",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "9.2",
+      "section_name": "Demographics",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of February 2012, approximately 51% of Saudi Arabia's total population is under the age of 25, indicating a predominantly young demographic.",
+        "• A 2013 report by the International Monetary Fund (IMF) projected that up to 1.6 million young nationals from the Persian Gulf countries, with Saudi Arabia being the largest among them, would enter the workforce between 2013 and 2018.",
+        "• The same IMF report highlighted a significant employment challenge, noting that the private sector economies of these Persian Gulf countries would only be able to provide jobs for less than half of these new entrants, approximately 600,000 individuals."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:15.365873",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "9.3",
+      "section_name": "Education",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to _The Economist_, the Saudi government previously attempted to increase employment among Saudi citizens by mandating that companies fill at least 30% of their positions with Saudi nationals.",
+        "• Employers in Saudi Arabia expressed strong dissatisfaction with this policy, citing a lack of skills among young Saudi workers; they attributed this deficiency to an education system focused on rote learning and religious instruction, which failed to adequately prepare young Saudis for the job market.",
+        "• Critics argue that young Saudi workers struggled to compete with foreign labor due to the low wages and compensation packages offered by many companies to employees from Asian countries, the Indian subcontinent, and poorer Arab nations, who were willing to accept such conditions.",
+        "• The Saudi private sector's work environment, culture, and conditions were originally designed to accommodate very low-income foreign workers, making it unsuitable for the medium-income and relatively well-educated Saudi population.",
+        "• As a result of these challenges, the original 30% Saudi employment quota was abandoned and replaced with a more flexible system.",
+        "• Scholar David Commins notes that Saudi Arabia relies heavily on large numbers of expatriate workers to fill technical and administrative roles, partly because its education system, despite receiving generous funding, suffers from several deficiencies.",
+        "• These educational deficiencies include poorly trained teachers, low student retention rates, lack of rigorous academic standards, weak scientific and technical instruction, and an excessive focus on religious subjects.",
+        "• A 2015 survey by Bayt.com revealed that 28% of professionals in North Africa and the Middle East perceived a skills shortage in their country of residence.",
+        "• This perception of a skills shortage was even more pronounced in Saudi Arabia, where 39% of respondents identified a lack of adequate skills among the workforce."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:18.394776",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "9.4",
+      "section_name": "Innovation",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saudi Arabia has historically not been a significant center for technological innovation, as evidenced by the relatively low number of patents registered internationally.",
+        "• Between 1977 and 2010, Saudi Arabia registered a total of 382 patents in the United States, averaging fewer than twelve patents per year during this 33-year period.",
+        "• In comparison, South Korea registered 84,840 patents and Israel registered 20,620 patents in the United States over the same timeframe, highlighting a substantial disparity in innovation output.",
+        "• Despite this historical trend, Saudi Arabia experienced a notable increase in patent activity by 2017, when it was granted 664 patents by the United States Patent and Trademark Office (USPTO).",
+        "• In 2017, Saudi Arabia ranked 23rd among 92 countries in the number of patents granted by the USPTO, indicating a significant improvement in its innovation capacity.",
+        "• The 664 patents granted to Saudi Arabia in 2017 were double the total number of patents granted to all Arab countries combined during that year, underscoring Saudi Arabia’s leading position in innovation within the Arab region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:19.870867",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "9.5",
+      "section_name": "Bureaucracy",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Business journalist Karen House criticized the Saudi bureaucracy for its complexity and inefficiency in the process of starting a business in Saudi Arabia.",
+        "• According to House, an individual seeking to establish a business must complete numerous applications and documents across multiple layers of various ministries.",
+        "• This bureaucratic process typically necessitates seeking favors from multiple patronage networks, resulting in the accumulation of obligations to these networks.",
+        "• The process often involves the requirement to hire less-than-competent dependents of patrons, further complicating business operations.",
+        "• In Saudi Arabia, government contracts, rather than private competition, serve as the primary financial lifeblood for businesses of any size.",
+        "• Reliance on government contracts entails engaging with additional patrons, securing more favors, and incurring further obligations.",
+        "• Consequently, Saudi businesses capable of competing outside the protected Saudi market are relatively few, reflecting the restrictive and patronage-based nature of the domestic business environment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:18.903833",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "9.6",
+      "section_name": "Corruption",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The estimated annual cost of maintaining the Saudi Royal Family is approximately US$10 billion.",
+        "• A 2005 survey conducted by the Riyadh Chamber of Commerce revealed that 77% of businessmen polled believed they had to circumvent legal regulations to conduct their business operations.",
+        "• By 2012, the perception among businessmen was that the situation regarding the need to bypass the law had deteriorated further.",
+        "• Saudi Arabia has faced significant international criticism for its inadequate efforts in combating money laundering and the financing of international terrorism.",
+        "• On 24 September 2018, the Financial Action Task Force (FATF) released a report stating that Saudi Arabia was not effectively investigating or prosecuting individuals involved in large-scale or professional money laundering activities.",
+        "• The FATF report also highlighted that Saudi Arabia was not effectively confiscating the proceeds derived from criminal activities related to money laundering."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:18.233021",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "9.7",
+      "section_name": "Poverty",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Estimates of the proportion of native Saudis living below the poverty line range between 12.7% and 25%, with press reports and private estimates from 2013 indicating that between 2 million and 4 million Saudis live on less than approximately $530 per month, equivalent to about $17 per day, which is considered the poverty line in Saudi Arabia.",
+        "• According to the United Nations Economic and Social Commission for Western Asia (UNESCWA), Oman and Saudi Arabia have the highest poverty rates among Gulf Cooperation Council (GCC) nations, with rates of 10.1% and 13.6% respectively as of recent data.",
+        "• Saudi Arabia experienced a significant reduction in poverty, with the poverty rate declining from 18.2% in 2010 to 13.6% in 2021, reflecting notable socioeconomic changes over the decade.",
+        "• The Saudi government actively discourages public discussion or complaints regarding poverty, maintaining a policy that limits transparency and public discourse on the issue.",
+        "• In December 2011, shortly after the Arab Spring uprisings, the Saudi Interior Ministry detained reporter Feros Boqna and two colleagues, Hussam al-Drewesh and Khaled al-Rasheed, holding them for nearly two weeks for questioning after they uploaded a 10-minute YouTube video titled _Mal3ob 3alena_ ('We are being cheated'), which addressed poverty in Saudi Arabia.",
+        "• The video _Mal3ob 3alena_ claimed that 22% of Saudis were considered poor as of 2009 and that 70% of Saudis did not own their homes, highlighting issues of economic hardship and housing insecurity.",
+        "• Official statistics on poverty in Saudi Arabia are not available through United Nations resources because the Saudi government does not publicly release poverty figures, contributing to a lack of reliable data.",
+        "• Researchers and observers investigating poverty in Saudi Arabia often remain anonymous due to fears of government reprisal and arrest, as exemplified by the detention of Feros Boqna, reflecting the sensitive and restricted nature of poverty discourse in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:28.373132",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "9.8",
+      "section_name": "Housing",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, 50% of Saudi Arabian citizens owned their own homes, marking an increase from 30% in 2011, yet this rate remained below the international average homeownership rate of 70%.",
+        "• In 2011, analysts estimated that Saudi Arabia required 500,000 new homes annually to accommodate population growth; however, by early 2014, only between 300,000 and 400,000 houses were being constructed each year.",
+        "• The government’s Real Estate Development Fund (REDF), which provides 81% of all housing loans, faced an 18-year waiting list for loans due to high demand, indicating a significant backlog in housing finance availability.",
+        "• The REDF’s maximum loan amount was capped at 500,000 Saudi Riyals (SR), equivalent to approximately $133,000, while in 2012 the average price of a small free-standing home in Riyadh was 1.23 million SR ($328,000), more than double the maximum loan.",
+        "• To address housing finance challenges, the Saudi government introduced new funding solutions in August 2018, announced by Minister of Housing Majed Al-Hogail, aimed at increasing mortgage availability for both existing and new borrowers to support their housing plans.",
+        "• A primary factor contributing to the high cost of housing in Saudi Arabia is the elevated price of land, especially in urban areas where nearly all land is owned by the Saudi elite, including members of the royal family and other wealthy Saudis.",
+        "• The Saudi elite have lobbied the government for land \"giveaways,\" which has contributed to a 50% increase in land prices from 2011 to 2013, benefiting landowners who hold land for future development.",
+        "• To address the issue of \"land banking,\" where landowners hold vacant property to profit from price increases, the Minister of Housing proposed in 2013 that vacant properties within city limits could be subjected to a tax; however, no concrete plans or implementation details for such a tax have been announced."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:27.210242",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "9.9",
+      "section_name": "Private sector growth",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, the imposition of a 5% value-added tax (VAT) caused private-sector growth in Saudi Arabia to come to a halt, significantly impacting economic expansion within the kingdom.",
+        "• Consumer spending was further restrained in 2018 following sharp increases in prices for energy, electricity, and water, which contributed to reduced domestic demand.",
+        "• The Saudi government imposed new levies on expatriate workers, resulting in a mass departure of approximately 750,000 foreign workers from the kingdom.",
+        "• Small-business owners were mandated by the government to hire Saudi nationals at wages higher than those paid to foreign workers, increasing labor costs for these businesses.",
+        "• Efforts to attract large, direct foreign investments have been unsuccessful, as wealthy Saudi nationals remain reluctant to invest domestically due to fears of government scrutiny.",
+        "• On 11 May 2020, the Saudi government announced a tripling of the VAT rate from 5% to 15% on goods and services, aiming to address the country’s financial crisis caused by plummeting oil prices and the economic impact of the coronavirus pandemic.",
+        "• Alongside the VAT increase, the government declared a reduction in the monthly allowance for state workers by approximately $266 and cuts in financial benefits for contractors as part of austerity measures.",
+        "• Saudi Aramco significantly reduced production of its Arab Light grade crude oil destined for shipment to Asia, although the exact reduction amount is unspecified, in response to decreased global fuel demand amid the coronavirus pandemic.",
+        "• Aramco also lowered oil prices for its US buyers due to weakening demand for fuel caused by the global economic downturn linked to the pandemic.",
+        "• According to the General Authority for Statistics, Saudi Arabia’s inflation rate accelerated sharply to 6.2% in August 2020 compared to the same month in the previous year.",
+        "• The annual inflation rate rose from 0.5% in June 2020 to 6.1% in July 2020, immediately preceding the VAT increase from 5% to 15%, which took effect on 1 July 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:23.661413",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "10",
+      "section_name": "Investment",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saudi Arabia operates two stock exchanges: the Tadawul and The Saudi Parallel Market, also known as Nomu.",
+        "• The financial markets of Saudi Arabia, including both Tadawul and Nomu, are regulated by the Capital Market Authority.",
+        "• The total stock market capitalization of companies listed in Saudi Arabia is valued at $2.22 trillion.",
+        "• In 2019, the International Institute for Management Development reported that Saudi Arabia experienced the largest improvement in business competitiveness among all countries globally.",
+        "• As a result of this improvement, Saudi Arabia's ranking in global business competitiveness rose by 13 places, reaching 26th position worldwide in 2019."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:22.942151",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "10.1",
+      "section_name": "Doing business",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the World Bank Group's \"Doing Business\" 2020 report, Saudi Arabia is among the countries with the most notable improvement in ease of doing business, having jumped 30 places to rank 62nd compared to the previous year.",
+        "• Prior to this improvement, Saudi Arabia's overall ranking in ease of doing business had been declining, falling from 22nd place in 2013 to 92nd place in 2018.",
+        "• In 2019, the World Bank identified that Saudi Arabia had implemented reforms across eight key areas of business operations: (1) starting a business, (2) obtaining construction permits, (3) getting electricity, (4) accessing credit, (5) protecting minority investors, (6) trading across borders, (7) enforcing contracts, and (8) resolving insolvency.",
+        "• Saudi Arabian companies dominated the \"MEED 100\" list in 2009, with companies listed on the Tadawul stock exchange accounting for 29 out of the 100 largest publicly quoted companies in the Middle East region ranked by market capitalization.",
+        "• Of the 20 companies that dropped out of the MEED 100 list over the previous year, only three were listed on the Saudi stock exchange, indicating strong market stability for Saudi-listed firms.",
+        "• Foreign investors are permitted to wholly own limited liability companies in the majority of industries within Saudi Arabia, subject to regulatory requirements.",
+        "• Non-Saudi nationals must obtain a foreign capital investment license from the Saudi Arabian General Investment Authority (SAGIA) to operate businesses in the kingdom.",
+        "• In the second quarter of 2019, Saudi Arabia issued a total of 291 foreign investor licenses, reflecting a significant increase in international investment aligned with the economic reforms under the Saudi Vision 2030 initiative.",
+        "• The process for obtaining a foreign investor license was streamlined to require only two documents and is completed within three hours, facilitating easier access for foreign investors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:30.214941",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "10.1.1",
+      "section_name": "Saudi Aramco",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Saudi Aramco, officially known as the Saudi Arabian Oil Co., is the national oil, petroleum, and natural gas company of Saudi Arabia, headquartered in Dhahran.",
+        "• The company was listed for public trading on 10 December 2019 and had a valuation of US$2 trillion as of 12 December 2019.",
+        "• Saudi Aramco possesses the second largest proven crude oil reserves globally, which it claims exceed 260 billion barrels (4.1×10¹⁰ m³).",
+        "• It holds the largest daily oil production worldwide.",
+        "• The company operates the Master Gas System, recognized as the world’s largest single hydrocarbon network.",
+        "• Saudi Aramco’s annual oil production amounts to 3.479 billion barrels (553,100,000 m³).",
+        "• It manages over 100 oil and gas fields within Saudi Arabia, including natural gas reserves totaling 284.8 trillion standard cubic feet (scf).",
+        "• The company owns the Ghawar Field, the world’s largest oil field, and the Shaybah Field, which is also among the world’s largest oil fields.",
+        "• On 16 November 2020, Saudi Aramco announced plans to hire banks to issue dollar-denominated bonds aimed at improving its financial position following a sharp decline in global crude oil demand due to the coronavirus pandemic.",
+        "• The bond offering was structured as a multi-tranche deal with maturities ranging from 3 to 50 years, contingent on market conditions.",
+        "• The primary banks hired for the bond transaction included Citi Bank, Goldman Sachs International, HSBC, JP Morgan, Morgan Stanley, and NCB Capital.",
+        "• Additional banks involved in the bond issuance were BNP Paribas, BOC International, BofA Securities, Credit Agricole, First Abu Dhabi Bank, Mizuho, MUFG, SMBC Nikko, and Societe Generale.",
+        "• In the second quarter of 2021, Saudi Aramco reported a net income of 95.5 billion riyals (equivalent to $25.5 billion), marking its highest quarterly net income since 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:29.189559",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "10.1.2",
+      "section_name": "SABIC",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Saudi Arabian Basic Industries Corporation (SABIC) was established by a royal decree in 1976 with the purpose of producing chemicals, polymers, and fertilizers.",
+        "• In 2008, SABIC was recognized as Asia's largest publicly listed non-oil company by market capitalization and was also the most profitable in this category.",
+        "• SABIC was the world's fourth-largest petrochemical company as of 2008.",
+        "• It was the second-largest global producer of ethylene glycol and methanol in 2008.",
+        "• SABIC ranked as the third-largest producer of polyethylene worldwide in 2008.",
+        "• The company was the fourth-largest producer overall of polypropylene and polyolefin globally in 2008.",
+        "• SABIC was ranked 186th among the world’s largest corporations on the Fortune Global 500 list for the year 2009.",
+        "• In 2005, Standard & Poor's and Fitch Ratings identified SABIC as the world's largest producer of polymers and the largest steel producer in the Persian Gulf region.",
+        "• Both Standard & Poor's and Fitch Ratings assigned SABIC an \"A\" corporate credit rating.",
+        "• According to the Fortune 500 rankings in 2008, SABIC reported revenues of $40.2 billion.",
+        "• The company recorded profits of $5.8 billion in 2008.",
+        "• SABIC’s total assets were valued at $72.4 billion in 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:32.774230",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "10.1.3",
+      "section_name": "Ma'aden (company)",
+      "chapter_name": "Economy of Saudi Arabia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ma'aden was established as a Saudi joint stock company on 23 March 1997 with the primary objective of facilitating the development of Saudi Arabia's mineral resources.",
+        "• The company’s core activities have centered on its active gold business, which has expanded in recent years to encompass the operation of five gold mines: Mahd Ad Dahab, Al Hajar, Sukhaybarat, Bulghah, and Al Amar.",
+        "• Ma'aden is diversifying its operations beyond gold mining by developing projects in phosphates, aluminium, and other mineral sectors.",
+        "• Since its inception, Ma'aden has worked in collaboration with the Ministry of Petroleum and Mineral Resources, the Saudi government, and local legislators to establish a regulatory framework governing the mining industry in Saudi Arabia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:55:27.040788",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_saudi_arabia.json",
+      "original_index": 25
+    }
+  ]
+}

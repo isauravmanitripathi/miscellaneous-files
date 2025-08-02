@@ -1,0 +1,268 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_uganda.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.338193",
+    "total_sections_in_source": 10,
+    "extracted_sections_count": 10,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Uganda possesses significant potential for rapid growth and development, supported by abundant natural resources such as fertile land, consistent rainfall, and mineral deposits.",
+        "• Since the establishment of self-rule, Uganda has experienced chronic political instability and erratic economic management, resulting in persistent economic decline and positioning the country among the world’s poorest and least-developed nations.",
+        "• The informal economy in Uganda is predominantly female and consists of vulnerable individuals lacking work protections; women face numerous gender-specific barriers to accessing the formal economy, including documented prejudice against lending to women in the informal sector.",
+        "• Uganda’s national energy demand has historically surpassed its domestic energy generation capacity, despite the discovery of substantial petroleum reserves in the western region of the country.",
+        "• Following the turmoil during the Amin regime, Uganda initiated an economic recovery program in 1981, which was supported by considerable foreign assistance.",
+        "• From mid-1984 onwards, Uganda’s economic progress was hindered by overly expansionist fiscal and monetary policies and the resurgence of civil conflict, leading to setbacks in economic performance.",
+        "• Between 1990 and 2015, Uganda’s economy experienced growth with real gross domestic product (GDP) increasing at an average annual rate of 6.7%, while real GDP per capita grew at 3.3% per year during the same period.",
+        "• The period from 1990 to 2015 saw significant economic transformation in Uganda: the contribution of agriculture to GDP declined from 56% to 24%; the industrial sector’s share increased from 11% to 20%, with manufacturing growing more slowly from 6% to 9% of GDP; and the services sector expanded substantially from 32% to 55% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:43.844638",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "International trade and finance",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since assuming power in early 1986, President Yoweri Museveni's government has undertaken significant measures aimed at economic rehabilitation in Uganda.",
+        "• The country's infrastructure, particularly its transport and communications systems, which had been severely damaged by war and neglect, is undergoing reconstruction.",
+        "• In 1987, Uganda negotiated a policy framework paper with the International Monetary Fund (IMF) and the World Bank to secure increased external support for its economic recovery.",
+        "• Following this agreement, Uganda implemented economic policies focused on restoring price stability and achieving a sustainable balance of payments.",
+        "• These policies also aimed to improve capacity utilization, rehabilitate infrastructure, restore producer incentives through appropriate price policies, and enhance resource mobilization and allocation within the public sector.",
+        "• The economic reforms, known as Structural Adjustment Programs (SAPs), significantly improved the overall condition of Uganda’s economy but did not result in economic growth during the first decade after their implementation.",
+        "• Since 1995, Uganda has experienced rapid economic growth; however, the extent to which this growth can be directly attributed to the Structural Adjustment Programs remains uncertain.",
+        "• Uganda has been a member of the World Trade Organization (WTO) since January 1, 1995.",
+        "• Prior to joining the WTO, Uganda was a member of the General Agreement on Tariffs and Trade (GATT) since October 25, 1962."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:41.416059",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Currency",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Uganda commenced the issuance of its own national currency in the year 1966.",
+        "• The responsibility for issuing Uganda's currency was undertaken by the Bank of Uganda, the country's central bank."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:37.701222",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agricultural products constitute a significant portion of Uganda's foreign exchange earnings, with coffee being a major contributor; Uganda is Africa's second largest coffee producer after Ethiopia, and coffee accounted for approximately 17% of Uganda's exports in 2017, generating US$545 million in revenue.",
+        "• Besides coffee, Uganda's export portfolio includes growing sectors such as apparel, hides, skins, vanilla, vegetables, fruits, cut flowers, and fish, while traditional exports like cotton, tea, and tobacco remain important staples of the economy.",
+        "• In 2018, Uganda produced 3.9 million tons of sugarcane, making it one of the country's leading agricultural outputs by volume.",
+        "• Uganda produced 3.8 million tons of plantain in 2018, ranking as the 4th largest producer globally, behind Congo, Ghana, and Cameroon.",
+        "• Maize production in Uganda reached 2.9 million tons in 2018, reflecting its significance as a staple crop.",
+        "• Cassava production was recorded at 2.6 million tons in 2018, underscoring its role in Uganda's agriculture.",
+        "• Sweet potato production totaled 1.5 million tons in 2018, positioning Uganda as the 7th largest producer worldwide.",
+        "• Uganda produced 1.0 million tons of beans in 2018, highlighting its importance in the agricultural sector.",
+        "• Vegetable production also reached 1.0 million tons in 2018, indicating a substantial output in this category.",
+        "• Banana production was 532 thousand tons in 2018, contributing to Uganda's diverse agricultural portfolio.",
+        "• Onion production amounted to 360 thousand tons in 2018, reflecting its role in local agriculture.",
+        "• Sorghum production was 298 thousand tons in 2018, supporting both food security and economic activities.",
+        "• Rice production reached 260 thousand tons in 2018, indicating its growing importance in Uganda's crop production.",
+        "• Sunflower seed production totaled 245 thousand tons in 2018, contributing to the oilseed sector.",
+        "• Peanut production was 242 thousand tons in 2018, supporting both domestic consumption and export potential.",
+        "• Coffee production was 211 thousand tons in 2018, ranking Uganda as the 10th largest coffee producer globally.",
+        "• Millet production amounted to 209 thousand tons in 2018, adding to the diversity of cereal crops in Uganda.",
+        "• Smaller scale production in 2018 included cotton at 87 thousand tons, tea at 62 thousand tons, tobacco at 35 thousand tons, and cocoa at 27 thousand tons, maintaining their roles as important but less voluminous agricultural commodities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:45.692141",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Transportation",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2017, Uganda possessed approximately 130,000 kilometres (80,778 miles) of roads, with about 5,300 kilometres (3,293 miles), representing 4 percent, being paved; the majority of these paved roads radiate from Kampala, the capital and largest city of Uganda.",
+        "• Uganda's metre gauge railway network, as of 2017, extends roughly 1,250 kilometres (777 miles), of which approximately 56 percent (700 kilometres or 435 miles) is operational.",
+        "• The railway system originates at Mombasa on the Indian Ocean and connects to Tororo, where it branches westward to Jinja, Kampala, and Kasese, and northward to Mbale, Soroti, Lira, Gulu, and Pakwach; however, the only railway line currently operational is the one leading to Kampala.",
+        "• Uganda’s critical transport link to the port of Mombasa is primarily maintained by road transport, which also serves the logistical needs of neighboring countries including Rwanda, Burundi, parts of the Democratic Republic of the Congo, and South Sudan.",
+        "• The country’s international airport is located at Entebbe on the northern shores of Lake Victoria, approximately 41 kilometres (25 miles) south of Kampala.",
+        "• In January 2018, the Ugandan government commenced construction of Kabalega International Airport in the Western Region, which is planned to be Uganda’s second international airport, intended to support the development of an oil refinery and to enhance tourism.",
+        "• The Amalgamated Transport and General Workers Union (ATWGU) is a significant trade union within Uganda’s transport sector, boasting about 100,000 members, many of whom are informal workers, and is recognized as one of the more powerful unions in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:42.929146",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Communications",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Uganda Communications Commission (UCC) serves as the regulatory authority overseeing the communications sector in Uganda.",
+        "• The UCC primarily regulates communications services that are delivered through an enabled private sector framework.",
+        "• The scope of the UCC's regulatory oversight includes television networks operating within Uganda.",
+        "• Radio stations broadcasting in Uganda fall under the regulatory jurisdiction of the Uganda Communications Commission.",
+        "• Mobile network operators providing cellular and mobile communication services in Uganda are regulated by the UCC.",
+        "• Fixed-line telephone companies offering traditional wired telephony services in Uganda are also subject to UCC regulation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:39.236288",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "Mining and petroleum",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Uganda's primary mineral resources are distributed regionally: gold, tungsten, tin, beryl, and tantalite are predominantly found in the southern part of the country; tungsten, clay, and granite occur between latitude zero and two degrees north; and gold, mica, copper, limestone, and iron are located in the northern region.",
+        "• In late 2012, the Ugandan government was involved in an international legal dispute concerning value added tax (VAT) imposed on goods and services purchased by Tullow Oil, a foreign oil company operating in Uganda at that time; the case was heard at an international court based in the United States.",
+        "• The Ugandan government maintained that Tullow Oil could not claim taxes on supplies as recoverable costs prior to the commencement of oil production.",
+        "• Internal government sources expressed concern about the loss of millions of dollars over the previous decade, funds that could have been retained within Uganda for public sector investment.",
+        "• A report by Global Financial Integrity revealed that illicit financial outflows from Uganda between 2001 and 2012 amounted to $680 million.",
+        "• Tullow Oil was legally represented in the court case by Kampala Associated Advocates, a law firm founded by Elly Kurahanga, who also serves as the President of Tullow Uganda.",
+        "• Peter Kabatsi, a partner at Kampala Associated Advocates and Uganda’s former solicitor general from 1990 to 2002, denied allegations that he negotiated contracts with foreign oil companies during his tenure as solicitor general.",
+        "• In June 2015, the Ugandan government and Tullow Oil reached a settlement to resolve a longstanding dispute over capital gains taxes; the government initially claimed that Tullow owed US$435 million, but the matter was settled for US$250 million.",
+        "• In April 2018, the Ugandan government signed agreements with the Albertine Graben Refinery Consortium, an international consortium led by General Electric of the United States, to construct a 60,000 barrels-per-day oil refinery in Western Uganda.",
+        "• The planned Uganda Oil Refinery project is budgeted to cost approximately US$4 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:46.343949",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "GDP per capita (PPP) according to Madisson",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The historical evolution of Uganda's GDP per capita measured in purchasing power parity (PPP) dollars is documented for the period 1950 to 2005, providing a long-term perspective on economic performance.",
+        "• The data for Uganda's GDP per capita (PPP) from 1950 to 2005 is sourced from the Maddison Historical Statistics Project, a recognized authority on historical economic statistics.",
+        "• Additionally, the Maddison Historical Statistics Project provides projections and historical data on Uganda's GDP per capita (PPP) covering the extended period from 1985 to 2040, allowing analysis of both past trends and future expectations.",
+        "• The GDP per capita figures are expressed consistently in dollars, facilitating comparative economic analysis over time and across different regions.",
+        "• The dual timeframes (1950-2005 and 1985-2040) enable examination of Uganda's economic growth trajectory before, during, and after significant historical events affecting the country’s economy.",
+        "• The Maddison Historical Statistics Project serves as the primary source for these datasets, highlighting its role in compiling comprehensive economic data for Uganda and other nations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:47.347558",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "7",
+      "section_name": "Women in the economy",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agriculture sector constitutes approximately 40% of Uganda's GDP and is predominantly supported by women laborers, who play key roles in product management, marketing, and the crop sub-sector.",
+        "• Women represent 76% of the workforce in the agriculture sector, compared to roughly 66% of men, highlighting their significant involvement in this area.",
+        "• Women contribute to 80% of food crop production and 60% of traditional exports, including coffee and tea, underscoring their critical role in Uganda’s agricultural exports.",
+        "• In the formal, non-agricultural economy, men make up 61% of the workforce, whereas women predominantly occupy the informal economy, reflecting gender disparities in economic participation.",
+        "• According to the Uganda Bureau of Statistics in 2015, 88.6% of urban women were employed informally, compared to 84.2% of urban men, indicating a higher prevalence of informal employment among women.",
+        "• Women face barriers to entering certain formal economic sectors due to their inability to provide substantial initial funding, resulting in their concentration in trade and service sectors.",
+        "• Men dominate more profitable sectors such as manufacturing, while women traders constitute 70% of market vendors and 40% of shopkeepers, also dominating service industries, crafts, and tailoring.",
+        "• Women’s economic contributions are often undervalued in data collection, especially regarding their domestic roles, where they frequently match or exceed their husbands’ contributions to household income through labor and sales of surplus food.",
+        "• Urban women contribute between 50% and 70% of household income on average, demonstrating their substantial economic role within families.",
+        "• Data collection biases, including gender-insensitive methodologies and income measurement at the household rather than individual level, lead to the underreporting and discrediting of women’s economic contributions.",
+        "• Women face distinct barriers to entrepreneurial advancement compared to men, rooted in Uganda’s biased cultural and institutional frameworks despite progressive policy changes.",
+        "• The 1985 political transition to the National Resistance Movement party marked a period of somewhat progressive policies, yet gender biases in economic participation and institutional support persist."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:47.742133",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "8",
+      "section_name": "Data",
+      "chapter_name": "Economy of Uganda",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1980, Uganda's GDP measured in billion US dollars at purchasing power parity (PPP) was 5.9, with a GDP per capita of 525 US$ PPP, nominal GDP of 7.5 billion US$, a real GDP growth rate of -3.4%, an inflation rate of 99.2%, and government debt data was not available.",
+        "• By 1981, the GDP (PPP) increased to 6.7 billion US$, GDP per capita rose to 580 US$ PPP, nominal GDP surged to 12.1 billion US$, real GDP growth was positive at 3.9%, inflation rate reached 100.0%, and government debt figures remained unavailable.",
+        "• In 1982, Uganda's GDP (PPP) further increased to 7.7 billion US$, GDP per capita to 646 US$ PPP, nominal GDP decreased to 8.4 billion US$, real GDP growth accelerated to 8.2%, inflation remained at 100.0%, with no government debt data.",
+        "• The year 1983 saw GDP (PPP) at 8.4 billion US$, GDP per capita at 683 US$ PPP, nominal GDP at 9.6 billion US$, real GDP growth at 4.9%, inflation sharply increased to 150.0%, and government debt data was not reported.",
+        "• In 1984, GDP (PPP) was 8.5 billion US$, GDP per capita slightly declined to 665 US$ PPP, nominal GDP dropped to 7.4 billion US$, real GDP growth was negative at -3.0%, inflation rate decreased markedly to 16.7%, with government debt data unavailable.",
+        "• For 1985, GDP (PPP) remained at 8.5 billion US$, GDP per capita decreased to 644 US$ PPP, nominal GDP further declined to 6.8 billion US$, real GDP growth stayed negative at -3.0%, inflation rose back to 100.0%, and government debt was not recorded.",
+        "• In 1986, GDP (PPP) increased to 8.7 billion US$, GDP per capita was 640 US$ PPP, nominal GDP slightly decreased to 6.7 billion US$, real GDP growth was modest at 0.9%, inflation escalated to 143.8%, and government debt figures were not available.",
+        "• The year 1987 recorded GDP (PPP) at 9.3 billion US$, GDP per capita at 657 US$ PPP, nominal GDP rose to 10.9 billion US$, real GDP growth at 4.0%, inflation surged to 215.4%, with no government debt data.",
+        "• In 1988, GDP (PPP) reached 10.4 billion US$, GDP per capita was 710 US$ PPP, nominal GDP was 11.3 billion US$, real GDP growth accelerated to 8.3%, inflation decreased to 166.7%, and government debt data was not provided.",
+        "• For 1989, GDP (PPP) was 11.5 billion US$, GDP per capita increased to 757 US$ PPP, nominal GDP declined to 9.1 billion US$, real GDP growth was 6.4%, inflation dropped to 130.8%, with no government debt data.",
+        "• In 1990, GDP (PPP) increased to 12.7 billion US$, GDP per capita rose to 807 US$ PPP, nominal GDP decreased to 7.5 billion US$, real GDP growth was 6.5%, inflation sharply declined to 45.4%, and government debt data remained unavailable.",
+        "• The year 1991 showed GDP (PPP) at 13.4 billion US$, GDP per capita at 820 US$ PPP, nominal GDP fell to 3.9 billion US$, real GDP growth slowed to 1.8%, inflation dropped further to 20.8%, with no government debt data.",
+        "• In 1992, GDP (PPP) was 14.5 billion US$, GDP per capita increased to 860 US$ PPP, nominal GDP was 3.6 billion US$, real GDP growth improved to 5.9%, inflation rose to 42.2%, and government debt data was not available.",
+        "• For 1993, GDP (PPP) reached 15.8 billion US$, GDP per capita was 908 US$ PPP, nominal GDP increased to 4.3 billion US$, real GDP growth was 6.7%, inflation decreased to 30.0%, with no government debt data.",
+        "• In 1994, GDP (PPP) rose to 17.4 billion US$, GDP per capita to 967 US$ PPP, nominal GDP increased to 6.2 billion US$, real GDP growth was 7.7%, inflation dropped significantly to 5.9%, and government debt data was not reported.",
+        "• The year 1995 recorded GDP (PPP) at 19.4 billion US$, GDP per capita at 1,045 US$ PPP, nominal GDP at 7.5 billion US$, real GDP growth peaked at 9.2%, inflation was low at 6.8%, with no government debt data.",
+        "• In 1996, GDP (PPP) increased to 21.1 billion US$, GDP per capita rose to 1,098 US$ PPP, nominal GDP was 7.7 billion US$, real GDP growth was 6.6%, inflation slightly increased to 7.5%, and government debt data was not available.",
+        "• For 1997, GDP (PPP) was 22.4 billion US$, GDP per capita at 1,132 US$ PPP, nominal GDP increased to 8.4 billion US$, real GDP growth slowed to 4.6%, inflation was 7.7%, and government debt was recorded at 44.2% of GDP.",
+        "• In 1998, GDP (PPP) rose to 24.1 billion US$, GDP per capita to 1,177 US$ PPP, nominal GDP slightly decreased to 8.2 billion US$, real GDP growth was 6.1%, inflation dropped to 5.8%, and government debt increased slightly to 45.1% of GDP.",
+        "• The year 1999 showed GDP (PPP) at 26.4 billion US$, GDP per capita at 1,249 US$ PPP, nominal GDP decreased to 7.8 billion US$, real GDP growth was strong at 8.0%, inflation remained at 5.8%, and government debt rose to 47.7% of GDP.",
+        "• In 2000, GDP (PPP) was 28.0 billion US$, GDP per capita increased to 1,284 US$ PPP, nominal GDP remained at 7.8 billion US$, real GDP growth slowed to 3.9%, inflation decreased to 3.4%, and government debt was 48.5% of GDP.",
+        "• For 2001, GDP (PPP) increased to 31.2 billion US$, GDP per capita rose to 1,383 US$ PPP, nominal GDP remained steady at 7.8 billion US$, real GDP growth rebounded to 8.8%, inflation was very low at 1.9%, and government debt increased to 51.4% of GDP.",
+        "• In 2002, GDP (PPP) rose to 33.9 billion US$, GDP per capita increased to 1,456 US$ PPP, nominal GDP increased to 8.4 billion US$, real GDP growth was 7.1%, inflation was negative at -0.3%, and government debt rose to 54.7% of GDP.",
+        "• The year 2003 recorded GDP (PPP) at 36.7 billion US$, GDP per capita at 1,521 US$ PPP, nominal GDP at 8.7 billion US$, real GDP growth was 6.2%, inflation increased to 8.7%, and government debt was 55.1% of GDP.",
+        "• In 2004, GDP (PPP) increased to 39.8 billion US$, GDP per capita rose to 1,597 US$ PPP, nominal GDP surged to 10.8 billion US$, real GDP growth was 5.8%, inflation decreased to 3.7%, and government debt declined to 49.0% of GDP.",
+        "• For 2005, GDP (PPP) rose to 45.2 billion US$, GDP per capita increased to 1,753 US$ PPP, nominal GDP increased to 12.5 billion US$, real GDP growth peaked at 10.0%, inflation rose to 8.6%, and government debt dropped to 42.6% of GDP.",
+        "• In 2006, GDP (PPP) was 49.9 billion US$, GDP per capita increased to 1,870 US$ PPP, nominal GDP rose to 14.1 billion US$, real GDP growth was 7.0%, inflation decreased to 7.2%, and government debt significantly declined to 27.8% of GDP.",
+        "• The year 2007 showed GDP (PPP) at 55.4 billion US$, GDP per capita at 2,006 US$ PPP, nominal GDP increased to 17.5 billion US$, real GDP growth was 8.1%, inflation decreased to 6.1%, and government debt further declined to 17.0% of GDP.",
+        "• In 2008, GDP (PPP) rose to 62.3 billion US$, GDP per capita increased to 2,181 US$ PPP, nominal GDP surged to 22.4 billion US$, real GDP growth peaked at 10.4%, inflation increased to 12.0%, and"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:26:25.012763",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 29
+      },
+      "source_file": "economy_of_uganda.json",
+      "original_index": 9
+    }
+  ]
+}

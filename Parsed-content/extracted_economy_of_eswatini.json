@@ -1,0 +1,234 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_eswatini.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.830558",
+    "total_sections_in_source": 8,
+    "extracted_sections_count": 8,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Eswatini",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Eswatini is described as fairly diversified, indicating a range of different economic sectors contributing to national income.",
+        "• Agriculture, forestry, and mining collectively account for approximately 13 percent of Eswatini's Gross Domestic Product (GDP).",
+        "• The manufacturing sector, primarily comprising textiles and sugar-related processing, represents about 37 percent of the country's GDP.",
+        "• The services sector constitutes the remaining 50 percent of Eswatini's GDP, with government services being the leading component within this sector.",
+        "• The article notes that the information requires additional citations for verification, emphasizing the need for reliable sources to substantiate the data presented.",
+        "• Suggested sources for further information include news outlets, newspapers, books, scholarly articles, and JSTOR, with a specific call to action to improve the article's credibility as of November 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:18.452253",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_eswatini.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Eswatini",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Title Deed lands in Eswatini are primarily used for high-value crops such as sugar, forestry, and citrus, characterized by significant levels of investment and irrigation.",
+        "• These Title Deed lands exhibit high productivity due to substantial investment and modern agricultural practices.",
+        "• The majority of Eswatini’s population, approximately 75 percent, are employed in subsistence agriculture on Swazi Nation Land.",
+        "• Swazi Nation Land is marked by low levels of investment and productivity, leading to subsistence farming with limited economic output.",
+        "• The dual structure of the Eswatini economy features high productivity sectors, including textile manufacturing and industrialized agricultural Title Deed lands, contrasted with declining productivity in subsistence agriculture on Swazi Nation Land.",
+        "• This disparity between productive and less productive sectors is believed to contribute to Eswatini’s overall low economic growth.",
+        "• The economic structure also results in high levels of inequality and unemployment within the country.",
+        "• The contrasting agricultural systems and land tenure arrangements are central to understanding the economic challenges faced by Eswatini."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:21.729774",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_eswatini.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic growth",
+      "chapter_name": "Economy of Eswatini",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Economic growth in Eswatini has lagged behind that of its neighboring countries, with an average real GDP growth of 2.8 percent since 2001, which is nearly 2 percentage points lower than the growth rate of other Southern African Customs Union (SACU) member countries.",
+        "• Contributing factors to the slow growth include low agricultural productivity in Swazi lands, recurrent droughts, the impact of HIV/AIDS, and an overly large and inefficient government sector.",
+        "• Eswatini's public finances deteriorated in the late 1990s after experiencing sizable budget surpluses a decade earlier, indicating a reversal in fiscal health.",
+        "• The decline in revenues coupled with increased government spending led to significant budget deficits, which have persisted despite efforts to stabilize finances.",
+        "• Increased government expenditure has not translated into proportional economic growth nor has it significantly benefited the poor, although the poverty headcount ratio experienced slight shifts during the early 2000s (as reported by SHIES 2010).",
+        "• A substantial portion of the increased government spending has been allocated to current expenditures, notably wages, transfers, and subsidies.",
+        "• The wage bill currently accounts for over 15 percent of GDP and constitutes 55 percent of total public spending, making it one of the highest levels on the African continent.",
+        "• Rapid growth in SACU revenues in recent years has reversed the fiscal decline, resulting in a sizeable surplus recorded in the fiscal years 2006/07 and 2012/13.",
+        "• SACU revenues now constitute over 50 percent of total government revenues, highlighting the country's dependence on regional revenue sharing.",
+        "• Over the past 20 years, Eswatini has seen a marked decline in its external debt burden, with external debt as a percentage of GDP falling below 20 percent in 2006, and domestic debt remaining almost negligible."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:24.791223",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_eswatini.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Trade partners",
+      "chapter_name": "Economy of Eswatini",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Eswatini is highly dependent on South Africa, receiving over 90 percent of its imports from South Africa and exporting approximately 70 percent of its goods to South Africa.",
+        "• Eswatini benefits from its abundant resources, making it a significant and advantageous trading partner.",
+        "• The country's other major trading partners include the United States and the European Union (EU).",
+        "• Eswatini has received trade preferences from these partners, notably under the African Growth and Opportunity Act (AGOA) for apparel exports to the US and for sugar exports to the EU.",
+        "• Under these preferential agreements, both apparel and sugar exports experienced significant growth, with apparel exports growing by over 200 percent between 2000 and 2005, and sugar exports increasing by more than 50 percent over the same period.",
+        "• The export sector's growth is threatened by the potential removal of trade preferences for textiles, the accession of East Asian countries to similar preferences, and the phasing out of preferential prices for sugar in the EU market.",
+        "• Eswatini faces the challenge of maintaining competitiveness in a changing global environment due to these potential trade disruptions.",
+        "• An important factor in addressing this challenge is improving the investment climate; a recent Investment Climate Assessment highlighted that Eswatini firms are among the most productive in Sub-Saharan Africa.",
+        "• Despite this, Eswatini firms are less productive than firms in the most productive middle-income countries elsewhere but compare favorably with firms from lower middle-income countries.",
+        "• The productivity of Eswatini firms is hindered by inadequate governance arrangements and infrastructure.",
+        "• Eswatini is a member of the Southern African Customs Union (SACU), along with Lesotho, Botswana, Namibia, and South Africa, where import duties are uniformly applied across member countries.",
+        "• Eswatini, Lesotho, Namibia, and South Africa are also part of the Common Monetary Area (CMA), which allows for the repatriation of funds and unrestricted movement of capital.",
+        "• Eswatini issues its own currency, the Swazi lilangeni (plural: emalangeni), which is pegged at par with the South African rand."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:30.019705",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_eswatini.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Eswatini",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Eswatini has well-developed road infrastructure with strong connectivity to South Africa.",
+        "• Eswatini Railways operates the country's rail network, which runs in both east–west and north–south directions.",
+        "• The older east–west rail link, known as the Goba line, facilitates the export of bulk goods from Eswatini through the Port of Maputo in Mozambique.",
+        "• Historically, most of Eswatini's imports were shipped via the Port of Maputo until recent years.",
+        "• The Mozambique conflict in the 1980s caused many Swazi exports to be diverted to South African ports.",
+        "• A north–south rail link, completed in 1986, connects the Eastern Transvaal (currently Mpumalanga) rail network with South African ports of Richards Bay and Durban.",
+        "• Foreign investment in Eswatini's manufacturing sector increased significantly from the mid-1980s, contributing to higher economic growth rates.",
+        "• Since mid-1985, the depreciation of the Swazi currency has enhanced the competitiveness of Swazi exports.",
+        "• The currency depreciation has also moderated the growth of imports, leading to trade surpluses.",
+        "• During the 1990s, Eswatini frequently experienced small trade deficits, indicating periods where imports exceeded exports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:32.993963",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_eswatini.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Sugar industry",
+      "chapter_name": "Economy of Eswatini",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Eswatini is the fourth largest producer of sugar in Africa and ranks 25th globally in sugar production, highlighting the industry's significant role in the country's economic growth.",
+        "• The country's GDP was valued at $8.621 billion USD in 2014 based on purchasing power parity (PPP), with 7.2% of this GDP derived from the agriculture sector, where sugarcane and sugar products have the largest economic impact.",
+        "• According to the CIA World Factbook, wood pulp and sugarcane were Eswatini’s primary exports until the closure of the wood pulp producer in January 2010, leaving sugarcane as the sole major export commodity.",
+        "• The Royal Eswatini Sugar Corporation (RES Corporation) is the largest sugar producer in the country, accounting for just under two-thirds of total sugar production and providing over 3,000 jobs to Eswatini’s population.",
+        "• RES Corporation comprises two main sugar mills, located in Mhlume and Simunye, which together produce approximately 430,000 tons of sugarcane per season.",
+        "• Ubombo Sugar Limited is the second-largest sugarcane producer, having expanded from producing 5,600 tons in 1958 to approximately 230,000 tons of sugar annually.",
+        "• The third largest sugarcane producer is Tambankulu Estate, the largest independent sugar estate, which produces 62,000 tons of sugar annually on 3,816 hectares of land.",
+        "• The European Union (EU) is Eswatini’s largest export partner within the Southern African Development Community (SADC), which is a regional group of southern African countries aiming to improve socioeconomic conditions collectively.",
+        "• During 2014-2015, Eswatini produced 680,881 metric tons of sugar, with about 355,000 metric tons exported to the EU, making it the largest export destination for Eswatini’s sugar.",
+        "• The United States was another significant trade partner, with Eswatini exporting 34,000 metric tons of sugar in the 2014-2015 fiscal year under the Tariff Rate Quota system.",
+        "• Sugar exports from Eswatini are increasing, with projections for 2015-2016 indicating a record high production of approximately 705,000 metric tons, driven by increased land availability for cultivation.",
+        "• Of the projected 705,000 metric tons for 2015-2016, about 390,000 metric tons are expected to be exported to the EU under a new Economic Partnership Agreement (EPA), which allows duty-free and quota-free access for Eswatini’s sugar.",
+        "• The EU and the United States historically filled quotas similar to the Sugar Protocol initiated in 1975, which guaranteed specific import quantities and prices for African, Caribbean, and Pacific countries, ensuring above-world market prices and substantial profits for these nations.",
+        "• The Sugar Protocol ended in 2009 because the EU could no longer sustain the pre-determined demands, leading to the replacement with separate Economic Partnerships that maintain high demand but significantly lower prices for sugar.",
+        "• Despite the end of the Sugar Protocol, Eswatini has received assurances that its sugar will continue to be purchased by the EU under the new agreements, maintaining its export market stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:41.187681",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_eswatini.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Eswatini",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Eswatini's mineral sector is currently governed by a policy established prior to the country's independence, indicating outdated regulatory frameworks.",
+        "• In response to recent declines in the mineral sector, a new mining policy is under development, with consultants being paid for by a grant from China, highlighting international involvement and support.",
+        "• Legislation aimed at facilitating small-scale mining has also been proposed to potentially revitalize the sector and promote local participation.",
+        "• The Bulembu asbestos mine serves as the country's primary source of foreign exchange; however, its production has experienced a significant decline, impacting national revenue.",
+        "• Historically, Eswatini has been known to possess deposits of diamonds, iron ore, and gold, but these resources have not been fully exploited due to insufficient investment and underdeveloped policies.",
+        "• The lack of investment and effective development policies has hindered the realization of the region’s mineral potential, leading to underperformance in resource extraction.",
+        "• Fewer than 1,000 Swazis are directly employed within the formal mining sector, indicating limited local employment opportunities in mining activities.",
+        "• Many Swazi workers have historically processed timber from Eswatini’s extensive pine forests for mines located in South Africa, demonstrating regional economic interdependence.",
+        "• An estimated 10,000 to 15,000 Swazis were employed in South African mines, contributing to Eswatini's economy through wage remittances.",
+        "• The contribution of Swazi workers to the national economy has diminished due to the collapse of the international gold market and subsequent layoffs in South African mining industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:00:45.587966",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_eswatini.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "7",
+      "section_name": "Other economic statistics",
+      "chapter_name": "Economy of Eswatini",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section presents a comprehensive overview of Eswatini's main economic indicators from 1980 to 2017, highlighting trends and changes over nearly four decades.",
+        "• In 1980, Eswatini's GDP measured approximately 0.90 billion US dollars in Purchasing Power Parity (PPP), with a GDP per capita of 1,653 US dollars PPP, and a nominal GDP of 0.75 billion US dollars.",
+        "• The economy experienced a decline in 1980 with a real GDP growth rate of -3.8%, accompanied by an inflation rate of 18.2%.",
+        "• By 1985, GDP increased to 1.50 billion US dollars PPP, with a per capita income of 2,359 US dollars PPP, and a nominal GDP of 0.50 billion US dollars, reflecting economic growth.",
+        "• The GDP growth rate in 1985 was positive at 3.8%, and inflation rose slightly to an unspecified percentage, with government debt at 20.5% of GDP.",
+        "• In 1990, GDP further increased to 2.95 billion US dollars PPP, with a per capita income of 3,793 US dollars PPP, and a nominal GDP of 1.24 billion US dollars, with a significant real GDP growth of 8.9%.",
+        "• Inflation in 1990 was 13.1%, and government debt decreased to 13.1% of GDP.",
+        "• The mid-1990s saw continued growth: in 1995, GDP reached 3.84 billion US dollars PPP, with a per capita income of 4,421 US dollars PPP, and a nominal GDP of 1.93 billion US dollars; GDP growth was 4.0%, and government debt was 12.3%.",
+        "• By 2000, GDP was 4.83 billion US dollars PPP, with a per capita income of 5,033 US dollars PPP, and a nominal GDP of 1.74 billion US dollars; growth slowed to 2.6%, with government debt at 12.2%.",
+        "• The period from 2005 to 2008 shows steady economic expansion: in 2005, GDP was 6.52 billion US dollars PPP, with a per capita income of 6,537 US dollars PPP, and a nominal GDP of 3.18 billion US dollars; GDP growth was 5.5%, and government debt was 1.8%.",
+        "• In 2006, GDP increased to 7.06 billion US dollars PPP, with a per capita income of 7,000 US dollars PPP, and a nominal GDP of 3.29 billion US dollars; growth was 5.2%, government debt at 5.2%.",
+        "• The 2007 data shows GDP at 7.54 billion US dollars PPP, with a per capita income of 7,387 US dollars PPP, and a nominal GDP of 3.47 billion US dollars; GDP growth was 3.9%, government debt at 8.1%.",
+        "• In 2008, GDP reached 7.90 billion US dollars PPP, with a per capita income of 7,658 US dollars PPP, and a nominal GDP of 3.30 billion US dollars; growth slowed to 2.8%, with government debt at 12.7%.",
+        "• The 2009 figures show GDP at 8.32 billion US dollars PPP, with a per capita income of 7,978 US dollars PPP, and a nominal GDP of 3.60 billion US dollars; GDP growth was 4.5%, government debt decreased to 7.4%.",
+        "• By 2010, GDP increased to 8.72 billion US dollars PPP, with a per capita income of 8,268 US dollars PPP, and a nominal GDP of 4.44 billion US dollars; growth was 3.5%, government debt at 4.5%.",
+        "• In 2011, GDP was 9.07 billion US dollars PPP, with a per capita income of 8,502 US dollars PPP, and a nominal GDP of 4.83 billion US dollars; GDP growth slowed to 2.0%, government debt at 6.1%.",
+        "• The 2012 data indicates GDP at 9.56 billion US dollars PPP, with a per capita income of 8,853 US dollars PPP, and a nominal GDP of 4.89 billion US dollars; growth was 3.5%, government debt at 8.9%.",
+        "• In 2013, GDP reached 10.18 billion US dollars PPP, with a per capita income of 9,317 US dollars PPP, and a nominal GDP of 4.60 billion US dollars; GDP growth was 3.5%, government debt at 5.6%.",
+        "• The 2014 figures show GDP at 10.74 billion US dollars PPP, with a per capita income of 9,712 US dollars PPP, and a nominal GDP of 4.43 billion US dollars; growth was 3.6%, government debt at 5.7%.",
+        "• In 2015, GDP was 10.97 billion US dollars PPP, with a per capita income of 9,807 US dollars PPP, and a nominal GDP of 4.06 billion US dollars; growth slowed to 1.0%, government debt increased to 5.0%.",
+        "• The 2016 data shows GDP at 11.11 billion US dollars PPP, with a per capita income of 9,814 US dollars PPP, and a nominal GDP of 3.82 billion US dollars; GDP growth was 0.0%, government debt at 8.0%.",
+        "• In 2017, GDP reached 11.34 billion US dollars PPP, with a per capita income of 9,884 US dollars PPP, and a nominal GDP of 4.41 billion US dollars; GDP growth was 0.2%, and government debt rose to 29%.",
+        "• Household income or consumption distribution indicates that in 2001, the lowest 10% held 1.6% of household income or consumption, while the highest 10% held 40.7%.",
+        "• Industrial production growth rate was estimated at 1% in 2001.",
+        "• Electricity production was 470 GWh in 2008, up from 420 GWh in 1998, reflecting growth in energy output.",
+        "• Electricity consumption increased from 962.9 GWh in 2001 to 1,078 GWh in 1998, and further to 1,207 GWh in 2008.",
+        "• Electricity exports were zero kilowatt-hours in 2009, 2001, and 1998, indicating no electricity exports during these years.",
+        "• Electricity imports were 768 GWh in 2009, 639 GWh in 2001, and 687 GWh in 1998, with about 60% of imports sourced from South Africa as of 2009.",
+        "• The national currency is the lilangeni (E), subdivided into 100 cents.",
+        "• Exchange rates fluctuated over the years, with the lilangeni pegged at par with the South African rand; notable rates include 7.3 emalangeni per US dollar in 2011, 7.32 in 2010, 8.42 in 2009, and 6.9398 in 2000.",
+        "• Other exchange rates include 10.5407 in 2002, 8.6092 in 2001, 6.1087 in 1999, and 4.6032 in 1997, reflecting currency stability and fluctuations over time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:01:09.038495",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 31
+      },
+      "source_file": "economy_of_eswatini.json",
+      "original_index": 7
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_liberia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.258619",
+    "total_sections_in_source": 10,
+    "extracted_sections_count": 10,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Liberia is extremely underdeveloped, with a gross domestic product (GDP) of only $3.222 billion as of 2019, primarily due to the impacts of the First Liberian Civil War (1989–1996) and the Second Liberian Civil War (1999–2003).",
+        "• According to the United Nations, Liberia is one of the poorest and least developed countries in the world.",
+        "• Prior to 1979, Liberia's economy was among the more developed and fastest-growing in Sub-Saharan Africa.",
+        "• The 1980 coup d'état precipitated a decline in Liberia’s economy, which was further devastated by the civil wars that destroyed much of the country's economy and infrastructure, especially in and around the capital city, Monrovia.",
+        "• The civil wars caused a significant brain drain and loss of capital, as the conflicts involved the overthrow of the Americo-Liberian minority that had ruled the country; although some expatriates returned after 1997, many did not.",
+        "• Liberia is richly endowed with natural resources, including abundant water, mineral resources, forests, and a climate favorable to agriculture.",
+        "• Despite these natural endowments, Liberia suffers from deficiencies in human capital, infrastructure, and political stability.",
+        "• Liberia’s economic profile is fairly typical of Sub-Saharan African economies, with the majority of the population dependent on subsistence agriculture.",
+        "• Liberia’s exports are dominated by raw commodities, notably rubber and iron ore.",
+        "• Local manufacturing in Liberia is limited and primarily foreign-owned.",
+        "• The democratically elected government installed in August 1997 inherited massive international debts.",
+        "• Liberia relies heavily on revenues from its maritime registry to provide the bulk of its foreign exchange earnings.",
+        "• The restoration of Liberia’s infrastructure and the improvement of incomes depend on the implementation of sound macroeconomic and microeconomic policies by the government, including the encouragement of foreign investment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:13.132709",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Independent Liberia's economic history suffers from limited archival documentation, complicating comprehensive assessments by economic historians; the Liberian government only began producing GDP per capita data in 1964.",
+        "• A 2022 study by LSE economic historian Leigh A. Gardner estimated Liberia's GDP per capita at $430 in 1845, which was just above subsistence level and approximately half of Japan's GDP per capita at that time.",
+        "• Liberia's GDP per capita rose to approximately $500 by the time of independence (circa 1847), but the economy stagnated until the 1930s, when a period of rapid economic growth commenced.",
+        "• During the 19th and early 20th centuries, Liberia was poorer than Ghana; however, by 1950 Liberia had caught up with Ghana and subsequently diverged, becoming almost twice as wealthy as Ghana by 1970.",
+        "• The Liberian economy stagnated throughout the 1970s after the period of growth in the mid-20th century.",
+        "• In 1926, the Liberian government granted the Firestone Tire Company the right to lease up to 1 million acres of land for 99 years at a cost of 6 cents per acre.",
+        "• Firestone developed significant influence over the Liberian government, effectively gaining control over its finances during this period, and became a major source of foreign investment in Liberia.",
+        "• Firestone established rubber tree plantations in Liberia using the non-native South American rubber tree species, _Hevea brasiliensis_.",
+        "• By the 1950s, Firestone was Liberia's largest private employer and largest exporter; in 1955, Vincent Browne reported that rubber accounted for over $45,000,000 of Liberia's approximately $55,000,000 worth of exports.",
+        "• Post-World War II, Liberia became one of the world's largest rubber exporters; today, Firestone's rubber plantation in Liberia is the world's largest contiguous rubber plantation, operated by the Firestone Natural Rubber Company, a subsidiary of Bridgestone.",
+        "• In the 1940s, Liberia became one of the largest recipients of American aid, beginning with the 1942 Lend-Lease program.",
+        "• The per capita aid received by Liberia was comparable to that received by countries such as Korea and Marshall Aid recipients like the United Kingdom.",
+        "• Economic historian George Dalton estimated in 1965 that Liberia received more U.S. aid per capita than any other African country.",
+        "• After World War II, Liberia sought to become a destination for offshore services by loosening laws related to ship registration, corporations, and taxes.",
+        "• By the 1960s, Liberia had become the largest ship registry in the world in terms of tonnage, reflecting the success of its shipping registry.",
+        "• Prior to the civil war, Liberia's economy heavily relied on iron ore mining; by the 1970s, iron mining accounted for more than half of Liberia's export earnings.",
+        "• Since the 1980 coup d'état, Liberia's economic growth slowed due to a decline in global demand for iron ore and political upheavals within the country.",
+        "• Following the end of the civil war in 2003, Liberia's GDP growth accelerated, peaking at 9.4% in 2007.",
+        "• During the Great Recession in 2009, GDP growth slowed to 4.6%, but a strengthening agricultural sector led by rubber and timber exports increased growth to 5.1% in 2010 and an expected 7.3% in 2011, positioning Liberia among the 20 fastest-growing economies globally.",
+        "• In March 2010, Bob Johnson, founder of BET, funded the construction of the first hotel built in Liberia in 20 years; the 13-acre (53,000 m²) luxury resort was established in the Paynesville section of Monrovia.",
+        "• Liberia's external debt was estimated at approximately $4.5 billion in 2006, equating to 800% of GDP.",
+        "• Due to bilateral, multilateral, and commercial debt relief efforts from 2007 to 2010, Liberia's external debt was reduced to $222.9 million by 2011."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:29.938452",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic sectors",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Liberia's business sector is predominantly controlled by foreigners, primarily individuals of Levantine descent, with a significant proportion being Lebanese.",
+        "• Indian nationals also constitute a notable segment of the foreign business community in Liberia.",
+        "• A limited number of Chinese individuals are involved in agricultural activities within Liberia.",
+        "• The largest timber concession in Liberia, the Oriental Timber Corporation (OTC), is owned by Indonesian interests.",
+        "• There is a considerable presence of West African traders engaged in cross-border commerce within Liberia.",
+        "• Certain industries in Liberia operate under legal monopolies; for instance, Cemenco holds an exclusive monopoly on cement production in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:33.713037",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Forestry",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the end of the war, timber and rubber have constituted Liberia's primary export commodities.",
+        "• Liberia generates annual revenues exceeding $100 million from timber exports.",
+        "• Rubber exports contribute more than $70 million annually to Liberia's economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:35.558739",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Mining and resources",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Alluvial diamond and gold mining contribute to Liberia’s economic activity, representing a significant sector within the country’s mining industry.",
+        "• Between 2005 and 2012, foreign investment from major international companies such as ArcelorMittal Steel, BHP Billiton, and China Union has played a crucial role in revitalizing Liberia’s iron-ore mining sector.",
+        "• Liberia has initiated exploration efforts for offshore oil reserves, with unproven reserves estimated to potentially exceed one billion barrels.",
+        "• The Liberian government divided its offshore waters into 17 blocks and commenced auctioning exploration licenses for these blocks in 2004, followed by additional auctions in 2007 and 2009.",
+        "• In 2011, Liberia demarcated an additional 13 ultra-deep offshore blocks, which were planned to be auctioned to attract further exploration and investment.",
+        "• Prominent international oil companies that have secured exploration licenses in Liberia’s offshore blocks include Repsol YPF, Chevron Corporation, and Woodside Petroleum."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:39.779440",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Shipping flag of convenience",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Liberia operates an open maritime registry system, allowing ship owners to register their vessels under the Liberian flag with relatively few restrictions.",
+        "• The practice of registering ships under Liberia’s flag is commonly recognized as employing a flag of convenience.",
+        "• Liberia holds the position of having the second-largest maritime registry globally, surpassed only by Panama.",
+        "• As of the data provided, there are 4,300 vessels registered under the Liberian flag.",
+        "• Ships registered in Liberia constitute approximately 12% of the total number of ships worldwide.",
+        "• Notably, 35% of the world’s tanker fleet is registered under the Liberian flag.",
+        "• In the year 2000, Liberia’s maritime program generated revenue exceeding $18 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:42.932487",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Foreign aid",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Liberia has historically depended extensively on substantial foreign assistance from multiple countries, including the United States, Sweden, Britain, France, Italy, Germany, the People's Republic of China, and Romania.",
+        "• Foreign aid to Liberia has experienced a significant decline due to the Liberian Government's perceived disregard for human rights, which has negatively impacted donor willingness.",
+        "• Currently, the Republic of China (Taiwan) and Libya stand as the largest direct financial aid donors to the Liberian Government.",
+        "• Despite reductions in direct government aid, considerable amounts of foreign assistance continue to flow into Liberia from Western countries through international aid agencies and non-governmental organizations, thereby circumventing direct government channels."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:45.693379",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Communications",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Communications in Liberia encompass the press, radio, television, fixed and mobile telephones, and the Internet.",
+        "• Liberia has six major newspapers serving its population.",
+        "• Approximately 45% of Liberia's population has access to mobile phone services.",
+        "• The country hosts over 70 radio stations nationwide, indicating a high density of radio broadcasting.",
+        "• Montserrado County alone contains about 30 radio stations, reflecting a concentration of media outlets in this region.",
+        "• Despite ongoing economic and political challenges, Liberia's media environment is experiencing growth and expansion.",
+        "• The number of registered newspapers and radio stations, including many community-based stations, is increasing despite limited market potential.",
+        "• Liberia's media outlets publish and broadcast politically critical content and investigative journalism, demonstrating a degree of press freedom and critical engagement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:48.767771",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Formal electricity services in Liberia are exclusively provided by the state-owned Liberia Electricity Corporation, which operates a limited grid primarily within the Greater Monrovia District.",
+        "• The majority of electric energy services outside the formal grid are supplied by small, privately owned generators.",
+        "• As of the data provided, the electricity tariff in Liberia stands at $0.54 per kilowatt-hour (kWh), positioning it among the highest electricity prices globally.",
+        "• Liberia’s total installed electricity generation capacity was 20 megawatts (MW) in 2013, representing a significant reduction from its historical peak capacity of 191 MW recorded in 1989."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:52.351513",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3",
+      "section_name": "International economic networks",
+      "chapter_name": "Economy of Liberia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Liberia is a member state of the Economic Community of West African States (ECOWAS), a regional economic union aimed at promoting economic integration and cooperation among West African countries.",
+        "• Alongside Guinea and Sierra Leone, Liberia established the Mano River Union (MRU), an organization focused on development initiatives and the promotion of regional economic integration among the three member countries.",
+        "• The Mano River Union (MRU) became largely inactive and effectively defunct as a result of the Liberian civil war, which not only devastated Liberia but also caused conflict to spill over into the neighboring countries of Sierra Leone and Guinea, undermining regional stability and cooperation efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:08:55.721032",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_liberia.json",
+      "original_index": 9
+    }
+  ]
+}

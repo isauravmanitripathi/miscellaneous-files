@@ -1,0 +1,61 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_vatican_city.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.383670",
+    "total_sections_in_source": 2,
+    "extracted_sections_count": 2,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Vatican City",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Vatican City is primarily sustained through the sale of stamps, coins, medals, and tourist souvenirs, as well as through fees collected from museum admissions and publication sales.",
+        "• In 2016, Vatican City employed a total of 4,822 individuals across various sectors.",
+        "• The Italian state provides subsidies to Vatican City, which include free water supply, tax exemptions, and other forms of dedicated public funding.",
+        "• Vatican City issues its own coins and stamps, maintaining a unique monetary and philatelic identity.",
+        "• Since 1 January 1999, Vatican City has used the euro as its official currency based on a special agreement with the European Union, specifically council decision 1999/98.",
+        "• Euro coins and banknotes were introduced in Vatican City on 1 January 2002; however, the Vatican does not issue euro banknotes, only coins.",
+        "• The issuance of euro-denominated coins by Vatican City is strictly limited by treaty agreements, with a slightly increased allowance during years when there is a change in the papacy.",
+        "• Vatican euro coins are considered rare and are highly sought after by collectors worldwide due to their limited issuance and unique designs.",
+        "• Examples of Vatican euro coins include those featuring images of Pope Francis and Pope Benedict XVI, reflecting the papal succession and Vatican heritage."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:55.030742",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_vatican_city.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Key statistics",
+      "chapter_name": "Economy of Vatican City",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Vatican City's budget reported revenues amounting to €770 million.",
+        "• The expenditures for Vatican City in 2021 totaled €803 million.",
+        "• The resulting budget deficit for Vatican City in 2021 was €33 million.",
+        "• Key industries in Vatican City include printing, production of a small quantity of mosaics, and manufacturing of staff uniforms.",
+        "• Vatican City also engages in worldwide banking and financial activities as part of its economic operations.",
+        "• In 2010, Vatican City produced 442 megawatt-hours (MWh) of electricity from solar panels.",
+        "• The electricity supply for Vatican City is imported from Italy.",
+        "• Since 2002, Vatican City has used the euro as its official currency.",
+        "• Vatican City relies on Italy for the practical production of banknotes, stamps, and other valuable titles.",
+        "• Vatican euro coins are considered rare and are highly sought after by collectors.",
+        "• The fiscal year for Vatican City corresponds to the calendar year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:28:50.830876",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_vatican_city.json",
+      "original_index": 1
+    }
+  ]
+}

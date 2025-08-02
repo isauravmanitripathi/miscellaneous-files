@@ -1,0 +1,256 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_guinea.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.986311",
+    "total_sections_in_source": 8,
+    "extracted_sections_count": 8,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Guinea is primarily reliant on agriculture and other rural activities, which constitute the main sectors of productive activity in the country.",
+        "• Guinea is richly endowed with mineral resources, including an estimated quarter of the world's proven reserves of bauxite.",
+        "• The country possesses more than 1.8 billion tonnes (2.0 billion short tons) of high-grade iron ore.",
+        "• Guinea has significant deposits of diamonds and gold, along with undetermined quantities of uranium.",
+        "• In 2021, Guinea was the world's largest exporter of aluminium ore, generating approximately $3.2 billion in export revenue.",
+        "• In the same year, gold exports from Guinea amounted to about $5.5 billion.",
+        "• Guinea's trade surplus in 2021 was approximately $4.3 billion.",
+        "• The country has considerable growth potential in the agricultural and fishing sectors, supported by favorable land, water, and climatic conditions.",
+        "• These conditions provide opportunities for large-scale irrigated farming and agro-industry development.",
+        "• Remittances from Guineans living and working abroad, along with coffee exports, constitute important components of Guinea's foreign exchange earnings."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:20:01.903816",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_guinea.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Guinea was part of the franc zone countries, which included most of the former French Colonies, and after independence, these countries did not achieve complete economic independence due to France's decision against monetary autonomy, preventing the use of a freely convertible currency.",
+        "• The economic policies of the new governments initially involved import quotas and internal price controls, with the period up to around 1980 characterized by lower inflation and higher economic growth in franc-zone countries compared to Anglophone counterparts, who could utilize their own currencies.",
+        "• Post-1980, with the advent of economic liberalism and Structural Adjustment programs, franc-zone countries, including Guinea, could not outperform other nations.",
+        "• Since 1985, Guinea's government adopted policies to revitalize the private sector, promote investment, reduce state intervention, and improve administrative and judicial frameworks.",
+        "• Policy measures included eliminating restrictions on agricultural enterprises and foreign trade, liquidating many parastatals, increasing education spending, and significantly downsizing the civil service.",
+        "• Major strides were made in restructuring public finances, aiming to improve fiscal stability.",
+        "• The IMF and World Bank, along with bilateral donors such as the United States, are heavily involved in Guinea’s economic development efforts.",
+        "• Recent economic reforms led to a growth rate of approximately 5% and a reduction in inflation to about 99%, alongside increased government revenues and restrained official expenditures.",
+        "• Despite these improvements, Guinea's external debt remains high, although the country is currently up to date on external debt payments.",
+        "• The GDP per capita of Guinea declined by 16% during the 1990s.",
+        "• In 1998, Guinea revised its private investment code to stimulate economic activity aligned with free enterprise principles, ensuring no discrimination between foreigners and nationals and allowing profit repatriation.",
+        "• Foreign investments outside Conakry benefit from especially favorable conditions, with a national investment commission established to review proposals.",
+        "• The United States and Guinea signed an investment guarantee agreement providing political risk insurance to American investors through OPIC.",
+        "• Guinea plans to establish an arbitration court system to facilitate the quick resolution of commercial disputes.",
+        "• The mean wages in Guinea were $0.45 per man-hour in 2009.",
+        "• In 2002, the IMF suspended Guinea's Poverty Reduction and Growth Facility (PRGF) due to the government’s failure to meet key performance criteria; however, the World Bank noted that Guinea met its social spending goals, though increased defense spending contributed to a significant fiscal deficit.",
+        "• The suspension of IMF funds forced Guinea to finance debts via central bank advances, leading to economic imbalances that are difficult to correct.",
+        "• Under Prime Minister Diallo in December 2004, Guinea initiated reforms including allowing currency to float, loosening gasoline price controls, reducing government spending, and improving tax collection; however, inflation persisted at 27% in 2004 and 30% in 2005.",
+        "• The Guinea franc depreciated from 2,550 to the dollar in January 2005 to 5,554 in October 2006, and further to 9,089 by August 2016.",
+        "• Infrastructure remains underdeveloped, with most major roads in poor condition despite a new road connecting Guinea and Mali opened in 2005; frequent electricity and water shortages force many businesses to rely on expensive generators and fuel.",
+        "• Despite economic challenges, significant foreign investments are ongoing, including proposals for alumina refineries by Global Alumina (over $2 billion) and Alcoa and Alcan (about $1.5 billion), representing the largest private investments in sub-Saharan Africa since the Chad-Cameroon oil pipeline.",
+        "• American oil company Hyperdynamics Corporation signed an agreement in 2006 to develop offshore oil deposits in Guinea’s Senegal Basin, covering 80,000 square kilometers, and is conducting seismic exploration.",
+        "• On 13 October 2009, Guinea’s Mines Minister Mahmoud Thiam announced that the China International Fund would invest over $7 billion (£4.5 billion) in infrastructure, including ports, railway lines, power plants, low-cost housing, and a new administrative center in Conakry, positioning the firm as a strategic partner in mining projects.",
+        "• In September 2011, following the 2010 elections, Mines Minister Mohamed Lamine Fofana stated that the government had overturned the agreement with the China International Fund made by the previous military junta.",
+        "• Youth unemployment remains a major issue, with a need for policies addressing urban youth concerns, as many young people are frustrated by the disparity between their economic reality and the consumerist images seen on television."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:20:20.439226",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_guinea.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, Guinea was the world's third-largest producer of bauxite, highlighting its significant role in global bauxite supply.",
+        "• Bauxite mining and alumina production account for approximately 80% of Guinea's foreign exchange earnings, underscoring their critical importance to the national economy.",
+        "• Several U.S. companies are actively involved in Guinea's bauxite and alumina sector, indicating international corporate engagement.",
+        "• Besides bauxite, Guinea also mines and exports large quantities of diamonds and gold, which contribute additional foreign exchange revenue.",
+        "• Concession agreements have been signed for the future exploitation of Guinea's extensive iron ore deposits, indicating ongoing development in mineral resource extraction.",
+        "• Guinea is highly mineral-rich, possessing an estimated one-third of the world's proven reserves of bauxite.",
+        "• The country has over 1.8 billion metric tons (MT) of high-grade iron ore reserves, equivalent to approximately 2.0 billion short tons.",
+        "• Guinea also has significant deposits of diamonds and gold, along with undetermined quantities of uranium, reflecting its diverse mineral wealth.",
+        "• Recent increases in alumina demand, driven by China's booming economy, have renewed international interest in Guinea's mineral resources.",
+        "• The consortium of Alcan and Alcoa, partnering with the Guinean government in the CBG mining operation in northwestern Guinea, announced a feasibility study for constructing a 1 million tonnes per annum (TPa) alumina smelter.",
+        "• A Canadian start-up, Global Alumina, is attempting to develop a $2 billion alumina plant in the same region, indicating significant investment interest.",
+        "• As of April 2005, the Guinean National Assembly had not ratified Global Alumina's project, reflecting regulatory or political considerations.",
+        "• Revenue from bauxite mining was projected to decline significantly in 2010, primarily due to the global economic situation impacting demand and prices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:20:28.119778",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_guinea.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Mining controversies",
+      "chapter_name": "Economy of Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Guinea possesses substantial reserves of iron ore, a key raw material for steel production, with the Simandou iron ore project being a major focus of foreign investment and development.",
+        "• Rio Tinto was the majority owner of the $6 billion Simandou project, which it described as the world's best unexploited resource, and compared its scale to the Pilbara region in Western Australia.",
+        "• In 2017, Och-Ziff Capital Management Group pled guilty to a multi-year bribery scheme, resulting from SEC investigations, leading to a $412 million fine and subsequent legal actions.",
+        "• The SEC also filed a lawsuit against Michael Cohen, head of Och-Ziff European operations, for his involvement in the bribery scheme in Africa.",
+        "• In 2009, the Guinean government granted the northern half of the Simandou deposit to BSGR for a $165 million investment, with a commitment to spend $1 billion on railway infrastructure, citing slow progress by Rio Tinto.",
+        "• Allegations emerged that BSGR had bribed Guinea President Conté’s wife to secure the concession; investigations were conducted by the US Justice Department, FBI, and other national and international entities.",
+        "• In April 2014, the Guinean government canceled BSGR’s mining rights in Simandou. BSGR denied wrongdoing and sought arbitration in May 2014 over the expropriation.",
+        "• In February 2019, BSGR and President Alpha Condé agreed to drop all allegations and arbitration claims; BSGR relinquished rights to Simandou but retained an interest in the smaller Zogota deposit, to be developed by Mick Davis of Niron Metals.",
+        "• In 2010, Rio Tinto entered into a binding agreement with Aluminum Corporation of China Limited to establish a joint venture for developing the Simandou iron ore project.",
+        "• In November 2016, Rio Tinto admitted to paying $10.5 million to a close adviser of President Alpha Condé to secure rights to Simandou; Condé claimed ignorance of the bribe and denied any misconduct.",
+        "• France 24 obtained recordings indicating Guinean authorities were aware of the Simandou bribery activities, despite official denials.",
+        "• In July 2017, investigations were launched by the UK Serious Fraud Office and the Australian Federal Police into Rio Tinto’s business practices in Guinea.",
+        "• In November 2016, Mahmoud Thiam, Guinea’s former mining minister, accused Rio Tinto’s Guinea operations head of offering him a bribe in 2010 to regain control over part of the Simandou project.",
+        "• Guinea adopted a new mining code in September 2011, establishing a commission to review government deals made between 2008 and 2011, during the transition from dictatorship to democracy.",
+        "• In September 2015, French authorities launched an investigation into President Alpha Condé’s son, Mohamed Alpha Condé, charging him with embezzlement and accepting benefits from French companies interested in Guinea’s mining sector.",
+        "• In August 2016, a man associated with Och-Ziff, the son of a former Gabonese Prime Minister, was arrested in the US and charged with bribing officials in Guinea, Chad, and Niger to secure mining concessions and access confidential information; he also participated in rewriting Guinea’s mining law.",
+        "• In December 2016, the US Department of Justice announced that this individual pleaded guilty to conspiring to make corrupt payments to African government officials.",
+        "• According to a report by Global Witness, Sable Mining attempted to secure iron ore exploration rights to Mount Nimba by cultivating relationships with President Condé during the 2010 elections, including backing his campaign and bribing his son; these allegations remain unverified.",
+        "• In March 2016, Guinean authorities initiated an investigation into Sable Mining’s activities and other contracts, including one involving Hyperdynamic’s offshore lease allocations and Rusal’s purchase of the Friguia Aluminum refinery, which was alleged to be significantly underpaid."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:20:48.905738",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_guinea.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Guinea possesses significant potential for growth in the agricultural and fishing sectors due to favorable land, water, and climatic conditions.",
+        "• The country's natural resources create opportunities for large-scale irrigated farming and agroindustry development.",
+        "• There are considerable possibilities for investment and commercial activities across these sectors, indicating a promising economic outlook in agriculture and fishing.",
+        "• Despite these opportunities, Guinea's poorly developed infrastructure remains a major obstacle to the implementation and success of investment projects in agriculture and fishing industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:20:51.363977",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_guinea.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The energy mix in Guinea is primarily composed of three sources: biomass, oil, and hydropower.",
+        "• Biomass accounts for the largest share of primary energy consumption in Guinea, constituting 78% of the total energy use.",
+        "• The predominant form of biomass used is charcoal.",
+        "• Biomass is produced locally within Guinea, reducing reliance on imports for this energy source.",
+        "• In contrast, Guinea imports all petroleum products, indicating a dependence on foreign sources for oil-based energy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:20:52.946335",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_guinea.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Communications",
+      "chapter_name": "Economy of Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The people of Guinea are among the poorest in West Africa, which is reflected in the underdeveloped state of the country's telecommunications infrastructure.",
+        "• Radio is the most important source of information for the public in Guinea and is the only medium capable of reaching the entire country.",
+        "• Guinea has a single government-owned radio network, complemented by a growing number of private radio stations.",
+        "• There is only one government television station operating within the country.",
+        "• The fixed telephone system in Guinea is inadequate, with only 18,000 lines available to serve the entire population of approximately 10.5 million people as of 2012.",
+        "• The mobile cellular system in Guinea is expanding rapidly, with an estimated 4.8 million lines in 2012.",
+        "• Internet usage in Guinea remains very low, with only about 1.5% of the population accessing the internet in 2012."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:20:56.551271",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_guinea.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic statistics",
+      "chapter_name": "Economy of Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section provides a comprehensive overview of Guinea's main economic indicators from 1990 to 2024, including GDP figures, growth rates, inflation, government debt, and sectoral composition.",
+        "• In 1990, Guinea's GDP based on purchasing power parity (PPP) was $6.5 billion, with a GDP per capita of $1,076 PPP, and a nominal GDP of $3.7 billion.",
+        "• The GDP growth rate in 1990 was 4.3%, with inflation at 25.7%, and government debt was 71.6% of GDP.",
+        "• By 1995, GDP (PPP) increased to $8.9 billion, with GDP per capita at $1,129 PPP, and nominal GDP at $5.1 billion; growth was 4.7%, inflation decreased to 5.6%, and government debt declined to 66.5%.",
+        "• In 2000, Guinea's GDP (PPP) reached $11.7 billion, with GDP per capita at $1,332 PPP, and nominal GDP at $4.0 billion; growth slowed to 2.5%, inflation was 6.8%, and government debt rose sharply to 91.5%.",
+        "• The 2005 data shows GDP (PPP) at $15.2 billion, GDP per capita at $1,588 PPP, and nominal GDP at $4.5 billion; growth was 3.0%, inflation increased to 31.4%, and government debt was 97.9%.",
+        "• In 2006, GDP (PPP) was $16.1 billion, with GDP per capita at $1,639 PPP, nominal GDP at $4.2 billion, and growth slowed to 2.5%; inflation was 34.7%, and government debt slightly decreased to 95.2%.",
+        "• By 2007, GDP (PPP) increased to $17.6 billion, GDP per capita to $1,749 PPP, and nominal GDP to $6.3 billion; growth surged to 6.5%, inflation decreased to 22.9%, and government debt dropped to 60.8%.",
+        "• In 2008, GDP (PPP) was $18.7 billion, with GDP per capita at $1,809 PPP, and nominal GDP at $7.0 billion; growth was 4.1%, inflation was 18.4%, and government debt was 58.5%.",
+        "• The 2009 figures show a slight contraction with GDP (PPP) at $18.5 billion, GDP per capita at $1,745 PPP, and nominal GDP at $6.8 billion; GDP growth was negative at -1.5%, inflation fell to 4.7%, and government debt increased to 61.3%.",
+        "• In 2010, GDP (PPP) increased to $19.5 billion, GDP per capita to $1,792 PPP, and nominal GDP to $6.9 billion; growth was 4.2%, inflation rose to 15.5%, and government debt was 71.1%.",
+        "• 2011 data indicates GDP (PPP) at $21.0 billion, GDP per capita at $1,883 PPP, and nominal GDP at $6.8 billion; growth was 5.6%, inflation at 21.4%, and government debt decreased to 53.9%.",
+        "• In 2012, GDP (PPP) reached $22.7 billion, with GDP per capita at $1,980 PPP, and nominal GDP at $7.4 billion; growth was 5.9%, inflation was 15.2%, and government debt was 26.9%.",
+        "• The 2013 figures show GDP (PPP) at $24.0 billion, GDP per capita at $2,041 PPP, and nominal GDP at $8.4 billion; growth was 3.9%, inflation 11.9%, and government debt 34.0%.",
+        "• In 2014, GDP (PPP) was $25.3 billion, with GDP per capita at $2,099 PPP, and nominal GDP at $8.8 billion; growth was 3.7%, inflation 9.7%, and government debt 35.2%.",
+        "• The 2015 data shows GDP (PPP) at $26.5 billion, GDP per capita at $2,146 PPP, and nominal GDP at $8.8 billion; growth was 3.8%, inflation 8.2%, and government debt increased to 44.4%.",
+        "• In 2016, GDP (PPP) rose to $29.6 billion, with GDP per capita at $2,343 PPP, and nominal GDP at $8.6 billion; growth surged to 10.8%, inflation was stable at 8.2%, and government debt was 43.0%.",
+        "• The 2017 data indicates GDP (PPP) at $33.3 billion, GDP per capita at $2,566 PPP, and nominal GDP at $10.3 billion; growth was 10.3%, inflation was 8.9%, and government debt was 41.9%.",
+        "• In 2018, GDP (PPP) increased to $36.1 billion, with GDP per capita at $2,718 PPP, and nominal GDP at $11.9 billion; growth slowed to 6.4%, inflation was 9.8%, and government debt was 39.3%.",
+        "• The 2019 figures show GDP (PPP) at $40.5 billion, GDP per capita at $2,971 PPP, and nominal GDP at $13.4 billion; growth was 5.6%, inflation 9.5%, and government debt 38.6%.",
+        "• In 2020, GDP (PPP) reached $44.6 billion, with GDP per capita at $3,190 PPP, and nominal GDP at $14.1 billion; growth was 4.7%, inflation 10.6%, and government debt increased to 47.8%.",
+        "• The 2021 data shows GDP (PPP) at $51.3 billion, GDP per capita at $3,581 PPP, and nominal GDP at $16.3 billion; growth was 5.6%, inflation 12.6%, and government debt decreased to 42.7%.",
+        "• In 2022, GDP (PPP) was $57.1 billion, with GDP per capita at $3,891 PPP, and nominal GDP at $19.6 billion; growth was 4.0%, inflation 10.5%, and government debt was 40.2%.",
+        "• The 2023 estimates show GDP (PPP) at $62.5 billion, GDP per capita at $4,157 PPP, and nominal GDP at $23.0 billion; growth was 5.7%, inflation 7.8%, and government debt was 40.8%.",
+        "• Projected data for 2024 indicates GDP (PPP) at $66.6 billion, GDP per capita at $4,321 PPP, and nominal GDP at $25.5 billion; growth is estimated at 4.1%, inflation at 11.0%, and government debt at 37.8%.",
+        "• Guinea's main export destinations in 2006 included China (35.8%), Ghana (20.1%), UAE (11.6%), and India (4.3%).",
+        "• The GDP based on PPP was approximately $26.5 billion in 2017, with a real growth rate of 6.7%, and GDP per capita (PPP) at about $2,000.",
+        "• The sectoral composition of Guinea's economy in 2017 was agriculture 19.5%, industry 38.4%, and services 42.1%.",
+        "• In 2006, 47% of the population was below the poverty line.",
+        "• Household income distribution in 2007 showed the lowest 10% holding 2.7% of income, while the highest 10% held 30.3%.",
+        "• The inflation rate for consumer prices was 8.9% in 2017.",
+        "• The labor force in 2017 was approximately 5.558 million, with 76% employed in agriculture and 24% in industry and services (2006).",
+        "• The unemployment rate was 2.8% in 2017.",
+        "• Guinea ranked 179th in the Ease of Doing Business index.",
+        "• The government’s fiscal data from 2004 estimated revenues at $382.7 million and expenditures at $711.4 million, with no specified capital expenditures.",
+        "• Key industries include bauxite, gold, diamonds, alumina refining, light manufacturing, and agricultural processing industries.",
+        "• Industrial production growth was 8% in 2017.",
+        "• Electricity production in 2015 was 1 billion kWh, sourced as 63.55% from fossil fuels and 36.45% from hydroelectric sources; nuclear and other sources contributed 0%.",
+        "• Electricity consumption in 2015 was 930 million kWh, with no exports or imports reported in 2016.",
+        "• Major agricultural products include rice, coffee, pineapples, palm kernels, cassava (tapioca), bananas, sweet potatoes, cattle, sheep, goats, and timber.",
+        "• Guinea's total exports in 2017 were valued at $2.115 billion, primarily comprising bauxite, alumina, gold, diamonds, coffee, fish, and agricultural products.",
+        "• Main export partners in 2017 were China"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:21:12.678735",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 42
+      },
+      "source_file": "economy_of_guinea.json",
+      "original_index": 7
+    }
+  ]
+}

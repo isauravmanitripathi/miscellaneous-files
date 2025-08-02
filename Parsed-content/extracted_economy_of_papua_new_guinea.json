@@ -1,0 +1,630 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_papua_new_guinea.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.669452",
+    "total_sections_in_source": 25,
+    "extracted_sections_count": 25,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Papua New Guinea (PNG) is largely underdeveloped, with the vast majority of the population living below the poverty line.",
+        "• According to the Asian Development Bank, PNG's GDP is expected to grow by 3.4% in 2022 and 4.6% in 2023.",
+        "• PNG's economy is dominated by two main sectors: the agricultural, forestry, and fishing sector, and the minerals and energy extraction sector.",
+        "• The agricultural, forestry, and fishing sector employs most of PNG’s labor force.",
+        "• The minerals and energy extraction sector, which includes gold, copper, oil, and natural gas, accounts for the majority of PNG’s export earnings.",
+        "• PNG’s GDP growth has been primarily driven by the extraction industries, with real GDP growth per capita averaging 4% since the mid-2000s.",
+        "• The GDP growth rate for PNG in 2021 was 1.3%.",
+        "• PNG has made significant progress in investing proceeds from oil and gas revenues into infrastructure development.",
+        "• Major cities such as Port Moresby and Lae have attracted increased international investor attention, resulting in an unprecedented building boom.",
+        "• This urban development boom aims to capitalize on PNG’s emergence as a regional economic leader in the South Pacific.",
+        "• PNG’s strategic location serves as a gateway from the Pacific to Asia, enhancing its economic potential.",
+        "• PNG’s large landmass and demographic profile, nearly seven times that of other smaller Pacific Island nations, contribute to its economic significance in the region.",
+        "• The International Monetary Fund (IMF) reports that despite widespread poverty, PNG is richly endowed with natural resources.",
+        "• Exploitation of these resources has been hindered by rugged terrain and the high cost of infrastructure development.",
+        "• Agriculture provides a subsistence livelihood for the majority of PNG’s population.",
+        "• Mineral deposits, including oil, copper, and gold, constitute 72% of PNG’s export earnings.",
+        "• Budgetary support from Australia and development aid coordinated under World Bank auspices continue to sustain PNG’s economy.",
+        "• Australia is PNG’s largest aid donor and plans to provide $479.2 million in aid in 2023.",
+        "• In June 2021, the World Bank approved a US$100 million operation (equivalent to PGK 352 million) to support PNG’s response to the COVID-19 pandemic and to establish foundations for sustainable economic recovery."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:11.515317",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economy",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Papua New Guinea (PNG) is classified as a developing economy by the International Monetary Fund (IMF), with its economy largely dependent on natural resources.",
+        "• As of 2018, natural resource extraction accounted for 28% of PNG's overall Gross Domestic Product (GDP), with key contributors including minerals, oil, and natural gas.",
+        "• The Investment Promotion Authority of Papua New Guinea identifies the major economic sectors as agriculture and livestock, forestry, mining and petroleum, tourism and hospitality, fisheries and marine resources, manufacturing, retailing and wholesaling, building and construction, transport and telecommunications, and finance and business trade.",
+        "• PNG's economy is generally divided into subsistence and market sectors, though this distinction is blurred by smallholder cash cropping of coffee, cocoa, and copra.",
+        "• Approximately 75% of PNG's population relies primarily on the subsistence economy for their livelihood.",
+        "• The minerals, timber, and fish sectors are predominantly dominated by foreign investors, while manufacturing remains limited, resulting in a correspondingly limited formal labor sector.",
+        "• Timber and marine resources are significant exports for PNG; the country is one of the few global suppliers of tropical timber.",
+        "• The forestry industry in PNG is important economically but employs low and semi-intensive technological inputs, limiting product ranges to sawed timber, veneer, plywood, block board, moulding, poles and posts, and wood chips, with only a few finished products exported.",
+        "• Challenges in the forestry sector include lack of automated machinery, inadequately trained local technical personnel, legal uncertainties, and corruption, with estimates suggesting up to 70% of logging may be illegal.",
+        "• Marine fisheries contribute significantly, with PNG providing around 10% of the global fish catch, including a large portion of the world’s major tuna stocks.",
+        "• Renewable resources such as forests, marine resources, and agriculture remain important, with agriculture providing livelihoods for 85% of the population and contributing approximately 30% of GDP.",
+        "• Oil palm production has grown steadily in recent years, primarily from estates and extensive outgrower output, making palm oil the main agricultural export.",
+        "• Coffee remains PNG's major export crop, largely produced in the Highlands provinces, followed by cocoa and coconut oil/copra from coastal areas, both mainly produced by smallholders; tea is produced on estates, and rubber is also cultivated.",
+        "• Measuring PNG's economic growth is complicated due to distortions in GDP caused by the resource-dependent economy, and other metrics such as Gross National Income are difficult to measure accurately.",
+        "• Historical GDP estimates for PNG have changed dramatically over time, reflecting measurement challenges.",
+        "• In 2019, PNG's real GDP growth rate was 3.8%, with an inflation rate of 4.3%.",
+        "• This economic growth has been primarily driven by strong commodity prices, especially minerals and agricultural products, supported by buoyant Asian markets.",
+        "• The mining sector has been booming, and there has been a positive outlook due to the construction phase of natural gas exploration, production, and exportation in liquefied natural gas (LNG) form, involving multibillion-dollar investments in exploration, production wells, pipelines, storage, liquefaction plants, port terminals, and LNG tanker ships.",
+        "• Formal employment levels in PNG are low; although a minimum wage exists, it has declined in real terms since independence.",
+        "• In the late 2010s, approximately 40% of employed persons in urban areas worked outside agriculture, compared to only about 20% in rural areas.",
+        "• The Papua New Guinean kina is managed through a crawling peg exchange rate system, with its value heavily influenced by the country's natural resource exports.",
+        "• PNG's largest bilateral trade partner is Australia, followed by Japan and then China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:13.860884",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Mineral resources",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Ok Tedi Mine is a significant mineral resource located in southwestern Papua New Guinea and is state-run.",
+        "• Key exported minerals from Papua New Guinea include gold, copper, cobalt, and nickel, with oil and liquified natural gas (LNG) also constituting important resource exports.",
+        "• Extractive resources account for 86% of all exports, and their high value has generally enabled Papua New Guinea to maintain current account surpluses.",
+        "• The largest mine in the country is a private gold mine on Lihir Island, followed by the state-run Ok Tedi Mine, and then the Porgera Gold Mine.",
+        "• LNG exports from Papua New Guinea commenced in 2014; however, the initiation of new LNG projects has been delayed due to disputes over revenue sharing.",
+        "• In 1999, mineral production contributed 26.3% to Papua New Guinea’s gross domestic product (GDP).",
+        "• Minerals provide significant government revenues and foreign exchange earnings, with active copper and gold mines located at Porgera, Ok Tedi, Misima, Lihir, Simberi, and Hidden Valley.",
+        "• As of 2014, discussions to resume mining operations at the Panguna mine have re-emerged, with both the Autonomous Bougainville Government and the National Government of Papua New Guinea expressing interest in restarting mining activities there.",
+        "• New nickel, copper, and gold projects have been identified but are awaiting higher commodity prices before development can begin.",
+        "• By early 2011, the Mount Suckling project confirmed the discovery of at least two large, highly prospective porphyry bodies at Araboro Creek and Ioleu Creek.",
+        "• A consortium led by Chevron produces and exports oil from Papua New Guinea’s Southern Highlands Province.",
+        "• In 2001, Papua New Guinea planned to commercialize its estimated 640 km³ (23 trillion cubic feet) of natural gas reserves by constructing a gas pipeline to Queensland, Australia; however, this project was ultimately shelved.",
+        "• In 2019, Papua New Guinea ranked as the world’s 8th largest producer of cobalt and the 15th largest producer of gold.",
+        "• In 2017, the country produced 90 tons of silver.",
+        "• Mineral deposits contribute approximately 72% of Papua New Guinea’s export earnings.",
+        "• The Iagifu/Hedinia Field, located in the Papuan fold and thrust belt, was discovered in 1986.",
+        "• The first major gas project in Papua New Guinea is the PNG LNG joint venture, operated by ExxonMobil and including partners Oil Search, Santos, Kumul Petroleum Holdings (the national oil and gas company), JX Nippon Oil and Gas Exploration, the Mineral Resources Development Company, and Petromin PNG Holdings.",
+        "• The PNG LNG project is an integrated development comprising gas production and processing facilities in the Hela, Southern Highlands, and Western Provinces, as well as liquefaction and storage facilities northwest of Port Moresby with a capacity of 6.9 million tonnes per year.",
+        "• The PNG LNG project includes over 700 kilometers (430 miles) of pipelines connecting its facilities and represents the largest private-sector investment in Papua New Guinea’s history.",
+        "• A second major gas project is based on initial rights held by French oil and gas company TotalEnergies and U.S. company InterOil Corp. (IOC); in December 2013, TotalEnergies agreed to purchase 61.3% of IOC’s Antelope and Elk gas field rights with plans to develop these starting in 2016, including constructing a liquefaction plant for LNG export.",
+        "• TotalEnergies also holds a separate joint operating agreement with Oil Search.",
+        "• Additional gas and mineral projects, including the large Wafi-Golpu copper-gold mine, have been proposed, with extensive exploration ongoing throughout Papua New Guinea."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:19.190470",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Gold discovery",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Traces of gold were initially discovered in 1852 within pottery artifacts found at Redscar Bay, located on the Papuan Peninsula in Papua New Guinea."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:03.729220",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3",
+      "section_name": "Agriculture, timber, and fish",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture in Papua New Guinea encompasses crops grown for domestic sale, international export, and subsistence farming, with key export commodities including copra, copra oil, rubber, tea, cocoa, and coffee, although these exports have not experienced growth.",
+        "• The conversion of forests into oil palm plantations for palm oil production has become a significant and expanding source of employment and income in Papua New Guinea.",
+        "• Papua New Guinea produces approximately 1.6% of the global palm oil supply and 1% of the global coffee supply.",
+        "• Despite not being the largest economic sector, agriculture provides the majority of employment in the country, accounting for around 85% of all jobs.",
+        "• Nearly 40% of Papua New Guinea’s population are subsistence farmers who live relatively independently from the cash economy.",
+        "• The Papua New Guinea Constitution explicitly acknowledges traditional social groupings, expressing the desire for \"traditional villages and communities to remain as viable units of Papua New Guinean society,\" thereby protecting their ongoing importance in local and national community life.",
+        "• Farming is the most widespread economic activity in Papua New Guinea, predominantly conducted through simple rainfed surface irrigation, with agricultural techniques varying by location.",
+        "• Taro is a historical staple crop, while the introduction of sweet potato has enabled cultivation at altitudes as high as 2,700 metres (8,900 feet).",
+        "• The sago palm (_Metroxylon_) is another common crop cultivated in Papua New Guinea.",
+        "• The combined agricultural, forestry, and fishing sector employs the majority of Papua New Guinea’s labor force.",
+        "• Agriculture accounts for 25% of Papua New Guinea’s Gross Domestic Product (GDP) and supports more than 80% of the population.",
+        "• Most agricultural production is subsistence-based, with cash crops such as coffee, palm oil, cocoa, copra, tea, rubber, and sugar grown primarily for export.",
+        "• The timber industry in Papua New Guinea was inactive in 1998 due to low world prices but experienced a rebound in 1999.",
+        "• Approximately 40% of Papua New Guinea’s land area is covered with timber-rich forests, although the domestic woodworking industry has developed slowly.",
+        "• Fish exports from Papua New Guinea are primarily limited to shrimp, while foreign fishing vessels catch tuna in Papua New Guinea waters under license agreements.",
+        "• Papua New Guinea hosts the largest yam market in Asia.",
+        "• In 2021, Papua New Guinea’s agricultural production included:",
+        "• 3.0 million tons of palm oil, ranking as the 7th largest global producer;",
+        "• 1.8 million tons of coconut, also the 7th largest global producer;",
+        "• 1.3 million tons of bananas;",
+        "• 1.1 million tons of fresh fruits (not elsewhere specified);",
+        "• 699 thousand tons of sweet potato, ranking 17th globally;",
+        "• 371 thousand tons of yam;",
+        "• 361 thousand tons of roots and tubers;",
+        "• 353 thousand tons of sugar cane;",
+        "• 322 thousand tons of vegetables;",
+        "• 278 thousand tons of taro;",
+        "• 247 thousand tons of green maize;",
+        "• 156 thousand tons of cassava;",
+        "• 109 thousand tons of berries (not elsewhere specified);",
+        "• 42 thousand tons of coffee;",
+        "• 42 thousand tons of cocoa.",
+        "• Additional smaller agricultural productions in 2021 included natural rubber at 7.7 thousand tons and tea at 5.5 thousand tons."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:11.516723",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 33
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "4",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Papua New Guinea economy is heavily reliant on imports for manufactured goods, indicating limited domestic production capacity in this sector.",
+        "• The industrial sector of Papua New Guinea, excluding mining activities, contributes only 9% to the country’s Gross Domestic Product (GDP), reflecting a relatively small role in the overall economy.",
+        "• Industrial production in Papua New Guinea contributes minimally to the country’s export earnings, highlighting limited international competitiveness in manufactured goods.",
+        "• Small-scale industries in Papua New Guinea produce a diverse range of products including beer, soap, concrete products, clothing, paper products, matches, ice cream, canned meat, fruit juices, furniture, plywood, and paint.",
+        "• The development of the industrial sector in Papua New Guinea faces significant constraints due to the small size of the domestic market, which limits economies of scale and demand for locally produced goods.",
+        "• Relatively high wages in Papua New Guinea act as a barrier to industrial growth by increasing production costs compared to other countries.",
+        "• High transport costs within Papua New Guinea further hinder industrial development by raising the expenses associated with distributing goods domestically and internationally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:05.673053",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "5",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Until the second half of 2007, information and communication technology (ICT) services in Papua New Guinea (PNG) were confined primarily to urban centres and operated under the monopoly of Telikom PNG, the national telecommunications provider (Mitchel 2008).",
+        "• In the latter half of 2007, the Irish-owned telecommunications company Digicel entered the PNG mobile market, breaking the monopoly and significantly expanding mobile signal coverage throughout the country.",
+        "• The entry of Digicel facilitated increased connectivity for a broad segment of the PNG population, transforming the communications landscape from limited urban access to widespread mobile availability.",
+        "• By 2014, mobile phone penetration in Papua New Guinea had reached 41 percent, indicating substantial growth in mobile telecommunications adoption within a relatively short period.",
+        "• As of 2017, Papua New Guinea had approximately 42.68 mobile phone users per 100 population, reflecting continued expansion in mobile usage across the country.",
+        "• Despite improvements in mobile telephony, Papua New Guinea exhibited a low level of broadband uptake, with broadband penetration estimated at only 0.213 per 100 population in 2017, highlighting ongoing challenges in internet accessibility and infrastructure development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:08.029472",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "6",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In Papua New Guinea, particularly in rural areas, there is a significant reliance on traditional sources of biomass energy for cooking purposes."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:06.700269",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "6.0.1",
+      "section_name": "Access to electricity",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• By the year 2017, only 50.42% of Papua New Guinea's rural population had access to electricity, indicating limited electrification in non-urban areas.",
+        "• In contrast, 80.23% of the urban population in Papua New Guinea had access to electricity in 2017, reflecting higher electrification rates in cities and towns.",
+        "• Despite relatively higher urban access, frequent power outages occur in urban centers due to limitations in the transmission and distribution infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:08.854026",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "6.0.2",
+      "section_name": "Consumption",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, Papua New Guinea's electricity consumption was estimated at 3.116 billion kilowatt-hours (kWh)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:08.875789",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "6.0.3",
+      "section_name": "Generation",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, Papua New Guinea's electricity production was estimated at 3.35 billion kilowatt-hours (kWh)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:09.975875",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "6.0.4",
+      "section_name": "Transmission and distribution",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• PNG Power Ltd (PPL) is responsible for operating three distinct electrical grids within Papua New Guinea.",
+        "• The first major grid operated by PPL is the Port Moresby system, which serves the National Capital District, the administrative and economic center of the country.",
+        "• The second large grid managed by PPL is the Ramu grid, notable for its extensive reach into the highlands region of Papua New Guinea.",
+        "• In addition to the two large grids, PPL also operates a smaller grid known as the Gazelle Peninsula Grid.",
+        "• The Gazelle Peninsula Grid is primarily powered by a 10 megawatt (MW) run-of-river hydroelectric plant, highlighting the use of renewable energy sources in this area."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:11.838021",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "6.0.5",
+      "section_name": "Entities and institutions",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Electricity Commission (ELCOM) of Papua New Guinea was privatised following the enactment of the Electricity Commission (Privatization) Act 2002.",
+        "• PNG Power Limited (PPL) is the successor entity to ELCOM and operates as a vertically integrated utility.",
+        "• PNG Power Limited (PPL) holds comprehensive responsibilities encompassing the generation, transmission, distribution, and retailing of electricity across the entire territory of Papua New Guinea."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:11.618740",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "6.0.6",
+      "section_name": "Renewable energy",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• A study conducted by Bloomberg New Energy Finance ranked Papua New Guinea (PNG) among the top 10 countries globally for potential renewable energy resources.",
+        "• The study identified that PNG possesses approximately 2.5 gigawatts (GW) of renewable energy potential.",
+        "• Despite this significant potential, only about 2% of PNG's renewable energy resources have been exploited to date."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:13.559782",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "6.0.6.1",
+      "section_name": "Hydroelectric projects",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Yonki Dam project, located on the Ramu River in Papua New Guinea, began operation in 1991.",
+        "• The existing generation capacity of the Yonki Dam (Ramu 1) is 77 megawatts (MW), equivalent to 103,000 horsepower (hp).",
+        "• There is a proposed plan to add an additional 18 MW of generation capacity to the Yonki Dam project."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:13.810952",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "6.0.6.1.1",
+      "section_name": "Proposed projects",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The proposed Ramu 2 hydro project on the Ramu River is valued at US$2 billion and is planned to be developed through a public-private partnership with Shenzhen Energy Group.",
+        "• The Edevu Dam is scheduled for construction by PNG Hydro Development Ltd (PNGHDL) and is designed to generate 50 Megawatts (MW) of electricity.",
+        "• Feasibility studies for the Naoro Brown hydroelectricity Project, intended to supply up to 80 MW of electricity to the Port Moresby grid, have been conducted by consultants working for PNG Power."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:18.475893",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "7",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Papua New Guinea’s mountainous terrain significantly impedes transport infrastructure and connectivity across the country.",
+        "• Aeroplanes have played a crucial role since the colonial period in opening up Papua New Guinea and continue to be the primary mode of travel and transport for most high-density and high-value freight.",
+        "• The capital city, Port Moresby, lacks road connections to any of Papua New Guinea’s other major towns, highlighting the limited road transport network.",
+        "• Many remote villages, particularly in the highlands, are accessible only by light aircraft or on foot, underscoring the challenges posed by the terrain.",
+        "• Jacksons International Airport, located 8 kilometres (5 miles) from Port Moresby, serves as the major international airport in Papua New Guinea.",
+        "• In addition to Jacksons International Airport and two other international airfields, Papua New Guinea has over 500 airstrips, most of which are unpaved, facilitating air travel to remote areas.",
+        "• The national airline, Air Niugini, operates primarily out of Jacksons International Airport, serving as the country’s main carrier.",
+        "• Papua New Guinea has no major railway systems; however, some disused railway tracks exist at certain mining sites, indicating limited historical rail infrastructure.",
+        "• The country possesses 10,940 kilometres (6,800 miles) of waterways, which contribute to its transport network.",
+        "• Commercial port facilities are located at multiple sites including Port Moresby, Alotau, Oro Bay, Lae, Kimbe, Kieta Madang, Buka, Rabaul/Kokopo, Kiunga, Wewak, and Vanimo, supporting maritime trade and transport."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:17.874045",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "8",
+      "section_name": "Finance",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Bank of Papua New Guinea (BPNG) serves as the central bank of Papua New Guinea, with primary responsibilities including issuing the national currency and acting as the banker and financial agent to the Government of Papua New Guinea.",
+        "• BPNG is tasked with regulating banking institutions and other financial services within the country, ensuring the stability and integrity of the financial sector.",
+        "• The bank manages Papua New Guinea’s gold reserves, foreign exchange reserves, and other international reserves, playing a critical role in the country’s monetary stability and international financial relations.",
+        "• BPNG actively develops policies aimed at promoting financial inclusion, seeking to increase access to financial services for all segments of the population.",
+        "• The bank is a member of the Alliance for Financial Inclusion, an organization established in 2008 to support the development of inclusive financial sectors globally.",
+        "• In 2013, BPNG made a formal commitment under the Maya Declaration to create an enabling environment that fosters the growth of an inclusive financial sector in Papua New Guinea.",
+        "• The official currency of Papua New Guinea is the kina, which is issued by BPNG; the kina was introduced on 19 April 1975, replacing the Australian dollar as the national currency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:21.773988",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "9",
+      "section_name": "Trade and investment",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2014, Papua New Guinea's merchandise exports comprised 41% fuels and mining, 23.8% agriculture, 6.2% manufacturing, and 29% other categories.",
+        "• The major destinations for Papua New Guinea's merchandise exports in 2014 were Australia (39.9%), the European Union (20.2%), Japan (11.7%), China (6.7%), and Singapore (5.6%).",
+        "• In 2014, Papua New Guinea's merchandise imports consisted of 17.8% fuels and mining, 11.4% agriculture, 69.4% manufacturing, and 1.4% other categories.",
+        "• The principal source countries for Papua New Guinea's merchandise imports in 2014 were Australia (34.4%), Singapore (14.3%), the European Union (8.3%), China (6.9%), and Japan (6.4%).",
+        "• Petroleum, mining machinery, and aircraft have historically been the primary exports from the United States to Papua New Guinea.",
+        "• In 1999, a decline in mineral exploration and new mineral investments in Papua New Guinea corresponded with a decrease in United States exports to the country.",
+        "• The largest U.S. import from Papua New Guinea is crude oil, followed by gold, cocoa, coffee, and copper ore.",
+        "• U.S. companies are actively involved in developing Papua New Guinea's mining and petroleum sectors, with Chevron operating the Kutubu and Gobe oil projects and developing natural gas reserves.",
+        "• A petroleum refinery project in Port Moresby, with American interests, is under development, designed to process 5,000–6,000 m³ (30,000–40,000 barrels) of oil per day.",
+        "• Papua New Guinea became a participating economy in the Asia-Pacific Economic Cooperation (APEC) Forum in 1993.",
+        "• In 1996, Papua New Guinea joined the World Trade Organization (WTO)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:21.162503",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "10",
+      "section_name": "Development programs and aid",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Papua New Guinea is highly dependent on foreign aid for its economic development and support.",
+        "• Australia has been the largest bilateral aid donor to Papua New Guinea, providing AUD 506 million (USD 376 million) in 2016.",
+        "• Australian budgetary support to Papua New Guinea, which had been provided since independence, was phased out in 2000; subsequent aid has been concentrated on project development rather than direct budget support.",
+        "• Other major sources of aid to Papua New Guinea include Japan, the European Union, the People's Republic of China, the Republic of China (Taiwan), the United Nations, the Asian Development Bank, the International Monetary Fund, and the World Bank.",
+        "• Volunteers from various countries, including the United States, as well as mission church workers, contribute to education, health, and development assistance across Papua New Guinea.",
+        "• In July 2024, the International Monetary Fund (IMF) planned to provide Papua New Guinea with immediate access to approximately USD 125 million.",
+        "• The IMF funding aims to support Papua New Guinea’s reform agenda, protect vulnerable populations, and foster inclusive economic growth.",
+        "• The IMF assistance focuses on strengthening debt sustainability, alleviating foreign exchange shortages, and enhancing governance and anti-corruption frameworks in Papua New Guinea."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:18.623858",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "11",
+      "section_name": "Land tenure",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Over 97% of Papua New Guinea’s land is designated as customary land, held collectively by indigenous communities, though many such titles remain unregistered and effectively informal, with land registration efforts achieving very limited success.",
+        "• The Papua New Guinea legislature has enacted laws recognizing a form of tenure known as \"customary land title,\" which provides traditional indigenous lands with a legal basis for inalienable tenure, covering approximately 97% of the country’s total land area.",
+        "• Alienated land in Papua New Guinea is either held privately under state lease or is government land, with freehold title (fee simple) being restricted exclusively to Papua New Guinean citizens.",
+        "• Only about 3% of Papua New Guinea’s land is in private hands, held under 99-year state leases or by the State; virtually no freehold titles exist, as any freeholds are automatically converted to state leases upon transfer between vendor and purchaser.",
+        "• Unalienated land is owned under customary title by traditional landowners, with the precise nature of ownership (seisin) varying among different cultural groups; while many portray land as communally owned by clans, detailed studies reveal that smallest indivisible land portions are held by individual heads of extended families and their descendants.",
+        "• Identifying the membership and rightful owners of customary landowning groups is a critical issue for economic development, as disputes between mining and forestry companies and landowner groups often hinge on whether contractual agreements were made with the true landowners.",
+        "• Customary property, primarily land, cannot be devised by will but must be inherited according to the customs of the deceased’s people.",
+        "• The Lands Act and the Land Group Incorporation Act were amended in 2010 to improve state land management, enhance dispute resolution mechanisms, and enable customary landowners better access to finance and partnerships for developing portions of their land for urban or rural economic activities.",
+        "• The Land Group Incorporation Act mandates more precise identification of customary landowners and requires their explicit authorization before any land arrangements are finalized, addressing prior issues of unclear ownership and consent.",
+        "• A significant recent problem has been the misuse of the Lease-Leaseback provision under the Land Act, particularly through Special Agricultural and Business Leases (SABLs), which have been used to acquire large tracts of customary land purportedly for agricultural projects but effectively as a back-door method to secure tropical forest resources for logging.",
+        "• SABLs circumvent the Forest Act’s stricter requirements for Timber Permits, which mandate sustainability compliance, competitive securing processes, and customary landowners’ approval.",
+        "• Following widespread national outcry over SABL abuses, a Commission of Inquiry was established in mid-2011 to investigate these leases; as of the latest information, the Commission’s report is awaited for initial presentation to the Prime Minister and Parliament."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:27.037730",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "12",
+      "section_name": "Science and technology",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Papua New Guinea adopted its National Vision 2050 in 2009, which led to the establishment of the Research, Science and Technology Council aimed at promoting sustainable development through science and technology.",
+        "• At the Council's meeting in November 2014, there was a renewed emphasis on focusing efforts on sustainable development via science and technology initiatives.",
+        "• The medium-term priorities outlined in Vision 2050 include: emerging industrial technology for downstream processing; infrastructure technology development for economic corridors; advancement of knowledge-based technology; enhancement of science and engineering education; and achieving a target of investing 5% of GDP in research and development by the year 2050.",
+        "• In 2016, Papua New Guinea invested only 0.03% of its GDP in research and development, indicating a significant gap from the Vision 2050 target.",
+        "• Women comprised 33.2% of researchers in Papua New Guinea in 2016, reflecting gender representation in the scientific workforce.",
+        "• According to Thomson Reuters' Web of Science, Papua New Guinea led Pacific Island states in scientific publications in 2014 with 110 publications, followed by Fiji with 106 publications.",
+        "• Approximately 90% of Papua New Guinea’s scientific publications in 2014 focused on immunology, genetics, biotechnology, and microbiology.",
+        "• Around 90% of these publications were co-authored with international scientists, primarily from Australia, the United States of America, the United Kingdom, Spain, and Switzerland.",
+        "• In 2019, Papua New Guinea produced 253 scientific publications indexed in the Scopus (Elsevier) database, with health sciences accounting for 49% of these publications.",
+        "• From 2017 to 2019, Papua New Guinea’s top scientific collaborators were Australia, the United States of America, the United Kingdom, France, and India.",
+        "• Renewable energy sources accounted for two-thirds of Papua New Guinea’s total electricity supply, highlighting the country’s reliance on sustainable energy.",
+        "• In 2015, the Secretariat of the Pacific Community noted that Fiji, Papua New Guinea, and Samoa were leading the Pacific region with large-scale hydropower projects, while also recognizing significant potential for expanding solar, wind, geothermal, and ocean-based renewable energy options.",
+        "• The European Union funded the Renewable Energy in Pacific Island Countries Developing Skills and Capacity programme (EPIC) from 2013 to 2017, which developed a master's programme in renewable energy management accredited in 2016 at the University of Papua New Guinea.",
+        "• The EPIC programme also supported the establishment of a Centre of Renewable Energy at the University of Papua New Guinea.",
+        "• Papua New Guinea is one of 15 beneficiaries of the €37.26 million Adapting to Climate Change and Sustainable Energy programme, resulting from an agreement signed in February 2014 between the European Union and the Pacific Islands Forum Secretariat.",
+        "• The other 14 beneficiaries of this programme include the Cook Islands, Fiji, Kiribati, Marshall Islands, Federated States of Micronesia, Nauru, Niue, Palau, Samoa, Solomon Islands, Timor-Leste, Tonga, Tuvalu, and Vanuatu."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:28.891059",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "13",
+      "section_name": "Economic conditions",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• By mid-1999, Papua New Guinea's economy was in crisis despite recovery in the agricultural sector from the 1997 drought and rising timber prices due to Asian economies recovering from the 1998 slump.",
+        "• Papua New Guinea's foreign currency earnings declined significantly in 1999 because of low world mineral and petroleum prices, with minerals exploration expenditure estimated at one-third of the 1997 level.",
+        "• The decline in foreign exchange earnings, capital flight, and government mismanagement caused a sharp depreciation of Papua New Guinea's currency, the kina, leading to a dangerous reduction in foreign currency reserves; the kina had been floating since 1994.",
+        "• Economic activity contracted across most sectors in 1999, imports decreased, and inflation dropped from over 21% in 1998 to an estimated 8% annually in 1999.",
+        "• The government formed by Sir Mekere Morauta in July 1999 cited the previous administration’s failure to secure acceptable commercial loans or bond sales to cover the budget deficit and successfully requested emergency assistance from the International Monetary Fund (IMF) and the World Bank.",
+        "• With IMF and World Bank support, the Morauta government made significant progress toward macroeconomic stabilization and economic reform.",
+        "• As of 2019, despite statistical indications of economic recovery, Papua New Guinea’s economy continued to face substantial challenges.",
+        "• Papua New Guinea’s rugged terrain, including high mountain ranges, valleys, swamps, and islands, combined with high infrastructure development costs, law and order issues in some areas, and the customary land title system, create obstacles for external developers.",
+        "• Local developers are further hindered by long-term underinvestment in education, health, and access to finance.",
+        "• The country’s difficult terrain has impeded transportation infrastructure development, making air travel the most efficient and reliable mode of transport; there are five highways, but only two extend into the interior, and domestic shipping is limited.",
+        "• Housing quality is generally low: in the late 2010s, only 15% of houses had finished floors; in urban areas, 55% of houses were connected to electricity in 2016, while rural areas had only 10% electricity connection, an increase from 3% in 1996.",
+        "• Over half of urban houses had access to piped water, compared to only 15% in rural areas, though rural households had greater access to wells; the average occupancy was 2.5 persons per room.",
+        "• Hydropower is generated by the Sirinumu Dam and Yonki Dam, but sewage treatment is limited, even in the capital, with some sewage discharged directly into the ocean, causing pollution problems.",
+        "• Former Prime Minister Sir Mekere Morauta sought to restore integrity to state institutions, stabilize the kina, achieve national budget stability, privatize public enterprises where appropriate, and maintain peace on Bougainville following the 1997 agreement ending Bougainville’s secessionist unrest.",
+        "• The Morauta government successfully attracted international support, notably from the IMF and World Bank, securing development assistance loans.",
+        "• Papua New Guinea’s long-term Vision 2050 and shorter-term policy documents, including the 2013 Budget and the 2014 Responsible Sustainable Development Strategy, emphasize economic diversification based on sustainable industries to avoid Dutch disease effects from major resource extraction projects.",
+        "• The Dutch disease phenomenon, observed in countries with oil or mineral booms (notably in Western Africa), undermines agriculture, manufacturing, tourism, and broad-based employment, which Papua New Guinea aims to mitigate.",
+        "• Measures to counteract Dutch disease include establishing a sovereign wealth fund to stabilize revenue and expenditure flows, though success depends on implementing reforms to improve revenue use, combat corruption, and empower households and businesses to access markets and services.",
+        "• Economic development focused on extractive industries poses difficult consequences for local communities; a major project by the PNG Department for Community Development recommended exploring alternative pathways to sustainable development.",
+        "• The Institute of National Affairs, an independent Papua New Guinea policy think tank, produces a quinquennial report on the business and investment environment based on surveys of large and small, local and foreign companies, identifying law and order problems and corruption as the most significant impediments, followed by poor transport, power, and communications infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:35.372946",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "13.1",
+      "section_name": "Main indicators",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1980, Papua New Guinea's GDP at purchasing power parity (PPP) was 10.1 billion US dollars, with a per capita GDP of 1,067 US dollars; the nominal GDP was 4.1 billion US dollars, real GDP growth was −2.3%, inflation stood at 12.1%, and government debt data was not available.",
+        "• By 1985, GDP (PPP) increased to 11.9 billion US dollars, per capita GDP rose to 1,323 US dollars, nominal GDP was 3.3 billion US dollars, real GDP growth was positive at 3.6%, inflation decreased to 3.7%, and government debt data remained unavailable.",
+        "• In 1990, Papua New Guinea's GDP (PPP) reached 15.4 billion US dollars, with a per capita GDP of 1,462 US dollars; nominal GDP was 4.8 billion US dollars, real GDP growth was negative at −3.0%, inflation was 7.0%, and government debt data was not provided.",
+        "• The year 1995 saw a significant rise in GDP (PPP) to 23.4 billion US dollars and per capita GDP to 2,067 US dollars; nominal GDP increased to 7.1 billion US dollars, real GDP growth was −3.4%, inflation rose to 17.3%, and government debt was recorded at 36% of GDP.",
+        "• In 2000, GDP (PPP) further increased to 29.6 billion US dollars, while per capita GDP slightly decreased to 2,056 US dollars; nominal GDP was 5.2 billion US dollars, real GDP growth was −2.5%, inflation was 15.6%, and government debt rose to 42% of GDP.",
+        "• The year 2005 marked a drop in GDP (PPP) to 13.2 billion US dollars, with per capita GDP increasing to 2,280 US dollars; nominal GDP was 7.3 billion US dollars, real GDP growth turned positive at 3.9%, inflation decreased sharply to 1.8%, and government debt declined to 32% of GDP.",
+        "• In 2006, GDP (PPP) rose slightly to 13.9 billion US dollars, per capita GDP increased to 2,348 US dollars; nominal GDP was 8.4 billion US dollars, real GDP growth slowed to 2.3%, inflation was 2.4%, and government debt further decreased to 26% of GDP.",
+        "• By 2007, GDP (PPP) increased to 15.9 billion US dollars with per capita GDP steady at 2,348 US dollars; nominal GDP rose to 9.5 billion US dollars, real GDP growth surged to 11.1%, inflation dropped to 0.9%, and government debt was 23% of GDP.",
+        "• In 2008, GDP (PPP) slightly increased to 16.1 billion US dollars, per capita GDP grew to 2,617 US dollars; nominal GDP reached 11.7 billion US dollars, real GDP growth was marginally negative at −0.3%, inflation rose to 10.8%, and government debt was 22% of GDP.",
+        "• The year 2009 recorded GDP (PPP) of 17.3 billion US dollars, per capita GDP at 2,600 US dollars; nominal GDP was 11.6 billion US dollars, real GDP growth rebounded to 6.8%, inflation decreased to 6.9%, and government debt remained at 22% of GDP.",
+        "• In 2010, GDP (PPP) grew to 19.3 billion US dollars, per capita GDP increased to 2,891 US dollars; nominal GDP was 14.3 billion US dollars, real GDP growth was strong at 10.1%, inflation rose to 5.1%, and government debt declined to 17% of GDP.",
+        "• For 2011, GDP (PPP) reached 20.0 billion US dollars, per capita GDP slightly decreased to 2,830 US dollars; nominal GDP rose to 18.0 billion US dollars, real GDP growth slowed to 1.1%, inflation was 4.4%, and government debt further decreased to 16% of GDP.",
+        "• In 2012, GDP (PPP) increased to 21.3 billion US dollars, per capita GDP was 2,861 US dollars; nominal GDP grew to 21.3 billion US dollars, real GDP growth improved to 4.6%, inflation slightly increased to 4.5%, and government debt rose to 19% of GDP.",
+        "• The year 2013 saw GDP (PPP) rise to 22.4 billion US dollars, per capita GDP increased to 2,954 US dollars; nominal GDP remained at 21.3 billion US dollars, real GDP growth was 3.8%, inflation increased to 5.0%, and government debt increased to 25% of GDP.",
+        "• In 2014, GDP (PPP) significantly increased to 25.7 billion US dollars, per capita GDP rose to 3,313 US dollars; nominal GDP grew to 23.2 billion US dollars, real GDP growth surged to 12.5%, inflation increased to 5.2%, and government debt rose to 27% of GDP.",
+        "• For 2015, GDP (PPP) further increased to 28.0 billion US dollars, per capita GDP reached 3,540 US dollars; nominal GDP decreased slightly to 21.7 billion US dollars, real GDP growth slowed to 9.0%, inflation rose to 6.0%, and government debt increased to 29% of GDP.",
+        "• In 2016, Papua New Guinea's GDP (PPP) was 29.1 billion US dollars, with a per capita GDP of 3,597 US dollars; nominal GDP was 20.8 billion US dollars, real GDP growth slowed to 2.4%, inflation increased to 6.7%, and government debt rose to 32% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:46.432811",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "14",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Papua New Guinea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, the lowest 10% of households in Papua New Guinea accounted for 4.3% of total income or consumption, while the highest 10% accounted for 36%.",
+        "• The labour force of Papua New Guinea is approximately 2.078 million individuals.",
+        "• Electricity production in Papua New Guinea in 2008 was 2,200 gigawatt-hours (GWh).",
+        "• The sources of electricity production in 2008 were predominantly fossil fuels at 67.78%, followed by hydroelectric power at 32.22%, with no contribution from nuclear or other sources.",
+        "• Electricity consumption in Papua New Guinea in 2008 was recorded at 2,000 GWh.",
+        "• Electricity exports in 2008 were minimal, totaling 10 kilowatt-hours (kWh).",
+        "• Papua New Guinea did not import any electricity in 2008, with imports recorded at 0 kWh.",
+        "• The primary agricultural products of Papua New Guinea include coffee, cocoa, coconuts, palm kernels, tea, rubber, sweet potatoes, various fruits and vegetables, poultry, pork, and vanilla.",
+        "• The national currency of Papua New Guinea is the kina (K), subdivided into 100 toea.",
+        "• Historical exchange rates of the kina against the US dollar show a depreciation over time: 3.14 K per US$1 in April 2016; 2.7624 K in November 1999; 2.520 K in 1999; 2.058 K in 1998; 1.434 K in 1997; 1.318 K in 1996; and 1.276 K in 1995."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:46:27.006150",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_papua_new_guinea.json",
+      "original_index": 24
+    }
+  ]
+}

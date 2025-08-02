@@ -1,0 +1,164 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_monaco.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.384807",
+    "total_sections_in_source": 7,
+    "extracted_sections_count": 7,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Monaco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Monaco is primarily dependent on tourism and banking sectors.",
+        "• Monaco is located on the French coast of the Mediterranean Sea, making it a popular resort destination.",
+        "• The principality attracts tourists largely due to its casino and its pleasant Mediterranean climate.",
+        "• Monaco has strategically diversified its economy into services and small, high-value-added, nonpolluting industries.",
+        "• The state imposes no income tax and maintains low business taxes, contributing to its status as a tax haven.",
+        "• Monaco serves as a tax haven for both individuals who establish residence there and for foreign companies that set up businesses and offices within its territory.",
+        "• The government of Monaco retains monopolies in several sectors, including gambling, tobacco, the telephone network, and the postal service.",
+        "• Historically, Monaco produced denture adhesion rings during the early to mid-20th century, indicating some industrial activity in the past."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:42:33.464663",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_monaco.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Background",
+      "chapter_name": "Economy of Monaco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Economic development in Monaco was significantly stimulated in the late 19th century, marked notably by the establishment of a rail link connecting Monaco to France.",
+        "• The opening of the Monte Carlo Casino during the same period played a crucial role in accelerating Monaco's economic growth and development.",
+        "• In the contemporary period, Monaco's economy is predominantly oriented towards the sectors of finance, services, and real estate, reflecting a shift from its earlier economic foundations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:42:35.517569",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_monaco.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Modern times",
+      "chapter_name": "Economy of Monaco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Low taxes in Monaco have attracted numerous foreign individuals and account for approximately 75% of the Principality’s $7.78 billion annual GDP income as of 2021.",
+        "• Tourism contributes close to 15% of Monaco’s annual revenue, with the Principality being a major tourism center since the establishment of the Monte Carlo Casino in 1856.",
+        "• The main contributors to Monaco’s GDP include financial and insurance activities, as well as scientific and support-administrative activities.",
+        "• Wholesale trade represents 10% of Monaco’s GDP, construction accounts for 9.1%, and real estate activities contribute 7.8%, making these sectors significant to the economy.",
+        "• Monaco’s real estate market is recognized as one of the most expensive in the world.",
+        "• The banking sector in Monaco is substantial; in 2015, consolidated banking assets were 8.42 times greater than the country’s GDP.",
+        "• Banks operating in Monaco traditionally specialize in private banking, asset management, and wealth management services.",
+        "• Following banking, wholesale trade, construction, and real estate are the next largest sectors in the economic ranking.",
+        "• Monaco has an economic and customs union with France, which governs customs, postal services, telecommunications, and banking within the Principality.",
+        "• Prior to adopting the euro, Monaco used the Monegasque franc, which was pegged to the French franc.",
+        "• Monaco is part of the Eurozone but not a member of the European Union, and it mints its own euro coins.",
+        "• All residents in Monaco pay a 20% value-added tax (VAT) on all goods and services.",
+        "• Monaco is notable for its marine sciences activities; the Oceanographic Museum, once directed by Jacques-Yves Cousteau, is internationally renowned.",
+        "• Monaco imports and exports products and services globally, reflecting its open economic interactions.",
+        "• There is no commercial agriculture in Monaco; the country is entirely urbanized, with 100% of its land area classified as urban."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:42:42.781759",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_monaco.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Tax haven",
+      "chapter_name": "Economy of Monaco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Monaco imposes no personal income tax on individuals, which has attracted a significant number of wealthy \"tax refugee\" residents from European countries who earn most of their income outside Monaco.",
+        "• Among these residents, high-profile individuals such as Formula One drivers receive considerable attention, but the majority are lesser-known businesspeople.",
+        "• In 2000, French parliamentarians Arnaud Montebourg and Vincent Peillon published a report alleging that Monaco had lax anti-money laundering policies, including within its famous casino, and accused the Monegasque government of exerting political pressure on the judiciary to prevent proper investigation of alleged crimes.",
+        "• The Organisation for Economic Co-operation and Development (OECD) issued its first report on the impact of tax havens in 1998; Monaco was not initially listed but appeared in the 2004 report alongside Andorra, Liechtenstein, Liberia, and the Marshall Islands due to its lack of cooperation in financial information disclosure and availability.",
+        "• In 2000, the Financial Action Task Force on Money Laundering (FATF) acknowledged that Monaco’s anti-money laundering system was comprehensive but noted difficulties encountered by other countries in international investigations involving Monaco, especially linked to tax matters.",
+        "• The FATF also highlighted that Monaco’s Financial Intelligence Unit (FIU), known as SICCFIN, suffered from a significant lack of adequate resources, though Monegasque authorities committed to providing additional resources to SICCFIN.",
+        "• By the 2005 FATF report, Monaco was no longer criticized, along with all other territories previously under scrutiny.",
+        "• In 2003, the International Monetary Fund (IMF) identified Monaco as one of 37 tax havens worldwide, but Monaco was removed from this list in 2009.",
+        "• In June 2024, the FATF placed Monaco on a list of countries \"under increased monitoring\" due to ongoing concerns about money laundering and terror financing, stating that Monaco needed to address \"strategic deficiencies\" in its regulatory framework."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:42:51.371731",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_monaco.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "National enterprises",
+      "chapter_name": "Economy of Monaco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Monaco's economy significantly relies on national companies, which collectively generate over one billion euros in profit annually.",
+        "• Among the most profitable and internationally recognized companies based in Monaco is the Société des bains de mer, a prominent enterprise within the principality.",
+        "• UBS Monaco, a banking institution operating in Monaco, is also noted as one of the key profitable national companies contributing to the economy.",
+        "• The auction house Monaco Legend Group is another well-known company from Monaco, recognized for its profitability and international presence.",
+        "• Lagardère News, a media conglomerate, is included among Monaco's major national enterprises with substantial economic impact."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:42:54.865770",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_monaco.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Companies",
+      "chapter_name": "Economy of Monaco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the sector with the highest number of companies registered in Monaco was Finance, Insurance, and Real Estate, comprising 4,497 companies.",
+        "• The Services sector was the second largest in terms of company registration in Monaco in 2022, with a total of 1,895 companies.",
+        "• The third largest sector by number of registered companies in Monaco in 2022 was not explicitly named but accounted for 1,184 companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:42:57.834780",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_monaco.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "Public finances",
+      "chapter_name": "Economy of Monaco",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Monaco recorded government revenues totaling 2.19 billion EUR.",
+        "• Government expenses in Monaco for the year 2023 amounted to 2.07 billion EUR.",
+        "• The fiscal outcome for Monaco in 2023 was a budget surplus of 126 million EUR.",
+        "• Monaco's Constitutional Reserve Fund (CRF), which constitutes the state's fiscal reserves, reached a balance of 7 billion EUR in 2023.",
+        "• The CRF balance increased from 5.7 billion EUR in 2019 to 7 billion EUR in 2023, indicating significant growth in fiscal reserves over four years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:43:00.909182",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_monaco.json",
+      "original_index": 6
+    }
+  ]
+}

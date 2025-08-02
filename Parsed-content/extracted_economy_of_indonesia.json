@@ -1,0 +1,1137 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_indonesia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.072673",
+    "total_sections_in_source": 40,
+    "extracted_sections_count": 40,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Indonesia is characterized as a mixed economy with dirigiste (state-directed) features, making it one of the emerging market economies globally and the largest in Southeast Asia.",
+        "• Indonesia is classified as an upper-middle income country and is a member of the G20, indicating its significant role in the global economy.",
+        "• It is considered a newly industrialized country, reflecting its ongoing economic development and industrial growth.",
+        "• Indonesia's nominal Gross Domestic Product (GDP) reached 22.139 quadrillion rupiah in 2024, positioning it as the 16th largest economy worldwide by nominal GDP and the 7th largest when measured by GDP (PPP).",
+        "• The country's internet economy was valued at US$77 billion in 2022 and is projected to surpass US$130 billion by 2025, highlighting rapid digital economic growth.",
+        "• The Indonesian economy relies heavily on the domestic market and government budget expenditures, with significant ownership of state-owned enterprises (SOEs); the central government owns 844 companies.",
+        "• As of 2024, Indonesian state-owned companies possess assets valued at over US$1 trillion, underscoring the substantial role of SOEs in the economy.",
+        "• The government actively manages the prices of essential goods, including rice and electricity, which significantly influences market dynamics.",
+        "• Approximately 61.7% of Indonesia's economy is contributed by micro, medium, and small enterprises, alongside major private-owned and foreign companies, indicating a diverse economic structure.",
+        "• Following the 1997 Asian financial crisis, the Indonesian government took control of a large portion of private sector assets by acquiring nonperforming bank loans and corporate assets through debt restructuring, with subsequent privatization of these assets several years later.",
+        "• Post-1999, Indonesia's economy recovered, with growth rates accelerating to over 4–6% in the early 2000s, marking a period of economic stabilization and expansion.",
+        "• In 2012, Indonesia was the second fastest-growing G20 economy, behind China, with annual growth rates around 5% in subsequent years.",
+        "• The country experienced a recession in 2020, with economic growth collapsing to −2.07% due to the COVID-19 pandemic, marking its worst performance since the 1997 financial crisis.",
+        "• In 2022, Indonesia's GDP grew by 5.31%, driven by the easing of COVID-19 restrictions and record-high exports fueled by stronger commodity prices.",
+        "• Projections indicate Indonesia will become the 4th largest economy in the world by 2045.",
+        "• President Joko Widodo (Jokowi) has stated that by 2045, Indonesia's population will reach approximately 309 million people.",
+        "• Jokowi's government estimates that Indonesia will experience an annual economic growth rate of 5–6%, with a GDP of US$9.1 trillion by 2045.",
+        "• Indonesia's GDP per capita is expected to reach US$29,000 by 2045, reflecting significant economic development and increased individual prosperity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:45:36.800016",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Sukarno era",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the immediate post-independence years, Indonesia's economy was severely crippled due to the Japanese occupation and the ongoing conflict between Dutch and Republican forces, leading to a drastic reduction in exports of key commodities such as rubber and oil, which fell to 12% and 5% of their pre-World War II levels, respectively.",
+        "• The first Republican government-controlled bank, the Indonesian State Bank (Bank Negara Indonesia, BNI), was established on 5 July 1946, serving as the manufacturer and distributor of ORI (Oeang Republik Indonesia), the currency issued by the Republican Government, which was the precursor to the Rupiah.",
+        "• Despite the issuance of ORI, currency issued during the Japanese occupation and by Dutch authorities remained in circulation, and the simplicity of ORI made it relatively easy to counterfeit, exacerbating monetary issues.",
+        "• Between 1949 and 1960, Indonesia faced multiple economic disruptions, including the recognition of independence by the Netherlands, the dissolution of the United States of Indonesia in 1950, the period of liberal democracy, the nationalization of De Javasche Bank into Bank Indonesia, and the takeover of Dutch corporate assets following the West New Guinea dispute.",
+        "• These disruptions led to the devaluation of Dutch banknotes to half their original value.",
+        "• During the guided democracy era in the 1960s, Indonesia's economy deteriorated sharply due to political instability, with the government lacking experience in macroeconomic policy implementation, resulting in widespread poverty and hunger.",
+        "• By the mid-1960s, Indonesia was experiencing economic chaos characterized by 1,000% annual inflation, declining export revenues, deteriorating infrastructure, factories operating at minimal capacity, and negligible investment.",
+        "• Despite these hardships, Indonesia's post-1960 economic recovery was considered remarkable given that, in the 1950s, few indigenous Indonesians had received formal education under Dutch colonial policies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:45:41.303594",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "New Order",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following President Sukarno's downfall, the New Order administration implemented a disciplined approach to economic policy, which successfully reduced inflation, stabilized the currency, rescheduled foreign debt, and attracted foreign aid and investment.",
+        "• The New Order period is associated with the Inter-Governmental Group on Indonesia and the Berkeley Mafia, influential groups involved in economic policymaking.",
+        "• Indonesia was Southeast Asia's only member of OPEC until recently; the 1970s oil price increase provided a significant export revenue windfall that contributed to sustained high economic growth rates, averaging over 7% annually from 1968 to 1981.",
+        "• During the early 1980s, growth slowed to an average of 4.5% per year (1981–1988) due to high regulation and dependence on declining oil prices.",
+        "• In the late 1980s, Indonesia introduced a series of economic reforms, including a managed devaluation of the rupiah to enhance export competitiveness and deregulation of the financial sector.",
+        "• Foreign investment increased significantly during this period, especially into the rapidly developing export-oriented manufacturing sector.",
+        "• From 1989 to 1997, Indonesia's economy grew by an average of over 7% annually.",
+        "• GDP per capita increased by 545% from 1970 to 1980, driven by a surge in oil export revenues from 1973 to 1979.",
+        "• Despite high growth, the economy had structural weaknesses, including weak and corrupt government institutions, severe public indebtedness due to financial sector mismanagement, rapid natural resource depletion, and a culture of favors and corruption among the business elite.",
+        "• Corruption intensified in the 1990s, reaching the highest levels of the political hierarchy under President Suharto, who was considered the most corrupt leader according to Transparency International.",
+        "• The weak legal system hindered contract enforcement, debt collection, and bankruptcy proceedings; banking practices were unsophisticated, relying on collateral-based lending with widespread violations of prudential regulations, including connected lending limits.",
+        "• Economic distortions were exacerbated by non-tariff barriers, rent-seeking by state-owned enterprises, domestic subsidies, trade barriers, and export restrictions.",
+        "• The 1997 Asian financial crisis severely impacted Indonesia, initiating an economic and political crisis.",
+        "• Initial crisis responses included floating the rupiah, raising domestic interest rates, and tightening fiscal policy.",
+        "• In October 1997, Indonesia and the IMF agreed on an economic reform program aimed at macroeconomic stabilization and eliminating damaging policies such as the National Car Program and the clove monopoly, both linked to Suharto’s family members.",
+        "• Despite reforms, the rupiah remained weak, leading to widespread unrest and Suharto’s resignation in May 1998 following massive riots.",
+        "• In August 1998, Indonesia and the IMF agreed on an Extended Fund Facility (EFF) under President B. J. Habibie, which included structural reform targets.",
+        "• President Abdurrahman Wahid assumed office in October 1999, and in January 2000, Indonesia signed another EFF with the IMF, focusing on economic, structural, and governance reforms.",
+        "• The crisis caused severe economic damage: by November 1997, public debt reached US$60 billion due to currency depreciation, straining the government’s budget.",
+        "• In 1998, real GDP contracted by 13.1%, with the economy reaching its lowest point in mid-1999 at 0.8% growth.",
+        "• Inflation soared to 72% in 1998 but decreased to 2% in 1999.",
+        "• The rupiah depreciated from around RP 2,600/USD1 at August 1997 to approximately 11,000/USD1 by January 1998, briefly reaching 15,000 during early 1998, then recovered to the RP 8,000/USD1 range by the end of 1998.",
+        "• Since then, the rupiah has traded within the RP 8,000–10,000/USD1 range, with relatively predictable and gradual fluctuations.",
+        "• By 2013, the rupiah began devaluing past 11,000, and as of November 2016, it was around 13,000 Rp/USD1."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:46:03.234609",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "Reform era",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the introduction of an inflation target in 2000, Indonesia's GDP deflator and Consumer Price Index (CPI) have grown at an average annual rate of 10¾% and 9%, respectively, reflecting a stabilization trend compared to the two decades prior to the 1997 Asian financial crisis, but remaining below the inflation rates of the 1960s and 1970s.",
+        "• Inflation in Indonesia has generally trended downward through the 2000s, with fluctuations linked to government policy initiatives such as fiscal subsidy adjustments in 2005 and 2008, which caused temporary spikes in CPI growth.",
+        "• Indonesia’s historical GDP per capita development and share of world GDP (PPP) are as follows: in 1980, 1.24%; in 1990, 1.68%; in 2000, 1.7%; in 2010, 2.07%; in 2020, 2.31%; and projected to reach 2.42% in 2025.",
+        "• In late 2004, Indonesia experienced a 'mini-crisis' due to rising international oil prices and increased imports, which caused the rupiah to depreciate to Rp 12,000 per USD before stabilizing.",
+        "• Under President Susilo Bambang Yudhoyono (SBY), the government was compelled to cut substantial fuel subsidies, which were projected to cost $14 billion in October 2005.",
+        "• As of February 2007, Indonesia’s unemployment rate was 9.75%. Despite a slowing global economy, the country’s economic growth accelerated to 6.3% in 2007, the highest in ten years.",
+        "• The 2007 growth contributed to reducing poverty from 17.8% to 16.6%, based on the government’s poverty line, and reversed recent trends of jobless growth, with unemployment decreasing to 8.46% in February 2008.",
+        "• Unlike many export-dependent neighbors, Indonesia avoided recession through strong domestic demand—comprising about two-thirds of the economy—and a fiscal stimulus package of approximately 1.4% of GDP.",
+        "• After India and China, Indonesia was the third-fastest growing economy in the G20, with the IMF revising its 2009 growth forecast upward from 2.5% to a range of 3–4%, supported by wide-ranging reforms including debt reduction, strengthening of corporate and banking sectors, and improved financial supervision.",
+        "• In 2012, Indonesia’s real GDP growth reached 6%, but it declined gradually below 5% until 2015.",
+        "• Post-2014, under President Joko Widodo, measures were taken to ease regulations for foreign direct investment to stimulate growth, leading to slight increases above 5% in 2016–2017.",
+        "• The country faced ongoing issues such as currency weakening, declining exports, and stagnating consumer spending, with the unemployment rate at 5.3% in 2019.",
+        "• Between 2019 and 2020, Indonesia’s GDP contracted by 2.1%, marking its first annual decline in over two decades, primarily due to COVID-19 pandemic-related disruptions including large-scale social restrictions (PSBB) affecting urban centers like Jakarta and West Java.",
+        "• The government responded with fiscal stimulus packages and social assistance programs to support vulnerable populations; by Q3 2020, economic contraction slowed to 3.5% year-over-year, indicating signs of recovery driven by partial rebounds in consumption and investment.",
+        "• In 2021, Indonesia’s economy grew by 4.4%, supported by improved domestic demand and positive global economic spillovers, aided by accelerated COVID-19 vaccination efforts and policies to boost economic activity.",
+        "• Growth further increased to 5.0% in 2022, driven by reduced uncertainty and the achievement of critical mass in vaccination coverage.",
+        "• In October 2024, Prabowo Subianto became president, inheriting an economy with steady growth but facing structural challenges; his administration aimed to boost growth to 8% through policies including a $28 billion annual free school meals program and plans to retire all fossil fuel power plants within 15 years.",
+        "• To fund these initiatives, the government implemented budget cuts totaling $18.8 billion across sectors such as public works, education, and health, leading to public unrest and concerns over impacts on infrastructure and services.",
+        "• Entrenched criminal networks (_preman_) and certain mass organizations (ormas) posed significant challenges to foreign investment and reforms, engaging in activities like extortion, intimidation, and obstruction, especially in key economic zones such as Bekasi, Karawang, and Batam, resulting in estimated financial losses of up to $137.8 billion and deterring investment.",
+        "• Between 2019 and 2025, the Indonesian rupiah (IDR) experienced significant fluctuations: in 2020, during COVID-19, it weakened sharply to around Rp 16,500 per USD due to capital outflows; in 2021–2022, it stabilized between Rp 14,000 and Rp 15,000; and in 2023–2024, it depreciated again to approximately Rp 16,200 per USD by April 2024, driven by political uncertainties and fiscal concerns.",
+        "• In 2025, the rupiah remained volatile; early in the year, it hit a five-year low, prompting Bank Indonesia to intervene in the foreign exchange market; the central bank maintained its benchmark interest rate at 5.75% in March to support the currency and control inflation, then lowered it to 5.50% in May as the rupiah appreciated over 3% from April lows."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:46:20.639083",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1",
+      "section_name": "Data",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section on Indonesia's economy requires updating to include recent data from 2023 and 2024, as indicated by the note stating the need for revision as of January 2025.",
+        "• The main economic indicators for Indonesia from 1980 to 2022 are presented in a comprehensive table, with projections for 2023–2028 based on IMF staff estimates.",
+        "• The table includes key metrics such as Gross Domestic Product (GDP) in both Purchasing Power Parity (PPP) and nominal terms, measured in billions of US dollars, along with GDP per capita in US$ PPP and US$ nominal.",
+        "• Indonesia’s GDP (PPP) increased from $189.7 billion in 1980 to $4,036.9 billion in 2022, showing significant growth over four decades.",
+        "• The GDP per capita (PPP) rose from $1,286.3 in 1980 to $14,687.0 in 2022, reflecting improvements in average income levels.",
+        "• Nominal GDP expanded from $99.3 billion in 1980 to $1,318.8 billion in 2022, with projections reaching $1,417.4 billion in 2023 and continuing upward through 2028.",
+        "• Nominal GDP per capita increased from $673.2 in 1980 to $4,798.1 in 2022, with estimates for 2023 at $5,108.9 and growth continuing through 2028.",
+        "• Indonesia’s real GDP growth rates varied over the years, with notable periods of high growth such as 1982 (2.2%) and 1993 (8.0%), and a significant contraction in 1998 (-13.1%) during the Asian financial crisis.",
+        "• The inflation rate fluctuated considerably, with high inflation observed in 1984 (10.5%) and 1994 (8.5%), and a peak in 1998 at 58.4%, while recent years show inflation under 5%, with rates around 2.5% to 4.2%.",
+        "• Unemployment rates have generally decreased over time, from 18.0% in 1980 to around 4.2% in 2022, with recent estimates indicating a slight increase to 5.3% in 2023.",
+        "• Government debt as a percentage of GDP was not available for earlier years but is recorded from 2000 onward, showing a decline from 87.4% in 2000 to 36.2% in 2024, with projections for 2025–2028 remaining around 35.4% to 36.0%.",
+        "• The data highlights Indonesia’s economic growth trajectory, fluctuations due to global and regional crises, and improvements in income and debt management over the decades.",
+        "• The table’s estimations for 2023–2028 are marked in grey, indicating they are projections rather than actual data, emphasizing the need for future updates as new information becomes available."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:46:43.668534",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2",
+      "section_name": "Structure",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Indonesia’s economy, measured by Gross Domestic Product (GDP) at current market prices, reached IDR 20,892.4 trillion.",
+        "• The sector with the highest growth on the production side was Transportation and Storage, which grew by 13.96%.",
+        "• Throughout 2023, the Indonesian economy experienced spatial growth across different regions.",
+        "• The provinces with the highest economic growth, based on island groups, were Maluku and Papua, Sulawesi, and Kalimantan, with year-on-year (c-to-c) growth rates of 6.94%, 6.37%, and 5.43%, respectively.",
+        "• The provinces located on Java Island, which contributed 57.05% to the national economy, recorded a growth rate of 4.96% (c-to-c) in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:46:47.352658",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Composition",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section details the composition of Indonesia's economy, focusing on sector contributions and output figures for the years 2022 and 2023, measured in trillion rupiahs.",
+        "• The data highlights the economic contribution and growth rates of various sectors, emphasizing their relative importance within the national economy.",
+        "• **Agriculture sector**:",
+        "• Output increased from 2,428.9 trillion rupiahs in 2022 to 2,617.7 trillion rupiahs in 2023.",
+        "• Contributed 12.53% to the 2023 total output, with a constant growth rate of 1.30%.",
+        "• Its contribution to the economy remained steady at 12.53%.",
+        "• **Mining and Quarrying (Industrial sector)**:",
+        "• Output decreased from 2,393.4 trillion rupiahs in 2022 to 2,198.0 trillion rupiahs in 2023.",
+        "• Accounted for 10.52% of the 2023 total output.",
+        "• Exhibited a constant growth rate of 6.12%.",
+        "• Contributed 40.18% to the industrial sector's output.",
+        "• **Manufacturing sector**:",
+        "• Output grew from 3,591.8 trillion rupiahs in 2022 to 3,900.1 trillion rupiahs in 2023.",
+        "• Its contribution to the economy was 18.67%, with a growth rate of 4.64%.",
+        "• **Electricity and Gas sector**:",
+        "• Increased from 204.7 trillion rupiahs in 2022 to 218.2 trillion rupiahs in 2023.",
+        "• Contributed 1.04% to the total output, with a growth rate of 4.91%.",
+        "• **Water sector**:",
+        "• Slight increase from 12.5 trillion rupiahs in 2022 to 13.3 trillion rupiahs in 2023.",
+        "• Contributed 0.06% to the total, with a growth rate of 4.90%.",
+        "• **Construction sector**:",
+        "• Output rose from 1,913.0 trillion rupiahs in 2022 to 2,072.4 trillion rupiahs in 2023.",
+        "• Contributed 9.92% to the economy, with a growth rate of 4.85%.",
+        "• **Services sector**:",
+        "• Comprising multiple subsectors, it significantly influences Indonesia's economy.",
+        "• **Wholesale and Retail Trade**:",
+        "• Output increased from 2,516.7 trillion rupiahs in 2022 to 2,702.4 trillion rupiahs in 2023.",
+        "• Contributed 12.94% to the total, with a growth rate of 4.85%.",
+        "• Accounted for 42.91% of the services sector's output.",
+        "• **Transportation and Storage**:",
+        "• Grew from 983.5 trillion rupiahs in 2022 to 1,231.2 trillion rupiahs in 2023.",
+        "• Contributed 5.89% to the total, with a high growth rate of 13.96%.",
+        "• **Accommodation and Food Services**:",
+        "• Increased from 472.0 trillion rupiahs to 526.3 trillion rupiahs.",
+        "• Contributed 2.52%, with a growth rate of 10.01%.",
+        "• **Information and Communication**:",
+        "• Rose from 812.7 trillion rupiahs to 883.6 trillion rupiahs.",
+        "• Contributed 4.23%, with a growth rate of 7.59%.",
+        "• **Financial and Insurance Activities**:",
+        "• Increased from 809.4 trillion rupiahs to 869.2 trillion rupiahs.",
+        "• Contributed 4.16%, with a growth rate of 4.77%.",
+        "• **Real Estate**:",
+        "• Grew from 488.3 trillion rupiahs to 505.5 trillion rupiahs.",
+        "• Contributed 2.42%, with a growth rate of 1.43%.",
+        "• **Business Activities**:",
+        "• Increased from 341.4 trillion rupiahs to 383.1 trillion rupiahs.",
+        "• Contributed 1.83%, with an 8.24% growth rate.",
+        "• **Public Administration and Defense**:",
+        "• Slight increase from 604.9 trillion rupiahs to 616.4 trillion rupiahs.",
+        "• Contributed 2.95%, with a growth rate of 1.50%.",
+        "• **Education**:",
+        "• Grew from 566.5 trillion rupiahs to 583.6 trillion rupiahs.",
+        "• Contributed 2.79%, with a growth rate of 1.78%.",
+        "• **Human Health and Social Work**:",
+        "• Increased from 236.2 trillion rupiahs to 252.0 trillion rupiahs.",
+        "• Contributed 1.21%, with a growth rate of 4.66%.",
+        "• **Other Services**:",
+        "• Rose from 354.2 trillion rupiahs to 405.2 trillion rupiahs.",
+        "• Contributed 1.94%, with a growth rate of 10.52%.",
+        "• **Tax Less Subsidies**:",
+        "• Increased from 858.0 trillion rupiahs in 2022 to 914.2 trillion rupiahs in 2023.",
+        "• Contributed 4.38% to the total economy, with a growth rate of 4.94%.",
+        "• The total gross domestic product (GDP) of Indonesia in 2022 was 19,588.1 trillion rupiahs.",
+        "• The total GDP in 2023 rose to 20,892.4 trillion rupiahs, representing an overall growth rate of 5.05%.",
+        "• The total contribution of all sectors combined accounts for 100% of Indonesia’s GDP in both years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:47:04.306429",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 65
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Indonesia currently holds the position as the world's largest producer of palm oil, with vast palm oil plantations covering extensive areas.",
+        "• Agriculture is a crucial sector of Indonesia's economy, contributing approximately 14.43% to the country's Gross Domestic Product (GDP).",
+        "• About 30% of Indonesia's land area is utilized for agricultural purposes, supporting the livelihoods of roughly 49 million people, which constitutes approximately 41% of the total workforce.",
+        "• The primary agricultural commodities produced in Indonesia include rice, cassava (also known as tapioca), peanuts, natural rubber, cocoa, coffee, palm oil, and copra, along with livestock products such as poultry, beef, pork, and eggs.",
+        "• Palm oil production is of particular economic importance to Indonesia, as the country is both the world's largest producer and consumer of palm oil, supplying about 50% of the global supply.",
+        "• As of 2007, Indonesian palm oil plantations spanned approximately 6 million hectares; plans were in place to replant an additional 4.7 million hectares to enhance productivity by 2017.",
+        "• The expansion and intensification of palm oil plantations have been associated with various negative social and environmental impacts within Southeast Asia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:47:08.958599",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.2.1",
+      "section_name": "Seafood",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2015, Indonesia's total seafood production was approximately 22.31 million metric tons.",
+        "• The total value of seafood produced in 2015 was around 18.10 billion US dollars.",
+        "• The production of wild fish, encompassing both inland and marine capture, remained steady from 2011 to 2015.",
+        "• During the same period (2011–2015), there was a significant and steep increase in seafood production from aquaculture sources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:47:11.017007",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Oil and mining",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Grasberg mine, located in Mimika Regency, Papua, Indonesia near Puncak Jaya (the highest mountain in the country), is one of the largest reserves of gold and copper in the world.",
+        "• Indonesia was the only Southeast Asian member of the Organization of Petroleum Exporting Countries (OPEC) until its suspension in 2009.",
+        "• Despite its large petroleum industry, Indonesia remains a net oil importer.",
+        "• In 1999, Indonesia's crude and condensate oil output averaged 1.5 million barrels (240,000 m³) per day.",
+        "• In 1998, the oil and gas sector, including refining, contributed approximately 9% to Indonesia's GDP.",
+        "• As of 2005, crude oil and condensate production declined to 1.07 million barrels (170,000 m³) per day, indicating a substantial decrease from the 1990s, primarily due to aging oil fields and insufficient investment in exploration and production equipment.",
+        "• The decline in oil production has been accompanied by a domestic consumption increase of about 5.4% annually, leading to an estimated US$1.2 billion cost for oil imports in 2005.",
+        "• The Indonesian government owns all petroleum and mineral rights; foreign firms participate through production-sharing and work contracts.",
+        "• Oil and gas contractors are required to finance exploration, production, and development costs and can recover these costs from the produced oil and gas.",
+        "• Indonesia previously subsidized fuel prices, costing US$7 billion in 2004; the government, under President Susilo Bambang Yudhoyono (SBY), mandated phased reductions of fuel subsidies to reduce the budget deficit from around 1.6% of GDP in 2004 to 1% in 2005, while offering one-time subsidies to qualified citizens to mitigate hardships.",
+        "• Indonesia is the world's largest tin market and has traditionally focused on bauxite, silver, and tin, but is expanding output of copper, nickel, gold, and coal for export markets.",
+        "• In mid-1993, the Department of Mines and Energy reopened the coal sector to foreign investment, leading to joint ventures with BP and Rio Tinto.",
+        "• Total coal production reached 74 million metric tons in 1999, including 55 million tons exported; by 2011, production increased to 353 million tons.",
+        "• As of 2014, Indonesia was the third-largest coal producer with a total output of 458 million tons and exports of 382 million tons, with coal reserves estimated to last until 2075 (61 years).",
+        "• Domestic Market Obligation (DMO) regulation requires a minimum of 24.72% of coal production to fulfill domestic demand; starting in 2014, low-grade coal exports were banned, leading to the development of upgraded brown coal processing plants in South Kalimantan and South Sumatra to increase calorific value from 4,500 to 6,100 kcal/kg.",
+        "• Indonesia is the world's largest nickel producer and the second-largest cobalt producer as of 2022.",
+        "• Two US firms operate three copper/gold mines in Indonesia; Canadian and British firms hold significant investments in nickel and gold, respectively.",
+        "• Indian companies such as Vedanta Resources and Tata Group also have substantial mining operations in Indonesia.",
+        "• In 1998, Indonesia’s gold and copper production values were $1 billion and $843 million, respectively.",
+        "• Mineral sector receipts from gold, copper, and coal accounted for 84% of the $3 billion earned from mineral mining in 1998.",
+        "• Indonesia's Alumina project, producing 5% of the world's alumina, positions the country as the second-largest global alumina producer; however, this does not directly produce aluminum, as alumina derivatives can be further developed by other companies.",
+        "• The resource nationalism policies of President Joko Widodo (Jokowi) continued the approach of his predecessor SBY, including the nationalization of assets controlled by multinational companies such as Freeport McMoRan, TotalEnergies, and Chevron.",
+        "• In 2018, Indonesia mandated that oil companies operating in the country sell their crude oil to state-owned Pertamina to reduce imports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:47:18.174838",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Indonesia's manufacturing sector has historically been a key driver of the country's economic development, currently contributing approximately 20 percent to Indonesia's Gross Domestic Product (GDP).",
+        "• The Indonesian government has set an ambitious goal to elevate the country's status into the top ten largest economies globally by 2030, with manufacturing playing a central role in this strategic vision.",
+        "• Major manufacturing industries in Indonesia include textiles and garments, food and beverages (F&B), electronics, automotive, and chemicals.",
+        "• The majority of manufacturing enterprises in Indonesia are micro, small, or medium-sized enterprises (MSMEs).",
+        "• Since 2016, the manufacturing sector has experienced a consistent annual growth rate of 4 percent.",
+        "• From January to September 2019, the sector attracted investments totaling 147 trillion rupiah, equivalent to approximately US$8.9 billion.",
+        "• Indonesia has recently achieved the status of the 10th-largest manufacturing nation in the world.",
+        "• The manufacturing sector accounts for nearly 25 percent (a quarter) of Indonesia's total GDP.",
+        "• Over 20 percent (more than a fifth) of Indonesia's working-age population, approximately 25 million workers, are employed in manufacturing.",
+        "• Indonesia's manufacturing sector is larger than those of the United Kingdom, Russia, and Mexico.",
+        "• The industry sector, including manufacturing, now employs about 21 percent of the local workforce, reflecting increased prominence in recent years.",
+        "• Indonesia's total labor force is estimated at 120 million people, with an annual growth of approximately 2.4 million workers.",
+        "• As Indonesia's economy has transitioned from a predominantly agricultural base to a more diversified economy, employment in manufacturing and service-related professional industries has increased, particularly among women.",
+        "• The country's rapidly expanding middle class and competitive workforce have attracted more foreign investors to Indonesia's manufacturing sector than ever before.",
+        "• Despite its growth, the manufacturing sector faces significant challenges, including intense international competition, especially from China.",
+        "• Other challenges include rising labor costs, high transportation and logistics expenses, difficulties in obtaining credit, and inconsistent levels of transparency and clarity in regulatory frameworks."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:47:25.986508",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Renewable energy",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Indonesia possesses substantial potential for the development of renewable energy sources, indicating significant opportunities for sustainable energy expansion.",
+        "• Despite this potential, Indonesia continues to predominantly depend on fossil fuels, particularly coal, for domestic electricity generation.",
+        "• The ongoing reliance on fossil fuels and continued investment in these resources pose a risk of creating stranded assets, which are assets that may lose economic value before the end of their expected lifespan.",
+        "• The potential stranded assets could lead to substantial financial losses for Indonesia, as investments made in fossil fuel infrastructure might not be recoverable if a transition to renewable energy occurs.",
+        "• The continued investment in fossil fuels, especially coal, could hinder Indonesia’s progress toward sustainable energy development and climate change mitigation efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:47:29.848921",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Automotive industry",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2010, Indonesia sold 7.6 million motorcycles, primarily produced domestically with nearly 100% local components, highlighting a strong local manufacturing base.",
+        "• Honda dominated Indonesia's motorcycle market in 2010 with a 50.95% market share, followed by Yamaha with 41.37%, indicating a highly competitive sector with two major players.",
+        "• In 2011, retail car sales in Indonesia totaled 888,335 units, representing a 19.26% increase compared to the previous year, signifying rapid growth in the automotive market.",
+        "• Toyota led the domestic car market in 2011 with a 35.34% market share, while Daihatsu and Mitsubishi Motors held 15.44% and 14.56%, respectively, demonstrating strong brand presence among consumers.",
+        "• Since 2011, some Indonesian car manufacturers have introduced national cars categorized as Low-Cost Green Cars (LCGC), reflecting government and industry efforts to promote affordable and environmentally friendly vehicles.",
+        "• In 2012, automotive sales in Indonesia increased by 24%, surpassing one million units for the first time, marking a significant milestone in the country's automotive industry growth.",
+        "• As of August 2014, Indonesia exported 126,935 Completely Built Up (CBU) vehicle units and 71,000 Completely Knock Down (CKD) vehicle units, with total vehicle production reaching 878,000 units, accounting for 22.5% of total output.",
+        "• Indonesian automotive exports in 2014 were more than double its imports, indicating a strong export orientation; by 2020, automotive exports were projected to rank third after Crude Palm Oil (CPO) and footwear (shoe) exports.",
+        "• In August 2015, Indonesia exported 123,790 motorcycles; Yamaha Motor Company, which exported 82,641 units that year, announced plans to establish Indonesia as a key export base for its products.",
+        "• In 2017, Indonesia produced nearly 1.2 million motor vehicles, ranking as the 18th largest vehicle producer globally, reflecting significant industrial capacity.",
+        "• Modern Indonesian automotive companies can produce vehicles with a high local content ratio, ranging from 80% to 90%, emphasizing domestic manufacturing capabilities.",
+        "• In 2018, Indonesia produced 1.34 million cars and exported 346,000 vehicles, primarily to the Philippines and Vietnam, demonstrating active regional export markets and industry expansion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:47:34.931802",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.7",
+      "section_name": "Finance, real estate and business",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Indonesian rupiah (IDR) banknotes denominations in circulation have been in use since 2016.",
+        "• Indonesia has approximately 50 million small businesses, with notable growth in online usage, which increased by 48% in 2010.",
+        "• Google announced plans to open a local office in Indonesia before the year 2012, indicating expansion into the Indonesian market.",
+        "• According to Deloitte in 2011, internet-related activities contributed approximately 1.6% to Indonesia's Gross Domestic Product (GDP).",
+        "• The contribution of internet activities to GDP (1.6%) surpasses the export values of electronic and electrical equipment (1.51%) and liquefied natural gas (1.45%).",
+        "• As of the end of June 2011, Indonesia's fixed state assets were valued at Rp 1,265 trillion, equivalent to approximately $128 billion.",
+        "• The value of state stocks was Rp 50 trillion, approximately $5 billion, while other state assets were valued at Rp 24 trillion, or about $2.4 billion.",
+        "• In 2015, the financial services sector in Indonesia was valued at Rp 7.2 trillion.",
+        "• Fifty domestic and foreign conglomerates held approximately 70.5% of the financial sector's assets or market share.",
+        "• Among these conglomerates, 14 are classified as vertical conglomerates, 28 as horizontal conglomerates, and 8 as mixed conglomerates.",
+        "• Thirty-five entities operate primarily within the banking industry, 13 are involved in non-bank financial industries, and one each in special financial industries and the capital market industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:48:19.176560",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2.8",
+      "section_name": "Others",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Indonesian Textile Association reported that in 2013, the textile sector was projected to attract approximately $175 million in investment.",
+        "• In 2012, investment in the textile sector amounted to $247 million, with only $51 million allocated for the purchase of new textile machinery.",
+        "• Exports from Indonesia’s textile sector in 2012 reached $13.7 billion.",
+        "• In 2011, Indonesia issued 55,010 working visas to foreigners, representing a 10% increase compared to 2010.",
+        "• The number of foreign residents in Indonesia (excluding tourists and foreign emissaries) was 111,752 in 2011, marking a 6% rise from the previous year.",
+        "• The majority of foreigners holding visas for six months to one year in 2011 were from China, Japan, South Korea, India, the United States, and Australia.",
+        "• Among these foreigners, some were entrepreneurs establishing new businesses in Indonesia.",
+        "• Malaysia is the most common destination for Indonesian migrant workers, including those working illegally.",
+        "• According to a 2010 World Bank report, Indonesia was among the top ten remittance-receiving countries globally, with total remittances valued at $7 billion.",
+        "• As of May 2011, approximately six million Indonesian citizens were working overseas.",
+        "• Of these overseas workers, about 2.2 million resided in Malaysia and approximately 1.5 million in Saudi Arabia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:48:24.284479",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "2.9",
+      "section_name": "GDP by provinces",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Indonesia comprises a total of 34 provinces, each contributing variably to the national economy, with the top 15 provinces ranked by Gross Domestic Product (GDP) in 2019.",
+        "• The overall GDP of Indonesia in 2019 was approximately 16,073,257 billion Indonesian Rupiah (Rp), equivalent to about 1,136.72 billion US Dollars (USD) nominal, and approximately 3,329.17 billion USD in Purchasing Power Parity (PPP).",
+        "• Indonesia's GDP places it as the largest economy in Southeast Asia, reflecting substantial economic activity across its provinces.",
+        "• The province with the highest GDP in 2019 was Jakarta, located in the Java region, with a GDP of 2,840,828 billion Rp, which is approximately 200.91 billion USD nominal, and 588.42 billion USD in PPP terms.",
+        "• East Java ranked second among provinces, with a GDP of 2,352,425 billion Rp (166.37 billion USD nominal; 487.27 billion USD PPP).",
+        "• West Java was the third-largest contributor, with a GDP of 2,125,158 billion Rp (150.30 billion USD nominal; 440.19 billion USD PPP).",
+        "• Central Java followed as the fourth, with a GDP of 1,362,457 billion Rp (96.35 billion USD nominal; 282.18 billion USD PPP).",
+        "• North Sumatra ranked fifth, with a GDP of 801,733 billion Rp (56.70 billion USD nominal; 166.06 billion USD PPP).",
+        "• Riau, another Sumatra province, was sixth, with a GDP of 765,198 billion Rp (54.12 billion USD nominal; 158.51 billion USD PPP).",
+        "• Banten, also in Java, was seventh, with a GDP of 664,963 billion Rp (47.03 billion USD nominal; 137.74 billion USD PPP).",
+        "• East Kalimantan in Kalimantan ranked eighth, with a GDP of 653,677 billion Rp (46.23 billion USD nominal; 135.40 billion USD PPP).",
+        "• South Sulawesi, in Sulawesi, was ninth, with a GDP of 504,747 billion Rp (35.70 billion USD nominal; 104.56 billion USD PPP).",
+        "• South Sumatra, another Sumatra province, was tenth, with a GDP of 455,233 billion Rp (32.19 billion USD nominal; 94.28 billion USD PPP).",
+        "• Lampung in Sumatra ranked eleventh, with a GDP of 360,664 billion Rp (25.51 billion USD nominal; 74.71 billion USD PPP).",
+        "• Riau Islands, also in Sumatra, was twelfth, with a GDP of 268,080 billion Rp (18.96 billion USD nominal; 55.53 billion USD PPP).",
+        "• Bali, part of the Lesser Sunda Islands, was thirteenth, with a GDP of 252,598 billion Rp (17.86 billion USD nominal; 52.31 billion USD PPP).",
+        "• West Sumatra in Sumatra ranked fourteenth, with a GDP of 246,423 billion Rp (17.42 billion USD nominal; 51.01 billion USD PPP).",
+        "• Jambi, another Sumatra province, was fifteenth, with a GDP of 217,712 billion Rp (15.40 billion USD nominal; 45.10 billion USD PPP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:48:32.417150",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "2.10",
+      "section_name": "Trade statistics",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Indonesia's goods exports totaled $257.7 billion US dollars, while goods imports amounted to $211.5 billion US dollars, resulting in a net trade surplus of $46.2 billion US dollars.",
+        "• In 2020, Indonesia's goods exports were valued at $163.4 billion US dollars, with imports at $135.1 billion US dollars, leading to a net trade surplus of $28.3 billion US dollars.",
+        "• In 2015, Indonesia exported goods worth $149.1 billion US dollars and imported goods valued at $135.1 billion US dollars, with a net trade surplus of $14.1 billion US dollars.",
+        "• In 2010, Indonesia's goods exports reached $150.0 billion US dollars, while imports were $118.9 billion US dollars, resulting in a net trade surplus of $31.0 billion US dollars.",
+        "• In 2000, Indonesia's goods exports were $65.4 billion US dollars, and imports were $40.4 billion US dollars, producing a net trade surplus of $25.0 billion US dollars.",
+        "• In 1990, Indonesia's goods exports totaled $26.8 billion US dollars, with imports at $21.5 billion US dollars, and a net trade surplus of $5.4 billion US dollars."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:48:35.487977",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "2.11",
+      "section_name": "ASEAN",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Until the end of 2010, intra-ASEAN trade remained relatively low, with most trade involving exports to countries outside the ASEAN region, except for Laos and Myanmar, whose foreign trade was primarily ASEAN-oriented.",
+        "• In 2009, ASEAN member states realized foreign direct investment (FDI) amounting to US$37.9 billion, which doubled to US$75.8 billion in 2010.",
+        "• The ASEAN Framework Agreement on Trade in Services (AFAS) was adopted at the ASEAN Summit held in Bangkok in December 1995.",
+        "• Under AFAS, member states engage in successive rounds of negotiations aimed at liberalizing trade in services, with the goal of achieving progressively higher levels of commitment.",
+        "• ASEAN has concluded a total of seven packages of commitments under the AFAS framework.",
+        "• Mutual Recognition Agreements (MRAs) have been established among ASEAN for eight professions: physicians, dentists, nurses, architects, engineers, accountants, surveyors, and tourism professionals.",
+        "• These MRAs enable individuals in the specified professions to work freely across any ASEAN member state starting from 31 December 2015.",
+        "• Six ASEAN member states—Malaysia, Vietnam (through two exchanges), Indonesia, the Philippines, Thailand, and Singapore—have collaborated to integrate their stock exchanges, which now handle approximately 70% of transaction values, with the objective of competing with international stock exchanges.",
+        "• The ASEAN single market initiative includes the development of the ASEAN Single Aviation Market (ASEAN-SAM), a regional aviation policy aimed at creating a unified and single aviation market in Southeast Asia.",
+        "• The ASEAN-SAM was proposed by the ASEAN Air Transport Working Group, supported by the ASEAN Senior Transport Officials Meeting, and endorsed by the ASEAN Transport Ministers.",
+        "• The policy is designed to liberalize air travel among member states, allowing ASEAN airlines to benefit from the growth in air travel, and to facilitate increased tourism, trade, investment, and service flows within the region.",
+        "• ASEAN-SAM supersedes existing unilateral, bilateral, and multilateral air services agreements among member states that are inconsistent with its provisions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:48:41.225431",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "2.12",
+      "section_name": "Japan",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Indonesia and Japan signed the Indonesia–Japan Economic Partnership Agreement (IJEPA), which came into effect on 1 July 2008, marking Indonesia's first bilateral free-trade agreement aimed at facilitating the cross-border flow of goods, people, and investment between the two nations.",
+        "• By 2012, there were approximately 1,200 to 1,300 Japanese corporations operating in Indonesia, along with about 12,000 Japanese nationals residing in the country.",
+        "• Japan has been investing in Indonesia for several decades, with key sectors including automotive, electronic goods, energy, and mining.",
+        "• Prior to the establishment of the Indonesian Republic, Japan viewed Indonesia as an important source of natural resources, which contributed to Japan's military expansion southward during World War II.",
+        "• Currently, Indonesia is a major supplier to Japan for natural resources such as natural rubber, liquefied natural gas (LNG), coal, minerals, paper pulp, seafood (including shrimp and tuna), and coffee.",
+        "• Indonesia has traditionally been considered a significant market for Japanese automotive and electronic products.",
+        "• For Japanese businesses, Indonesia serves as a location for low-cost manufacturing operations and as a source of various natural resources necessary for those industries.",
+        "• Approximately 1,000 Japanese companies operate in Indonesia, employing around 300,000 people.",
+        "• Major Japanese manufacturing facilities are concentrated east of Jakarta, particularly in Bekasi, Cikarang, and Karawang, all located in West Java."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:48:45.741980",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "2.13",
+      "section_name": "China",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Trade between Indonesia and China has increased significantly since the 1990s, reflecting a growing economic relationship.",
+        "• In 2014, China became Indonesia's second-largest export destination after Japan, indicating its rising importance in Indonesia's trade network.",
+        "• The expansion of trade was notably accelerated following the implementation of the ASEAN-China Free Trade Area (ACFTA) in early 2010.",
+        "• In 2003, trade between Indonesia and China was valued at only US$3.8 billion, but by 2010, it had increased nearly tenfold to US$36.1 billion, demonstrating rapid growth.",
+        "• China's economic transformation into the fastest-growing country of the 21st century has led to increased foreign investments in the \"bamboo network,\" a term describing a network of overseas Chinese businesses operating across Southeast Asia that share familial and cultural ties.",
+        "• The free trade agreement with China has caused concern within Indonesia, as the influx of inexpensive Chinese products threatens local Indonesian industries.",
+        "• Indonesian private sector and civil society organizations have actively lobbied the government and parliament to either withdraw from the free trade agreement or renegotiate its terms with Beijing to protect domestic industries.",
+        "• China remains Indonesia’s top trading partner, serving as the country’s largest export and import market.",
+        "• China surpassed Japan and the United States to become Indonesia’s largest export destination, with exports reaching US$16.8 billion.",
+        "• In 2016, China was Indonesia’s most significant source of imports, totaling US$30.8 billion, which accounted for 22.7% of Indonesia’s total imports.",
+        "• Despite the trade volume, Indonesia experienced a trade deficit of US$14 billion with China in 2016, as imports exceeded exports.",
+        "• Since 2010, ASEAN as a whole has become China’s fourth-largest trading partner after the European Union, Japan, and the United States.",
+        "• Among ASEAN countries, Indonesia was China’s fourth-largest trading partner as of May 2010, with bilateral trade valued at US$12.4 billion.",
+        "• The other leading ASEAN trading partners with China in 2010 were Malaysia (US$22.2 billion), Singapore (US$17.9 billion), and Thailand (US$15.7 billion).",
+        "• The rise of China’s economy has prompted Indonesia to strengthen its trade ties with China to balance its relationships with Western countries.",
+        "• By 2020, China had become Indonesia’s largest export destination, underscoring the deepening economic integration between the two nations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:48:53.715270",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "2.14",
+      "section_name": "South Korea",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Historically, Indonesia–South Korea relations were primarily centered around trade and investment in sectors such as forestry and garments.",
+        "• Over time, the scope of cooperation expanded to include numerous mega projects and advanced industries, reflecting deepening economic ties.",
+        "• In 2012, bilateral trade between Indonesia and South Korea reached US$27 billion, making South Korea Indonesia’s fourth-largest trading partner.",
+        "• South Korea became Indonesia’s third-largest foreign investor, with a total investment of US$1.94 billion.",
+        "• Numerous South Korean companies have invested in and operate within Indonesia, including Miwon (a subsidiary of Daesang Corporation), Lotte, Yong Ma, Hankook, Samsung, LG, Kia Motors, and Hyundai.",
+        "• In 2011, Hankook announced an investment of US$353 million to establish a production plant in Bekasi, West Java, Indonesia.",
+        "• By 2019, the trade volume between Indonesia and South Korea was valued at US$15.65 billion.",
+        "• Between 2015 and 2019, South Korean companies invested nearly US$7 billion in Indonesia, indicating significant economic engagement during this period.",
+        "• In December 2020, Indonesia and South Korea signed a comprehensive economic partnership agreement, which functions similarly to a free trade agreement but encompasses a broader scope of economic cooperation.",
+        "• Under this agreement, Indonesia agreed to eliminate 94.8% of tariffs on South Korean products.",
+        "• Conversely, South Korea committed to removing 95.8% of tariffs on Indonesian products, facilitating increased trade and economic integration."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:48:57.914740",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "2.15",
+      "section_name": "United States",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• At the beginning of the post-Suharto era, US exports to Indonesia in 1999 totaled $2 billion, representing a significant decline from $4.5 billion in 1997.",
+        "• The main US exports to Indonesia in 1999 included construction equipment, machinery, aviation parts, chemicals, and agricultural products.",
+        "• US imports from Indonesia in 1999 amounted to $9.5 billion, primarily consisting of clothing, machinery and transportation equipment, petroleum, natural rubber, and footwear.",
+        "• Financial assistance to Indonesia is coordinated through the Consultative Group on Indonesia (CGI), established in 1989, which includes 19 donor countries and 13 international organizations.",
+        "• The CGI meets annually to coordinate donor assistance to Indonesia.",
+        "• In 2019, Indonesia’s share of global trade exceeded 0.5 percent, prompting the United States Trade Representatives to decide not to classify Indonesia as a \"developing country.\"",
+        "• Despite the revocation of Indonesia’s \"developing country\" status, the Indonesian government assured that this change would not affect the current Generalized System of Preferences (GSP) facilities that Indonesia enjoyed from the United States."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:49:00.987553",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "2.16",
+      "section_name": "European Union",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The European Union (EU) and Indonesia have developed strong commercial relations, with bilateral trade valued at approximately €25 billion in 2012, resulting in a trade surplus of €5.7 billion for Indonesia with the EU.",
+        "• Over recent years, trade between the EU and Indonesia has shown an upward trend, with total trade increasing from nearly €16 billion in 2009 to €23.5 billion in 2011.",
+        "• In terms of import sources, Indonesia ranks as the 24th largest supplier to the EU, accounting for 0.9% of EU imports.",
+        "• As an export destination, Indonesia is the 30th largest, with EU exports to Indonesia representing 0.6% of Indonesia’s total imports.",
+        "• Within the ASEAN region, Indonesia is the fourth-largest trading partner in terms of total trade volume.",
+        "• The EU is Indonesia’s fourth-largest trading partner, following Japan, China, and Singapore, and accounts for nearly 10% of Indonesia’s total external trade.",
+        "• The EU is the second-largest investor in the Indonesian economy, indicating significant economic engagement.",
+        "• Indonesia’s main exports to the EU include agricultural products and processed resources such as palm oil, fuels, mining products, textiles, and furniture.",
+        "• EU exports to Indonesia primarily consist of high-tech machinery and transport equipment, chemicals, and various manufactured goods.",
+        "• The trade relationship between Indonesia and the EU is characterized by complementary trade flows, with each side exporting goods that the other predominantly imports.",
+        "• Following difficulties in negotiations on a free trade agreement with ASEAN as a whole, the EU shifted focus to negotiating individual agreements with ASEAN member states, including Indonesia.",
+        "• Currently, the EU and Indonesia are working towards an ambitious Comprehensive Economic Partnership Agreement that aims to cover trade, investment, and services sectors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:49:05.491872",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "2.17",
+      "section_name": "India",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 25 January 2011, Indian Prime Minister Manmohan Singh and Indonesian President Susilo Bambang Yudhoyono held talks that resulted in the signing of business deals worth billions of dollars.",
+        "• The agreements aimed to set an ambitious goal of doubling bilateral trade between India and Indonesia over the next five years.",
+        "• India’s economic ties with Indonesia are further strengthened through its free trade agreement with the Association of Southeast Asian Nations (ASEAN), of which Indonesia is a member.",
+        "• The two countries targeted to achieve bilateral trade of $25 billion by the year 2015.",
+        "• Indian investments in Indonesia were projected to reach a cumulative total of $20 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:49:07.924571",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "2.18",
+      "section_name": "International trade agreements",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The ASEAN Trade in Goods Agreement (ATIGA) was signed on 28 January 1992, became effective on 1 January 1993, and is part of Indonesia's international trade agreements, facilitating trade among ASEAN member states.",
+        "• Indonesia–Australia Comprehensive Economic Partnership Agreement (IACEPA) was signed on 26 December 2012, entered into force on 5 July 2020, after being signed on 4 March 2019, establishing a comprehensive economic partnership between Indonesia and Australia.",
+        "• The Indonesia–Chile Comprehensive Economic Partnership Agreement (ICCEPA) was signed in December 2017 (specifically on 14 December 2017), became effective on 8 October 2019, following its May 2014 conclusion, enhancing trade relations between Indonesia and Chile.",
+        "• The Indonesia–EFTA Comprehensive Economic Partnership Agreement (IECEPA) was signed on 16 December 2018, became effective on 1 November 2021, after concluding negotiations on 31 January 2011, expanding trade with the European Free Trade Association countries.",
+        "• Indonesia–Iran Preferential Trade Agreement (IIPTA) was signed on 23 November 2023, establishing preferential trade terms between Indonesia and Iran, with no prior signing date listed.",
+        "• The Indonesia–Japan Economic Partnership Agreement (IJEPA) was signed and became effective between 20 August 2007 and 1 July 2008, respectively, fostering economic cooperation with Japan. The agreement was archived on 13 January 2023.",
+        "• The Indonesia–Korea Comprehensive Economic Partnership Agreement (IKCEPA) was signed on 12 July 2012, entered into force on 1 January 2023, after becoming effective on 18 December 2020, deepening economic ties with South Korea.",
+        "• The Indonesia–Mozambique Preferential Trade Agreement (IMPTA) was signed in April 2018, became effective in June 2022, with the signing completed on 28 August 2019, promoting trade with Mozambique.",
+        "• The Indonesia–Pakistan Preferential Trade Agreement (IPPTA) was signed on 24 November 2005, became effective on 13 September 2013, after entering into force on 3 February 2012, aimed at enhancing trade with Pakistan.",
+        "• The Indonesia–Palestine Trade Facilitation Agreement for certain products was signed on 12 December 2017, and became effective on 25 April 2018, improving trade facilitation with Palestine.",
+        "• The Indonesia–UAE Comprehensive Economic Partnership Agreement (IUAECEPA) was signed prior to 1 July 2022, became effective on 1 September 2023, establishing economic cooperation with the United Arab Emirates.",
+        "• The ASEAN–China Free Trade Area (ACFTA) was signed on 4 November 2000, became effective on 1 July 2005, and facilitates trade between ASEAN countries and China.",
+        "• The ASEAN–Hong Kong, China Free Trade Area (AHKFTA) was signed on 11 July 2014, became effective on 13 October 2019, enhancing trade relations between ASEAN and Hong Kong.",
+        "• The ASEAN–India Free Trade Area (AIFTA) was signed on 7 March 2004, became effective on 1 January 2010, promoting trade between ASEAN and India.",
+        "• The ASEAN–Japan Comprehensive Economic Partnership (AJCEP) was signed on 14 April 2005, became effective on 1 February 2009, strengthening economic ties with Japan.",
+        "• The ASEAN–Korea Free Trade Area (AKFTA) was signed on 30 November 2004, became effective on 1 January 2010, fostering trade with South Korea.",
+        "• The ASEAN–Australia–New Zealand Free Trade Area (AANZFTA) was signed on 21 February 2005, became effective on 1 January 2010, expanding regional trade among ASEAN, Australia, and New Zealand.",
+        "• The Regional Comprehensive Economic Partnership (RCEP), involving ASEAN, China, Japan, South Korea, Australia, and New Zealand, was signed on 20 November 2012 and became effective on 3 November 2022, representing a significant multilateral trade agreement in the region.",
+        "• The Preferential Tariff Arrangement-Group of Eight Developing Countries (PTA-D8), including Indonesia, Bangladesh, Egypt, Iran, Malaysia, Nigeria, Pakistan, and Turkey, was concluded on 13 May 2006, with the agreement effective from 25 August 2011.",
+        "• The Trade Preferential System-Organisation of Islamic Conference (TPS-OIC) was initiated in April 2004, became effective on 1 July 2022, aiming to facilitate trade among OIC member countries, including Indonesia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:49:30.908482",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "2.19",
+      "section_name": "Trade agreements under negotiation",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Indonesia-Pakistan Free Trade Agreement (Indonesia-Pakistan FTA) negotiations were launched in January 2019, aiming to enhance economic cooperation and trade relations between the two countries.",
+        "• The Indonesia-Canada Comprehensive Economic Partnership Agreement (Indonesia-Canada CEPA) negotiations commenced on 20 June 2020, representing Indonesia's efforts to deepen economic ties with Canada through a comprehensive trade agreement.",
+        "• The Indonesia-European Union Comprehensive Economic Partnership Agreement (Indonesia-EU CEPA) negotiations were initiated on 18 July 2016, with the goal of establishing a broad economic partnership between Indonesia and the European Union.",
+        "• The Indonesia-Tunisia Preferential Trade Agreement (Indonesia-Tunisia PTA) negotiations began on 25 June 2018, focusing on reducing trade barriers and fostering economic cooperation between Indonesia and Tunisia.",
+        "• The Indonesia-Morocco Preferential Trade Agreement (Indonesia-Morocco PTA) negotiations were launched on 23 January 2019, aimed at promoting trade and economic collaboration between Indonesia and Morocco.",
+        "• The Indonesia-Eurasian Economic Union Free Trade Agreement (Indonesia-Eurasian Economic Union FTA) negotiations started on 3 April 2023, seeking to establish a free trade framework with the Eurasian Economic Union.",
+        "• The Indonesia-Peru Comprehensive Economic Partnership Agreement (Indonesia-Peru CEPA) negotiations were initiated on 15 August 2023, to strengthen economic and trade relations between Indonesia and Peru.",
+        "• The Indonesia-Türkiye Comprehensive Economic Partnership Agreement (Indonesia-Turkey CEPA) negotiations commenced on 6 July 2017, aiming to deepen economic cooperation and trade integration with Turkey.",
+        "• The Indonesia-India Comprehensive Economic Cooperation Arrangement (Indonesia-India CECA) negotiations were launched on 4 October 2011, focusing on enhancing economic collaboration and trade relations with India.",
+        "• The ASEAN-Canada Free Trade Agreement (ASEAN-Canada FTA) negotiations were initiated on 17 November 2021, representing efforts to establish a free trade area between ASEAN member states and Canada."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:49:37.236478",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "3",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section presents a chart illustrating Indonesia's Gross Domestic Product (GDP) at market prices, as reported by the International Monetary Fund (IMF), with figures expressed in millions of rupiah, covering the years from 1980 to 2020.",
+        "• The data includes key economic indicators such as the nominal GDP in rupiah, USD exchange rate, inflation rate (%), nominal GDP per capita as a percentage of the US, and GDP purchasing power parity (PPP) per capita as a percentage of the US.",
+        "• In 1980, Indonesia's GDP was 60,143.191 million rupiah, with an exchange rate of 627 rupiah per USD, and an inflation rate of 18.0%. The nominal GDP per capita was 3.90% of the US, while GDP PPP per capita was 5.93% of the US.",
+        "• By 1985, the GDP increased to 112,969.792 million rupiah, with the exchange rate rising to 1,111 rupiah per USD, and inflation decreased to 4.7%. The nominal GDP per capita was 2.82% of the US, and GDP PPP per capita was 5.98% of the US.",
+        "• In 1990, Indonesia's GDP reached 233,013.290 million rupiah, with an exchange rate of 1,843 rupiah per USD, and inflation was 7.8%. The nominal GDP per capita was 2.45% of the US, and GDP PPP per capita was 12.90% of the US.",
+        "• The 1995 data shows a GDP of 502,249.558 million rupiah, with an exchange rate of 2,249 rupiah per USD, and inflation at 9.4%. Nominal GDP per capita was 3.57% of the US, and GDP PPP per capita was 15.76% of the US.",
+        "• In 2000, Indonesia's GDP was 1,389,769,700 million rupiah, with an exchange rate of 8,396 rupiah per USD, and inflation at 3.8%. The nominal GDP per capita was 2.15% of the US, and GDP PPP per capita was 13.05% of the US.",
+        "• By 2005, the GDP increased to 2,678,664,096 million rupiah, with an exchange rate of 9,705 rupiah per USD, and inflation rose to 10.5%. The nominal GDP per capita was 2.86% of the US, and GDP PPP per capita was 14.17% of the US.",
+        "• In 2010, Indonesia's GDP reached 6,422,918,230 million rupiah, with an exchange rate of 8,555 rupiah per USD, and inflation was 5.1%. The nominal GDP per capita was 6.44% of the US, and GDP PPP per capita was 17.54% of the US.",
+        "• The 2015 data shows a GDP of 11,531,700,000 million rupiah, with an exchange rate of 13,824 rupiah per USD, and inflation at 6.4%. Nominal GDP per capita was 5.86% of the US, and GDP PPP per capita was 18.02% of the US.",
+        "• In 2020, Indonesia's GDP was 15,434,200,000 million rupiah, with an exchange rate of 14,105 rupiah per USD, and inflation decreased to 1.7%. The nominal GDP per capita was 6.35% of the US, and GDP PPP per capita was 18.89% of the US.",
+        "• For purchasing power parity (PPP) comparisons, the exchange rate used for 1 US dollar is set at 3,094.57 rupiah.",
+        "• The average net wage in Indonesia varies across sectors; as of February 2017, the electricity, gas, and water sector has the highest average net wage, whereas the agriculture sector has the lowest."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:49:43.900892",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "4",
+      "section_name": "Investment",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the late 1980s, Indonesia has implemented significant reforms to its regulatory framework aimed at fostering economic growth.",
+        "• The growth was primarily financed through private investment, both foreign and domestic, with US investors dominating the oil and gas sector and undertaking some of Indonesia's largest mining projects.",
+        "• The presence of US banks, manufacturers, and service providers expanded notably after the industrial and financial sector reforms of the 1980s.",
+        "• Major foreign investors in Indonesia also included India, Japan, the UK, Singapore, the Netherlands, Qatar, Hong Kong, Taiwan, and South Korea.",
+        "• The 1997 Asian financial crisis made the continuation of private financing essential but also problematic, leading to a decline of nearly two-thirds in new foreign investment approvals between 1997 and 1999.",
+        "• The crisis underscored the need for further reforms, particularly in establishing a functioning legal and judicial system, ensuring adherence to competitive processes, and adopting internationally accepted accounting and disclosure standards.",
+        "• Despite recent legal improvements, Indonesia's intellectual property rights regime remains weak, with enforcement issues posing significant concerns.",
+        "• Under President Suharto, Indonesia moved toward private provision of public infrastructure, including electric power, toll roads, and telecommunications, but the 1997 crisis revealed severe weaknesses in dispute resolution, especially in private infrastructure projects.",
+        "• Although Indonesia possesses advantages such as a large labor force, abundant natural resources, and modern infrastructure, private investment in new projects largely halted during the crisis.",
+        "• As of 28 June 2010, the Indonesia Stock Exchange (IDX) listed 341 companies with a combined market capitalization of $269.9 billion.",
+        "• By November 2010, two-thirds of the market capitalization was held by foreign funds, and only approximately 1% of the Indonesian population had stock investments.",
+        "• Efforts to improve the investment climate included Indonesia's rise in the World Bank's Doing Business Survey from rank 129 in the previous year to 122 out of 178 countries in 2010, though it remains below regional peers.",
+        "• A notable investment restriction is that foreign investors and their executives cannot maintain bank accounts in Indonesia unless they are tax-paying local residents, which is an obstacle to foreign investment.",
+        "• From 1990 to 2010, Indonesian companies engaged in 3,757 mergers and acquisitions, either as acquirers or targets, with a total known deal value of $137 billion.",
+        "• In 2010, a record 609 transactions were announced, representing a 19% increase over 2009, with the total deal value reaching US$17 billion, the second-highest ever.",
+        "• In 2012, Indonesia attracted total investments of $32.5 billion, surpassing its annual target of $25 billion, with key sectors being mining, transport, and chemicals, as reported by the Investment Coordinating Board (BKPM) on 22 January.",
+        "• In 2011, the Indonesian government launched the _Masterplan_ (MP3EI), aimed at accelerating and expanding economic development through increased investment, especially in infrastructure projects.",
+        "• Indonesia regained its investment grade rating from Fitch Ratings in late 2011, with a BBB− rating, and from Moody’s in early 2012, with a Baa3 rating, after losing it during the 1997 crisis when Indonesia spent over Rp. 450 trillion ($50 billion) to bail out lenders.",
+        "• Fitch predicted that Indonesia's economy would grow at an average of at least 6% annually through 2013, despite a challenging global economic environment.",
+        "• Fitch also upgraded Indonesia’s long-term and local currency debt ratings to BBB− with stable outlooks; Moody’s raised Indonesia’s foreign and local currency bond ratings to Baa3 from Ba1, also with a stable outlook.",
+        "• In May 2017, S&P Global upgraded Indonesia’s credit rating from BB+ to BBB− with a stable outlook, citing a rebound in exports and strong consumer spending during early 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:49:52.924282",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Foreign Direct Investment (FDI)",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Indonesia's foreign direct investment (FDI) surged by 44.2% on a yearly basis in 2022, marking a significant increase in foreign investment inflows.",
+        "• The base metals sector attracted the largest FDI inflows in 2022, making it the top recipient of foreign investment.",
+        "• Indonesia received a total of 654.4 trillion rupiah in FDI during 2022, which is approximately $45.6 billion based on the official exchange rate of 14,350 rupiah to the US dollar.",
+        "• The official FDI data excludes investments in the banking and oil and gas sectors.",
+        "• FDI in base metals and mining sectors reached $11 billion and $5.1 billion respectively in 2022, making them the most significant sectors for foreign investment.",
+        "• The primary sources of FDI in Indonesia in 2022 were Singapore, China, and Hong Kong.",
+        "• Total investment, including domestic sources, amounted to 1,207.2 trillion rupiah ($81.02 billion), aligning closely with the Indonesian government’s investment target.",
+        "• In the final quarter of 2022, FDI increased by 43.3% year-on-year, totaling 175.2 trillion rupiah or approximately $12.2 billion in US dollar terms.",
+        "• The top 10 foreign investment origin countries in Indonesia for 2022 and projected for 2024 are as follows:",
+        "• Singapore: $10.54 billion in 2022, projected to increase to $20.04 billion in 2024, a 90.13% rise.",
+        "• Hong Kong: $3.91 billion in 2022, projected to increase to $8.22 billion in 2024, a 110.23% rise.",
+        "• China: $5.18 billion in 2022, projected to increase to $8.11 billion in 2024, a 56.56% rise.",
+        "• Malaysia: $2.21 billion in 2022, projected to increase to $4.24 billion in 2024, an 91.86% rise.",
+        "• USA: $2.12 billion in 2022, projected to increase to $3.70 billion in 2024, a 74.53% rise.",
+        "• Japan: $2.76 billion in 2022, projected to increase to $3.46 billion in 2024, a 25.36% rise.",
+        "• South Korea: $1.66 billion in 2022, projected to increase to $2.99 billion in 2024, an 80.12% rise.",
+        "• Netherlands: $1.09 billion in 2022, projected to increase to $1.98 billion in 2024, an 81.65% rise.",
+        "• British Virgin Islands: no data for 2022, but $0.78 billion projected for 2024.",
+        "• UK: $0.51 billion in 2022, projected to increase to $0.75 billion in 2024, a 47.06% rise.",
+        "• In the first quarter of 2023, foreign direct investment (excluding banking and oil and gas sectors) increased by 20.2% year-on-year to a record high of IDR 177 trillion (US$11.96 billion), driven by government efforts to ease business and licensing regulations.",
+        "• Singapore was the largest source of FDI in Q1 2023, contributing US$4.3 billion, followed by Hong Kong with US$1.5 billion, China with US$1.2 billion, and Japan with US$1 billion.",
+        "• During the first quarter of 2023, total investment (foreign and domestic) reached IDR 328.9 trillion (US$22.2 billion), representing a 16.5% increase from the same period in the previous year.",
+        "• The rise in total investment was supported by increased investments in the base metals, transportation, and mining sectors.",
+        "• The Indonesian government set a target to attract IDR 1,400 trillion (US$95.5 billion) in total investment from domestic and foreign sources for the year 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:05.399936",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Fortune Global 500",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 2023 Fortune Global 500 ranking, Indonesia has a total of one company listed.",
+        "• The Indonesian company that appears in the Fortune Global 500 for 2023 is Pertamina.",
+        "• Pertamina is ranked 141st globally in the Fortune Global 500 for 2023.",
+        "• Pertamina operates within the oil and gas industry.",
+        "• The company's reported sales for 2023 amount to $84,888 million (approximately $84.9 billion).",
+        "• Pertamina's profits for the year are recorded at $3,810 million (approximately $3.81 billion).",
+        "• The company's total assets are valued at $78,050 million (approximately $78.05 billion).",
+        "• Pertamina employs a workforce of 34,183 employees."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:07.981343",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Forbes Global 2000",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2024, Indonesia has a total of 9 companies ranked in the Forbes Global 2000 list, highlighting the country's significant presence in the global corporate landscape.",
+        "• The companies span various industries, including banking, telecommunications, mining, chemical manufacturing, and energy, demonstrating Indonesia's diverse economic sectors.",
+        "• Bank Rakyat Indonesia (BRI) holds the highest global ranking among Indonesian companies at position 308, making it the most prominent Indonesian firm on the list.",
+        "• BRI reported sales of $14.95 billion, with profits of $3.94 billion, assets totaling $125.45 billion, and a market value of $46.50 billion, indicating its substantial financial size and market influence.",
+        "• Bank Mandiri is ranked at 373 globally, with sales of $11.62 billion, profits of $3.60 billion, assets worth $136.49 billion, and a market value of $38.08 billion, positioning it as a major banking institution in Indonesia.",
+        "• Bank Central Asia (BCA) is ranked at 457, with sales of $7.46 billion, profits of $3.26 billion, assets totaling $91.08 billion, and a market value of $75.33 billion, reflecting its significant market capitalization despite lower sales compared to BRI and Mandiri.",
+        "• Telkom Indonesia, the leading telecommunications company, is ranked at 912, with sales of $9.82 billion, profits of $1.58 billion, assets of $18.17 billion, and a market value of $18.56 billion, indicating its key role in Indonesia’s telecom sector.",
+        "• Bank Negara Indonesia (BNI) is positioned at 944, with sales of $5.43 billion, profits of $1.37 billion, assets of $67.28 billion, and a market value of $12.09 billion, emphasizing its importance in the banking industry.",
+        "• Bayan Resources, a mining company, is ranked at 1,194, with sales of $3.30 billion, profits of $1.03 billion, assets of $2.85 billion, and a market value of $39.59 billion, illustrating its significant valuation relative to its sales.",
+        "• Chandra Asri, a chemical manufacturing firm, holds the 1,591 position, with sales of $2.13 billion, a negative profit of -$0.07 billion, assets totaling $5.37 billion, and a market value of $49.34 billion, indicating high valuation despite unprofitable operations.",
+        "• Amman Mineral, another mining company, is ranked at 1,605, with sales of $2.03 billion, profits of $0.25 billion, assets of $9.86 billion, and a market value of $46.59 billion, reflecting its substantial market valuation.",
+        "• Adaro Energy, an energy sector company, is ranked at 1,738, with sales of $6.12 billion, profits of $1.56 billion, assets of $10.47 billion, and a market value of $5.55 billion, demonstrating its role in Indonesia’s energy industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:18.197199",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "5",
+      "section_name": "Public expenditure",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2015, Indonesia's total public spending was Rp 1,806 trillion, equivalent to US$130.88 billion, representing 15.7% of the country's Gross Domestic Product (GDP).",
+        "• Government revenues in 2015, including income from state-owned enterprises (BUMN), totaled Rp 1,508 trillion, or US$109.28 billion, accounting for 13.1% of GDP.",
+        "• The fiscal deficit in 2015 was 2.6%, reflecting the gap between government revenues and expenditures.",
+        "• Since the 1997 Asian financial crisis, which led to increased public debt, higher public subsidies, and reduced development spending, Indonesia's public finances have experienced significant transformation.",
+        "• A series of macroeconomic policies, notably maintaining a low budget deficit, have positioned Indonesia to achieve a state of financial resource sufficiency capable of supporting development needs.",
+        "• The decentralization policy, enacted during President B.J. Habibie’s administration, altered the structure of government spending by transferring approximately 40% of public funds to regional governments by 2006.",
+        "• In 2005, rising international oil prices prompted the Indonesian government to cut fuel subsidies, resulting in an additional US$10 billion allocated for development spending.",
+        "• By 2006, the government secured an extra US$5 billion due to steady economic growth and declining debt service payments, marking Indonesia’s first \"fiscal space\" since the 1970s oil boom revenue windfall.",
+        "• Decentralization and fiscal space have created opportunities for Indonesia to improve public service quality and focus on reforms such as targeted infrastructure provision.",
+        "• Effective management of allocated funds remains a primary challenge in Indonesia’s public expenditure system.",
+        "• In 2018, President Joko Widodo significantly increased national debt through foreign loans, raising the debt by Rp 1,815 trillion compared to his predecessor, Susilo Bambang Yudhoyono (SBY).",
+        "• President Widodo justified the increased borrowing by emphasizing that funds were directed toward productive long-term projects, including infrastructure such as roads, bridges, and airports.",
+        "• Finance Minister Sri Mulyani stated that despite the rise in foreign loans and debt, the government also increased budgets for infrastructure, healthcare, education, and allocations to regencies and villages.",
+        "• The Indonesian government maintains that foreign debt remains under control and complies with legal limits, specifically that total debt does not exceed 60% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:23.866000",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "6",
+      "section_name": "Regional performance",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the 2009 regional administration implementation performance evaluation, the regions with the best performance were identified as follows:",
+        "• Three provinces: North Sulawesi, South Sulawesi, and Central Java.",
+        "• Ten regencies: Jombang, Bojonegoro, and Pacitan in East Java Province; Sragen in Central Java; Boalemo in Gorontalo; Enrekang in South Sulawesi; Buleleng in Bali; Luwu Utara in South Sulawesi; Karanganyar in Central Java; and Kulon Progo in Yogyakarta.",
+        "• Ten cities: Surakarta and Semarang in Central Java; Banjar in West Java; Yogyakarta city in Yogyakarta; Cimahi in West Java; Sawahlunto in West Sumatra; Probolinggo and Mojokerto in East Java; Sukabumi and Bogor in West Java.",
+        "• The evaluation was based on the regional administration implementation performance assessment conducted in 2009.",
+        "• The regions listed above demonstrated the highest levels of performance according to the evaluation criteria used in that year.",
+        "• In the JBIC Fiscal Year 2010 survey (22nd Annual Survey Report), Indonesia was found to have the highest satisfaction level among Japanese companies regarding net sales and profits in 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:26.593476",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "7",
+      "section_name": "Wealth",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, Indonesia's total wealth was approximately 3.2 trillion USD, positioning it among the countries with significant national wealth.",
+        "• The measurement of total wealth considers the combined value of all assets owned by individuals, corporations, and the government within Indonesia.",
+        "• Indonesia's wealth ranking relative to other nations reflects its large population, natural resources, and economic development level.",
+        "• The data on country wealth in 2020 is sourced from global financial and economic analyses, which compile asset valuations across countries.",
+        "• The figure of 3.2 trillion USD indicates Indonesia's economic capacity and financial stability within the context of global wealth distribution.",
+        "• This total wealth encompasses various asset classes, including real estate, financial assets, natural resources, and infrastructure.",
+        "• The 2020 wealth data provides a benchmark for assessing Indonesia's economic growth, investment potential, and development trajectory over recent years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:29.072944",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "National net wealth",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• National net wealth, also known as national net worth, is defined as the total value of a nation's assets minus its liabilities.",
+        "• It represents the total net wealth possessed by the citizens of a nation at a specific point in time.",
+        "• This metric is a key indicator of a country's capacity to incur debt and sustain government and private sector spending.",
+        "• The calculation of national net wealth is influenced by various factors, including real estate prices, equity market prices, exchange rates, and liabilities.",
+        "• It also depends on demographic factors such as the incidence of the adult population within the country.",
+        "• Additionally, human resources, natural resources, capital, and technological advancements significantly impact national net wealth by creating new assets or rendering existing ones obsolete.",
+        "• According to Credit Suisse, Indonesia's national net wealth is approximately $3.199 trillion.",
+        "• Indonesia's net wealth accounts for about 0.765% of the world's total net wealth.",
+        "• In terms of global ranking, Indonesia is positioned 17th in net wealth, surpassing countries such as Russia, Brazil, and Sweden."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:34.173328",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "High-net-worth individuals",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the Asia Wealth Report, Indonesia is predicted to have the highest growth rate of high-net-worth individuals (HNWI) among the ten largest Asian economies.",
+        "• The 2015 Knight Frank Wealth Report indicated that in 2014, there were 24 individuals in Indonesia with a net worth exceeding US$1 billion.",
+        "• Of these billionaires, 18 resided in Jakarta, while the remaining six were distributed across other major Indonesian cities.",
+        "• Indonesia has approximately 192 individuals classified as centamillionaires, defined as those possessing over US$100 million in wealth.",
+        "• The country also has around 650 high-net-worth individuals (HNWIs), each with wealth exceeding US$30 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:36.073735",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "7.3",
+      "section_name": "Embezzlement and corrupt bureaucracy",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, a revised law led to increased public perception of the anti-graft agency (KPK) as being viewed more negatively by the public.",
+        "• Corruption in Indonesia is widespread across various sectors, including local governments, police forces, the private sector, and ministerial institutions close to the president.",
+        "• The pervasive corruption is linked to issues of human capacity and technical resource limitations, which pose significant challenges to achieving effectiveness and integrity in public administration, especially in regencies and cities.",
+        "• A 2018 World Economic Forum survey identified corruption as the most problematic issue affecting doing business in Indonesia, alongside inefficient government bureaucracy policies.",
+        "• The same survey revealed that 70% of entrepreneurs believe corruption has increased in Indonesia.",
+        "• Low trust in the private sector is identified as a major obstacle to attracting foreign investment in the country.",
+        "• In 2019, a controversial bill concerning the anti-corruption body, the Corruption Eradication Commission (KPK), was enacted, which reduced the commission’s effectiveness in combating corruption and stripped it of its independence.",
+        "• The law was passed despite massive protests across Indonesia.",
+        "• The revised law contained 26 points that significantly weakened the KPK, potentially undermining efforts to eradicate corruption further."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:41.339604",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "7.4",
+      "section_name": "Labour unrest",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2011, labour militancy in Indonesia was increasing, exemplified by a major strike at the Grasberg mine, which is the world's largest gold mine and the second-largest copper mine, along with numerous other strikes across the country.",
+        "• A prevalent issue contributing to labour unrest was the attempt by foreign-owned enterprises to circumvent Indonesia's strict labour laws by employing contract workers instead of permanent employees.",
+        "• The New York Times expressed concern that Indonesia's competitive advantage of cheap labor might be compromised due to increasing labour militancy and regulatory evasion.",
+        "• Despite these concerns, a large pool of unemployed workers willing to accept substandard wages and conditions remained available, sustaining the labour market's flexibility.",
+        "• One factor fueling increased militancy was the heightened awareness, facilitated by the Internet, of wage standards in other countries and the substantial profits foreign companies were earning in Indonesia.",
+        "• On 1 September 2015, thousands of Indonesian workers staged large-scale demonstrations nationwide, totaling approximately 35,000 participants, advocating for higher wages and improved labour laws.",
+        "• The protesters demanded a 22% to 25% increase in the minimum wage by 2016 and called for lower prices on essential goods, including fuel.",
+        "• The unions also urged the government to ensure job security and to uphold the fundamental rights of workers.",
+        "• In 2020, thousands of workers across Indonesia participated in a massive march protesting the Omnibus Law on Job Creation, which introduced several controversial rules.",
+        "• The Omnibus Law included revisions to minimum wages, reductions in severance pay, relaxed firing regulations, and other policies perceived as disadvantaging labourers and factory workers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:44.616338",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "7.5",
+      "section_name": "Inequality",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Economic disparity and the unequal flow of natural resource profits to Jakarta have generated discontent and fueled separatist movements in regions such as Aceh and Papua.",
+        "• The poorest fifth of regions in Indonesia account for only 8% of the nation's total consumption, whereas the wealthiest fifth accounts for 45%, highlighting significant regional inequality.",
+        "• Indonesia has implemented new decentralization laws aimed at addressing issues of uneven economic growth and regional dissatisfaction; however, numerous obstacles hinder the effective implementation of these policies.",
+        "• During a 2011 meeting of the Indonesian Chamber of Commerce and Industry (Kadin) in Makassar, the Disadvantaged Regions Minister stated that there are 184 regencies classified as disadvantaged, with approximately 120 located in eastern Indonesia.",
+        "• Approximately 1% of Indonesia's population possesses 49.3% of the country's total wealth, which amounts to $1.8 trillion; this share has decreased from 53.5%.",
+        "• Indonesia ranks fourth globally in wealth concentration among the top one percent, after Russia (74.5%), India (58.4%), and Thailand (58%)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:51.102943",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "7.6",
+      "section_name": "Inflation",
+      "chapter_name": "Economy of Indonesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Inflation has historically been a significant issue in Indonesia, with periods of hyperinflation causing severe economic hardship.",
+        "• During 1964 to 1967, Indonesia experienced hyperinflation with an annual inflation rate of 1,000%, leading to widespread poverty and hunger.",
+        "• The economy recovered relatively quickly during the first decade of the New Order administration (1970–1981), but inflation remained consistently above 10% annually, never falling below that threshold.",
+        "• In the mid-1980s, inflation slowed down; however, economic growth was sluggish due to a sharp decline in oil prices, which drastically reduced Indonesia’s export revenue.",
+        "• Between 1989 and 1997, Indonesia experienced rapid economic growth driven by an improving export-oriented manufacturing sector, yet inflation remained higher than the rate of economic growth.",
+        "• The persistent high inflation during this period contributed to increasing income disparity among Indonesians.",
+        "• Inflation peaked in 1998 at over 58%, coinciding with the 1997 Asian financial crisis, which caused a significant rise in poverty levels comparable to those in the 1960s.",
+        "• In the years following the crisis, Indonesia’s government aimed to reduce inflation amid ongoing economic recovery and growth.",
+        "• Inflation rates have been influenced by global economic fluctuations and domestic market competition, complicating efforts to control it.",
+        "• As of 2010, Indonesia’s inflation rate was approximately 7%, while the country’s economic growth was around 6%.",
+        "• Currently, inflation disproportionately affects Indonesia’s lower middle class, particularly those unable to afford food due to rising prices.",
+        "• At the end of 2017, Indonesia’s inflation rate was recorded at 3.61%, which exceeded the government’s forecast range of 3.0% to 3.5%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:50:55.071275",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_indonesia.json",
+      "original_index": 39
+    }
+  ]
+}

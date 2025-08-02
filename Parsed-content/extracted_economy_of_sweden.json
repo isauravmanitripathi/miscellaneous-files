@@ -1,0 +1,354 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_sweden.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.036456",
+    "total_sections_in_source": 12,
+    "extracted_sections_count": 12,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Sweden is a highly developed, export-oriented economy, supported by natural resources such as timber, hydropower, and iron ore, which form the resource base for its foreign trade orientation.",
+        "• Key industries in Sweden include motor vehicles, telecommunications, pharmaceuticals, industrial machinery, precision equipment, chemical goods, home goods and appliances, forestry, iron, and steel.",
+        "• Historically, Sweden’s economy was based on a modern agricultural sector that employed over half of the domestic workforce.",
+        "• In contemporary times, Sweden has further developed its engineering, mining, steel, and pulp industries, which maintain international competitiveness, exemplified by prominent companies such as Ericsson, ASEA/ABB, SKF, Alfa Laval, AGA, and Dyno Nobel.",
+        "• Sweden operates a competitive, open mixed economy where the vast majority of enterprises are privately owned and market-oriented.",
+        "• The country maintains a strong welfare state, with public-sector spending accounting for up to three-fifths (60%) of its GDP.",
+        "• In 2014, the Swedish government owned 24% of the nation's wealth.",
+        "• Sweden’s neutrality during World War II allowed it to avoid the extensive economic and infrastructural rebuilding faced by many other European countries, preserving its economic base and banking system.",
+        "• Sweden has achieved a high standard of living through a mixed economic system combining high-tech capitalism with extensive welfare benefits.",
+        "• Sweden has the second highest total tax revenue as a share of national income among countries, behind Denmark.",
+        "• As of 2012, Sweden’s total tax revenue was 44.2% of GDP, which had decreased from 48.3% in 2006.",
+        "• The National Institute of Economic Research in Sweden predicted GDP growth rates of 1.8% in 2014, 3.1% in 2015, and 3.4% in 2016, although these figures require updating.",
+        "• A comparative analysis of projected economic growth rates within the European Union indicated that only the Baltic states, Poland, and Slovakia were expected to maintain comparable or higher growth rates than Sweden during that period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:10.716677",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 19th century, Sweden transitioned from a predominantly agricultural economy to the early stages of industrialization and urbanization, marking a significant economic transformation.",
+        "• Despite industrial progress, widespread poverty persisted in Sweden during the 19th century, leading to substantial emigration, primarily to the United States.",
+        "• Economic reforms in the latter half of the 19th century included the establishment of a modern economic system characterized by the creation of banks and corporations.",
+        "• From the 1860s, Sweden experienced a strong industrialization process, positioning it as the \"powerhouse\" of the Scandinavian region during that period.",
+        "• The Swedish Riksdag evolved into an active parliamentary institution during the Age of Liberty (1719–1772), a tradition that continued into the 19th century and laid the groundwork for Sweden’s transition to modern democracy by the century’s end.",
+        "• High levels of human capital formation in Sweden were influenced by the Reformation and related government policies, contributing to economic development.",
+        "• Local democratic traditions, alongside human capital, were crucial assets enabling Sweden and other Scandinavian countries to \"catch up\" economically, representing one of the most remarkable regional economic phenomena of the 19th century.",
+        "• By the 1930s, Sweden had achieved what _Life_ magazine described in 1938 as the \"world's highest standard of living.\"",
+        "• Sweden maintained neutrality during both World War I and World War II, avoiding physical destruction and benefiting economically, especially after World War I, due to increased demand for raw materials and foodstuffs and reduced international competition for exports.",
+        "• The postwar economic boom in Sweden was fueled by ongoing inflationary trends during the wars, leading to greater prosperity in the mid-20th century.",
+        "• From the 1970s through the early 1990s, Sweden’s standard of living grew less favorably compared to many other industrialized nations, culminating in a deep recession in the early 1990s.",
+        "• Since the mid-1990s, Sweden’s economic performance has improved, recovering from the earlier recession period.",
+        "• In 2009, Sweden ranked tenth globally in nominal GDP per capita and 14th in terms of purchasing power parity, reflecting its strong economic position internationally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:11.457336",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Crisis of the 1990s",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the post-World War II era, Sweden’s economic model was characterized by close cooperation between the government, labour unions, and corporations, supporting extensive and universal social benefits funded by high taxes amounting to nearly 50% of GDP.",
+        "• During the 1980s, Sweden experienced a real estate and financial bubble driven by a rapid increase in lending, which was later exacerbated by a tax system restructuring aimed at emphasizing low inflation combined with an international economic slowdown in the early 1990s.",
+        "• The bursting of the bubble between 1990 and 1993 led to a 5% decline in GDP and a sharp increase in unemployment, marking the worst economic crisis in Sweden since the 1930s.",
+        "• A 1992 analysis published in _Computer Sweden_ revealed a drastic decrease in investment levels for information technology and computing equipment, except within the financial and banking sector, which was responsible for the crisis; investment levels in IT and computing rebounded by 1993.",
+        "• In 1992, Sweden experienced a currency run, prompting the central bank to temporarily raise interest rates to 500% in an unsuccessful attempt to defend the currency’s fixed exchange rate.",
+        "• Total employment in Sweden fell by nearly 10% during the crisis period.",
+        "• The real estate boom ended in a bust, leading the government to take over nearly a quarter of banking assets at a cost of about 4% of the nation’s GDP, a measure colloquially known as the \"Stockholm Solution.\"",
+        "• The United States Federal Reserve noted in 2007 that Sweden, which had one of the highest income levels in Europe in the early 1970s, had lost much of its lead by that time, illustrating that even well-managed financial crises do not have fully positive long-term outcomes.",
+        "• The rapidly expanding welfare system from the 1970s became unsustainable due to falling GDP, lower employment, and increased welfare payments, culminating in a government budget deficit exceeding 15% of GDP in 1994.",
+        "• In response, the Swedish government implemented spending cuts and numerous reforms aimed at improving national competitiveness.",
+        "• The combination of an improved international economic outlook and rapid growth in the IT sector, where Sweden was well positioned, enabled the country to recover from the crisis.",
+        "• The 1990s crisis was viewed by some as signaling the end of the \"Svenska modellen\" (\"The Swedish Model\"), as it demonstrated that the previously high levels of government spending were not sustainable in a global open economy.",
+        "• Many advantages attributed to the Swedish Model were reconsidered as outcomes of the unique post-WWII situation, during which Sweden’s economy remained intact while competitors’ economies were weakened.",
+        "• Despite the crisis, reforms enacted during the 1990s appear to have established a model allowing Sweden to maintain extensive welfare benefits within a global economic framework.",
+        "• Since the 1990s, the Swedish welfare state model has weakened due to massive privatizations, including in public services such as health and education.",
+        "• Rising inequality in Sweden has been linked particularly to a tax system that does not impose taxes on wealth and inheritance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:09.202532",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Data",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Sweden's main economic indicators from 1980 to 2021, with IMF staff estimates for 2022 to 2027, including GDP (in billion US$ PPP and nominal), GDP per capita (in US$ PPP and nominal), real GDP growth, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, Sweden's GDP was 87.6 billion US$ PPP and 140.4 billion US$ nominal, with GDP per capita at 10,531.9 US$ PPP and 16,877.2 US$ nominal; real GDP growth was 4.6%, inflation was 17.5%, unemployment was 2.7%, and government debt data was not available.",
+        "• From 1981 to 1989, GDP in PPP terms increased steadily from 100.2 billion to 164.4 billion US$, with GDP per capita rising from 12,044.3 to 19,278.6 US$ PPP; nominal GDP grew from 128.1 billion to 216.7 billion US$, and nominal GDP per capita increased from 15,396.7 to 25,412.2 US$; real GDP growth fluctuated between 1.4% and 4.6%, inflation decreased from 17.5% in 1980 to 6.4% in 1989, and unemployment remained low, between 2.0% and 4.8%; government debt data remained unavailable.",
+        "• In 1990, GDP reached 171.8 billion US$ PPP and 259.9 billion US$ nominal, with GDP per capita at 20,001.0 US$ PPP and 30,253.9 US$ nominal; real GDP growth slowed to 0.8%, inflation rose to 10.5%, unemployment was 2.2%, and government debt data was still not available.",
+        "• During the early 1990s recession, Sweden experienced negative real GDP growth: -1.1% in 1991, -0.9% in 1992, and -1.8% in 1993; inflation dropped significantly to 1.4% in 1992 and 4.7% in 1993; unemployment rose sharply from 4.0% in 1991 to 11.2% in 1993; government debt was recorded at 65.7% of GDP in 1993.",
+        "• From 1994 to 1999, Sweden's economy recovered with GDP in PPP terms growing from 189.9 billion to 243.7 billion US$, and GDP per capita increasing from 21,537.6 to 27,500.4 US$ PPP; nominal GDP rose from 229.0 billion to 274.1 billion US$, and nominal GDP per capita from 25,978.3 to 30,928.6 US$; real GDP growth ranged between 1.6% and 4.3%, inflation remained low between 0.6% and 2.9%, unemployment decreased from 10.8% to 7.6%, and government debt declined from 68.2% to 60.1% of GDP.",
+        "• In the early 2000s (2000–2003), GDP continued to grow from 261.1 billion to 293.3 billion US$ PPP, with GDP per capita rising from 29,393.1 to 32,674.8 US$ PPP; nominal GDP fluctuated, peaking at 334.3 billion US$ in 2003; real GDP growth was modest, between 1.4% and 2.3%; inflation remained low, between 1.0% and 2.7%; unemployment hovered around 5.8% to 6.6%; government debt stabilized near 49% to 51.8% of GDP.",
+        "• Between 2004 and 2007, Sweden experienced robust economic growth with GDP increasing from 314.2 billion to 382.1 billion US$ PPP and GDP per capita rising from 34,868.2 to 41,605.3 US$ PPP; nominal GDP grew from 385.1 billion to 491.3 billion US$; real GDP growth ranged from 2.9% to 4.7%; inflation remained low (0.8% to 1.7%); unemployment declined from 7.8% to 6.3%; government debt decreased from 48.8% to 39.0% of GDP.",
+        "• The global financial crisis impacted Sweden in 2008–2009, with GDP contracting from 387.6 billion to 373.2 billion US$ PPP and GDP per capita falling from 41,877.3 to 39,952.7 US$ PPP; nominal GDP dropped from 517.7 billion to 436.5 billion US$; real GDP growth was negative at -0.5% in 2008 and -4.3% in 2009; inflation was moderate (3.3% in 2008, 1.9% in 2009); unemployment rose from 6.4% to 8.5%; government debt increased slightly from 37.5% to 40.7% of GDP.",
+        "• From 2010 to 2014, Sweden's economy recovered with GDP rising from 400.2 billion to 457.5 billion US$ PPP and GDP per capita increasing from 42,498.8 to 46,936.6 US$ PPP; nominal GDP grew from 495.8 billion to 582.0 billion US$; real GDP growth varied from 1.2% to 6.0%, peaking at 6.0% in 2010; inflation remained low, between 0.2% and 1.9%; unemployment fluctuated between 7.4% and 8.8%; government debt increased slightly from 38.1% to 44.9% of GDP.",
+        "• Between 2015 and 2019, Sweden's GDP expanded from 481.3 billion to 574.8 billion US$ PPP, with GDP per capita rising from 48,857.9 to 55,656.2 US$ PPP; nominal GDP fluctuated, peaking at 555.5 billion US$ in 2018; real GDP growth ranged from 2.0% to 4.5%; inflation remained below 2.0%; unemployment declined from 7.6% to 7.0%; government debt decreased from 43.7% to 34.9% of GDP.",
+        "• The COVID-19 pandemic caused a contraction in 2020, with GDP falling to 569.1 billion US$ PPP and GDP per capita to 54,830.0 US$ PPP; nominal GDP was 547.1 billion US$; real GDP growth was -2.2%; inflation was low at 0.7%; unemployment increased to 8.5%; government debt rose to 39.2% of GDP.",
+        "• In 2021, Sweden's economy rebounded with GDP reaching 622.8 billion US$ PPP and GDP per capita at 59,587.3 US$ PPP; nominal GDP increased to 635.7 billion US$; real GDP growth was 5.1%; inflation rose to 2.7%; unemployment was 8.8%; government debt declined to 36.8% of GDP.",
+        "• IMF staff estimates for 2022 to 2027 project continued growth: GDP is expected to increase from 684.5 billion US$ PPP in 2022 to 830.7 billion US$ PPP in 2027; GDP per capita is forecasted to rise from 63,877.4 US$ PPP to 74,376.1 US$ PPP; nominal GDP is projected to grow from 603.9 billion US$ to 808.7 billion US$; real GDP growth rates are estimated between -0.1% (2023) and 2.6% (2022); inflation rates are expected to moderate from 7.2% in 2022 to 2.0% by 2027; unemployment is forecasted to stabilize around 7.2% from 2025 onwards; government debt is projected to decline steadily from 33.5% of GDP in 2022 to 24.2% in 2027.",
+        "• Inflation rates below 5% are highlighted in green in the table, indicating that most years from 1986 onwards experienced moderate inflation, with notable exceptions during the early 1980s and the spike in 2022.",
+        "• The data reflects Sweden's economic resilience, with periods of recession in the early 1990s and during the 2008 financial crisis, followed by recovery and steady growth into the 21st century, supported by low inflation, manageable unemployment, and decreasing government debt as a percentage of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:31.274606",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2",
+      "section_name": "Contemporary economy",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sweden's economy from 1996 to 2006 showed real GDP growth supported by abundant natural resources including iron ore (Fe), pyrite (PY), copper (Cu), zinc (Zn), arsenic (As), silver (Ag), gold (Au), lead (Pb), uranium (U), and, in red on resource maps, coal (C) and oil shale (OS).",
+        "• The Swedish economy is export-oriented and mixed, characterized by a modern distribution system, excellent internal and external communications, and a highly skilled labor force.",
+        "• Key natural resources such as timber, hydropower, and iron ore form the foundation of Sweden's economy, which is heavily oriented toward foreign trade.",
+        "• The engineering sector is dominant, accounting for 50% of Sweden's industrial output and exports, with telecommunications, automotive, and pharmaceutical industries also playing significant roles.",
+        "• Agriculture contributes only 2% to Sweden’s GDP and employment, reflecting its relatively small role in the economy.",
+        "• Sweden's armaments industry is recognized for its advanced technological capabilities.",
+        "• As of 2013, the 20 largest Sweden-registered companies by turnover included Volvo, Ericsson, Vattenfall, Skanska, Hennes & Mauritz, Electrolux, Volvo Personvagnar, Preem, TeliaSonera, Sandvik, ICA, Atlas Copco, Nordea, Svenska Cellulosa Aktiebolaget, Scania, Securitas, Nordstjernan, SKF, ABB Norden Holding, and Sony Mobile Communications AB.",
+        "• Swedish industry is predominantly under public and state control, exemplified by LKAB, a state-owned mining company primarily operating in northern Sweden with the largest domestic market share.",
+        "• Approximately 4.5 million residents were employed, with about one-third possessing tertiary education qualifications.",
+        "• In 2006, Sweden’s GDP per hour worked was US$31, ranking 9th globally, compared to US$22 in Spain and US$35 in the United States.",
+        "• According to the OECD, key drivers of Sweden’s productivity include deregulation, globalization, and growth in the technology sector.",
+        "• Sweden’s GDP per hour worked was growing at over 2.5% annually, with trade-terms-balanced productivity growth at 2%.",
+        "• Sweden is a global leader in privatized pensions, with relatively minor pension-funding problems compared to other Western European nations.",
+        "• The Swedish labor market has become more flexible but still faces acknowledged challenges.",
+        "• The typical Swedish worker retains only 40% of their income after accounting for the tax wedge.",
+        "• Overall taxation in Sweden was 51% of GDP in 2007, nearly double the rates in the United States or Ireland, though it was slowly declining.",
+        "• Civil servants constitute about one-third of the Swedish workforce, a proportion significantly higher than in many other countries.",
+        "• Since early 1990s reforms, Sweden has experienced rapid GDP growth, especially in manufacturing.",
+        "• The World Economic Forum’s 2012–2013 competitiveness index ranked Sweden as the 4th most competitive country worldwide.",
+        "• The 2012 Index of Economic Freedom placed Sweden 21st out of 179 countries globally and 10th among 43 European countries.",
+        "• Sweden ranked 9th in the 2008 IMD Competitiveness Yearbook, noted for high private sector efficiency.",
+        "• According to Richard Florida’s book _The Flight of the Creative Class_, Sweden has the best creativity in Europe for business and is predicted to attract highly purposeful global talent, based on an index measuring talent, technology, and tolerance.",
+        "• In 2007, Sweden invested over 3.5% of its GDP in research and development, exceeding many more economically developed countries (MEDCs), including the United States, and representing the highest R&D investment among OECD members.",
+        "• Sweden rejected adoption of the Euro in a 2003 referendum and retains its own currency, the Swedish krona (SEK).",
+        "• The Swedish Riksbank, established in 1668 as the world’s oldest central bank, focuses on price stability with an inflation target of 2%.",
+        "• According to the OECD’s 2007 _Economic Survey of Sweden_, average inflation has been among the lowest in Europe since the mid-1990s, attributed largely to deregulation and rapid globalization.",
+        "• Sweden’s largest trade partners include Germany, the United States, Norway, the United Kingdom, Denmark, and Finland.",
+        "• Since the severe recession in the early 1990s, Sweden’s economic outlook has improved significantly, with strong growth in recent years.",
+        "• Although growth slowed between 2001 and 2003, the economy rebounded with an average growth rate of 3.7% over the subsequent three years.",
+        "• Long-term growth prospects remain favorable with low and stable inflation projected to continue over the next 2–3 years (noting the need for updated data).",
+        "• Since the mid-1990s, the export sector has been the main engine of economic growth, showing robustness and structural shifts from traditional industries like steel, paper, and pulp to services, IT, and telecommunications.",
+        "• Between 1995 and 2003, export prices declined by 4% while import prices increased by 11%, resulting in a 13% deterioration in Sweden’s terms of trade.",
+        "• By 2014, concerns were raised by legislators, economists, and the IMF about a housing bubble, with soaring residential property prices and rapidly expanding personal mortgage debt.",
+        "• Household debt-to-income ratios exceeded 170% by 2014, prompting IMF calls for zoning reforms and other measures to increase housing supply due to demand outstripping availability.",
+        "• As of August 2014, 40% of Swedish home borrowers held interest-only loans, while those repaying principal were doing so at a pace that would take 100 years to fully repay.",
+        "• The article notes that sections related to government require updating as of June 2016 to reflect recent events or new information."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:21.900193",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 36
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Government",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sweden issues government bonds with maturities of 20 years, 10 years, 5 years, 2 years, 6 months, 3 months, and 1 month, reflecting a diversified debt portfolio.",
+        "• The Swedish government budget experienced a severe deficit exceeding 12% of GDP in 1993, marking a record low point in fiscal balance.",
+        "• From 1998 onwards, Sweden’s government consistently ran budget surpluses every year except in 2003 and 2004, indicating a significant fiscal turnaround.",
+        "• The budget surplus for the year 2011 was projected to be 99 billion kronor, equivalent to approximately 15 billion US dollars, demonstrating strong fiscal health.",
+        "• The improvement in Sweden’s fiscal policy credibility is attributed to the implementation of a strict budget process involving spending ceilings set by the Riksdag (Swedish Parliament).",
+        "• A constitutional amendment established the independence of the Central Bank, further enhancing the credibility and effectiveness of monetary and fiscal policy.",
+        "• In 1999, Sweden enacted a comprehensive reform of its old-age pension system aimed at ensuring long-term fiscal sustainability amidst demographic and economic challenges.",
+        "• The pension reform is designed to maintain the ratio of total pension disbursements to the aggregate wage bill at approximately 20% over the coming decades, securing pension system robustness.",
+        "• Combined fiscal consolidation efforts and pension reforms have restored Sweden’s public finances to a sustainable trajectory.",
+        "• Gross public debt in Sweden rose sharply from 43% of GDP in 1990 to 78% in 1994, reflecting fiscal stress during the early 1990s.",
+        "• Public debt stabilized in the mid-1990s and began a significant decline starting in 1999, signaling improved fiscal management.",
+        "• By the year 2000, Sweden’s gross public debt fell below the critical threshold of 60% of GDP.",
+        "• As of 2010, Sweden’s gross public debt had further decreased to 35% of GDP, underscoring a successful reduction in government indebtedness over the decade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:10.825235",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Companies",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the services sector was the largest in Sweden by number of registered companies, totaling 457,044 entities.",
+        "• The finance, insurance, and real estate sector was the second largest, with 184,377 registered companies in Sweden in 2022.",
+        "• Sweden’s construction sector is highly developed and has experienced significant growth in subcontracting practices since the 1980s."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:13.300927",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3",
+      "section_name": "Economic and monetary union",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the economic crisis of 1991–93, Sweden has experienced a significant improvement in its economy, enabling it to easily qualify for membership in the third phase of the Economic and Monetary Union (EMU) of the European Union, which involves adopting the euro as its currency.",
+        "• According to the rules of the EMU, Sweden is theoretically obliged to join the eurozone because it has not obtained any exceptions through protocols or treaties, unlike Denmark and the United Kingdom, which have negotiated opt-outs.",
+        "• Despite this obligation, the Swedish government decided in 1997 not to join the common currency at its launch on 1 January 1999.",
+        "• Sweden implemented this decision by deliberately avoiding participation in the European Exchange Rate Mechanism (ERM), thereby exploiting a legal loophole that allowed it to remain outside the eurozone.",
+        "• The European Central Bank (ECB) currently tolerates Sweden’s non-participation in the ERM; however, the ECB has warned that such tolerance would not extend to newer EU member states.",
+        "• In the early 2000s, a majority within the governing Social Democratic party began to support joining the euro, although the issue remained highly contentious with prominent party figures divided on the matter.",
+        "• On 14 September 2003, Sweden held a national referendum on adopting the euro, resulting in 56% of voters rejecting the common currency and 42% supporting it.",
+        "• Following the 2003 referendum, there are currently no official plans for a new referendum or parliamentary vote on adopting the euro.",
+        "• It has been suggested that another referendum on the euro might be held in approximately ten years from the 2003 vote, though this remains speculative."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:16.373889",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "4",
+      "section_name": "Unemployment",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Throughout the 1980s, Sweden maintained an unemployment rate around 2% to 3% of the workforce, which was notably low compared to most other European countries, but this period was accompanied by high and accelerating inflation.",
+        "• It became clear that sustaining such low unemployment rates was not feasible, and during the severe economic crisis of the early 1990s, Sweden’s unemployment rate rose sharply to more than 8%.",
+        "• In 1996, the Swedish government established a goal to reduce unemployment to 4% by the year 2000.",
+        "• Employment increased by 90,000 people in the year 2000, marking the greatest employment growth in 40 years, and the government successfully achieved the 4% unemployment target in the autumn of 2000.",
+        "• Following this achievement, the government set a new employment target in autumn 2000: to have 80% of the working-age population engaged in regular employment by 2004.",
+        "• Concerns were raised that meeting the 80% employment target might lead to excessively high wage increases, potentially causing increased inflation.",
+        "• As of August 2006, the unemployment rate was approximately 5% among working-age Swedes, which was above the government’s established goal.",
+        "• Some individuals unable to find regular employment were placed in \"labour market political activities,\" known as \"AMS-åtgärder,\" which are state-organized job schemes.",
+        "• Jan Edling, a former trade unionist, argued that the actual number of unemployed individuals in Sweden was significantly higher than official statistics suggested, claiming that both the government and the Swedish Trade Union Confederation suppressed these figures.",
+        "• In Edling’s report, he noted that an additional 3% of Swedes were engaged in state-organized job schemes rather than private sector employment.",
+        "• Edling also claimed that approximately 700,000 Swedes were either on long-term sick leave or in early retirement, raising questions about how many of these individuals should be considered unemployed.",
+        "• According to Edling’s analysis, the \"actual unemployment\" rate, also referred to as \"broad unemployment,\" was close to 20%.",
+        "• Critics of Edling’s concept of \"actual\" or \"broad\" unemployment disagreed with including groups such as students seeking jobs, people on sick leave, and military conscripts as unemployed.",
+        "• According to Swedish Statistics, in June 2013, the overall unemployment rate in Sweden was 9.1% for the general population.",
+        "• Among the youth demographic aged 15 to 25 years, the unemployment rate was significantly higher, at 29%, as of June 2013."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:23.432524",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "5",
+      "section_name": "Trade unions",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Approximately seventy percent of the Swedish labour force is unionised, indicating a strong presence of trade unions within the workforce.",
+        "• Most Swedish unions have corresponding employer organizations representing businesses, establishing a bilateral structure in industrial relations.",
+        "• Both unions and employer organizations operate independently of the government and political parties, maintaining autonomy in their functions.",
+        "• The largest union confederation, the National Swedish Confederation of Trade Unions (LO), which organizes blue-collar workers, maintains close ties with the Social Democrats, one of Sweden’s three major political parties.",
+        "• Unionisation rates among white-collar workers in Sweden are exceptionally high and have surpassed those of blue-collar workers since 2008.",
+        "• In 2023, union density was recorded at 58% for blue-collar workers and 73% for white-collar workers, excluding full-time students working part-time.",
+        "• Prior to the significant increase in union unemployment fund fees in January 2007, union density for both blue-collar and white-collar workers was equal at 77% in 2006.",
+        "• Average union density rates were 70% during 2011–2014, decreased slightly to 69% in 2015–2017, and further declined to 68% in 2018 and 2019.",
+        "• Two major confederations organize professionals and qualified employees: the Swedish Confederation of Professional Employees (Tjänstemännens Centralorganisation, TCO) and the Swedish Confederation of Professional Associations (Sveriges Akademikers Centralorganisation, SACO).",
+        "• Both TCO and SACO maintain independence from political parties and do not endorse candidates in political elections, emphasizing their non-partisan stance.",
+        "• Sweden does not have a legislated minimum wage; instead, minimum wage standards are typically established through collective bargaining agreements within different sectors.",
+        "• Approximately 90% of all Swedish workers are covered by collective agreements, with 83% coverage in the private sector as of 2018.",
+        "• The high coverage of collective agreements is achieved without state mechanisms that extend agreements to entire industries or sectors, highlighting the predominance of self-regulation by labour market parties over state intervention in Swedish industrial relations.",
+        "• Sweden has not joined the Economic and Monetary Union (EMU) or adopted the Euro and is not expected to do so in the foreseeable future.",
+        "• During discussions on EMU membership, the Swedish union movement was deeply divided; unlike the generally positive stance of employers’ associations, union rank-and-file opinions were split.",
+        "• Due to this division, several unions and the major confederations LO, TCO, and SACO chose to abstain from taking an official position on Sweden’s potential EMU membership."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:24.254899",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "6",
+      "section_name": "Labour force",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The traditionally low wage differential in Sweden has increased in recent years due to greater flexibility and a strengthened role of wage setting at the company level.",
+        "• Despite this change, Swedish unskilled employees remain well paid, whereas well-educated Swedish employees earn comparatively lower wages than their counterparts in Western Europe and the United States.",
+        "• Recent average increases in real wages in Sweden have been high by historical standards, largely attributed to unforeseen price stability.",
+        "• Nominal wages in Sweden in recent years have been slightly higher than those in competitor countries.",
+        "• Between 1998 and 2000, private-sector wages in Sweden rose at an average annual rate of 3.75%, compared to a 1.75% increase in the EU area over the same period.",
+        "• In the year 2000, the total labour force in Sweden was approximately 4.4 million people."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:17.286850",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "7",
+      "section_name": "Ongoing and finished privatisations",
+      "chapter_name": "Economy of Sweden",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Swedish government announced plans to privatise several wholly and partly state-owned companies, aiming to use the income from these sales to pay off government debt and reduce the debt burden for future generations, with an ambition to sell companies valued at SEK 200 billion during the period 2007–2010.",
+        "• Telia Sonera, a telecommunications company, is 37.3% owned by the Swedish government; prior to ongoing privatisations, SEK 18 billion worth of shares had been sold, reducing state ownership from 45.3% to 37.3%.",
+        "• SAS Group, an airline company, is 14.8% owned by the Swedish government; on 13 October 2016, the government sold 13.8 million shares worth SEK 213.9 million, with Minister of Enterprise Mikael Damberg stating that there are good reasons for the government not to be a long-term owner of a publicly traded airline and that this sale represents a first step towards responsibly reducing government ownership.",
+        "• OMX, the stock exchange, was privatised with shares sold to Borse Dubai for SEK 2.1 billion.",
+        "• Vin & Sprit, a company producing alcoholic beverages, was sold to Pernod Ricard for 5.6 billion Euro.",
+        "• Vasakronan, a real estate company, was sold to AP Fastigheter for 4.3 billion Euro.",
+        "• Nordea, a bank with 19.5% ownership by the Swedish government, had its last government-held block of shares sold in September 2013, completing the government's divestment in the bank."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:22.518820",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_sweden.json",
+      "original_index": 11
+    }
+  ]
+}
