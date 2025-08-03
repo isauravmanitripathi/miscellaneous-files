@@ -407,24 +407,55 @@ class CleanMCQGenerator:
     def call_openai_api(self, task: BulletPointTask) -> Tuple[Optional[List[Dict]], str]:
         """Call OpenAI API to generate MCQ questions - returns questions and API key used"""
         
-        system_message = """You are an expert educational content creator specializing in creating high-quality multiple-choice questions for academic study materials. Your questions should test understanding, analysis, and application of knowledge."""
+        system_message = """You are an expert question setter for UPSC Civil Services Examination and other prestigious government competitive exams in India. Your expertise lies in creating analytical, application-based multiple-choice questions that test deep understanding, critical thinking, and practical application of knowledge rather than mere memorization."""
         
         user_prompt = f"""Context Information:
 CHAPTER: {task.chapter_name}
 SECTION: {task.section_name} (Section {task.section_number})
-BULLET POINT: {task.bullet_point_text}
+KNOWLEDGE BASE: {task.bullet_point_text}
 
-Create {task.questions_per_point} high-quality multiple-choice questions based on this bullet point.
+Using the above knowledge base as your foundation, create {task.questions_per_point} distinct UPSC-style multiple-choice questions. 
 
-Requirements:
-- Each question should test understanding of specific facts/concepts from the bullet point
-- 4 options per question (A, B, C, D)
-- Only one correct answer per question
-- Distractors should be plausible but clearly incorrect
-- Include detailed explanations for ALL options (why correct option is right, why others are wrong)
-- Questions should be academic-level and test comprehension, not just memorization
-- Avoid questions that are too easy or too obvious
-- Make questions that would be suitable for university-level study
+CRITICAL REQUIREMENTS:
+
+1. QUESTION DIVERSITY: Each question must test COMPLETELY DIFFERENT aspects:
+   - Question 1: Focus on analytical reasoning, cause-effect relationships, or comparative analysis
+   - Question 2: Focus on application scenarios, policy implications, or real-world connections
+   - If generating 3 questions: Question 3 should focus on conceptual understanding or synthesis with other topics
+
+2. UPSC EXAMINATION PATTERN:
+   - Questions should be similar to those asked in UPSC Prelims, State PSC, or other government competitive exams
+   - Test analytical ability, logical reasoning, and application of concepts
+   - Avoid direct factual recall questions like "What is X?" or "When did Y happen?"
+   - Instead ask "Which of the following best explains...", "The primary reason for...", "If X happens, the most likely consequence..."
+
+3. QUESTION CONSTRUCTION:
+   - Use phrases like: "Which of the following statements is/are correct?", "The most appropriate explanation...", "In the context of...", "Consider the following statements..."
+   - Create scenario-based questions that require applying the knowledge
+   - Test understanding of underlying principles, not just surface facts
+
+4. OPTION QUALITY:
+   - All 4 options must be plausible and well-researched
+   - Distractors should be based on common misconceptions or closely related concepts
+   - Avoid obviously wrong options like absurd dates or completely unrelated topics
+   - Options should require careful analysis to distinguish correct from incorrect
+
+5. EXPLANATION QUALITY:
+   - Provide comprehensive explanations for ALL options (not just correct one)
+   - Explain WHY each incorrect option is wrong with specific reasoning
+   - Connect explanations back to broader concepts and real-world relevance
+   - Include additional context that enhances learning beyond the original bullet point
+
+6. DIFFICULTY LEVEL:
+   - Questions should be challenging but fair for serious UPSC/government exam aspirants
+   - Require synthesis of information and analytical thinking
+   - Test depth of understanding rather than breadth of memorization
+
+EXAMPLE TRANSFORMATION:
+❌ Poor Question: "What is machine learning?"
+✅ Good UPSC-style Question: "In the context of India's Digital India initiative, which of the following best explains why machine learning algorithms require careful ethical oversight in government applications?"
+
+Remember: Use the bullet point as your knowledge foundation, but create questions that test HOW to think about and apply this knowledge, not just WHAT the knowledge is.
 
 Return ONLY a JSON structure with this exact format:
 {{
