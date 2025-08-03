@@ -1,5 +1,5 @@
 The code `extract-bullet-point-json.py` will create this json structure:
-
+```json
 // 1. INDIVIDUAL EXTRACTED FILES (extracted_filename.json)
 // One file per original JSON file
 {
@@ -158,3 +158,7 @@ The code `extract-bullet-point-json.py` will create this json structure:
     // ... ALL sections from ALL files (87 total in this example)
   ]
 }
+
+```
+
+Now once the generation of questions are done, the output json structure will look like this  
