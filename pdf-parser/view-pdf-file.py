@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import filedialog, messagebox, ttk
+from tkinter import filedialog, messagebox, ttk, simpledialog
 import fitz  # pymupdf
 from PIL import Image, ImageTk
 import os
@@ -37,8 +37,8 @@ class PDFViewer:
         ttk.Button(control_frame, text="Open PDF", command=self.open_pdf).pack(side=tk.LEFT, padx=(0, 10))
         
         # Navigation buttons
-        ttk.Button(control_frame, text="Previous", command=self.prev_page).pack(side=tk.LEFT, padx=(0, 5))
-        ttk.Button(control_frame, text="Next", command=self.next_page).pack(side=tk.LEFT, padx=(0, 10))
+        ttk.Button(control_frame, text="Previous (1)", command=self.prev_page).pack(side=tk.LEFT, padx=(0, 5))
+        ttk.Button(control_frame, text="Next (2)", command=self.next_page).pack(side=tk.LEFT, padx=(0, 10))
         
         # Page info label
         self.page_label = ttk.Label(control_frame, text="No PDF loaded")
@@ -54,7 +54,7 @@ class PDFViewer:
         crop_frame.pack(fill=tk.X, pady=(0, 10))
         
         # Crop status label
-        self.crop_status_label = ttk.Label(crop_frame, text="Press 'B' to start cropping, 'N' to finish", 
+        self.crop_status_label = ttk.Label(crop_frame, text="Keys: 1=Previous, 2=Next, B=Start crop, N=Finish crop", 
                                          foreground="blue", font=("Arial", 10, "bold"))
         self.crop_status_label.pack(side=tk.LEFT)
         
@@ -204,12 +204,52 @@ class PDFViewer:
         if self.crop_end_page < self.crop_start_page:
             messagebox.showerror("Error", "End page must be after start page!")
             return
-            
-        # Save the cropped pages
-        self.save_cropped_pdf()
         
-    def save_cropped_pdf(self):
-        """Save the selected pages as a new PDF"""
+        # Ask user for filename
+        self.ask_filename_and_save()
+        
+    def ask_filename_and_save(self):
+        """Ask user for filename and save the cropped PDF"""
+        # Generate default filename
+        original_name = "document"
+        try:
+            # Try to get original filename from window title
+            title_parts = self.root.title().split(" - ")
+            if len(title_parts) > 1:
+                original_name = os.path.splitext(title_parts[-1])[0]
+        except:
+            pass
+        
+        default_name = f"{original_name}_pages_{self.crop_start_page+1}_to_{self.crop_end_page+1}"
+        
+        # Ask user for custom filename
+        custom_name = simpledialog.askstring(
+            "Save Cropped PDF",
+            f"Enter filename for the cropped PDF:\n(Pages {self.crop_start_page+1} to {self.crop_end_page+1})",
+            initialvalue=default_name
+        )
+        
+        if custom_name is None:  # User cancelled
+            return
+            
+        if not custom_name.strip():  # Empty name
+            messagebox.showwarning("Warning", "Please enter a valid filename!")
+            return
+            
+        # Clean the filename (remove invalid characters)
+        invalid_chars = '<>:"/\\|?*'
+        for char in invalid_chars:
+            custom_name = custom_name.replace(char, '_')
+        
+        # Add .pdf extension if not present
+        if not custom_name.lower().endswith('.pdf'):
+            custom_name += '.pdf'
+            
+        # Save the cropped PDF
+        self.save_cropped_pdf(custom_name)
+        
+    def save_cropped_pdf(self, filename):
+        """Save the selected pages as a new PDF with custom filename"""
         try:
             # Create new PDF document
             new_pdf = fitz.open()
@@ -218,14 +258,19 @@ class PDFViewer:
             for page_num in range(self.crop_start_page, self.crop_end_page + 1):
                 new_pdf.insert_pdf(self.pdf_document, from_page=page_num, to_page=page_num)
             
-            # Generate filename
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            original_name = os.path.splitext(os.path.basename(self.root.title().split(" - ")[-1]))[0]
-            output_filename = f"{original_name}_cropped_pages_{self.crop_start_page+1}_to_{self.crop_end_page+1}_{timestamp}.pdf"
-            
             # Get the directory where the Python script is located
             script_dir = os.path.dirname(os.path.abspath(__file__))
-            output_path = os.path.join(script_dir, output_filename)
+            output_path = os.path.join(script_dir, filename)
+            
+            # Check if file already exists
+            if os.path.exists(output_path):
+                response = messagebox.askyesno(
+                    "File Exists", 
+                    f"File '{filename}' already exists. Do you want to overwrite it?"
+                )
+                if not response:
+                    new_pdf.close()
+                    return
             
             # Save the new PDF
             new_pdf.save(output_path)
@@ -235,7 +280,7 @@ class PDFViewer:
             messagebox.showinfo("Success", 
                               f"Cropped PDF saved successfully!\n\n"
                               f"Pages {self.crop_start_page+1} to {self.crop_end_page+1}\n"
-                              f"Saved as: {output_filename}\n"
+                              f"Saved as: {filename}\n"
                               f"Location: {script_dir}")
             
             # Reset cropping variables
@@ -251,10 +296,10 @@ class PDFViewer:
     def update_crop_status(self):
         """Update the crop status label"""
         if not self.is_cropping:
-            self.crop_status_label.config(text="Press 'B' to start cropping, 'N' to finish", 
+            self.crop_status_label.config(text="Keys: 1=Previous, 2=Next, B=Start crop, N=Finish crop", 
                                         foreground="blue")
         else:
-            self.crop_status_label.config(text=f"Cropping started at page {self.crop_start_page+1}. Navigate and press 'N' to finish.", 
+            self.crop_status_label.config(text=f"Cropping started at page {self.crop_start_page+1}. Use 1/2 to navigate, press 'N' to finish.", 
                                         foreground="red")
     
     def on_mousewheel(self, event):
@@ -263,14 +308,22 @@ class PDFViewer:
     
     def on_key_press(self, event):
         """Handle keyboard shortcuts"""
-        if event.keysym == "Right" or event.keysym == "space":
+        # Navigation with number keys
+        if event.keysym == "1":
+            self.prev_page()
+        elif event.keysym == "2":
+            self.next_page()
+        # Keep old navigation for compatibility
+        elif event.keysym == "Right" or event.keysym == "space":
             self.next_page()
         elif event.keysym == "Left":
             self.prev_page()
+        # Zoom controls
         elif event.keysym == "plus" or event.keysym == "equal":
             self.zoom_in()
         elif event.keysym == "minus":
             self.zoom_out()
+        # Cropping controls
         elif event.keysym.lower() == "b":
             self.start_crop()
         elif event.keysym.lower() == "n":
