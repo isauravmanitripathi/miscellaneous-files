@@ -3,6 +3,7 @@
 Codebase Merkle Tree Analyzer
 Analyzes code structure, builds dependency graphs, and creates Merkle trees
 for efficient change detection and impact analysis.
+Exports results as markdown for AI analysis.
 """
 
 import ast
@@ -16,6 +17,7 @@ from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import Dict, List, Set, Optional, Any, Tuple
 import argparse
+from datetime import datetime
 
 
 @dataclass
@@ -509,6 +511,236 @@ class ChangeDetector:
         return changes
 
 
+class MarkdownExporter:
+    """Exports analysis results to markdown format"""
+    
+    def __init__(self):
+        pass
+    
+    def export_analysis(self, merkle_tree: MerkleNode, entities: Dict[str, Dict[str, CodeEntity]], 
+                       codebase_path: str, output_path: str):
+        """Export complete analysis to markdown"""
+        
+        with open(output_path, 'w', encoding='utf-8') as f:
+            # Header
+            f.write("# Codebase Analysis Report\n\n")
+            f.write(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"**Codebase:** `{codebase_path}`\n")
+            f.write(f"**Root Hash:** `{merkle_tree.hash_value}`\n\n")
+            
+            # Overview section
+            self._write_overview(f, merkle_tree, entities)
+            
+            # File structure
+            self._write_file_structure(f, merkle_tree, entities, codebase_path)
+            
+            # Detailed analysis
+            self._write_detailed_analysis(f, entities, codebase_path)
+            
+            # Dependency analysis
+            self._write_dependency_analysis(f, entities)
+            
+            # Hash reference
+            self._write_hash_reference(f, entities)
+            
+        print(f"Markdown analysis exported to: {output_path}")
+    
+    def _write_overview(self, f, merkle_tree: MerkleNode, entities: Dict):
+        """Write overview section"""
+        f.write("## 📊 Overview\n\n")
+        
+        total_files = len(entities)
+        entity_counts = defaultdict(int)
+        total_entities = 0
+        
+        for file_entities in entities.values():
+            for entity in file_entities.values():
+                entity_counts[entity.type] += 1
+                total_entities += 1
+        
+        f.write(f"- **Total Files:** {total_files}\n")
+        f.write(f"- **Total Code Entities:** {total_entities}\n")
+        for entity_type, count in sorted(entity_counts.items()):
+            f.write(f"  - {entity_type.title()}s: {count}\n")
+        f.write("\n")
+    
+    def _write_file_structure(self, f, merkle_tree: MerkleNode, entities: Dict, codebase_path: str):
+        """Write file structure section"""
+        f.write("## 📁 File Structure\n\n")
+        f.write("```\n")
+        f.write(f"{os.path.basename(codebase_path)}/\n")
+        
+        # Group files by directory
+        files_by_dir = defaultdict(list)
+        for file_path in entities.keys():
+            rel_path = os.path.relpath(file_path, codebase_path)
+            dir_name = os.path.dirname(rel_path)
+            if not dir_name:
+                dir_name = "."
+            files_by_dir[dir_name].append((rel_path, file_path))
+        
+        # Write structure
+        for dir_name in sorted(files_by_dir.keys()):
+            if dir_name != ".":
+                f.write(f"├── {dir_name}/\n")
+                for rel_path, full_path in sorted(files_by_dir[dir_name]):
+                    file_name = os.path.basename(rel_path)
+                    # Get file hash from first entity
+                    file_hash = "no-hash"
+                    if full_path in entities and entities[full_path]:
+                        first_entity = next(iter(entities[full_path].values()))
+                        file_hash = first_entity.content_hash[:8]
+                    f.write(f"│   └── {file_name} [{file_hash}]\n")
+        
+        # Root directory files
+        if "." in files_by_dir:
+            for rel_path, full_path in sorted(files_by_dir["."]):
+                file_name = os.path.basename(rel_path)
+                file_hash = "no-hash"
+                if full_path in entities and entities[full_path]:
+                    first_entity = next(iter(entities[full_path].values()))
+                    file_hash = first_entity.content_hash[:8]
+                f.write(f"└── {file_name} [{file_hash}]\n")
+        
+        f.write("```\n\n")
+    
+    def _write_detailed_analysis(self, f, entities: Dict, codebase_path: str):
+        """Write detailed file-by-file analysis"""
+        f.write("## 🔍 Detailed File Analysis\n\n")
+        
+        for file_path in sorted(entities.keys()):
+            rel_path = os.path.relpath(file_path, codebase_path)
+            file_entities = entities[file_path]
+            
+            f.write(f"### 📄 `{rel_path}`\n\n")
+            
+            if not file_entities:
+                f.write("*No code entities found*\n\n")
+                continue
+            
+            # Group entities by type
+            by_type = defaultdict(list)
+            for entity in file_entities.values():
+                by_type[entity.type].append(entity)
+            
+            # Write imports
+            if 'import' in by_type:
+                f.write("#### Imports\n")
+                for entity in sorted(by_type['import'], key=lambda x: x.name):
+                    f.write(f"- `{entity.name}` (line {entity.line_start}) `[{entity.content_hash[:8]}]`\n")
+                f.write("\n")
+            
+            # Write classes
+            if 'class' in by_type:
+                f.write("#### Classes\n")
+                for entity in sorted(by_type['class'], key=lambda x: x.name):
+                    f.write(f"- **`{entity.name}`** (lines {entity.line_start}-{entity.line_end}) `[{entity.content_hash[:8]}]`\n")
+                    if entity.dependencies:
+                        f.write(f"  - *Inherits from:* {', '.join(entity.dependencies)}\n")
+                    if entity.dependents:
+                        f.write(f"  - *Used by:* {', '.join(entity.dependents)}\n")
+                f.write("\n")
+            
+            # Write functions
+            if 'function' in by_type:
+                f.write("#### Functions\n")
+                for entity in sorted(by_type['function'], key=lambda x: x.name):
+                    params = f"({', '.join(entity.parameters)})" if entity.parameters else "()"
+                    f.write(f"- **`{entity.name}{params}`** (lines {entity.line_start}-{entity.line_end}) `[{entity.content_hash[:8]}]`\n")
+                    
+                    if entity.docstring:
+                        # First line of docstring only
+                        first_line = entity.docstring.split('\n')[0].strip()
+                        if first_line:
+                            f.write(f"  - *{first_line}*\n")
+                    
+                    if entity.dependencies:
+                        f.write(f"  - *Calls:* {', '.join(entity.dependencies)}\n")
+                    if entity.dependents:
+                        f.write(f"  - *Called by:* {', '.join(entity.dependents)}\n")
+                f.write("\n")
+            
+            # Write variables
+            if 'variable' in by_type:
+                f.write("#### Variables\n")
+                for entity in sorted(by_type['variable'], key=lambda x: x.name):
+                    f.write(f"- `{entity.name}` (line {entity.line_start}) `[{entity.content_hash[:8]}]`\n")
+                f.write("\n")
+            
+            f.write("---\n\n")
+    
+    def _write_dependency_analysis(self, f, entities: Dict):
+        """Write dependency analysis section"""
+        f.write("## 🔗 Dependency Analysis\n\n")
+        
+        # Function call graph
+        function_deps = {}
+        class_deps = {}
+        
+        for file_entities in entities.values():
+            for entity in file_entities.values():
+                if entity.type == 'function' and (entity.dependencies or entity.dependents):
+                    function_deps[entity.name] = {
+                        'calls': entity.dependencies,
+                        'called_by': entity.dependents,
+                        'file': os.path.basename(entity.file_path)
+                    }
+                elif entity.type == 'class' and (entity.dependencies or entity.dependents):
+                    class_deps[entity.name] = {
+                        'inherits': entity.dependencies,
+                        'inherited_by': entity.dependents,
+                        'file': os.path.basename(entity.file_path)
+                    }
+        
+        # Write function dependencies
+        if function_deps:
+            f.write("### Function Dependencies\n\n")
+            for func_name in sorted(function_deps.keys()):
+                deps = function_deps[func_name]
+                f.write(f"**`{func_name}`** *(in {deps['file']})*\n")
+                if deps['calls']:
+                    f.write(f"- Calls: {', '.join(deps['calls'])}\n")
+                if deps['called_by']:
+                    f.write(f"- Called by: {', '.join(deps['called_by'])}\n")
+                f.write("\n")
+        
+        # Write class dependencies
+        if class_deps:
+            f.write("### Class Dependencies\n\n")
+            for class_name in sorted(class_deps.keys()):
+                deps = class_deps[class_name]
+                f.write(f"**`{class_name}`** *(in {deps['file']})*\n")
+                if deps['inherits']:
+                    f.write(f"- Inherits from: {', '.join(deps['inherits'])}\n")
+                if deps['inherited_by']:
+                    f.write(f"- Inherited by: {', '.join(deps['inherited_by'])}\n")
+                f.write("\n")
+    
+    def _write_hash_reference(self, f, entities: Dict):
+        """Write hash reference for change tracking"""
+        f.write("## 🔐 Hash Reference\n\n")
+        f.write("*Use these hashes to track changes between analyses*\n\n")
+        
+        f.write("| Entity | Type | File | Hash |\n")
+        f.write("|--------|------|------|------|\n")
+        
+        all_entities = []
+        for file_path, file_entities in entities.items():
+            for entity in file_entities.values():
+                all_entities.append((entity.name, entity.type, os.path.basename(file_path), entity.content_hash[:12]))
+        
+        for name, entity_type, file_name, hash_short in sorted(all_entities):
+            f.write(f"| `{name}` | {entity_type} | {file_name} | `{hash_short}` |\n")
+        
+        f.write("\n")
+        f.write("## 📝 Usage Notes\n\n")
+        f.write("- Each entity has a unique hash based on its content\n")
+        f.write("- When code changes, the hash changes, enabling precise change detection\n")
+        f.write("- Dependencies show how functions and classes connect to each other\n")
+        f.write("- Use this report to understand code structure and track modifications\n")
+        f.write("- Upload this markdown file to AI assistants for code analysis and questions\n\n")
+
+
 class CodebaseAnalyzer:
     """Main analyzer class that orchestrates the entire process"""
     
@@ -517,6 +749,7 @@ class CodebaseAnalyzer:
         self.parser = CodeParser()
         self.tree_builder = MerkleTreeBuilder()
         self.change_detector = ChangeDetector()
+        self.markdown_exporter = MarkdownExporter()
         self.supported_extensions = {'.py', '.java', '.kt', '.swift'}  # Multi-language support
     
     def analyze(self) -> Tuple[MerkleNode, Dict[str, Dict[str, CodeEntity]]]:
@@ -581,35 +814,42 @@ class CodebaseAnalyzer:
         
         return any(ignore_file_patterns)
     
-    def save_analysis(self, merkle_tree: MerkleNode, entities: Dict, output_path: str):
-        """Save analysis results to JSON file"""
-        def serialize_node(node: MerkleNode):
-            return {
-                'name': node.name,
-                'hash_value': node.hash_value,
-                'node_type': node.node_type,
-                'metadata': node.metadata,
-                'children': [serialize_node(child) for child in node.children]
+    def save_analysis(self, merkle_tree: MerkleNode, entities: Dict, output_path: str, format_type: str = 'json'):
+        """Save analysis results in specified format"""
+        if format_type.lower() == 'markdown' or format_type.lower() == 'md':
+            self.markdown_exporter.export_analysis(
+                merkle_tree, entities, str(self.codebase_path), output_path
+            )
+        else:
+            # JSON format (original)
+            def serialize_node(node: MerkleNode):
+                return {
+                    'name': node.name,
+                    'hash_value': node.hash_value,
+                    'node_type': node.node_type,
+                    'metadata': node.metadata,
+                    'children': [serialize_node(child) for child in node.children]
+                }
+            
+            # Convert entities to serializable format
+            serializable_entities = {}
+            for file_path, file_entities in entities.items():
+                serializable_entities[file_path] = {
+                    key: asdict(entity) for key, entity in file_entities.items()
+                }
+            
+            analysis_data = {
+                'merkle_tree': serialize_node(merkle_tree),
+                'entities': serializable_entities,
+                'root_hash': merkle_tree.hash_value,
+                'codebase_path': str(self.codebase_path),
+                'generated_at': datetime.now().isoformat()
             }
-        
-        # Convert entities to serializable format
-        serializable_entities = {}
-        for file_path, file_entities in entities.items():
-            serializable_entities[file_path] = {
-                key: asdict(entity) for key, entity in file_entities.items()
-            }
-        
-        analysis_data = {
-            'merkle_tree': serialize_node(merkle_tree),
-            'entities': serializable_entities,
-            'root_hash': merkle_tree.hash_value,
-            'codebase_path': str(self.codebase_path)
-        }
-        
-        with open(output_path, 'w') as f:
-            json.dump(analysis_data, f, indent=2)
-        
-        print(f"Analysis saved to: {output_path}")
+            
+            with open(output_path, 'w') as f:
+                json.dump(analysis_data, f, indent=2)
+            
+            print(f"JSON analysis saved to: {output_path}")
     
     def print_summary(self, merkle_tree: MerkleNode, entities: Dict):
         """Print analysis summary"""
@@ -638,19 +878,27 @@ class CodebaseAnalyzer:
     
     def _print_tree(self, node: MerkleNode, depth: int):
         """Print tree structure"""
+        if depth > 3:  # Limit depth for readability
+            return
+            
         indent = "  " * depth
         hash_short = node.hash_value[:8] if node.hash_value else "no-hash"
         print(f"{indent}{node.name} ({node.node_type}) [{hash_short}]")
         
-        for child in node.children:
+        for child in node.children[:5]:  # Limit children shown
             self._print_tree(child, depth + 1)
+        
+        if len(node.children) > 5:
+            print(f"{indent}  ... and {len(node.children) - 5} more")
 
 
 def main():
     parser = argparse.ArgumentParser(description='Analyze codebase and build Merkle tree')
     parser.add_argument('path', help='Path to codebase directory')
     parser.add_argument('--output', '-o', help='Output file for analysis results', 
-                       default='codebase_analysis.json')
+                       default='codebase_analysis')
+    parser.add_argument('--format', '-f', choices=['json', 'markdown', 'md'], 
+                       default='markdown', help='Output format (default: markdown)')
     parser.add_argument('--compare', '-c', help='Compare with previous analysis file')
     
     args = parser.parse_args()
@@ -658,6 +906,18 @@ def main():
     if not os.path.exists(args.path):
         print(f"Error: Path {args.path} does not exist")
         sys.exit(1)
+    
+    # Determine output file extension
+    if args.format.lower() in ['markdown', 'md']:
+        if not args.output.endswith('.md'):
+            output_file = f"{args.output}.md"
+        else:
+            output_file = args.output
+    else:
+        if not args.output.endswith('.json'):
+            output_file = f"{args.output}.json"
+        else:
+            output_file = args.output
     
     # Analyze codebase
     analyzer = CodebaseAnalyzer(args.path)
@@ -667,19 +927,20 @@ def main():
     analyzer.print_summary(merkle_tree, entities)
     
     # Save results
-    analyzer.save_analysis(merkle_tree, entities, args.output)
+    analyzer.save_analysis(merkle_tree, entities, output_file, args.format)
     
     # Compare with previous analysis if requested
     if args.compare:
         if os.path.exists(args.compare):
             print(f"\nComparing with previous analysis: {args.compare}")
-            # Load previous analysis and compare
-            # This would require implementing the comparison logic
             print("Comparison feature coming soon...")
         else:
             print(f"Warning: Comparison file {args.compare} does not exist")
     
-    print(f"\nAnalysis complete! Root hash: {merkle_tree.hash_value}")
+    print(f"\n✅ Analysis complete!")
+    print(f"📊 Root hash: {merkle_tree.hash_value}")
+    print(f"📄 Report saved: {output_file}")
+    print(f"\n💡 You can now upload '{output_file}' to Claude or other AI assistants for code analysis!")
 
 
 if __name__ == "__main__":
