@@ -18,3 +18,7 @@
 .env
 *.env
 *.DS_Store
+.pdf-venv/*
+.pdf-venv
+.pdf-venv/
+*.pdf-vnev/
