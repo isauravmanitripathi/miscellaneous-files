@@ -512,10 +512,46 @@ class ChangeDetector:
 
 
 class MarkdownExporter:
-    """Exports analysis results to markdown format"""
+    """Exports analysis results to markdown and DOT format"""
     
     def __init__(self):
         pass
+    
+    def export_dot(self, merkle_tree: MerkleNode, codebase_path: str, output_path: str):
+        """Export Merkle tree to Graphviz DOT format"""
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write("digraph CodebaseTree {\n")
+            f.write("  node [shape=box];\n")
+            f.write("  rankdir=BT;\n")  # Bottom-to-top direction
+            
+            # Helper function to write nodes and edges
+            def write_node(node: MerkleNode, parent_id: str = None):
+                node_id = f"node_{id(node)}"
+                short_hash = node.hash_value[:8] if node.hash_value else "no-hash"
+                label = f"{node.name}\\n[{short_hash}]"
+                
+                if node.node_type == "root":
+                    label = f"Root\\n[{short_hash}]"
+                    f.write(f'  {node_id} [label="{label}", shape=ellipse, style=filled, fillcolor=lightblue];\n')
+                elif node.node_type == "directory":
+                    f.write(f'  {node_id} [label="{label}", shape=folder, style=filled, fillcolor=lightyellow];\n')
+                elif node.node_type == "file":
+                    f.write(f'  {node_id} [label="{label}", style=filled, fillcolor=lightgreen];\n')
+                else:  # entity
+                    entity_type = node.metadata.get("type", "entity") if node.metadata else "entity"
+                    f.write(f'  {node_id} [label="{label}\\n{entity_type}", style=filled, fillcolor=lightpink];\n')
+                
+                if parent_id:
+                    f.write(f'  {node_id} -> {parent_id};\n')
+                
+                for child in node.children:
+                    write_node(child, node_id)
+            
+            # Write the tree starting from root
+            write_node(merkle_tree)
+            f.write("}\n")
+        
+        print(f"DOT file exported to: {output_path}")
     
     def export_analysis(self, merkle_tree: MerkleNode, entities: Dict[str, Dict[str, CodeEntity]], 
                        codebase_path: str, output_path: str):
@@ -820,6 +856,9 @@ class CodebaseAnalyzer:
             self.markdown_exporter.export_analysis(
                 merkle_tree, entities, str(self.codebase_path), output_path
             )
+            # Generate DOT file alongside markdown
+            dot_output = output_path.rsplit('.', 1)[0] + '.dot'
+            self.markdown_exporter.export_dot(merkle_tree, str(self.codebase_path), dot_output)
         else:
             # JSON format (original)
             def serialize_node(node: MerkleNode):
