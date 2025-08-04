@@ -35,12 +35,12 @@ def get_reading_order_position(bbox: List[float]) -> tuple:
     bbox format: [x1, y1, x2, y2]
     """
     if not bbox or len(bbox) < 4:
-        return (0, 0)
+        return (999999, 999999)  # Put invalid boxes at the end
     
-    # Primary sort by y-coordinate (top to bottom)
-    # Secondary sort by x-coordinate (left to right)
-    y_pos = bbox[1]  # y1 coordinate
-    x_pos = bbox[0]  # x1 coordinate
+    # Primary sort by y-coordinate (top to bottom) - SMALLER y values come first
+    # Secondary sort by x-coordinate (left to right) - SMALLER x values come first
+    y_pos = bbox[1]  # y1 coordinate (top edge)
+    x_pos = bbox[0]  # x1 coordinate (left edge)
     
     return (y_pos, x_pos)
 
@@ -141,47 +141,40 @@ def parse_pdf_json(json_file_path: str) -> List[Dict[str, str]]:
     
     all_content = []
     
-    # Handle the document structure
-    if isinstance(data, dict) and 'children' in data:
+    # Handle the document structure: Document -> children (pages) -> children (blocks)
+    if isinstance(data, dict) and data.get('block_type') == 'Document' and 'children' in data:
         pages = data['children']
         print(f"   Found {len(pages)} pages in document")
         
-        # Process each page
+        # Process each page separately to maintain page order
         for page_idx, page in enumerate(pages):
-            if not isinstance(page, dict):
+            if not isinstance(page, dict) or page.get('block_type') != 'Page':
                 continue
                 
-            print(f"   Processing page {page_idx + 1}: {page.get('block_type', 'Unknown')}")
+            print(f"   Processing page {page_idx + 1}")
             
-            # If this page has children, process them
-            if 'children' in page and isinstance(page['children'], list):
-                for block in page['children']:
-                    content_items = extract_content_from_block(block)
-                    all_content.extend(content_items)
-            else:
-                # Process the page itself as a block
-                content_items = extract_content_from_block(page)
-                all_content.extend(content_items)
-    
-    elif isinstance(data, list):
-        # Handle list structure
-        pages = data
-        print(f"   Found {len(pages)} items in list structure")
-        
-        for page_idx, page in enumerate(pages):
-            if isinstance(page, dict):
-                print(f"   Processing item {page_idx + 1}: {page.get('block_type', 'Unknown')}")
-                content_items = extract_content_from_block(page)
-                all_content.extend(content_items)
+            # Get all blocks from this page
+            page_children = page.get('children', [])
+            page_content = []
+            
+            # Extract content from each block on this page
+            for block in page_children:
+                content_items = extract_content_from_block(block)
+                page_content.extend(content_items)
+            
+            # Sort this page's content by reading order (top to bottom)
+            page_content.sort(key=lambda x: x['position'])
+            
+            # Add this page's sorted content to the overall content
+            all_content.extend(page_content)
+            
+            print(f"     Page {page_idx + 1}: {len(page_content)} content items")
     
     else:
-        print(f"❌ Unexpected JSON structure: {type(data)}")
+        print(f"❌ Unexpected JSON structure: {type(data)} with block_type: {data.get('block_type')}")
         return []
     
-    print(f"📊 Extracted {len(all_content)} content items before sorting")
-    
-    # Sort content by reading order (top to bottom, left to right)
-    all_content.sort(key=lambda x: x['position'])
+    print(f"📊 Extracted {len(all_content)} total content items")
     
     # Remove position info from final output and filter empty text
     final_content = []
@@ -207,17 +200,19 @@ def save_parsed_content(content: List[Dict[str, str]], output_path: str):
 def print_content_preview(content: List[Dict[str, str]], max_items: int = 10):
     """Print a preview of the parsed content"""
     print(f"\n📋 Content Preview (showing first {max_items} items):")
-    print("=" * 60)
+    print("=" * 80)
     
     for i, item in enumerate(content[:max_items]):
         content_type = item['type'].upper()
-        text = item['text'][:100] + "..." if len(item['text']) > 100 else item['text']
+        text = item['text'][:120] + "..." if len(item['text']) > 120 else item['text']
         
         print(f"\n{i+1:2d}. [{content_type}]")
         print(f"    {text}")
     
     if len(content) > max_items:
         print(f"\n... and {len(content) - max_items} more items")
+    
+    print("=" * 80)
 
 def main():
     """Main function"""
