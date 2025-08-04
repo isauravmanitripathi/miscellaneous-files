@@ -1,0 +1,450 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Mandal Commission Case[8]",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.5,
+          150.677734375
+        ],
+        [
+          210.09375,
+          150.05202913631635
+        ],
+        [
+          210.09375,
+          162.29541015625
+        ],
+        [
+          53.25,
+          162.29541015625
+        ]
+      ]
+    },
+    {
+      "title": "Reservation and Article 335",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.25,
+          411.89281997918835
+        ],
+        [
+          213.0,
+          411.89281997918835
+        ],
+        [
+          213.0,
+          423.1650390625
+        ],
+        [
+          53.25,
+          423.1650390625
+        ]
+      ]
+    },
+    {
+      "title": "Reservation in Matters of Promotion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.25,
+          522.1810613943809
+        ],
+        [
+          264.0,
+          522.1810613943809
+        ],
+        [
+          264.0,
+          534.06103515625
+        ],
+        [
+          53.25,
+          534.06103515625
+        ]
+      ]
+    },
+    {
+      "title": "Consequential Seniority",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.75390625,
+          90.47705078125
+        ],
+        [
+          211.5,
+          90.47705078125
+        ],
+        [
+          211.5,
+          103.85498046875
+        ],
+        [
+          71.75390625,
+          103.85498046875
+        ]
+      ]
+    },
+    {
+      "title": "Constitution (Eighty-first Amendment) Act, 2000",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          72.0,
+          293.6103515625
+        ],
+        [
+          351.0,
+          293.6103515625
+        ],
+        [
+          351.0,
+          307.34033203125
+        ],
+        [
+          72.0,
+          307.34033203125
+        ]
+      ]
+    },
+    {
+      "title": "Rights of Persons with Disabilities Bill, 2014[9]",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          72.0,
+          374.58203125
+        ],
+        [
+          336.0,
+          374.58203125
+        ],
+        [
+          336.0,
+          387.9599609375
+        ],
+        [
+          72.0,
+          387.9599609375
+        ]
+      ]
+    },
+    {
+      "title": "Article 17: Abolition of Untouchability",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.25,
+          92.28199791883455
+        ],
+        [
+          294.0,
+          92.28199791883455
+        ],
+        [
+          294.0,
+          104.9991455078125
+        ],
+        [
+          53.25,
+          104.9991455078125
+        ]
+      ]
+    },
+    {
+      "title": "Connect",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          56.0390625,
+          291.85119667013527
+        ],
+        [
+          98.25,
+          291.85119667013527
+        ],
+        [
+          98.25,
+          301.883544921875
+        ],
+        [
+          56.0390625,
+          301.883544921875
+        ]
+      ]
+    },
+    {
+      "title": "Article 18: Abolition of Titles",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.25,
+          383.38293444328826
+        ],
+        [
+          235.5,
+          383.38293444328826
+        ],
+        [
+          235.5,
+          396.76123046875
+        ],
+        [
+          53.25,
+          396.76123046875
+        ]
+      ]
+    },
+    {
+      "title": "Titles and Awards (Honour)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          54.0,
+          582.2919921875
+        ],
+        [
+          211.5,
+          582.2919921875
+        ],
+        [
+          211.5,
+          594.26171875
+        ],
+        [
+          54.0,
+          594.26171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}
