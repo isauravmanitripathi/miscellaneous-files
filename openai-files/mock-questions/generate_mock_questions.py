@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Enhanced Wikipedia MCQ Question Generator with Clean Output and Smart API Management
+Enhanced Wikipedia MCQ Question Generator with Robust Chapter-Section Resume System
 """
 
 import json
@@ -36,47 +36,49 @@ except ImportError:
     RICH_AVAILABLE = False
 
 @dataclass
+class SectionCompletion:
+    """Track completion status of a specific chapter-section"""
+    chapter_name: str
+    section_number: str
+    section_name: str
+    total_bullets: int
+    completed_bullets: List[int]
+    missing_bullets: List[int]
+    completion_percentage: float
+
+    def is_complete(self) -> bool:
+        return len(self.missing_bullets) == 0
+
+@dataclass
 class ProcessingStats:
     """Enhanced statistics for tracking MCQ generation progress"""
     total_files: int = 0
     completed_files: int = 0
+    total_sections: int = 0
+    completed_sections: int = 0
     total_bullet_points: int = 0
     completed_bullet_points: int = 0
-    skipped_bullet_points: int = 0
+    remaining_bullet_points: int = 0
     failed_bullet_points: int = 0
     total_questions_generated: int = 0
     start_time: Optional[str] = None
     api_keys_used: int = 0
 
 @dataclass
-class ProcessingState:
-    """Enhanced state information for resume functionality"""
-    folder_path: str
-    completed_bullet_points: Dict[str, Dict[int, List[int]]] = None  # file -> section -> bullet_indices
-    timestamp: Optional[str] = None
-    stats: ProcessingStats = None
-
-    def __post_init__(self):
-        if self.stats is None:
-            self.stats = ProcessingStats()
-        if self.completed_bullet_points is None:
-            self.completed_bullet_points = {}
-
-@dataclass
 class BulletPointTask:
     """Represents a single bullet point processing task"""
     file_path: Path
+    chapter_name: str
+    section_number: str
+    section_name: str
     section_index: int
     bullet_point_index: int
-    chapter_name: str
-    section_name: str
-    section_number: str
     bullet_point_text: str
     questions_per_point: int = 2
     task_id: str = ""
 
     def __post_init__(self):
-        self.task_id = f"{self.file_path.stem}_{self.section_index}_{self.bullet_point_index}"
+        self.task_id = f"{self.chapter_name}_{self.section_number}_{self.bullet_point_index}"
 
 class EnhancedAPIKeyManager:
     """Enhanced API key manager with better load balancing and monitoring"""
@@ -93,7 +95,6 @@ class EnhancedAPIKeyManager:
         self.errors = {f"key_{i+1}": 0 for i in range(len(self.api_keys))}
         
         self.lock = threading.Lock()
-        self.current_index = 0
         
     def discover_api_keys(self) -> List[str]:
         """Discover all available OpenAI API keys from environment"""
@@ -173,9 +174,9 @@ class EnhancedAPIKeyManager:
                 'total_errors': sum(self.errors.values())
             }
 
-class CleanMCQGenerator:
+class RobustMCQGenerator:
     """
-    Enhanced MCQ generator with clean output and smart API management
+    Enhanced MCQ generator with robust chapter-section resume system
     """
     
     def __init__(self, folder_path: str, model_name: str = "gpt-4.1-mini", 
@@ -200,20 +201,16 @@ class CleanMCQGenerator:
         for dir_path in [self.output_dir, self.logs_dir, self.backups_dir]:
             dir_path.mkdir(parents=True, exist_ok=True)
         
-        # Setup minimal logging (errors only to console)
+        # Setup minimal logging
         self.setup_minimal_logging()
         
-        # Initialize state tracking
-        self.state_file = self.logs_dir / "mcq_generation_state.json"
-        self.processing_state = self.load_processing_state()
-        self.processing_state.stats.api_keys_used = len(self.api_manager.api_keys)
+        # Initialize statistics
+        self.stats = ProcessingStats()
+        self.stats.api_keys_used = len(self.api_manager.api_keys)
+        self.stats.start_time = datetime.now().isoformat()
         
         # Thread-safe data structures
         self.data_lock = threading.Lock()
-        self.progress_counter = 0
-        
-        # Analyze existing progress
-        self.analyze_existing_progress()
         
     def setup_minimal_logging(self):
         """Setup minimal logging - detailed logs to file, minimal to console"""
@@ -235,110 +232,191 @@ class CleanMCQGenerator:
         console_handler.setLevel(logging.ERROR)
         self.logger.addHandler(console_handler)
     
-    def load_processing_state(self) -> ProcessingState:
-        """Load processing state from file or create new one"""
-        if self.state_file.exists():
-            try:
-                with open(self.state_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                
-                state = ProcessingState(
-                    folder_path=data.get('folder_path', str(self.folder_path)),
-                    completed_bullet_points=data.get('completed_bullet_points', {}),
-                    timestamp=data.get('timestamp')
-                )
-                
-                if 'stats' in data:
-                    state.stats = ProcessingStats(**data['stats'])
-                
-                return state
-            except Exception as e:
-                self.logger.error(f"Failed to load processing state: {e}")
+    def validate_questions(self, questions: List[Dict]) -> bool:
+        """Validate that questions are complete and properly formatted"""
+        if not questions or len(questions) == 0:
+            return False
         
-        # Create new state
-        state = ProcessingState(folder_path=str(self.folder_path))
-        state.stats.start_time = datetime.now().isoformat()
-        return state
-    
-    def save_processing_state(self):
-        """Save current processing state to file"""
-        try:
-            self.processing_state.timestamp = datetime.now().isoformat()
+        for question in questions:
+            # Check required fields exist
+            required_fields = ['question', 'options', 'correct', 'explanations']
+            if not all(field in question for field in required_fields):
+                return False
             
-            state_dict = {
-                'folder_path': self.processing_state.folder_path,
-                'completed_bullet_points': self.processing_state.completed_bullet_points,
-                'timestamp': self.processing_state.timestamp,
-                'stats': asdict(self.processing_state.stats)
-            }
+            # Check options count
+            if not isinstance(question['options'], list) or len(question['options']) != 4:
+                return False
             
-            with open(self.state_file, 'w', encoding='utf-8') as f:
-                json.dump(state_dict, f, indent=2)
-        except Exception as e:
-            self.logger.error(f"Failed to save processing state: {e}")
+            # Check correct index is valid
+            if not isinstance(question['correct'], int) or not (0 <= question['correct'] <= 3):
+                return False
+            
+            # Check explanations exist for all options
+            if not isinstance(question['explanations'], dict) or len(question['explanations']) != 4:
+                return False
+            
+            # Check no empty strings
+            if not question['question'].strip():
+                return False
+            
+            if any(not str(opt).strip() for opt in question['options']):
+                return False
+            
+            # Check all explanation keys exist
+            if not all(str(i) in question['explanations'] for i in range(4)):
+                return False
+        
+        return True
     
-    def analyze_existing_progress(self):
-        """Analyze existing question files to determine what's already been processed"""
-        existing_files = list(self.output_dir.glob("questions_*.json"))
+    def analyze_section_completion(self, original_file_data: Dict, question_file_path: Path) -> Dict[str, SectionCompletion]:
+        """
+        Analyze completion status for each chapter-section combination
+        Returns a map of section_key -> SectionCompletion
+        """
+        completion_map = {}
         
-        total_existing_questions = 0
-        total_existing_bullet_points = 0
+        # Scan original file to establish baseline
+        sections = original_file_data.get('sections', [])
+        if isinstance(original_file_data, list):
+            sections = original_file_data
         
-        for question_file in existing_files:
+        for section_index, section in enumerate(sections):
+            chapter_name = section.get('chapter_name', 'Unknown Chapter')
+            section_number = section.get('section_number', f'section_{section_index}')
+            section_name = section.get('section_name', 'Untitled Section')
+            bullet_points = section.get('openai_summarised_points', [])
+            
+            # Create unique key for this chapter-section
+            section_key = f"{chapter_name}_{section_number}"
+            total_bullets = len(bullet_points)
+            
+            completion_map[section_key] = SectionCompletion(
+                chapter_name=chapter_name,
+                section_number=section_number,
+                section_name=section_name,
+                total_bullets=total_bullets,
+                completed_bullets=[],
+                missing_bullets=list(range(total_bullets)),
+                completion_percentage=0.0
+            )
+        
+        # Scan existing question file (if exists)
+        if question_file_path.exists():
             try:
-                with open(question_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
+                with open(question_file_path, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
                 
-                source_file = data.get('generation_info', {}).get('source_file', '')
-                if not source_file:
-                    continue
-                
-                if source_file not in self.processing_state.completed_bullet_points:
-                    self.processing_state.completed_bullet_points[source_file] = {}
-                
-                sections = data.get('sections', [])
-                for section in sections:
-                    section_index = section.get('original_index', 0)
+                existing_sections = existing_data.get('sections', [])
+                for section in existing_sections:
+                    chapter_name = section.get('chapter_name', 'Unknown Chapter')
+                    section_number = section.get('section_number', 'unknown')
+                    section_key = f"{chapter_name}_{section_number}"
                     
-                    if section_index not in self.processing_state.completed_bullet_points[source_file]:
-                        self.processing_state.completed_bullet_points[source_file][section_index] = []
-                    
-                    bullet_points = section.get('bullet_points', [])
-                    for bp in bullet_points:
-                        bp_index = bp.get('bullet_point_index', 0)
-                        questions_count = len(bp.get('questions', []))
+                    if section_key in completion_map:
+                        # Check which bullet points have valid questions
+                        bullet_points = section.get('bullet_points', [])
+                        for bp in bullet_points:
+                            bp_index = bp.get('bullet_point_index', -1)
+                            questions = bp.get('questions', [])
+                            
+                            # Validate questions are complete and valid
+                            if bp_index >= 0 and self.validate_questions(questions):
+                                if bp_index in completion_map[section_key].missing_bullets:
+                                    completion_map[section_key].completed_bullets.append(bp_index)
+                                    completion_map[section_key].missing_bullets.remove(bp_index)
                         
-                        if bp_index not in self.processing_state.completed_bullet_points[source_file][section_index]:
-                            self.processing_state.completed_bullet_points[source_file][section_index].append(bp_index)
-                            total_existing_bullet_points += 1
-                            total_existing_questions += questions_count
+                        # Update completion percentage
+                        total = completion_map[section_key].total_bullets
+                        completed = len(completion_map[section_key].completed_bullets)
+                        completion_map[section_key].completion_percentage = (completed / total * 100) if total > 0 else 0
                 
             except Exception as e:
-                self.logger.error(f"Failed to analyze existing file {question_file}: {e}")
+                self.logger.error(f"Failed to analyze existing question file {question_file_path}: {e}")
         
-        if total_existing_bullet_points > 0:
-            self.processing_state.stats.completed_bullet_points = total_existing_bullet_points
-            self.processing_state.stats.total_questions_generated = total_existing_questions
+        return completion_map
     
-    def is_bullet_point_completed(self, file_name: str, section_index: int, bullet_point_index: int) -> bool:
-        """Check if a specific bullet point has already been processed"""
-        if file_name not in self.processing_state.completed_bullet_points:
-            return False
-        if section_index not in self.processing_state.completed_bullet_points[file_name]:
-            return False
-        return bullet_point_index in self.processing_state.completed_bullet_points[file_name][section_index]
-    
-    def mark_bullet_point_completed(self, file_name: str, section_index: int, bullet_point_index: int, questions_count: int):
-        """Mark a bullet point as completed"""
-        if file_name not in self.processing_state.completed_bullet_points:
-            self.processing_state.completed_bullet_points[file_name] = {}
-        if section_index not in self.processing_state.completed_bullet_points[file_name]:
-            self.processing_state.completed_bullet_points[file_name][section_index] = []
+    def show_resume_info(self, completion_maps: Dict[str, Dict[str, SectionCompletion]]):
+        """Show clear resume information across all files"""
+        total_sections = 0
+        completed_sections = 0
+        total_bullets = 0
+        completed_bullets = 0
         
-        if bullet_point_index not in self.processing_state.completed_bullet_points[file_name][section_index]:
-            self.processing_state.completed_bullet_points[file_name][section_index].append(bullet_point_index)
-            self.processing_state.stats.completed_bullet_points += 1
-            self.processing_state.stats.total_questions_generated += questions_count
+        for file_name, completion_map in completion_maps.items():
+            for section_completion in completion_map.values():
+                total_sections += 1
+                total_bullets += section_completion.total_bullets
+                completed_bullets += len(section_completion.completed_bullets)
+                
+                if section_completion.is_complete():
+                    completed_sections += 1
+        
+        remaining_bullets = total_bullets - completed_bullets
+        
+        # Update global stats
+        self.stats.total_sections = total_sections
+        self.stats.completed_sections = completed_sections
+        self.stats.total_bullet_points = total_bullets
+        self.stats.completed_bullet_points = completed_bullets
+        self.stats.remaining_bullet_points = remaining_bullets
+        
+        if total_bullets > 0:
+            if RICH_AVAILABLE:
+                resume_panel = Panel.fit(
+                    f"[bold]Resume Analysis Complete[/bold]\n\n"
+                    f"[green]Sections:[/green] {completed_sections}/{total_sections} complete\n"
+                    f"[green]Bullet Points:[/green] {completed_bullets}/{total_bullets} complete\n"
+                    f"[yellow]Remaining:[/yellow] {remaining_bullets} bullet points to process\n"
+                    f"[cyan]Overall Progress:[/cyan] {completed_bullets/total_bullets*100:.1f}%",
+                    title="Resume Status",
+                    border_style="green" if remaining_bullets == 0 else "yellow"
+                )
+                console.print(resume_panel)
+            else:
+                print("="*60)
+                print("Resume Analysis Complete")
+                print("="*60)
+                print(f"Sections: {completed_sections}/{total_sections} complete")
+                print(f"Bullet Points: {completed_bullets}/{total_bullets} complete")
+                print(f"Remaining: {remaining_bullets} bullet points to process")
+                print(f"Overall Progress: {completed_bullets/total_bullets*100:.1f}%")
+                print("="*60)
+    
+    def create_tasks_from_completion_map(self, file_path: Path, original_data: Dict, completion_map: Dict[str, SectionCompletion]) -> List[BulletPointTask]:
+        """Create tasks ONLY for missing bullet points"""
+        tasks = []
+        
+        sections = original_data.get('sections', [])
+        if isinstance(original_data, list):
+            sections = original_data
+        
+        for section_index, section in enumerate(sections):
+            chapter_name = section.get('chapter_name', 'Unknown Chapter')
+            section_number = section.get('section_number', f'section_{section_index}')
+            section_name = section.get('section_name', 'Untitled Section')
+            section_key = f"{chapter_name}_{section_number}"
+            
+            if section_key in completion_map:
+                missing_bullets = completion_map[section_key].missing_bullets
+                bullet_points = section.get('openai_summarised_points', [])
+                
+                # Create tasks only for missing bullet points
+                for bp_index in missing_bullets:
+                    if bp_index < len(bullet_points):
+                        bullet_text = bullet_points[bp_index]
+                        if isinstance(bullet_text, str) and len(bullet_text.strip()) >= 20:
+                            tasks.append(BulletPointTask(
+                                file_path=file_path,
+                                chapter_name=chapter_name,
+                                section_number=section_number,
+                                section_name=section_name,
+                                section_index=section_index,
+                                bullet_point_index=bp_index,
+                                bullet_point_text=bullet_text,
+                                questions_per_point=self.questions_per_point
+                            ))
+        
+        return tasks
     
     def discover_extracted_files(self) -> List[Path]:
         """Discover extracted JSON files in the input folder"""
@@ -349,7 +427,7 @@ class CleanMCQGenerator:
                 if flat_dataset.exists():
                     extracted_files = [flat_dataset]
             
-            self.processing_state.stats.total_files = len(extracted_files)
+            self.stats.total_files = len(extracted_files)
             return sorted(extracted_files)
         except Exception as e:
             self.logger.error(f"Failed to discover extracted files: {e}")
@@ -405,7 +483,7 @@ class CleanMCQGenerator:
             return question_data
     
     def call_openai_api(self, task: BulletPointTask) -> Tuple[Optional[List[Dict]], str]:
-        """Call OpenAI API to generate MCQ questions - returns questions and API key used"""
+        """Call OpenAI API to generate UPSC-style MCQ questions"""
         
         system_message = """You are an expert question setter for UPSC Civil Services Examination and other prestigious government competitive exams in India. Your expertise lies in creating analytical, application-based multiple-choice questions that test deep understanding, critical thinking, and practical application of knowledge rather than mere memorization."""
         
@@ -532,11 +610,6 @@ Return ONLY the JSON, no other text:"""
     def process_bullet_point_task(self, task: BulletPointTask) -> Tuple[bool, Dict, str]:
         """Process a single bullet point task to generate questions"""
         
-        # Check if already completed
-        if self.is_bullet_point_completed(task.file_path.name, task.section_index, task.bullet_point_index):
-            self.processing_state.stats.skipped_bullet_points += 1
-            return True, {'skipped': True}, "cached"
-        
         # Call OpenAI API with retries
         questions = None
         api_key_used = "none"
@@ -555,7 +628,7 @@ Return ONLY the JSON, no other text:"""
                     time.sleep(2 ** attempt)
         
         if not questions:
-            self.processing_state.stats.failed_bullet_points += 1
+            self.stats.failed_bullet_points += 1
             return False, {}, api_key_used
         
         # Randomize each question's options
@@ -576,12 +649,15 @@ Return ONLY the JSON, no other text:"""
                 'bullet_point_length': len(task.bullet_point_text),
                 'options_randomized': True,
                 'api_key_used': api_key_used,
-                'task_id': task.task_id
+                'task_id': task.task_id,
+                'chapter_name': task.chapter_name,
+                'section_number': task.section_number
             }
         }
         
-        # Mark as completed
-        self.mark_bullet_point_completed(task.file_path.name, task.section_index, task.bullet_point_index, len(randomized_questions))
+        # Update stats
+        self.stats.completed_bullet_points += 1
+        self.stats.total_questions_generated += len(randomized_questions)
         
         return True, result, api_key_used
     
@@ -591,13 +667,12 @@ Return ONLY the JSON, no other text:"""
         
         # Truncate long names
         chapter_short = chapter[:20] + "..." if len(chapter) > 23 else chapter
-        section_short = section[:25] + "..." if len(section) > 28 else section
+        section_short = f"Sec {section}" if len(section) <= 10 else f"Sec {section[:7]}..."
         
         if RICH_AVAILABLE:
             status_color = {
                 'success': 'green',
                 'failed': 'red',
-                'skipped': 'yellow',
                 'processing': 'blue'
             }.get(status, 'white')
             
@@ -605,83 +680,170 @@ Return ONLY the JSON, no other text:"""
                          f"[cyan]{current:3d}/{total:<3d}[/cyan] "
                          f"[magenta]{progress_pct:5.1f}%[/magenta] "
                          f"[blue]{chapter_short:<23}[/blue] "
-                         f"[green]{section_short:<28}[/green] "
+                         f"[green]{section_short:<15}[/green] "
                          f"[yellow]{api_key}[/yellow]")
         else:
             print(f"{status.upper():<9} {current:3d}/{total:<3d} {progress_pct:5.1f}% "
-                  f"{chapter_short:<23} {section_short:<28} {api_key}")
+                  f"{chapter_short:<23} {section_short:<15} {api_key}")
     
-    def process_file_parallel(self, file_path: Path) -> bool:
-        """Process all bullet points in a file using parallel processing"""
-        
-        # Load file
-        file_data = self.load_extracted_file(file_path)
-        if file_data is None:
-            return False
-        
-        sections = file_data['sections']
-        
-        # Create tasks for unprocessed bullet points only
-        tasks = []
-        section_data = {}
-        
-        for section_index, section in enumerate(sections):
-            chapter_name = section.get('chapter_name', 'Unknown Chapter')
-            section_name = section.get('section_name', 'Untitled Section')
-            section_number = section.get('section_number', 'Unknown')
-            bullet_points = section.get('openai_summarised_points', [])
+    def save_updated_file(self, file_path: Path, new_results: List[Dict], original_metadata: Dict):
+        """Save or update the question file with new results"""
+        try:
+            output_file = self.output_dir / f"questions_{file_path.stem}.json"
             
-            if not bullet_points:
-                continue
+            # Load existing data if file exists
+            existing_data = {}
+            all_sections = []
             
-            # Store section info
-            section_data[section_index] = {
-                'chapter_name': chapter_name,
-                'section_name': section_name,
-                'section_number': section_number,
-                'source_file': section.get('source_file', file_path.name),
-                'original_index': section.get('original_index', section_index),
-                'total_bullet_points': len(bullet_points),
-                'bullet_points': []
+            if output_file.exists():
+                with open(output_file, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+                all_sections = existing_data.get('sections', [])
+            
+            # Organize new results by chapter-section
+            new_results_by_section = {}
+            for result in new_results:
+                metadata = result.get('generation_metadata', {})
+                chapter_name = metadata.get('chapter_name', 'Unknown')
+                section_number = metadata.get('section_number', 'unknown')
+                section_key = f"{chapter_name}_{section_number}"
+                
+                if section_key not in new_results_by_section:
+                    new_results_by_section[section_key] = []
+                new_results_by_section[section_key].append(result)
+            
+            # Update or add sections
+            for section_key, new_bullet_points in new_results_by_section.items():
+                # Find existing section
+                existing_section_index = None
+                for i, section in enumerate(all_sections):
+                    existing_key = f"{section.get('chapter_name', '')}_{section.get('section_number', '')}"
+                    if existing_key == section_key:
+                        existing_section_index = i
+                        break
+                
+                if existing_section_index is not None:
+                    # Merge bullet points into existing section
+                    existing_bullets = all_sections[existing_section_index].get('bullet_points', [])
+                    
+                    # Add only new bullet points (avoid duplicates)
+                    for new_bp in new_bullet_points:
+                        bp_index = new_bp.get('bullet_point_index')
+                        # Check if already exists
+                        exists = any(bp.get('bullet_point_index') == bp_index for bp in existing_bullets)
+                        if not exists:
+                            existing_bullets.append(new_bp)
+                    
+                    # Sort by bullet point index
+                    existing_bullets.sort(key=lambda x: x.get('bullet_point_index', 0))
+                    all_sections[existing_section_index]['bullet_points'] = existing_bullets
+                    all_sections[existing_section_index]['total_bullet_points'] = len(existing_bullets)
+                else:
+                    # Create new section
+                    if new_bullet_points:
+                        first_bp = new_bullet_points[0]
+                        metadata = first_bp.get('generation_metadata', {})
+                        
+                        new_section = {
+                            'chapter_name': metadata.get('chapter_name', 'Unknown Chapter'),
+                            'section_name': 'Generated Section',  # We don't have this from results
+                            'section_number': metadata.get('section_number', 'unknown'),
+                            'source_file': file_path.name,
+                            'original_index': len(all_sections),
+                            'total_bullet_points': len(new_bullet_points),
+                            'bullet_points': sorted(new_bullet_points, key=lambda x: x.get('bullet_point_index', 0))
+                        }
+                        all_sections.append(new_section)
+            
+            # Calculate final statistics
+            total_sections = len(all_sections)
+            total_bullet_points = sum(len(s.get('bullet_points', [])) for s in all_sections)
+            total_questions = sum(len(bp.get('questions', [])) for s in all_sections for bp in s.get('bullet_points', []))
+            
+            # Create completion status
+            completion_status = {}
+            for section in all_sections:
+                chapter_name = section.get('chapter_name', 'Unknown')
+                section_number = section.get('section_number', 'unknown')
+                section_key = f"{chapter_name}_{section_number}"
+                
+                bullet_points = section.get('bullet_points', [])
+                completed_bullets = [bp.get('bullet_point_index', -1) for bp in bullet_points if bp.get('bullet_point_index', -1) >= 0]
+                
+                completion_status[section_key] = {
+                    'total_bullets': section.get('total_bullet_points', len(bullet_points)),
+                    'completed_bullets': sorted(completed_bullets),
+                    'completion_percentage': (len(completed_bullets) / max(section.get('total_bullet_points', 1), 1) * 100)
+                }
+            
+            # Create final structure
+            final_data = {
+                'generation_info': {
+                    'source_file': file_path.name,
+                    'generation_timestamp': datetime.now().isoformat(),
+                    'openai_model': self.model_name,
+                    'questions_per_bullet_point': self.questions_per_point,
+                    'total_sections': total_sections,
+                    'total_bullet_points': total_bullet_points,
+                    'total_questions_generated': total_questions,
+                    'source_metadata': original_metadata,
+                    'completion_status': completion_status
+                },
+                'sections': all_sections
             }
             
-            # Create tasks for unprocessed bullet points only
-            for bp_index, bullet_point in enumerate(bullet_points):
-                if (isinstance(bullet_point, str) and len(bullet_point.strip()) >= 20 and
-                    not self.is_bullet_point_completed(file_path.name, section_index, bp_index)):
-                    
-                    tasks.append(BulletPointTask(
-                        file_path=file_path,
-                        section_index=section_index,
-                        bullet_point_index=bp_index,
-                        chapter_name=chapter_name,
-                        section_name=section_name,
-                        section_number=section_number,
-                        bullet_point_text=bullet_point,
-                        questions_per_point=self.questions_per_point
-                    ))
+            # Write atomically using temporary file
+            temp_file = output_file.with_suffix('.tmp')
+            with open(temp_file, 'w', encoding='utf-8') as f:
+                json.dump(final_data, f, indent=2, ensure_ascii=False)
+            
+            # Atomic rename
+            temp_file.rename(output_file)
+            
+        except Exception as e:
+            self.logger.error(f"Failed to save updated file: {e}")
+    
+    def process_file_with_robust_resume(self, file_path: Path) -> bool:
+        """Process a file using robust chapter-section resume system"""
+        
+        # Load original file
+        original_data = self.load_extracted_file(file_path)
+        if original_data is None:
+            return False
+        
+        # Analyze completion status
+        question_file_path = self.output_dir / f"questions_{file_path.stem}.json"
+        completion_map = self.analyze_section_completion(original_data, question_file_path)
+        
+        # Create tasks only for missing bullet points
+        tasks = self.create_tasks_from_completion_map(file_path, original_data, completion_map)
         
         if not tasks:
-            self.processing_state.stats.completed_files += 1
+            if RICH_AVAILABLE:
+                console.print(f"[green]✓ {file_path.name}: All bullet points already completed[/green]")
+            else:
+                print(f"✓ {file_path.name}: All bullet points already completed")
+            self.stats.completed_files += 1
             return True
         
         # Show file processing header
         if RICH_AVAILABLE:
             console.print(f"\n[bold blue]Processing: {file_path.name}[/bold blue]")
             console.print(f"[cyan]Found {len(tasks)} unprocessed bullet points[/cyan]")
-            console.print("-" * 100)
-            console.print(f"{'STATUS':<9} {'PROGRESS':<7} {'%':<6} {'CHAPTER':<23} {'SECTION':<28} {'API'}")
-            console.print("-" * 100)
+            console.print("-" * 85)
+            console.print(f"{'STATUS':<9} {'PROGRESS':<7} {'%':<6} {'CHAPTER':<23} {'SECTION':<15} {'API'}")
+            console.print("-" * 85)
         else:
             print(f"\nProcessing: {file_path.name}")
             print(f"Found {len(tasks)} unprocessed bullet points")
-            print("-" * 100)
-            print(f"{'STATUS':<9} {'PROGRESS':<7} {'%':<6} {'CHAPTER':<23} {'SECTION':<28} {'API'}")
-            print("-" * 100)
+            print("-" * 85)
+            print(f"{'STATUS':<9} {'PROGRESS':<7} {'%':<6} {'CHAPTER':<23} {'SECTION':<15} {'API'}")
+            print("-" * 85)
         
         # Process tasks in parallel
         processed_count = 0
         total_tasks = len(tasks)
+        completed_results = []
         
         with concurrent.futures.ThreadPoolExecutor(max_workers=self.max_workers) as executor:
             # Submit all tasks
@@ -694,24 +856,17 @@ Return ONLY the JSON, no other text:"""
                     success, result, api_key = future.result()
                     processed_count += 1
                     
-                    if success and not result.get('skipped', False):
-                        # Add result to section data
-                        section_data[task.section_index]['bullet_points'].append(result)
+                    if success:
+                        completed_results.append(result)
                         self.create_clean_progress_display(
                             processed_count, total_tasks,
-                            task.chapter_name, task.section_name,
+                            task.chapter_name, task.section_number,
                             api_key, 'success'
-                        )
-                    elif result.get('skipped', False):
-                        self.create_clean_progress_display(
-                            processed_count, total_tasks,
-                            task.chapter_name, task.section_name,
-                            'cached', 'skipped'
                         )
                     else:
                         self.create_clean_progress_display(
                             processed_count, total_tasks,
-                            task.chapter_name, task.section_name,
+                            task.chapter_name, task.section_number,
                             api_key, 'failed'
                         )
                         
@@ -719,91 +874,21 @@ Return ONLY the JSON, no other text:"""
                     processed_count += 1
                     self.create_clean_progress_display(
                         processed_count, total_tasks,
-                        task.chapter_name, task.section_name,
+                        task.chapter_name, task.section_number,
                         'error', 'failed'
                     )
                     self.logger.error(f"Task failed: {e}")
                 
-                # Save progress periodically
-                if processed_count % 10 == 0:
-                    self.save_updated_file(file_path, section_data, file_data['metadata'])
-                    self.save_processing_state()
+                # Save progress periodically (every 10 completions)
+                if len(completed_results) > 0 and len(completed_results) % 10 == 0:
+                    self.save_updated_file(file_path, completed_results, original_data.get('metadata', {}))
         
-        # Final save
-        self.save_updated_file(file_path, section_data, file_data['metadata'])
-        self.save_processing_state()
+        # Final save with all results
+        if completed_results:
+            self.save_updated_file(file_path, completed_results, original_data.get('metadata', {}))
         
-        self.processing_state.stats.completed_files += 1
+        self.stats.completed_files += 1
         return True
-    
-    def save_updated_file(self, file_path: Path, section_data: Dict, original_metadata: Dict):
-        """Save or update the question file with new results"""
-        try:
-            output_file = self.output_dir / f"questions_{file_path.stem}.json"
-            
-            # Load existing data if file exists
-            existing_data = {}
-            if output_file.exists():
-                with open(output_file, 'r', encoding='utf-8') as f:
-                    existing_data = json.load(f)
-            
-            # Merge or create sections
-            all_sections = existing_data.get('sections', [])
-            
-            # Update with new data
-            for section_index, new_section in section_data.items():
-                # Find existing section or add new one
-                existing_section_index = None
-                for i, section in enumerate(all_sections):
-                    if (section.get('original_index') == new_section.get('original_index') and
-                        section.get('source_file') == new_section.get('source_file')):
-                        existing_section_index = i
-                        break
-                
-                if existing_section_index is not None:
-                    # Merge bullet points
-                    existing_bullets = all_sections[existing_section_index].get('bullet_points', [])
-                    new_bullets = new_section.get('bullet_points', [])
-                    
-                    # Add only new bullet points
-                    for new_bp in new_bullets:
-                        bp_index = new_bp.get('bullet_point_index')
-                        # Check if already exists
-                        exists = any(bp.get('bullet_point_index') == bp_index for bp in existing_bullets)
-                        if not exists:
-                            existing_bullets.append(new_bp)
-                    
-                    all_sections[existing_section_index]['bullet_points'] = existing_bullets
-                    all_sections[existing_section_index]['total_bullet_points'] = len(existing_bullets)
-                else:
-                    # Add new section
-                    all_sections.append(new_section)
-            
-            # Calculate statistics
-            total_sections = len(all_sections)
-            total_bullet_points = sum(len(s.get('bullet_points', [])) for s in all_sections)
-            total_questions = sum(len(bp.get('questions', [])) for s in all_sections for bp in s.get('bullet_points', []))
-            
-            # Create final structure
-            final_data = {
-                'generation_info': {
-                    'source_file': file_path.name,
-                    'generation_timestamp': datetime.now().isoformat(),
-                    'openai_model': self.model_name,
-                    'questions_per_bullet_point': self.questions_per_point,
-                    'total_sections': total_sections,
-                    'total_bullet_points': total_bullet_points,
-                    'total_questions_generated': total_questions,
-                    'source_metadata': original_metadata
-                },
-                'sections': all_sections
-            }
-            
-            with open(output_file, 'w', encoding='utf-8') as f:
-                json.dump(final_data, f, indent=2, ensure_ascii=False)
-            
-        except Exception as e:
-            self.logger.error(f"Failed to save updated file: {e}")
     
     def create_master_question_bank(self, processed_files: List[Path]):
         """Create master question bank with all questions"""
@@ -844,15 +929,20 @@ Return ONLY the JSON, no other text:"""
             master_file = self.output_dir / "master_question_bank.json"
             with open(master_file, 'w', encoding='utf-8') as f:
                 json.dump(master_data, f, indent=2, ensure_ascii=False)
+            
+            if RICH_AVAILABLE:
+                console.print(f"[green]✓ Master question bank created with {total_questions} questions[/green]")
+            else:
+                print(f"✓ Master question bank created with {total_questions} questions")
     
     def show_api_usage_summary(self):
         """Display clean API usage summary"""
         usage_summary = self.api_manager.get_usage_summary()
         
         if RICH_AVAILABLE:
-            console.print("\n" + "="*80)
+            console.print("\n" + "="*70)
             console.print("[bold]API Usage Summary[/bold]")
-            console.print("="*80)
+            console.print("="*70)
             
             table = Table()
             table.add_column("API Key", style="cyan")
@@ -874,18 +964,18 @@ Return ONLY the JSON, no other text:"""
             console.print(table)
             console.print(f"[bold]Total Requests:[/bold] {usage_summary['total_requests']}")
             console.print(f"[bold]Total Errors:[/bold] {usage_summary['total_errors']}")
-            console.print("="*80)
+            console.print("="*70)
         else:
-            print("\n" + "="*80)
+            print("\n" + "="*70)
             print("API Usage Summary")
-            print("="*80)
+            print("="*70)
             for key_name, requests in usage_summary['usage_stats'].items():
                 errors = usage_summary['error_counts'][key_name]
                 success_rate = ((requests - errors) / requests * 100) if requests > 0 else 0
                 print(f"{key_name}: {requests} requests, {errors} errors, {success_rate:.1f}% success")
             print(f"Total Requests: {usage_summary['total_requests']}")
             print(f"Total Errors: {usage_summary['total_errors']}")
-            print("="*80)
+            print("="*70)
     
     def run_generation(self) -> bool:
         """Main method to run the MCQ generation process"""
@@ -893,7 +983,7 @@ Return ONLY the JSON, no other text:"""
         # Show startup info
         if RICH_AVAILABLE:
             startup_panel = Panel.fit(
-                f"[bold]MCQ Generator Started[/bold]\n"
+                f"[bold]UPSC MCQ Generator Started[/bold]\n"
                 f"Model: [cyan]{self.model_name}[/cyan]\n"
                 f"API Keys: [green]{len(self.api_manager.api_keys)}[/green]\n"
                 f"Workers: [yellow]{self.max_workers}[/yellow]\n"
@@ -904,7 +994,7 @@ Return ONLY the JSON, no other text:"""
             console.print(startup_panel)
         else:
             print("="*60)
-            print("MCQ Generator Started")
+            print("UPSC MCQ Generator Started")
             print(f"Model: {self.model_name}")
             print(f"API Keys: {len(self.api_manager.api_keys)}")
             print(f"Workers: {self.max_workers}")
@@ -920,25 +1010,28 @@ Return ONLY the JSON, no other text:"""
                 print("✗ No extracted JSON files found to process")
             return False
         
-        # Show existing progress
-        if self.processing_state.stats.completed_bullet_points > 0:
-            if RICH_AVAILABLE:
-                console.print(f"[green]✓ Resuming: {self.processing_state.stats.completed_bullet_points} bullet points already completed[/green]")
-            else:
-                print(f"✓ Resuming: {self.processing_state.stats.completed_bullet_points} bullet points already completed")
+        # Analyze completion status across all files
+        completion_maps = {}
+        for file_path in extracted_files:
+            original_data = self.load_extracted_file(file_path)
+            if original_data:
+                question_file_path = self.output_dir / f"questions_{file_path.stem}.json"
+                completion_maps[file_path.name] = self.analyze_section_completion(original_data, question_file_path)
+        
+        # Show resume info
+        self.show_resume_info(completion_maps)
         
         # Process files
         processed_files = []
         for file_path in extracted_files:
             try:
-                if self.process_file_parallel(file_path):
+                if self.process_file_with_robust_resume(file_path):
                     processed_files.append(file_path)
             except KeyboardInterrupt:
                 if RICH_AVAILABLE:
-                    console.print("\n[yellow]⚠ Process interrupted. Progress saved.[/yellow]")
+                    console.print("\n[yellow]⚠ Process interrupted. All progress saved automatically.[/yellow]")
                 else:
-                    print("\n⚠ Process interrupted. Progress saved.")
-                self.save_processing_state()
+                    print("\n⚠ Process interrupted. All progress saved automatically.")
                 return False
             except Exception as e:
                 self.logger.error(f"Critical error processing {file_path}: {e}")
@@ -960,15 +1053,15 @@ Return ONLY the JSON, no other text:"""
     
     def print_final_summary(self):
         """Print comprehensive final summary"""
-        stats = self.processing_state.stats
-        
         if RICH_AVAILABLE:
             summary_panel = Panel.fit(
-                f"[bold green]✓ Processing Complete[/bold green]\n\n"
-                f"[bold]Files Processed:[/bold] {stats.completed_files}\n"
-                f"[bold]Bullet Points:[/bold] {stats.completed_bullet_points} completed, {stats.skipped_bullet_points} skipped, {stats.failed_bullet_points} failed\n"
-                f"[bold]Questions Generated:[/bold] {stats.total_questions_generated}\n"
-                f"[bold]Average per Bullet:[/bold] {stats.total_questions_generated / max(stats.completed_bullet_points, 1):.1f}\n\n"
+                f"[bold green]✓ UPSC MCQ Generation Complete[/bold green]\n\n"
+                f"[bold]Files Processed:[/bold] {self.stats.completed_files}\n"
+                f"[bold]Sections Completed:[/bold] {self.stats.completed_sections}\n"
+                f"[bold]Bullet Points Processed:[/bold] {self.stats.completed_bullet_points}\n"
+                f"[bold]Failed Bullet Points:[/bold] {self.stats.failed_bullet_points}\n"
+                f"[bold]UPSC Questions Generated:[/bold] {self.stats.total_questions_generated}\n"
+                f"[bold]Average per Bullet:[/bold] {self.stats.total_questions_generated / max(self.stats.completed_bullet_points, 1):.1f}\n\n"
                 f"[bold]Output Location:[/bold] {self.output_dir}",
                 title="Final Summary",
                 border_style="green"
@@ -976,12 +1069,14 @@ Return ONLY the JSON, no other text:"""
             console.print(summary_panel)
         else:
             print("\n" + "="*60)
-            print("✓ Processing Complete")
+            print("✓ UPSC MCQ Generation Complete")
             print("="*60)
-            print(f"Files Processed: {stats.completed_files}")
-            print(f"Bullet Points: {stats.completed_bullet_points} completed, {stats.skipped_bullet_points} skipped, {stats.failed_bullet_points} failed")
-            print(f"Questions Generated: {stats.total_questions_generated}")
-            print(f"Average per Bullet: {stats.total_questions_generated / max(stats.completed_bullet_points, 1):.1f}")
+            print(f"Files Processed: {self.stats.completed_files}")
+            print(f"Sections Completed: {self.stats.completed_sections}")
+            print(f"Bullet Points Processed: {self.stats.completed_bullet_points}")
+            print(f"Failed Bullet Points: {self.stats.failed_bullet_points}")
+            print(f"UPSC Questions Generated: {self.stats.total_questions_generated}")
+            print(f"Average per Bullet: {self.stats.total_questions_generated / max(self.stats.completed_bullet_points, 1):.1f}")
             print(f"Output Location: {self.output_dir}")
             print("="*60)
 
@@ -990,8 +1085,27 @@ def main():
     load_dotenv()
     
     parser = argparse.ArgumentParser(
-        description='Enhanced Wikipedia MCQ Question Generator',
-        formatter_class=argparse.RawDescriptionHelpFormatter
+        description='Robust UPSC MCQ Question Generator with Chapter-Section Resume',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python upsc_mcq_generator.py /path/to/extracted/folder
+  python upsc_mcq_generator.py /path/to/extracted/folder --model gpt-3.5-turbo
+  python upsc_mcq_generator.py /path/to/extracted/folder --questions 3 --workers 8
+
+Environment Variables:
+  OPENAI_API_KEY      - Primary API key  
+  OPENAI_API_KEY_1    - Additional API key 1
+  OPENAI_API_KEY_2    - Additional API key 2
+  ... and so on (no limit)
+
+Features:
+  - Robust chapter-section based resume functionality
+  - UPSC-style analytical questions (not just factual recall)
+  - Smart load balancing across multiple API keys
+  - Atomic file operations to prevent corruption
+  - Comprehensive validation and error handling
+        """
     )
     
     parser.add_argument('folder_path', help='Path to folder containing extracted Wikipedia JSON files')
@@ -1022,7 +1136,7 @@ def main():
     
     # Initialize generator and run
     try:
-        generator = CleanMCQGenerator(
+        generator = RobustMCQGenerator(
             folder_path=str(folder_path),
             model_name=args.model,
             questions_per_point=args.questions,

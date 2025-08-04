@@ -1,0 +1,1720 @@
+{
+  "generation_info": {
+    "source_file": "extracted_economy_of_bhutan.json",
+    "generation_timestamp": "2025-08-04T01:49:46.223572",
+    "openai_model": "gpt-4.1-mini",
+    "questions_per_bullet_point": 2,
+    "total_sections": 3,
+    "total_bullet_points": 33,
+    "total_questions_generated": 66,
+    "source_metadata": {
+      "source_file": "economy_of_bhutan.json",
+      "extraction_timestamp": "2025-08-02T17:13:27.525548",
+      "total_sections_in_source": 4,
+      "extracted_sections_count": 4,
+      "skipped_sections_count": 0
+    },
+    "completion_status": {
+      "Economy of Bhutan_1": {
+        "total_bullets": 14,
+        "completed_bullets": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "completion_percentage": 100.0
+      },
+      "Economy of Bhutan_2": {
+        "total_bullets": 10,
+        "completed_bullets": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "completion_percentage": 100.0
+      },
+      "Economy of Bhutan_3": {
+        "total_bullets": 9,
+        "completed_bullets": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "completion_percentage": 100.0
+      }
+    }
+  },
+  "sections": [
+    {
+      "chapter_name": "Economy of Bhutan",
+      "section_name": "Generated Section",
+      "section_number": "1",
+      "source_file": "extracted_economy_of_bhutan.json",
+      "original_index": 0,
+      "total_bullet_points": 14,
+      "bullet_points": [
+        {
+          "bullet_point_index": 0,
+          "bullet_point_text": "• The economy of Bhutan is primarily based on agriculture and forestry, which provide the main livelihood for over 60% of the population.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy, which of the following best explains the potential impact of a significant decline in agricultural productivity on its socio-economic structure?",
+              "options": [
+                "It would primarily affect the urban industrial sectors due to reduced raw material supply.",
+                "It would lead to immediate inflation in consumer goods due to increased import dependence.",
+                "It would have minimal effect as Bhutan's economy is largely driven by hydropower exports.",
+                "It would disproportionately impact over 60% of the population dependent on agriculture and forestry for livelihood, leading to increased rural poverty."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: While urban industrial sectors might be affected indirectly, Bhutan's industrial base is limited and not the primary livelihood source for most people.",
+                "1": "Incorrect: Inflation due to import dependence may occur but is not the immediate or primary consequence; the direct socio-economic impact on rural households is more critical.",
+                "2": "Incorrect: Although hydropower is a significant export, it does not replace the livelihood role of agriculture and forestry for the majority population.",
+                "3": "Correct: Since over 60% of Bhutan's population depends on agriculture and forestry, a decline in productivity would directly threaten their livelihoods, exacerbating rural poverty and socio-economic challenges."
+              }
+            },
+            {
+              "question": "If the government of Bhutan aims to reduce rural poverty while maintaining environmental sustainability, which of the following policy measures would be most appropriate considering the economy's reliance on agriculture and forestry?",
+              "options": [
+                "Encouraging mass migration from rural to urban areas to reduce pressure on agricultural land.",
+                "Implementing agroforestry and sustainable farming techniques to enhance productivity without degrading natural resources.",
+                "Promoting large-scale industrialization to shift the workforce away from agriculture.",
+                "Increasing subsidies for chemical fertilizers to maximize short-term crop yields."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect: Encouraging mass migration may create urban unemployment and social issues without addressing rural poverty sustainably.",
+                "1": "Correct: Agroforestry and sustainable farming balance economic needs with environmental conservation, aligning with Bhutan's ecological priorities and supporting rural livelihoods.",
+                "2": "Incorrect: Large-scale industrialization may not be feasible or sustainable given Bhutan's geography and could disrupt traditional livelihoods without guaranteeing poverty reduction.",
+                "3": "Incorrect: While chemical fertilizers can increase yields short-term, overuse risks soil degradation and environmental harm, contradicting sustainability goals."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:09.497080",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 137,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Bhutan_1_0",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 1,
+          "bullet_point_text": "• Agriculture in Bhutan mainly consists of subsistence farming and animal husbandry.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy, which of the following best explains the primary reason why subsistence farming and animal husbandry dominate its agricultural sector?",
+              "options": [
+                "Government policies prioritize industrial development over agricultural expansion.",
+                "Bhutan's climate is unsuitable for any form of agriculture other than subsistence farming.",
+                "Limited arable land and challenging mountainous terrain restrict large-scale commercial agriculture.",
+                "High levels of urbanization have reduced the rural workforce available for commercial farming."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: While government policies do influence economic sectors, Bhutan has actively supported agriculture for rural livelihoods; industrial development is not prioritized at the expense of agriculture to this extent.",
+                "1": "Incorrect: Bhutan's climate varies with altitude and supports diverse crops; the limitation is more due to terrain than climate alone.",
+                "2": "Correct: Bhutan's mountainous topography and limited flat arable land make large-scale commercial agriculture difficult, leading to reliance on subsistence farming and animal husbandry as primary agricultural activities.",
+                "3": "Incorrect: Bhutan remains predominantly rural with low urbanization; thus, workforce reduction due to urban migration is not a major factor limiting commercial agriculture."
+              }
+            },
+            {
+              "question": "Considering Bhutan's reliance on subsistence farming and animal husbandry, which of the following policy measures would most effectively enhance rural livelihoods without compromising environmental sustainability?",
+              "options": [
+                "Encouraging large-scale mechanized farming to increase production efficiency.",
+                "Promoting agroforestry practices that integrate tree cultivation with farming and livestock rearing.",
+                "Subsidizing chemical fertilizers and pesticides to boost crop yields rapidly.",
+                "Introducing high-yield genetically modified crops to replace traditional varieties."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect: Large-scale mechanization may not be feasible due to Bhutan's terrain and could lead to environmental degradation, contradicting sustainability objectives.",
+                "1": "Correct: Agroforestry aligns with Bhutan's environmental conservation goals by enhancing biodiversity, improving soil health, and providing diversified income sources, thus supporting sustainable rural livelihoods.",
+                "2": "Incorrect: Excessive use of chemical inputs risks soil and water pollution, harming Bhutan's pristine environment and long-term agricultural productivity.",
+                "3": "Incorrect: While high-yield GM crops can increase production, they may threaten biodiversity and traditional farming systems, potentially undermining Bhutan's environmental and cultural values."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:11.036680",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 84,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Bhutan_1_1",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 2,
+          "bullet_point_text": "• The country's rugged mountainous terrain complicates the construction of roads and infrastructure.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's rugged mountainous terrain, which of the following best explains the primary challenges this geography poses to the country's economic infrastructure development?",
+              "options": [
+                "Limited availability of natural resources because mountains prevent resource formation",
+                "Easier transportation networks due to natural mountain passes facilitating trade",
+                "Increased costs and time delays in constructing roads and infrastructure due to difficult terrain",
+                "Higher population density in mountainous areas leading to overuse of infrastructure"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: While mountains can affect resource distribution, they do not inherently limit the availability of natural resources; many mountainous regions are rich in minerals and forests.",
+                "1": "Incorrect: Although some mountain passes facilitate trade, overall rugged terrain complicates transportation networks rather than making them easier.",
+                "2": "Correct: The rugged mountainous terrain significantly increases construction complexity, leading to higher costs and longer timeframes for building roads and infrastructure, which directly impacts economic development.",
+                "3": "Incorrect: Mountainous areas typically have lower population densities due to harsh living conditions, so overuse of infrastructure from high population density is unlikely."
+              }
+            },
+            {
+              "question": "Considering Bhutan's challenging topography, which policy measure would be most effective for the government to improve connectivity and economic growth?",
+              "options": [
+                "Focusing solely on air transport infrastructure to bypass land-based challenges",
+                "Prioritizing the development of waterways as the main mode of transportation",
+                "Encouraging urban migration to reduce the need for rural infrastructure development",
+                "Investing in advanced tunnel and bridge construction technologies to overcome terrain barriers"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: While air transport can supplement connectivity, it cannot replace the comprehensive network provided by roads and bridges, especially for daily economic activities and goods transport.",
+                "1": "Incorrect: Bhutan's mountainous terrain limits the feasibility of waterways as a primary transport mode, making this an impractical policy focus.",
+                "2": "Incorrect: Encouraging urban migration does not solve infrastructure challenges and may create new problems like urban overcrowding; rural connectivity remains essential for balanced development.",
+                "3": "Correct: Investing in advanced engineering solutions like tunnels and bridges directly addresses the physical barriers posed by mountains, improving connectivity and enabling economic activities."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:08.807542",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 100,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Bhutan_1_2",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 3,
+          "bullet_point_text": "• As of 2022, Bhutan is among the richest in South Asia in terms of gross domestic product (GDP) per capita, with a nominal value of $3,491.",
+          "questions": [
+            {
+              "question": "In the context of South Asia's economic landscape, which of the following best explains the primary factors contributing to Bhutan's relatively high GDP per capita compared to its neighbors as of 2022?",
+              "options": [
+                "D. Extensive agricultural exports dominating Bhutan's foreign exchange earnings",
+                "B. Large-scale industrialization and manufacturing sectors boosting Bhutan's export revenues",
+                "A. Bhutan's emphasis on sustainable development and hydropower exports leading to higher national income",
+                "C. Heavy reliance on remittances from a large expatriate workforce abroad"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. While agriculture is important domestically, Bhutan's agricultural exports are not extensive enough to dominate foreign exchange earnings or significantly raise GDP per capita.",
+                "1": "Incorrect. Bhutan has limited industrialization and manufacturing activities due to its geographical and policy constraints; thus, this is not a major contributor to its GDP per capita.",
+                "2": "Correct. Bhutan's focus on sustainable development, particularly through hydropower exports to India, significantly raises its national income and GDP per capita. This approach aligns with its Gross National Happiness philosophy, balancing economic growth with environmental conservation.",
+                "3": "Incorrect. Unlike countries such as Nepal or Bangladesh, Bhutan does not have a large expatriate workforce sending remittances, so this is not a key factor in its GDP per capita."
+              }
+            },
+            {
+              "question": "Considering Bhutan's status as one of the richest countries in South Asia by GDP per capita, which of the following policy implications is most critical for ensuring inclusive and sustainable economic growth in Bhutan?",
+              "options": [
+                "B. Increasing reliance on foreign direct investment in heavy industries to accelerate GDP growth",
+                "D. Focusing solely on urban infrastructure development to maximize economic output",
+                "A. Prioritizing diversification of the economy beyond hydropower to reduce vulnerability to external shocks",
+                "C. Reducing environmental regulations to attract multinational corporations and boost employment"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. While foreign direct investment can aid growth, focusing on heavy industries may conflict with Bhutan's environmental priorities and is not aligned with its sustainable development goals.",
+                "1": "Incorrect. Overemphasis on urban infrastructure neglects rural areas where a significant portion of the population resides, risking increased inequality and social imbalance.",
+                "2": "Correct. Diversifying Bhutan's economy beyond hydropower is essential to mitigate risks from fluctuating energy demand and prices, ensuring sustainable and inclusive growth that benefits broader sections of society.",
+                "3": "Incorrect. Relaxing environmental regulations contradicts Bhutan's commitment to Gross National Happiness and environmental conservation, potentially harming long-term sustainability."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:10.800292",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 140,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Bhutan_1_3",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 4,
+          "bullet_point_text": "• Despite this relatively high per capita GDP, Bhutan ranks 153rd globally and is considered one of the poorest countries in the world.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy, despite having a relatively high per capita GDP, the country ranks 153rd globally and is still considered one of the poorest. Which of the following best explains this apparent paradox?",
+              "options": [
+                "High income inequality leads to a skewed distribution of wealth, inflating per capita GDP without reflecting widespread prosperity.",
+                "Bhutan's small population size causes statistical anomalies that artificially lower its global ranking despite high per capita income.",
+                "Bhutan's GDP is primarily driven by non-monetary sectors like subsistence agriculture, which are not captured in per capita GDP calculations.",
+                "The per capita GDP is calculated using nominal exchange rates, which overstate Bhutan's economic position relative to other countries."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. A high per capita GDP can mask significant income inequality, meaning that wealth is concentrated among a small segment of the population, while a large portion remains poor. This disparity explains why Bhutan can have a relatively high per capita GDP but still be considered poor overall.",
+                "1": "Incorrect. While Bhutan has a small population, per capita GDP is designed to normalize GDP by population size. Small populations do not inherently cause lower global rankings if per capita income is high.",
+                "2": "Incorrect. Subsistence agriculture typically does not inflate GDP figures because it is often not monetized or fully accounted for in GDP calculations. Hence, it cannot explain a high per capita GDP alongside poverty.",
+                "3": "Incorrect. Using nominal exchange rates usually understates the economic position of developing countries rather than overstating it. Purchasing Power Parity (PPP) adjustments are more appropriate for comparisons, but this does not explain the paradox here."
+              }
+            },
+            {
+              "question": "If Bhutan aims to improve its global economic ranking and reduce poverty despite its relatively high per capita GDP, which of the following policy approaches would be most effective?",
+              "options": [
+                "Implementing targeted social welfare programs to reduce income inequality and improve living standards among the poorest segments.",
+                "Focusing solely on increasing overall GDP growth without addressing wealth distribution or social indicators.",
+                "Reducing foreign aid dependence by cutting social spending and encouraging private sector-led growth exclusively.",
+                "Prioritizing large-scale industrialization to replace agriculture as the main economic activity regardless of environmental impact."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Targeted social welfare programs can address income inequality and improve the quality of life for the poor, thereby making economic growth more inclusive and improving Bhutan’s overall economic ranking and poverty status.",
+                "1": "Incorrect. Increasing GDP alone without addressing how wealth is distributed may exacerbate inequality and fail to reduce poverty effectively.",
+                "2": "Incorrect. Cutting social spending abruptly can worsen poverty and inequality. While private sector growth is important, balanced policies including social welfare are essential for inclusive development.",
+                "3": "Incorrect. Large-scale industrialization without considering environmental sustainability or social impact may harm Bhutan’s unique ecological balance and cultural heritage, and may not directly reduce poverty."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:10.082541",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 135,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Bhutan_1_4",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 5,
+          "bullet_point_text": "• The total GDP of Bhutan is approximately $2.898 billion, ranking 178th according to the International Monetary Fund (IMF).",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's GDP being approximately $2.898 billion and ranked 178th by the IMF, which of the following best explains the potential challenges Bhutan faces in achieving rapid economic growth compared to larger economies?",
+              "options": [
+                "High GDP ranking indicates Bhutan has a large industrial base supporting growth.",
+                "Bhutan's GDP size allows it to easily attract foreign direct investment without policy reforms.",
+                "Limited domestic market size restricts economies of scale and diversification opportunities.",
+                "Being ranked 178th implies Bhutan has a highly developed financial sector driving growth."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: A high GDP ranking would indicate a large industrial base, but Bhutan's ranking (178th) is low, suggesting a smaller and less diversified industrial sector.",
+                "1": "Incorrect: Small GDP size does not automatically attract FDI; Bhutan needs targeted policy reforms and incentives to become attractive to investors.",
+                "2": "Correct: Bhutan's relatively small GDP and low ranking reflect a limited domestic market, which constrains economies of scale and diversification. This makes rapid growth challenging without leveraging niche sectors or external markets.",
+                "3": "Incorrect: A low ranking does not correlate with a highly developed financial sector; Bhutan's financial sector is relatively nascent and less influential in driving growth."
+              }
+            },
+            {
+              "question": "Considering Bhutan's GDP size and ranking, which of the following policy measures would be most effective for the government to sustainably enhance its economic development?",
+              "options": [
+                "Focusing on niche sectors like hydropower and eco-tourism to leverage comparative advantages.",
+                "Prioritizing rapid urbanization to increase domestic consumption irrespective of environmental impact.",
+                "Implementing broad-based industrialization without regard to Bhutan’s ecological constraints.",
+                "Reducing all trade barriers immediately to compete with large economies on equal footing."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Bhutan's economy benefits from niche sectors such as hydropower and eco-tourism, which align with its environmental priorities and comparative advantages, supporting sustainable growth.",
+                "1": "Incorrect: Rapid urbanization without environmental considerations could undermine Bhutan's unique development philosophy centered on Gross National Happiness and ecological preservation.",
+                "2": "Incorrect: Broad industrialization ignoring ecological constraints risks environmental degradation, which Bhutan explicitly seeks to avoid as part of its development strategy.",
+                "3": "Incorrect: Abruptly reducing trade barriers could expose Bhutan’s small economy to overwhelming competition, harming nascent industries without adequate preparation."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:10.868099",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 124,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Bhutan_1_5",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 6,
+          "bullet_point_text": "• Bhutan's economy is closely linked with India through strong trade and monetary connections and relies heavily on Indian financial assistance.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy being closely linked with India through trade and monetary connections, which of the following best explains the primary economic implication of this relationship for Bhutan?",
+              "options": [
+                "Bhutan can independently control its monetary policy without external influences.",
+                "Bhutan's reliance on Indian financial assistance limits its ability to engage in international trade.",
+                "Bhutan's economic growth is highly sensitive to India's economic policies and financial health.",
+                "Bhutan's trade deficit with India is negligible due to balanced bilateral trade."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Bhutan does not have full autonomy over its monetary policy because of its monetary linkage with India, including the use of the Indian rupee and Indian financial assistance.",
+                "1": "Incorrect: While Bhutan relies on Indian financial assistance, this does not inherently restrict its ability to engage in international trade; rather, it provides financial stability and support.",
+                "2": "Correct: Bhutan's close economic ties with India mean that changes in India's economic policies or financial stability can significantly impact Bhutan's economy, making it sensitive to external economic fluctuations.",
+                "3": "Incorrect: Bhutan often runs a trade deficit with India due to its dependence on imports, especially for essential goods, making this statement inaccurate."
+              }
+            },
+            {
+              "question": "If Bhutan decides to reduce its dependence on Indian financial assistance, which of the following policy measures would most effectively support this objective while maintaining economic stability?",
+              "options": [
+                "Reducing hydropower exports to India to encourage domestic energy consumption.",
+                "Adopting a fixed exchange rate regime pegged to the US dollar instead of the Indian rupee.",
+                "Increasing tariffs on Indian imports to discourage trade and promote domestic industries.",
+                "Diversifying its trade partners and increasing export-oriented industries to reduce trade dependence on India."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Reducing hydropower exports to India would decrease Bhutan's main source of foreign exchange earnings, negatively impacting economic stability and increasing dependence on external assistance.",
+                "1": "Incorrect: Switching the currency peg from the Indian rupee to the US dollar could destabilize Bhutan's monetary system due to the strong economic ties with India and may increase exchange rate volatility.",
+                "2": "Incorrect: Increasing tariffs on Indian imports could provoke trade tensions and disrupt the existing beneficial economic relationship, potentially harming Bhutan's economy.",
+                "3": "Correct: Diversifying trade partners and boosting exports can reduce Bhutan's economic reliance on India, thereby decreasing dependence on Indian financial assistance while supporting economic growth."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:11.927985",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 144,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Bhutan_1_6",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 7,
+          "bullet_point_text": "• The industrial sector in Bhutan is predominantly composed of cottage industries.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy, which of the following best explains the predominance of cottage industries in its industrial sector?",
+              "options": [
+                "Limited availability of large-scale industrial infrastructure and emphasis on sustainable local development",
+                "Government policies that restrict foreign direct investment in heavy industries",
+                "High urbanization rates leading to concentration of industries in metropolitan areas",
+                "Abundance of natural resources that favor large-scale mining and manufacturing"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Bhutan's industrial sector is largely composed of cottage industries due to limited large-scale industrial infrastructure and a policy focus on sustainable, community-based development that preserves traditional crafts and livelihoods.",
+                "1": "Incorrect. While Bhutan does regulate foreign investment, the predominance of cottage industries is more directly linked to infrastructure and development priorities rather than solely FDI restrictions.",
+                "2": "Incorrect. Bhutan has low urbanization rates, and industries are not concentrated in metropolitan areas; this limits large-scale industrial growth and supports cottage industries.",
+                "3": "Incorrect. Bhutan does not have an abundance of natural resources that support large-scale mining or manufacturing; rather, its economy is more oriented towards small-scale, sustainable industries."
+              }
+            },
+            {
+              "question": "If Bhutan aims to enhance rural employment and preserve cultural heritage simultaneously, which policy intervention related to its cottage industries would be most effective?",
+              "options": [
+                "Promoting import of mass-produced goods to reduce production costs for local consumers",
+                "Providing skill development programs and market access support to cottage industry artisans",
+                "Encouraging rapid industrialization through establishment of large factories in rural areas",
+                "Focusing solely on agricultural mechanization to increase rural productivity"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Importing mass-produced goods could undermine local cottage industries by creating unfair competition and eroding cultural heritage.",
+                "1": "Correct. Skill development and improved market access empower artisans, sustain traditional crafts, and create rural employment, aligning with Bhutan’s economic and cultural goals.",
+                "2": "Incorrect. Establishing large factories contradicts the cottage industry model and may disrupt local traditions and environmental sustainability.",
+                "3": "Incorrect. While agricultural mechanization improves productivity, it does not directly support cottage industries or cultural preservation."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:09.715689",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 82,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Bhutan_1_7",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 8,
+          "bullet_point_text": "• Most development projects, including road construction, depend on Indian migrant labor.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's reliance on Indian migrant labor for development projects such as road construction, which of the following best explains a potential economic implication of this dependence?",
+              "options": [
+                "It primarily benefits Bhutan's economy by increasing remittances from Indian workers.",
+                "It ensures faster project completion without any adverse effects on Bhutan's labor market dynamics.",
+                "It could result in a skills gap within Bhutan's local workforce, affecting long-term self-reliance in construction sectors.",
+                "It may lead to a reduction in domestic unemployment but increase the cost of infrastructure projects."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Indian migrant workers remit earnings primarily to India, not Bhutan, so this does not directly benefit Bhutan’s economy through remittances.",
+                "1": "Incorrect: Dependence on migrant labor can have adverse effects, such as reduced opportunities for local workers and potential socio-economic tensions, contradicting the idea of no adverse effects.",
+                "2": "Correct: Heavy reliance on migrant labor can create a skills gap domestically, as local workers may not develop necessary expertise, undermining Bhutan’s long-term self-reliance in infrastructure development.",
+                "3": "Incorrect: While employing migrant labor might reduce domestic unemployment pressure, it often lowers costs due to cheaper labor; thus, it does not typically increase project costs."
+              }
+            },
+            {
+              "question": "If Bhutan aims to reduce its dependence on Indian migrant labor for road construction projects, which of the following policy measures would be most effective in the short to medium term?",
+              "options": [
+                "Increasing vocational training programs focused on construction skills for Bhutanese youth.",
+                "Subsidizing imported construction machinery to replace manual labor.",
+                "Implementing stricter immigration controls to limit the entry of Indian laborers.",
+                "Encouraging foreign direct investment (FDI) in sectors unrelated to infrastructure."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Enhancing vocational training builds domestic capacity and skills, enabling Bhutanese workers to undertake construction projects, thereby reducing reliance on migrant labor sustainably.",
+                "1": "Incorrect: While machinery can improve efficiency, construction projects in Bhutan’s terrain often require skilled labor; machinery alone cannot replace the need for trained workers.",
+                "2": "Incorrect: Stricter immigration controls without domestic capacity building could delay projects and increase costs, as labor demand remains unmet.",
+                "3": "Incorrect: Encouraging FDI in unrelated sectors does not address the immediate labor needs in infrastructure development."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:09.369411",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 89,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Bhutan_1_8",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 9,
+          "bullet_point_text": "• Bhutan is implementing model education, social, and environmental programs with support from multilateral development organizations.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy, which of the following best explains the primary reason why multilateral development organizations support the country's model education, social, and environmental programs?",
+              "options": [
+                "To reduce Bhutan's dependence on foreign aid by promoting privatization of social services",
+                "To promote sustainable development that balances economic growth with environmental conservation and social well-being",
+                "To accelerate Bhutan's industrialization by introducing large-scale manufacturing projects",
+                "To encourage Bhutan to adopt a market-driven economy by minimizing government intervention in social sectors"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect: While reducing aid dependence is a long-term goal, the current support focuses on strengthening public education and social sectors, not privatization, which may not align with Bhutan's socio-economic model.",
+                "1": "Correct: Multilateral organizations typically support programs that promote sustainable development, which integrates economic growth with environmental protection and social equity. Bhutan's unique development philosophy aligns with this approach, making it the primary reason for such support.",
+                "2": "Incorrect: Bhutan emphasizes sustainable and balanced development rather than rapid industrialization, which could undermine its environmental goals. Large-scale manufacturing is not the focus of these programs.",
+                "3": "Incorrect: Bhutan follows a model that includes significant government involvement in social and environmental sectors, contrasting with a purely market-driven approach, which is not the aim of these programs."
+              }
+            },
+            {
+              "question": "If Bhutan aims to scale up its model environmental programs with continued support from multilateral development organizations, which of the following policy measures would most effectively enhance the real-world impact of these programs?",
+              "options": [
+                "Prioritizing urban infrastructure development over rural environmental initiatives to attract foreign investment",
+                "Reducing government expenditure on education to allocate more funds for environmental projects",
+                "Focusing exclusively on technological solutions for environmental protection without involving traditional knowledge systems",
+                "Integrating community-based natural resource management with national conservation policies to ensure local participation and sustainability"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Prioritizing urban infrastructure at the expense of rural environmental initiatives may neglect large parts of Bhutan's population and ecosystems, reducing overall program effectiveness.",
+                "1": "Incorrect: Reducing education funding could undermine social development and the capacity-building necessary for environmental stewardship, weakening program outcomes.",
+                "2": "Incorrect: Ignoring traditional knowledge systems overlooks valuable indigenous practices that can complement technological solutions, potentially reducing program acceptance and success.",
+                "3": "Correct: Integrating community-based management with national policies ensures that local stakeholders are involved, which enhances sustainability and effectiveness of environmental programs, aligning with Bhutan's holistic development approach."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:12.949258",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 134,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Bhutan_1_9",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 10,
+          "bullet_point_text": "• Economic programs in Bhutan are designed to prioritize environmental protection and the preservation of cultural traditions.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economic programs prioritizing environmental protection and cultural preservation, which of the following best explains the likely impact of such policies on Bhutan's long-term economic development?",
+              "options": [
+                "They primarily focus on maximizing short-term GDP growth through resource exploitation.",
+                "They prioritize urbanization and modernization at the cost of traditional lifestyles.",
+                "They may limit rapid industrial growth but promote sustainable and inclusive development.",
+                "They encourage unrestricted foreign direct investment to boost economic output."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Bhutan’s policies do not prioritize short-term GDP growth through resource exploitation; rather, they consciously avoid over-exploitation to maintain ecological balance.",
+                "1": "Incorrect. Bhutan’s economic approach deliberately balances modernization with preservation of traditional lifestyles, avoiding policies that sacrifice cultural heritage for urbanization.",
+                "2": "Correct. Bhutan’s emphasis on environmental protection and cultural preservation tends to restrain rapid industrialization and resource exploitation, favoring sustainable development models that ensure long-term economic stability and social inclusiveness.",
+                "3": "Incorrect. Bhutan is cautious about foreign direct investment, especially if it threatens environmental or cultural values, thus not encouraging unrestricted FDI."
+              }
+            },
+            {
+              "question": "If Bhutan were to relax its environmental protection norms to accelerate infrastructure development, which of the following policy implications would most likely arise considering its economic priorities?",
+              "options": [
+                "Immediate improvement in cultural preservation due to better connectivity.",
+                "Increased risk of ecological degradation leading to potential loss of tourism revenue.",
+                "Enhanced agricultural productivity through expanded industrial zones.",
+                "Reduction in foreign aid dependency without any socio-environmental trade-offs."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Better connectivity does not automatically improve cultural preservation; in fact, it may expose traditional communities to external influences that dilute cultural practices.",
+                "1": "Correct. Relaxing environmental norms could lead to ecological harm, which might undermine Bhutan’s eco-tourism sector and the overall sustainability of its economy.",
+                "2": "Incorrect. Expanding industrial zones often competes with agricultural land and may not directly enhance agricultural productivity.",
+                "3": "Incorrect. While infrastructure development might reduce foreign aid dependency, it is unlikely to occur without socio-environmental trade-offs given Bhutan’s current priorities."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:15.850253",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 126,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Bhutan_1_10",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 11,
+          "bullet_point_text": "• The government promotes eco-friendly tourism by encouraging visits from upscale, environmentally conscious tourists, while maintaining cautious expansion policies.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's eco-friendly tourism policy, which of the following best explains the primary rationale behind promoting visits from upscale, environmentally conscious tourists while maintaining cautious expansion?",
+              "options": [
+                "To maximize foreign exchange earnings by attracting high-spending tourists regardless of environmental impact",
+                "To balance economic growth with environmental conservation by limiting tourist numbers and encouraging responsible behavior",
+                "To focus solely on cultural tourism without considering ecological sustainability",
+                "To prioritize rapid tourism infrastructure development to compete with neighboring countries"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. While attracting high-spending tourists can increase foreign exchange, Bhutan’s policy emphasizes environmental sustainability over maximizing earnings at any cost.",
+                "1": "Correct. Bhutan’s approach aims to promote economic benefits from tourism while preserving its fragile environment by encouraging responsible tourists and cautious growth.",
+                "2": "Incorrect. Bhutan’s tourism policy integrates ecological sustainability alongside cultural preservation, not focusing solely on culture.",
+                "3": "Incorrect. Bhutan deliberately avoids rapid infrastructure expansion to prevent environmental degradation, contrasting with this option."
+              }
+            },
+            {
+              "question": "If Bhutan were to relax its cautious expansion policy and significantly increase tourist numbers without stringent environmental safeguards, which of the following consequences is most likely in the short to medium term?",
+              "options": [
+                "Improved international reputation as a leading eco-tourism destination",
+                "Rapid economic growth with no significant environmental or social costs",
+                "Degradation of natural ecosystems leading to loss of biodiversity and diminished tourist appeal",
+                "Increased cultural preservation due to higher tourist interest"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Relaxing environmental policies would harm Bhutan’s eco-tourism reputation rather than improve it.",
+                "1": "Incorrect. While economic growth might occur, ignoring environmental safeguards would likely cause negative ecological and social impacts.",
+                "2": "Correct. Increasing tourist numbers without controls risks harming Bhutan’s fragile ecosystems, which could reduce biodiversity and long-term tourism viability.",
+                "3": "Incorrect. Increased tourism without management often leads to cultural commodification or erosion rather than preservation."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:16.250943",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 165,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Bhutan_1_11",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 12,
+          "bullet_point_text": "• Foreign investment is hindered by detailed controls and uncertain policies in areas such as industrial licensing, trade, labor, and finance.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy, which of the following best explains the primary reason why foreign investment remains limited despite the country's potential for growth?",
+              "options": [
+                "Bhutan's geographical isolation inherently discourages foreign investors due to logistical challenges.",
+                "Limited natural resources reduce the attractiveness of Bhutan as an investment destination.",
+                "The government prioritizes self-reliance and restricts foreign ownership to protect domestic industries.",
+                "Stringent industrial licensing and uncertain policies in trade, labor, and finance create an unpredictable business environment."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. While geographical isolation can pose challenges, it is not the primary reason for limited foreign investment; policy uncertainty plays a more significant role.",
+                "1": "Incorrect. Bhutan has significant hydropower and tourism potential; limited natural resources is not the main factor deterring foreign investment.",
+                "2": "Incorrect. Although Bhutan emphasizes Gross National Happiness and sustainable development, it does not categorically restrict foreign ownership to protect domestic industries; policy uncertainty is a more direct cause.",
+                "3": "Correct. Detailed controls and uncertain policies in industrial licensing, trade, labor, and finance create unpredictability, increasing risk for foreign investors and thereby limiting foreign investment."
+              }
+            },
+            {
+              "question": "If Bhutan were to reform its industrial licensing and trade policies to reduce detailed controls and enhance policy certainty, which of the following outcomes is the most likely in the short to medium term?",
+              "options": [
+                "A rapid decline in domestic entrepreneurship due to increased foreign competition.",
+                "An increase in foreign direct investment leading to accelerated industrial growth and employment generation.",
+                "Immediate elimination of trade deficits without the need for further economic reforms.",
+                "A shift towards import substitution policies to protect nascent industries."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. While increased foreign competition can challenge domestic firms, reforms aimed at attracting investment generally complement rather than suppress domestic entrepreneurship in the short term.",
+                "1": "Correct. Reducing regulatory barriers and clarifying policies typically attract foreign investors, which can stimulate industrial growth and create jobs, especially in emerging economies like Bhutan.",
+                "2": "Incorrect. Trade deficits are influenced by multiple factors; policy reforms alone do not guarantee immediate elimination without broader economic adjustments.",
+                "3": "Incorrect. Reducing controls and encouraging foreign investment is contrary to import substitution, which emphasizes protecting domestic industries rather than opening markets."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:18.008098",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 142,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Bhutan_1_12",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 13,
+          "bullet_point_text": "• Hydropower exports to India have significantly contributed to Bhutan’s economic growth, although GDP declined in 2008 due to a slowdown in India, its main export market.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy, which of the following best explains the primary reason for the decline in GDP in 2008 despite the growth in hydropower exports?",
+              "options": [
+                "Internal political instability in Bhutan during 2008 disrupted hydropower production, causing GDP decline.",
+                "Global oil price fluctuations in 2008 increased Bhutan's energy costs, reducing GDP growth.",
+                "Bhutan's over-reliance on agriculture led to a decline in GDP as agricultural output fell in 2008.",
+                "A slowdown in India's economy reduced demand for Bhutan's hydropower exports, impacting Bhutan's GDP."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. There is no significant evidence of internal political instability disrupting hydropower production in Bhutan in 2008. The primary cause was external demand reduction from India.",
+                "1": "Incorrect. Bhutan's energy costs are relatively low due to hydropower generation, and global oil price fluctuations have limited direct impact on its GDP. The 2008 GDP decline is better explained by demand-side factors in India.",
+                "2": "Incorrect. While agriculture is a sector in Bhutan, the key driver of economic growth is hydropower exports. The GDP decline in 2008 is linked more to external demand shocks than domestic agricultural output.",
+                "3": "Correct. Bhutan's economy is heavily dependent on hydropower exports to India. A slowdown in India's economy in 2008 reduced demand for imports, including hydropower, directly impacting Bhutan's GDP negatively."
+              }
+            },
+            {
+              "question": "Considering Bhutan's economic dependence on hydropower exports to India, which of the following policy measures would most effectively mitigate the risk of GDP volatility caused by external demand shocks?",
+              "options": [
+                "Diversifying the economy by promoting sectors like tourism and agriculture to reduce reliance on hydropower exports.",
+                "Increasing hydropower production capacity to export more to India regardless of demand fluctuations.",
+                "Implementing protectionist trade policies to limit imports from India and boost domestic consumption.",
+                "Focusing solely on bilateral agreements with India to secure fixed-price contracts for hydropower exports."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Diversification reduces economic vulnerability by spreading risk across multiple sectors, thereby mitigating GDP volatility caused by fluctuations in a single export market like hydropower to India.",
+                "1": "Incorrect. Increasing production without corresponding demand risks oversupply, leading to wasted resources and potential financial losses, which could exacerbate GDP volatility.",
+                "2": "Incorrect. Protectionist policies could harm Bhutan's economy by disrupting beneficial trade relations with India and limiting access to markets and resources, potentially reducing overall economic growth.",
+                "3": "Incorrect. While fixed-price contracts can provide some stability, relying solely on bilateral agreements does not address the fundamental risk of over-dependence on a single export sector and market."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:17.148781",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 171,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Bhutan_1_13",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "1"
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Economy of Bhutan",
+      "section_name": "Generated Section",
+      "section_number": "2",
+      "source_file": "extracted_economy_of_bhutan.json",
+      "original_index": 1,
+      "total_bullet_points": 10,
+      "bullet_points": [
+        {
+          "bullet_point_index": 0,
+          "bullet_point_text": "• Bhutan is a member of several regional and international trade organizations, including the South Asian Free Trade Area (SAFTA), the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC), and the South Asia Subregional Economic Cooperation (SASEC).",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's membership in regional economic organizations such as SAFTA, BIMSTEC, and SASEC, which of the following best explains the primary economic rationale behind Bhutan's active participation in these groupings?",
+              "options": [
+                "To leverage regional cooperation for enhancing trade connectivity and economic diversification beyond its limited domestic market",
+                "To prioritize political alliances over economic benefits in the South Asian region",
+                "To reduce Bhutan's dependence on bilateral trade agreements with India by focusing solely on multilateral trade",
+                "To primarily access financial aid and grants from larger economies within these organizations"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Bhutan's participation in SAFTA, BIMSTEC, and SASEC is driven by the need to improve trade connectivity, reduce trade barriers, and diversify its economy by integrating with regional markets, given its small domestic market and landlocked geography.",
+                "1": "Incorrect: Bhutan's membership is economically motivated rather than primarily political; these organizations focus on economic cooperation and trade facilitation.",
+                "2": "Incorrect: Bhutan continues to maintain strong bilateral ties, especially with India; its multilateral engagements complement rather than replace bilateral agreements.",
+                "3": "Incorrect: While financial aid may be a component, the primary rationale is economic integration and trade facilitation rather than just accessing aid."
+              }
+            },
+            {
+              "question": "If Bhutan aims to enhance its export competitiveness through its membership in BIMSTEC, which policy measure would be most effective in leveraging the benefits of this regional grouping?",
+              "options": [
+                "Streamlining customs procedures and reducing non-tariff barriers with BIMSTEC member countries to facilitate faster cross-border trade",
+                "Increasing tariffs on imports from BIMSTEC countries to protect local industries from competition",
+                "Focusing solely on bilateral trade agreements with India and ignoring multilateral frameworks like BIMSTEC",
+                "Restricting foreign direct investment from BIMSTEC countries to safeguard domestic economic sovereignty"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Streamlining customs and reducing non-tariff barriers directly enhance trade efficiency, allowing Bhutan to better exploit BIMSTEC's regional market potential and improve export competitiveness.",
+                "1": "Incorrect: Increasing tariffs contradicts the objective of regional trade agreements, which aim to reduce trade barriers and promote integration.",
+                "2": "Incorrect: Ignoring multilateral frameworks limits Bhutan's access to broader markets and regional cooperation benefits; bilateral agreements alone are insufficient.",
+                "3": "Incorrect: Restricting FDI from BIMSTEC countries could hinder economic growth and integration; regional cooperation often encourages investment flows."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:29.541641",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 285,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Bhutan_2_0",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 1,
+          "bullet_point_text": "• Additionally, Bhutan is a member of the pan-Asian Asia Cooperation Dialogue (ACD) and the Asian Development Bank (ADB).",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's membership in the Asia Cooperation Dialogue (ACD) and the Asian Development Bank (ADB), which of the following best explains the potential impact of such memberships on Bhutan's economic development?",
+              "options": [
+                "They primarily provide Bhutan with direct financial aid without requiring any policy reforms.",
+                "They facilitate regional economic integration and access to development financing, which can accelerate Bhutan’s infrastructure and social sector projects.",
+                "They limit Bhutan’s trade relations exclusively to member countries, restricting global market access.",
+                "They obligate Bhutan to adopt uniform monetary policies dictated by these organizations."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. While financial aid is a component, these memberships often come with expectations of policy reforms and strategic planning rather than unconditional aid.",
+                "1": "Correct. Membership in ACD promotes regional cooperation, and ADB provides development financing and technical assistance, both of which support Bhutan’s infrastructure and social development goals.",
+                "2": "Incorrect. Membership does not restrict Bhutan’s trade exclusively to member countries; it enhances regional ties but does not limit global trade engagements.",
+                "3": "Incorrect. Neither ACD nor ADB imposes uniform monetary policies; Bhutan retains monetary sovereignty while benefiting from cooperative frameworks."
+              }
+            },
+            {
+              "question": "If Bhutan aims to leverage its membership in the Asian Development Bank (ADB) to enhance sustainable hydropower projects, which of the following policy approaches would be most consistent with the objectives of such international economic organizations?",
+              "options": [
+                "Prioritizing rapid industrialization without environmental assessments to maximize short-term energy output.",
+                "Focusing solely on domestic funding sources to avoid external influence on project design and implementation.",
+                "Limiting collaboration with regional partners to maintain full control over hydropower resources.",
+                "Engaging in transparent project planning with environmental safeguards and inclusive stakeholder consultations to ensure sustainable development."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Rapid industrialization without environmental assessments contradicts sustainable development principles promoted by organizations like ADB.",
+                "1": "Incorrect. While domestic funding is important, leveraging ADB’s resources and expertise is crucial; avoiding external collaboration may limit project quality and financing.",
+                "2": "Incorrect. Regional collaboration is often encouraged to optimize resource use and share benefits; limiting it can reduce project effectiveness and regional integration.",
+                "3": "Correct. International organizations emphasize sustainability, transparency, and stakeholder engagement to ensure projects are environmentally sound and socially inclusive."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:29.545924",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 121,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Bhutan_2_1",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 2,
+          "bullet_point_text": "• Bhutan first applied to join the World Trade Organization (WTO) in 1999 and was granted observer status shortly thereafter.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's application for WTO membership in 1999 and its subsequent observer status, which of the following best explains the primary economic rationale behind Bhutan seeking integration into the global trading system?",
+              "options": [
+                "To gain immediate access to preferential trade agreements with all WTO member countries",
+                "To bypass regional trade agreements and focus solely on multilateral trade negotiations",
+                "To reduce its dependence on bilateral trade with India by establishing direct trade links with Western countries",
+                "To enhance its domestic economic reforms by aligning with international trade norms and attract foreign investment"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. While WTO membership can facilitate trade, immediate access to preferential agreements with all members is not guaranteed; such agreements often require separate negotiations.",
+                "1": "Incorrect. Bhutan's WTO application complements rather than replaces regional trade agreements; WTO membership involves multilateral commitments but does not exclude regional cooperation.",
+                "2": "Incorrect. Bhutan's trade is heavily linked with India, and WTO membership does not inherently reduce this dependence; rather, it broadens trade opportunities globally.",
+                "3": "Correct. Bhutan's move to join the WTO reflects a strategic intent to modernize its economy by adopting global trade standards, which can improve investor confidence and support domestic reforms."
+              }
+            },
+            {
+              "question": "If Bhutan successfully transitions from WTO observer status to full membership, which of the following policy implications is most likely for its domestic economic governance?",
+              "options": [
+                "Bhutan will need to harmonize its trade policies with WTO agreements, potentially reforming subsidies and intellectual property laws",
+                "Bhutan will be required to eliminate all tariffs immediately to comply with WTO rules",
+                "Bhutan can unilaterally impose trade restrictions without any international scrutiny",
+                "Bhutan's agricultural sector will be exempt from any WTO-related reforms due to its least-developed country status"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Full WTO membership entails adherence to various agreements, requiring Bhutan to align its trade policies, including subsidies and IP regulations, with global standards.",
+                "1": "Incorrect. WTO membership does not mandate immediate elimination of all tariffs; members negotiate schedules for tariff reductions over time.",
+                "2": "Incorrect. WTO membership subjects members to rules that limit arbitrary trade restrictions; unilateral imposition without scrutiny is not permitted.",
+                "3": "Incorrect. While least-developed countries may receive special considerations, exemptions are not absolute; agricultural reforms are often part of WTO commitments."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:35.521796",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 125,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Bhutan_2_2",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 3,
+          "bullet_point_text": "• The country's accession proceedings at the WTO have been significantly delayed and periodically paused, primarily due to concerns and considerations raised by the Bhutanese government itself.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's delayed accession to the WTO, which of the following best explains the primary cause-effect relationship influencing this delay?",
+              "options": [
+                "The WTO's procedural inefficiencies and backlog are the main reasons for Bhutan's accession delay.",
+                "Bhutan's lack of sufficient trade volume makes it ineligible for WTO membership, causing the delay.",
+                "External opposition from major WTO members has primarily stalled Bhutan's accession process due to geopolitical reasons.",
+                "Bhutan's government concerns about potential impacts on its domestic economic policies have led to periodic pauses in accession proceedings."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Although procedural delays exist, the key factor for Bhutan's accession delay is its own government's cautious approach, not general WTO inefficiencies.",
+                "1": "Incorrect. WTO membership is not contingent on trade volume but on fulfilling accession criteria and negotiations; Bhutan's trade volume does not disqualify it, so this is not the main cause of delay.",
+                "2": "Incorrect. While external opposition can delay accession for some countries, in Bhutan's case, the primary cause is internal government concerns rather than geopolitical opposition from other WTO members.",
+                "3": "Correct. Bhutan's own government has raised concerns about how WTO membership might affect its domestic economic policies, such as protecting local industries and maintaining sovereignty over economic decisions, leading to deliberate pauses in the accession process."
+              }
+            },
+            {
+              "question": "If Bhutan were to accelerate its WTO accession process without addressing its internal concerns, what would be the most likely policy implication for its domestic economy?",
+              "options": [
+                "Bhutan would immediately gain unrestricted access to global markets, leading to rapid economic growth without any domestic challenges.",
+                "Bhutan's government would lose all regulatory powers over trade policies, forcing complete liberalization.",
+                "Increased exposure to international competition could undermine Bhutan's nascent industries and affect economic sovereignty.",
+                "Bhutan's accession would have no significant impact on its economy due to its small size and limited trade."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. While WTO membership facilitates market access, it does not guarantee rapid growth without challenges; domestic industries may face difficulties adapting to competition.",
+                "1": "Incorrect. WTO membership requires adherence to rules but does not strip a government of all regulatory powers; countries retain policy space within agreed frameworks.",
+                "2": "Correct. Accelerating accession without addressing concerns could expose Bhutan's emerging industries to intense competition, potentially harming them and limiting the government's ability to protect strategic sectors, thus affecting economic sovereignty.",
+                "3": "Incorrect. Even small economies can be significantly impacted by WTO rules, especially in sensitive sectors; size does not imply immunity from economic effects."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:32.309034",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 193,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Bhutan_2_3",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 4,
+          "bullet_point_text": "• The Bhutanese government officially approved its accession to the WTO in April 2023.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's accession to the WTO in April 2023, which of the following best explains the primary economic rationale behind Bhutan seeking WTO membership?",
+              "options": [
+                "To restrict imports and protect domestic industries through increased trade barriers under WTO guidelines",
+                "To prioritize bilateral trade agreements over multilateral frameworks for faster economic growth",
+                "To gain preferential access to global markets and attract foreign direct investment by adhering to multilateral trade rules",
+                "To immediately eliminate all tariffs and subsidies on its agricultural products to compete globally"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. WTO aims to reduce trade barriers, not increase them; restricting imports through higher barriers contradicts WTO principles and would be inconsistent with accession goals.",
+                "1": "Incorrect. WTO membership emphasizes multilateral trade rules rather than prioritizing bilateral agreements; Bhutan’s accession signals commitment to multilateralism, not sidelining it.",
+                "2": "Correct. WTO membership helps Bhutan integrate into the global economy by providing a rules-based framework that facilitates trade liberalization, market access, and investor confidence, which are crucial for a small, developing economy.",
+                "3": "Incorrect. While WTO membership encourages tariff reduction, immediate elimination of all tariffs and subsidies is neither mandated nor practical, especially for sensitive sectors like agriculture."
+              }
+            },
+            {
+              "question": "Considering Bhutan's accession to the WTO, which of the following policy implications is most likely for Bhutan's domestic economic reforms?",
+              "options": [
+                "Bhutan’s accession will allow it to impose arbitrary export restrictions to protect its natural resources without WTO scrutiny",
+                "Bhutan will need to enhance transparency and reform its trade-related regulations to comply with WTO standards, potentially impacting state-controlled sectors",
+                "Bhutan can maintain complete exemption from WTO dispute settlements due to its small economy status",
+                "Bhutan will be required to immediately liberalize its financial sector without any transition period"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. WTO rules restrict arbitrary export restrictions; members must justify such measures under specific exceptions, so Bhutan cannot impose them without scrutiny.",
+                "1": "Correct. WTO accession typically requires member countries to align domestic laws with WTO rules, enhancing transparency and regulatory reforms, which may challenge existing state controls in Bhutan.",
+                "2": "Incorrect. WTO dispute settlement mechanisms apply to all members regardless of size; no country is exempt, though special considerations may exist for least-developed countries.",
+                "3": "Incorrect. While WTO membership encourages liberalization, sectors like finance often have negotiated transition periods; immediate liberalization is not mandatory."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:36.933601",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 86,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Bhutan_2_4",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 5,
+          "bullet_point_text": "• The approval in April 2023 was partly motivated by Bhutan’s upcoming graduation from the United Nations-defined 'least developed country' (LDC) category.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan’s approval to join certain economic organizations in April 2023, which of the following best explains the primary economic rationale behind this move considering its impending graduation from the UN-defined 'least developed country' (LDC) category?",
+              "options": [
+                "To delay the graduation process from the LDC category by demonstrating increased economic dependency on international aid.",
+                "To proactively integrate into broader economic frameworks to offset the loss of LDC-specific support and enhance sustainable development.",
+                "To secure preferential trade benefits that are exclusively available to LDCs and thus maintain existing advantages post-graduation.",
+                "To focus solely on bilateral trade agreements with neighboring countries rather than multilateral economic organizations."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. The approval and integration into economic organizations indicate readiness to graduate rather than delay it; increased economic independence is a graduation criterion.",
+                "1": "Correct. Bhutan’s move to join economic organizations aligns with the need to integrate into global economic systems to compensate for the reduction in LDC-specific aid and trade benefits, ensuring continued economic growth and development.",
+                "2": "Incorrect. Preferential trade benefits are typically lost or reduced after graduation from the LDC category, so securing them exclusively for LDCs would not be a sustainable rationale.",
+                "3": "Incorrect. The focus on multilateral economic organizations suggests a strategy beyond just bilateral agreements, aiming for wider economic integration."
+              }
+            },
+            {
+              "question": "Considering Bhutan’s upcoming graduation from the LDC category and its recent approval to join economic organizations, which of the following policy measures would be most critical for Bhutan to ensure a smooth transition and sustained economic growth?",
+              "options": [
+                "Limiting foreign direct investment to preserve national economic sovereignty.",
+                "Reducing investments in infrastructure to minimize fiscal deficits during the transition period.",
+                "Increasing tariffs on imports to protect nascent industries from international competition.",
+                "Strengthening domestic industries to reduce reliance on external aid and preferential trade schemes."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Limiting foreign direct investment could hinder access to capital, technology, and markets necessary for economic diversification and growth post-LDC graduation.",
+                "1": "Incorrect. Reducing infrastructure investment can impede economic development and connectivity, which are vital for growth and integration into global markets.",
+                "2": "Incorrect. Increasing tariffs may provoke retaliatory measures and reduce competitiveness, which is counterproductive during integration into broader economic frameworks.",
+                "3": "Correct. Strengthening domestic industries is essential for Bhutan to build resilience and competitiveness as it loses LDC-specific benefits, ensuring sustainable economic growth."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:36.297058",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 155,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Bhutan_2_5",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 6,
+          "bullet_point_text": "• Under WTO rules, the accession of a country with LDC status benefits from certain leniencies, including more relaxed compliance timeframes and additional support.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's accession to the WTO as a Least Developed Country (LDC), which of the following best explains the primary economic rationale behind granting leniencies such as relaxed compliance timeframes to LDC members?",
+              "options": [
+                "To encourage LDCs to prioritize export diversification by immediately removing all trade barriers",
+                "To allow LDCs like Bhutan to gradually adjust their domestic policies without sudden exposure to global competition",
+                "To provide LDCs with permanent exemptions from all WTO trade rules to protect their economies",
+                "To enable LDCs to impose higher tariffs than other members indefinitely to boost revenue"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect: Immediate removal of all trade barriers contradicts the rationale of leniencies; LDCs are given time to adjust rather than forced into rapid liberalization.",
+                "1": "Correct: LDCs often have limited institutional capacity and vulnerable economies. Relaxed compliance timeframes help them gradually align with WTO rules, allowing time to strengthen domestic industries and regulatory frameworks before facing full global competition.",
+                "2": "Incorrect: LDCs do not receive permanent exemptions from all WTO rules; leniencies are temporary and conditional to facilitate integration, not to exempt them entirely.",
+                "3": "Incorrect: While LDCs may have some flexibility in tariffs, indefinite higher tariffs are not permitted under WTO rules; the leniencies focus on phased implementation, not permanent tariff protection."
+              }
+            },
+            {
+              "question": "Consider Bhutan is negotiating a new bilateral trade agreement while still under WTO LDC accession leniencies. Which of the following policy approaches would most effectively leverage its LDC status to support sustainable economic development?",
+              "options": [
+                "Focusing solely on attracting foreign direct investment without addressing trade policy adjustments",
+                "Demanding immediate elimination of all tariffs on imports to lower consumer prices rapidly",
+                "Prioritizing gradual tariff reductions and seeking technical assistance to build export capacity",
+                "Rejecting all WTO rules temporarily to maintain full control over trade policies"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: While FDI is important, ignoring trade policy adjustments misses the opportunity to integrate effectively into global markets under WTO frameworks.",
+                "1": "Incorrect: Immediate elimination of tariffs may expose Bhutanese industries to competition prematurely, risking economic instability contrary to the purpose of LDC leniencies.",
+                "2": "Correct: Gradual tariff reductions align with WTO leniencies, allowing Bhutan to protect nascent industries while building export capacity with technical assistance, supporting sustainable development.",
+                "3": "Incorrect: Rejecting WTO rules is not feasible or beneficial; LDC leniencies are designed to facilitate compliance, not to encourage rule rejection."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:35.963591",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 164,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Bhutan_2_6",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 7,
+          "bullet_point_text": "• Bhutan’s graduation from the LDC category was finalized in December 2023, marking a milestone in its development progress.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan’s graduation from the Least Developed Country (LDC) category in December 2023, which of the following best explains the potential impact of this change on Bhutan’s participation in international economic organizations and agreements?",
+              "options": [
+                "Bhutan will be exempted from all obligations under WTO agreements due to its new status, allowing greater policy flexibility.",
+                "Bhutan will lose access to all preferential trade agreements designed exclusively for LDCs, compelling it to renegotiate terms under more stringent conditions.",
+                "Bhutan’s graduation will enhance its credibility and bargaining power in economic organizations, enabling it to attract more diversified foreign investment.",
+                "Bhutan’s graduation will automatically grant it membership in high-income country economic blocs without further criteria."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. WTO obligations apply to all member countries regardless of development status; graduation does not exempt Bhutan from these obligations but may change the nature of special and differential treatment it receives.",
+                "1": "Incorrect. While Bhutan may lose some preferential trade benefits reserved for LDCs, it does not necessarily mean it must renegotiate all agreements under more stringent terms; many agreements have transition periods or alternative provisions.",
+                "2": "Correct. Graduation from LDC status signals improved economic indicators and development progress, which generally enhances a country's credibility and bargaining power in international forums, helping attract diversified foreign investment beyond concessional terms.",
+                "3": "Incorrect. Graduation from LDC status does not automatically confer membership in high-income economic blocs; membership in such groups depends on other criteria and political-economic considerations."
+              }
+            },
+            {
+              "question": "Considering Bhutan’s recent graduation from the LDC category, which of the following policy measures would be most appropriate for the Bhutanese government to ensure sustainable economic growth and smooth transition in international trade relations?",
+              "options": [
+                "Implementing aggressive tariff hikes to protect domestic industries from international competition post-LDC graduation.",
+                "Negotiating transitional arrangements with trade partners to gradually phase out preferential treatment while enhancing domestic competitiveness.",
+                "Focusing solely on hydropower exports without diversifying the economy, as graduation guarantees stable demand.",
+                "Reducing investments in infrastructure and human capital development to reallocate funds towards short-term trade subsidies."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Aggressive tariff hikes could provoke trade disputes and harm Bhutan’s export competitiveness; a balanced approach is preferable.",
+                "1": "Correct. Negotiating transitional arrangements allows Bhutan to adjust gradually to loss of preferential treatment, while investing in competitiveness ensures sustainable growth and integration into global markets.",
+                "2": "Incorrect. Overreliance on hydropower exports risks economic vulnerability; diversification is essential to mitigate external shocks and sustain growth.",
+                "3": "Incorrect. Reducing investments in infrastructure and human capital undermines long-term growth prospects and economic resilience, which are critical post-graduation."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:36.809223",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 124,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Bhutan_2_7",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 8,
+          "bullet_point_text": "• The loss of LDC status in December 2023 reflected Bhutan’s development achievements but also resulted in further delays in completing WTO accession, as the process after losing LDC status becomes more challenging.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan losing its Least Developed Country (LDC) status in December 2023, which of the following best explains the primary reason why this development has led to further delays in Bhutan's WTO accession process?",
+              "options": [
+                "Bhutan must now comply with more stringent WTO accession requirements applicable to non-LDCs, increasing procedural complexity.",
+                "The WTO accession process is unrelated to a country's LDC status, so delays are due to internal Bhutanese policy changes.",
+                "Loss of LDC status automatically disqualifies Bhutan from joining the WTO until a new trade agreement is negotiated.",
+                "Bhutan's economic indicators worsened after losing LDC status, causing WTO to suspend accession talks."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. WTO accession protocols differentiate between LDCs and non-LDCs, with non-LDCs required to meet more comprehensive commitments, making the process more complex and time-consuming after Bhutan lost its LDC status.",
+                "1": "Incorrect. While internal policies can affect accession, the question specifically addresses the impact of losing LDC status, which is directly relevant to WTO procedural requirements.",
+                "2": "Incorrect. Losing LDC status does not disqualify a country from WTO membership; it changes the accession terms but does not bar entry.",
+                "3": "Incorrect. The loss of LDC status reflects development progress rather than economic deterioration; no evidence suggests Bhutan's indicators worsened post-status change."
+              }
+            },
+            {
+              "question": "Considering Bhutan's transition out of LDC status and the associated challenges in completing WTO accession, which of the following policy measures would be most effective for Bhutan to facilitate smoother integration into the global trading system?",
+              "options": [
+                "Delaying WTO accession to maintain preferential treatment under LDC-specific trade agreements.",
+                "Focusing exclusively on bilateral trade agreements with neighboring countries to bypass WTO complexities.",
+                "Reducing economic reforms to avoid triggering stricter WTO commitments applicable to non-LDC members.",
+                "Strengthening domestic institutional capacity to meet WTO compliance standards and negotiate trade terms effectively."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. While delaying accession might preserve some benefits temporarily, it risks isolating Bhutan from global trade benefits and does not address long-term integration challenges.",
+                "1": "Incorrect. Bilateral agreements cannot fully substitute the advantages of WTO membership and may limit Bhutan's broader market access and dispute resolution mechanisms.",
+                "2": "Incorrect. Reducing reforms contradicts the development progress that led to losing LDC status and may hinder Bhutan’s economic growth and global competitiveness.",
+                "3": "Correct. Enhancing institutional capacity enables Bhutan to handle the more demanding WTO accession process post-LDC status, ensuring compliance and effective negotiation."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:37.423635",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 215,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Bhutan_2_8",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 9,
+          "bullet_point_text": "• The delays and considerations in Bhutan’s WTO accession process highlight the complex interplay between development status, international trade commitments, and national government concerns.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's delayed accession to the WTO, which of the following best explains the primary cause-effect relationship influencing the government's cautious approach?",
+              "options": [
+                "Bhutan's status as a developing country necessitates balancing international trade commitments with protecting nascent domestic industries.",
+                "Bhutan's government prioritizes rapid liberalization of trade over concerns about national sovereignty.",
+                "Bhutan's delay is primarily due to external political pressure from neighboring countries opposed to its WTO accession.",
+                "Bhutan's geographical isolation makes WTO membership irrelevant to its economic development strategies."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Bhutan, as a developing country, must carefully weigh the benefits of WTO membership against potential risks to its emerging domestic sectors and socio-economic priorities, reflecting the complex cause-effect dynamic in its accession process.",
+                "1": "Incorrect: Bhutan's government has shown caution rather than prioritizing rapid liberalization, indicating concern over potential negative impacts on sovereignty and development goals.",
+                "2": "Incorrect: There is no strong evidence that external political pressure from neighbors is the main reason for Bhutan's delay; internal developmental considerations are more significant.",
+                "3": "Incorrect: While Bhutan is geographically isolated, this does not render WTO membership irrelevant; rather, it affects how Bhutan approaches trade liberalization, but is not the primary cause for delay."
+              }
+            },
+            {
+              "question": "If Bhutan successfully joins the WTO, which of the following policy implications is most likely for its national economic strategy?",
+              "options": [
+                "Bhutan will need to reform its trade policies to comply with WTO rules, potentially reducing tariffs and subsidies, which could challenge its domestic industries.",
+                "Bhutan can continue its current protectionist policies without any changes, as WTO membership allows exemptions for developing countries.",
+                "Bhutan will immediately gain unrestricted access to all global markets without any reciprocal obligations.",
+                "Bhutan's accession will automatically lead to increased foreign direct investment without any need for complementary domestic reforms."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: WTO membership requires member countries to align their trade policies with WTO agreements, including tariff reductions and subsidy regulations, which may challenge Bhutan's domestic economic protections.",
+                "1": "Incorrect: While WTO provides some flexibilities for developing countries, it does not allow continuation of protectionist policies without modification; compliance with WTO rules is mandatory.",
+                "2": "Incorrect: WTO membership involves reciprocal market access commitments; benefits are not automatic or unconditional.",
+                "3": "Incorrect: Increased FDI depends on multiple factors including domestic reforms, infrastructure, and policy environment; accession alone does not guarantee immediate investment inflows."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:37.833818",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 192,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Bhutan_2_9",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "2"
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Economy of Bhutan",
+      "section_name": "Generated Section",
+      "section_number": "3",
+      "source_file": "extracted_economy_of_bhutan.json",
+      "original_index": 2,
+      "total_bullet_points": 9,
+      "bullet_points": [
+        {
+          "bullet_point_index": 0,
+          "bullet_point_text": "• Since the early 2020s, Bhutan has adopted cryptocurrency, particularly Bitcoin, as a strategic economic resource to address various economic challenges.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan adopting Bitcoin as a strategic economic resource since the early 2020s, which of the following best explains the primary economic rationale behind this move?",
+              "options": [
+                "To attract foreign direct investment exclusively in the cryptocurrency mining sector, sidelining other industries",
+                "To diversify national revenue sources by leveraging emerging digital assets amid limited traditional export options",
+                "To replace the Bhutanese Ngultrum entirely with Bitcoin as the official currency to enhance monetary sovereignty",
+                "To eliminate the need for international trade by creating a self-sufficient digital economy based on cryptocurrency"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. While cryptocurrency mining may be part of the strategy, Bhutan’s adoption is broader, aiming at overall economic diversification rather than focusing solely on mining investments.",
+                "1": "Correct. Bhutan’s economy, constrained by limited natural resources and a small domestic market, seeks to diversify revenue streams. Adopting Bitcoin allows Bhutan to tap into emerging digital asset markets, potentially increasing foreign exchange earnings and economic resilience.",
+                "2": "Incorrect. Bhutan has not replaced its national currency with Bitcoin; rather, it uses cryptocurrency as a complementary economic resource. Full replacement would pose significant monetary policy challenges and risks.",
+                "3": "Incorrect. Bhutan’s adoption of Bitcoin does not aim to eliminate international trade but to enhance economic opportunities. A self-sufficient digital economy based solely on cryptocurrency is neither practical nor currently feasible."
+              }
+            },
+            {
+              "question": "Considering Bhutan's strategic adoption of Bitcoin to address economic challenges, which of the following policy measures would most effectively mitigate the risks associated with cryptocurrency volatility while maximizing economic benefits?",
+              "options": [
+                "Pegging the Bhutanese Ngultrum directly to Bitcoin to ensure currency stability",
+                "Implementing regulatory frameworks that integrate cryptocurrency with traditional banking to stabilize financial flows",
+                "Banning all cryptocurrency transactions to prevent economic instability caused by price fluctuations",
+                "Allowing unrestricted cryptocurrency trading to attract maximum foreign investment without regulatory oversight"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Pegging the national currency directly to Bitcoin is highly risky due to Bitcoin’s price volatility and could destabilize Bhutan’s monetary system rather than stabilize it.",
+                "1": "Correct. Integrating cryptocurrency within a regulated financial framework helps manage volatility risks, ensures consumer protection, and facilitates stable economic benefits by linking digital assets with traditional banking systems.",
+                "2": "Incorrect. Banning cryptocurrency outright would negate potential economic benefits Bhutan seeks and push activities underground, increasing systemic risks.",
+                "3": "Incorrect. Unrestricted trading without regulation can lead to financial instability, fraud, and loss of investor confidence, undermining economic goals."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:38.084094",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 154,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Bhutan_3_0",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        },
+        {
+          "bullet_point_index": 1,
+          "bullet_point_text": "• The country has faced declining tourism revenue, which has impacted its overall economic stability.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's economy, which of the following best explains the primary economic impact of declining tourism revenue?",
+              "options": [
+                "Increased dependence on hydropower exports to India as an alternative revenue source",
+                "Reduction in foreign exchange earnings leading to a negative balance of payments",
+                "Shift towards agricultural self-sufficiency to compensate for reduced service sector income",
+                "Decreased government spending on social welfare programs due to lower tax collections"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Declining tourism revenue reduces overall economic inflows, prompting Bhutan to rely more heavily on hydropower exports to India, which is a major source of foreign exchange and government revenue, thereby affecting economic stability.",
+                "1": "While tourism does contribute to foreign exchange earnings, Bhutan's balance of payments is more significantly influenced by hydropower exports; thus, the primary impact is not just a negative balance of payments.",
+                "2": "Bhutan's economy is not primarily agrarian, and a shift to agricultural self-sufficiency is neither practical nor the main response to tourism revenue decline; the economy focuses more on hydropower and services.",
+                "3": "Though lower revenues can affect government spending, Bhutan's fiscal policy and external aid cushion such impacts; the immediate and primary effect is more on export revenue composition than on social spending."
+              }
+            },
+            {
+              "question": "If Bhutan aims to stabilize its economy amid declining tourism revenue, which of the following policy measures would be most effective in the short to medium term?",
+              "options": [
+                "Reducing hydropower exports temporarily to encourage domestic industrial growth",
+                "Increasing visa fees to limit tourist numbers and focus on high-spending visitors",
+                "Diversifying the economy by promoting small and medium enterprises (SMEs) in non-tourism sectors",
+                "Implementing targeted subsidies to boost domestic agricultural production"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Reducing hydropower exports would decrease a major revenue source and likely worsen economic instability rather than promote growth.",
+                "1": "Increasing visa fees to limit tourist numbers may worsen the decline in tourism revenue rather than stabilize it, as it reduces overall tourist inflow.",
+                "2": "Correct. Diversifying the economy by promoting SMEs in sectors beyond tourism can create alternative income sources, reduce vulnerability to tourism shocks, and enhance economic resilience.",
+                "3": "While boosting agriculture may improve food security, it does not directly address the loss from tourism revenue or provide immediate economic stabilization."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:38.041121",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 101,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Bhutan_3_1",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        },
+        {
+          "bullet_point_index": 2,
+          "bullet_point_text": "• Youth unemployment in Bhutan reached 19% in 2024, prompting government intervention.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's 19% youth unemployment rate in 2024, which of the following best explains the primary economic factors contributing to this situation?",
+              "options": [
+                "Excessive reliance on hydropower exports leading to neglect of domestic job creation",
+                "Rapid urbanization causing a decline in traditional industries and overwhelming city job markets",
+                "A slowdown in the agricultural sector combined with a mismatch between educational outcomes and labor market demands",
+                "High inflation rates reducing the purchasing power of young workers and discouraging employment"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. While hydropower is a major export, it generally contributes positively to Bhutan’s economy and government revenues. The issue is less about reliance on hydropower and more about translating economic gains into diverse employment opportunities.",
+                "1": "Incorrect. Bhutan’s urbanization rate is relatively low compared to other countries, and while urban migration poses challenges, it is not the primary cause of youth unemployment. Traditional industries are small but not the main employment bottleneck.",
+                "2": "Correct. Bhutan’s economy, while growing, faces challenges such as a predominantly agrarian base with limited diversification. Youth unemployment often stems from a skills mismatch where education does not align with market needs, and agriculture’s slow growth limits rural employment opportunities.",
+                "3": "Incorrect. Bhutan has maintained relatively stable inflation rates, and inflation typically affects purchasing power rather than directly causing unemployment. The youth unemployment issue is more structural and linked to economic diversification and education."
+              }
+            },
+            {
+              "question": "Considering the Bhutanese government's intervention to address 19% youth unemployment in 2024, which of the following policy measures would be most effective in sustainably reducing youth unemployment?",
+              "options": [
+                "Implementing vocational training programs aligned with emerging sectors like IT and tourism",
+                "Raising the minimum wage to improve income levels for young workers",
+                "Increasing subsidies for traditional agriculture to retain youth in rural areas",
+                "Restricting foreign labor to ensure more jobs for Bhutanese youth"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Vocational training tailored to sectors with growth potential such as IT and tourism equips youth with relevant skills, addressing the mismatch between education and employment opportunities, thus sustainably reducing unemployment.",
+                "1": "Incorrect. Raising minimum wages without corresponding productivity gains can lead to reduced hiring, especially of inexperienced youth, potentially worsening unemployment rather than alleviating it.",
+                "2": "Incorrect. While supporting agriculture can help rural employment, subsidies alone may not attract youth if agriculture remains low-income and labor-intensive without modernization or diversification.",
+                "3": "Incorrect. Restricting foreign labor might protect some jobs but does not address underlying skill gaps or create new employment opportunities. It could also hinder sectors dependent on foreign expertise."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:40.594871",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 86,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Bhutan_3_2",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        },
+        {
+          "bullet_point_index": 3,
+          "bullet_point_text": "• Bhutan is experiencing a growing brain drain, with skilled professionals emigrating for better opportunities elsewhere.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's growing brain drain, which of the following best explains the primary economic consequence for the country?",
+              "options": [
+                "Improved public sector efficiency as skilled workers leave the private sector",
+                "An immediate increase in remittances that boosts local consumption",
+                "A surge in foreign direct investment due to increased global exposure",
+                "A decline in domestic innovation and reduced capacity for economic diversification"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. The departure of skilled workers generally reduces efficiency across sectors, including public services, rather than improving it.",
+                "1": "Incorrect. While remittances can increase with emigration, Bhutan’s brain drain primarily affects skilled workers whose absence undermines long-term economic development more than short-term consumption.",
+                "2": "Incorrect. Brain drain typically weakens domestic capabilities and does not directly cause a surge in foreign direct investment; FDI depends on other factors like policy and infrastructure.",
+                "3": "Correct. The emigration of skilled professionals reduces the human capital necessary for innovation and diversification, limiting Bhutan’s ability to develop new industries and sustain economic growth."
+              }
+            },
+            {
+              "question": "Considering Bhutan’s challenge of brain drain, which policy measure would most effectively address the issue while promoting sustainable economic development?",
+              "options": [
+                "Restricting emigration through stringent exit visa regulations",
+                "Implementing targeted incentives for skilled professionals to remain and contribute locally",
+                "Increasing reliance on natural resource exports to compensate for human capital loss",
+                "Focusing solely on attracting foreign skilled workers to replace emigrants"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Restrictive emigration policies can lead to negative social and economic consequences, including reduced individual freedoms and potential international criticism.",
+                "1": "Correct. Providing incentives such as better career opportunities, research funding, and improved working conditions encourages skilled professionals to stay and invest their talents in Bhutan’s economy.",
+                "2": "Incorrect. Overreliance on natural resource exports is unsustainable and does not compensate for the loss of skilled human capital critical for diversified economic growth.",
+                "3": "Incorrect. While attracting foreign talent can help, it does not build indigenous capacity or address the root causes of brain drain among Bhutanese professionals."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:40.904935",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 121,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Bhutan_3_3",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        },
+        {
+          "bullet_point_index": 4,
+          "bullet_point_text": "• To mitigate economic issues, the Bhutanese government began mining Bitcoin using surplus hydropower generated during high-flow summer months.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's decision to mine Bitcoin using surplus hydropower during high-flow summer months, which of the following best explains the primary economic rationale behind this strategy?",
+              "options": [
+                "To attract foreign direct investment by showcasing Bhutan as a technology-driven economy.",
+                "To reduce Bhutan's dependence on traditional hydropower exports by shifting to digital assets.",
+                "To utilize otherwise wasted surplus hydropower and generate additional revenue without increasing environmental degradation.",
+                "To diversify Bhutan's export portfolio by entering the global cryptocurrency market."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Attracting foreign direct investment may be a secondary effect, but the main economic rationale focuses on resource utilization and revenue generation.",
+                "1": "Incorrect because Bhutan is not reducing dependence on hydropower exports; rather, it is optimizing the use of hydropower by adding value through Bitcoin mining.",
+                "2": "Correct. Bhutan uses surplus hydropower, which would otherwise be wasted during peak flow periods, to mine Bitcoin, thus generating additional revenue without extra environmental costs.",
+                "3": "While diversification is a benefit, the primary rationale is not merely entering the cryptocurrency market but leveraging existing resources efficiently."
+              }
+            },
+            {
+              "question": "If Bhutan's government expands Bitcoin mining using surplus hydropower, which of the following policy implications should be most carefully considered to ensure sustainable economic development?",
+              "options": [
+                "The risk of Bhutan losing control over its monetary policy due to cryptocurrency adoption.",
+                "The potential for hydropower infrastructure to become obsolete due to digital currency reliance.",
+                "The increased carbon footprint from Bitcoin mining operations.",
+                "The volatility of cryptocurrency prices affecting national revenue stability."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect because Bhutan is mining Bitcoin as a resource utilization strategy, not adopting cryptocurrency as legal tender, so monetary policy control is not directly threatened.",
+                "1": "Incorrect as hydropower infrastructure remains essential; Bitcoin mining is an additional use, not a replacement, so obsolescence is unlikely.",
+                "2": "Incorrect because Bhutan's Bitcoin mining uses surplus hydropower, a renewable energy source, so carbon footprint concerns are minimal compared to fossil-fuel-based mining.",
+                "3": "Correct. Cryptocurrency prices are highly volatile, so relying on Bitcoin mining for revenue can introduce economic instability, requiring careful fiscal policy planning."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:43.361505",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 143,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Bhutan_3_4",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        },
+        {
+          "bullet_point_index": 5,
+          "bullet_point_text": "• By 2023, Bhutan had sold approximately $100 million worth of cryptocurrency to double the salaries of civil servants, which contributed to a reduction in resignations among government employees.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's decision to sell approximately $100 million worth of cryptocurrency to double civil servants' salaries, which of the following best explains the primary economic rationale behind this move?",
+              "options": [
+                "Stimulating the domestic economy by increasing public sector consumption via higher salaries",
+                "Enhancing government employee retention by improving remuneration through unconventional revenue sources",
+                "Diversifying national income sources to reduce dependence on traditional sectors like hydropower",
+                "Attracting foreign investment by showcasing Bhutan's engagement with emerging digital assets"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. While higher salaries can stimulate consumption, the context emphasizes reducing resignations rather than macroeconomic stimulus, making this a secondary or indirect effect rather than the primary rationale.",
+                "1": "Correct. The primary rationale was to use the cryptocurrency sales revenue to directly improve civil servants' salaries, which led to reduced resignations, indicating a focus on employee retention through better pay funded by alternative income.",
+                "2": "Incorrect. Although cryptocurrency sales represent diversification, the immediate purpose was salary enhancement, not broader economic diversification, which is a longer-term strategic goal.",
+                "3": "Incorrect. Attracting foreign investment is not directly linked to selling cryptocurrency for salaries; the move was internal fiscal management rather than a signaling mechanism for investors."
+              }
+            },
+            {
+              "question": "If Bhutan were to replicate the strategy of utilizing cryptocurrency revenues to enhance public sector salaries in another developing country context, which of the following policy considerations would be most critical to ensure sustainable outcomes?",
+              "options": [
+                "Focusing on cryptocurrency mining as the primary source of government income",
+                "Relying solely on cryptocurrency revenues without integrating traditional tax reforms",
+                "Prioritizing immediate salary increases over long-term economic diversification strategies",
+                "Establishing robust regulatory frameworks to manage cryptocurrency volatility and fiscal risks"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Cryptocurrency mining is resource-intensive and may not be viable or sustainable as a primary income source; the focus should be on diversified revenue streams.",
+                "1": "Incorrect. Sole reliance on cryptocurrency revenues is risky due to market unpredictability; integrating with traditional fiscal measures is necessary for stability.",
+                "2": "Incorrect. While salary increases can improve retention, neglecting long-term diversification risks fiscal sustainability; balancing immediate and strategic goals is crucial.",
+                "3": "Correct. Managing the inherent volatility and regulatory challenges of cryptocurrencies is essential to avoid fiscal instability when using such revenues for recurrent expenses like salaries."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:45.090624",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 196,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Bhutan_3_5",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        },
+        {
+          "bullet_point_index": 6,
+          "bullet_point_text": "• As of April 2025, blockchain analysts estimate Bhutan's Bitcoin holdings to be over $600 million, representing about 30% of the country's Gross Domestic Product (GDP).",
+          "questions": [
+            {
+              "question": "In the context of Bhutan holding Bitcoin assets valued at about 30% of its GDP, which of the following best explains the potential macroeconomic risks associated with such a large proportion of national wealth being invested in cryptocurrency?",
+              "options": [
+                "High exposure to Bitcoin price volatility could lead to significant fluctuations in national wealth and economic stability.",
+                "Such a large cryptocurrency holding guarantees increased foreign direct investment due to enhanced digital asset credibility.",
+                "Bitcoin holdings ensure a stable and inflation-proof reserve, reducing the need for traditional monetary policy interventions.",
+                "The Bitcoin assets act as a hedge against currency depreciation, thus eliminating exchange rate risks for Bhutan."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Bitcoin is known for its high price volatility, and having 30% of GDP in such an asset exposes Bhutan's economy to sudden wealth fluctuations, which can destabilize macroeconomic planning and fiscal stability.",
+                "1": "Incorrect. Large Bitcoin holdings do not inherently attract foreign direct investment; in fact, regulatory uncertainties and volatility may deter traditional investors.",
+                "2": "Incorrect. While Bitcoin is often touted as inflation-proof, its extreme price swings undermine stability, making it unreliable for consistent monetary policy or as a stable reserve.",
+                "3": "Incorrect. Bitcoin does not eliminate exchange rate risks as it is not a stable currency and its value relative to fiat currencies can fluctuate widely, potentially increasing currency risk."
+              }
+            },
+            {
+              "question": "Considering Bhutan's significant Bitcoin holdings (about 30% of GDP), which of the following policy measures would be most appropriate for the Bhutanese government to mitigate economic risks while leveraging the benefits of cryptocurrency assets?",
+              "options": [
+                "Encouraging citizens to convert their fiat savings into Bitcoin to increase national crypto reserves and reduce dependence on foreign currencies.",
+                "Implementing regulatory frameworks to integrate cryptocurrency holdings into national financial planning and establishing sovereign wealth funds to diversify risk.",
+                "Banning all cryptocurrency transactions domestically to prevent volatility from affecting the local economy.",
+                "Pegging the Bhutanese Ngultrum directly to Bitcoin to stabilize the national currency against global crypto fluctuations."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Encouraging citizens to convert savings into Bitcoin could increase systemic risk by exposing the broader population to cryptocurrency volatility, potentially harming economic stability.",
+                "1": "Correct. Developing regulatory frameworks and using sovereign wealth funds to diversify holdings can help Bhutan manage volatility risks while benefiting from cryptocurrency assets systematically.",
+                "2": "Incorrect. Banning cryptocurrencies domestically ignores the existing large national holdings and would not address the macroeconomic exposure from those assets.",
+                "3": "Incorrect. Pegging the national currency to Bitcoin would likely increase economic instability due to Bitcoin's high volatility, contrary to stabilizing objectives."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:44.901230",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 169,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Bhutan_3_6",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        },
+        {
+          "bullet_point_index": 7,
+          "bullet_point_text": "• The Bitcoin mining operations in Bhutan are powered by the country's abundant, carbon-negative hydropower resources and its cool climate, aligning with Bhutan’s environmental conservation values.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's Bitcoin mining operations powered by carbon-negative hydropower and its cool climate, which of the following best explains the primary reason this model aligns with Bhutan’s environmental conservation values?",
+              "options": [
+                "The cool climate reduces the need for artificial cooling in Bitcoin mining, thereby decreasing operational costs but not necessarily environmental impact.",
+                "Bhutan’s Bitcoin mining uses renewable energy sources that minimize carbon emissions, supporting the country’s commitment to environmental sustainability.",
+                "Hydropower generation in Bhutan is carbon-neutral, so Bitcoin mining powered by it has no environmental footprint.",
+                "Bhutan’s government subsidizes Bitcoin mining to promote technological advancement irrespective of environmental concerns."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. While the cool climate does reduce cooling costs, the key alignment with environmental values is the use of carbon-negative hydropower, not just cost reduction.",
+                "1": "Correct. Bhutan’s abundant hydropower is carbon-negative, meaning it reduces overall carbon emissions, and the cool climate further reduces energy consumption for cooling mining equipment. This synergy supports Bhutan’s strong environmental conservation ethos.",
+                "2": "Incorrect. Hydropower in Bhutan is carbon-negative, not merely carbon-neutral, meaning it actively reduces carbon emissions rather than just balancing them out. This distinction is important for environmental impact.",
+                "3": "Incorrect. Bhutan’s policies emphasize environmental sustainability; subsidizing Bitcoin mining without regard to environmental impact would contradict this principle."
+              }
+            },
+            {
+              "question": "If Bhutan decides to expand its Bitcoin mining industry further, which of the following policy considerations would be most critical to ensure sustainable development in line with its environmental goals?",
+              "options": [
+                "Prioritizing fossil fuel-based backup power plants to guarantee uninterrupted mining operations during hydropower shortages.",
+                "Reducing environmental standards temporarily to attract foreign Bitcoin mining companies and boost economic growth.",
+                "Encouraging private sector investment without environmental oversight to rapidly scale up the mining industry.",
+                "Implementing strict regulations to limit mining operations only to periods of surplus hydropower generation to avoid overexploitation of resources."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Introducing fossil fuel-based power contradicts Bhutan’s carbon-negative energy strategy and would increase emissions.",
+                "1": "Incorrect. Lowering environmental standards conflicts with Bhutan’s commitment to conservation and long-term sustainable development.",
+                "2": "Incorrect. Lack of environmental oversight risks undermining Bhutan’s conservation values and could lead to unsustainable resource use.",
+                "3": "Correct. Limiting mining to periods of surplus hydropower ensures that energy use does not compromise Bhutan’s environmental sustainability and hydropower resource management."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:46.134521",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 197,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Bhutan_3_7",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        },
+        {
+          "bullet_point_index": 8,
+          "bullet_point_text": "• Bhutan plans to develop Gelephu Mindfulness City, envisioned as a sustainable economic hub to promote eco-friendly development and economic diversification.",
+          "questions": [
+            {
+              "question": "In the context of Bhutan's plan to develop Gelephu Mindfulness City as a sustainable economic hub, which of the following best explains the primary economic rationale behind promoting eco-friendly development alongside economic diversification?",
+              "options": [
+                "To reduce Bhutan's dependence on traditional sectors like agriculture and hydropower by fostering new industries aligned with environmental sustainability",
+                "To prioritize urbanization and industrialization without considering ecological balance to accelerate economic development",
+                "To focus solely on tourism as the main driver of economic growth without integrating other sectors",
+                "To attract foreign direct investment primarily in heavy industries that boost short-term GDP growth regardless of environmental impact"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Bhutan aims to diversify its economy beyond traditional sectors such as agriculture and hydropower by developing sustainable industries that align with its environmental conservation goals. This approach balances economic growth with ecological preservation, which is crucial given Bhutan's commitment to Gross National Happiness and environmental sustainability.",
+                "1": "Incorrect. Prioritizing urbanization and industrialization without ecological considerations would undermine Bhutan's environmental commitments and the very premise of developing a 'Mindfulness City' focused on sustainability.",
+                "2": "Incorrect. Although tourism is a significant sector, relying solely on it ignores the broader objective of economic diversification and sustainable development that includes multiple eco-friendly industries.",
+                "3": "Incorrect. While attracting foreign direct investment is important, focusing on heavy industries without regard for environmental impact contradicts Bhutan's sustainability goals and the concept of eco-friendly development central to Gelephu Mindfulness City."
+              }
+            },
+            {
+              "question": "If Bhutan successfully develops Gelephu Mindfulness City as a model for sustainable economic hubs, which of the following policy implications is most likely to emerge for other developing countries aiming for green growth?",
+              "options": [
+                "Rapid industrialization without environmental safeguards is the most effective way to achieve economic diversification",
+                "Sustainable development models are only feasible in small countries with limited populations and cannot be scaled to larger economies",
+                "Economic hubs should prioritize maximizing short-term profits over ecological and social considerations to attract investments",
+                "Integrating mindfulness and environmental sustainability into urban planning can enhance long-term economic resilience and social well-being"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Rapid industrialization without environmental safeguards often leads to resource depletion and social issues, which contradicts the principles of sustainable development exemplified by Bhutan’s model.",
+                "1": "Incorrect. While Bhutan is small, the principles of sustainable development are scalable and adaptable; dismissing them as only applicable to small countries ignores global trends toward green growth and sustainability.",
+                "2": "Incorrect. Prioritizing short-term profits at the expense of environmental and social factors can undermine long-term economic stability and is contrary to the ethos of sustainable economic hubs like Gelephu Mindfulness City.",
+                "3": "Correct. Bhutan’s approach demonstrates that embedding mindfulness and sustainability into economic planning can create resilient economies that also promote social welfare, offering valuable lessons for other developing nations pursuing green growth."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:49:46.221455",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 158,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Bhutan_3_8",
+            "chapter_name": "Economy of Bhutan",
+            "section_number": "3"
+          }
+        }
+      ]
+    }
+  ]
+}
