@@ -3,11 +3,12 @@ from tkinter import filedialog, messagebox, ttk, simpledialog
 import fitz  # pymupdf
 from PIL import Image, ImageTk
 import os
+import sys
 from io import BytesIO
 from datetime import datetime
 
 class PDFViewer:
-    def __init__(self, root):
+    def __init__(self, root, output_folder=None):
         self.root = root
         self.root.title("PDF Viewer & Cropper")
         self.root.geometry("800x900")
@@ -16,6 +17,8 @@ class PDFViewer:
         self.current_page = 0
         self.total_pages = 0
         self.zoom_level = 1.0
+        self.output_folder = output_folder
+        self.pdf_filename = None
         
         # Cropping variables
         self.crop_start_page = None
@@ -49,14 +52,26 @@ class PDFViewer:
         ttk.Button(control_frame, text="-", command=self.zoom_out).pack(side=tk.LEFT, padx=(0, 2))
         ttk.Button(control_frame, text="+", command=self.zoom_in).pack(side=tk.LEFT, padx=(0, 10))
         
+        # Output folder button
+        ttk.Button(control_frame, text="Set Output Folder", command=self.set_output_folder).pack(side=tk.RIGHT, padx=(10, 0))
+        
         # Crop status frame
         crop_frame = ttk.Frame(main_frame)
-        crop_frame.pack(fill=tk.X, pady=(0, 10))
+        crop_frame.pack(fill=tk.X, pady=(0, 5))
         
         # Crop status label
         self.crop_status_label = ttk.Label(crop_frame, text="Keys: 1=Previous, 2=Next, B=Start crop, N=Finish crop", 
                                          foreground="blue", font=("Arial", 10, "bold"))
         self.crop_status_label.pack(side=tk.LEFT)
+        
+        # Output folder info frame
+        folder_frame = ttk.Frame(main_frame)
+        folder_frame.pack(fill=tk.X, pady=(0, 10))
+        
+        # Output folder label
+        self.folder_label = ttk.Label(folder_frame, text=f"Output folder: {self.output_folder or 'Not set'}", 
+                                    foreground="darkgreen", font=("Arial", 9))
+        self.folder_label.pack(side=tk.LEFT)
         
         # Create scrollable frame for PDF display
         self.canvas_frame = ttk.Frame(main_frame)
@@ -79,6 +94,13 @@ class PDFViewer:
         self.root.bind("<Key>", self.on_key_press)
         self.root.focus_set()  # Enable key bindings
         
+    def set_output_folder(self):
+        """Let user select output folder"""
+        folder = filedialog.askdirectory(title="Select Output Folder for Cropped PDFs")
+        if folder:
+            self.output_folder = folder
+            self.folder_label.config(text=f"Output folder: {self.output_folder}")
+        
     def open_pdf(self):
         """Open and load a PDF file"""
         file_path = filedialog.askopenfilename(
@@ -87,31 +109,62 @@ class PDFViewer:
         )
         
         if file_path:
-            try:
-                # Close previous document if any
-                if self.pdf_document:
-                    self.pdf_document.close()
+            self.load_pdf(file_path)
+            
+    def load_pdf(self, file_path):
+        """Load a PDF file from given path"""
+        try:
+            # Close previous document if any
+            if self.pdf_document:
+                self.pdf_document.close()
+            
+            # Reset cropping variables
+            self.crop_start_page = None
+            self.crop_end_page = None
+            self.is_cropping = False
+            self.update_crop_status()
+            
+            # Open new PDF
+            self.pdf_document = fitz.open(file_path)
+            self.total_pages = len(self.pdf_document)
+            self.current_page = 0
+            
+            # Store filename for folder creation
+            self.pdf_filename = os.path.splitext(os.path.basename(file_path))[0]
+            
+            # Update window title
+            filename = os.path.basename(file_path)
+            self.root.title(f"PDF Viewer & Cropper - {filename}")
+            
+            # Create output folder if not set
+            if not self.output_folder:
+                self.create_default_output_folder()
+            
+            # Display first page
+            self.display_page()
+            
+        except Exception as e:
+            messagebox.showerror("Error", f"Failed to open PDF: {str(e)}")
+    
+    def create_default_output_folder(self):
+        """Create default output folder based on PDF filename"""
+        try:
+            script_dir = os.path.dirname(os.path.abspath(__file__))
+            folder_name = f"{self.pdf_filename}_cropped"
+            self.output_folder = os.path.join(script_dir, folder_name)
+            
+            # Create folder if it doesn't exist
+            if not os.path.exists(self.output_folder):
+                os.makedirs(self.output_folder)
                 
-                # Reset cropping variables
-                self.crop_start_page = None
-                self.crop_end_page = None
-                self.is_cropping = False
-                self.update_crop_status()
-                
-                # Open new PDF
-                self.pdf_document = fitz.open(file_path)
-                self.total_pages = len(self.pdf_document)
-                self.current_page = 0
-                
-                # Update window title
-                filename = os.path.basename(file_path)
-                self.root.title(f"PDF Viewer & Cropper - {filename}")
-                
-                # Display first page
-                self.display_page()
-                
-            except Exception as e:
-                messagebox.showerror("Error", f"Failed to open PDF: {str(e)}")
+            self.folder_label.config(text=f"Output folder: {self.output_folder}")
+            print(f"Created output folder: {self.output_folder}")
+            
+        except Exception as e:
+            # Fallback to script directory
+            self.output_folder = os.path.dirname(os.path.abspath(__file__))
+            self.folder_label.config(text=f"Output folder: {self.output_folder} (fallback)")
+            print(f"Warning: Could not create folder, using script directory: {e}")
     
     def display_page(self):
         """Display the current page"""
@@ -211,21 +264,12 @@ class PDFViewer:
     def ask_filename_and_save(self):
         """Ask user for filename and save the cropped PDF"""
         # Generate default filename
-        original_name = "document"
-        try:
-            # Try to get original filename from window title
-            title_parts = self.root.title().split(" - ")
-            if len(title_parts) > 1:
-                original_name = os.path.splitext(title_parts[-1])[0]
-        except:
-            pass
-        
-        default_name = f"{original_name}_pages_{self.crop_start_page+1}_to_{self.crop_end_page+1}"
+        default_name = f"{self.pdf_filename}_pages_{self.crop_start_page+1}_to_{self.crop_end_page+1}"
         
         # Ask user for custom filename
         custom_name = simpledialog.askstring(
             "Save Cropped PDF",
-            f"Enter filename for the cropped PDF:\n(Pages {self.crop_start_page+1} to {self.crop_end_page+1})",
+            f"Enter filename for the cropped PDF:\n(Pages {self.crop_start_page+1} to {self.crop_end_page+1})\n\nWill be saved to:\n{self.output_folder}",
             initialvalue=default_name
         )
         
@@ -258,15 +302,14 @@ class PDFViewer:
             for page_num in range(self.crop_start_page, self.crop_end_page + 1):
                 new_pdf.insert_pdf(self.pdf_document, from_page=page_num, to_page=page_num)
             
-            # Get the directory where the Python script is located
-            script_dir = os.path.dirname(os.path.abspath(__file__))
-            output_path = os.path.join(script_dir, filename)
+            # Use the set output folder
+            output_path = os.path.join(self.output_folder, filename)
             
             # Check if file already exists
             if os.path.exists(output_path):
                 response = messagebox.askyesno(
                     "File Exists", 
-                    f"File '{filename}' already exists. Do you want to overwrite it?"
+                    f"File '{filename}' already exists in the output folder. Do you want to overwrite it?"
                 )
                 if not response:
                     new_pdf.close()
@@ -281,7 +324,7 @@ class PDFViewer:
                               f"Cropped PDF saved successfully!\n\n"
                               f"Pages {self.crop_start_page+1} to {self.crop_end_page+1}\n"
                               f"Saved as: {filename}\n"
-                              f"Location: {script_dir}")
+                              f"Location: {self.output_folder}")
             
             # Reset cropping variables
             self.crop_start_page = None
@@ -329,38 +372,96 @@ class PDFViewer:
         elif event.keysym.lower() == "n":
             self.finish_crop()
 
-def main():
-    # Ask for PDF path at startup
-    root = tk.Tk()
-    root.withdraw()  # Hide main window temporarily
+def get_user_choice():
+    """Ask user how they want to provide the PDF path"""
+    print("PDF Viewer & Cropper")
+    print("=" * 30)
+    print("How would you like to provide the PDF file?")
+    print("1. Type the file path in terminal")
+    print("2. Browse and select file")
     
-    print("PDF Viewer & Cropper Starting...")
+    while True:
+        choice = input("\nEnter your choice (1 or 2): ").strip()
+        if choice in ['1', '2']:
+            return int(choice)
+        print("Please enter 1 or 2")
+
+def get_pdf_path_from_terminal():
+    """Get PDF path from user input"""
+    while True:
+        pdf_path = input("\nEnter the full path to your PDF file: ").strip().strip('"')
+        
+        if os.path.exists(pdf_path) and pdf_path.lower().endswith('.pdf'):
+            return pdf_path
+        elif os.path.exists(pdf_path):
+            print("Error: File exists but is not a PDF file!")
+        else:
+            print("Error: File not found!")
+        
+        retry = input("Try again? (y/n): ").strip().lower()
+        if retry != 'y':
+            return None
+
+def get_pdf_path_from_dialog():
+    """Get PDF path using file dialog"""
+    root = tk.Tk()
+    root.withdraw()  # Hide the root window
+    
     file_path = filedialog.askopenfilename(
         title="Select PDF file to open",
         filetypes=[("PDF files", "*.pdf"), ("All files", "*.*")]
     )
     
-    if not file_path:
-        print("No file selected. Exiting...")
+    root.destroy()
+    return file_path if file_path else None
+
+def get_output_folder():
+    """Ask user for output folder"""
+    print("\nOutput folder options:")
+    print("1. Select a custom output folder")
+    print("2. Auto-create folder (based on PDF name)")
+    
+    while True:
+        choice = input("Enter your choice (1 or 2): ").strip()
+        if choice == '1':
+            root = tk.Tk()
+            root.withdraw()
+            folder = filedialog.askdirectory(title="Select Output Folder for Cropped PDFs")
+            root.destroy()
+            return folder if folder else None
+        elif choice == '2':
+            return None  # Will auto-create
+        print("Please enter 1 or 2")
+
+def main():
+    print("PDF Viewer & Cropper Starting...")
+    
+    # Get user choice for PDF input method
+    choice = get_user_choice()
+    
+    # Get PDF path based on user choice
+    if choice == 1:
+        pdf_path = get_pdf_path_from_terminal()
+    else:
+        pdf_path = get_pdf_path_from_dialog()
+    
+    if not pdf_path:
+        print("No PDF file selected. Exiting...")
         return
     
-    # Show main window and create viewer
-    root.deiconify()
-    viewer = PDFViewer(root)
+    # Get output folder choice
+    output_folder = get_output_folder()
+    
+    # Create and start the GUI
+    root = tk.Tk()
+    viewer = PDFViewer(root, output_folder)
     
     # Load the selected PDF
-    try:
-        viewer.pdf_document = fitz.open(file_path)
-        viewer.total_pages = len(viewer.pdf_document)
-        viewer.current_page = 0
-        
-        filename = os.path.basename(file_path)
-        root.title(f"PDF Viewer & Cropper - {filename}")
-        
-        viewer.display_page()
-        
-    except Exception as e:
-        messagebox.showerror("Error", f"Failed to open PDF: {str(e)}")
+    viewer.load_pdf(pdf_path)
+    
+    print(f"\nPDF loaded: {os.path.basename(pdf_path)}")
+    print(f"Output folder: {viewer.output_folder}")
+    print("\nGUI started. Use the application window for navigation and cropping.")
     
     # Start the GUI
     root.mainloop()
