@@ -1,0 +1,405 @@
+{
+  "table_of_contents": [
+    {
+      "title": "5. Government by Amateurs",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          74.25,
+          121.81640625
+        ],
+        [
+          261.75,
+          121.81640625
+        ],
+        [
+          261.75,
+          138.83203125
+        ],
+        [
+          74.25,
+          138.83203125
+        ]
+      ]
+    },
+    {
+      "title": "REASONS FOR ADOPTING PARLIAMENTARY\nSYSTEM",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          104.291015625,
+          87.8818359375
+        ],
+        [
+          536.994140625,
+          87.8818359375
+        ],
+        [
+          536.994140625,
+          125.9736328125
+        ],
+        [
+          104.291015625,
+          125.9736328125
+        ]
+      ]
+    },
+    {
+      "title": "Table 12.1  Comparing Parliamentary and Presidential Systems",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          74.25,
+          224.68359375
+        ],
+        [
+          466.76953125,
+          224.68359375
+        ],
+        [
+          466.76953125,
+          241.69921875
+        ],
+        [
+          74.25,
+          241.69921875
+        ]
+      ]
+    },
+    {
+      "title": "1. Familiarity with the System",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          76.27587890625,
+          191.9091796875
+        ],
+        [
+          272.25,
+          191.9091796875
+        ],
+        [
+          272.25,
+          210.76171875
+        ],
+        [
+          76.27587890625,
+          210.76171875
+        ]
+      ]
+    },
+    {
+      "title": "2. Preference to More Responsibility",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          74.25,
+          327.357421875
+        ],
+        [
+          312.275390625,
+          327.357421875
+        ],
+        [
+          312.275390625,
+          345.919921875
+        ],
+        [
+          74.25,
+          345.919921875
+        ]
+      ]
+    },
+    {
+      "title": "3. Need to Avoid Legislative–Executive Conflicts",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          74.25,
+          498.09375
+        ],
+        [
+          387.87890625,
+          498.09375
+        ],
+        [
+          387.87890625,
+          516.65625
+        ],
+        [
+          74.25,
+          516.65625
+        ]
+      ]
+    },
+    {
+      "title": "4. Nature of Indian Society",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          74.25,
+          651.234375
+        ],
+        [
+          251.015625,
+          651.234375
+        ],
+        [
+          251.015625,
+          669.0234375
+        ],
+        [
+          74.25,
+          669.0234375
+        ]
+      ]
+    },
+    {
+      "title": "DISTINCTION BETWEEN INDIAN AND BRITISH\nMODELS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          105.0,
+          87.54345703125
+        ],
+        [
+          539.0859375,
+          87.54345703125
+        ],
+        [
+          539.0859375,
+          125.9736328125
+        ],
+        [
+          105.0,
+          125.9736328125
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          105.0,
+          619.5234375
+        ],
+        [
+          303.609375,
+          619.5234375
+        ],
+        [
+          303.609375,
+          635.765625
+        ],
+        [
+          105.0,
+          635.765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          6
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

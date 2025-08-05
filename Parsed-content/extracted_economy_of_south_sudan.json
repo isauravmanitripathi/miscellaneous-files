@@ -1,0 +1,208 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_south_sudan.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.980248",
+    "total_sections_in_source": 7,
+    "extracted_sections_count": 7,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of South Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• South Sudan became the world's newest country and Africa's 55th nation on 9 July 2011.",
+        "• The South Sudanese Civil War, which began in December 2013, severely undermined the economic development achieved since independence, complicating humanitarian efforts within the country.",
+        "• During its first 10 years after independence, South Sudan has experienced economic stagnation and instability.",
+        "• Widespread poverty in South Sudan is primarily due to inter-communal conflict, displacement, and the adverse effects of the war in Sudan on the country's oil industry.",
+        "• As of 2019, South Sudan's economy had a gross domestic product (GDP) of $3.681 billion.",
+        "• South Sudan's economy is highly dependent on oil, with 98% of the government's annual operating budget and 80% of the GDP derived from oil revenues.",
+        "• Despite its oil dependence, South Sudan is endowed with adequate natural resources, including very fertile agricultural land and vast quantities of livestock.",
+        "• The country's livestock population includes over 60 million cattle, sheep, and goats.",
+        "• Development in South Sudan is hindered by ongoing instability, unsatisfactory governance, and pervasive corruption.",
+        "• South Sudan remains mostly underdeveloped and is classified as one of the least developed countries globally.",
+        "• Most cities in South Sudan lack basic infrastructure such as electricity and running water.",
+        "• Overall infrastructure is severely lacking, with only 10,000 kilometers (6,200 miles) of paved roads in the entire country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:43.173663",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_south_sudan.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Natural resources",
+      "chapter_name": "Economy of South Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• South Sudan exports timber to the international market, with Western Equatoria, Central Equatoria, and parts of Eastern Equatoria such as Magwi being the states best known for teak and other natural trees used for timber.",
+        "• Teak plantations are located at Kegulu, while some of the oldest planted forest reserves include Kawale, Lijo, Loka West, and Nuni.",
+        "• Western Equatoria’s timber resources also include mvuba trees found at Zamoi.",
+        "• The River Nile is a major natural feature of South Sudan, with many of its tributaries originating within the country.",
+        "• South Sudan possesses a variety of natural resources including petroleum, iron ore, copper, chromium ore, zinc, tungsten, mica, silver, and gold, the latter notably found in the Kapoeta area of Eastern Equatoria.",
+        "• Hydropower is also a significant natural resource available in South Sudan.",
+        "• The economy of South Sudan is heavily dependent on agriculture, similar to many other developing countries.",
+        "• Agricultural products cultivated in South Sudan include cotton, groundnuts (peanuts), sorghum, millet, wheat, gum arabic, sugarcane, cassava (tapioca), mangos, papaya, maize, simsim, bananas, sweet potatoes, and sesame.",
+        "• A solar photovoltaic project near Juba, covering 250,000 square meters, is expected to become operational by late 2020 and aims to enhance solar power capacity in the country.",
+        "• This solar project comprises a 20 megawatt-peak (MWP) photovoltaic park, a 35 megawatt-hour battery storage system, and an in-house training center."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:45.831407",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_south_sudan.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Oil",
+      "chapter_name": "Economy of South Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to South Sudan's independence, the region produced 85% of Sudan's total oil output, making it the dominant oil-producing area within Sudan.",
+        "• According to the Comprehensive Peace Agreement (CPA), oil revenues were to be split equally between North and South Sudan for the duration of the agreement period.",
+        "• Since South Sudan relies on pipelines, refineries, and port facilities located in the Red Sea state of North Sudan, the CPA stipulated that the Khartoum government would receive a 50% share of all oil revenues.",
+        "• Oil revenues constitute more than 98% of the government of South Sudan's budget, as reported by the Ministry of Finance and Economic Planning of South Sudan.",
+        "• Since the signing of the CPA, oil revenues have amounted to more than $8 billion for the South Sudanese government.",
+        "• In recent years, foreign-based oil drilling activities have increased significantly in South Sudan, enhancing the geopolitical importance of the region.",
+        "• Oil and other mineral resources are distributed throughout South Sudan, with the area around Bentiu being especially rich in oil reserves.",
+        "• Potential oil reserves also exist in the states of Jonglei, Warrap, and Lakes.",
+        "• During the autonomy period from 2005 to 2011, Khartoum divided Sudan into oil blocks, with approximately 85% of the oil production coming from the South.",
+        "• Blocks 1, 2, and 4 are controlled by the Greater Nile Petroleum Operating Company (GNPOC), the largest overseas oil consortium operating in South Sudan.",
+        "• GNPOC’s ownership structure includes China National Petroleum Corporation (CNPC) with a 40% stake, Petronas of Malaysia with 30%, Oil and Natural Gas Corporation (ONGC) of India with 25%, and Sudapet (the central Sudan government’s oil company) with 5%.",
+        "• Due to Sudan’s designation as a state sponsor of terrorism by the United States and Khartoum’s insistence on receiving a share of profits from any international oil deals conducted by South Sudan, US oil companies are barred from doing business in South Sudan.",
+        "• Consequently, US oil companies have virtually no presence in South Sudan’s oil sector.",
+        "• Other producing blocks in South Sudan include Blocks 3 and 7, located in eastern Upper Nile state, which are controlled by Petrodar.",
+        "• Petrodar’s ownership is divided as follows: 41% CNPC, 40% Petronas, 8% Sudapet, 6% Sinopec Corporation, and 5% Al Thani.",
+        "• Another significant oil block in South Sudan, formerly known as Block B by the North Sudanese government, covers 90,000 square kilometers and was awarded to Total of France in the 1980s.",
+        "• Total has conducted limited work on Block B, citing \"force majeure\" as the reason for inactivity.",
+        "• Various factions of the Sudan People’s Liberation Movement (SPLM) distributed parts of Block B or the entire block to other parties in South Sudan before the Naivasha peace agreement.",
+        "• Several of these pre-Naivasha deals were rejected after SPLM/A leader Dr. John Garang de Mabior lost power.",
+        "• The CPA’s wealth-sharing provisions state that all oil agreements signed prior to the CPA remain valid and are not subject to review by the National Petroleum Commission (NPC).",
+        "• The NPC was established by the CPA and is composed of representatives from both Khartoum and South Sudan, co-chaired by President Omar al-Bashir of Sudan and President Salva Kiir of South Sudan.",
+        "• The CPA does not specify which parties are authorized to sign pre-CPA oil agreements, leading to some ambiguity.",
+        "• Reports indicate that the People’s Republic of China has offered South Sudan a line of credit to support the country while an alternative pipeline to the Kenyan coast is constructed and an export agreement with Kenya is negotiated.",
+        "• Despite this offer, continued dependence on Sudanese oil infrastructure remains the more likely scenario for South Sudan’s oil exports.",
+        "• If South Sudan successfully exports oil through Kenyan ports, the United States could become a potential trade partner and importer of South Sudanese oil.",
+        "• Meanwhile, the South Sudanese government intends to lobby the United States to ease restrictions on American companies doing business with Sudan, aiming to increase US involvement in the oil sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:49.523022",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_south_sudan.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of South Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• South Sudan has the second highest proportion of women working in agriculture, forestry, and fishing globally, highlighting the significant role of women in its agricultural sector.",
+        "• The country is endowed with abundant agricultural land and hosts one of the largest pastoralist populations worldwide, presenting substantial potential for agricultural development.",
+        "• Since 1999, when Sudan began exporting oil, South Sudan’s agricultural production has declined; the World Bank reports an average annual agricultural growth rate of only 3.6% between 2000 and 2008, significantly lower than the 10.8% growth rate recorded in the previous decade.",
+        "• A comprehensive satellite land cover survey by the UN Food and Agriculture Organization (FAO) revealed that only 4.5% of South Sudan’s available land was under cultivation at the time of its independence.",
+        "• South Sudan depends heavily on food imports from neighboring countries including Uganda, Kenya, and Sudan; these imports incur high transportation costs, which, combined with inflation, have caused dramatic increases in food prices within the country.",
+        "• The decline in domestic agricultural production and reliance on costly imported food have contributed to severe food shortages, with the United Nations’ food programme estimating that approximately 2.7 million South Sudanese required food aid in 2012.",
+        "• The South Sudanese government has prioritized agriculture and food security; Elizabeth Manoa Majok, undersecretary in the Ministry of Commerce, Industry and Investment, stated that food production is a top government priority.",
+        "• The Ministry of Agriculture set a target to increase food production to two million metric tons annually by 2013, aiming to attract agricultural investors from Gulf Arab states, Israel, China, the Netherlands, and other African countries to boost production of sugar, rice, cereals, oilseeds, livestock, and cotton.",
+        "• In June 2011, Vice-President Riek Machar Teny announced a plan to mobilize $500 billion in foreign investment over the first five years of independence, with a significant focus on agriculture to diversify the economy and create employment for the large unemployed population.",
+        "• The FAO developed a $50 million Interim Assistance Plan (IAP) for the agricultural sector to build capacity in ministerial and state agricultural extension offices, establish a seed production sector, and promote urban and peri-urban agriculture.",
+        "• Smallholder farmers produce 80% of South Sudan’s cereals but face major challenges including high transport costs, lack of agricultural inputs, and underdeveloped extension services.",
+        "• Despite these challenges, the government has prioritized large-scale, private sector-led industrial agricultural schemes over developing smallholder agricultural extension services to increase food production.",
+        "• Donor countries advocate industrial farming as the key to improving food security; for instance, the United States Agency for International Development (USAID) collaborates with Citibank, the International Finance Corporation (IFC), and the Corporate Council on Africa to help South Sudan market its resources and attract private capital in agriculture.",
+        "• The intended outcomes of such investments include stimulating rural development, generating employment, increasing food productivity, providing sustainable government revenue, and diversifying the economy.",
+        "• Concerns exist that benefits from large-scale agricultural investments may accrue to a small transnational elite, potentially marginalizing rural poor communities by displacing them onto less fertile lands, thereby exacerbating food insecurity, social unrest, and conflict.",
+        "• Nina Pedersen, manager of Norwegian People's Aid (NPA)’s Civil Society Development Project, expressed concern that in the rush to attract foreign investment, negotiators may not have fully understood the value of the land being sold.",
+        "• Prior to South Sudan’s independence, from 2007 onwards, private interests sought or secured 5.15 million hectares of land (over 8% of South Sudan’s total land area) for agriculture, biofuels, forestry, carbon credits, and ecotourism, according to NPA.",
+        "• One major investor, Egyptian private equity firm Citadel Capital, leased 259,500 acres for farming; this plantation employs mostly Zimbabweans and provides minimal local employment.",
+        "• The Ugandan Madhvani Group signed a preliminary agreement with the South Sudanese government to revitalize a government-owned sugar plantation and processing facility in Mangala Payam, covering 10,000 hectares of prime Nile riverfront land approximately 70 kilometers north of Juba; local communities, including the paramount chief, reported no involvement in investment negotiations.",
+        "• Due to concerns over foreign exploitation, organizations such as Oxfam International (OI) and Norwegian People's Aid (NPA) have called for a moratorium on new land deals until a comprehensive regulatory framework is established.",
+        "• South Sudan’s Land Commission, led by Robert Lado, is advocating for land administration at county and sub-county levels to be managed by community members, including women and tribal elders, to ensure more inclusive and equitable land governance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:54.175035",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_south_sudan.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of South Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, the World Bank approved a four-year investment loan amounting to US$38 million to South Sudan's Ministry of Roads and Bridges, aimed at constructing rural and inter-urban roads and highways to improve transportation infrastructure.",
+        "• Access to clean water remains a significant challenge for a large portion of South Sudan’s population, indicating ongoing infrastructural and public health issues.",
+        "• South Sudan has limited telecommunications services provided by operators such as MTN Group, formerly known as Investcom, but currently lacks the infrastructure necessary to offer high-speed Internet connectivity.",
+        "• In September 2022, South Sudan and Djibouti signed an agreement to install a fibre optic cable linking Djibouti to South Sudan’s capital, Juba, with the cable route passing through Ethiopia, marking a significant step toward enhancing the country’s digital infrastructure.",
+        "• In March 2015, the South Sudanese minister for telecommunications and postal services announced government plans to deploy 1,600 kilometers of fiber-optic cable nationwide within two years, aiming to expand the country’s telecommunications network.",
+        "• The South Sudanese government intends to connect the domestic fiber-optic network to international undersea cables by utilizing existing infrastructure in neighboring countries Uganda and Tanzania, facilitating improved regional and global internet connectivity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:42.859603",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_south_sudan.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Currency",
+      "chapter_name": "Economy of South Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1992, the Sudanese Pound replaced the dinar as the official currency of Sudan.",
+        "• Prior to a referendum, South Sudan was set to be the first region to use the new currency, which was to be nicknamed \"the Sudani.\"",
+        "• David Deng Athorbie, the inaugural Finance Minister of South Sudan, announced the creation of the South Sudanese pound.",
+        "• The South Sudanese pound was scheduled to be introduced and go into effect one week after South Sudan's independence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:39.789898",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_south_sudan.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4",
+      "section_name": "East African Community membership",
+      "chapter_name": "Economy of South Sudan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Upon South Sudan's independence in 2011, the presidents of Kenya and Rwanda invited the Autonomous Government of Southern Sudan to apply for membership in the East African Community (EAC), with South Sudan reportedly an applicant country by mid-July 2011.",
+        "• By early October 2011, South Sudan was officially expected to become a future member of the EAC, with analysts noting Juba's efforts to integrate infrastructure such as rail links and oil pipelines with Kenya and Uganda, signaling a strategic pivot away from dependence on Sudan towards the EAC.",
+        "• Reuters identified South Sudan as the likeliest candidate for short-term EAC expansion, and Tanzanian daily The Citizen reported East African Legislative Assembly Speaker Abdirahin Haithar Abdi stating South Sudan was \"free to join the EAC,\" with analysts anticipating imminent full membership.",
+        "• On 17 September 2011, the Daily Nation quoted a South Sudanese MP expressing concerns that South Sudan’s economy was not sufficiently developed to compete with existing EAC members and risked becoming a \"dumping ground\" for Kenyan, Tanzanian, and Ugandan exports, suggesting a likely delay in membership.",
+        "• Contradicting the MP's view, President Salva Kiir announced in October 2011 that South Sudan had officially embarked on the EAC membership application process.",
+        "• The EAC initially deferred South Sudan’s application in December 2012, with political tensions arising from incidents involving Ugandan boda-boda operators in South Sudan potentially delaying the process further.",
+        "• In December 2012, Tanzania officially agreed to South Sudan’s bid to join the EAC, clearing a significant hurdle for South Sudan to become the regional bloc’s sixth member.",
+        "• In May 2013, the EAC allocated $82,000 to support South Sudan’s admission process, although actual admission was not expected until 2016, with the process projected to take at least four years starting after the EAC Council of Ministers meeting in August 2013.",
+        "• At the 14th Ordinary Summit held in Nairobi in 2012, EAC heads of state approved the verification report on South Sudan’s application and directed the commencement of negotiation processes with South Sudan.",
+        "• A team was formed to assess South Sudan’s bid; however, in April 2014, South Sudan requested a delay in the admissions process, likely due to the outbreak of the South Sudanese Civil War.",
+        "• South Sudan’s Minister of Foreign Affairs, Barnaba Marial Benjamin, stated publicly in October 2015 that after multiple evaluations and meetings of a special technical committee between May and October 2015, the committee recommended South Sudan be allowed to join the EAC, though these recommendations had not yet been officially released.",
+        "• Reports indicated that South Sudan could be admitted as early as November 2015 during the summit meeting of East African heads of state.",
+        "• South Sudan was ultimately approved for membership in the East African Community in March 2016 and formally acceded to the EAC with the signing of the treaty in April 2016."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:02:51.873120",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_south_sudan.json",
+      "original_index": 6
+    }
+  ]
+}

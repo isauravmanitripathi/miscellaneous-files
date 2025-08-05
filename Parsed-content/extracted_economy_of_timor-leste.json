@@ -1,0 +1,253 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_timor-leste.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.266336",
+    "total_sections_in_source": 10,
+    "extracted_sections_count": 9,
+    "skipped_sections_count": 1
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Timor-Leste is classified as a lower-middle income economy according to the World Bank's ranking.",
+        "• Timor-Leste is ranked 140th on the Human Development Index, reflecting a medium level of human development within the country.",
+        "• The unemployment rate in Timor-Leste stands at 20%, indicating significant challenges in labor market absorption.",
+        "• A substantial portion of the population, specifically 52.9%, lives on less than $1.25 per day, highlighting widespread poverty.",
+        "• Approximately half of Timor-Leste’s population is illiterate, underscoring major educational deficits.",
+        "• The urbanisation rate in Timor-Leste is 27%, which is among the lowest urbanisation rates globally.",
+        "• In 2007, Timor-Leste experienced a major food crisis triggered by a poor harvest, severely impacting food security.",
+        "• By November 2007, eleven sub-districts in Timor-Leste still required food assistance supplied by international aid organizations.",
+        "• Data from the 2010 census reveals that 87.7% of urban households in Timor-Leste have access to electricity.",
+        "• In contrast, only 18.9% of rural households have electricity, resulting in an overall national average electricity access rate of 36.7%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:19.334757",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to and during colonisation, the island of Timor was primarily known for its sandalwood, which was a significant natural resource during that period.",
+        "• The Portuguese colonial administration granted concessions to the Oceanic Exploration Corporation to develop oil and gas deposits in Timor, indicating early interest in petrochemical resources.",
+        "• The development of oil and gas deposits by Oceanic Exploration Corporation was curtailed following the Indonesian invasion of Timor in 1976.",
+        "• The Timor Gap Treaty, signed in 1989 between Indonesia and Australia, divided petrochemical resources in the Timor Gap area, which was a maritime boundary gap left by then-Portuguese Timor in the 1972 maritime boundary agreement.",
+        "• The Timor Gap Treaty established guidelines for joint exploitation of seabed resources in the Timor Gap, with revenues from the joint area to be divided equally, 50-50, between Indonesia and Australia.",
+        "• In 1992, Woodside Petroleum and ConocoPhillips began developing some oil and gas resources in the Timor Gap on behalf of the Indonesian and Australian governments under the terms of the treaty.",
+        "• In late 1999, approximately 70% of Timor-Leste’s economic infrastructure was destroyed by Indonesian troops and anti-independence militias, severely damaging the country’s economy and infrastructure.",
+        "• During the 1999 crisis, 260,000 people fled westward from Timor-Leste, creating a significant refugee situation.",
+        "• From 2002 to 2005, an international reconstruction program led by the United Nations, staffed by civilian advisers, 5,000 peacekeepers (peaking at 8,000), and 1,300 police officers, substantially rebuilt Timor-Leste’s destroyed infrastructure.",
+        "• By mid-2002, nearly all refugees had returned to Timor-Leste, with only about 50,000 remaining displaced.",
+        "• The economy of Timor-Leste experienced growth of approximately 10% in 2011 and maintained a similar growth rate in 2012, reflecting post-conflict economic recovery.",
+        "• Despite revenue generated from offshore oil and gas reserves, Timor-Leste has invested little of this income in the development of rural villages, where subsistence farming remains the primary livelihood.",
+        "• As of 2012, nearly half of the East Timorese population was living in extreme poverty, highlighting ongoing socio-economic challenges despite natural resource wealth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:23.946237",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Data",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1993, Timor-Leste's nominal GDP was US$0.36 billion with a GDP per capita of US$480; no data available for GDP in PPP, growth rates, inflation, or government debt.",
+        "• In 1994, nominal GDP increased to US$0.43 billion and GDP per capita rose to US$561; other economic indicators remain unreported.",
+        "• By 1995, nominal GDP reached US$0.50 billion and GDP per capita was US$658; no additional economic data provided.",
+        "• In 1996, nominal GDP grew to US$0.61 billion with GDP per capita at US$801; no further economic statistics are available.",
+        "• The year 1997 saw nominal GDP at US$0.71 billion and GDP per capita at US$926; no data on PPP GDP, growth, inflation, or government debt.",
+        "• In 1998, nominal GDP sharply declined to US$0.25 billion and GDP per capita dropped to US$328; other economic metrics are not listed.",
+        "• The nominal GDP and GDP per capita remained stable in 1999 at US$0.25 billion and US$328 respectively, with no additional data.",
+        "• In 2000, GDP in PPP terms was recorded at US$1.1 billion, nominal GDP at US$0.37 billion, and GDP per capita at US$415; no data on growth, inflation, or debt.",
+        "• For 2001, GDP (PPP) increased to US$1.3 billion, nominal GDP to US$0.48 billion, and GDP per capita to US$530; other economic indicators are missing.",
+        "• In 2002, GDP (PPP) slightly decreased to US$1.2 billion, nominal GDP was US$0.47 billion, and GDP per capita was US$508; no further data provided.",
+        "• The year 2003 showed GDP (PPP) stable at US$1.2 billion, nominal GDP at US$0.49 billion, and GDP per capita at US$517; other figures are absent.",
+        "• In 2004, GDP (PPP) rose to US$1.3 billion, nominal GDP decreased to US$0.44 billion, and GDP per capita dropped to US$453; no additional data available.",
+        "• For 2005, GDP (PPP) was US$1.4 billion, nominal GDP US$0.46 billion, and GDP per capita US$464; other economic details are not reported.",
+        "• In 2006, GDP (PPP) decreased to US$1.3 billion, nominal GDP was US$0.45 billion, and GDP per capita was US$446; no further data provided.",
+        "• The year 2007 recorded GDP (PPP) at US$1.5 billion, nominal GDP at US$0.54 billion, and GDP per capita at US$523; no data on growth, inflation, or debt.",
+        "• In 2008, GDP (PPP) increased to US$1.7 billion, nominal GDP to US$0.65 billion, and GDP per capita to US$614; other economic indicators remain unreported.",
+        "• For 2009, GDP (PPP) was US$1.9 billion, nominal GDP US$0.73 billion, and GDP per capita US$676; no additional data available.",
+        "• In 2010, GDP (PPP) rose to US$2.1 billion, nominal GDP to US$0.88 billion, and GDP per capita to US$806; no further economic statistics are provided.",
+        "• The year 2011 saw GDP (PPP) at US$2.3 billion, nominal GDP at US$1.04 billion, and GDP per capita at US$936; other data points are missing.",
+        "• In 2012, GDP (PPP) increased to US$2.7 billion, nominal GDP to US$1.16 billion, and GDP per capita to US$1,024; no data on growth, inflation, or debt.",
+        "• For 2013, GDP (PPP) was US$2.9 billion, nominal GDP US$1.40 billion, and GDP per capita US$1,210; other economic indicators are not listed.",
+        "• In 2014, GDP (PPP) reached US$3.2 billion, nominal GDP was US$1.45 billion, and GDP per capita was US$1,232; no further data provided.",
+        "• The year 2015 recorded GDP (PPP) at US$3.5 billion, nominal GDP at US$1.59 billion, and GDP per capita at US$1,332; no additional economic data available.",
+        "• In 2016, GDP (PPP) rose to US$3.8 billion, nominal GDP to US$1.65 billion, and GDP per capita to US$1,353; other figures remain unreported.",
+        "• For 2017, GDP (PPP) slightly increased to US$3.9 billion, nominal GDP decreased to US$1.62 billion, and GDP per capita declined to US$1,299; no further data provided.",
+        "• In 2018, GDP (PPP) was US$4.0 billion, nominal GDP was US$1.58 billion, and GDP per capita was US$1,249; no additional economic statistics are available.",
+        "• The year 2019 showed a significant increase in GDP (PPP) to US$5.0 billion, nominal GDP rose to US$2.05 billion, and GDP per capita increased to US$1,583; other data points are missing.",
+        "• In 2020, GDP (PPP) surged to US$6.7 billion, nominal GDP decreased to US$1.90 billion, and GDP per capita declined to US$1,442; no data on growth, inflation, or government debt.",
+        "• For 2021, GDP (PPP) increased to US$7.3 billion, nominal GDP remained at US$1.90 billion, and GDP per capita stayed at US$1,442; other economic indicators are not reported.",
+        "• In 2022, GDP (PPP) rose substantially to US$9.4 billion, nominal GDP increased to US$2.45 billion, and GDP per capita grew to US$1,793; no further data provided.",
+        "• The year 2023 recorded a decrease in GDP (PPP) to US$5.1 billion, nominal GDP at US$1.99 billion, and GDP per capita at US$1,425; no data on real GDP growth, inflation, or government debt is available for this year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:42.487351",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 31
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Industries",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the World Bank's Doing Business 2013 report, Timor-Leste was ranked 169th overall globally and was the lowest-ranked country in the East Asia and Pacific region.",
+        "• Timor-Leste ranked last worldwide in the categories of \"registering property,\" \"enforcing contracts,\" and \"resolving insolvency\" according to the 2013 Doing Business report.",
+        "• By 2020, Timor-Leste's Doing Business ranking had declined further to 181st globally.",
+        "• Timor-Leste does not have any patent laws in place, indicating a lack of formal intellectual property protection.",
+        "• In terms of telecommunications infrastructure, Timor-Leste was the second lowest-ranked Asian country in the World Economic Forum's Network Readiness Index (NRI), with only Myanmar ranking lower in Southeast Asia.",
+        "• In the 2014 NRI, Timor-Leste was ranked 141st overall, which was a decline from its 2013 position of 134th.",
+        "• Timor-Leste is a member of the Timor Leste–Indonesia–Australia Growth Triangle (TIA-GT), a regional economic cooperation initiative involving these three countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:17.389994",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agriculture sector in Timor-Leste employs 80% of the country's active population, highlighting its central role in the economy and livelihoods.",
+        "• In 2009, approximately 67,000 households in Timor-Leste were engaged in coffee cultivation, with a significant proportion of these households classified as poor.",
+        "• The gross margins for coffee production are currently about $120 per hectare, with labor returns estimated at approximately $3.70 per labor-day.",
+        "• As of 2009, there were 11,000 households growing mung beans, predominantly through subsistence farming methods.",
+        "• Domestic fish catch in Timor-Leste is predominantly ocean-based, with 94% of the catch coming from coastal fisheries.",
+        "• About 66% of families in Timor-Leste partially rely on subsistence activities such as fishing and small-scale agriculture for their support.",
+        "• Despite these subsistence activities, Timor-Leste does not produce sufficient food to be self-sustaining and depends on food imports to meet domestic demand.",
+        "• The primary crops cultivated in Timor-Leste include coffee, rice, maize, coconuts, cassava, soybeans, bananas, mangoes, and sweet potatoes.",
+        "• In 2019, Timor-Leste produced 5,014 metric tons of avocados, ranking it 42nd globally in avocado production.",
+        "• Coffee is the second largest export commodity after petroleum, generating approximately $10 million annually for Timor-Leste.",
+        "• In 2012, Timor-Leste harvested 9,000 tonnes of coffee, 108 tonnes of cinnamon, and 161 tonnes of cocoa.",
+        "• Based on 2012 production figures, Timor-Leste was ranked 40th worldwide in coffee production, 6th in cinnamon production, and 50th in cocoa production.",
+        "• In 2019, Timor-Leste produced 186 metric tons of cocoa beans, ranking 48th globally in cocoa production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:20.671037",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.1.1",
+      "section_name": "Oil and gas",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Portuguese colonial administration granted concessions to the Australia-bound Oceanic Exploration Corporation to develop petroleum and natural gas deposits in the waters southeast of Timor, but this development was curtailed by the Indonesian invasion in 1976.",
+        "• The Timor Gap Treaty of 1989 divided the petroleum and natural gas resources between Indonesia and Australia, leaving Timor-Leste with no permanent maritime boundaries upon its independence.",
+        "• Upon independence on 20 May 2002, Timor-Leste and Australia signed the Timor Sea Treaty, establishing a Joint Petroleum Development Area (JPDA) where Timor-Leste received 90% of revenues from existing projects, and Australia received 10%.",
+        "• A 2005 agreement between Timor-Leste and Australia mandated that both countries set aside their maritime boundary dispute, granting Timor-Leste 50% of revenues from resource exploitation in the Greater Sunrise development, estimated at A$26 billion (approximately US$20 billion) over the project’s lifetime.",
+        "• In 2013, Timor-Leste initiated a case at the Permanent Court of Arbitration in The Hague to withdraw from a gas treaty with Australia, accusing the Australian Secret Intelligence Service (ASIS) of bugging the East Timorese cabinet room in Dili in 2004.",
+        "• At independence, Timor-Leste’s per capita natural wealth was equivalent to that of an upper-middle income country, with over half of this wealth in oil and over a quarter in natural gas.",
+        "• The Timor-Leste Petroleum Fund was established in 2005 to convert non-renewable resource wealth into sustainable financial assets; by 2009, the fund was valued at US$4.8 billion and grew to US$8.7 billion by 2011.",
+        "• The International Monetary Fund (IMF) has labeled Timor-Leste as the \"most oil-dependent economy in the world.\"",
+        "• The Petroleum Fund finances nearly all of the government’s annual budget, which increased from $70 million in 2004 to $1.3 billion in 2011, with a proposed budget of $1.8 billion for 2012.",
+        "• East Timor’s income from oil and gas was expected to increase significantly after canceling a controversial agreement with Australia that had given Australia half of the oil and gas income since 2006.",
+        "• From 2005 to 2021, $23 billion earned from oil sales was deposited into the Petroleum Fund; $8 billion was generated from investments, while $12 billion was withdrawn and spent.",
+        "• A decline in oil and gas reserves contributed to a decreasing Human Development Index (HDI) beginning in 2010.",
+        "• As of 2021, 80% of government spending was financed by the Petroleum Fund, which held $19 billion—approximately ten times the size of the national budget.",
+        "• Due to decreasing oil income, the Petroleum Fund is at risk of depletion, with withdrawals exceeding sustainable levels almost every year since 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:26.913903",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.1.2",
+      "section_name": "Electricity",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Electricidade De Timor-Leste (EDTL) operates as the vertically integrated monopoly responsible for both the generation and distribution of electric power within the on-grid areas of Timor-Leste."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:18.827495",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Timor-Leste received a total of 75,000 tourists visiting the country.",
+        "• Since the late 2010s, there has been a noticeable increase in tourism within Timor-Leste.",
+        "• Corresponding to the growth in tourism, the number of hotels and resorts in Timor-Leste has also increased.",
+        "• The government of Timor-Leste made a strategic decision to invest in the expansion of the international airport located in Dili to support and facilitate the growing tourism sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:21.479618",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Oil and gas",
+      "chapter_name": "Economy of Timor-Leste",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In May 2017, protesters in Brisbane demonstrated against Australia’s claim on East Timorese oil, highlighting ongoing tensions over maritime resource rights between the two countries.",
+        "• A significant long-term economic project for Timor-Leste involves the joint development of petroleum and natural gas resources in the waters southeast of the country, in cooperation with Australia.",
+        "• Upon gaining independence, Timor-Leste inherited no permanent maritime boundaries and repudiated the Timor Gap Treaty as illegal, necessitating new agreements to manage resource exploitation.",
+        "• The Timor Sea Treaty, signed in 2002 when Timor-Leste became independent, established a provisional Joint Petroleum Development Area (JPDA) and allocated 90% of revenues from existing projects within the JPDA to Timor-Leste and 10% to Australia.",
+        "• The Greater Sunrise gas field, the largest petroleum resource in the Timor Sea, represents the first major new development in the JPDA since independence; it was subject to separate agreements in 2003 and 2005.",
+        "• Only 20% of the Greater Sunrise gas field lies within the JPDA, with the remaining 80% located in waters outside the treaty area but claimed by both Timor-Leste and Australia, complicating revenue sharing.",
+        "• An initial temporary agreement allocated 82% of Greater Sunrise revenues to Australia and only 18% to Timor-Leste, reflecting the contested nature of the field’s maritime boundaries.",
+        "• Timor-Leste’s government has pursued negotiation of a permanent maritime boundary with Australia based on the equidistant or halfway line principle, consistent with the United Nations Convention on the Law of the Sea (UNCLOS).",
+        "• Australia preferred to establish the maritime boundary at the edge of its extensive continental shelf, as previously agreed with Indonesia in 1972 and 1991, creating a conflicting claim with Timor-Leste’s position.",
+        "• Typically, maritime boundary disputes would be resolved by the International Court of Justice or the International Tribunal for the Law of the Sea; however, Australia withdrew from these jurisdictions specifically regarding maritime boundary matters shortly before Timor-Leste’s independence.",
+        "• Under increasing public and diplomatic pressure, Australia made a last-minute concession in 2005, agreeing to share royalties from the Greater Sunrise gas field equally with Timor-Leste, setting aside the broader boundary dispute temporarily.",
+        "• The 2005 agreement granted Timor-Leste 50% of the revenues from the Greater Sunrise development, with estimated total revenues of approximately A$26 billion (about US$20 billion) over the project’s lifetime.",
+        "• Despite the 2005 agreement, Australia continues to unilaterally exploit other petroleum developments located in waters claimed by Timor-Leste but outside the JPDA, specifically the Laminaria-Corallina and Buffalo fields.",
+        "• Timor-Leste allocates a portion of its petroleum royalty proceeds to its sovereign wealth fund, known as the Timor-Leste Petroleum Fund, to manage and preserve resource revenues for future generations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:33.977824",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_timor-leste.json",
+      "original_index": 9
+    }
+  ]
+}

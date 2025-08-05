@@ -1,0 +1,349 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_slovakia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.910566",
+    "total_sections_in_source": 14,
+    "extracted_sections_count": 14,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Slovakia is fundamentally shaped by its accession to the European Union in 2004 and its adoption of the euro currency at the beginning of 2009.",
+        "• Bratislava, the capital city of Slovakia, serves as the largest financial centre within the country.",
+        "• As of the first quarter of 2018, Slovakia's unemployment rate stood at 5.72%.",
+        "• Between 1970 and 1985, real incomes in Slovakia increased by approximately 50%, but these incomes declined during the 1990s.",
+        "• Slovakia's gross domestic product (GDP) only recovered to its 1989 level by the year 2007.",
+        "• From 2000 until 2008, Slovakia experienced very strong GDP growth, exemplified by a 10.4% GDP growth rate in 2007.",
+        "• Due to this rapid economic expansion, the Slovak economy earned the nickname \"Tatra Tiger.\""
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:11.926175",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the establishment of the Slovak Republic in January 1993, Slovakia transitioned from a centrally planned economy to a free market economy, a process perceived by some observers as slowed during the 1994–98 period due to crony capitalism and fiscal policies under Prime Minister Vladimír Mečiar's government.",
+        "• During Mečiar's term, economic growth and fundamentals improved steadily, but public and private debt, as well as trade deficits, increased, and the privatization process was uneven.",
+        "• Real annual GDP growth peaked at 6.5% in 1995 but declined to 1.3% by 1999.",
+        "• Two governments led by \"liberal-conservative\" Prime Minister Mikuláš Dzurinda (1998–2006) implemented macroeconomic stabilization and market-oriented structural reforms.",
+        "• Nearly the entire Slovak economy was privatized under Dzurinda’s governments, and foreign investment increased significantly.",
+        "• Despite recessions in key export markets, economic growth exceeded expectations in the early 2000s.",
+        "• Macroeconomic stabilization and structural reforms in 2001 led to spiraling unemployment, which peaked at 19.2% according to Eurostat regional indicators in 2001.",
+        "• Solid domestic demand contributed to economic growth of 4.1% in 2002.",
+        "• Strong export growth pushed GDP growth to 4.2% in 2003 and 5.4% in 2004, despite a downturn in household consumption.",
+        "• Multiple factors contributed to a GDP growth rate of 6% in 2005.",
+        "• Headline consumer price inflation decreased from 26% in 1993 to an average of 7.5% in 2004, although this rate was temporarily elevated by increases in subsidized utilities prices ahead of Slovakia’s accession to the European Union.",
+        "• Inflation dropped to 2.0% in July 2005 and was projected to remain below 3% in 2005 and at 2.5% in 2006.",
+        "• In 2006, Slovakia achieved the highest economic growth rate among OECD members at 8.9%, and the third highest in the European Union, behind Estonia and Latvia.",
+        "• The country faced challenges in addressing regional disparities in wealth and employment, with GDP per capita ranging from 188% of the EU average in Bratislava to only 54% in Eastern Slovakia.",
+        "• Approximately 10% of the Slovak labor force were expatriates in 2014.",
+        "• Slovakia had one of the highest levels of long-term unemployment in Europe, with 7.1% of the labor force unemployed for more than one year in 2017.",
+        "• Small and medium-sized enterprises (SMEs) constitute 99.9% of all Slovak firms and account for 73.3% of all jobs in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:23.390569",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Foreign investments",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Foreign direct investment (FDI) in Slovakia has experienced a dramatic increase, driven by factors such as cheap and skilled labor, a 19% flat tax rate applicable to both businesses and individuals, absence of dividend taxes, a weak labor code, and Slovakia’s favorable geographical location.",
+        "• From the year 2000, FDI inflow grew by more than 600%, cumulatively reaching an all-time high of US$17.3 billion by the end of 2006, which equates to approximately $18,000 per capita.",
+        "• In 2006 alone, the total inflow of FDI into Slovakia amounted to $2.54 billion.",
+        "• In October 2005, Slovakia introduced new investment incentives aimed at creating more favorable conditions for IT and research centers, particularly encouraging their establishment in the eastern part of the country where unemployment rates are higher; these incentives focused on attracting investments that add higher value and are not logistically demanding.",
+        "• The origin of foreign investments between 1996 and 2005 was predominantly from the Netherlands (24.3%), followed by Germany (19.4%), Austria (14.1%), Italy (7.5%), and the United States as the 8th largest investor contributing 4.0%.",
+        "• The top foreign investors by company included Deutsche Telekom (Germany), Neusiedler (Austria), Gaz de France (France), Gazprom (Russia), U.S. Steel (United States), MOL (Hungary), ENEL (Italy), and E.ON (Germany).",
+        "• Distribution of foreign investment by sector during this period showed industry receiving 38.4%, banking and insurance 22.2%, wholesale and retail trade 13.1%, production of electricity, gas, and water 10.5%, and transport and telecommunications 9.2%.",
+        "• Foreign direct investment \"on green field\" projects recorded inflows of US$756 million in 2003, US$1,261 million in 2004, and US$1,908 million in 2005; outflows were US$22 million in 2003, US$144 million in 2004, and US$146 million in 2005.",
+        "• Brigita Schmögnerová, Slovakia’s former minister of finance (1998–2002), highlighted a regional consensus among leaders on social dumping, noting that since the European Union enlargement, foreign companies have sought the cheapest labor, prompting governments in the region to compete by offering the lowest possible tax levels.",
+        "• Slovakia became the first OECD country to implement a full flat tax rate of 19% on both corporate profits and personal income or consumer goods upon joining the European Union in 2004.",
+        "• The adoption of a flat tax system without progressivity has contributed to a sharp increase in income inequality in Slovakia.",
+        "• Public spending on health, education, and housing in Slovakia remains below the European Union average."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:17.428210",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Services",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The service sector in Slovakia experienced rapid growth over the last decade, significantly expanding its role in the national economy.",
+        "• Currently, approximately 69% of Slovakia's population is employed within the service sector, indicating its dominant position in the labor market.",
+        "• The service sector contributes over 61% to Slovakia's Gross Domestic Product (GDP), underscoring its critical importance to the country's economic output.",
+        "• Slovakia's tourism industry has shown a notable upward trend in recent years, reflecting increased attractiveness and development in this sector.",
+        "• Tourism income in Slovakia doubled between 2001 and 2005, rising from US$640 million in 2001 to US$1.2 billion in 2005, demonstrating significant growth in revenue generation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:10.792019",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Slovakia underwent significant industrialization primarily in the second half of the 20th century, focusing on heavy industry such as coal mining, machinery production, and steel manufacturing.",
+        "• The development of heavy industry in Slovakia was strategically motivated, as the region was less vulnerable to military threats compared to the western parts of former Czechoslovakia.",
+        "• Following the end of the Cold War, the prominence of industry, particularly heavy industry, diminished considerably in Slovakia.",
+        "• In 2010, the industrial sector, including construction, contributed 35.6% to Slovakia’s Gross Domestic Product (GDP), a notable decrease from 49% in 1990.",
+        "• Presently, Slovakia leverages its long-standing industrial tradition and a highly skilled labor force to focus on growth sectors such as automotive, electronics, mechanical engineering, chemical engineering, and information technology.",
+        "• The automotive industry is one of the fastest-growing sectors in Slovakia, driven by substantial investments from major companies including Volkswagen in Bratislava, Peugeot in Trnava, Kia Motors in Žilina, and since 2018, Jaguar Land Rover in Nitra.",
+        "• In 2016, Slovakia produced 1,040,000 passenger cars, making it the largest automobile producer per capita worldwide.",
+        "• Other significant industrial enterprises in Slovakia encompass U.S. Steel (metallurgy), Slovnaft (oil industry), Samsung Electronics (electronics), Foxconn (electronics), Mondi SCP (paper production), Slovalco (aluminum production), Hyundai Mobis (automotive components), Continental Matador (automotive), and Whirlpool Corporation.",
+        "• Machinery exports were a major component of Slovakia’s trade economy, accounting for more than 50% of the country’s exports in 2006."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:12.753298",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Largest companies by revenue",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Volkswagen Slovakia is the largest company by revenue in Slovakia, generating EUR 9,735 million.",
+        "• Kia Motors Slovakia ranks second among Slovak companies, with a revenue of EUR 6,759 million.",
+        "• Slovnaft, a major player in the Slovak economy, reported revenues amounting to EUR 6,018 million.",
+        "• Slovenské elektrárne, an important energy company, achieved revenues of EUR 4,968 million.",
+        "• U. S. Steel Košice, a significant steel producer in Slovakia, recorded revenues of EUR 4,023 million.",
+        "• Slovenský plynárenský priemysel, a key natural gas company, reported revenues of EUR 3,955 million.",
+        "• Stellantis Slovakia, an automotive manufacturer, generated EUR 3,659 million in revenue.",
+        "• Všeobecná zdravotná poisťovňa, a major health insurance company, earned revenues of EUR 3,478 million.",
+        "• ZSE Energia, an energy supplier, reported revenues totaling EUR 2,330 million.",
+        "• DÔVERA zdravotná poisťovňa, another health insurance provider, recorded revenues of EUR 1,902 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:17.388201",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Largest companies by profit",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• SPP Infrastructure is the largest company by profit in Slovakia, reporting a profit of EUR 462 million.",
+        "• Slovnaft Eustream follows with a profit of EUR 415 million, making it the second most profitable company in Slovakia.",
+        "• U. S. Steel Košice ranks third with a profit of EUR 333 million, indicating significant industrial profitability.",
+        "• B.M.G. INVEST holds the fourth position with a profit of EUR 298 million.",
+        "• Eustream [sk], distinct from Slovnaft Eustream, reports a profit of EUR 265 million, placing it fifth among the largest companies by profit.",
+        "• Slovenská sporiteľňa, a major financial institution, earned a profit of EUR 245 million, ranking sixth.",
+        "• Slovalco, an industrial company, achieved a profit of EUR 207 million, securing the seventh spot.",
+        "• Volkswagen Slovakia, a key player in the automotive sector, reported a profit of EUR 202 million, ranking eighth.",
+        "• NAFTA (company) [sk] and Tatra banka both reported profits of EUR 200 million, sharing the ninth position in profitability.",
+        "• Závody ťažkého strojárstva Dubnica nad Váhom, akciová spoločnosť v konkurze [sk], a heavy engineering company in bankruptcy proceedings, earned a profit of EUR 184 million, ranking eleventh.",
+        "• Kia Motors Slovakia, another automotive manufacturer, reported a profit of EUR 176 million, placing twelfth.",
+        "• J&T FINANCE GROUP [sk], a financial group, earned a profit of EUR 164 million, ranking thirteenth.",
+        "• HORIZONT SLOVAKIA, with a profit of EUR 162 million, is fourteenth on the list.",
+        "• Lidl Slovenská republika, a retail company, reported a profit of EUR 153 million, rounding out the top fifteen largest companies by profit in Slovakia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:17.439057",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "5",
+      "section_name": "GDP growth",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the World Bank data, Slovakia's annual GDP growth rates from 2001 to 2023 were as follows: 3.3% (2001), 4.5% (2002), 5.5% (2003), 5.3% (2004), 6.6% (2005), 8.5% (2006), 10.8% (2007), 5.6% (2008), −5.5% (2009), 6.7% (2010), 2.7% (2011), 1.3% (2012), 0.6% (2013), 2.7% (2014), 5.2% (2015), 1.9% (2016), 2.9% (2017), 4.0% (2018), 2.5% (2019), −3.3% (2020), 4.8% (2021), 1.9% (2022), and 1.6% (2023).",
+        "• In 2007, Slovakia achieved the highest GDP growth rate among all members of the Organisation for Economic Co-operation and Development (OECD) and the European Union (EU), reaching a record growth level of 14.3% in the fourth quarter of that year.",
+        "• The GDP growth rate for Slovakia in 2014 was recorded at 2.4%.",
+        "• Slovakia's economy expanded by 3.6% in 2015.",
+        "• In 2016, Slovakia's GDP growth rate was 3.3%, indicating continued economic expansion during that period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:17.243737",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "6",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, agriculture contributed 3.6% to Slovakia's Gross Domestic Product (GDP), a significant decline from 6.9% in 1993.",
+        "• The agricultural sector employed approximately 3.9% of Slovakia's labor force in 2016, down from 10.2% in 1994.",
+        "• Over 40% of Slovakia's land area is utilized for cultivation, indicating a substantial agricultural land base.",
+        "• The southern region of Slovakia, which borders Hungary, is renowned for its fertile farmland and is a key area for agricultural production.",
+        "• Major crops grown in southern Slovakia include wheat, rye, corn, potatoes, sugar beets, various grains, fruits, and sunflowers.",
+        "• Vineyards are predominantly located in the Little Carpathians, Tokaj, and other southern regions of Slovakia, highlighting the importance of viticulture in these areas.",
+        "• Livestock breeding is a significant component of Slovak agriculture, with pigs, cattle, sheep, and poultry being the primary animals raised.",
+        "• In 2018, Slovakia produced 1.9 million tons of wheat, reflecting its status as a major cereal producer.",
+        "• Maize production in Slovakia reached 1.5 million tons in 2018, underscoring its role as a staple crop.",
+        "• Sugar beet production totaled 1.3 million tons in 2018; this crop is utilized for manufacturing both sugar and ethanol, indicating its industrial importance.",
+        "• Barley production amounted to 486 thousand tons in 2018, contributing to the cereal crop portfolio.",
+        "• Rapeseed production was 480 thousand tons in 2018, important for oil extraction and biofuel production.",
+        "• Sunflower seed production reached 201 thousand tons in 2018, supporting oilseed crop diversity.",
+        "• Potato production was recorded at 169 thousand tons in 2018, reflecting the crop’s role in Slovak agriculture.",
+        "• Soybean production stood at 104 thousand tons in 2018, indicating its presence in crop rotation and protein supply.",
+        "• Slovakia also produced 52 thousand tons of grapes in 2018, supporting its viticulture industry alongside other agricultural outputs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:21.954692",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "7",
+      "section_name": "Information technology",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In recent years, Slovakia has experienced significant growth in service and high-tech-oriented businesses, contributing to the development of its economy.",
+        "• Numerous global corporations such as IBM, Dell, Lenovo, AT&T, SAP, Amazon, Johnson Controls, Swiss Re, and Accenture have established outsourcing and service centres in the Slovak cities of Bratislava and Košice.",
+        "• Additional international companies with service centres in Slovakia include T-Systems, Cisco Systems, Ness, and Deloitte, further enhancing the country’s IT service sector.",
+        "• Prominent Slovak IT companies with headquarters located in Bratislava include ESET, a cybersecurity firm; Sygic, known for navigation software; and Pixel Federation, a game development company."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:20.717127",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "8",
+      "section_name": "Innovation",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to a recent European Commission report, Slovakia ranks 22nd among EU states in terms of innovation, placing it low on the list alongside some other Central and Eastern European economies.",
+        "• Within the European Union, Slovakia ranks next to last in knowledge creation and holds the last position for innovation and entrepreneurship.",
+        "• Slovakia’s transition to a knowledge economy is hindered by insufficient investment in education and limited broader application of information technology (IT).",
+        "• The World Bank recommends that Slovakia upgrade its information infrastructure and reform its education system to support innovation and economic development.",
+        "• The Organisation for Economic Co-operation and Development (OECD) suggests that stronger product market competition in Slovakia would contribute positively to innovation growth.",
+        "• In March 2006, the Slovak government introduced new measures to implement the Action Plan for Research & Development (R&D) and Innovation, covering the period from 2006 to 2010.",
+        "• The Research and Development Agency (RDA) is expected to launch at least one call for expressions of interest each year related to the Action Plan for R&D and Innovation.",
+        "• The annual budget for the R&D and Innovation program is determined by the RDA and depends on the national budget resources, which are likely to vary annually.",
+        "• Following a budget increase of approximately 50%, the RDA had a total budget of €19.31 million allocated for the year 2006 to support the R&D and Innovation program."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:22.462845",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "9",
+      "section_name": "Labour",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The minimum wage in Slovakia for the year 2023 is established at €700 per month.",
+        "• The average monthly salary in Slovakia for the year 2021 was recorded at €1,211.",
+        "• In the Bratislava region specifically, the average monthly salary in 2021 was higher, amounting to €1,520.",
+        "• As of June 2023, the unemployment rate in Slovakia was reported to be 6.2%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:19.699899",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "10",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Slovakia officially adopted the euro as its national currency on 1 January 2009, replacing the Slovak crown (SK – slovenská koruna) at a fixed conversion rate of 30.1260 korunas to one euro.",
+        "• Slovakia's foreign trade data from 2008 to 2020 shows fluctuations in both exports and imports measured in billions of euros (€ bn).",
+        "• In 2008, Slovak exports were valued at €49.5 billion, while imports slightly exceeded exports at €50.3 billion.",
+        "• Both exports and imports experienced a significant decline in 2009, with exports dropping to €39.7 billion and imports to €38.8 billion, reflecting the global economic downturn.",
+        "• The downward trend continued in 2010, with exports decreasing further to €35.0 billion and imports to €34.6 billion.",
+        "• A strong recovery occurred in 2011, with exports surging to €56.8 billion and imports rising to €55.8 billion.",
+        "• From 2012 to 2014, exports steadily increased from €62.8 billion in 2012 to €64.8 billion in 2014, while imports grew from €59.2 billion to €60.2 billion over the same period.",
+        "• In 2015, exports reached €73.12 billion and imports €71.09 billion, continuing the upward trend in trade volumes.",
+        "• The year 2016 saw a marginal increase in exports to €74.35 billion and imports to €71.47 billion.",
+        "• Exports rose significantly in 2017 to €83.9 billion, with imports also increasing to €75.2 billion.",
+        "• In 2018, exports peaked at €93.1 billion, while imports also reached a high of €83.9 billion.",
+        "• The year 2019 recorded a slight decline in exports to €91.2 billion and a minor decrease in imports to €83.5 billion.",
+        "• In 2020, reflecting possible economic impacts, exports decreased to €86.4 billion and imports fell to €77.8 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:22.509827",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "11",
+      "section_name": "Companies",
+      "chapter_name": "Economy of Slovakia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the Services sector had the highest number of registered companies in Slovakia, totaling 227,424 companies.",
+        "• The Retail Trade sector was the second largest in terms of company registrations in Slovakia in 2022, with 39,324 companies.",
+        "• The Finance, Insurance, and Real Estate sector ranked third in Slovakia for the number of registered companies in 2022, with a total of 37,784 companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:21.652786",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_slovakia.json",
+      "original_index": 13
+    }
+  ]
+}

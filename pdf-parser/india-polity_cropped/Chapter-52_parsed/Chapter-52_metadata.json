@@ -1,0 +1,302 @@
+{
+  "table_of_contents": [
+    {
+      "title": "52 Attorney General of India",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.5,
+          104.25
+        ],
+        [
+          444.75,
+          104.25
+        ],
+        [
+          444.75,
+          131.0009765625
+        ],
+        [
+          103.5,
+          131.0009765625
+        ]
+      ]
+    },
+    {
+      "title": "APPOINTMENT AND TERM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.0,
+          119.9794921875
+        ],
+        [
+          330.0,
+          119.9794921875
+        ],
+        [
+          330.0,
+          135.6416015625
+        ],
+        [
+          105.0,
+          135.6416015625
+        ]
+      ]
+    },
+    {
+      "title": "DUTIES AND FUNCTIONS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          103.9921875,
+          86.96337890625
+        ],
+        [
+          317.35546875,
+          86.96337890625
+        ],
+        [
+          317.35546875,
+          106.6376953125
+        ],
+        [
+          103.9921875,
+          106.6376953125
+        ]
+      ]
+    },
+    {
+      "title": "RIGHTS AND LIMITATIONS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          104.06689453125,
+          87.978515625
+        ],
+        [
+          333.193359375,
+          87.978515625
+        ],
+        [
+          333.193359375,
+          106.4443359375
+        ],
+        [
+          104.06689453125,
+          106.4443359375
+        ]
+      ]
+    },
+    {
+      "title": "SOLICITOR GENERAL OF INDIA",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          104.36572265625,
+          87.64013671875
+        ],
+        [
+          374.431640625,
+          87.64013671875
+        ],
+        [
+          374.431640625,
+          106.927734375
+        ],
+        [
+          104.36572265625,
+          106.927734375
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          105.0,
+          571.18359375
+        ],
+        [
+          300.0234375,
+          571.18359375
+        ],
+        [
+          300.0234375,
+          587.42578125
+        ],
+        [
+          105.0,
+          587.42578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          18
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

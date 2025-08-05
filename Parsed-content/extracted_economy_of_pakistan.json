@@ -1,0 +1,1451 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_pakistan.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.617449",
+    "total_sections_in_source": 48,
+    "extracted_sections_count": 48,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Pakistan is classified as a developing economy, ranking as the 26th-largest globally based on GDP using purchasing power parity (PPP) and the 44th-largest by nominal GDP as of 2024.",
+        "• Pakistan has a population of approximately 254.4 million people in 2024, with per capita income rankings at 160th by nominal GDP and 141st by GDP (PPP) according to the International Monetary Fund (IMF).",
+        "• In its early years post-independence, Pakistan’s economy was heavily reliant on private industries before a significant nationalization drive in the early 1970s under Prime Minister Zulfikar Ali Bhutto, which encompassed sectors such as financial services, manufacturing, and transportation.",
+        "• During General Zia-ul Haq’s regime in the 1980s, Pakistan adopted an \"Islamic\" economy framework that outlawed economic practices forbidden under Sharīʿah law and mandated adherence to traditional religious economic principles.",
+        "• Economic privatization efforts resumed in the 1990s, reversing some of the earlier nationalization policies to encourage private sector growth.",
+        "• The primary economic growth centers in Pakistan are situated along the Indus River, including the diversified economies of Karachi and major urban centers in Punjab such as Faisalabad, Lahore, Sialkot, Rawalpindi, and Gujranwala, contrasted with less developed regions elsewhere in the country.",
+        "• Regional connectivity projects like the China-Pakistan Economic Corridor (CPEC) have become crucial in recent decades, significantly contributing to infrastructure and energy development with potential long-term benefits for Pakistan’s economic stability.",
+        "• By the late 1990s, Pakistan was classified as a semi-industrial economy, though it remained underdeveloped with a heavy reliance on agriculture, particularly the textile industry, which depends largely on cotton production.",
+        "• Pakistan’s primary export commodities include textiles, leather goods, sports equipment, chemicals, and carpets/rugs, reflecting its industrial and agricultural base.",
+        "• The country is currently undergoing economic liberalization policies, including the privatization of all government corporations, aimed at attracting foreign investment and reducing budget deficits.",
+        "• Despite these reforms, Pakistan faces ongoing challenges such as rapid population growth, widespread illiteracy, political instability, hostile relations with neighboring countries, and a heavy burden of foreign debt.",
+        "• The Wikipedia article on the Economy of Pakistan requires additional citations for verification, updates to reflect recent developments as of January 2023, and overall improvement to ensure accuracy and comprehensiveness."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:28:55.761828",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Inception",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the late 1940s, upon its establishment in 1947, Pakistan had an agrarian-based economy with agriculture constituting 53% of the country's GDP in 1947, which slightly increased to 53.2% in the fiscal year 1949–50.",
+        "• Pakistan's population at the time was approximately 30 million, including around 6 million urban residents, with about 65% of the labor force engaged in agriculture.",
+        "• The agricultural sector was critically important, contributing to 99.2% of Pakistan’s exports and accounting for nearly 90% of foreign exchange earnings during this period.",
+        "• Despite possessing significant land and mineral resources in both East and West Pakistan, including natural gas, crude oil, coal, limestone, and marble, Pakistan faced substantial economic challenges.",
+        "• In 1950, Pakistan’s per capita income was approximately $360 measured in 1985 international dollars, and the literacy rate was only 10%, indicating low human capital development.",
+        "• The country suffered from a lack of economic infrastructure, limited financial resources, and an underdeveloped industrial base, with poverty rates estimated between 55% and 60% in the West Pakistan region.",
+        "• Due to limited capital within the small private sector, the government prioritized the public sector to drive economic and industrial development.",
+        "• In the fiscal year 1949–50, Pakistan’s national savings rate was recorded at 2%, foreign savings also at 2%, resulting in an overall investment rate of 4%.",
+        "• The manufacturing sector contributed 7.8% to the GDP, while services, trade, and other sectors collectively accounted for 39%, reflecting a policy focus on import-substituting industrialization.",
+        "• The trade balance of payments showed a deficit of 66 million rupees (Rs) during the period from 1949/50 to 1950/51, highlighting early economic imbalances."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:29:04.733793",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "1950s",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 1950s marked the beginning of planned economic development in Pakistan, initiated by the introduction of the Colombo Plan in 1951, which led to the implementation of a series of Five-Year Plans spanning from 1955 to 1998.",
+        "• Alongside the Five-Year Plans, Pakistan also executed a Ten-Year Perspective Plan and a rolling Three-Year Development Plan during this decade to guide its economic growth.",
+        "• Pakistan adopted a policy of import-substituting industrialization throughout the 1950s, aiming to reduce dependency on foreign goods by developing domestic industries.",
+        "• The Korean War (1950–1953) significantly benefited Pakistan’s economy by generating substantial merchant profits for both the public sector and emerging private enterprises, thereby accelerating industrialization efforts.",
+        "• In 1952, Pakistan imposed bans on the importation of cotton textiles and luxury goods, followed by the introduction of comprehensive import regulations in 1953, which collectively propelled the country into the ranks of the fastest-growing economies.",
+        "• Despite industrial growth, biased government policies against the agricultural sector and unfavorable trade terms between agriculture and industry caused a decline in the annual growth rate of agriculture during the 1950s.",
+        "• By the late 1950s, Pakistan achieved self-sufficiency in the production of cotton textiles and began focusing on the development of exports in this sector.",
+        "• Between 1955 and 1958, Pakistan received substantial US military and economic aid totaling US$500 million, which played a crucial role in supporting the country’s growth that was heavily reliant on foreign assistance.",
+        "• Following the military coup d'état in 1958, the martial law regime introduced economic measures in 1959, including export bonus vouchers used as import licenses and exemptions for certain goods from licensing requirements.",
+        "• During the late 1950s, Pakistan experienced a worsening trade balance, with trade deficits increasing from −831 million Rupees in the fiscal year 1950/51 to −1043 million Rupees in 1959/60.",
+        "• The agricultural sector in Pakistan grew at an annual rate of 1.6% during the 1950s, while the manufacturing sector expanded at a significantly higher rate of 7.7% per annum.",
+        "• In the fiscal year 1959–60, the Per Capita Gross National Product (GNP) was recorded at Rs. 355 in West Pakistan and Rs. 269 in East Pakistan, highlighting a growing economic disparity between the two regions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:29:25.021654",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "1960s",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 1960s, Pakistan experienced political stability accompanied by a substantial influx of American aid, which collectively fostered robust economic growth throughout the decade.",
+        "• The poverty headcount ratio in Pakistan fluctuated during the early 1960s, starting at nearly 50% and rising to 54% in the fiscal year 1963–64, indicating persistent poverty challenges despite economic progress.",
+        "• Pakistan achieved an impressive annual agricultural growth rate of 5% during the 1960s, driven by significant investments in water resource development, enhanced incentives for farmers, increased mechanization, greater use of fertilizers and pesticides, and the expanded cultivation of high-yielding rice and wheat varieties as part of the Green Revolution.",
+        "• Large-scale manufacturing in Pakistan expanded rapidly at an annual growth rate of 16% from 1960/61 to 1964/65, supported by protective government policies for domestic industries, including the provision of export subsidies.",
+        "• The outbreak of the Pakistan-India War in 1965 resulted in a reduction of foreign economic assistance, which negatively impacted the growth momentum of large-scale manufacturing, causing its growth rate to decline to 10% per annum during the period 1965–70.",
+        "• Despite the setbacks caused by the 1965 war and reduced foreign aid, Pakistan maintained an impressive average annual GDP growth rate of 6.7% throughout the entire 1960s.",
+        "• By the fiscal year 1969–70, the incidence of poverty in Pakistan had decreased to 46%, reflecting some improvement in living standards over the decade.",
+        "• Regional economic disparities were evident in 1969–70, with Per Capita Gross National Product (GNP) recorded at Rs. 504 in West Pakistan compared to Rs. 314 in East Pakistan, highlighting a significant economic gap between the two wings of the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:29:33.880956",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "1970s",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the early 1970s, growing economic disparities between East and West Pakistan culminated in East Pakistan declaring independence and the formation of Bangladesh in 1971, significantly altering Pakistan's political and economic landscape.",
+        "• During the early 1970s, Pakistan was governed under martial law authorities amid difficult macroeconomic conditions, with the socialist Pakistan People's Party gaining empowerment during this period.",
+        "• The incidence of poverty in Pakistan surged to 55% during the fiscal year 1971–72, reflecting severe socioeconomic challenges.",
+        "• Pakistan faced increased import costs following the global oil price shock in October 1973, which exacerbated economic difficulties.",
+        "• From 1974 to 1977, Pakistan endured a severe global recession that negatively impacted its economic performance.",
+        "• The cotton sector suffered failures in 1974–75, compounded by pest infestations that affected crop yields, further straining the agricultural economy.",
+        "• Pakistan experienced massive floods in the years 1973, 1974, and 1976–77, which caused widespread damage and economic disruption.",
+        "• Inflation was a significant economic issue, with prices rising at an average annual rate of 15% between 1972 and 1977.",
+        "• The fiscal deficit to GDP ratio averaged 8.1% during the period 1973–77, indicating persistent and substantial fiscal challenges for the government.",
+        "• Trade deficits widened considerably, increasing from US$337 million in 1970–71 to US$1,184 million in 1976–77, highlighting growing trade imbalances.",
+        "• The military coup d'état of 1977 resulted in the establishment of a martial law regime that implemented policies of denationalization, deregulation, and privatization to reform the economy.",
+        "• Agricultural growth during the 1970s was modest, averaging 2.4% per annum despite the various adversities faced.",
+        "• Large-scale manufacturing expanded at a faster rate of 5.5% per annum throughout the 1970s, contributing to industrial development.",
+        "• Large and medium-scale private manufacturing sectors were dominant in the manufacturing industry, accounting for 75% of the total value-added and investment in manufacturing during the 1970s.",
+        "• Small-scale manufacturing contributed the remaining 25% of the total value-added in the manufacturing sector during this decade.",
+        "• The 1970s in Pakistan were characterized by significant political upheaval and economic transformation driven by the challenges of economic disparities, inflation, fiscal deficits, trade imbalances, and policy shifts following the 1977 military coup."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:29:43.228386",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "1980s",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 1980s marked a significant shift in Pakistan's economic landscape, moving away from the nationalization policies of the 1970s and promoting private sector industrial investment, which substantially contributed to robust economic growth.",
+        "• The poverty headcount ratio declined to 29.1% in 1986–87, indicating a notable reduction in poverty incidence during the decade.",
+        "• The unemployment rate improved, decreasing from 3.7% in 1980 to 2.6% in 1990, reflecting positive labor market trends.",
+        "• Between 1985 and 1988, the Pakistani government attempted to implement an Islamic interest-free banking system, introducing business partnerships based on profit and loss sharing principles.",
+        "• The national savings to GDP ratio reached 16% in 1986–87, largely driven by substantial worker remittances from the Middle East.",
+        "• Despite growth in savings, the 1980s experienced challenges including negative public savings and a declining public investment to GDP ratio throughout the decade.",
+        "• To manage increasing budget deficits in the early 1980s, the government relied heavily on non-bank domestic borrowing, which led to a significant increase in domestic debt.",
+        "• The public debt to GDP ratio escalated sharply, reaching 77.1% in 1988, 81.9% in 1989, and 82.6% in 1990, resulting in high interest payments and ongoing fiscal deficits.",
+        "• The restoration of democracy in 1985 was a pivotal political event that influenced the economic environment of Pakistan during the 1980s.",
+        "• Pakistan achieved an average annual GDP growth rate of 6.3% between 1980 and 1990, indicating strong overall economic performance.",
+        "• The manufacturing sector experienced a surge, with an annual large-scale manufacturing growth rate of 8.8% during the 1980s.",
+        "• The agricultural sector also demonstrated solid growth, with an annual agricultural growth rate of 5.4% throughout the decade.",
+        "• The 1980s were characterized by transformative economic policies, improved fiscal performance, and significant progress in poverty reduction and employment generation.",
+        "• Efforts to align financial practices with Islamic principles were notable, particularly through the introduction of interest-free banking and profit and loss sharing mechanisms.",
+        "• The decade witnessed substantial economic growth in both manufacturing and agriculture, underscoring a recovering and dynamic economic period for Pakistan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:29:53.982543",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "0.6",
+      "section_name": "1990s",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 1990s presented a challenging economic environment for Pakistan, characterized by declining worker remittances and increasing external deficits, which contributed to overall economic strain.",
+        "• During this decade, Pakistan experienced the second-worst inflation in its history, primarily driven by diminishing GDP growth rates.",
+        "• Unemployment rates rose significantly, from 5.9% in 1991 to 7.2% by the year 2000, indicating worsening labor market conditions.",
+        "• Pakistan’s external debt tripled during the early to mid-1990s, reaching US$30 billion by 1995, reflecting escalating financial obligations to foreign creditors.",
+        "• The external debt-to-GDP ratio increased from 42% to 50%, while the external debt-to-exports ratio rose from 209% to 258%, signaling growing vulnerability in external debt sustainability.",
+        "• The debt service ratio, which measures the proportion of export earnings used to service debt, increased from 18% to 27%, indicating heavier debt repayment burdens.",
+        "• As external debt pressures mounted, domestic debt also rose sharply, reaching Rs. 909 billion, with the domestic debt-to-GDP ratio climbing to 42%.",
+        "• By the late 1990s, Pakistan faced a severe debt crisis, with the public debt-to-GDP ratio escalating dramatically from 57.5% in 1975–77 to 102% in 1998–99.",
+        "• The public debt-to-revenues ratio surged to 624%, and the interest payments-to-revenues ratio reached 42.6%, rendering the public debt situation unsustainable.",
+        "• Concerns about potential external debt default emerged notably in 1996 and 1998, exacerbated by Western economic sanctions imposed after Pakistan’s nuclear tests in May 1998.",
+        "• These sanctions triggered massive capital flight, further destabilizing Pakistan’s financial position during the late 1990s.",
+        "• Despite these macroeconomic challenges, Pakistan sustained an average agricultural growth rate of 4.4% per annum throughout the 1990s.",
+        "• The large-scale manufacturing sector also maintained a steady growth rate of 4.8% per annum during the same period.",
+        "• Poverty incidence increased significantly, reaching 30.6% in 1998–99, reflecting worsening socio-economic conditions for a substantial portion of the population.",
+        "• Overall, the 1990s in Pakistan were marked by a complex economic narrative involving rising external and domestic debt burdens, fiscal imbalances, high inflation, and increasing unemployment.",
+        "• Positive developments included sustained growth in key sectors such as agriculture and manufacturing, which provided some economic resilience amid broader difficulties.",
+        "• The decade concluded with a looming threat of debt default, intensified by international economic sanctions following Pakistan’s nuclear tests, highlighting vulnerabilities in the country’s economic and financial systems."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:30:03.511674",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "0.7",
+      "section_name": "2000s",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 2000s in Pakistan were characterized by significant economic challenges and transformations, with high public debt becoming a prominent issue as identified by the official Debt Reduction and Management Committee in 2001, which contributed to a decline in the economic growth rate to less than 4% per annum.",
+        "• Despite an initial increase in the growth rate, the decade experienced persistent macroeconomic crises, including a peak growth rate of 8.6% in 2004–05, followed by setbacks such as growth slowdowns, low growth periods, high inflation, an energy crisis, and deteriorating fiscal and balance of payments conditions.",
+        "• Poverty incidence in Pakistan rose to 34.5% in 2000–01, reflecting economic difficulties faced by the population, but subsequently decreased to 22.3% by 2005–06, indicating some improvement during the decade.",
+        "• The unemployment rate fluctuated during the 2000s, increasing to 7.8% in 2002 before declining to 5% by 2008, showing variability in the labor market conditions.",
+        "• Efforts to improve education were evident with adult literacy reaching 55% in 2007–08, although economic challenges persisted throughout the decade.",
+        "• Pakistan was significantly affected by the 2008 global financial crisis, which contributed to economic difficulties in that year.",
+        "• Despite these adversities, Pakistan’s economy grew by 4.1% in 2009–2010, supported by sectoral growth including 2% in agriculture, 4.9% in industrial output, 4.4% in large-scale manufacturing, and 4.6% in the services sector.",
+        "• By March 2010, Pakistan’s public debt had reached Rs. 8,160 billion, with a total public debt to GDP ratio of 56%, and a foreign-currency denominated debt to GDP ratio of 25%, highlighting the scale of fiscal challenges.",
+        "• The decade witnessed a structural transition in Pakistan’s economy: the GDP share of agriculture declined from 53% in 1947 to 21.2% in 2010, the industry sector’s GDP share increased from 9.6% in 1949–50 to 25.4% in 2010, and the services sector’s share rose from 37.2% in 1950 to 53.4% in 2010.",
+        "• Overall, the 2000s encapsulated a complex economic narrative for Pakistan, marked by significant challenges, recurrent crises, and notable structural shifts, demonstrating the country’s resilience and adaptability in the face of economic adversity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:30:14.467985",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "0.8",
+      "section_name": "Gross domestic product (GDP)",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1980 to 2024, Pakistan's GDP (Billion US$ PPP) increased from 74.9 to 1,584.5, showing substantial economic growth over the period.",
+        "• GDP per capita (US$ PPP) rose from 950.0 in 1980 to 6,715.3 in 2024, indicating significant improvement in average income levels adjusted for purchasing power parity.",
+        "• Nominal GDP (Billion US$) grew from 38.6 in 1980 to 374.6 in 2024, reflecting growth in the economy measured at current market prices.",
+        "• Nominal GDP per capita (US$) increased from 418.9 in 1980 to 1,587.6 in 2024, showing growth in average income without adjusting for inflation or purchasing power.",
+        "• Real GDP growth rates fluctuated over the years, with notable peaks such as 8.7% in 1985 and 7.7% in 2004, and downturns including -0.9% in 2020 and -0.2% in 2023, reflecting economic contractions in those years.",
+        "• Inflation rates varied widely, with rates below 5% highlighted in green; notable low inflation years include 1986 (3.5%), 2000 (3.6%), 2002 (3.5%), and 2016 (2.9%).",
+        "• Inflation peaked at 29.2% in 2023, the highest in the dataset, followed by 23.4% in 2024, indicating significant inflationary pressures in recent years.",
+        "• Unemployment rates ranged from a low of 3.1% in the late 1980s to a high of 8.5% in 2023, showing varying labor market conditions over time.",
+        "• Government debt as a percentage of GDP was first recorded in 1994 at 64.8%, fluctuated over the years, reaching a peak of 79.6% in 2020, and declined to 69.2% by 2024.",
+        "• The data shows periods of economic stability and growth, such as the mid-2000s with GDP growth rates above 5% and inflation generally below 10%, contrasted with periods of economic challenges, including high inflation and negative growth in 2020 and 2023.",
+        "• The unemployment rate remained relatively stable around 6% for much of the 2000s and 2010s but increased notably in the early 2020s.",
+        "• The nominal GDP per capita consistently lagged behind the PPP-adjusted GDP per capita, reflecting the impact of exchange rates and cost of living differences.",
+        "• The dataset highlights the economic volatility Pakistan experienced, with inflation and government debt levels showing significant variation, especially in the 2010s and early 2020s.",
+        "• The economic indicators collectively illustrate Pakistan's long-term economic development, challenges with inflation control, debt management, and labor market fluctuations from 1980 through 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:30:26.754739",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "0.9",
+      "section_name": "Stock market",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the early 2000s, Pakistan's KSE 100 Index was recognized as the best-performing stock market index globally by the international magazine \"Business Week\" (citation needed).",
+        "• According to the World Bank, the stock market capitalization of listed companies in Pakistan was valued at $5,937 million in 2005.",
+        "• On 11 January 2016, Pakistan unified its three stock exchanges—Karachi Stock Exchange, Lahore Stock Exchange, and Islamabad Stock Exchange—into a single entity called the Pakistan Stock Exchange (PSX) to reduce market fragmentation and attract strategic partnerships for technological expertise.",
+        "• In May 2017, MSCI, an American provider of stock market indexes and analysis tools, reclassified the Pakistan Stock Exchange from Frontier Markets to Emerging Markets during its semi-annual index review.",
+        "• The Pakistan Stock Exchange was recognized as the best-performing Asian stock market and the fourth best-performing market worldwide in 2020, successfully navigating the initial economic downturn caused by COVID-19.",
+        "• The PSE-100 index experienced nearly 40% growth in the fiscal year 2021, driven by factors including the government's large stimulus package, the central bank's stable policy rate, increased large-scale manufacturing, improvements in external accounts, and reforms by the Security and Exchange Commission of Pakistan (SECP) and PSX in response to COVID-19.",
+        "• The PSX 100 index growth rates from FY 2008 to FY 2024 are as follows: FY08: -10.8%, FY09: -41.7%, FY10: 35.7%, FY11: 28.5%, FY12: 10.4%, FY13: 52.2%, FY14: 41.2%, FY15: 16.0%, FY16: 9.8%, FY17: 23.2%, FY18: -10.0%, FY19: -19.1%, FY20: 1.5%, FY21: 37.6%, FY22: -12.3%, FY23: -0.2%, FY24: 61.6%.",
+        "• In fiscal year 2023, sales of all non-financial companies listed on the Pakistan Stock Exchange surged to Rs 16,815 billion, an increase of Rs 1,864 billion compared to the previous year.",
+        "• Despite increased sales in FY23, the net profit margin of all companies declined to 5.98% from 6.34% in FY22.",
+        "• Return on assets (ROA) for all companies dropped to 6.05% in FY23 from previous years, and return on equity (ROE) decreased to 17.76% in FY23.",
+        "• Key financial statistics for all public and private non-financial companies listed on the Pakistan Stock Exchange over the last six years (2018–2023) are as follows (in billion rupees unless otherwise stated):",
+        "• Percentage financial indicators for the same period include:"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:30:48.571283",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "0.10",
+      "section_name": "Middle class",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2017, the _Wall Street Journal_, citing estimates based largely on income and consumption goods purchases, suggested that up to 42% of Pakistan's population may belong to the upper and middle classes.",
+        "• If the 42% estimate is accurate or broadly indicative, this implies that approximately 87 million Pakistanis are part of the middle and upper classes, a demographic larger than the entire population of Germany.",
+        "• Official data over the past 15 years indicate a significant increase in household ownership of motorcycles and washing machines, reflecting rising consumer affluence.",
+        "• The IBA-SBP Consumer Confidence Index reached its highest recorded level of 174.9 points in January 2017, marking an increase of 17 points since July 2016, signaling growing consumer optimism.",
+        "• In the fiscal year 2022, consumer financing in Pakistan totaled Rs. 179 billion, demonstrating robust growth in credit availability.",
+        "• Within consumer financing, the auto finance sector remained the dominant segment, indicating sustained demand for vehicle purchases.",
+        "• The house building finance segment experienced remarkable growth following the launch of the _Mera Pakistan Mera Ghar_ housing scheme by the State Bank of Pakistan in December 2020, aimed at promoting home ownership."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:30:53.537517",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "0.11",
+      "section_name": "Poverty alleviation expenditures",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Pakistan government allocated over 1 trillion Pakistani rupees, equivalent to approximately $16.7 billion, towards poverty alleviation programs over a four-year period.",
+        "• These poverty alleviation efforts contributed to a reduction in the national poverty rate from 35% in the fiscal year 2000–01 to 29.3% by 2013.",
+        "• Further progress was observed with the poverty rate declining to 17% in 2015, indicating significant improvements in poverty reduction within the country.",
+        "• Despite these gains, rural poverty remains a critical challenge in Pakistan, as economic and social development in rural areas has progressed at a considerably slower pace compared to major urban centers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:30:58.370440",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "0.12",
+      "section_name": "Employment",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan has experienced high population growth over the past few decades, resulting in a substantial influx of young people entering the labor market.",
+        "• Despite being one of the six most populous countries in Asia, Pakistan historically faced challenges in labor market flexibility due to excessive bureaucratic red tape.",
+        "• This bureaucratic complexity made both firing and hiring processes difficult for employers, restricting labor market dynamism.",
+        "• Recent significant progress in taxation and business reforms has improved the regulatory environment for firms.",
+        "• These reforms have reduced the compulsion for many firms to operate within the underground economy, promoting greater formalization of business activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:31:02.398115",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "0.13",
+      "section_name": "Government revenues and expenditures",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan operates as a Federation with a constitutional division of taxation powers between the Federal Government and the four provinces; however, the Federal Board of Revenue (FBR), the revenue department of the Federal Government, collects more than 80% of the entire national tax revenue.",
+        "• The government’s revenue streams primarily originate from two sources: taxation and non-tax revenue.",
+        "• Taxation revenue includes income tax, sales tax, and customs duties, which significantly support both federal and provincial government finances.",
+        "• Non-tax revenue sources comprise mark-up from state enterprises, surplus profits from the State Bank of Pakistan, and royalties on oil and gas, all of which contribute substantially to the fiscal framework.",
+        "• Government expenditures are allocated strategically across multiple sectors, including defense, social services, infrastructure development, and debt servicing.",
+        "• Current expenditures encompass operational costs, interest payments, pensions, and other obligations, while development expenditures focus on fostering long-term economic growth and progress.",
+        "• Balancing revenue generation with expenditure allocation remains a challenge, often resulting in budgetary deficits that require borrowing to cover the shortfall.",
+        "• The fiscal data presented is sourced from the Ministry of Finance of Pakistan.",
+        "• Total consolidated federal and provincial revenue increased from 1,499 billion PKR in FY 2008 to 13,269 billion PKR in FY 2024, showing significant growth over the period.",
+        "• Tax revenue rose from 1,065 billion PKR in FY 2008 to 10,085 billion PKR in FY 2024, reflecting the increasing importance of tax collection in government finances.",
+        "• FBR tax collections grew from 1,008 billion PKR in FY 2008 to 9,311 billion PKR in FY 2024, maintaining its role as the primary tax collector.",
+        "• Total government expenditure escalated from 2,277 billion PKR in FY 2008 to 20,476 billion PKR in FY 2024, indicating expanding government spending.",
+        "• Fiscal deficits fluctuated, starting at 777 billion PKR in FY 2008, peaking at 6,521 billion PKR in FY 2023, and slightly decreasing to 7,207 billion PKR in FY 2024.",
+        "• As a percentage of GDP, total revenue ranged from a low of 11.2% in FY 2019 to a high of 14.5% in FY 2014, with 12.5% recorded in FY 2024.",
+        "• Tax revenue as a percentage of GDP varied between 9.1% in FY 2009 and 11.0% in FY 2015, standing at 9.5% in FY 2024.",
+        "• Total government expenditure as a percentage of GDP ranged from 17.7% in FY 2016 to 21.5% in FY 2013, recorded at 19.3% in FY 2024.",
+        "• Fiscal deficit as a percentage of GDP showed variation from 4.1% in FY 2016 to 8.8% in FY 2012, with a level of 6.8% in FY 2024.",
+        "• The data reflects ongoing fiscal challenges in balancing revenue and expenditure, with persistent deficits necessitating borrowing and fiscal management efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:31:12.941593",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "0.14",
+      "section_name": "Rupee",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The basic unit of currency in Pakistan is the rupee, with the ISO code PKR and abbreviated as Rs, which is subdivided into 100 smaller units called paisas.",
+        "• The largest denomination of the Pakistani rupee currently in circulation is the 5,000 rupee note.",
+        "• On 13 August 2005, the State Bank of Pakistan (SBP) began issuing its fifth generation of banknotes featuring enhanced security measures, starting with the Rs. 20 note.",
+        "• Subsequent new banknote designs were introduced gradually: Rs. 5 note in July 2008 (which was later replaced by a coin), Rs. 10 note in May 2006, Rs. 20 note with a new color scheme in March 2008, Rs. 50 note in July 2008, Rs. 100 note in November 2006, Rs. 500 note in January 2010, Rs. 1000 note in February 2007, and Rs. 5000 note in May 2006.",
+        "• Until 1982, the Pakistani rupee was pegged to the British pound sterling, maintaining a fixed exchange rate.",
+        "• In 1982, under the government of General Zia-ul-Haq, the currency regime shifted from a fixed peg to a managed float system.",
+        "• Following this change, the rupee experienced a significant devaluation of 38.5% between the fiscal years 1982 and 1983.",
+        "• The devaluation led to a substantial increase in import costs, adversely affecting many industries that had been established during the tenure of General Zia-ul-Haq’s predecessor.",
+        "• Prior to this period, under the leadership of Zulfikar Ali Bhutto, the rupee had appreciated in value despite receiving substantial foreign aid, but it eventually depreciated thereafter."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:31:19.496387",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "0.15",
+      "section_name": "Foreign exchange rate",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Pakistani rupee experienced depreciation against the US dollar until approximately the start of the 21st century, a period marked by a declining rupee value relative to the dollar.",
+        "• Around the early 2000s, Pakistan achieved a large current-account surplus, which contributed to an appreciation of the Pakistani rupee against the US dollar.",
+        "• In response to the rupee's appreciation and to maintain export competitiveness, Pakistan's central bank implemented stabilization measures including lowering interest rates.",
+        "• Additionally, the central bank actively intervened in the foreign exchange market by purchasing US dollars to prevent further appreciation of the rupee.",
+        "• The average annual exchange rates of the US dollar to Pakistani rupee from 2008 to 2024 demonstrate a general trend of depreciation of the rupee over this period, with specific values as follows:",
+        "• 2008: 62.55 PKR per USD",
+        "• 2009: 78.50 PKR per USD",
+        "• 2010: 83.80 PKR per USD",
+        "• 2011: 85.50 PKR per USD",
+        "• 2012: 89.23 PKR per USD",
+        "• 2013: 96.73 PKR per USD",
+        "• 2014: 102.86 PKR per USD",
+        "• 2015: 101.29 PKR per USD",
+        "• 2016: 104.23 PKR per USD",
+        "• 2017: 104.70 PKR per USD",
+        "• 2018: 109.84 PKR per USD",
+        "• 2019: 136.09 PKR per USD",
+        "• 2020: 158.02 PKR per USD",
+        "• 2021: 160.02 PKR per USD",
+        "• 2022: 177.45 PKR per USD",
+        "• 2023: 248.04 PKR per USD",
+        "• 2024: 282.91 PKR per USD",
+        "• These exchange rate figures indicate a significant depreciation of the Pakistani rupee against the US dollar, especially notable from 2018 onwards, culminating in a rate of 282.91 PKR per USD in 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:31:27.581846",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "0.16",
+      "section_name": "Foreign exchange reserves",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan's foreign exchange reserves are managed by the State Bank of Pakistan (SBP), which historically held reserves solely in US dollars, leading to speculated financial losses when the dollar's value declined in 2005.",
+        "• The decline in US dollar prices in 2005 resulted in the resignation of then SBP Governor Ishrat Hussain, highlighting the risks of holding reserves in a single currency.",
+        "• In response to the 2005 losses, the SBP officially announced a policy to diversify its foreign exchange reserves by including other major currencies such as the Euro and Japanese Yen, although the exact diversification ratios were not disclosed.",
+        "• Karachi, recognized as the economic capital of Pakistan, plays a central role in the country's financial activities, including foreign exchange management.",
+        "• The global financial crisis and surging crude oil prices severely impacted Pakistan's economy, leading to a significant depletion of foreign exchange reserves.",
+        "• On 11 October 2008, the SBP reported a decrease in foreign exchange reserves by $571.9 million, bringing the total reserves down to $7,749.7 million.",
+        "• Over the course of the international credit crisis, Pakistan's foreign exchange reserves dropped by more than $10 billion, reaching a low of $6.59 billion.",
+        "• By June 2013, Pakistan faced a critical financial situation with foreign exchange reserves at a historic low, sufficient to cover only two weeks of import requirements, placing the country on the brink of defaulting on its financial obligations.",
+        "• As of January 2020, Pakistan's foreign exchange reserves had recovered to stand at US$11.503 billion.",
+        "• Detailed data on Pakistan’s foreign exchange reserves from June 2008 to June 2024 (in billion US dollars) shows fluctuations in total reserves, SBP reserves, and commercial banks’ reserves as follows:",
+        "• Total reserves peaked at 24.4 billion in June 2021 and fell to a low of 9.2 billion in June 2023, with a partial recovery to 14.0 billion by June 2024.",
+        "• SBP reserves followed a similar trend, reaching a high of 17.3 billion in June 2021, dropping sharply to 4.5 billion in June 2023, and rising again to 9.4 billion by June 2024.",
+        "• Banks’ reserves remained relatively stable, fluctuating between 2.8 billion in June 2008 and 7.2 billion in June 2019, then declining to 4.6 billion by June 2024.",
+        "• The data reflects the volatility and challenges faced by Pakistan in maintaining adequate foreign exchange reserves amid economic pressures and external shocks over the past decade and a half."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:31:38.132756",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "1",
+      "section_name": "Structure of economy",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1947, agriculture constituted approximately 53% of Pakistan's Gross Domestic Product (GDP), reflecting its dominant role in the economy at the time.",
+        "• Although per-capita agricultural output in Pakistan has increased since 1947, the growth rate of non-agricultural sectors has surpassed that of agriculture, leading to a relative decline in agriculture's contribution to the national economy.",
+        "• The share of agriculture in Pakistan's economy has decreased to about one-fifth (approximately 20%) in recent years, indicating a structural shift towards other sectors.",
+        "• Pakistan has experienced rapid growth in various industrial sectors, including apparel, textiles, and cement production, contributing to the diversification of its economic base.",
+        "• The services sector in Pakistan has also expanded significantly, with notable growth in telecommunications, transportation, advertising, and finance industries.",
+        "• Sectoral shares of GDP at constant basic prices demonstrate the changing economic structure from fiscal year (FY) 2000 to FY 2024 as follows:",
+        "• Agricultural sector's share declined from 31.75% in FY 2000 to 24.04% in FY 2024, with intermediate values of 28.15% (FY 2005), 25.89% (FY 2010), 24.83% (FY 2015), and 23.53% (FY 2020).",
+        "• Industrial sector's share increased from 16.73% in FY 2000 to a peak of 19.11% in FY 2015, then slightly declined to 18.22% by FY 2024; intermediate shares were 19.01% (FY 2005), 19.04% (FY 2010), and 18.53% (FY 2020).",
+        "• Services sector's share consistently grew from 51.52% in FY 2000 to 57.74% in FY 2024, with steady increments reflected in 52.84% (FY 2005), 55.07% (FY 2010), 56.06% (FY 2015), and 57.94% (FY 2020)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:31:47.045460",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agriculture sector in Pakistan is a critical component of the economy, with the majority of the population dependent on it either directly or indirectly; in 2021, it contributed approximately 23.0% to the gross domestic product (GDP) and employed 37.4% of the labor force.",
+        "• Agriculture is Pakistan's largest source of foreign exchange earnings, with the most important crops being wheat, sugarcane, cotton, and rice, which together account for more than 75% of the total crop output value.",
+        "• Wheat is Pakistan's largest food crop; in 2017, Pakistan produced 26,674,000 tonnes of wheat, a quantity nearly equal to the entire African continent's production of 27.1 million tonnes and exceeding South America's 25.9 million tonnes, as reported by FAOSTAT.",
+        "• In the 2018/19 market year, Pakistan achieved a record export of 4.5 million tonnes of rice, underscoring its role as a significant rice exporter.",
+        "• Pakistan generally functions as a net food exporter, except in years when drought adversely affects harvests; the country exports rice, cotton, fish, fruits (notably oranges and mangoes), and vegetables, while importing vegetable oil, wheat, pulses, and consumer foods.",
+        "• Since independence, the economic importance of agriculture has declined, with its share of GDP decreasing from around 53% at independence to about 23.0% in 2021.",
+        "• Annual growth rates of the agriculture sector from fiscal year (FY) 2008 to FY 2024 show variability, with growth percentages as follows: 0.81% (FY 2008), 3.41% (FY 2009), 0.31% (FY 2010), 2.71% (FY 2011), 3.23% (FY 2012), 3.14% (FY 2013), 2.42% (FY 2014), 1.78% (FY 2015), 0.41% (FY 2016), 2.22% (FY 2017), 3.88% (FY 2018), 0.94% (FY 2019), 3.91% (FY 2020), 3.52% (FY 2021), 4.21% (FY 2022), 2.27% (FY 2023), and 6.25% (FY 2024).",
+        "• Production data for key crops in million tonnes from FY 2008 to FY 2024 are as follows:",
+        "• Wheat: 20.9 (FY 2008), rising to 31.6 (FY 2024) with fluctuations in between;",
+        "• Rice: 5.6 (FY 2008) increasing to 9.9 (FY 2024);",
+        "• Sugarcane: 63.9 (FY 2008) with a peak of 88.7 (FY 2022) and 87.6 (FY 2024);",
+        "• Cotton (in million bales): 11.7 (FY 2008) fluctuating to 10.2 (FY 2024), with a low of 4.9 (FY 2023);",
+        "• Maize/corn: 3.6 (FY 2008) increasing to 9.7 (FY 2024).",
+        "• Pakistan's principal natural resources for agriculture are arable land and water; approximately 25% of the country's total land area is cultivated and irrigated by one of the world's largest irrigation systems.",
+        "• Pakistan irrigates three times more acres than Russia, benefiting from extensive irrigation infrastructure and year-round warm climate conducive to agriculture.",
+        "• Zarai Taraqiati Bank Limited is the largest financial institution dedicated to supporting Pakistan's agriculture sector by providing financial services and technical expertise aimed at agricultural development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:32:03.021602",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan's industrial sector contributes approximately 19.12% to the national GDP, reflecting its significant role in the economy.",
+        "• In 2021, the industrial sector experienced a robust growth rate of 7.81%, a substantial recovery from the negative growth of -5.75% recorded in 2020.",
+        "• The Pakistani government is actively privatizing large-scale industrial units, resulting in a decreasing share of industrial output from the public sector.",
+        "• Despite the shrinking public sector share, overall industrial output growth, including private sector contributions, has accelerated.",
+        "• Government policies focus on diversifying Pakistan's industrial base and strengthening export-oriented industries to enhance economic resilience.",
+        "• Large Scale Manufacturing is identified as the fastest-growing sector within Pakistan's economy, underscoring its importance for industrial development.",
+        "• Key industries in Pakistan's industrial sector include textiles, fertilizer production, cement manufacturing, oil refineries, dairy products, food processing, beverages, construction materials, clothing, paper products, and shrimp processing.",
+        "• Small and Medium Enterprises (SMEs) play a vital role in Pakistan's economy, contributing approximately 40% to the annual GDP according to reports from the Small and Medium Enterprises Development Authority (SMEDA) and the Economic Survey of Pakistan.",
+        "• SMEs generate significant employment opportunities, particularly for skilled workers and entrepreneurs, highlighting their socio-economic importance.",
+        "• Small and medium-scale firms constitute nearly 90% of all enterprises in Pakistan and employ about 80% of the non-agricultural labor force, indicating their dominant presence in the industrial landscape.",
+        "• The industrial sector's annual growth rates from fiscal year (FY) 2008 to FY 2024 show fluctuations, with notable figures including an 8.78% growth in FY 2008, a decline of -5.75% in FY 2020, and a recovery to 8.20% in FY 2021, followed by variable growth rates in subsequent years.",
+        "• Manufacturing sector growth rates over the same period varied, with highs such as 10.86% in FY 2022 and lows including -7.80% in FY 2020, reflecting volatility in this sub-sector.",
+        "• The mining sector experienced mixed growth, with a peak of 7.26% in FY 2018 and a significant decline of -7.17% in FY 2020, followed by modest recovery phases.",
+        "• Construction sector growth demonstrated considerable variability, including a high of 19.55% in FY 2017 and a sharp decline of -18.14% in FY 2019, indicating sensitivity to economic conditions.",
+        "• The data from FY 2008 to FY 2024 collectively illustrate the cyclical and sometimes volatile nature of Pakistan's industrial sector, influenced by both domestic and global economic factors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:32:10.814240",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "1.2.1",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Manufacturing constitutes the largest industrial sector in Pakistan, contributing approximately 12.13% to the country's Gross Domestic Product (GDP).",
+        "• The manufacturing sub-sector in Pakistan is segmented into three main components: large-scale manufacturing (LSM) which accounts for 79.6% of the manufacturing sector, small-scale manufacturing contributing 13.8%, and slaughtering activities making up 6.5%.",
+        "• Key industrial sectors within Pakistan's manufacturing include cement, fertilizer, edible oil, sugar, steel, tobacco, chemicals, machinery, food processing, and medical instruments, with a notable emphasis on surgical instruments manufacturing.",
+        "• Pakistan is recognized as one of the largest manufacturers and exporters of surgical instruments globally.",
+        "• Production data for selected manufactured goods from 2016 to 2024 shows varying trends, including:",
+        "• Cotton yarn production peaked at 3,459 thousand metric tonnes in 2022 but declined to 2,477 thousand metric tonnes by 2024.",
+        "• Jute goods production fluctuated, reaching 74 units in 2018 and dropping to 41 units in 2024.",
+        "• Cooking oil production steadily increased from 380 units in 2016 to 642 units in 2024.",
+        "• Sugar production varied, with a high of 7,921 units in 2021 and a slight decrease to 6,796 units in 2024.",
+        "• Cement production peaked at 49,797 units in 2021 and declined to 39,566 units in 2024.",
+        "• Paper and board production rose from 610 units in 2016 to 787 units in 2024.",
+        "• Production of caustic soda increased from 225 units in 2016 to 497 units in 2024.",
+        "• Hydrogen chloride production showed significant growth from 172 units in 2016 to a peak of 525 units in 2023, slightly decreasing to 507 units in 2024.",
+        "• Sulphuric acid production fluctuated, with a low of 40 units in 2020 and a peak of 111 units in 2022, ending at 64 units in 2024.",
+        "• Vegetable ghee production increased from 1,241 units in 2016 to 1,554 units in 2023, slightly declining to 1,493 units in 2024.",
+        "• Cotton cloth production remained relatively stable around 1,039 million meters in 2016, declining to 871 million meters in 2024.",
+        "• Cigarette production showed volatility, with 54 billion units in 2016 dropping to 33 billion units in 2024.",
+        "• Nitrogenous fertilizers production fluctuated, reaching 3,483 thousand units in 2024.",
+        "• Phosphatic fertilizers production increased from 664 units in 2016 to 756 units in 2024.",
+        "• Cycle tyres and tubes production varied, with 11,490 thousand units in 2016 and 10,943 thousand units in 2024.",
+        "• Motor tyres and tubes production remained steady around 34,202 thousand units in 2016, slightly decreasing to 31,107 thousand units in 2024.",
+        "• Motorcycle production peaked at 2,825 units in 2018 but declined to 1,235 units in 2024.",
+        "• Bicycle production decreased from 199 units in 2016 to 159 units in 2024.",
+        "• Electric transformers production fluctuated, ending at 22 units in 2024.",
+        "• Refrigerator production peaked at 1,834 units in 2017 but declined to 818 units in 2024.",
+        "• Air conditioner production varied, with a peak of 540 units in 2021 and a decline to 224 units in 2024.",
+        "• Electric fans production increased from 2,033 units in 2016 to 2,283 units in 2024.",
+        "• Electric meters production rose from 1,310 units in 2016 to 2,117 units in 2024.",
+        "• Motor spirits/petrol production increased from 2,216 million liters in 2016 to 3,294 million liters in 2024.",
+        "• High speed diesel production fluctuated, with 5,236 million liters in 2016 and 5,340 million liters in 2024.",
+        "• Furnace oil production decreased from 3,080 million liters in 2016 to 2,633 million liters in 2024.",
+        "• Jeeps and cars production showed variability, peaking at 271,923 units in 2022 and declining to 100,221 units in 2024.",
+        "• Tractor production peaked at 71,894 units in 2018, with 46,275 units produced in 2024.",
+        "• Trucks and buses production peaked at 13,425 units in 2018, declining to 3,240 units in 2024.",
+        "• Pakistan's largest corporations predominantly operate in utilities and industrial sectors including oil, gas, electricity, automobiles, cement, food, chemicals, fertilizer, civil aviation, textiles, and telecommunications.",
+        "• Financial data for major Pakistani corporations in 2023 (all figures in billion PKR) include:",
+        "• Oil and Gas Development Co. Ltd.: Total assets of 1,424 billion PKR, sales of 414 billion PKR, and profit after tax of 224.6 billion PKR.",
+        "• Sui Northern Gas Pipelines Limited: Assets of 1,268 billion PKR, sales of 1,294 billion PKR, profit of 10.4 billion PKR.",
+        "• Pakistan State Oil Co. Ltd.: Assets of 983 billion PKR, sales of 3,391 billion PKR, profit of 5.7 billion PKR.",
+        "• K-Electric: Assets of 1,025 billion PKR, sales of 519 billion PKR, loss after tax of 30.9 billion PKR.",
+        "• Sui Southern Gas Co. Ltd: Assets of 798 billion PKR, sales of 376 billion PKR, loss of 11.4 billion PKR.",
+        "• Pakistan Petroleum Ltd.: Assets of 790 billion PKR, sales of 286 billion PKR, profit of 97.9 billion PKR.",
+        "• Lucky Cement Ltd.: Assets of 608 billion PKR, sales of 385 billion PKR, profit of 49.4 billion PKR.",
+        "• The Hub Power Co. Ltd.: Assets of 406 billion PKR, sales of 114 billion PKR, profit of 62.0 billion PKR.",
+        "• Attock Refinery Ltd.: Assets of 193 billion PKR, sales of 369 billion PKR, profit of 28.0 billion PKR.",
+        "• Fatima Fertilizer Co. Ltd.: Assets of 234 billion PKR, sales of 235 billion PKR, profit of 23.0 billion PKR.",
+        "• Engro Fertilizers Ltd.: Assets of 161 billion PKR, sales of 224 billion PKR, profit of 26.2 billion PKR.",
+        "• Fauji Fertilizer Co. Ltd.: Assets of 327 billion PKR, sales of 181 billion PKR, profit of 19.7 billion PKR.",
+        "• Attock Petroleum Ltd.: Assets of 108 billion PKR, sales of 474 billion PKR, profit of 12.5 billion PKR.",
+        "• Indus Motor Co. Ltd.: Assets of 123 billion PKR, sales of 178 billion PKR, profit of 9.7 billion PKR.",
+        "• Shell Pakistan Ltd.: Assets of 106 billion PKR, sales of 432 billion PKR, profit of 5.8 billion PKR.",
+        "• Fauji Fertilizer Bin Qasim Ltd.: Assets of 146 billion PKR, sales of 193 billion PKR, profit of 4.4 billion PKR.",
+        "• National Refinery Ltd.: Assets of 112 billion PKR, sales of 299 billion PKR, loss of 4.5 billion PKR.",
+        "• Nestle Pakistan Ltd.: Assets of 98 billion PKR, sales of 201 billion PKR, profit of 16.5 billion PKR.",
+        "• Cnergyico PK Limited: Assets of 365 billion PKR, sales of 194 billion PKR, loss of 13.6 billion PKR.",
+        "• Pakistan Telecommunication Co. Ltd.: Assets of 644 billion PKR, sales of 188 billion PKR, loss of 15.5 billion PKR.",
+        "• Pakistan International Airlines Corporation Ltd.: Assets of 321 billion PKR, sales of 179 billion PKR, loss of 17.5 billion PKR.",
+        "• Nishat Mills Ltd.: Assets of 170 billion PKR, sales of 142 billion PKR, profit of 12.2 billion PKR.",
+        "• Fauji Cement Co. Ltd.: Assets of 139 billion PKR, sales of 90 billion PKR, profit of 29.5 billion PKR.",
+        "• Gul Ahmed Textile Mills Ltd.: Assets of 134 billion PKR, sales of 139 billion PKR, profit of 4.9 billion PKR.",
+        "• INTERLOOP (Pvt) Ltd.: Assets of 125 billion PKR, sales of 121 billion PKR, profit of 21.7 billion PKR.",
+        "• Pakistan Tobacco Co. Ltd.: Assets of 110 billion PKR, sales of 110 billion PKR, profit of 29.0 billion PKR.",
+        "• Bestway Cement Ltd.: Assets of 175"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:32:44.286173",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 63
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "1.2.1.1",
+      "section_name": "Cement industry",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1947, Pakistan inherited four cement plants with a combined production capacity of 0.5 million tons, marking the initial foundation of the country's cement industry.",
+        "• Between 1956 and 1966, some expansion of the cement industry occurred, but the growth was insufficient to meet the pace of Pakistan's broader economic development.",
+        "• Due to inadequate domestic production, Pakistan resorted to importing cement starting in 1976–77, a practice that continued until the fiscal year 1994–95.",
+        "• By the time of the report, the cement sector in Pakistan comprised 27 plants, collectively contributing over Rs 30 billion annually to the national exchequer through various taxes.",
+        "• The rapid growth of Pakistan’s cement industry by 2013 was largely driven by increased demand from Afghanistan and other countries experiencing a real estate sector boom.",
+        "• In April 2020, the Pakistani government introduced a comprehensive incentive package aimed at stimulating the construction industry, which included an amnesty scheme, tax exemptions, and a Rs 36 billion subsidy specifically allocated for the Naya Pakistan Housing Scheme.",
+        "• As part of the 2020 incentive measures, banks were instructed to increase their lending to the construction sector to 5 percent of their total loan portfolio, promoting greater financial support for construction activities.",
+        "• Additionally, the government reduced the Federal Excise Duty (FED) on cement from Rs 2 per kilogram to Rs 1.5 per kilogram, providing further stimulus to the cement industry.",
+        "• Cement production capacity in Pakistan showed significant growth from 37.68 million tonnes in 2008 to 83.18 million tonnes in 2023, more than doubling over this 15-year period.",
+        "• Local dispatches of cement fluctuated over the years, starting at 22.58 million tonnes in 2008, peaking at 48.12 million tonnes in 2021, and then declining to 40.01 million tonnes by 2023.",
+        "• Cement exports experienced variability, rising from 7.72 million tonnes in 2008 to a peak of 10.98 million tonnes in 2009, then generally declining to 4.57 million tonnes by 2023.",
+        "• Total cement dispatches (local plus exports) increased from 30.30 million tonnes in 2008 to a high of 57.43 million tonnes in 2021, before falling to 44.58 million tonnes in 2023, reflecting dynamic market conditions and demand fluctuations.",
+        "• The data indicates that while production capacity consistently increased, local demand and export volumes showed more variability, influenced by domestic and international market factors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:32:54.532266",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "1.2.1.2",
+      "section_name": "Fertilizer industry",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2021, Pakistan's fertilizer industry comprises nine urea manufacturing plants, one DAP (Diammonium Phosphate) plant, three NP (Nitrogen-Phosphorus) plants, four SSP (Single Super Phosphate) plants, two CAN (Calcium Ammonium Nitrate) plants, one SOP (Sulphate of Potash) plant, and two blended NPK (Nitrogen-Phosphorus-Potassium) plants, collectively having a total production capacity of 9,172 thousand tonnes per annum.",
+        "• Urea is the predominant fertilizer produced in Pakistan, accounting for 70 percent of the total fertilizer production.",
+        "• The installed production capacity for urea stands at 6,307 thousand tonnes per annum, which is adequate to meet the domestic demand, contingent upon the continuous availability of uninterrupted gas and RLNG (Re-Liquefied Natural Gas) supply.",
+        "• Fertilizer offtake data by nutrient type from 2008 to 2022 shows fluctuations in consumption measured in thousand tonnes:",
+        "• Nitrogen offtake increased from 2,925 thousand tonnes in 2008 to 3,838 thousand tonnes in 2022, with notable variations such as a dip to 2,672 thousand tonnes in 2016 and a peak of 3,730 thousand tonnes in 2017.",
+        "• Phosphorus offtake rose from 630 thousand tonnes in 2008 to a peak of 1,279 thousand tonnes in 2017 before declining to 1,093 thousand tonnes in 2022.",
+        "• Potassium offtake remained relatively low compared to nitrogen and phosphorus, starting at 27 thousand tonnes in 2008 and increasing to 71 thousand tonnes in 2022, with minor fluctuations throughout the years.",
+        "• The data indicates a general upward trend in nutrient consumption, particularly for nitrogen and potassium, reflecting changes in agricultural fertilizer demand over the 15-year period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:33:02.283167",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "1.2.1.3",
+      "section_name": "Defence industry",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The defence industry of Pakistan operates under the Ministry of Defence Production and was established in September 1951 to promote and coordinate the diverse military production facilities developed since the country's independence.",
+        "• Pakistan's defence industry is actively involved in numerous joint production projects, including the development of the Al Khalid 2 tank, advanced trainer aircraft, combat aircraft, and artillery systems such as Multiple Rocket Launch Systems (MRLS).",
+        "• The industry also produces combat and surveillance drones, notably the GIDS Shahpar-1 and Shahpar-2 models, as well as battle management and surveillance radars, electronic warfare systems, naval ships, and submarines.",
+        "• Pakistan manufactures and exports weapons to over 40 countries worldwide, including several European nations, generating annual revenues of approximately $620 million.",
+        "• Between the periods 2004–2008 and 2009–2013, Pakistan's imports of sophisticated arms increased by 119 percent.",
+        "• China accounted for 54 percent of Pakistan’s arms imports during this period, while the United States supplied 27 percent of these imports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:33:08.249983",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "1.2.1.4",
+      "section_name": "Textiles industry",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The textile industry in Pakistan is predominantly concentrated in Punjab, whereas before 1990, it was mainly located in Karachi.",
+        "• The current textile industry consists of two primary segments: a highly organized large-scale sector and a fragmented cottage/small-scale sector.",
+        "• The organized large-scale sector primarily includes integrated Textile Mills, which contain numerous spinning units and a limited number of shuttle-less loom units.",
+        "• The unorganized sector comprises downstream industries such as Weaving, Finishing, Garment manufacturing, Towels, and Hosiery, all of which have significant export potential.",
+        "• Within the unorganized sector, some enterprises have expanded internationally and adopted progressive business philosophies.",
+        "• As of June 2021, the Pakistani textile industry included 517 textile units, consisting of 40 composite units and 477 spinning units.",
+        "• The industry operated 28,500 shuttle-less looms alongside 375,000 conventional looms as of June 2021.",
+        "• Growth in the spinning sector has been driven by export demand and domestic cotton production, with subsequent expansion in weaving and processing sectors.",
+        "• Independent air-jet weaving units have emerged as both standalone operations and in combination with spinning or processing units.",
+        "• A notable industry trend is the backward integration of some clothing units, while spinning units are developing weaving, finishing, and assembly capabilities to establish a complete supply chain.",
+        "• This integration fosters a symbiotic relationship between the textile and clothing sectors, resulting in horizontal and vertical integration often managed by the same companies or through business collaborations.",
+        "• The textile sector contributes approximately one-fourth (25%) of industrial value-added in Pakistan.",
+        "• The sector provides employment to about 40 percent of the industrial labor force in the country.",
+        "• Textile products have consistently accounted for an average of about 60 percent of Pakistan’s national exports, excluding seasonal and cyclical fluctuations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:33:16.127844",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "1.2.1.5",
+      "section_name": "Automobile industry",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The automobile sector accounted for approximately 7 percent of Large Scale Manufacturing (LSM) in Pakistan in 2021, playing a significant role in the country's industrial output.",
+        "• Government support and the removal of obstacles have fostered industrial expansion in the automobile sector, with expectations of positive outcomes in the near future.",
+        "• Numerous new investors have entered the market with commercial production, while existing manufacturers have made substantial investments and plan further expansions.",
+        "• Automakers Proton, MG, and Volkswagen have not yet commenced production but are anticipated to make a significant impact on the local passenger vehicle market.",
+        "• KIA, Hyundai, Changan, and Prince DFSK have already started vehicle production in Pakistan.",
+        "• Vehicle production and sales data from 2006 to 2024 indicate fluctuations across different vehicle types including cars, trucks, buses, jeeps & pick-ups, farm tractors, and 2/3 wheelers; production (P) and sales (S) figures are recorded annually.",
+        "• Car production peaked at 226,433 units in 2022 but declined to 79,573 units by 2024, while car sales followed a similar trend with 234,180 units sold in 2022 and 81,577 units in 2024.",
+        "• Truck production and sales remained relatively low, with production at 2,204 units and sales at 2,187 units in 2024.",
+        "• Bus production and sales were minimal, with 419 units produced and 454 units sold in 2024.",
+        "• Jeep and pick-up production and sales showed variability, with production at 21,084 units and sales at 22,250 units in 2024.",
+        "• Farm tractor production and sales also fluctuated, with production at 45,529 units and sales at 45,484 units in 2024.",
+        "• The 2/3 wheelers segment showed the highest volumes, with production at 1,150,090 units and sales at 1,150,112 units in 2024.",
+        "• The reported production and sales figures exclude companies that are not members of the Pakistan Automotive Manufacturers Association (PAMA).",
+        "• The introduction of new vehicle models and brands, combined with a significantly low benchmark interest rate of 7%, led to record-high consumer financing for automobiles in 2021.",
+        "• This surge in consumer financing began following the approval of the Automotive Development Policy (2016–2021) by the Economic Coordination Committee (ECC) on 18 March 2016.",
+        "• The growth in car financing demand in 2021 mirrored a similar trend during President Pervez Musharraf’s regime (2001–2008), when banks lent extensively for car purchases without stringent borrower credit assessments.",
+        "• The previous car financing boom ended abruptly due to widespread defaults on loan repayments.",
+        "• Outstanding consumer financing loans for automobiles, measured in billion Pakistani Rupees (PKR), increased from 97.78 billion PKR in June 2006 to a peak of 367.85 billion PKR in June 2022, before declining to 230.501 billion PKR by June 2024.",
+        "• The outstanding loan figures over the years were: 105.44 billion PKR (June 2007), 64.20 billion PKR (June 2010), 85.12 billion PKR (June 2015), 111.96 billion PKR (June 2016), 154.25 billion PKR (June 2017), 193.60 billion PKR (June 2018), 215.46 billion PKR (June 2019), 211.11 billion PKR (June 2020), 308.10 billion PKR (June 2021), 293.728 billion PKR (June 2023).",
+        "• The automobile industry's growth and financing trends are closely linked to government policies, market entry of new manufacturers, and macroeconomic factors such as interest rates and banking liquidity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:33:29.559659",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "1.2.2",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan possesses significant mineral resources and is increasingly recognized as a promising region for the prospecting and exploration of mineral deposits.",
+        "• Following the 18th amendment to the Constitution of Pakistan, all provinces gained the autonomy to exploit and explore mineral resources within their respective jurisdictions.",
+        "• The mining and quarrying sector contributes 13.19% to Pakistan's industrial sector and accounts for 2.4% of the country's Gross Domestic Product (GDP).",
+        "• Recent exploration activities conducted by government agencies and multinational mining companies have revealed substantial mineral deposits across Pakistan.",
+        "• Notably, recent discoveries in the Punjab province's shield area have identified a thick oxidized zone underlain by sulphide zones, which are covered by a thick alluvial layer, opening new opportunities for metallic mineral exploration.",
+        "• Pakistan has a substantial base of industrial minerals, with vast potential for precious and dimension stones.",
+        "• The discovery of coal deposits with reserves exceeding 175 billion tonnes in the Thar region of Sindh province has provided significant impetus for developing coal as an alternative energy source.",
+        "• Extraction data for principal minerals over the last ten fiscal years (FY 2015 to FY 2024) indicate the following trends:",
+        "• Coal production increased from 3,407,000 metric tons in FY 2015 to 20,086,000 metric tons in FY 2024, demonstrating substantial growth in coal mining.",
+        "• Natural gas extraction slightly declined from 1,466,000 MMCFT in FY 2015 to 1,141,000 MMCFT in FY 2024.",
+        "• Crude oil production decreased from 34,490,000 JSB in FY 2015 to 25,812,000 JSB in FY 2024.",
+        "• Chromite output fluctuated, reaching 259,000 metric tons in FY 2024, up from 100,516 metric tons in FY 2015.",
+        "• Dolomite production showed variability, with 502,000 metric tons extracted in FY 2024 compared to 223,117 metric tons in FY 2015.",
+        "• Gypsum extraction varied, with 2,136,000 metric tons produced in FY 2024, up from 1,417,000 metric tons in FY 2015.",
+        "• Limestone production increased from 40,470,000 metric tons in FY 2015 to 61,387,000 metric tons in FY 2024.",
+        "• Rock salt production fluctuated, with 3,200,000 metric tons extracted in FY 2024 compared to 2,136,000 metric tons in FY 2015.",
+        "• Sulphur production declined significantly from 19,730 metric tons in FY 2015 to 7,200 metric tons in FY 2024.",
+        "• Barytes production increased markedly from 24,689 metric tons in FY 2015 to 145,000 metric tons in FY 2024.",
+        "• Marble extraction showed variation, with 7,490,000 metric tons produced in FY 2024 compared to 2,816,000 metric tons in FY 2015.",
+        "• The Khewra Salt Mine, located in the Jhelum District, is a notable mining site within Pakistan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:33:42.959004",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "1.2.3",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The primary energy supply in Pakistan in 2022 was composed mainly of gas (29%), oil (24%), coal (15%), liquefied natural gas (LNG) (10%), and hydroelectricity (11%), reflecting significant shifts over the past two decades.",
+        "• Since the commencement of coal mining in the Thar desert and the start of LNG imports from Qatar, the shares of coal and imported LNG in Pakistan's primary energy supply have increased substantially within five years.",
+        "• The share of gas in primary energy supply declined from 50% in 2005 to 24% in 2022, while oil's share decreased from 35% in 2015 to 27% in 2022, largely replaced by coal and LNG.",
+        "• Pakistan plans to generate approximately 8,800 megawatts of nuclear power by 2030, contributing to a gradual increase in the nuclear share of the energy mix.",
+        "• Detailed primary energy supply data (in million tonnes of oil equivalent, MTOE) and percentage shares for selected years are as follows:",
+        "• 2005: Gas 27.95 MTOE (50.3%), Oil 16.33 MTOE (29.4%), Coal 4.23 MTOE (7.6%), Hydroelectricity 6.13 MTOE (11.0%), Nuclear 0.67 MTOE (1.2%), Total 55.59 MTOE.",
+        "• 2010: Gas 30.81 MTOE (48.8%), Oil 19.81 MTOE (31.4%), Coal 4.62 MTOE (7.3%), Hydroelectricity 6.71 MTOE (10.6%), Nuclear 0.69 MTOE (1.1%), Total 63.09 MTOE.",
+        "• 2015: Gas 29.98 MTOE (42.7%), Oil 24.97 MTOE (35.5%), Coal 4.95 MTOE (7.0%), Hydroelectricity 7.75 MTOE (11.0%), LNG 0.47 MTOE (0.7%), Nuclear 1.38 MTOE (2.0%), Renewable electricity 0.19 MTOE (0.3%), Total 70.26 MTOE.",
+        "• 2020: Gas 26.66 MTOE (33.0%), Oil 18.19 MTOE (26.7%), Coal 14.71 MTOE (18.2%), Hydroelectricity 8.02 MTOE (9.9%), LNG 8.32 MTOE (10.3%), Nuclear 2.58 MTOE (3.2%), Renewable electricity 0.99 MTOE (1.2%), Total 80.62 MTOE.",
+        "• 2023: Gas 23.88 MTOE (28.9%), Oil 20.11 MTOE (24.3%), Coal 12.57 MTOE (15.2%), Hydroelectricity 8.75 MTOE (10.6%), LNG 8.05 MTOE (9.7%), Nuclear 6.20 MTOE (7.5%), Renewable electricity 1.39 MTOE (1.7%), Total 82.62 MTOE.",
+        "• The Central Power Purchasing Agency-Guarantee (CPPA-G) procures electricity from power producers; the National Transmission and Despatch Company (NTDC) transmits electricity via transmission lines to Distribution Companies (DISCOs), which distribute electricity to end consumers.",
+        "• Balancing electricity supply and demand has been a persistent challenge in Pakistan; however, since 2018, electricity availability has improved due to increased generation capacity.",
+        "• Despite improvements in supply, electricity costs have risen due to factors including circular debt, capacity payments, fuel costs, currency devaluation, low recovery rates, and transmission and distribution losses.",
+        "• Pakistan faces significant challenges in modernizing and overhauling its electricity supply network to enhance efficiency and reliability.",
+        "• According to the National Electric Power Regulatory Authority (NEPRA), key electricity sector indicators from 2016 to 2024 include:",
+        "• Installed capacity increased from 25,421 MW in 2016 to 45,888 MW in 2024.",
+        "• Electricity generation rose from 114,093 GWh in 2016 to a peak of 154,056 GWh in 2022, then slightly declined to 137,196 GWh in 2024.",
+        "• Electricity consumption grew from 94,354 GWh in 2016 to 133,665 GWh in 2022, then decreased to 118,246 GWh in 2024.",
+        "• Transmission losses fluctuated between 2.31% and 2.83%, averaging around 2.5%.",
+        "• Distribution losses decreased from 18.14% in 2016 to 16.45% in 2023 but rose again to 18.31% in 2024.",
+        "• Electricity generation shares by source in 2024 were: Hydel 29.08%, Thermal 49.01%, Nuclear 16.88%, Renewable energy 4.75%, and Import 0.28%.",
+        "• The total demand for petroleum products in fiscal year (FY) 2022 was 23.1 million tonnes, with the transport and power sectors consuming approximately 90% of this demand.",
+        "• Sectoral consumption of petroleum products in FY 2022 (in thousand metric tonnes) was: Domestic 29.522, Industry 1,332.899, Agriculture 11.822, Transport 17,409.035, Power 3,683.322, Government 373.489, Overseas 250.121, totaling 23,090.210 thousand metric tonnes.",
+        "• Pakistan is a net importer of petroleum products and crude oil; in FY 2022, imports totaled approximately 12.9 million tonnes valued at over US$11.1 billion.",
+        "• Major imported petroleum products in FY 2022 included motor spirit/gasoline (6,502 thousand tonnes), high-speed diesel (3,950 thousand tonnes), and furnace oil (2,258 thousand tonnes).",
+        "• Import quantities and values for FY 2022 were: Motor Spirit (MS) 6,502.07 thousand tonnes valued at US$6,070.38 million; High-Octane Blending Component (HOBC) 125.62 thousand tonnes valued at US$115.94 million; High-Speed Diesel (HSD) 3,949.97 thousand tonnes valued at US$3,462.71 million; Furnace Oil (FO) 2,258.20 thousand tonnes valued at US$1,414.40 million; Jet Propellant-1 (JP-1) 53.87 thousand tonnes valued at US$47.42 million; total imports 12,889.73 thousand tonnes valued at US$11,110.85 million.",
+        "• In FY 2020–21, Pakistan's total refinery production reached 10.66 million tons, with Pakistan Refinery Limited (PARCO) holding the largest share at 41%, followed by Attock Refinery Limited (ARL) at 17%, Byco Petroleum Pakistan Limited (BPPL) at 16%, National Refinery Limited (NRL) at 14%, and Pak-Arab Refinery Limited (PRL) at 12%.",
+        "• The Oil and Gas Regulatory Authority (OGRA), established in March 2002, regulates the petroleum sector with objectives to promote competition, enhance private investment, and improve ownership through effective regulations.",
+        "• Oil Marketing Companies (OMCs) have developed infrastructure including storage facilities and retail outlets to market petroleum, oil, and lubricant (POL) products; Motor Spirit (MS) and High-Speed Diesel (HSD) constitute nearly 80% of OMC sales.",
+        "• By the end of FY 2021, OMCs had storage capacities of 0.58 million tons for MS and 0.88 million tons for HSD distributed across various depots nationwide.",
+        "• OMCs operate a total of 9,978 retail outlets across Pakistan, with Pakistan State Oil (PSO) having the largest share at 3,158 outlets, representing approximately 31.65% of the total retail network.",
+        "• Indigenous natural gas accounted for about 30% of Pakistan's total primary energy supply mix in FY 2022.",
+        "• Pakistan's extensive natural gas network includes over 13,775 kilometers of transmission pipelines, 157,395 kilometers of main pipelines, and 41,352 kilometers of service pipelines, serving more than 10.7 million consumers nationwide.",
+        "• In FY 2021–22, Pakistan's natural gas supply reached 3,982 million cubic feet per day (MMCFD).",
+        "• Major domestic gas fields supplying Pakistan include Sui, Uch, Qadirpur, Sawan, Zamzama, Badin, Bhit, Kandhkot, Mari, and Manzalai.",
+        "• Since 2015, Pakistan has been importing liquefied natural gas (LNG), with regasified LNG (RLNG) playing a key role in mitigating natural gas shortages; in 2021–22, imported RLNG accounted for approximately 24% of the country's gas supplies.",
+        "• In FY 2020–21, the power sector was the largest consumer of natural gas, using over 30% of total consumption, equivalent to 1,208 MMCFD; the domestic sector consumed 21% (850 MMCFD), and the fertilizer sector consumed 20%"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:34:20.447237",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 37
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Services",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan's service sector accounts for approximately 61.7% of the country's Gross Domestic Product (GDP), indicating its dominant role in the national economy.",
+        "• Within the service sector, transport, storage, communications, finance, and insurance collectively represent 24% of the sector's contribution to GDP.",
+        "• Wholesale and retail trade constitute about 30% of the service sector's share, highlighting the significance of commerce in Pakistan's services economy.",
+        "• The government of Pakistan actively promotes the expansion of the information industry and other modern service industries by providing incentives such as long-term tax holidays to encourage investment and growth.",
+        "• The service sector's annual growth rates from Fiscal Year (FY) 2008 to FY 2022 are as follows:",
+        "• FY 2008: 4.72%",
+        "• FY 2009: 1.84%",
+        "• FY 2010: 2.63%",
+        "• FY 2011: 2.86%",
+        "• FY 2012: 3.48%",
+        "• FY 2013: 5.13%",
+        "• FY 2014: 3.82%",
+        "• FY 2015: 4.20%",
+        "• FY 2016: 5.03%",
+        "• FY 2017: 5.62%",
+        "• FY 2018: 5.95%",
+        "• FY 2019: 5.00%",
+        "• FY 2020: -1.21% (notable contraction)",
+        "• FY 2021: 5.91%",
+        "• FY 2022: 6.59%",
+        "• The negative growth of -1.21% in FY 2020 reflects the impact of adverse conditions during that period, followed by a strong recovery in FY 2021 and FY 2022 with growth rates of 5.91% and 6.59%, respectively."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:34:28.525877",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "1.3.1",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the deregulation of Pakistan's telecommunications industry, the sector experienced exponential growth, with Pakistan Telecommunication Company Ltd (PTCL) becoming a Forbes 2000 conglomerate generating over US$1 billion in sales in 2005.",
+        "• The mobile telephone market in Pakistan expanded significantly since 2003, reaching a subscriber base of 140 million users by July 2017, positioning Pakistan among countries with the highest mobile teledensity globally.",
+        "• Pakistan received the Government Leadership award from the GSM Association in 2006, recognizing its advancements in telecommunications.",
+        "• The top mobile phone operators in Pakistan include Jazz Pakistan (owned by VEON, Netherlands), Ufone (owned by PTCL/Etisalat, Pakistan/UAE), Telenor (Norway), and Zong (China Mobile, China).",
+        "• By March 2009, Pakistan had 91 million mobile subscribers, an increase of 25 million from the same period in 2008; additionally, there were 3.1 million fixed lines and approximately 2.4 million Wireless Local Loop connections.",
+        "• Popular mobile phone brands in Pakistan include Sony Ericsson, Nokia, Motorola, Samsung, and LG.",
+        "• Between 2003 and 2007, the Pakistani telecom sector attracted over $9 billion in foreign investments, with the communication sector alone receiving $1.62 billion in Foreign Direct Investment (FDI) during 2007–08, accounting for about 30% of the country's total FDI.",
+        "• During the 2008/2009 Christmas and New Year period, Pakistan ranked among the top five countries in Asia Pacific for SMS traffic, with 763 million text messages sent via Acision messaging systems, contributing to a regional total of 6.37 billion messages.",
+        "• On 14 August 2010, Pakistan became the first country worldwide to experience EVDO RevB 3G technology, offering maximum speeds of 9.3 Mbit/s.",
+        "• Pakistan launched 3G and 4G services simultaneously on 23 April 2014 through an SMRA auction; Ufone, Mobilink, and Telenor obtained 3G licenses, while China Mobile's Zong received both 3G and 4G licenses.",
+        "• Warid Pakistan did not participate in the 2014 auction but launched 4G LTE services on its existing 2G 1800 MHz spectrum under technology-neutral terms, becoming the world's first telecom company to transition directly from 2G to 4G.",
+        "• By December 2017, Pakistan had 46 million 3G and 4G subscribers, marking significant adoption of advanced mobile technologies.",
+        "• The implementation of the Device Identification Registration and Blocking System (DIRBS) in 2019, combined with a comprehensive mobile manufacturing policy, fostered a favorable environment for local mobile device manufacturing.",
+        "• In 2021, for the first time in Pakistan's history, local mobile phone manufacturing surpassed imported mobile phone volumes.",
+        "• Mobile device manufacturing licenses have been issued to 26 companies in Pakistan, including major brands such as Samsung, Redmi, Realme, Nokia, Oppo, TECNO, Infinix, Itel, Vgotel, and Q-Mobile.",
+        "• According to Pakistan Telecommunication Authority (PTA) data, teledensity increased from 4.31% in 2003 to a peak of 84.6% in 2021, slightly declining to 80.5% by 2024.",
+        "• Telecom subscribers grew from 2.4 million in 2003 to 197.2 million in 2021, with a slight decrease to 195.1 million by 2024.",
+        "• Broadband subscribers rose from 0.03 million in 2003 to 138.3 million in 2021, with broadband penetration increasing from 0.0% in 2003 to 57.0% in 2021.",
+        "• Cellular mobile data usage expanded from 690 petabytes in 2017 to 13,021 petabytes by 2021.",
+        "• Telecom sector revenues increased from 118 billion PKR in 2003 to 955 billion PKR in 2023.",
+        "• The telecom sector's contribution to the exchequer rose from 30 billion PKR in 2003 to a peak of 341 billion PKR in 2022, slightly decreasing to 335 billion PKR in 2024.",
+        "• Total telecom investment fluctuated over the years, peaking at 4,109 million US$ in 2005 and recording 765 million US$ in 2021.",
+        "• Mobile Completely Built Unit (CBU) imports declined significantly from 18.11 million units in 2003 to 1.71 million units in 2020.",
+        "• Local assembly and manufacturing of mobile devices increased from 1.72 million units in 2003 to 31.38 million units in 2020, reflecting growth in domestic production capacity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:34:49.064141",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "1.3.1.1",
+      "section_name": "Air linkage",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1955, Pakistan International Airlines (PIA) inaugurated its first scheduled international service, flying to London via Cairo and Rome, marking a significant milestone in Pakistan's aviation history.",
+        "• In 1959, the Government of Pakistan appointed Air Commodore Nur Khan as the managing director of PIA; under his visionary leadership, PIA rapidly advanced to become one of the world's leading airlines within six years, a period often referred to as the \"golden years of PIA.\"",
+        "• On 29 April 1964, PIA made history by becoming the first airline from a non-communist country to operate a flight into the People's Republic of China, utilizing a Boeing 720B aircraft.",
+        "• Private sector airlines in Pakistan include Airblue, which operates domestic flights connecting major cities within Pakistan and international routes to destinations in the Persian Gulf and Manchester in the United Kingdom.",
+        "• According to PIA annual reports, the airline's route kilometers fluctuated over the years: 290,129 km in 2003, increasing to a peak of 705,820 km in 2020, before declining to 341,821 km in 2022.",
+        "• Passenger numbers carried by PIA varied, with 4.556 million in 2003, peaking at 5.617 million in 2008, dropping significantly to 2.541 million in 2020 due to global disruptions, and recovering to 4.281 million in 2022.",
+        "• Operating revenue for PIA showed growth from 47.952 billion PKR in 2003 to a high of 172.038 billion PKR in 2022, despite fluctuations and a dip during 2020 amid challenging conditions.",
+        "• Operating expenses consistently exceeded revenues in later years, rising from 42.574 billion PKR in 2003 to 183.354 billion PKR in 2022, reflecting increasing operational costs.",
+        "• PIA experienced financial losses after tax in most years from 2008 onwards, with losses escalating from −36.138 billion PKR in 2008 to a substantial −88.008 billion PKR in 2022, indicating ongoing financial challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:34:58.640331",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "1.3.1.2",
+      "section_name": "Railway linkage",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan Railways (PR) serves as a major public sector transport mode, significantly contributing to Pakistan’s economic growth and fostering national integration.",
+        "• The first railway line in Pakistan was inaugurated on 13 May 1861, connecting Karachi City to Kotri over a distance of 169 kilometers.",
+        "• In 1885, the Sindh, Punjab, and Delhi Railways were acquired by the Secretary of State for India, leading to the integration of these lines and other State Railways on 1 January 1886 to form the North Western State Railway, later renamed North Western Railways (NWR).",
+        "• At the time of Pakistan’s independence in 1947, the North Western Railways was bifurcated, with 1,847 route miles allocated to India and 5,048 route miles to Pakistan.",
+        "• As of 2022, Pakistan Railways operated a fleet of 467 locomotives, comprising 462 diesel engines and 5 steam engines, servicing a route length of 7,479 kilometers.",
+        "• In 2022, Pakistan Railways employed a workforce of 60,643 individuals.",
+        "• The route kilometers of Pakistan Railways remained largely stable from 2016 to 2024, fluctuating slightly between 7,479 km in 2022 and 7,791 km in other years.",
+        "• Track kilometers were consistently reported at 11,881 km from 2016 to 2021 and again from 2023 to 2024, with a minor reduction to 11,492 km in 2022.",
+        "• Passenger carriage figures showed variation over the years: starting at 52,192,000 passengers in 2016, peaking at 60,387,000 in 2019, declining sharply to 28,424,000 in 2021, and recovering to 42,103,000 by 2024.",
+        "• Goods transported by Pakistan Railways increased from 5,001,000 tonnes in 2016 to a peak of 8,376,000 tonnes in 2019, followed by fluctuations with 7,854,000 tonnes reported in 2024.",
+        "• Operating revenue of Pakistan Railways showed an upward trend from 36.58 billion PKR in 2016 to 88.73 billion PKR in 2024, despite some fluctuations in intermediate years.",
+        "• Operating expenses also increased over the period, from 41.86 billion PKR in 2016 to 88.31 billion PKR in 2024, reflecting rising costs associated with railway operations.",
+        "• Pakistan Railways consistently reported net losses throughout the period, with losses ranging from 26.53 billion PKR in 2016 to 53.32 billion PKR in 2024, indicating ongoing financial challenges despite revenue growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:35:06.723455",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "1.3.1.3",
+      "section_name": "Road linkage",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The National Highway Authority (NHA) was established in 1991 through an Act of Parliament to oversee the planning, development, operation, repair, and maintenance of National Highways and Strategic Roads in Pakistan.",
+        "• The NHA is responsible for highways and roads specifically entrusted to it by the Federal Government, Provincial Governments, or other relevant authorities.",
+        "• The NHA manages a network of 39 national highways, motorways, expressways, and strategic routes, which collectively span a total length of 12,131 kilometers.",
+        "• This NHA-managed network constitutes 4.6% of Pakistan’s total national roads network, which measures 263,775 kilometers in length.",
+        "• Despite representing only 4.6% of the total road network, the NHA-managed roads carry 80% of Pakistan’s commercial traffic.",
+        "• The N-5 National Highway, described as the lifeline of Pakistan, alone carries 65% of the commercial traffic load within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:35:10.636515",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "1.3.1.4",
+      "section_name": "Maritime linkage",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Pakistan National Shipping Corporation (PNSC) serves as the national flag carrier of Pakistan, established in 1979 through the merger of the National Shipping Corporation and Pakistan Shipping Corporation.",
+        "• Since its inception, PNSC has operated globally in the dry bulk segment of the shipping market, expanding its services to include the transportation of liquid cargo both domestically and internationally starting in 1998.",
+        "• The head office of the Pakistan National Shipping Corporation is situated in Karachi, Pakistan.",
+        "• As of the latest data, the PNSC fleet consists of eleven vessels encompassing various types and sizes: five bulk carriers, four Aframax tankers, and two LR-1 Clean Product tankers.",
+        "• The total deadweight capacity of the PNSC fleet is 831,711 metric tons, representing the highest cargo carrying capacity achieved by the corporation since its formation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:35:14.811665",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "1.3.2",
+      "section_name": "Finance",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan possesses a large and diverse banking system that underwent significant transformation beginning in 1974 when a nationalization programme established six government-owned banks.",
+        "• During the 1990s, a privatization programme facilitated the entry of foreign-owned and local private banks into Pakistan’s banking industry.",
+        "• As of 2010, the banking sector in Pakistan comprised five publicly-owned commercial banks, 25 domestic private banks, six multinational banks, and four specialised banks.",
+        "• Downtown Karachi hosts the headquarters of many Pakistani banks, including prominent landmarks such as the MCB Tower and Habib Bank Plaza.",
+        "• Since 2000, Pakistani banks have aggressively marketed consumer finance products to the emerging middle class, resulting in a consumption boom exemplified by waiting lists exceeding seven months for certain car models and a concurrent construction boom.",
+        "• The Pakistani banking sector demonstrated remarkable strength and resilience during the 2008 global financial crisis, attracting significant foreign direct investment (FDI) into the sector.",
+        "• Stress tests conducted in June 2008 indicated that large banks in Pakistan were relatively robust, while medium and small-sized banks strategically positioned themselves in niche markets.",
+        "• The Pakistan Bureau of Statistics provisionally valued the banking sector at Rs.807,807 million in 2012, reflecting over 510% growth since the year 2000.",
+        "• An econometric study published in the Journal of the Asia Pacific Economy by Mete Feridun (University of Greenwich, London) and Abdul Jalil (Pakistan) provided strong evidence that financial development positively fosters economic growth in Pakistan.",
+        "• Financial statements of major Pakistani banks in 2023 (in billion PKR) are as follows:",
+        "• State Bank of Pakistan: Total assets Rs.19,687 billion, Revenue Rs.1,218 billion, Profit after tax Rs.1,143.0 billion",
+        "• Habib Bank Ltd: Total assets Rs.5,202 billion, Revenue Rs.277 billion, Profit after tax Rs.56.9 billion",
+        "• Meezan Bank: Total assets Rs.3,012 billion, Revenue Rs.249 billion, Profit after tax Rs.84.5 billion",
+        "• National Bank of Pakistan: Total assets Rs.6,653 billion, Revenue Rs.209 billion, Profit after tax Rs.51.8 billion",
+        "• MCB Bank Ltd.: Total assets Rs.2,427 billion, Revenue Rs.181 billion, Profit after tax Rs.59.6 billion",
+        "• United Bank Limited: Total assets Rs.5,575 billion, Revenue Rs.166 billion, Profit after tax Rs.53.2 billion",
+        "• Bank Alfalah: Total assets Rs.3,346 billion, Revenue Rs.154 billion, Profit after tax Rs.36.5 billion",
+        "• Bank AL Habib: Total assets Rs.2,741 billion, Revenue Rs.147 billion, Profit after tax Rs.35.3 billion",
+        "• Allied Bank Limited: Total assets Rs.2,329 billion, Revenue Rs.138 billion, Profit after tax Rs.40.7 billion",
+        "• Standard Chartered Bank Ltd.: Total assets Rs.1,002 billion, Revenue Rs.107 billion, Profit after tax Rs.42.6 billion",
+        "• HabibMetro: Total assets Rs.1,556 billion, Revenue Rs.87 billion, Profit after tax Rs.24.4 billion",
+        "• Digital banking channels have gained significant popularity in Pakistan in recent years, providing faster and more accessible financial services to a broad customer base.",
+        "• Internet banking and mobile banking have experienced substantial growth over the last five years, with internet banking transactions growing at a compound annual growth rate (CAGR) of 31%, and mobile banking transactions growing at a CAGR of 86%.",
+        "• Payment system infrastructure data from fiscal years 2020 to 2024 shows steady growth in banking facilities and digital usage:",
+        "• Number of commercial banks and microfinance banks (MFBs) increased from 44 in FY 2020 to 45 in FY 2024.",
+        "• Bank branches grew from 16,067 in FY 2020 to 18,450 in FY 2024.",
+        "• Total ATMs increased from 15,612 in FY 2020 to 18,957 in FY 2024.",
+        "• Internet banking users rose from 3,983,000 in FY 2020 to 11,996,000 in FY 2024.",
+        "• Mobile phone banking users increased from 8,452,000 in FY 2020 to 18,678,000 in FY 2024.",
+        "• POS (point of sale) machines expanded from 49,067 in FY 2020 to 125,593 in FY 2024.",
+        "• Credit cards in circulation grew from 1.66 million in FY 2020 to 2.04 million in FY 2024.",
+        "• Debit cards increased from 26.7 million in FY 2020 to 48.3 million in FY 2024.",
+        "• Payment system transaction statistics from FY 2020 to FY 2024 reveal the following trends:",
+        "• PRISM (Pakistan Real-time Interbank Settlement Mechanism), the country’s RTGS system, saw transaction volumes rise from 2.6 million in FY 2020 to 5.8 million in FY 2024, with transaction amounts increasing from Rs.394.3 trillion to Rs.1,043.1 trillion.",
+        "• Paper-based transactions remained relatively stable in volume, fluctuating around 570-600 million transactions annually, but the transaction amount increased from Rs.185.6 trillion in FY 2020 to Rs.447.7 trillion in FY 2024.",
+        "• Mobile banking transactions surged dramatically from 82.8 million in FY 2020 to 1,122.8 million in FY 2024, with transaction amounts rising from Rs.1.8 trillion to Rs.46.3 trillion.",
+        "• E-commerce transactions increased from 10.2 million in FY 2020 to 39.9 million in FY 2024, with the transaction amount growing from Rs.34.9 billion to Rs.194.3 billion.",
+        "• The Pakistan Real-time Interbank Settlement Mechanism (PRISM) serves as the country’s real-time gross settlement (RTGS) system, facilitating large-value interbank transactions efficiently."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:35:39.190497",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 38
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "1.3.3",
+      "section_name": "Housing",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 2001, Pakistan's property sector has experienced a 23-fold expansion, with significant growth observed particularly in major cities such as Lahore.",
+        "• In late 2006, the Karachi Chamber of Commerce and Industry estimated that Pakistan needs to increase its annual housing unit production to 0.5 million units to address a housing backlog of 6.1 million units and meet the housing shortfall projected over the next 20 years.",
+        "• The existing housing stock in Pakistan is rapidly aging, with estimates indicating that more than 50% of the housing units are over 50 years old.",
+        "• Approximately 50% of Pakistan’s urban population currently resides in slums and squatter settlements, highlighting severe urban housing challenges.",
+        "• The Karachi Chamber of Commerce and Industry report emphasized that addressing the housing backlog, along with replacing obsolete housing units, exceeds the financial capacity of the government alone.",
+        "• To tackle this issue, there is a need to establish a framework that facilitates financing through the formal private sector and mobilizes non-governmental resources to develop a market-based housing finance system.",
+        "• In 2020, the State Bank of Pakistan (SBP) introduced the Government's Mark-Up Subsidy Scheme aimed at promoting affordable housing and home ownership among low to middle-income groups who currently do not own homes.",
+        "• The Mark-Up Subsidy Scheme provides subsidized financing to individuals for the construction or purchase of new houses, resulting in a significant increase in demand for housing finance from commercial banks.",
+        "• Outstanding loans for consumer financing related to house building (in billion PKR) have fluctuated over the years, with figures recorded as follows:",
+        "• June 2006: 43.205 billion PKR",
+        "• June 2010: 54.500 billion PKR",
+        "• June 2015: 40.207 billion PKR",
+        "• June 2016: 48.153 billion PKR",
+        "• June 2017: 60.688 billion PKR",
+        "• June 2018: 82.939 billion PKR",
+        "• June 2019: 92.561 billion PKR",
+        "• June 2020: 79.803 billion PKR",
+        "• June 2021: 103.631 billion PKR",
+        "• June 2022: 200.765 billion PKR",
+        "• June 2023: 212.315 billion PKR",
+        "• June 2024: 203.580 billion PKR"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:35:49.730059",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "1.3.4",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism in Pakistan is recognized as the tourism industry's \"next big thing\" due to the country's diverse cultures, people, and landscapes attracting significant visitor interest.",
+        "• Pakistan has attracted a total of 90 million tourists, nearly doubling the number of tourists compared to a decade prior.",
+        "• Despite the growth in tourist numbers, Pakistan currently ranks 130th globally in terms of tourist income.",
+        "• The tourism industry in Pakistan has experienced a gradual decline in foreign tourists primarily due to the ongoing threat of terrorism within the country.",
+        "• The 2013 Nanga Parbat tourist shooting incident had a severe and adverse impact on Pakistan’s tourism sector, contributing to a downturn in tourist arrivals.",
+        "• As of 2016, tourism in Pakistan has begun a gradual recovery process, although the country remains ranked 130th worldwide in tourism income."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:35:52.085926",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Investment",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Foreign investment in Pakistan significantly declined by 54.6% by the year 2010, primarily due to political instability and weak law and order, as reported by the Bank of Pakistan.",
+        "• Since 1999, Pakistan has overhauled its business regulations along liberal lines, removing most barriers to capital flow and international direct investment, allowing up to 100% equity participation in most sectors for foreign investors.",
+        "• Foreign investors in Pakistan face no restrictions on capital inflow, and unlimited remittance of profits, dividends, service fees, or capital is permitted.",
+        "• Despite regulatory liberalization, the ease of doing business in Pakistan has deteriorated over the past decade due to increasing political instability, domestic insurgency, insecurity, and widespread corruption.",
+        "• The World Bank's Ease of Doing Business Index has downgraded Pakistan’s ratings annually since September 2009, reflecting the growing difficulties in conducting business.",
+        "• The World Bank and International Finance Corporation's Ease of Doing Business Index 2020 ranked Pakistan 108th out of 190 countries, showing continuous improvement from 136th place the previous year.",
+        "• The top five countries in the Ease of Doing Business Index 2020 were New Zealand, Singapore, Denmark, Hong Kong, and South Korea.",
+        "• Improvements in Pakistan’s business environment and government investment-friendly policies have attracted interest from major international automobile companies, including France’s Renault, South Korea’s Hyundai and Kia, China’s JW Forland, and Germany’s Volkswagen, aiming to enter the Pakistani auto market via joint ventures with local manufacturers such as Dewan Farooque Motors, Khalid Mushtaq Motors, and United Motors.",
+        "• As of March 2022, only the joint venture between Hyundai and Nishat Motors had materialized among these proposed automotive collaborations.",
+        "• US oil and gas multinational Exxon Mobil re-entered the Pakistani market in May 2018 after nearly three decades, acquiring a 25% stake in offshore drilling operations, with initial surveys indicating potential for significant hydrocarbon reserves offshore.",
+        "• To support Pakistan’s unstable foreign-exchange reserves, Qatar pledged a $3 billion investment package comprising deposits and direct investments, with the first installment of $500 million transferred to Pakistan by the end of June 2019.",
+        "• According to data from the State Bank of Pakistan (SBP), foreign direct investment (FDI) inflows in million US dollars for fiscal years 2008 to 2024 are as follows:",
+        "• FY 2008: $5,410 million",
+        "• FY 2009: $3,720 million",
+        "• FY 2010: $2,151 million",
+        "• FY 2011: $1,635 million",
+        "• FY 2012: $821 million",
+        "• FY 2013: $1,457 million",
+        "• FY 2014: $1,699 million",
+        "• FY 2015: $1,034 million",
+        "• FY 2016: $2,393 million",
+        "• FY 2017: $2,407 million",
+        "• FY 2018: $2,780 million",
+        "• FY 2019: $1,362 million",
+        "• FY 2020: $2,598 million",
+        "• FY 2021: $1,821 million",
+        "• FY 2022: $1,936 million",
+        "• FY 2023: $1,627 million",
+        "• FY 2024: $1,902 million"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:36:02.943973",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 29
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Foreign acquisitions and mergers",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The rapid growth of Pakistan's economy has attracted significant interest from foreign investors in the corporate sector, resulting in multinational groups acquiring majority stakes in various Pakistani corporations.",
+        "• Singapore-based Temasek Holdings acquired PICIC for $339 million, marking a notable foreign investment in Pakistan's financial sector.",
+        "• Standard Chartered Bank purchased Union Bank for $487 million, further exemplifying foreign acquisition activity in Pakistan’s banking industry.",
+        "• ABN Amro acquired Prime Commercial Bank for $228 million, demonstrating continued foreign interest in Pakistan’s commercial banking sector.",
+        "• China Mobile invested $460 million to acquire PakTel, indicating substantial foreign participation in Pakistan’s telecommunications industry.",
+        "• Etisalat acquired Pakistan Telecommunication Company Limited (PTCL) for $1.8 billion, representing one of the largest foreign investments in Pakistan’s telecom sector.",
+        "• Philip Morris International purchased an additional 57.6% shares of Lakson Tobacco Company for $382 million, expanding its stake in Pakistan’s tobacco industry.",
+        "• In 2016, Turkish appliance manufacturer Arçelik acquired Dawlance, a Pakistani home appliances company, for $243 million, highlighting foreign investment in Pakistan’s consumer goods sector.",
+        "• FrieslandCampina, a Dutch multinational dairy company, acquired a 51% stake in Engro Foods for $446.81 million in 2016, marking a significant foreign acquisition in Pakistan’s food industry.",
+        "• Also in 2016, The Abraaj Group sold its 66.4% stake in K-Electric, Pakistan’s largest private-sector power utility, to Shanghai Electric for $1.77 billion, reflecting major foreign investment in Pakistan’s energy sector.",
+        "• The foreign exchange inflows generated from these acquisitions and mergers are contributing to Pakistan’s ability to cover its current account deficit, thereby supporting macroeconomic stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:36:08.368012",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "Foreign trade",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan achieved its highest export value of US$25.4 billion in the fiscal year (FY) 2011, marking a peak in its foreign trade performance.",
+        "• From FY 2014 to FY 2016, Pakistan experienced a 12.4 percent decline in exports, primarily due to an international commodity slump beginning in FY 2015, compounded by domestic structural supply-side constraints such as energy shortages, high input costs, and an overvalued exchange rate.",
+        "• The export growth trend during 2014-2016 paralleled global trade growth patterns, indicating external factors influenced Pakistan’s export performance.",
+        "• In FY 2017, Pakistan’s merchandise trade exports grew marginally by 0.1 percent despite continued stress in the external sector, whereas imports surged by 18.0 percent compared to the previous year, reflecting an imbalance in trade dynamics.",
+        "• The State Bank of Pakistan (SBP) provides trade data on exports and imports, which may differ from figures compiled by the Pakistan Bureau of Statistics.",
+        "• Total exports (in billion US dollars) from FY 2008 to FY 2024 showed fluctuations: starting at 24.01 in FY 2008, peaking at 31.11 in FY 2011, declining to 27.43 in FY 2016, and rising again to 38.67 by FY 2024.",
+        "• Goods exports followed a similar pattern, reaching 25.37 billion in FY 2011, dipping to 21.97 billion in FY 2016, and recovering to 30.98 billion in FY 2024.",
+        "• Services exports increased from 3.56 billion in FY 2008 to 7.69 billion in FY 2024, with minor fluctuations throughout the period.",
+        "• Total imports (in billion US dollars) rose from 45.44 in FY 2008 to a peak of 84.49 in FY 2022, before declining to 63.96 in FY 2024, indicating a general upward trend with volatility.",
+        "• Goods imports increased from 35.28 billion in FY 2008 to 71.54 billion in FY 2022, then decreased to 53.16 billion in FY 2024.",
+        "• Services imports fluctuated between 6.99 billion in FY 2010 and 12.94 billion in FY 2022, settling at 10.80 billion in FY 2024.",
+        "• Pakistan’s trade deficit widened significantly over the years, starting at 21.43 billion in FY 2008, reaching a low of 12.46 billion in FY 2011, then expanding to 44.89 billion in FY 2022 before narrowing to 25.29 billion in FY 2024.",
+        "• The rising trend in Pakistan’s imports is attributed to increased economic activity linked to the China Pakistan Economic Corridor (CPEC), especially in the energy sector, where construction projects require heavy machinery imports.",
+        "• The current economic growth in Pakistan is driven by both investments and consumption, contributing to higher import levels.",
+        "• In FY 2018, Pakistan’s exports increased by 12.6 percent to US$24.8 billion compared to FY 2017, while imports rose by 16.2 percent to US$56.6 billion, resulting in a trade deficit of US$31.8 billion, the highest in a decade.",
+        "• Pakistan’s goods exports reached a record high of US$25.6 billion in FY 2021, surpassing the previous peak of US$25.3 billion recorded in FY 2011."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:36:23.752305",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 39
+    },
+    {
+      "section_number": "1.6.1",
+      "section_name": "Exports",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan's major export commodities from fiscal year (FY) 2015 to FY 2024 are detailed in million US dollars, covering key sectors such as textiles, agriculture, chemicals, and manufactured goods.",
+        "• Knitwear exports increased from $2,264 million in FY 2015 to a peak of $4,516 million in FY 2022, before slightly declining to $4,018 million in FY 2024.",
+        "• Ready-made garments exports showed steady growth from $2,044 million in FY 2015 to $3,698 million in FY 2022, with a minor decrease to $3,471 million by FY 2024.",
+        "• Bed wear exports fluctuated, starting at $2,207 million in FY 2015, rising to $3,255 million in FY 2022, then decreasing to $2,790 million in FY 2024.",
+        "• Rice exports varied over the period, beginning at $2,038 million in FY 2015, dipping to $1,575 million in FY 2017, then rising to $3,684 million by FY 2024, marking significant growth.",
+        "• Cotton cloth exports declined overall, from $2,487 million in FY 2015 to $1,898 million in FY 2024, with a low point of $1,884 million in FY 2021.",
+        "• Chemical and pharmaceutical exports experienced moderate growth, starting at $1,250 million in FY 2015, reaching $1,482 million in FY 2022, and slightly decreasing to $1,420 million in FY 2024.",
+        "• Cotton yarn exports showed a downward trend from $1,818 million in FY 2015 to $1,052 million in FY 2024, with the lowest value of $870 million recorded in FY 2023.",
+        "• Towels exports increased from $716 million in FY 2015 to $1,080 million in FY 2022, followed by a slight decrease to $954 million in FY 2024.",
+        "• Leather manufactures exports fluctuated modestly, starting at $547 million in FY 2015, peaking at $649 million in FY 2022, and slightly declining to $606 million in FY 2024.",
+        "• Sports goods exports declined steadily from $585 million in FY 2015 to $439 million in FY 2024, with a consistent downward trend throughout the period.",
+        "• Surgical goods and medical instruments exports remained relatively stable, increasing from $401 million in FY 2015 to $480 million in FY 2021, then slightly decreasing to $456 million in FY 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:36:34.478433",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 40
+    },
+    {
+      "section_number": "1.6.2",
+      "section_name": "Imports",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan's major import commodities from fiscal year (FY) 2014 to FY 2022 are detailed in a table with amounts expressed in million US dollars.",
+        "• Petroleum products imports fluctuated over the period, starting at $9,020 million in FY 2014, declining to $4,190 million in FY 2020, then sharply increasing to $10,296 million by FY 2022.",
+        "• Petroleum crude imports decreased from $5,755 million in FY 2014 to a low of $2,570 million in FY 2016, then rose again to $4,602 million in FY 2022.",
+        "• Liquefied natural gas (LNG) imports began at zero in FY 2014, then steadily increased each year, reaching $3,681 million in FY 2022.",
+        "• Plastic material imports showed a gradual increase from $1,680 million in FY 2014 to $3,251 million in FY 2022, with minor fluctuations.",
+        "• Palm oil imports started at $1,922 million in FY 2014, experienced some declines and rises, and reached $3,151 million in FY 2022.",
+        "• Road vehicles imports increased overall from $861 million in FY 2014 to $3,010 million in FY 2022, with some variability including a dip to $1,276 million in FY 2020.",
+        "• Iron and steel imports rose from $1,540 million in FY 2014 to $2,854 million in FY 2022, with a slight decrease in FY 2020 to $1,491 million.",
+        "• Raw cotton imports fluctuated, starting at $532 million in FY 2014, peaking at $1,342 million in FY 2020, and reaching $2,283 million in FY 2022.",
+        "• Telecom imports remained relatively stable initially, around $1,200 million, then increased significantly to $2,513 million in FY 2021 before slightly decreasing to $2,252 million in FY 2022.",
+        "• Electrical machinery and apparatus imports grew from $722 million in FY 2014 to $1,817 million in FY 2022, with some year-to-year variation.",
+        "• Textile machinery imports showed moderate growth from $658 million in FY 2014 to $1,212 million in FY 2022, with a low point of $492 million in FY 2015.",
+        "• Power generating machinery imports increased from $675 million in FY 2014 to a peak of $1,577 million in FY 2018, then declined to $795 million by FY 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:36:43.592887",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 41
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "External imbalances",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During fiscal year (FY) 2017, Pakistan experienced significant pressure on its external account primarily due to an increase in imports of capital equipment and fuel.",
+        "• A reversal in global oil prices during FY 2017 led to an increase in petroleum, oil, and lubricants (POL) imports, which, combined with falling exports, caused the merchandise trade deficit to grow by 39.4 percent, reaching US$26.885 billion.",
+        "• Although remittances and Coalition Support Fund inflows declined slightly in FY 2017 compared to the previous year, the negative impact was offset by an improvement in the income account, mainly attributed to lower profit repatriations by oil and gas firms.",
+        "• The current account deficit further increased to US$19.2 billion in FY 2018, marking a continued external imbalance challenge for Pakistan.",
+        "• Despite the high current account deficit in FY 2018, the effect on foreign exchange reserves was not severe due to the availability of financial inflows that partially offset the deficit and helped maintain exchange rate stability.",
+        "• Net foreign direct investment (FDI) grew by 12.4 percent during a nine-month period in FY 2018, reaching US$1.6 billion, indicating increased investor confidence.",
+        "• Net foreign portfolio investment (FPI) inflows amounted to US$631 million in FY 2018, reversing the previous year's outflow of US$393 million.",
+        "• The period saw the completion of multiple merger and acquisition deals between local and foreign companies, signaling growing foreign investor interest in Pakistan.",
+        "• Several foreign automakers announced plans to enter the Pakistani market, with some forming joint ventures with local conglomerates, further demonstrating Pakistan’s attractiveness to foreign investors and a positive outlook for future FDI inflows.",
+        "• The Pakistani government successfully issued a US$1.0 billion Sukuk in the international capital market at a notably low interest rate of 5.5 percent, reflecting favorable borrowing conditions.",
+        "• Pakistan continued to receive support from international financial institutions (IFIs) such as the World Bank and Asian Development Bank, as well as bilateral partners like China, during the post-Extended Fund Facility (EFF) period.",
+        "• Net official loan inflows amounted to US$1.1 billion during this period, contributing to the country’s external financing needs.",
+        "• By 4 May 2017, Pakistan’s foreign exchange reserves stood at US$20.8 billion, sufficient to finance approximately four months of import payments, indicating a relatively stable reserve position.",
+        "• The table of credit, debit, and net external account balances from FY 2008 to FY 2024 shows fluctuating trends:",
+        "• Credit (in billion US$) increased from 37.25 in FY 2008 to 72.45 in FY 2024.",
+        "• Debit (in billion US$) rose from 51.12 in FY 2008 to 74.14 in FY 2024.",
+        "• Net balances remained negative for most years, with a peak deficit of −19.20 billion US$ in FY 2018 and improving to −1.69 billion US$ by FY 2024.",
+        "• The net external balance as a percentage of GDP ranged from a deficit of −8.9% in FY 2008 to a low deficit of −0.6% in FY 2021, indicating some improvement in external imbalances relative to the size of the economy over time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:36:57.316708",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 42
+    },
+    {
+      "section_number": "1.8",
+      "section_name": "Economic aid",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pakistan receives economic aid from multiple sources in the form of loans and grants, including international financial institutions such as the International Monetary Fund (IMF), World Bank (WB), and Asian Development Bank (ADB).",
+        "• In addition to multilateral aid, Pakistan obtains bilateral aid from developed countries and oil-rich nations, making foreign aid a significant source of funding for the Pakistani economy.",
+        "• Securing foreign aid has been a consistent priority for nearly every Pakistani government, with the Prime Minister often leading delegations personally to negotiate and collect aid.",
+        "• The Asian Development Bank committed to providing approximately $6 billion in development assistance to Pakistan during the period 2006–2009.",
+        "• The World Bank launched a lending program of up to $6.5 billion for Pakistan under a new four-year aid strategy spanning 2006–2009, focusing largely on enhancing the country’s infrastructure.",
+        "• Japan pledged to provide $500 million annually in economic aid to Pakistan.",
+        "• In November 2008, the IMF approved a loan of $7.6 billion to Pakistan aimed at stabilizing and rebuilding the country’s economy.",
+        "• Between the fiscal years 2008 and 2010, the IMF extended loans totaling $5.2 billion to Pakistan.",
+        "• In 2011, the Pakistani government decided to sever ties with the IMF; however, the government elected in 2013 re-established these relations and negotiated a three-year $6.6 billion aid package to address ongoing debt challenges.",
+        "• In May 2019, Pakistan finalized a $6 billion foreign aid agreement with the IMF, marking the country’s 22nd bailout from the institution.",
+        "• The China–Pakistan Economic Corridor (CPEC) is being developed primarily through concessionary loans from China under the Belt and Road Initiative (BRI).",
+        "• The value of CPEC investments is difficult to quantify precisely in monetary terms as it encompasses decades of past and future industrial development and global economic influence, transcending conventional fiat currency valuation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:37:13.720348",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 43
+    },
+    {
+      "section_number": "1.9",
+      "section_name": "Remittances",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Remittances from Pakistanis living abroad have been a crucial component of Pakistan's economy and foreign exchange reserves, with significant contributions from Pakistanis settled in Western Europe, North America, and since 1973, from workers in oil-rich Arab states.",
+        "• The Pakistani diaspora, numbering approximately 9 million individuals, contributed US$19.3 billion to Pakistan’s economy in the fiscal year (FY) 2017.",
+        "• Major source countries for remittances to Pakistan include the United Arab Emirates (UAE), United States (US), Saudi Arabia, Gulf Cooperation Council (GCC) countries (Bahrain, Kuwait, Qatar, Oman), Australia, Canada, Japan, Norway, Switzerland, United Kingdom (UK), and other European Union (EU) countries.",
+        "• In FY2017, remittances experienced a negative growth rate of 3.0% compared to the previous year, which had reached an all-time high of US$19.9 billion; this decline was primarily attributed to adverse economic conditions in Arabian and Gulf countries following the 2016 fall in oil prices.",
+        "• Positive developments such as the Qatar FIFA World Cup, Dubai Expo, Saudi Arabia’s Vision 2030 implementation, and the Pakistani Prime Minister’s recent visit to Kuwait are expected to create new employment opportunities and potentially improve remittance inflows in subsequent years.",
+        "• According to the State Bank of Pakistan (SBP), remittances increased significantly to US$29.4 billion in the year 2021.",
+        "• The government of Pakistan and the SBP implemented measures to encourage the use of formal channels for sending remittances, which, along with stable foreign exchange market conditions, contributed to the rise in remittance inflows.",
+        "• Despite the global economic challenges posed by the coronavirus pandemic, remittances played a vital role in strengthening Pakistan’s external sector position.",
+        "• The remittance data, sourced from the State Bank of Pakistan and the Ministry of Finance, shows a steady increase in workers’ remittances over the years: from US$6.4 billion in FY2008 to US$30.3 billion in FY2024, with notable yearly figures including US$19.9 billion in FY2016, US$19.4 billion in FY2017, US$29.5 billion in FY2021, and US$31.3 billion in FY2022.",
+        "• Detailed remittance inflows by country for the fiscal year 2020/21 are as follows (in billion US$): Saudi Arabia (7.667), UAE (6.114), UK (4.067), Gulf Cooperation Council collectively (3.310), USA (2.754), European Union (2.709), Australia (0.594), Canada (0.586), Malaysia (0.204), Norway (0.111), Japan (0.085), Switzerland (0.041), and other countries combined (1.130)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:37:19.665511",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 44
+    },
+    {
+      "section_number": "1.10",
+      "section_name": "2022 Pakistan economic crisis",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 2022 Pakistan economic crisis was characterized by significant financial instability, reflected notably in the behavior of Pakistan government bonds across various maturities including 1 year, 5 year, 10 year, and 20 year terms.",
+        "• During the periods of 2019–2020 and again in 2022, Pakistan experienced an inverted yield curve, a financial phenomenon where shorter-term government bonds offered higher yields than longer-term bonds, indicating market expectations of economic downturn or increased risk.",
+        "• The inverted yield curve in Pakistan during these years was closely associated with rising inflation rates, which exerted pressure on the country’s economic stability and investor confidence.",
+        "• Inflation in Pakistan during this period was a critical factor influencing bond yields, with higher inflation eroding the real returns on fixed-income securities and compelling investors to demand higher yields for shorter maturities.",
+        "• The economic crisis and bond market conditions in Pakistan during 2019–2020 and 2022 reflected broader macroeconomic challenges, including fiscal deficits, currency depreciation, and external debt pressures that contributed to the overall financial distress.",
+        "• The interplay between inflation dynamics and bond yield curves in Pakistan during these years served as a key indicator of the underlying economic vulnerabilities and the market’s anticipation of future monetary policy adjustments by the State Bank of Pakistan.",
+        "• The 2022 economic crisis underscored the need for structural reforms and effective economic management to restore investor confidence and stabilize Pakistan’s financial markets amid persistent inflationary pressures and fiscal imbalances."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:37:25.914965",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 45
+    },
+    {
+      "section_number": "1.11",
+      "section_name": "Corruption",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Corruption remains a persistent problem within Pakistan's government, with various claims of anti-corruption initiatives particularly targeting government officials and lower levels of the police force.",
+        "• In 2011, Pakistan consistently ranked poorly on Transparency International's Corruption Perceptions Index (CPI), with scores of 2.5 in 2011, 2.3 in 2010, and 2.5 in 2009, on a scale where 10 represents the least corrupt.",
+        "• In 2011, Pakistan was ranked 134th on the CPI, with 42 countries ranked worse in terms of perceived corruption.",
+        "• Pakistan’s CPI ranking declined further in 2012, dropping from 134th to 139th place, positioning it as the 34th most corrupt country globally, tied with Azerbaijan, Kenya, Nepal, and Nigeria.",
+        "• During the Sharif regime from 2013 to 2017, Pakistan’s CPI ranking improved significantly, reaching 117th out of 180 countries in 2017, with the score increasing progressively from 28 in 2013 to 32 in both 2016 and 2017.",
+        "• In 2017, Pakistan’s CPI score of 32 placed it equal to Egypt and ahead of 59 other countries in terms of perceived corruption.",
+        "• The National Accountability Bureau (NAB) was established in 1999 as a response to the detrimental effects of corruption on Pakistan’s economy and governance.",
+        "• NAB’s primary mandate is to recover looted money from corrupt individuals and entities and to deposit these funds into the national exchequer.",
+        "• Between 2018 and 2020, NAB achieved a record recovery of Rs 502 billion from corrupt elements.",
+        "• Since its inception, NAB has recovered a total of Rs 814 billion either directly or indirectly from corrupt sources, surpassing the recovery amounts of other comparable anti-corruption organizations globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:37:33.977037",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 46
+    },
+    {
+      "section_number": "1.12",
+      "section_name": "Debt",
+      "chapter_name": "Economy of Pakistan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Pakistan ranked 57th globally in public external debt according to the CIA World Factbook, with an estimated debt of approximately $107.527 billion in 2019, representing 67.1% of its GDP in 2017.",
+        "• The primary source for Pakistan’s government debt and liabilities data is the State Bank of Pakistan.",
+        "• Gross public debt in Pakistan increased steadily from 9,010 billion PKR in June 2010 to 71,246 billion PKR projected for June 2024.",
+        "• Total government debt rose from 8,411 billion PKR in June 2010 to an estimated 65,080 billion PKR by June 2024.",
+        "• Public external debt in US dollars fluctuated from $53.6 billion in June 2010, peaking at $100.0 billion in June 2022, and was projected at $98.3 billion in June 2024.",
+        "• As a percentage of GDP, gross public debt ranged from 58.9% in June 2011 to a high of 76.6% in June 2019, with a projected decline to 67.2% by June 2024.",
+        "• Total government debt as a percentage of GDP varied from 54.3% in June 2011 to a peak of 69.9% in June 2019, with a forecasted decrease to 61.4% by June 2024.",
+        "• Public external debt as a percentage of GDP decreased from 30.8% in June 2010 to 19.5% in June 2017, then rose again to 32.3% in June 2023, before an expected decline to 25.8% by June 2024.",
+        "• Pakistan’s external debt servicing involves repayment of both principal and accrued interest amounts.",
+        "• Principal repayments on external debt fluctuated over fiscal years, starting at $3,140 million in FY2010, peaking at $15,061 million in FY2023, and projected to decrease to $9,273 million in FY2024.",
+        "• Interest payments on external debt increased from $1,015 million in FY2010 to a projected $5,457 million in FY2024, with notable rises in recent years.",
+        "• Total external debt servicing (principal plus interest) rose from $4,155 million in FY2010 to a peak of $19,482 million in FY2023, with a projected reduction to $14,730 million in FY2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:37:41.578670",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_pakistan.json",
+      "original_index": 47
+    }
+  ]
+}

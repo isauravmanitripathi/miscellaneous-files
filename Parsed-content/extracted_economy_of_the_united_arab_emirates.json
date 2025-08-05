@@ -1,0 +1,533 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_united_arab_emirates.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.228629",
+    "total_sections_in_source": 19,
+    "extracted_sections_count": 19,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Arab Emirates (UAE) is classified as a high-income developing market economy.",
+        "• The UAE's economy ranks as the 3rd largest in the Middle East, following Turkey and Saudi Arabia.",
+        "• The gross domestic product (GDP) of the UAE was US$415 billion (AED 1.83 trillion) during the period 2021-2023.",
+        "• The UAE economy is heavily dependent on revenues from petroleum and natural gas, with Abu Dhabi being the primary center for these resources.",
+        "• In 2009, over 85% of the UAE's economy was based on oil exports, indicating a strong reliance on the petroleum sector.",
+        "• By 2011, oil exports accounted for 77% of the UAE’s state budget, underscoring the fiscal importance of hydrocarbons.",
+        "• Economic diversification efforts have increased in recent years, particularly in Dubai, which has smaller oil reserves compared to other emirates.",
+        "• Abu Dhabi and other emirates have maintained a relatively conservative approach to economic diversification compared to Dubai.",
+        "• Tourism is one of the largest non-oil revenue sources in the UAE, contributing significantly to economic diversification.",
+        "• The UAE has experienced a massive construction boom, supported by an expanding manufacturing base and a thriving services sector, aiding economic diversification.",
+        "• In 2007, the UAE had US$350 billion worth of active construction projects, reflecting rapid infrastructure and development growth.",
+        "• The UAE is a member of the World Trade Organization (WTO), facilitating its integration into the global trading system.",
+        "• The UAE is also a member of the Organization of the Petroleum Exporting Countries (OPEC), aligning it with other major oil-producing nations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:22.439093",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic overview",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Arab Emirates (UAE) possesses the second-largest economy in the Arab world, following Saudi Arabia, with a gross domestic product (GDP) valued at US$414 billion (AED 1.52 trillion) in 2018.",
+        "• Approximately one-third of the UAE's GDP is derived from oil revenues, indicating a significant but not exclusive reliance on petroleum resources.",
+        "• Economic growth in the UAE was projected to be between 4% and 4.5% in 2013, an increase compared to the growth range of 2.3% to 3.5% experienced over the preceding five years.",
+        "• Since gaining independence in 1971, the UAE's economy expanded nearly 231 times, reaching AED 1.45 trillion by 2013, demonstrating rapid and sustained economic development.",
+        "• Non-oil trade in the UAE grew substantially to AED 1.2 trillion by 2012, representing an approximate 28-fold increase from 1981, highlighting diversification efforts beyond the oil sector.",
+        "• The UAE's economy is recognized as one of the most open globally, with historical economic activity dating back to maritime trade routes connecting to India, the Swahili coast, and as far south as Mozambique.",
+        "• International economic institutions, including the International Monetary Fund (IMF), have regularly reviewed the UAE's economy, generally issuing positive assessments regarding its economic progress.",
+        "• The IMF forecasted an increase in UAE's economic growth to 4.5% in 2015, up from 4.3% in 2014, attributing this growth to the expanding contributions of non-petroleum sectors.",
+        "• Non-petroleum sectors such as banking, tourism, commerce, and real estate registered average growth rates exceeding 6% during 2014 and 2015, reflecting diversification and economic resilience.",
+        "• Growth in Emirati purchasing power alongside increased governmental expenditure on infrastructure projects significantly contributed to the UAE's economic expansion during this period.",
+        "• Globally, the UAE ranks within the top 20 countries for global service business according to AT Kearney, within the top 30 most-networked countries per the World Economic Forum (WEF), and in the top quarter of least corrupt countries based on Transparency International's (TI) corruption index.",
+        "• In response to economic shocks caused by prolonged coronavirus lockdowns, the UAE government announced a comprehensive restructuring and merger of over 50% of its federal agencies, including ministries and departments, aiming to enhance recovery and economic management."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:24.124085",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Historical background",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to the United Arab Emirates' independence from the United Kingdom and its unification in 1971, each emirate managed its own economy independently.",
+        "• The primary economic activities before unification were pearl diving, seafaring, and fishing, which collectively formed the mainstay of the economy.",
+        "• The traditional pearl diving industry declined due to the development of Japanese cultured pearls and the discovery of commercially viable oil reserves.",
+        "• Sheikh Zayed Bin Sultan Al Nahyan, the former President of the UAE, is credited with modernizing the country in the 20th century by utilizing oil export revenues to finance essential national development projects.",
+        "• Rashid bin Saeed Al Maktoum, the former Vice-President of the UAE, envisioned economic growth beyond petroleum, emphasizing diversification into various other industries for the Emirate of Dubai.",
+        "• During the 1980s, Dubai’s economic diversification focused on trade and the establishment of major shipping and logistics hubs, including Port Rashid, the port and Free Zone of Jebel Ali, and Dubai International Airport.",
+        "• This strategic development led to the emergence of significant global companies in shipping, transportation, and logistics, such as DP World, Emirates airline, and DNATA."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:20.022650",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "2008-present",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 2008 financial crisis temporarily halted the rapid growth of Dubai's real estate market, necessitating a bailout from Abu Dhabi to stabilize the situation.",
+        "• Following the crisis, the recovery phase involved implementing tighter regulation and oversight across the UAE’s real estate sector, resulting in a more realistic and sustainable market environment.",
+        "• Numerous real estate projects that had been put 'on hold' during the crisis were restarted as the market stabilized and expanded.",
+        "• Despite ongoing expansion, current market conditions for real estate developers in the UAE have been described as 'tough,' indicating challenges remain in the sector.",
+        "• The COVID-19 pandemic caused a significant contraction in the UAE’s economy, with a 6.1% shrinkage recorded in 2020.",
+        "• The country’s account balance declined from 8.5% of GDP in 2019 to 6% of GDP in 2020, reflecting reduced performance in both hydrocarbon and non-hydrocarbon exports.",
+        "• This decline in exports was partially offset by a reduction in imports, which helped mitigate the overall economic impact.",
+        "• In late 2021, UAE authorities projected that banking assets would grow by between 8% and 10% in 2022, signaling recovery momentum in the financial sector.",
+        "• The UAE, recognized as the second-biggest Arab economy, was expected to experience economic growth surpassing earlier projections, with a forecasted GDP growth rate of 4.6% in 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:22.276337",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3",
+      "section_name": "Data",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1980, the United Arab Emirates (UAE) had a nominal GDP of 41.7 billion US dollars and a nominal GDP per capita of 41,312 US dollars; its GDP based on purchasing power parity (PPP) was 89.3 billion US dollars with a PPP GDP per capita of 88,437 US dollars, experiencing a real GDP growth rate of -1.8%, an inflation rate of 10.1%, and government debt data was not available.",
+        "• By 1985, the UAE's nominal GDP decreased to 38.5 billion US dollars with a nominal GDP per capita of 27,913 US dollars; PPP GDP rose to 111.5 billion US dollars and PPP GDP per capita was 80,817 US dollars, with a real GDP decline of -2.5%, inflation at 3.5%, and no government debt data reported.",
+        "• In 1990, nominal GDP increased to 50.7 billion US dollars and nominal GDP per capita was 27,485 US dollars; PPP GDP reached 154.1 billion US dollars with a PPP GDP per capita of 83,542 US dollars, alongside a significant real GDP growth of 23.6%, inflation at 0.6%, and government debt data remained unavailable.",
+        "• The year 1995 saw nominal GDP at 63.4 billion US dollars and nominal GDP per capita at 26,309 US dollars; PPP GDP was 210.5 billion US dollars with a PPP GDP per capita of 87,310 US dollars, real GDP growth was 6.6%, inflation was 4.3%, and government debt data was not available.",
+        "• In 2000, the UAE's nominal GDP rose sharply to 103.0 billion US dollars with a nominal GDP per capita of 34,386 US dollars; PPP GDP was 307.9 billion US dollars and PPP GDP per capita was 102,795 US dollars, real GDP growth was 12.3%, inflation was 1.3%, and government debt was 3.1% of GDP.",
+        "• By 2005, nominal GDP reached 180.6 billion US dollars and nominal GDP per capita was 43,984 US dollars; PPP GDP was 448.3 billion US dollars with a PPP GDP per capita of 109,162 US dollars, real GDP growth slowed to 4.9%, inflation increased to 6.2%, and government debt rose to 4.5% of GDP.",
+        "• In 2006, nominal GDP increased to 222.1 billion US dollars with a nominal GDP per capita of 44,314 US dollars; PPP GDP was 507.5 billion US dollars and PPP GDP per capita was 101,258 US dollars, real GDP growth was 9.8%, inflation rose to 9.3%, and government debt was 5.1% of GDP.",
+        "• The year 2007 saw nominal GDP grow to 257.9 billion US dollars and nominal GDP per capita decrease slightly to 41,467 US dollars; PPP GDP was 537.9 billion US dollars with a PPP GDP per capita of 86,492 US dollars, real GDP growth slowed to 3.2%, inflation increased to 11.1%, and government debt rose to 8.9% of GDP.",
+        "• In 2008, nominal GDP further increased to 315.5 billion US dollars with a nominal GDP per capita of 39,073 US dollars; PPP GDP was 565.8 billion US dollars and PPP GDP per capita was 70,075 US dollars, real GDP growth remained at 3.2%, inflation peaked at 12.3%, and government debt remained at 8.9% of GDP.",
+        "• The global financial crisis impacted 2009 with nominal GDP falling to 253.5 billion US dollars and nominal GDP per capita dropping to 30,920 US dollars; PPP GDP was 539.4 billion US dollars with a PPP GDP per capita of 65,781 US dollars, real GDP contracted by -5.2%, deflation occurred with inflation at -4.7%, and government debt surged to 21.1% of GDP.",
+        "• In 2010, nominal GDP recovered to 300.2 billion US dollars and nominal GDP per capita rose to 36,325 US dollars; PPP GDP was 574.8 billion US dollars with a PPP GDP per capita of 69,555 US dollars, real GDP growth was 5.3%, inflation was low at 0.9%, and government debt slightly decreased to 18.8% of GDP.",
+        "• The year 2011 showed nominal GDP at 360.8 billion US dollars and nominal GDP per capita at 42,987 US dollars; PPP GDP was 623.1 billion US dollars with a PPP GDP per capita of 74,235 US dollars, real GDP growth was 6.2%, inflation remained at 0.9%, and government debt increased to 20.9% of GDP.",
+        "• In 2012, nominal GDP rose to 384.6 billion US dollars and nominal GDP per capita to 45,108 US dollars; PPP GDP was 648.6 billion US dollars with a PPP GDP per capita of 76,070 US dollars, real GDP growth slowed to 1.8%, inflation was 0.7%, and government debt slightly decreased to 20.7% of GDP.",
+        "• By 2013, nominal GDP reached 400.2 billion US dollars with nominal GDP per capita at 46,207 US dollars; PPP GDP was 664.1 billion US dollars and PPP GDP per capita was 76,671 US dollars, real GDP growth rebounded to 5.1%, inflation was 1.1%, and government debt declined to 15.6% of GDP.",
+        "• In 2014, nominal GDP increased to 414.1 billion US dollars and nominal GDP per capita to 47,064 US dollars; PPP GDP was 696.8 billion US dollars with a PPP GDP per capita of 79,192 US dollars, real GDP growth was 4.2%, inflation rose to 2.3%, and government debt further decreased to 13.8% of GDP.",
+        "• The year 2015 saw nominal GDP decline to 370.3 billion US dollars and nominal GDP per capita to 41,423 US dollars; PPP GDP dropped to 621.6 billion US dollars with a PPP GDP per capita of 69,534 US dollars, real GDP growth increased to 6.8%, inflation rose to 4.1%, and government debt rose to 16.1% of GDP.",
+        "• In 2016, nominal GDP slightly decreased to 369.3 billion US dollars and nominal GDP per capita to 40,483 US dollars; PPP GDP was 619.3 billion US dollars with a PPP GDP per capita of 67,896 US dollars, real GDP growth was 5.6%, inflation dropped to 1.6%, and government debt increased to 19.3% of GDP.",
+        "• By 2017, nominal GDP rose to 390.5 billion US dollars with nominal GDP per capita at 41,972 US dollars; PPP GDP was 645.5 billion US dollars and PPP GDP per capita was 69,377 US dollars, real GDP growth slowed to 0.7%, inflation was 2.0%, and government debt increased to 21.9% of GDP.",
+        "• In 2018, nominal GDP increased to 427.0 billion US dollars and nominal GDP per capita to 45,592 US dollars; PPP GDP was 669.0 billion US dollars with a PPP GDP per capita of 71,419 US dollars, real GDP growth was 1.3%, inflation rose to 3.1%, and government debt slightly decreased to 21.3% of GDP.",
+        "• The year 2019 showed nominal GDP at 418.0 billion US dollars and nominal GDP per capita at 43,982 US dollars; PPP GDP was 687.7 billion US dollars with a PPP GDP per capita of 72,365 US dollars, real GDP growth was 1.1%, deflation occurred with inflation at -1.9%, and government debt increased to 26.8% of GDP.",
+        "• In 2020, the UAE's nominal GDP dropped significantly to 349.5 billion US dollars and nominal GDP per capita to 37,649 US dollars; PPP GDP was 662.3 billion US dollars with a PPP GDP per capita of 71,347 US dollars, real GDP contracted by -5.0%, inflation was negative at -2.1%, and government debt sharply increased to 41.1% of GDP.",
+        "• By 2021, nominal GDP rebounded to 415.2 billion US dollars and nominal GDP per capita rose to 43,439 US dollars; PPP GDP increased to 722.8 billion US dollars with a PPP GDP per capita of 75,624 US dollars, real GDP growth was 4.4%, inflation was nearly zero at -0.1%, and government debt decreased to 35.9% of GDP.",
+        "• In 2022, nominal GDP surged to 507.1 billion US dollars and nominal GDP per capita to 52,625 US dollars; PPP GDP was 834.4 billion US dollars with a PPP GDP per capita of 86,601 US dollars, real GDP growth was strong at 7.9%, inflation rose to 4.8%, and government debt further decreased to 31.1% of GDP.",
+        "• The IMF estimated for 2023 projected nominal GDP at 504.2 billion US dollars with nominal GDP"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:53.107078",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "4",
+      "section_name": "External trade",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, the United Arab Emirates (UAE) recorded imports totaling $273.5 billion, surpassing Saudi Arabia to become the largest consumer market in the region.",
+        "• During the same year, UAE exports amounted to $314 billion, positioning the country as the second largest exporter within the region.",
+        "• The UAE and India maintain a significant bilateral trade relationship, with trade volumes exceeding $75 billion (AED 275.25 billion), supported by a large Indian expatriate community living and working in the UAE.",
+        "• In 2021, the UAE's primary export partners were India (14.2%), Japan (8.3%), China (mainland) (7.7%), Saudi Arabia (7.5%), Iraq (4.8%), Singapore (4.0%), the European Union (4.0%), Oman (3.8%), Hong Kong (3.4%), and Thailand (3.0%).",
+        "• The main import partners of the UAE in 2012 included China (17.3%), the European Union (12.1%), India (9.4%), the United States (5.5%), Saudi Arabia (5.2%), the United Kingdom (2.8%), Mali (2.7%), Japan (2.6%), Turkey (2.1%), and Vietnam (2.0%)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:20.154925",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "5",
+      "section_name": "Diversification of the UAE's economy",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Arab Emirates (UAE) possesses the most diversified economy within the Gulf Cooperation Council (GCC), yet remains heavily reliant on oil revenues, with most emirates except Dubai dependent on petroleum and natural gas, particularly Abu Dhabi.",
+        "• In 2009, over 85% of the UAE's economy was based on oil exports, underscoring the central role of hydrocarbons in the national economy.",
+        "• By 2011, oil exports accounted for 77% of the UAE's state budget, reflecting continued fiscal dependence on oil revenues.",
+        "• Abu Dhabi and other emirates have adopted relatively conservative approaches to economic diversification, whereas Dubai, possessing far smaller oil reserves, has pursued a bolder diversification strategy.",
+        "• Dubai experienced a significant economic crisis between 2007 and 2010 and required financial support from Abu Dhabi's oil wealth to recover; Dubai's subsequent prosperity has been attributed to these \"petrodollars.\"",
+        "• As of 2014, Dubai's total debt amounted to $142 billion.",
+        "• The UAE government has targeted reducing the economy's dependence on oil exports by the year 2030, implementing various projects to facilitate this transition.",
+        "• One notable infrastructure project is the Khalifa Port in Abu Dhabi, which opened at the end of 2012 to support economic diversification efforts.",
+        "• The UAE secured the right to host the World Expo 2020, an event anticipated to positively influence future economic growth, although some skepticism exists regarding its impact.",
+        "• Dubai has actively sought alternative revenue sources over several decades, focusing on high-class tourism and international finance as key sectors for diversification.",
+        "• The Dubai International Financial Centre (DIFC) was established, offering 55.5% foreign ownership, exemption from withholding tax, freehold land and office space, and a bespoke financial regulatory framework modeled on best practices from leading global financial centers such as New York, London, Zürich, and Singapore.",
+        "• DIFC initiatives include the creation of a new stock market for regional companies and other financial sector developments.",
+        "• Dubai has also developed Internet and Media free zones, providing 100% foreign ownership, tax-free office space, and advanced communications infrastructure to attract leading ICT and media companies worldwide.",
+        "• Numerous global companies have established branch offices or relocated headquarters to Dubai due to these favorable conditions.",
+        "• Recent liberalization of the property market, allowing non-citizens to purchase freehold land, has triggered a major boom in construction and real estate, exemplified by signature developments such as the two Palm Islands, the World archipelago, Dubai Marina, and Jumeirah Lake Towers, offering villas, high-rise apartments, and office space.",
+        "• Emirates airline, formed by the Dubai government in the 1980s and part of the Emirates Group, has experienced strong growth and is the largest operator of the Airbus A380 aircraft.",
+        "• As of 2001, the UAE's budgeted government revenues were approximately AED 29.7 billion, with expenditures around AED 22.9 billion.",
+        "• The UAE has made progress in adopting sustainable electricity generation methods, demonstrated by solar energy initiatives at Masdar City and other renewable energy projects across the country.",
+        "• Local manufacturing is emerging as a new economic development source, with significant government-led investments such as Strata in the aerospace sector under Mubadala, alongside smaller entrepreneurial ventures like Zarooq Motors in the automotive industry.",
+        "• In August 2020, the Barakah nuclear power plant became operational, marking the first nuclear power plant in the Arab world.",
+        "• As part of its economic diversification strategy, the UAE has increased its presence in Africa, focusing on clean energy projects including five wind farms in South Africa, a battery energy storage system in Senegal, and solar power facilities in Mauritania, developed by Abu Dhabi’s Masdar.",
+        "• Emirati companies have also invested in African fossil fuel sectors, with Abu Dhabi National Oil Company (ADNOC) acquiring a 10% stake in Mozambique’s Rovuma gas basin.",
+        "• UAE telecommunications company e& has established operations in approximately 12 African countries.",
+        "• Emirati investments have extended into African mining, with Tahnoun bin Zayed’s International Holding Company expressing interest in mines located in Kenya, Tanzania, and Angola.",
+        "• Some Emirati investments in Africa have been controversial, including allegations that Tanzanian authorities displaced Maasai communities for a safari and hunting project linked to an Emirati firm.",
+        "• Dubai-based company Blue Carbon signed preliminary agreements in Liberia, Tanzania, Kenya, Zambia, and Zimbabwe to generate carbon credits but faced accusations of attempting to acquire millions of hectares of African forests as part of a greenwashing effort.",
+        "• DP World has invested approximately $3 billion in Africa, operating ports from Mozambique in the south to Algeria in the north and Angola on the Atlantic coast.",
+        "• The UAE has faced allegations of controversial involvement in African conflict zones, including Libya and Sudan.",
+        "• In October 2024, the UAE granted a “Commercial Gaming Facility Operator” license to Wynn Resorts, which is developing a $3.9 billion integrated resort named Wynn Al Marjan Island in Ras Al Khaimah, featuring a 224,000 square foot casino component.",
+        "• The Wynn Al Marjan Island project, scheduled to open in 2027, aims to attract foreign tourists and bolster the tourism sector.",
+        "• The UAE established the General Commercial Gaming Regulatory Authority (GCGRA) in September 2023; however, no laws currently legalize gambling or related devices, and gambling remains culturally taboo and illegal for UAE citizens.",
+        "• Despite the casino being constructed within the Emirates, project operators and insiders have refrained from public discussion about the facility."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:31.198459",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 32
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "6",
+      "section_name": "Foreign trade",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Arab Emirates (UAE) is recognized as one of the world's most dynamic foreign trade markets, ranking among the 16 largest exporters and 20 largest importers of commodities globally.",
+        "• In 2014, the UAE's top five main partner countries for trade were Iran (3.0%), India (2.9%), Saudi Arabia (1.5%), Oman (1.4%), and Switzerland (1.2%).",
+        "• The top five suppliers to the UAE in 2014 were China (7.4%), United States (6.4%), India (5.8%), Germany (3.9%), and Japan (3.5%).",
+        "• UAE's foreign trade indicators from 2010 to 2014 show consistent growth in imports and exports of goods and services:",
+        "• Imports of goods increased from $165 billion in 2010 to $262 billion in 2014.",
+        "• Exports of goods rose from $214 billion in 2010 to $360 billion in 2014.",
+        "• Imports of services grew from $41.3 billion in 2010 to $70.3 billion in 2014.",
+        "• Exports of services increased from $11 billion in 2010 to $19.8 billion in 2014.",
+        "• Annual percentage changes in imports of goods and services ranged from 2.1% in 2010 to 6.1% in 2014.",
+        "• Annual percentage changes in exports of goods and services ranged from 2.5% in 2010 to 8.2% in 2014.",
+        "• Imports of goods and services as a percentage of GDP rose from 72.2% in 2010 to 77.9% in 2014.",
+        "• Exports of goods and services as a percentage of GDP increased from 78.8% in 2010 to a peak of 101.3% in 2013, slightly declining to 98.0% in 2014.",
+        "• In 2014, the UAE exported goods valued at $380.4 billion, dominated by four main products:",
+        "• Diamonds (whether or not worked, but not mounted) accounted for 19.8% of exports.",
+        "• Gold (including gold plated with platinum, unwrought) constituted 3.4%.",
+        "• Articles of jewellery and parts thereof represented 3.2%.",
+        "• Other unspecified products made up 2.8%.",
+        "• The UAE imported goods worth $298.6 billion in 2014, with the top supplier countries being China (7.4%), United States (6.4%), India (5.8%), Germany (3.9%), and Japan (3.5%).",
+        "• In 2013, the UAE exported services valued at $17 billion, primarily dominated by:",
+        "• Travel services (67.13%)",
+        "• Transportation services (28.13%)",
+        "• Government services (4.74%)",
+        "• In the same year, the UAE imported services worth $63.9 billion, mainly consisting of:",
+        "• Transportation services (70.68%)",
+        "• Travel services (27.70%)",
+        "• Government services (1.62%)",
+        "• In September 2021, the UAE announced plans to strengthen trade ties with economies in Asia and Africa, aiming to attract approximately $150 billion in inward foreign investments by 2030.",
+        "• The UAE set a strategic goal to become one of the world’s ten largest investment nations by 2030, despite facing strong competition from Saudi Arabia, which has strained the previously assumed alliance between the two countries.",
+        "• The Emirati minister of state for foreign trade responded to Saudi competition by stating that increased competition would expand the overall market (\"the pie\"), thereby increasing the UAE’s share.",
+        "• The European Union (EU) identified Emirati firms involved in direct trade of weapon components to Russia, leading to sanctions against two UAE-based companies: I Jet Global and Success Aviation Services, for exporting dual-use goods.",
+        "• The EU warned that countries facilitating trade benefiting Russia could face a total ban on imports of EU military and high-tech equipment, with a potential trade war looming if UAE continued trade with Russia.",
+        "• The UAE introduced regulatory changes concerning the promotion and distribution of foreign investment funds, as mandated by the Securities and Commodities Authority (SCA):",
+        "• Foreign-owned funds are prohibited from publicly advertising or distributing units in the UAE.",
+        "• Distribution is restricted to private placements aimed at Professional Investors and/or Market Counterparties.",
+        "• Promotion or distribution to retail investors is prohibited, though reverse solicitation from retail investors is allowed.",
+        "• Only firms licensed by the SCA to conduct \"Promotion\" activities may promote foreign funds, and only on a private placement basis.",
+        "• All foreign funds distributed in the UAE must be registered with the SCA unless they can document reverse solicitation.",
+        "• In June 2024, the US State Department sanctioned three Emirati companies for involvement in the trade of Iranian petroleum or petrochemical products:",
+        "• Sea Route Ship Management FZE, acting as commercial manager of the vessel ASTRA, transported Iranian petrochemical products.",
+        "• Almanac Ship Management LLC and Al Anchor Ship Management FZE managed vessels BERENICE PRIDE and PARINE, respectively, transporting Iranian petroleum products.",
+        "• In July 2024, Samco Petroleum Energy FZE, based in Hamriyah Free Zone, was listed for sale at $17.7 million, offering a turnkey oil trading operation amid US sanctions targeting UAE free trade zone oil traders conducting business with Iran and Russia.",
+        "• In November 2023, the US Office of Foreign Assets Control (OFAC) sanctioned a dozen companies operating in various UAE free zones for facilitating the sale of Iranian products through Sepehr Energy, linked to Iran's Armed Forces General Staff.",
+        "• In March 2023, additional UAE-based companies were sanctioned for exporting petrochemical products from Iran’s Persian Gulf Petrochemical Industries to India and Southeast Asia.",
+        "• Emirati authorities were pressured to halt Russian imports and exports routed via Dubai due to international sanctions and trade restrictions.",
+        "• In September 2024, the UAE and Australia signed a free trade agreement expected to boost investment in Australia’s mineral and clean energy sectors by eliminating tariffs on over 99% of Australian goods.",
+        "• The Australia-UAE free trade deal faced criticism from Australian unions, which highlighted the UAE’s poor human rights and labor record, including issues of modern slavery under the kafala system.",
+        "• Michele O'Neil, an Australian union leader, expressed concerns about the exploitation of migrant workers in the UAE, describing the country as one of the most repressive regimes with which Australia has entered a bilateral trade agreement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:46.648134",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 47
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "7",
+      "section_name": "Human Resources and Employment",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Many buildings in the United Arab Emirates were constructed primarily by workers from South Asia and East Asia, reflecting the preference of the current generation of UAE nationals for governmental jobs over private sector employment.",
+        "• On 17 June 2008, approximately 7,500 skilled workers were employed at the Burj Khalifa construction site.",
+        "• Press reports from 2006 indicated that skilled carpenters at the Burj Khalifa site earned £4.34 per day, while laborers earned £2.84 per day.",
+        "• A BBC investigation and a Human Rights Watch report highlighted that these workers were housed in abysmal conditions and endured long working hours for low pay.",
+        "• During the construction of the Burj Khalifa, only one construction-related death was officially reported; however, Human Rights Watch noted that workplace injuries and fatalities in the UAE are \"poorly documented.\"",
+        "• In March 2006, about 2,500 workers protested due to delays in buses at the end of their shifts, which escalated into a riot causing damage to cars, offices, computers, and construction equipment.",
+        "• A Dubai Interior Ministry official estimated that the riot caused nearly £500,000 in damages.",
+        "• Most workers involved in the March 2006 riot returned to the site the following day but refused to work.",
+        "• Workers at Dubai airport also engaged in protests during this period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:27.308715",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Emiratisation",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Emiratisation is a government initiative in the United Arab Emirates (UAE) aimed at increasing the employment of UAE Nationals in both the public and private sectors in a meaningful and efficient manner.",
+        "• The Emiratisation program has been in place for over a decade, showing visible results in the public sector; however, the private sector remains significantly behind, with UAE Nationals constituting only 0.34% of the private sector workforce.",
+        "• There is broad consensus on the social, economic, and political importance of Emiratisation, but debate exists regarding its impact on organizational efficiency, particularly within multinational enterprises (MNEs) operating in the Middle East.",
+        "• Recent research indicates that localization through Emiratisation is not universally beneficial for firms and that its effectiveness depends on various contingent factors specific to the organizational and regional context.",
+        "• In December 2009, a newspaper article cited an unpublished study identifying a positive impact of UAE citizens in the workplace, specifically highlighting their advantageous use of networks within evolving power structures.",
+        "• Despite substantial investments in education, uptake of Emiratisation in the private sector remains low; education expenditures reached record levels in 2010, accounting for 22.5% of the overall budget or $2.6 billion.",
+        "• Multiple governmental initiatives actively promote Emiratisation by providing training across a wide range of skills for individuals from high school dropouts to university graduates, tailored to the predominantly Western work environment of the UAE; notable programs include Tawteen UAE, ENDP, and the Abu Dhabi Tawteen Council.",
+        "• The UAE has very limited anti-discrimination labor laws, with Emiratis and other Gulf Cooperation Council (GCC) nationals receiving employment preference; labor unions are generally banned, and workers with labor disputes are advised to contact the Ministry of Labour rather than engage in protests or work stoppages.",
+        "• Migrant workers frequently report issues such as poor workplace safety and wage disparities based on nationality, although these concerns are gradually being addressed by authorities.",
+        "• The Emirates Foundation for Philanthropy supports Emiratisation by funding major research initiatives through competitive grants, enabling academic institutions such as United Arab Emirates University and Dubai School of Government to develop and disseminate expertise on the subject.",
+        "• Key academics researching Emiratisation include Paul Dyer and Natasha Ridge from Dubai School of Government, Ingo Forstenlechner from United Arab Emirates University, Kasim Randaree from the British University of Dubai, and Paul Knoglinger from FHWien.",
+        "• In 2020, the UAE economy became vulnerable due to the COVID-19 pandemic, resulting in an economic shutdown; Dubai was particularly affected, with many expatriate workers losing their jobs and British expatriates reportedly selling possessions to raise funds amid strict visa regulations forcing repatriation.",
+        "• An April 2021 report by the Democracy Centre for Transparency (DCT) on discrimination against foreigners and expatriates in the UAE highlighted ongoing discrimination and racialization against migrant workers despite labor reforms, including workplace discrimination related to promotions, wages, and gender inequality.",
+        "• The DCT report emphasized concerns about discrimination given the UAE’s heavy reliance on foreign labor, calling for adherence to universal human rights principles in the country.",
+        "• The 31st edition of the World Report 2021 by Human Rights Watch reaffirmed persistent labor abuses in the UAE driven by the exploitative kafala system, noting that during the COVID-19 pandemic, migrant workers faced widespread unemployment, were stranded without legal residency, and suffered wage theft, leaving many unable to afford rent or food."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:36.309420",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "8",
+      "section_name": "Investment",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The stock market capitalization of listed companies in the United Arab Emirates was valued at $109.9 billion as of October 2012, according to data reported by Bloomberg."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:25.959740",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "8.1",
+      "section_name": "Outward investment",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The government of the United Arab Emirates established several investment institutions to promote and manage investments made by the UAE abroad.",
+        "• The Abu Dhabi Investment Authority (ADIA) is one of the key government investment institutions responsible for managing UAE's overseas investments.",
+        "• The Abu Dhabi Investment Council (ADIC) is another government entity created to oversee and promote UAE investments internationally.",
+        "• Mubadala Development Company (MDC) functions as a government investment institution aimed at managing and expanding the UAE's foreign investment portfolio.",
+        "• The International Petroleum Investment Company (IPIC) is a government-established institution focused on investing in international petroleum and energy sectors.",
+        "• Dubai World is a government-owned investment company involved in managing and promoting UAE investments abroad.",
+        "• Dubai International Capital (DIC) is a government investment institution dedicated to managing international investments on behalf of the UAE."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:29.680481",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "8.2",
+      "section_name": "Inward investment",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Arab Emirates (UAE) ranks 17th globally according to the Global Competitiveness Index (GCI).",
+        "• The GCI report attributes the UAE's competitiveness primarily to its \"high quality infrastructure.\"",
+        "• Additionally, the report highlights the presence of \"highly efficient goods markets\" as a key factor contributing to the UAE's competitive standing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:29.546779",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "9",
+      "section_name": "Corporate Governance Code",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2009, the Securities and Commodities Authority (SCA) of the United Arab Emirates introduced a new corporate governance regulation known as the Corporate Governance Code.",
+        "• The Corporate Governance Code applies specifically to all joint stock companies and institutions whose securities are listed on the Dubai Financial Market (DFM) and the Abu Dhabi Securities Exchange (ADX).",
+        "• This regulation was established to enhance transparency, accountability, and governance standards within publicly listed companies in the UAE financial markets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:32.004018",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "10",
+      "section_name": "Banking",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 19 June 2020, Moody's rating agency revised the outlook for eight banks in the United Arab Emirates from stable to negative due to concerns over \"the potential material weakening in their standalone credit profiles.\"",
+        "• The negative outlook change by Moody's was attributed to the UAE economy facing additional challenges amid the COVID-19 pandemic and persistently low oil prices.",
+        "• The eight banks affected by Moody's outlook downgrade included Abu Dhabi Commercial Bank, Emirates NBD, HSBC Bank Middle East, Dubai Islamic Bank, Abu Dhabi Islamic Bank, National Bank of Fujairah, National Bank of Ras al-Khaimah, and Mashreq Bank.",
+        "• Fitch Ratings, in its report dated 22 June 2020, forecasted a possible weakening of the Standalone Credit Profiles of UAE-based banks over the following year due to the combined effects of the COVID-19 pandemic and the collapse in oil prices.",
+        "• According to Fitch, despite the implementation of timely economic support measures, UAE banks’ profitability was expected to be adversely impacted by lower non-interest income, which was further exacerbated by controlled business volumes, reduced interest rates, and increased loan recovery charges.",
+        "• Fitch also anticipated a deterioration in asset quality among UAE banks, driven by the severe economic downturn that could render some borrowers unable to meet their financial obligations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:36.318634",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "11",
+      "section_name": "Real estate",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The development of the real estate and infrastructure sectors in the UAE during recent years has significantly contributed to establishing the country as a global touristic destination.",
+        "• Tourism's contribution to the Emirati GDP increased markedly from 3% in the mid-1990s to more than 16.5% by the end of 2010, reflecting the sector's rapid growth.",
+        "• This growth trend in tourism is supported by substantial public investments in touristic projects, amounting to approximately 47 billion US dollars annually, primarily allocated to expanding airports, increasing their capacity, and establishing new airports and ports.",
+        "• The real estate sector has had a positive impact on national development, job creation, investment inflows, and tourism, with numerous estate projects launched to meet market demands and the rising need for housing and commercial units, especially in Dubai and Abu Dhabi.",
+        "• The UAE holds about 37% of the region's petroleum and gas industries, chemical industries, as well as energy, water, and waste management projects, indicating its significant industrial base.",
+        "• The UAE government has been injecting substantial funds into tourism and real estate projects, particularly in Abu Dhabi and Dubai, to bolster economic diversification and urban development.",
+        "• Notable real estate and tourism milestones include Al Saadiyat Island in Abu Dhabi, the Burj Khalifa in Dubai—the tallest tower in the world—and the World Central project near Jebel Ali, all contributing to the UAE's high profile as a global tourist destination.",
+        "• According to the 2013–2014 Global Competitiveness Report, the UAE ranked fourth worldwide in terms of infrastructure quality, underscoring the country's advanced development in this sector.",
+        "• On 28 November 2020, the Abu Dhabi Media Office announced that, ahead of the UAE’s 49th National Day, the government granted house loans, land, and homes worth 2 billion US dollars (7.2 billion dirhams) to Emirati citizens.",
+        "• This housing package included 3,099 plots, 2,000 house loans, and 601 homes, alongside exemptions for some families of deceased citizens and retirees from mortgage repayments.",
+        "• Basheer Al Mehairbi, Director General of the Abu Dhabi Housing Society, stated that the sustainable housing initiative aims to ensure a good standard of living for UAE citizens, reflecting the government’s commitment to social welfare through real estate support."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:43.071746",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "11.1",
+      "section_name": "Real-estate projects",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Burj Khalifa is a significant real-estate project in the United Arab Emirates, renowned as the tallest building in the world.",
+        "• Creek Tower is a major real-estate development designed to be a prominent architectural landmark in Dubai.",
+        "• Mohammed bin Rashid City is a large-scale urban development project aimed at creating a mixed-use community with residential, commercial, and leisure facilities.",
+        "• Falcon City of Wonders is a themed real-estate project featuring replicas of world-famous landmarks and cultural icons.",
+        "• International City is a residential development characterized by its themed clusters representing different countries and cultures.",
+        "• Dubai Marina is a waterfront residential and commercial district known for its high-rise buildings and vibrant lifestyle amenities.",
+        "• Jumeirah Beach Residence is a waterfront community offering residential apartments and leisure facilities along the Persian Gulf coast.",
+        "• Jumeirah Lakes Towers (JLT) is a mixed-use development consisting of residential, commercial, and office towers arranged around artificial lakes.",
+        "• Business Bay is a central business district development featuring office towers, residential buildings, and hotels.",
+        "• Dubai Hills is a master-planned community that integrates residential neighborhoods with parks, golf courses, and retail centers.",
+        "• Dubai South is a planned city designed to support the Dubai World Central International Airport and includes residential, commercial, and logistics zones.",
+        "• City Walk is an urban retail and residential complex combining shopping, dining, and entertainment in an open-air environment.",
+        "• Al Furjan is a residential community offering villas and townhouses with a focus on family living and community amenities.",
+        "• Dubai Sports City is a mixed-use development centered around sports facilities, residential units, and commercial spaces.",
+        "• Dubai Motor City is a real-estate project focused on motorsports, including racing tracks, residential areas, and commercial developments.",
+        "• Saadiyat Island is a cultural and residential development in Abu Dhabi, hosting museums, luxury residences, and leisure facilities.",
+        "• The World, the Palms, and the Palm are artificial island projects in Dubai, designed to expand waterfront real estate and tourism infrastructure.",
+        "• Dubai Miracle Garden is recognized as the world’s largest natural flower garden, featuring elaborate floral displays and landscaping.",
+        "• Masdar City is an innovative urban development in Abu Dhabi aiming to be a zero carbon, zero waste city focused on sustainability and clean technology.",
+        "• Yas Island in Abu Dhabi is a major leisure and entertainment destination, featuring attractions such as Ferrari World and Yas Marina, a premier motorsport venue."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:44.495256",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "12",
+      "section_name": "Financial centers",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Arab Emirates hosts several prominent financial centers that play a critical role in its economy.",
+        "• The Dubai International Financial Center (DIFC) is a major financial free zone based in Dubai, operating under federal jurisdiction.",
+        "• The DIFC serves as a hub for financial services and institutions, contributing significantly to Dubai's status as a global financial center.",
+        "• The Abu Dhabi Global Market (ADGM) is another key international financial center situated on Al Maryah Island in Abu Dhabi.",
+        "• ADGM functions as a financial free zone, facilitating international financial activities and enhancing Abu Dhabi's economic diversification efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:39.581226",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "13",
+      "section_name": "Regional GDP",
+      "chapter_name": "Economy of the United Arab Emirates",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, the nominal Gross Domestic Product (GDP) of the United Arab Emirates (UAE) totaled 446.0 billion US dollars, with a GDP per capita of 48,000 US dollars.",
+        "• Abu Dhabi, the largest emirate by GDP, recorded a nominal GDP of 219.1 billion US dollars and a GDP per capita of 65,700 US dollars in 2023.",
+        "• Dubai’s economy contributed 138.1 billion US dollars to the UAE’s GDP in 2023, with a GDP per capita of 44,600 US dollars.",
+        "• Sharjah’s nominal GDP was 56.1 billion US dollars in 2023, accompanied by a GDP per capita of 32,100 US dollars.",
+        "• Ras Al Khaimah had a GDP of 14.3 billion US dollars in 2023, with a GDP per capita of 30,700 US dollars.",
+        "• Ajman’s economy contributed 10.9 billion US dollars to the UAE’s GDP in 2023, with a GDP per capita of 22,600 US dollars.",
+        "• Fujairah recorded a nominal GDP of 6.8 billion US dollars in 2023, with a GDP per capita of 23,500 US dollars.",
+        "• Umm Al Quwain had the smallest GDP among the emirates in 2023, at 0.7 billion US dollars, and a GDP per capita of 7,700 US dollars."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:41.834733",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_united_arab_emirates.json",
+      "original_index": 18
+    }
+  ]
+}

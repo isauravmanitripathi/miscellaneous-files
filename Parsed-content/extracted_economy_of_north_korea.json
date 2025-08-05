@@ -1,0 +1,960 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_north_korea.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.553142",
+    "total_sections_in_source": 34,
+    "extracted_sections_count": 34,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of North Korea is a centrally planned system based on the ideology of _Juche_, where market allocation mechanisms play a limited but somewhat increasing role as of 2024.",
+        "• North Korea maintains a fundamental adherence to a centralized planned economy despite some economic liberalization efforts, particularly following Kim Jong Un's rise to leadership in 2012.",
+        "• The total gross domestic product (GDP) of North Korea was approximately $28.5 billion in 2016.",
+        "• Since the 1990s, informal market activities known as 'Jangmadang' have expanded; these markets emerged due to the economic collapse in the 1990s which incapacitated the regime's ability to distribute food to its population.",
+        "• The North Korean government has tolerated these informal markets despite their unofficial status.",
+        "• Following the onset of the COVID-19 pandemic, the North Korean government intensified border controls and initiated major crackdowns on private economic activities, shifting towards a state-run monopoly on food sales.",
+        "• Post-pandemic measures also included greater centralization of foreign trade and enhanced overall economic control by the state.",
+        "• The collapse of the Eastern Bloc between 1989 and 1992, especially the dissolution of the Soviet Union—North Korea's principal economic supporter—forced North Korea to realign its foreign economic relations, including increasing economic exchanges with South Korea.",
+        "• China remains North Korea's largest trading partner.",
+        "• The _Juche_ ideology has driven North Korea to pursue autarky (economic self-sufficiency) despite facing international sanctions.",
+        "• The North Korean economy continues to be dominated by state-owned industries and collective farms, though there has been an increase in foreign investment and corporate autonomy.",
+        "• Historically, North Korea's GDP per capita was comparable to South Korea's from the aftermath of the Korean War until the mid-1970s.",
+        "• By the late 1990s and early 21st century, North Korea's GDP per capita had fallen to less than $2,000.",
+        "• In 2021, the South Korean Ministry of Unification estimated that the North Korean private sector had outgrown the public sector for the first time, up to 2020.",
+        "• However, the 8th Congress of the Workers' Party of Korea in 2021 introduced policies aimed at reinforcing the traditional command economy.",
+        "• These new policies have been gradually implemented, resulting in a significant contraction of markets and private economic activities in North Korea."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:18:32.079287",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Size of the North Korean economy",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Estimating North Korea's gross national product (GNP) is challenging due to a lack of reliable economic data and difficulties in selecting an appropriate exchange rate for the nonconvertible North Korean won.",
+        "• The South Korean government estimated North Korea's GNP in 1991 at US$22.9 billion, equating to US$1,038 per capita, while South Korea's GNP that year was US$237.9 billion with a per capita income of US$5,569.",
+        "• North Korea's GNP in 1991 declined by 5.2% compared to 1989, with preliminary signs indicating a continuing downward trend; in contrast, South Korea's GNP grew by 9.3% in 1990 and 8.4% in 1991.",
+        "• Between 1990 and 1999, North Korea's GNP is estimated to have nearly halved, reflecting severe economic contraction during that decade.",
+        "• North Korean annual budget reports indicate that state income approximately tripled between 2000 and 2014, suggesting some economic recovery or increased state revenue during this period.",
+        "• By around 2010, North Korea's external trade volume had returned to levels comparable to those in 1990.",
+        "• The Bank of Korea, based in South Korea, estimated North Korea's average GDP growth at 1.4% per year from 2000 to 2013, providing detailed annual GDP growth rates and nominal GDP and GNI per capita figures in Korean won (KR₩) for selected years.",
+        "• According to Bank of Korea estimates, North Korea experienced negative GDP growth in 1990 (-4.3%) and 1995 (-4.4%), followed by a positive growth rebound in 1999 (6.1%), with fluctuating growth rates through the 2000s and 2010s, including declines in 2006 (-1.0%), 2007 (-1.2%), 2009 (-0.9%), and 2015 (-1.1%).",
+        "• Nominal GDP figures in billion KR₩ reported by the Bank of Korea include 28,483.5 in 2009, rising to 40,194.2 in 2023, while GNI per capita increased from approximately 1,058,000 KR₩ in 2006 to 1,589,000 KR₩ in 2023.",
+        "• The Bank of Korea's GDP growth estimates show volatility in recent years, with negative growth rates in 2017 (-3.5%), 2018 (-4.1%), 2020 (-4.5%), and slight declines in 2021 (-0.1%) and 2022 (-0.2%), but a rebound to 3.1% growth in 2023.",
+        "• The Bank of Korea's analysis converts North Korean production volume estimates into South Korean prices, making the data sensitive to price changes in South Korean goods over time.",
+        "• Analyst Andrei Lankov, writing in 2017, noted that many observers consider the Bank of Korea's growth estimates conservative, suggesting the real growth rate may be between 3% and 4%.",
+        "• North Korea reported government budget increases ranging from 5% to 10% annually between 2007 and 2015, with planned capital expenditures on infrastructure such as roads and public buildings rising by 4.3% in 2014, 8.7% in 2015, and 13.7% in 2016.",
+        "• A North Korean economist estimated a 3.7% economic growth rate in 2017, projecting a GDP of US$29.6 billion in 2018.",
+        "• The Australian government estimated North Korea's economic growth at 1.3% in 2017, whereas the South Korean government estimated a contraction of −3.5% for the same year.",
+        "• In 2018, North Korea's government budget revenue plan was exceeded by 1.4%, representing a 4.6% increase over the 2017 budget revenue."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:18:53.909203",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic freedom",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2024, North Korea received an economic freedom score of 2.9 from the Heritage Foundation, a free-market oriented organization.",
+        "• This score positioned North Korea as having the world’s least free economy in terms of economic freedom.",
+        "• North Korea’s economic freedom score of 2.9 is significantly lower than both the global average and the regional average scores.",
+        "• According to the 2024 Index of Economic Freedom published by the Heritage Foundation, North Korea’s economy is classified as “repressed.”"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:18:58.312064",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Colonial period and post Second World War",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Japan officially annexed Korea on 22 August 1910, designating it as the Province of Choson during its colonial rule.",
+        "• The Japanese colonial administration encouraged significant inflows of Japanese capital into Korea’s underdeveloped economy, resulting in most major Korean firms becoming Japanese-owned and operated.",
+        "• Key managerial and executive positions in Korean firms were reserved exclusively for Japanese personnel, while Koreans were relegated to menial labor roles under harsh working conditions.",
+        "• The majority of Korea’s coal, iron, and agricultural production during the colonial period was exported to Japan to support its industrial needs.",
+        "• From the mid-1920s, Japanese colonial authorities focused industrial development efforts on the northern part of Korea, which was less populated but rich in natural resources, prompting significant migration from the agrarian southern provinces to the north.",
+        "• This northward migration trend reversed after the end of the Second World War in 1945, when over 2 million Koreans moved from North to South Korea following the division of the peninsula into Soviet and American military administrative zones.",
+        "• The southward migration continued after the establishment of the Democratic People’s Republic of Korea (North Korea) in 1948 and persisted throughout the Korean War from 1950 to 1953.",
+        "• The post-World War II division of Korea created significant imbalances in natural and human resources between North and South Korea, disadvantaging both regions economically.",
+        "• In 1945, approximately 80% of Korea’s heavy industry was located in the North, whereas the North only accounted for 31% of light industry, 37% of agricultural production, and 18% of the peninsula’s total commerce.",
+        "• Both North and South Korea experienced extensive destruction during the Korean War, severely damaging infrastructure and industrial capacity.",
+        "• Historian Charles K. Armstrong noted that North Korea was “virtually destroyed as an industrial society” by the war’s end.",
+        "• In the immediate postwar years, North Korea mobilized its labor force and natural resources aggressively to pursue rapid economic development and reconstruction.",
+        "• Substantial economic and material aid from communist allies, particularly the Soviet Union and the People’s Republic of China, played a crucial role in supporting North Korea’s high growth rates during the early postwar period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:19:07.732260",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Early efforts at modernization",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1961, North Korea launched an ambitious seven-year plan aimed at continuing industrial expansion and improving living standards; however, by 1964 it became evident that the plan was failing, leading to an extension of the plan period to 1970.",
+        "• The failure of the 1961 plan was attributed to reduced support from the Soviet Union after North Korea aligned more closely with China, coupled with increased military spending due to U.S. military pressure.",
+        "• In 1965, South Korea's economic growth rate surpassed North Korea's in most industrial sectors, although South Korea's per capita GNP remained lower than North Korea's at that time.",
+        "• By 1979, North Korea renegotiated much of its international debt, but in 1980 it defaulted on loans except those from Japan; by the end of 1986, hard-currency debt exceeded US$1 billion, with nearly US$2 billion owed to communist creditors, mainly the Soviet Union.",
+        "• Japan declared North Korea in default on its debts; by 2000, including penalties and accrued interest, North Korea’s debt was estimated at US$10–12 billion.",
+        "• By 2012, North Korea’s external debt had grown to approximately US$20 billion, despite Russia reportedly writing off about US$8 billion in exchange for participation in natural resource development; other major creditors included Hungary, the Czech Republic, and Iran.",
+        "• Due to debt issues, prolonged drought, and economic mismanagement, North Korea’s industrial growth slowed, and by the end of 1979, its per capita GNP had fallen to about one-third of South Korea’s.",
+        "• In the 1980s, minor efforts were made to relax central economic control, particularly in industrial enterprises, encouraged by Kim Jong Il’s March 1984 call to strengthen the independent accounting system (독립채산제, _tongnip ch'aesanje_) in enterprises.",
+        "• Under the independent accounting system, factory managers retained output targets but gained greater discretion over labor, equipment, materials, and funds decisions.",
+        "• Enterprises were allocated fixed capital plus a minimum of working capital from the state via the Central Bank and were required to cover operating expenses from sales proceeds; up to 50% of profits were taxed, with the remainder retained for equipment purchases, technology introduction, welfare, and bonuses.",
+        "• This system introduced some incentives and micro-level autonomy, differing from the budget allocation system where all surplus was surrendered to the government.",
+        "• The August Third People's Consumer Goods Production Movement, initiated after Kim Jong Il’s inspection of a light industrial products exhibition in Pyongyang on August 3, 1984, focused on consumer goods production using local resources and facilities.",
+        "• This movement allowed some local autonomy and represented a third sector in consumer goods production alongside centrally controlled light industry and locally controlled traditional light industry; it placed output, pricing, and purchases outside central planning and established direct sales stores for consumer distribution.",
+        "• Reports from the mid-1980s indicated increasing encouragement of small-scale private handicrafts and farm markets, though as of 1992, no expansion of private garden plots was reported.",
+        "• These measures were largely minor, stop-gap efforts to alleviate severe consumer goods shortages by introducing limited incentives without fundamental systemic reform.",
+        "• By mid-1993, no significant reforms indicating a fundamental shift in the economic system had occurred, largely due to political reluctance rooted in fears that economic reform would generate new interests demanding political expression and eventual liberalization.",
+        "• Starting in the mid-1980s and especially by the late 1980s, North Korea began slowly modifying its rigid self-reliance policy through an open-door policy emphasizing foreign trade, acceptance of direct foreign investment via a joint venture law, opening to international tourism, and economic cooperation with South Korea.",
+        "• The Third Seven-Year Plan (1987–1993) aimed to achieve the \"Ten Long-Range Major Goals of the 1980s for the Construction of the Socialist Economy,\" originally conceived in 1980 and extended due to disappointing performance during the Second Seven-Year Plan.",
+        "• The plan reiterated the three policy goals of self-reliance, modernization, and scientification, setting an annual economic growth target of 7.9%, lower than the previous plan.",
+        "• Quantitative targets were adjusted: the annual steel output target was reduced by one-third from 15 million tons to 10 million tons, while output targets for cement and non-ferrous metals—key export items—were significantly increased.",
+        "• In June 1989, the Three-Year Plan for Light Industry was introduced as part of the Third Seven-Year Plan to improve living standards by addressing consumer needs.",
+        "• For the first time, the Third Seven-Year Plan emphasized developing foreign trade and joint ventures.",
+        "• Resources were diverted to build infrastructure such as highways, theatres, hotels, and airports to host the Thirteenth World Festival of Youth and Students in July 1989, which negatively impacted industrial and agricultural development but yielded some long-term benefits through social infrastructure improvements."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:19:24.525487",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.2.1",
+      "section_name": "State Planning Commission",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Central People's Committee (CPC) decides general economic policy objectives, while the State Planning Committee is responsible for translating these broad goals into specific annual and long-term development plans and quantitative targets for the entire economy, individual industrial sectors, and enterprises.",
+        "• The 1964 planning reforms established two guiding principles for the planning process: \"unified planning\" (일원화, ilwŏnhwa) and \"detailed planning\" (새분화, saebunhwa).",
+        "• Under \"unified planning,\" regional committees are created in each province, city, and county to systematically coordinate planning work; these committees are directly supervised by the State Planning Committee and are not subordinate to any regional organization.",
+        "• A 1969 reorganization divided these regional committees into provincial planning committees, city/county committees, and enterprise committees specifically for large-scale enterprises.",
+        "• The planning committees coordinate their activities with the planning offices of economy-related government organizations at corresponding regional and local levels, facilitating better coordination between regional planning staff and economic establishments, which are directly responsible to them and maintain communication with CPC staff.",
+        "• The principle of \"detailed planning\" emphasizes constructing plans with precision and scientific methods based on concrete assessments of resources, labor, funds, plant capacities, and other necessary information.",
+        "• The economic policy planning process involves four stages in drafting the final national economic plan:",
+        "• Stage 1: Collection and compilation of preliminary statistical data prepared by lower-level economic units and aggregated nationally by respective departments and committees; simultaneously, regional, local, and enterprise planning committees prepare their own data and forward it to the CPC. This two-channel system aims to ensure an accurate, objective, and realistic data base free from local and bureaucratic bias.",
+        "• Stage 2: The CPC prepares control figures based on the preliminary data in accordance with the basic plan goals set by the Central People's Committee.",
+        "• Stage 3: The CPC prepares a draft plan by coordinating all draft figures submitted by lower-level economic units, which base their drafts on the control figures provided.",
+        "• Stage 4: The CPC submits a unified national draft plan to the Central People's Committee and the State Administration Council for confirmation; after approval by the Supreme People's Assembly, the draft becomes final and is distributed to all economic units and regional and local planning committees.",
+        "• Once finalized, the economic plan becomes legally binding and compulsory; frequent directives from the central government may adjust plan targets or provide incentives to meet objectives.",
+        "• The central government is actively involved in formulating and evaluating yearly and long-term plans and also reviews summaries of quarterly or monthly progress.",
+        "• Individual enterprises divide production time into daily, weekly, ten-day, monthly, quarterly, and annual periods, with the monthly plan serving as the basic factory planning period.",
+        "• The success of economic plans depends on the quality and detail of information received, establishment of realistic targets, coordination among sectors, and correct implementation.",
+        "• Early high growth during the Three-Year Plan and, to a lesser extent, the Five-Year Plan, fostered a false sense of confidence among planners.",
+        "• Statistical overreporting, driven by incentives to fulfill quantitative targets especially near plan deadlines, results in overestimation of economic potential, poor product quality, and planning errors.",
+        "• Inefficient use of plants, equipment, and raw materials contributes to planning inaccuracies.",
+        "• Lack of coordination in planning and production competition among sectors and regions causes imbalances and disrupts input-output relationships.",
+        "• The 1964 planning reforms aimed to address these issues, but persistent problems with correct and detailed planning and strict plan implementation remained significant enough to be emphasized in the report unveiling the Second Seven-Year Plan, indicating ongoing planning difficulties into the 1980s.",
+        "• By the mid-1990s, North Korea abandoned firm directive planning, and multi-year plans transitioned to serve more as long-term economic strategies rather than strict, binding directives."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:19:41.217587",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.2.2",
+      "section_name": "Ch'ŏngsan-ni Method",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Ch'ŏngsan-ni Method (청산리방법) of management originated from Kim Il Sung's visit in February 1960 to the Ch'ŏngsan-ni Cooperative Farm located in South P'yŏngan Province, North Korea.",
+        "• This method was influenced by Mao Zedong's Great Leap Forward Policy and involved Kim Il Sung along with members of the Workers' Party of Korea (KWP) Central Committee providing \"on-the-spot guidance\" (현지지도, hyŏnji chido_) by spending two months instructing and interacting directly with farm workers.",
+        "• The primary objective of the Ch'ŏngsan-ni Method was to combat \"bureaucratism\" and \"formalism\" within the farm management system, which were seen as obstacles to productivity.",
+        "• North Korean leadership asserted that farm workers were dissatisfied and produced low output because low-ranking Workers' Party of Korea functionaries, who relied on abstract Marxist theories and slogans, failed to motivate workers effectively.",
+        "• To address these issues, the leadership recommended that workers receive specific, practical guidance in solving production problems and be promised readily available material incentives to boost motivation.",
+        "• The method called for high-ranking party officials, party cadres, and administrative officials to emulate Kim Il Sung by conducting field inspections, thereby increasing direct involvement in agricultural production.",
+        "• The system created opportunities for farmers to present grievances and ideas directly to leading cadres and managers, promoting communication between workers and officials.",
+        "• A significant feature of the Ch'ŏngsan-ni Method was the increased use of material incentives, including paid vacations, special bonuses, honorific titles, and monetary rewards, to stimulate farm production.",
+        "• The method was flexible and appeared to accommodate almost any expedient measure aimed at increasing agricultural output.",
+        "• Despite these innovations, the Ch'ŏngsan-ni Method was undermined by heavy-handed policies aimed at increasing farm production and amalgamating farms into larger collective units.",
+        "• Actual improvements in agricultural productivity were more closely associated with the adoption of the subteam contract system, which increased peasant productivity by aligning individual incentives with those of smaller, immediate working groups.",
+        "• This subteam contract system somewhat offset the negative effects of increasing the scale of collective farms by reducing the size of the working unit.",
+        "• \"On-the-spot guidance\" by high government functionaries continued into the early 1990s, exemplified by Kim Il Sung's visits to the Wangjaesan Cooperative Farm in Onsŏng County and the Kyŏngsŏn Branch Experimental Farm of the Academy of Agricultural Sciences between August 20 and 30, 1991.",
+        "• Kim Jong Il continued the tradition of on-the-spot guidance despite initially refusing to participate and expanded the practice to include the Korean People's Army.",
+        "• Currently, Kim Jong Un maintains and continues the practices associated with the Ch'ŏngsan-ni Method."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:19:48.736559",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.2.3",
+      "section_name": "Taean work system",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The industrial management system in North Korea developed through three distinct stages: the first stage was enterprise autonomy lasting until December 1946; the second was a transitional system based on local autonomy with enterprises managed by enterprise management committees under local people's committees; the third stage introduced the Taean Work System in December 1961, modeled on Soviet-style \"one-man management\" and refined agricultural management techniques applied to industry.",
+        "• The Taean Work System (대안의 사업체계, Taeanŭi saŏpch'e) evolved from the Ch'ŏngsan-ni Method and represented a significant shift in industrial management by integrating party leadership with technical and administrative guidance.",
+        "• Under the Taean system, the highest managerial authority within a factory is the party committee, which consists of approximately 25 to 35 members elected from managers, workers, engineers, and leaders of \"working people's organizations\" within the factory.",
+        "• A smaller executive committee, about one-quarter the size of the full party committee, holds practical responsibility for daily plant operations and major factory decisions; key members include the party committee secretary, factory manager, and chief engineer.",
+        "• The Taean system emphasizes cooperation among workers, technicians, and party functionaries at the factory level to enhance management effectiveness.",
+        "• Factory administration is divided into two major lines: one led by the factory manager and the other by the party committee secretary, with a chief engineer and assistants directing a general staff responsible for production, planning, and technical guidance.",
+        "• Deputies oversee various factory functions depending on factory size, including logistics, marketing, and workers' services; logistics duties cover securing, storing, and distributing materials, as well as managing finished product storage and shipment.",
+        "• Deputies also assign workers to units, manage factory accounts and payroll, and oversee workers' services such as farming on factory lands, stocking factory retail shops, and maintaining staff amenities.",
+        "• Deputies responsible for workers' services are encouraged to fulfill factory needs by collaborating with nearby agricultural cooperatives and local industries to optimize resource use.",
+        "• The party committee secretary organizes all political activities within factory party cells and ensures loyalty to party production targets and management goals, with official claims stating that all management decisions are reached by consensus among party committee members.",
+        "• Despite the consensus claim, the party secretary likely holds ultimate authority in resolving major factory disputes due to the party's dominant role in national affairs.",
+        "• The Taean system introduced a more rational and scientific approach to industrial management compared to previous methods, increasing the roles of party functionaries and workers while granting engineers and technical staff greater responsibility in areas matching their expertise.",
+        "• The system acknowledges the importance of both material and \"politico-moral\" incentives for motivating factory workers, incorporating an \"internal accounting system\" derived from the \"independent accounting system\" that awards bonuses to work teams and workshops demonstrating efficient use of raw materials and equipment.",
+        "• Financial bonuses under the internal accounting system are paid out of enterprise profits, incentivizing efficiency and productivity within factories.",
+        "• The longevity and continued endorsement of the Taean Work System by North Korean leadership serve as indicators of its perceived success and effectiveness.",
+        "• In his 1991 New Year's address commemorating the 13th anniversary of the Taean system, Kim Il Sung praised it as the best economic management system, stating that it empowers the producer masses to fulfill their roles as masters, manage the economy scientifically and rationally, implement the mass line in economic management, and organically combine party leadership with administrative, economic, and technical guidance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:19:59.590719",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.2.4",
+      "section_name": "Mass production campaigns",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The North Korean leadership employed management techniques such as the Ch'ŏngsan-ni Method and the Taean work system to increase output through more normalized and regularized operations in farms and enterprises.",
+        "• Alongside these methods, the leadership continuously used exhortations and mass campaigns to motivate workers to meet output targets.",
+        "• The earliest and most pervasive mass production campaign was the Ch'ŏllima Movement, introduced in 1958 and modeled after China's Great Leap Forward (1958–1960).",
+        "• The Ch'ŏllima Movement organized the labor force into work teams and brigades that competed to increase production levels.",
+        "• This campaign targeted industrial and agricultural workers as well as organizations in education, science, sanitation and health, and culture sectors.",
+        "• Units eligible for Ch'ŏllima citations included not only work teams but also entire factories, factory workshops, and self-contained units such as ships or railroad stations.",
+        "• The campaign fostered \"socialist emulation\" among industrial sectors, enterprises, farms, and work teams, driving frantic efforts to complete the First Five-Year Plan (1957–1960).",
+        "• Despite these efforts, the Ch'ŏllima Movement caused chaotic disruptions in the economy, necessitating the designation of 1959 as a \"buffer year\" to restore economic balance.",
+        "• In the early 1960s, the Ch'ŏllima Movement was replaced by the Ch'ŏngsan-ni Method and the Taean Work System as primary management techniques.",
+        "• Nevertheless, the North Korean regime continued to rely on mass campaigns into the early 1990s.",
+        "• Post-Ch'ŏllima campaigns were often conducted to accelerate production efforts toward the end of specific periods—such as a month, a year, or an economic plan—to meet production targets aligned with the decade's economic goals."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:20:05.894273",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Efforts at modernization since 1991",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the collapse of the Soviet Union in 1991, North Korea lost its principal source of external support and announced in December 1993 a three-year transitional economic policy prioritizing agriculture, light industry, and foreign trade.",
+        "• Despite this policy, North Korea fell more than a million tons per year short of grain self-sufficiency due to lack of fertilizer, natural disasters, and poor storage and transportation practices.",
+        "• A shortage of foreign exchange, caused by a chronic trade deficit, large foreign debt, and dwindling foreign aid, constrained economic development and left many factories idle due to inability to purchase spare parts and oil for electricity generation.",
+        "• Toward the end of the 1980s, North Korea spent more than 20% of its Gross National Product (GNP) on defense, one of the highest proportions globally, diverting scarce resources from developmental projects.",
+        "• The declining efficiency of the central planning system and failure to modernize the economy further slowed economic growth since the 1960s.",
+        "• The demise of socialist republics in the Soviet Union and Eastern Europe, North Korea’s traditional trade partners and benefactors, compounded economic difficulties in the early 1990s.",
+        "• The collapse of the Soviet Union and cessation of Soviet support caused North Korea’s economy to contract by 25% during the 1990s.",
+        "• While North Korea reportedly had a higher per capita income than South Korea in the 1970s, by 2006 its per capita income was estimated at only $1,108, approximately one seventeenth that of South Korea.",
+        "• From 2009 to 2013, North Korea experimented with small-scale entrepreneurship, which despite ongoing legal uncertainties, developed into a significant economic sector.",
+        "• By 2016, economic liberalization had advanced such that both locally-responsible and state industrial enterprises were required to give the state 20% to 50% of their output, selling the remainder to purchase raw materials at market-based prices resembling a free market.",
+        "• In 2014, the Enterprise Act was amended to allow state-owned enterprise managers to engage in foreign trade, enter joint ventures, and accept investment from non-government domestic sources.",
+        "• Under the 2014 amendments, enterprise directors assumed roles similar to Western chief executive officers, and chief engineers took on operational roles akin to Western chief operating officers.",
+        "• As of 2017, it remained unclear whether the Taean Work System still operated effectively to grant local people's committees significant influence over enterprises.",
+        "• In 2017, Dr. Mitsuhiro Mimura, Senior Research Fellow at Japan’s Economic Research Institute for Northeast Asia who had visited North Korea 45 times, described North Korea as the \"poorest advanced economy in the world,\" noting its low GDP but sophisticated production environment.",
+        "• Dr. Mimura highlighted the rise of entrepreneurial groups through \"socialist cooperation,\" allowing groups of individuals to start small cooperative enterprises.",
+        "• Managers in state-owned industries or farms were permitted to sell or trade production exceeding state plan targets, providing incentives to increase output.",
+        "• Managers could also secure investment to expand successful operations in a process termed \"socialist competition.\"",
+        "• Although a state plan remained the basis for production, it was more realistic and allowed room for excess production beyond targets.",
+        "• In 2020, North Korea halted its economic reforms aimed at unleashing market forces, shifting government focus back toward central planning and increased state control over the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:20:19.513745",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Budget and finance",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The state budget in North Korea serves as a principal governmental tool for implementing the country's economic objectives, with expenditures comprising approximately three-quarters of the Gross National Product (GNP) during the mid-1980s, reflecting prioritized allocations across various economic sectors.",
+        "• In 1974, North Korea abolished taxes, labeling them as \"remnants of an antiquated society\"; this abolition was not expected to significantly impact state revenue because, between 1961 and 1970, an average of 98.1% of government funds derived from turnover (sales) taxes, profit deductions from state enterprises, and various user fees on items such as machinery, irrigation facilities, television sets, and water.",
+        "• To enhance local autonomy and reduce the central government's financial burden, North Korea introduced a \"local budget system\" in 1973, assigning provincial authorities responsibility for operating costs of institutions and enterprises not under direct central control—including schools, hospitals, shops, and local consumer goods production—with the expectation that these authorities would manage profitable ventures and remit profits to the central government.",
+        "• The annual state budget drafting process occurs around December for the upcoming calendar year, with revisions typically made around March; generally, total revenue slightly exceeds expenditures, and any surplus is carried over to the next fiscal year.",
+        "• Between 1987 and 1990, the largest portion of state expenditures, averaging 67.3%, was allocated to the \"people's economy,\" followed by expenditures on \"socio-cultural\" activities, \"defense,\" and \"administration,\" in descending order of magnitude.",
+        "• Defense spending as a proportion of total state expenditures experienced significant fluctuations: rising from 3.7% in 1959 to 19% in 1960, averaging 19.8% between 1961 and 1966, and peaking at 30.4% in 1967; it remained near 30% until 1971, then sharply declined to 17% in 1972, continuing to decrease throughout the 1980s.",
+        "• Official figures indicate that defense spending stabilized at 12% of total expenditures in both 1989 and 1990, increased slightly to 12.3% in 1991, and was planned at 11.6% for 1992; this downward trend aligned with government policies aimed at promoting economic development and enhancing social benefits.",
+        "• Despite official budget data, Western experts have assessed that actual military expenditures in North Korea are higher than those reported in the state budget.",
+        "• The 1999 state budget featured increased expenditures for the farming sector by 15% and the power sector by 11% compared to the 1998 budget.",
+        "• In the 2007 budget, North Korea estimated total revenue at 433.2 billion won (equivalent to approximately $3.072 billion, using an exchange rate of $1 = 141 won), with public revenue rising from 5.9% in 2006 to 7.1% in 2007.",
+        "• North Korea asserts that it is unique globally in not levying taxes, having abolished all taxes effective April 1, 1974."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:20:33.033239",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Bonds",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 2003, North Korean authorities have issued government bonds known as \"People's Life Bonds,\" promoting the slogan \"Buying bonds is patriotic\" to encourage domestic investment.",
+        "• In the late 1970s, North Korea sold government bonds internationally, raising 680 million Deutsche marks and 455 million Swiss francs from foreign investors.",
+        "• By 1984, North Korea defaulted on these internationally sold bonds, failing to meet its repayment obligations.",
+        "• Despite the default, these bonds continue to be traded on international markets based on speculation that North Korea might eventually fulfill its payment commitments."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:20:36.409796",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "The latest trends",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to _The Sydney Morning Herald_, North Korean propaganda under Kim Jong Un has shifted its focus toward patriotism, economic development, and improving diplomatic relations with China, South Korea, and the United States.",
+        "• In September 2018, state-run North Korean television promoted a patriotic song praising the national flag by airing videos featuring the flag being raised during mass games events commemorating North Korea's 70th anniversary.",
+        "• The commemorative video included brief images of military troops, fighter jets releasing blue, red, and white smoke, civilians, new high-rise apartments in Pyongyang, fireworks displays, and students in school uniforms, all captured at the same celebratory event.",
+        "• The _South China Morning Post_ reported in 2019 that North Korea has been undergoing an economic and cultural revolution beginning earnestly in February 2018, coinciding with the Pyeongchang Winter Olympic Games.",
+        "• During the 2018 Winter Olympics, top North Korean musicians were sent to perform in South Korea, including a female quintet dressed in black shorts and red tops, marking a significant cultural exchange.",
+        "• In April 2018, Supreme Leader Kim Jong Un watched a performance by the South Korean girl group Red Velvet, which was the first-ever K-pop concert held in Pyongyang.",
+        "• The North Korean musicians who performed in South Korea received high praise, prompting Kim Jong Un to send them on a goodwill tour to Beijing in January 2019.",
+        "• The cultural revolution included the gradual introduction of Western influences, previously considered vulgar and corrupt, now slowly becoming accessible to the North Korean population.",
+        "• Examples of Western cultural penetration include the availability of second-hand Harry Potter books at the National Library and the screening of Bollywood films such as _Three Idiots_ in North Korean cinemas.",
+        "• Economically, factories in North Korea have begun producing goods associated with Western culture, such as Air Jordan shoes, intended for domestic consumption.",
+        "• Constitutional amendments made in 2019 officially phased out the former economic management methods known as Ch'ŏngsan-ni in agriculture and Taean in industry.",
+        "• Following the 8th Party Congress, Kim Byung-yeon of Seoul National University reported that North Korea’s GDP declined by 10% between 2017 and 2019.",
+        "• Additionally, North Korea’s GDP further decreased by 5% in the year 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:20:47.534768",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.7",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• North Korea operates a planned economy in its industrial sector, where the government supplies fuel and materials to factories, which then produce goods and quantities based on government directives.",
+        "• The country's self-reliant development strategy prioritized heavy industry development alongside parallel growth in agriculture and light industry, primarily through preferential allocation of state investment funds to heavy industry.",
+        "• Between 1954 and 1976, over 50% of state investment was allocated to the industrial sector, with specific allocations of 47.6% during the Three-Year Plan, 51.3% during the Five-Year Plan, 57.0% during the First Seven-Year Plan, and 49.0% during the Six-Year Plan, resulting in rapid gross industrial output growth.",
+        "• Industrial growth rates declined significantly from the 1960s, dropping from 41.7% and 36.6% annually during the Three-Year and Five-Year Plans, respectively, to 12.8%, 16.3%, and 12.2% during the First Seven-Year Plan, Six-Year Plan, and Second Seven-Year Plan.",
+        "• The industrial sector's share of total national output increased from 16.8% in 1946 to 57.3% in 1970, remaining relatively stable since the 1970s, with an estimated 56% share in 1990.",
+        "• The combined share of agriculture and industry in gross output rose from 28% in 1946 to over 90% by 1980, with heavy industry receiving more than 80% of total state investment in industry between 1954 and 1976 (81.1%, 82.6%, 80%, and 83% during the Three-Year, Five-Year, First Seven-Year, and Six-Year Plans, respectively), heavily favoring heavy industry over light industry.",
+        "• North Korea claimed to have met the Second Seven-Year Plan (1978–1984) target of raising industrial output in 1984 to 120% of the 1977 target, implying an average annual growth rate of 12.2%; however, production data for key commodities suggest this target was unlikely achieved.",
+        "• During 1978–1984, increases in production of major industrial commodities were as follows: electric power 78%, coal 50%, steel 85%, metal-cutting machines 67%, tractors 50%, passenger cars 20%, chemical fertilizers 56%, chemical fibers 80%, cement 78%, and textiles 45%.",
+        "• Industrial growth was hampered by shortages of raw materials, energy, and hard currency, alongside decaying infrastructure and obsolete machinery.",
+        "• Unlike Eastern Bloc socialist countries, North Korea maintained highly centralized economic planning and resisted liberalizing economic management.",
+        "• In the mid-1980s, North Korean officials, including deputy chairman of the Economic Policy Commission Yun Ki-pok (who became chairman in June 1989), denied speculation that North Korea would adopt Chinese-style special economic zones (SEZs), which in China are coastal areas promoting economic development through foreign investment with preferential tax terms and greater economic decision-making autonomy.",
+        "• China attempted to persuade North Korean leadership of the benefits of SEZs by organizing tours and discussions with visiting high-level North Korean officials.",
+        "• In April 1982, Kim Il Sung announced a new economic policy emphasizing increased agricultural production via land reclamation, infrastructure development (especially power plants and transportation), and reliance on domestically produced equipment, with additional focus on expanding trade.",
+        "• In September 1984, North Korea enacted a joint venture law aimed at attracting foreign capital and technology, though military support remained a priority.",
+        "• In 1991, North Korea established a Special Economic Zone in the northeastern regions of Rason and Ch'ŏngjin (Rason Special Economic Zone); however, investment was slow due to infrastructure problems, bureaucratic obstacles, investment security concerns, and doubts about viability.",
+        "• Despite these challenges, by 2011 thousands of small Chinese businesses had established profitable operations within North Korea.",
+        "• The Korea Computer Center, a government research institution, was founded in 1990, initiating the gradual development of North Korea's information technology industry.",
+        "• In 2013 and 2014, the State Economic Development Administration announced several smaller special economic zones focused on export handling, mineral processing, high technology, gaming, and tourism, accompanied by international conferences on SEZs and consideration of multiple provincial economic zones.",
+        "• From 2019 onward, prospects for expanding special economic zones diminished due to concerns over excessive foreign influence on North Korean society."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:21:07.339207",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2.7.1",
+      "section_name": "Garment industry",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The garment industry represents the most successful export sector within North Korea's economy.",
+        "• Production in this industry occurs through three primary arrangements: a North Korean firm manufacturing garments for a European or other foreign partner; a Chinese firm operating within North Korea in collaboration with a North Korean partner; and North Korean workers employed in Chinese or other foreign factories.",
+        "• Wages paid to workers in the North Korean garment industry are the lowest in the northeastern Asian region, highlighting a significant cost advantage in labor expenses."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:21:09.996336",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "2.7.2",
+      "section_name": "Automotive industry",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The North Korean automotive industry primarily focuses on fulfilling military, industrial, and construction objectives, with private car ownership among citizens remaining at low demand levels.",
+        "• Originating from Soviet influences, North Korea’s automotive sector has historically engaged in cloning foreign vehicle models and has recently entered into an automobile joint venture.",
+        "• The country has developed a diverse automotive production capacity encompassing various vehicle types, including urban and off-road mini vehicles, luxury cars, SUVs, small to super-heavy cargo trucks, construction and off-road trucks, minibuses and minivans, coach buses, civilian and articulated buses, trolleybuses, and trams.",
+        "• Despite possessing the capability to produce a wide range of vehicles, North Korea manufactures significantly fewer vehicles than its potential output due to the ongoing economic crisis affecting the nation.",
+        "• North Korea has neither joined nor collaborated with the Organisation Internationale des Constructeurs d'Automobiles (OICA) or any other international automotive organizations, resulting in limited availability of critical information regarding its motor vehicle industry.",
+        "• An example of North Korean manufactured vehicles includes the Chollima 90 trolleybus, illustrating domestic production in public transportation vehicles."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:21:17.370956",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "2.8",
+      "section_name": "Power and energy",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The energy sector is a critical bottleneck in the North Korean economy, with a steady decline in the supply of oil, coal, and electricity since 1990, severely impacting all economic sectors.",
+        "• Crude oil imports, once delivered by pipeline at \"friendship prices\" from the former Soviet Union and China, dropped drastically from about 23 million barrels (3.7×10^6 m³) in 1988 to less than 4 million barrels (640×10^3 m³) by 1997 due to the withdrawal of Russian concessions and reduced Chinese imports.",
+        "• The reduction in imported oil, which was refined into fuels for transportation and agricultural machinery, caused critical problems in both transportation and agriculture sectors.",
+        "• According to Statistics Korea, using International Energy Agency (IEA) data, North Korea’s per capita electricity consumption fell from a peak of 1247 kilowatt hours in 1990 to a low of 712 kilowatt hours in 2000, then gradually increased to 819 kilowatt hours in 2008, a level still below that of 1970.",
+        "• North Korea lacks coking coal but possesses substantial anthracite coal reserves in areas such as Anju and Aoji (Ŭndŏk).",
+        "• Coal production peaked at 43 million tons in 1989 but declined steadily to 18.6 million tons by 1998, primarily due to mine flooding and outdated mining technology.",
+        "• The decline in coal production, which was mainly used for industry and electricity generation, caused serious disruptions in industrial output and electricity supply.",
+        "• Electricity generation peaked at about 30 terawatt hours (TWh) in 1989, with seven large hydroelectric plants operating in the 1980s; four of these plants were located along the Yalu River, built with Chinese aid, and supplied power to both North Korea and China.",
+        "• In 1989, hydroelectric power accounted for 60% of electricity generation, while fossil fuels, mostly coal-fired plants, accounted for 40%.",
+        "• By 1997, coal comprised more than 80% of North Korea’s primary energy consumption, with hydropower contributing over 10%; net coal imports represented only about 3% of total coal consumption.",
+        "• Hydroelectric plants generated approximately 55% of the country’s electricity in 1997, while coal-fired thermal plants produced about 39%.",
+        "• Despite these figures, North Korea’s per capita electricity generation was only about 20% of that of Japan, resulting in chronic electricity supply shortages.",
+        "• Coal exports to China became a major source of revenue for North Korea in the mid-2010s.",
+        "• Some hydroelectric facilities were believed to have ceased operation due to damage caused by major flooding in 1995.",
+        "• Coal-fired power plants operated significantly below capacity, affected by both a serious decline in coal supply and transportation difficulties.",
+        "• The overall electricity supply declined steadily, reaching 17 TWh in 1998.",
+        "• Transmission losses in the electricity grid were just under 16% (15.8%) as of 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:21:30.684439",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "2.9",
+      "section_name": "Construction",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Construction has been a significant and active sector in North Korea, evidenced by large housing programs predominantly featuring high-rise apartment blocks in Pyongyang, as well as smaller modern apartment complexes widespread throughout the countryside.",
+        "• These residential developments are overshadowed in scale and grandeur by \"grand monumental edifices,\" which dominate the architectural landscape.",
+        "• Economically utilitarian projects such as the Nampo Dam, which incurred a cost of US$4 billion, also exemplify the scale of construction efforts in the country.",
+        "• The economic contraction experienced during the 1990s led to a slowdown in the construction sector, similar to other sectors of the economy; a notable example is the Ryugyŏng Hotel, a 105-story tower that remained an unfinished shell on Pyongyang’s skyline for over ten years.",
+        "• According to the Bank of Korea, the construction sector’s share of North Korea’s GDP declined by nearly one-third between 1992 and 1994, dropping from 9.1% to 6.3%.",
+        "• This decline aligns with an official figure (citation needed) reporting a 6% share of GDP for construction in 1993, during which the sector reportedly employed 4.2% of the labor force, although this employment figure excludes the Korean People's Army, which visibly undertakes a substantial portion of construction work in the country.",
+        "• Beginning around 2012, Pyongyang experienced a construction boom, marked by the erection of 18 tower blocks within the city.",
+        "• Significant construction projects during this boom include the Mansudae People's Theatre, opened in 2012; the Munsu Water Park, completed in 2013; the modernization of Pyongyang International Airport, finalized in 2015; and the Science and Technology Center, also completed in 2015."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:21:38.260176",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "2.10",
+      "section_name": "Banking",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Central Bank of North Korea operates under the Ministry of Finance and maintains a network of 227 local branches across the country.",
+        "• Recent multiple reissues of banknotes indicate a tendency among North Korean citizens to hoard cash rather than deposit savings, with a growing preference for holding foreign currency.",
+        "• At least two foreign aid agencies have reportedly established microcredit schemes aimed at lending to farmers and small businesses, although specific details and citations are lacking.",
+        "• In late 2009, North Korea implemented a currency revaluation that effectively confiscated all privately held money exceeding the equivalent of US$35 per person, resulting in the wiping out of many citizens’ savings.",
+        "• Following the 2009 revaluation, the North Korean won depreciated by 96% against the United States dollar within days.",
+        "• Pak Nam-gi, director of the Planning and Finance Department of North Korea's ruling Workers' Party, was held responsible for the 2009 currency revaluation disaster and was executed in 2010.",
+        "• In 2004 and 2006, North Korea passed laws to formalize regulations governing savings and commercial banking, but significant competition among banks for retail customers only began around 2012.",
+        "• Electronic cash cards, which are widely accepted in Pyongyang and other urban areas, have become popular but generally remain unlinked to traditional bank accounts.",
+        "• North Korean banks have introduced retail banking products that allow payments and top-ups via mobile phone applications, reflecting a modernization of banking services.",
+        "• As of May 2013, major Chinese banks including China Merchants Bank, Industrial and Commercial Bank of China, China Construction Bank, and Agricultural Bank of China ceased all cross-border cash transfers with North Korea, irrespective of business type.",
+        "• On May 14, 2013, the Bank of China, the primary Chinese institution for foreign exchange transactions, announced the closure of the Foreign Trade Bank of North Korea’s account, which was North Korea’s main foreign exchange bank.",
+        "• Despite official closures, smaller banks in northeastern China, particularly the Bank of Dalian branch in Dandong, continued to facilitate large-scale cross-border financial transfers to North Korea.",
+        "• Since 2015, Kim Jong Un has pursued enlargement and reform of North Korea’s banking sector to support economic growth, with credit cards promoted as a mechanism to increase money circulation.",
+        "• The development of socialist commercial banks is underway, aiming to mobilize \"idle funds,\" including individual savings, to effectively promote economic growth within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:21:49.629566",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "2.11",
+      "section_name": "Retail",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Until the early 2000s, North Korea's official retail sector was predominantly state-controlled and managed by the People's Services Committee, with consumer goods being scarce and of low quality, mostly distributed on a ration basis.",
+        "• The retail system comprised state-run stores and direct factory outlets accessible to the general population, alongside special shops offering luxury items exclusively for the elite, as well as a chain of hard-currency stores operated as a joint venture with the Ch'ongryŏn, the association of pro-Pyongyang Korean residents in Japan, which had branches in major cities.",
+        "• In 2002 and again in 2010, the North Korean government progressively legalized private markets, primarily for the sale of food products, marking a significant shift in retail policy.",
+        "• By 2013, urban and farmer markets were held every 10 days, with most urban residents living within 2 kilometers of a market, indicating widespread access to these newly legalized markets.",
+        "• Following the 2009 economic intervention, it became common practice for North Korean citizens to conduct purchases using foreign currencies, specifically the Chinese yuan and United States dollars.",
+        "• In 2012, Pyongyang saw the opening of its third large shopping mall, the Kwangbok Area Shopping Center, signaling an expansion of modern retail infrastructure.",
+        "• Construction began in 2014 on another large shopping mall in Pyongyang, further developing the retail landscape.",
+        "• By 2017, these shopping malls offered a variety of competing brands, exemplified by the availability of at least ten different kinds of toothpaste, reflecting increased product diversity.",
+        "• The Korea Institute for National Unification estimated in 2017 that there were approximately 440 government-approved markets operating in North Korea, employing about 1.1 million people, highlighting the significant scale of the market economy.",
+        "• Starting in 2021, North Korean authorities initiated major crackdowns aimed at diminishing the role of private markets, implementing a shift toward a state-run monopoly on food sales.",
+        "• Since 2019, the government had been establishing a network of state-run shops designed to monopolize the sale and distribution of domestically produced goods as well as a substantial portion of newly imported goods, consolidating control over retail distribution channels."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:21:57.411316",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "2.11.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• North Korea's agricultural production is limited due to sparse agricultural resources, unfavorable climate, terrain, and soil conditions, and a relatively short cropping season.",
+        "• Approximately 17% of North Korea's total landmass, or about 20,000 km², is arable, with 14,000 km² well suited specifically for cereal cultivation; the majority of the country consists of rugged mountainous terrain.",
+        "• Land at elevations above 400 meters is generally unsuitable for farming due to infertile soil, lack of precipitation, and is primarily used for grazing.",
+        "• Precipitation in North Korea is geographically and seasonally irregular, with up to half of the annual rainfall occurring during the three summer months, favoring paddy rice cultivation in warmer regions equipped with irrigation and flood control systems.",
+        "• Rice yields in North Korea average 5.3 tonnes per hectare, which is close to international standards.",
+        "• In 2005, the Food and Agriculture Organization (FAO) ranked North Korea 10th in the world for fresh fruit production and 19th for apple production.",
+        "• Agricultural activity is concentrated in the flatlands of the four west coast provinces, where longer growing seasons, level land, adequate rainfall, and irrigated soils allow for intensive crop cultivation.",
+        "• A narrow fertile strip also exists along the eastern seaboard in the Hamgyŏng provinces and Kangwŏn Province, while interior provinces such as Chagang and Ryanggang are too mountainous, cold, and dry for significant farming.",
+        "• The mountainous regions contain most of North Korea’s forest reserves, and foothills between major agricultural areas support livestock grazing and fruit tree cultivation.",
+        "• Self-sufficiency in food production is a key ideological goal of North Korea, with government policies also aiming to reduce urban-rural living standard disparities through continued agricultural investment.",
+        "• The stability of North Korea depends on steady increases in food availability at reasonable prices; however, severe food shortages occurred in the early 1990s.",
+        "• Kim Il Sung’s 1964 _Theses on the Socialist Agrarian Question in Our Country_ represents the most comprehensive statement on agricultural policy, emphasizing technological and educational progress in rural areas alongside collective ownership and management.",
+        "• From 1945-46 to 1990, the share of agriculture, forestry, and fisheries in North Korea’s total national output declined from 63.5% and 31.4%, respectively, to a low of 26.8% in 1990.",
+        "• The labor force share in agriculture also decreased from 57.6% in 1960 to 34.4% in 1989, reflecting industrialization trends.",
+        "• In the 1990s, reduced mechanization capabilities, including irrigation pumping, and shortages of chemical inputs contributed to lower crop yields and increased harvesting and post-harvest losses.",
+        "• Since the late 1990s, incremental improvements in agricultural production have brought North Korea close to self-sufficiency in staple foods by 2013, with notable steady improvements in rice yields.",
+        "• Despite progress in rice production, yields for other crops generally did not improve, and protein food production remains insufficient.",
+        "• Access to chemical fertilizers has declined, prompting government encouragement of compost and other organic fertilizers as alternatives in agricultural practices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:22:15.331688",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "2.11.2",
+      "section_name": "Fisheries",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• North Korean fisheries engage in the export of seafood, with a primary focus on crab, to Dandong, located in Liaoning Province, China, through illicit channels.",
+        "• The seafood exported from North Korea includes crabs, clams, and conches, which are harvested from the Yellow Sea waters adjacent to North Korea.",
+        "• These seafood products are particularly popular in China, potentially due to the lower salinity of the Yellow Sea waters, which is believed to enhance the taste of the seafood."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:22:17.716078",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "2.11.3",
+      "section_name": "Food distribution system",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the 1950s, the majority of North Koreans have received food through the public distribution system (PDS), which mandates that farmers in agricultural regions surrender a portion of their production to the government for redistribution to urban areas that cannot produce their own food.",
+        "• Approximately 70% of North Korea’s population, including the entire urban population, depends on the government-run PDS for their food supply.",
+        "• Prior to flooding events, typical daily food rations for recipients ranged from 600 to 700 grams, while high officials, military personnel, heavy laborers, and public security staff received slightly larger rations of 700 to 800 grams per day.",
+        "• As of 2013, the official target average distribution was 573 grams of cereal equivalent per person per day, with variations based on age, occupation, and additional ration sources such as school meals.",
+        "• A United Nations investigation conducted between March 29 and April 12, 2019, reported that the average daily ration had decreased to 312 grams per person per day.",
+        "• Declines in agricultural production reduced the quantity of food available through the PDS, and shortages worsened when the government imposed stricter restrictions on collective farmers.",
+        "• Farmers who were previously outside the PDS were required to reduce their own grain allotments from 167 kilograms to 107 kilograms per person annually, leading some to withhold portions of the mandated grain deliveries.",
+        "• By 2008, the PDS had significantly recovered, and from 2009 to 2013, the average daily ration per person was about 400 grams for much of the year; however, in 2011, rations dropped to 200 grams per day from May to September.",
+        "• In the early 2000s, it is estimated that the average North Korean family derived approximately 80% of its income from small businesses that were technically illegal but largely unenforced by the government.",
+        "• Private markets in North Korea were progressively legalized in 2002 and again in 2010, leading to increased market activity.",
+        "• By 2013, urban and farmer markets were held every 10 days, with most urban residents living within 2 kilometers of a market; these markets played an increasingly important role in food acquisition.",
+        "• In recent years, government policy shifted towards more controlled commercial networks by restricting local markets and promoting sales through State-Owned Stores."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:22:24.823548",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "2.11.4",
+      "section_name": "Crisis and famine",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1994 to 1998, North Korea experienced a severe famine, with estimated deaths due to starvation or malnutrition ranging between 240,000 and 480,000, though exact figures remain uncertain due to the country's closed nature.",
+        "• Agricultural production in North Korea began a gradual recovery starting in 1998, reaching near self-sufficiency in staple foods by 2013; however, as of 2013, most households still experienced borderline or poor food consumption, with protein intake remaining inadequate.",
+        "• The North Korean economy in the 1990s transitioned from stagnation to crisis, heavily impacted by the collapse of the Soviet Union in 1991, which ended economic assistance and demanded hard currency payments for imports.",
+        "• China partially compensated for the loss of Soviet support by providing food and oil, mostly at concessionary prices, but the North Korean economy nonetheless suffered industrial decline beginning in 1990.",
+        "• Agricultural output decreased due to lack of industrial inputs such as fertilizers, pesticides, and electricity for irrigation, compounded by a series of natural disasters including record floods in 1995, culminating in one of the worst economic crises in North Korean history.",
+        "• Additional factors contributing to the crisis included high defense spending, approximately 25% of GDP, and poor governance.",
+        "• In December 1991, North Korea established a \"zone of free economy and trade\" encompassing the northeastern port cities of Unggi (Sŏnbong), Ch'ŏngjin, and Najin, raising questions about the extent of economic opening to the West and South Korea, the future of the Tumen River development scheme, and potential economic reforms.",
+        "• In December 1993, North Korea announced a three-year transitional economic policy prioritizing agriculture, light industry, and foreign trade, but persistent shortages of fertilizer, natural disasters, and inadequate storage and transportation resulted in a grain deficit exceeding one million tons annually.",
+        "• Lack of foreign exchange to purchase spare parts and oil for electricity generation caused many factories to remain idle during the 1990s.",
+        "• The famine of the 1990s severely disrupted Stalinist economic institutions, leading the government to implement Kim Jong Il’s Songun (military-first) policy, which deployed the military to oversee production and infrastructure projects.",
+        "• North Korea’s policy of economic self-sufficiency increased its isolation from the global economy, resulting in an industrial sector characterized by inefficiency, poor quality, limited product diversity, and underutilized plants due to protectionism and lack of competition.",
+        "• Protectionist policies also restricted market size for domestic producers, preventing economies of scale.",
+        "• Under Kim Jong Un’s leadership, North Korea declined external aid for flood recovery, relocating 15,400 displaced persons to Pyongyang and emphasizing self-reliance despite offers of assistance from Russia, China, and others.",
+        "• The food shortage was primarily caused by the loss of fuel and raw material imports from China and the Soviet Union, which had supported an energy-intensive and inefficient farming system; the collapse of concessional trade relationships following the Soviet Union’s dissolution exacerbated the crisis.",
+        "• Between 1994 and 1996, three consecutive years of floods and droughts further devastated the agricultural sector.",
+        "• By 2004, 57% of North Korea’s population lacked sufficient food to maintain health, 37% of children suffered from stunted growth, and one-third of mothers experienced severe nutritional deficiencies.",
+        "• In 2006, the World Food Program (WFP) and Food and Agriculture Organization (FAO) estimated North Korea’s grain requirement at 5.3 to 6.5 million tons, while domestic production was only 3.825 million tons.",
+        "• Land degradation became a significant issue due to deforestation for agriculture, leading to soil erosion.",
+        "• In 2008, total grain production was 3.34 million tons (grain equivalent), compared to a need of 5.98 million tons, with 37% of the population classified as food insecure.",
+        "• Despite ongoing weather challenges, food production gradually increased, reaching 5.03 million tons cereal equivalent by 2013, close to the minimum requirement of 5.37 million metric tons.",
+        "• The 2014 harvest was exceptionally good, producing 5.08 million tonnes of cereal equivalent, nearly sufficient to feed the entire population.",
+        "• Although food production had significantly recovered since the famine’s worst years in 1996 and 1997, the recovery remained fragile due to vulnerability to adverse weather and economic shortages, with uneven food distribution and an ineffective Public Distribution System.",
+        "• By most years post-crisis, North Korea exhibited lower malnutrition levels than some wealthier Asian countries.",
+        "• In 2019, North Korea experienced its worst harvest in over a decade, prompting the United Nations to describe the situation as a \"hunger crisis.\""
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:22:41.238450",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "2.12",
+      "section_name": "Mining",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to a 2012 report by the South Korea-based North Korea Resource Institute (NKRI), North Korea possesses substantial reserves of iron ore, coal, limestone, and magnesite.",
+        "• North Korea is believed to have tremendous potential rare metal resources, with an estimated value exceeding US$6 trillion.",
+        "• Globally, North Korea ranks as the 18th largest producer of iron and zinc.",
+        "• The country holds the 22nd largest coal reserves worldwide.",
+        "• In Asia, North Korea is the 15th largest producer of fluorite and the 12th largest producer of both copper and salt.",
+        "• Other significant natural resources actively produced in North Korea include lead, tungsten, graphite, magnesite, gold, pyrites, fluorspar, and hydropower.",
+        "• In 2015, North Korea exported 19.7 million tonnes of coal, generating revenue of approximately $1.06 billion, with much of this coal exported to China.",
+        "• By 2016, it was estimated that coal shipments to China constituted about 40% of North Korea’s total exports.",
+        "• Beginning in February 2017, China suspended all coal imports from North Korea, despite an overall increase in trade between the two countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:22:52.808020",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "2.13",
+      "section_name": "Information technology and culture",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• North Korea possesses a developing information technology industry that has seen notable advancements in recent years.",
+        "• In 2018, a technological exhibition in North Korea introduced a new Wi-Fi service named Mirae, meaning \"Future,\" which enabled mobile devices to access the intranet network specifically within Pyongyang.",
+        "• The 2018 exhibition also demonstrated a home automation system that utilized speech recognition technology in the Korean language, highlighting progress in smart home technologies.",
+        "• The Artificial Intelligence Research Institute was established in North Korea in 2013 under the Bureau of the Information Industry Guidance to advance AI research and development.",
+        "• In 2021, the Artificial Intelligence Research Institute was incorporated into the Ministry of Information Industry, reflecting a structural reorganization to consolidate information technology governance.",
+        "• North Korean cartoon animation studios, including the prominent SEK Studio, engage in subcontracting work for South Korean animation studios, indicating cross-border collaboration in the animation sector.",
+        "• Mansudae Overseas Projects, a North Korean organization, specializes in constructing monuments internationally, showcasing North Korea’s cultural and artistic export capabilities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:22:56.597341",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "3",
+      "section_name": "Organization and management",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• By the 1960s, North Korea had almost completely suppressed market elements, making its economy unique in this historical aspect of market suppression.",
+        "• Traditionally, almost all goods, including food and clothing, were distributed through a public distribution system where money held only symbolic value.",
+        "• Food distribution ratios depended on a hierarchical system with positions appearing semi-hereditary.",
+        "• Until the late 1980s, peasants were prohibited from cultivating private garden plots.",
+        "• The North Korean government dominates economic development and management, resulting in a proliferation of bureaus and departments across all administrative levels.",
+        "• Under the Cabinet’s supervision, there are fifteen committees (including agricultural and state planning committees), one bureau, and twenty departments; of these, twelve committees, one bureau, and sixteen departments are involved specifically in economic management.",
+        "• In the early 1990s, several vice premiers of the State Administration Council oversaw economic affairs.",
+        "• These economic agencies frequently undergo reorganization and maintain branches at lower government levels, with some controlling subordinate sections in provincial and county administrative agencies.",
+        "• Around 1990, following the collapse of the Soviet Union, enforcement of restrictions on private sales, including grain, ceased.",
+        "• It is estimated that in the early 2000s, the average North Korean family derived approximately 80% of its income from small businesses that were technically illegal but largely unenforced.",
+        "• Private markets were progressively legalized in 2002 and again in 2010.",
+        "• By 2013, urban and farmer markets were held every 10 days, with most urban residents living within 2 kilometers of a market.",
+        "• In recent years, government policy shifted towards more controlled commercial networks by restricting local markets and promoting sales through State-Owned Stores.",
+        "• In 2014, North Korea announced the \"May 30th measures,\" which aimed to grant farmers more freedom by allowing them to keep about 30% of their produce.",
+        "• The \"May 30th measures\" also permitted enterprise managers to hire and fire workers within a specific framework and to decide their business partners and sources for raw materials and spare parts.",
+        "• Some reports indicated these 2014 measures could enable nominally state-run enterprises to operate on capitalist lines similar to those in China.",
+        "• However, the 8th Congress of the Workers' Party of Korea in 2021 introduced new policies designed to reinforce the traditional command economy unified under the State Planning Commission."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:23:04.286646",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Economic planning",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• North Korea is characterized as one of the world's most centrally planned and isolated economies, currently facing desperate economic conditions due to years of underinvestment and shortages of spare parts, leading to industrial capital stock being nearly beyond repair and a decline in industrial and power output.",
+        "• During the \"peaceful construction\" period before the Korean War, North Korea aimed to surpass the output and efficiency levels from the end of Japanese occupation, restructure its economy toward communist-bloc countries, and begin socializing the economy; key measures included nationalization of industrial enterprises and land reform in 1946, which laid the foundation for one-year plans in 1947 and 1948 and the Two-Year Plan of 1949–50.",
+        "• The piece-rate wage system and independent accounting system were introduced during this early period, alongside increasing state and cooperative ownership of the commercial network.",
+        "• The Three-Year Post-war Reconstruction Plan of 1954–56 focused on rebuilding the war-torn economy with priority on heavy industry development and collectivization of farming, supported by reconstruction aid from the Soviet Union, East European countries, and China; by the end of 1957, most industrial outputs had returned to 1949 levels except for chemical fertilizers, carbides, and sulfuric acid.",
+        "• The Five-Year Plan of 1957–1960 aimed to consolidate industrialization, complete socialization by 1958, and address food and shelter issues, introducing the Ch'ŏllima Movement; despite reportedly high growth rates, serious imbalances occurred among sectors due to competitive efforts to meet production quotas, resource diversion to politically favored enterprises, and transportation bottlenecks.",
+        "• Until the 1960s, North Korea's economy grew faster than South Korea's, with higher per capita national output due to a smaller population (approximately 10 million in 1960 versus South Korea’s nearly 25 million); reported annual growth rates were 30% during the Three-Year Plan (1954–1956) and 21% during the Five-Year Plan (1957–1960).",
+        "• North Korea declared early fulfillment of the Five-Year Plan in 1959 and designated 1960 as a \"buffer year\" to restore sectoral balances before the next plan in 1961; this pattern of early completion and subsequent adjustment years recurred in later plans.",
+        "• Beginning in the early 1960s, economic growth slowed and stagnated by the early 1990s due to the transition from extensive growth based on mobilizing idle resources to intensive growth requiring efficiency and technological progress, with emerging bottlenecks causing diminishing returns.",
+        "• From the early 1960s, pervasive bottlenecks arose from limited arable land, skilled labor shortages, energy deficits, transportation inadequacies, and extractive industry weaknesses; transportation modes lacked modern equipment, and energy and raw material supplies failed to keep pace with manufacturing demands, slowing industrial growth.",
+        "• The First Seven-Year Plan (1961–1967, extended to 1970) prioritized heavy industry, especially the machine tool sector, but experienced widespread slowdowns and reverses, contrasting with earlier rapid growth; the plan’s extension and shift toward parallel economic and defense development were influenced by South Korea’s military takeover by General Park Chung Hee (1961–1979), increased U.S. involvement in Vietnam, and the Sino-Soviet split, with defense resource diversion cited as the cause of plan failure.",
+        "• The Six-Year Plan (1971–1976) followed, scaling down growth targets due to the previous plan’s poor performance, emphasizing technological advancement, self-sufficiency (Juche) in industrial raw materials, product quality improvement, sectoral imbalance correction, and development of power and extractive industries, which were identified as causes of earlier slowdowns.",
+        "• The Six-Year Plan aimed for 60–70% self-sufficiency in all industrial sectors by substituting domestic raw materials and renovating technical processes, with transport capacity improvement identified as an urgent task to overcome major bottlenecks.",
+        "• North Korea claimed to fulfill the Six-Year Plan by August 1975, one year and four months ahead of schedule, leading to expectations of an early start for the next plan in 1976; however, the subsequent plan was delayed by over two years, making 1977 a \"buffer year.\"",
+        "• The repeated inability to formulate and implement continuous economic plans reflects both the inefficacy of centralized planning and the severity of economic difficulties and administrative disruptions, as underfulfillment of targets necessitates reformulation of subsequent plans, complicated by widespread sectoral imbalances.",
+        "• The Second Seven-Year Plan (1978–1984) focused on three goals: self-reliance, modernization, and \"scientification\" (adoption of modern production and management techniques), possibly as a response to mounting foreign debt from mid-1970s Western machinery imports.",
+        "• Specific objectives of the Second Seven-Year Plan included strengthening fuel, energy, and resource bases through priority development of energy and extractive industries; modernizing industry; substituting domestic resources for imported raw materials; expanding and centralizing freight transport across rail, road, and marine systems; and accelerating a technical revolution in agriculture.",
+        "• The plan targeted education improvements to meet manpower and technology needs, enhancing the quality of the eleven-year compulsory education system to train more technicians and specialists, particularly in fuel, mechanical, electronic, and automation engineering fields.",
+        "• The plan also included nature-remaking projects based on Kim Il Sung’s 1976 five-point program: completing irrigation of non-paddy fields; reclaiming 1,000 square kilometers of new land; building 1,500 to 2,000 square kilometers of terraced fields; afforestation and water conservation; and tidal land reclamation.",
+        "• The Second Seven-Year Plan was largely unsuccessful, with North Korea downplaying its achievements; official claims of 8.8% annual growth fell short of the planned 9.6%, and only six commodities met output targets, including the grain target of 10 million tons, while industrial output growth claims of 12.2% are considered unreliable.",
+        "• Following the plan’s conclusion, no new economic plan was introduced for two years, indicating both the plan’s failure and the severity of mid-1980s economic and planning challenges.",
+        "• From 1998 to 2003, North Korea implemented a plan focused on scientific and technical development, emphasizing growth in the information technology and electronic industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:23:28.650131",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Corruption",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, North Korea was ranked 172nd in the Transparency International Corruption Perceptions Index.",
+        "• North Korea received a score of 17 out of 100 on the 2019 Transparency International Corruption Perceptions Index."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:23:30.390479",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "4",
+      "section_name": "Labor",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• By 1958, the structure of the labor force in North Korea had undergone significant transformation, with individual private farmers—who previously made up more than 70% of the labor force—being replaced or transformed into state or collective farmers.",
+        "• Private artisans, merchants, and entrepreneurs were integrated into state or cooperative enterprises, reflecting a shift from private to collective or state ownership in the economy.",
+        "• In the industrial sector, data from 1963—the last year for which such data are available—showed the existence of 2,295 state enterprises alongside 642 cooperative enterprises.",
+        "• State enterprises constituted 78% of the total number of industrial enterprises in 1963, highlighting their predominance in the industrial sector.",
+        "• Despite representing 78% of industrial enterprises, state enterprises contributed an even larger share of industrial output, accounting for 91% of the total industrial production, indicating their critical role in the economy.",
+        "• As of a 2008 estimate, North Korea’s total labor force numbered approximately 12.6 million individuals.",
+        "• The occupational distribution of the labor force in 2008 was approximately 35% engaged in agricultural work.",
+        "• The remaining 65% of the labor force in 2008 was employed in industry and services sectors, reflecting a shift towards industrialization and service provision within the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:23:35.302729",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "5",
+      "section_name": "External trade",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Statistics on North Korea's trade partners are compiled by international organizations such as the United Nations and the International Monetary Fund, as well as by the South Korean Ministry of Unification.",
+        "• Between 1988 and 1990, imports of arms from the Soviet Union accounted for approximately 30% of North Korea's total imports.",
+        "• From 1981 to 1989, North Korea earned roughly $4 billion from arms exports, representing about 30% of its total exports during that period.",
+        "• The nominal dollar value of North Korea's arms exports in 1996 was estimated to be around $50 million.",
+        "• North Korea's foreign trade experienced significant deterioration during the 1990s, reaching a low point of $1.4 billion in 1998 before recovering slightly.",
+        "• In 2002, North Korea's total trade was $2.7 billion, which was only about 50% of the $5.2 billion recorded in 1988, measured in nominal US dollars.",
+        "• The 2002 trade figures exclude intra-Korean trade, considered internal, which rose to $641 million that year.",
+        "• During the late 2000s, North Korea's trade grew strongly, nearly tripling between 2007 and 2011 to reach $5.6 billion, with much of this growth attributed to increased trade with China.",
+        "• By approximately 2010, North Korea's external trade had returned to 1990 levels, and by 2014 it was nearly double the 1990 figures.",
+        "• Trade with China increased substantially, rising from 50% of North Korea's total trade in 2005 to nearly 90% in 2014.",
+        "• In 2015, exports to China were estimated at $2.3 billion, accounting for 83% of North Korea's total exports of $2.83 billion.",
+        "• Special economic zones in North Korea include Kaesŏng and Kŭmgang-san, as well as additional zones established at Sinŭiju in the northwest (bordering China) and Rasŏn in the northeast (bordering China and Russia).",
+        "• International sanctions, many related to North Korea's development of weapons of mass destruction, have impeded its international trade to some extent.",
+        "• In April 2011, U.S. President Barack Obama issued an executive order prohibiting the importation into the United States, directly or indirectly, of any goods, services, or technology from North Korea.",
+        "• Operational sanctions against North Korea include United Nations Security Council Resolutions 1695, 1718, 1874, 1928, 2087, and 2094.",
+        "• Reports from 2018 indicated that trade sanctions, including bans on almost all exports and freezing of overseas accounts, were severely impacting North Korea's economy.",
+        "• Consequences of sanctions in 2018 included shortages of paper for the main newspaper Rodong Sinmun, which was publishing only one-third of its normal print run.",
+        "• Two energy plants supplying electricity to Pyongyang were intermittently shut down due to coal shortages, causing blackouts.",
+        "• Coal mines operated below capacity because of fuel shortages, and coal transportation was hindered by the lack of fuel.",
+        "• Food rations in North Korea were reportedly cut by half as a result of these economic difficulties.",
+        "• The Taep'oong International Investment Group of Korea is the official company responsible for managing overseas investments into North Korea.",
+        "• After 1956, North Korea sought to establish trade relations with countries in the Third World, aiming to secure trade deals.",
+        "• According to analyst Benjamin R. Young, North Korea's efforts to develop robust trade relations with the Global South ultimately proved ineffective and are unlikely to improve in the near future."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:23:46.771514",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "North–South economic ties",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• North and South Korea's economic relations have experienced significant fluctuations over the past 30 years, with notable warming during the late 1990s and most of the 2000s under South Korean President Kim Dae-jung's Sunshine Policy.",
+        "• The Sunshine Policy encouraged many South Korean firms to invest in North Korea, supported by the South Korean government's commitment to cover potential losses if investments in the North failed to become profitable.",
+        "• In 1988, the South Korean Government decided to allow trade with North Korea, initiating a new phase of economic interaction as part of broader reunification efforts since 1971.",
+        "• South Korean firms began importing North Korean goods following this decision, with direct trade commencing in the fall of 1990 after a historic meeting between the two Korean Prime Ministers in September 1990.",
+        "• Trade volume between North and South Korea increased substantially from $18.8 million in 1989 to $333.4 million in 1999, primarily involving processing or assembly work conducted in North Korea.",
+        "• During the 1990s, the chairman of South Korea's Daewoo visited North Korea and agreed to build a light industrial complex in Namp'o, signaling growing economic cooperation.",
+        "• Hyundai Asan secured permission to operate sea-based tour groups to Kŭmgang-san on North Korea’s southeast coast, establishing the Kŭmgang-san Tourist Region as a symbol of inter-Korean tourism collaboration.",
+        "• Hyundai Asan also undertook the construction of the Kaesŏng Industrial Region, an 800-acre (3.2 km²) industrial park near the Korean Demilitarized Zone (DMZ), with investment costs exceeding $1 billion.",
+        "• Following the 2000 summit between North Korean leader Kim Jong Il and South Korean President Kim Dae-jung, both Koreas agreed in August 2000 to reconnect the Seoul–Pyongyang Gyeongui Railway Line across the DMZ to facilitate transport and trade.",
+        "• The two governments also planned to construct a four-lane highway bypassing the truce village at Panmunjeom to improve infrastructure and connectivity between the Koreas.",
+        "• On June 11, 2006, TV commercials for Samsung's Anycall cell phone featuring North Korean dancer Cho Myong-ae alongside South Korean singer Lee Hyo-ri were broadcast, representing cultural and commercial collaboration.",
+        "• Trade between North and South Korea declined after the election of South Korean President Lee Myung-bak in 2008, who reduced trade as a strategy to pressure North Korea over nuclear issues.",
+        "• Between 2007 and 2013, trade with South Korea dropped from $1.8 billion to $1.1 billion, with the majority of remaining trade conducted through the Kaesŏng Industrial Region.",
+        "• The Kaesŏng Industrial Region has experienced frequent shutdowns due to ongoing political tensions between the two Koreas, reflecting the fragility of economic ties amid geopolitical challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:23:52.409133",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "China",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the collapse of the Soviet Union, China emerged as North Korea's primary trading partner, significantly influencing the latter's economy.",
+        "• Bilateral trade between North Korea and China experienced a sharp increase after 2007, reflecting growing economic ties between the two nations.",
+        "• In 2007, the total trade volume between North Korea and China was recorded at $1.97 billion, equivalent to ₩1.7 trillion.",
+        "• By 2011, trade between the two countries had escalated to $5.6 billion, or ₩5.04 trillion, demonstrating rapid growth over a four-year period.",
+        "• Trade with China accounted for a substantial portion of North Korea's foreign trade, representing 57% of North Korea's imports and 42% of its exports.",
+        "• According to Chinese statistics for 2013, North Korean exports to China amounted to nearly $3 billion, while imports from China were approximately $3.6 billion.",
+        "• In 2015, North Korea's exports to China were estimated to have decreased to $2.3 billion, indicating a decline from previous years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:23:58.038992",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Joint ventures",
+      "chapter_name": "Economy of North Korea",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Some South Korean companies initiated joint ventures in North Korea, focusing on sectors such as animation and computer software.",
+        "• Chinese traders engaged in extensive cross-border commerce between China and North Korea, experiencing significant business activity.",
+        "• A 2007 survey of 250 Chinese operations in North Korea revealed that a majority of these businesses reported paying bribes to operate.",
+        "• Robert Suter, former head of the Seoul office of the Swedish-Swiss power generation company ABB, noted that ABB was establishing a presence in North Korea, comparing the situation to early business conditions in China where building trust through physical presence was essential.",
+        "• South Korean enterprises were primarily active in the Kaesŏng Industrial Region, a specially developed industrial zone designed to facilitate joint ventures and economic cooperation.",
+        "• Chinese enterprises were involved in diverse activities within North Korea, including trade and manufacturing sectors.",
+        "• In 2005, European enterprises established the European Business Association (EBA) in Pyongyang, functioning as a de facto chamber of commerce representing European-invested joint ventures and other business interests in North Korea.",
+        "• The pro-North Korean organization Ch'ongryŏn, known as the General Association of Korean Residents in Japan, broadcast a three-part TV film in 2008 on their channel highlighting foreign investment and business activities in North Korea.",
+        "• This film was uploaded to a YouTube channel named \"BusinessNK,\" which also hosted various other videos documenting foreign joint ventures and investment activities in North Korea.",
+        "• As of 2013, no international banks operated within North Korea, yet foreign companies showed increasing interest in engaging economically with the country.",
+        "• In 2010, a flat LCD television factory in North Korea was funded by Ch'ongryŏn, indicating foreign investment involvement in manufacturing.",
+        "• The Rason Special Economic Zone was established in the early 1990s in the northeastern part of North Korea, bordering China and Russia, aimed at promoting economic development and foreign investment.",
+        "• In June 2011, North Korea and China agreed to create a joint free trade area encompassing North Korea’s Hwanggumpyong and Wihwa Islands and the adjacent Chinese border area near Dandong.",
+        "• North Korea designated over a dozen new special economic zones during 2013 and 2014 to further encourage foreign investment and economic activity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:24:09.302642",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_north_korea.json",
+      "original_index": 33
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_spain.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.990664",
+    "total_sections_in_source": 25,
+    "extracted_sections_count": 25,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Spain is characterized as a highly developed social market economy, ranking as the world's 12th largest by nominal GDP and the sixth-largest in Europe, or fifth-largest excluding Russia.",
+        "• Spain is a member of several major international organizations, including the European Union, the eurozone, the Organization for Economic Co-operation and Development (OECD), and the World Trade Organization (WTO).",
+        "• In 2023, Spain was the 18th-largest exporter globally, while in 2022, it ranked as the 15th-largest importer worldwide.",
+        "• According to the United Nations Human Development Index, Spain is ranked 27th, and the International Monetary Fund places Spain 29th in GDP per capita.",
+        "• Key sectors of Spain’s economy include the automotive industry, medical technology, chemicals, shipbuilding, tourism, and the textile industry.",
+        "• Spain possesses a highly efficient and robust social security system among OECD countries, with social security expenditures comprising approximately 23% of its GDP.",
+        "• During the Great Recession, Spain experienced a delayed but prolonged economic downturn compared to EU and US averages, with unemployment exceeding 25% by 2012.",
+        "• Spain’s GDP contracted by nearly 9% between 2009 and 2013, reflecting the severity of the recession.",
+        "• In 2012, the Spanish government formally requested financial assistance from the European Stability Mechanism (ESM) to restructure its banking sector, receiving approval and drawing €41 billion.",
+        "• The ESM assistance program concluded successfully with Spain fully repaying the credit 18 months after drawing the funds.",
+        "• Economic recovery began in 2013, marked by Spain reversing a three-decade-long trade deficit to achieve a trade surplus that year.",
+        "• In 2015, Spain’s GDP growth reached 3.2%, the highest rate since 2007, and by 2014–2015, the economy had recovered 85% of the GDP lost during the 2009–2013 recession.",
+        "• Spain’s economic recovery has been described by some analysts as a “showcase for structural reform efforts.”",
+        "• Unemployment rates declined substantially from 2013 to 2017; however, real unemployment is lower than official figures suggest due to a significant grey market where many unemployed individuals perform informal work.",
+        "• The underground economy in Spain is estimated at approximately €190 billion (US$224 billion) annually, making Spain’s real GDP potentially around 20% larger than official statistics indicate.",
+        "• Among high-income European countries, only Italy and Greece are believed to have larger underground economies than Spain.",
+        "• The presence of a large underground economy implies that Spain’s actual purchasing power and income inequality (measured by the Gini coefficient) may be more favorable than official data suggest.",
+        "• The COVID-19 pandemic severely impacted Spain’s economy, particularly due to the importance of foreign tourism, which accounts for 5% of GDP.",
+        "• By the first quarter of 2023, Spain’s GDP had fully recovered to pre-pandemic levels following the economic downturn caused by the pandemic.",
+        "• In 2023, Spain’s economy grew by 2.5%, outperforming the overall eurozone, which experienced a downturn.",
+        "• Economic growth in Spain is projected at 3.1% for 2024 and 2.5% for 2025.",
+        "• Eurostat data indicate that in 2024, Spain’s GDP per capita, adjusted for purchasing power parity (PPP), reached 92% of the European Union average, reflecting ongoing economic convergence since the COVID-19 pandemic.",
+        "• Spain has surpassed countries such as the Czech Republic, Slovenia, and South Korea in GDP per capita PPP, positioning itself as one of the EU economies that has most significantly narrowed the economic gap with the European core over the past five years.",
+        "• The nominal GDP of Spain has evolved since 2000, measured in trillions of euros, reflecting the country’s economic growth and fluctuations over this period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:12.593648",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the early twentieth century, Spain experienced accelerated growth in its industrial labor force and urban population, with urbanization spreading notably after 1910, leading to a less agrarian economy.",
+        "• Despite industrial growth, agriculture remained the largest sector in Spain during this period, although its share of the active population, along with fishery, declined relative to other sectors.",
+        "• The fastest growing sector in early twentieth-century Spain was the services sector, reflecting structural economic changes.",
+        "• Upon joining the European Economic Community (EEC) in 1986, Spain’s GDP per capita was approximately 72% of the EEC average.",
+        "• In the late 1990s, under the conservative government of Prime Minister José María Aznar, Spain successfully gained admission to the eurozone, joining the euro currency group in 1999.",
+        "• By the mid-1990s, Spain’s economy had resumed growth following disruption caused by the early 1990s global recession, facilitating reductions in government debt as a percentage of GDP and a steady decline in the previously high unemployment rate.",
+        "• Spain maintained a balanced government budget and controlled inflation by the time of its eurozone admission in 1999.",
+        "• By 2007, Spain’s GDP per capita had risen to 105% of the European Union average, surpassing Italy’s 103%, due to both domestic economic development and EU enlargement to 28 members.",
+        "• Three Spanish regions—Basque Country, Madrid, and Navarre—were among the leading EU regions, each exceeding 125% of the EU average GDP per capita.",
+        "• According to the German newspaper Die Welt in 2008, Spain’s economy was projected to surpass countries like Germany in per capita income by 2011.",
+        "• In October 2006, Spain’s unemployment rate was 7.6%, a significant improvement compared to over 20% in the early 1990s.",
+        "• Historically, Spain’s economy had been characterized by high inflation and a large underground economy.",
+        "• Between 1997 and 2007, Spain experienced a real estate bubble driven by historically low interest rates, massive foreign investment—especially from European investment banks—and a substantial surge in immigration.",
+        "• At the real estate bubble’s peak in 2007, construction accounted for 15% of Spain’s total GDP and 12% of total employment.",
+        "• During this period, Spain’s capital inflows, including short-term speculative investments, financed a large trade deficit.",
+        "• The real estate boom led to a sharp increase in private debt among households and businesses; household debt tripled in less than a decade as prospective homeowners struggled to meet high asking prices.",
+        "• By 2005, the median ratio of household indebtedness to income had risen to 125%, primarily due to expensive mortgages that often exceeded property values, placing significant financial pressure on lower to middle-income groups.",
+        "• Economic progress continued until early 2008, when the global financial crisis burst Spain’s property bubble.",
+        "• A European Commission forecast predicted Spain would enter the global recession of the late 2000s by the end of 2008.",
+        "• Spain’s Economy Minister at the time stated that Spain was facing its deepest recession in half a century.",
+        "• The Spanish government forecasted the unemployment rate would rise to 16% in 2009, while ESADE business school predicted it could reach 20%.",
+        "• By 2017, Spain’s GDP per capita had declined to 95% of the European Union average, reflecting the lasting impact of the financial crisis."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:09.485494",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "2008–2014 Spanish financial crisis",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Spain's economy experienced steady growth despite political changes, including the ruling party change in 2004, maintaining robust expansion during Prime Minister José Luis Rodríguez Zapatero's first term, although underlying economic problems were becoming apparent.",
+        "• By summer 2008, Spain's rapidly growing trade deficit had reached 10% of GDP, as reported by the Financial Times, attributed to a loss of competitiveness against main trading partners and traditionally higher inflation compared to European competitors.",
+        "• Key factors exacerbating Spain's economic issues included a 150% increase in house prices from 1998 and a 115% rise in private sector indebtedness, largely driven by the Spanish real estate boom and soaring oil prices.",
+        "• In April 2008, the Spanish government initially forecasted economic growth of 2.3%, but the Ministry of Economy revised this downward to 1.6%; independent forecasters estimated actual growth had dropped to 0.8%, significantly below the strong 3%+ growth rates experienced from 1997 to 2007.",
+        "• During the third quarter of 2008, Spain's GDP contracted for the first time in 15 years, and by February 2009, it was confirmed that Spain, along with other European economies, had entered a recession.",
+        "• The section includes a reference to Spanish provinces by Gini coefficient in 2021, with ranges from 28-28.9 up to 34-35.9, indicating regional income inequality levels, though this data is from a later period than the crisis.",
+        "• In July 2009, the International Monetary Fund (IMF) revised Spain's 2009 GDP contraction estimate to -4%, close to the European average contraction of -4.6%, and projected a further 0.8% contraction for 2010.",
+        "• Spain's budget deficit peaked at 8.5% in 2011 during the financial crisis.",
+        "• The Spanish government set deficit reduction targets aiming for approximately 4% of GDP in 2016 and 3% in 2017.",
+        "• The European Commission imposed stricter deficit targets on Spain, demanding a 4% deficit limit for 2016 and 2.5% for 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:04.577082",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.1.1",
+      "section_name": "Property boom and bust, 2003–2014",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The adoption of the euro in 2002 led to a significant reduction in long-term interest rates in Spain, which in turn prompted a fourfold increase in mortgage lending from 2000 to its peak in 2010.",
+        "• The Spanish property market growth, which had started in 1997, accelerated rapidly after the euro adoption and developed into a property bubble within a few years.",
+        "• This property boom was primarily financed by \"Cajas,\" regional savings banks overseen by regional governments, benefiting from historically low interest rates and a substantial increase in immigration.",
+        "• The Spanish economy was credited with avoiding near-zero growth rates experienced by some of its largest EU partners in the months preceding the global Great Recession, which further fueled the property market expansion.",
+        "• Between 2000 and 2005, Spain's economy generated more than half of all new jobs created in the entire European Union.",
+        "• At the height of the property boom, Spain was constructing more houses than Germany, France, and the United Kingdom combined.",
+        "• Home prices in Spain surged by 71% between 2003 and 2008, coinciding with a rapid expansion of credit availability.",
+        "• The property bubble burst in 2008, triggering the collapse of Spain’s large property-related and construction sectors, resulting in widespread layoffs and a sharp decline in domestic demand for goods and services.",
+        "• Unemployment rates in Spain rose sharply following the collapse of the property market.",
+        "• Initially, Spanish banks and financial institutions avoided the early stages of the international financial crisis; however, as the recession deepened and property prices declined, the smaller regional savings banks (\"Cajas\") accumulated growing bad debts.",
+        "• The deteriorating financial condition of the \"Cajas\" necessitated intervention by Spain’s central bank and government through a stabilization and consolidation program, which involved taking over or merging regional savings banks.",
+        "• In 2012, Spain received a targeted bank bailout from the European Central Bank specifically aimed at supporting the banking sector and the troubled \"Cajas.\"",
+        "• Following the peak in 2008, Spanish home prices fell by 31% before stabilizing and bottoming out in late 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:03.034791",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.1.2",
+      "section_name": "Euro debt crisis, 2010-2012",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Spain is a member of the eurozone monetary union and the European single market, indicated by the dark blue area on relevant maps.",
+        "• In early 2010, renewed concerns about excessive sovereign debt in certain EU countries, initially focused on Ireland and Greece, spread to Portugal and, to a lesser extent, Spain, raising broader doubts about the stability of the euro.",
+        "• Economists widely recommended comprehensive policy responses to manage surging public debt caused by recession-induced declines in tax revenues, advocating a combination of stringent austerity measures and increased taxation.",
+        "• Some German policymakers insisted that financial bailouts for EU countries in distress, such as Greece, should be conditional on imposing severe penalties on the aid recipients.",
+        "• Prior to the Great Recession, Spain’s government budget was in surplus, and its public debt level was not considered excessive compared to other EU countries.",
+        "• At the start of 2010, Spain’s public debt as a percentage of GDP was still lower than that of the United Kingdom, France, or Germany.",
+        "• Despite this, analysts highlighted Spain’s fragile economic recovery, rapidly increasing public debt, the potential need for large bailouts of troubled regional banks, and poor growth prospects that would constrain future government revenues.",
+        "• The Spanish central government had limited control over regional government spending due to a decentralized system of shared governmental responsibilities established since 1975, with significant fiscal authority devolved to regional governments.",
+        "• The central government faced challenges in securing support from regional governments for unpopular austerity and spending cuts.",
+        "• In May 2010, the Spanish government announced additional austerity measures, building upon the ambitious fiscal consolidation plans initially declared in January 2010.",
+        "• By September 2011, Spanish banks held a record high amount of €142 billion in Spanish national bonds, reflecting significant domestic exposure to sovereign debt.",
+        "• Until the second quarter of 2012, Spanish banks were permitted by regulators to report real estate-related assets at inflated, non-market prices, a practice that investors needed to be cautious about.",
+        "• Spanish residential properties that remained vacant for extended periods could not be sold at their land book value, indicating a discrepancy between asset valuations and actual market liquidity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:03.650739",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.1.3",
+      "section_name": "Employment crisis",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Torres de la Casería de Ossio apartment buildings in San Fernando were completed in 2007, symbolizing the peak of the Spanish construction boom, whose collapse significantly contributed to Spain's record unemployment.",
+        "• Spain experienced substantial improvements in employment during the late 1990s and throughout the 2000s, achieving a record low unemployment rate of approximately 8% in 2007, with some regions nearing full employment.",
+        "• Beginning in October 2008, Spain faced a severe economic setback, marked by a sharp surge in unemployment rates that exceeded increases seen in previous crises, including the 1993 recession.",
+        "• October 2008 recorded the worst unemployment rise in Spain’s history, highlighting the severity of the economic downturn.",
+        "• Despite the large size of Spain’s underground economy, which obscured the true employment situation, long-term structural weaknesses in the labor market persisted.",
+        "• By 2014, Spain’s structural unemployment rate was estimated at 18%, indicating deep-rooted challenges beyond cyclical fluctuations.",
+        "• Between July 2008 and July 2009, Spain lost 1.2 million jobs within a single year, with the oversized building and housing sectors being major contributors to the rising unemployment figures.",
+        "• Starting in 2009, thousands of established immigrants began leaving Spain due to deteriorating economic conditions, although some maintained residency because of unfavorable circumstances in their countries of origin.",
+        "• By early 2013, Spain’s unemployment rate reached an unprecedented high of approximately 27%, reflecting the prolonged and severe nature of the employment crisis.",
+        "• In 2012, Spain implemented a radical labor reform aimed at creating a more flexible labor market by facilitating layoffs, with the objective of boosting business confidence and improving economic resilience."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:02.525406",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.1.3.1",
+      "section_name": "Youth",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the early 1990s, Spain experienced an economic crisis triggered by a Europe-wide economic downturn, which resulted in a significant rise in unemployment rates across the country.",
+        "• This crisis led many young adults in Spain to become trapped in a cycle of temporary employment, characterized by reduced wages, lack of job stability, and limited opportunities for career advancement, effectively creating a secondary class of workers.",
+        "• The economic difficulties primarily affected unmarried young adults, many of whom chose to emigrate to other countries in search of better job opportunities and improved quality of life, resulting in a relatively small proportion of young adults living below the poverty line within Spain.",
+        "• Spain faced another economic crisis during the 2000s, which similarly caused an increase in emigration, with young Spaniards moving to neighboring countries that offered greater job stability and stronger economic conditions.",
+        "• Youth unemployment continues to be a significant concern in Spain, leading to proposals for labor market programs and job-search assistance initiatives aimed at better matching youth skills with business needs.",
+        "• These suggested measures are intended to strengthen Spain’s weakened youth labor market and facilitate a smoother transition from school to work, addressing the difficulties young people face in securing long-term employment.",
+        "• As of January 2025, the youth unemployment rate in Spain is recorded at 24.9%, highlighting the ongoing challenges faced by young workers in the Spanish economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:08.042037",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.1.3.2",
+      "section_name": "Employment recovery",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The labor market reform in Spain initiated a trend of setting successive positive employment records, reversing a negative trend in job creation that had persisted since 2008.",
+        "• By the second quarter (Q2) of 2014, Spain's economy began creating jobs for the first time since the onset of the financial crisis, marking an extraordinary reversal with job creation reaching an absolute positive record since quarterly employment statistics began in 1964.",
+        "• Evidence suggested that the labor reform played a significant role in this recovery, as Spain started creating jobs at lower GDP growth rates than in previous economic cycles; whereas employment previously rose only when GDP growth reached 2%, the 2014 employment gains occurred during a year when GDP expanded by just 1.2%.",
+        "• The greater-than-expected GDP growth from 2014 onwards facilitated a steady annual decline in Spain’s official unemployment figures.",
+        "• In 2016, unemployment experienced the steepest fall on record, with Spain recovering 1.7 million of the more than 3.5 million jobs lost during the recession by the end of that year.",
+        "• By the fourth quarter (Q4) of 2016, the unemployment rate had fallen to 19%, the lowest level in seven years.",
+        "• In April 2017, Spain recorded its largest single-month drop in jobless claimants to date.",
+        "• During Q2 of 2017, unemployment decreased to 17%, falling below 4 million unemployed persons for the first time since 2008, and marking the steepest quarterly decline in unemployment on record.",
+        "• In 2018, the unemployment rate dropped to 14.6%, remaining below the 15% threshold for the first time since the 2008 financial crisis began.",
+        "• As of 2017, trade unions, as well as left and center-left political parties, continued to criticize the labor reform, advocating for its revocation on the grounds that it disproportionately favored employers over workers.",
+        "• A significant criticism was that most new employment contracts created post-reform were temporary rather than permanent.",
+        "• In 2019, the socialist government led by Pedro Sánchez increased the minimum wage by 22% to stimulate hiring and consumer spending, with a further increase implemented in the labor reform adopted at the end of 2021.",
+        "• Opposition members argued that the minimum wage increase would negatively impact approximately 1.2 million workers, as employers might be unable to afford the higher wages, potentially leading to increased unemployment.",
+        "• Contrary to opposition concerns, the reforms under Sánchez’s government resulted in a robust shift towards permanent employment contracts.",
+        "• These reforms contributed to achieving a 15-year low in unemployment rates, reaching 11.60%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:12.704007",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.1.4",
+      "section_name": "Reduction of European Union funds",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since joining the European Economic Community (EEC), capital contributions from the European Union (EU) have played a significant role in the economic empowerment of Spain.",
+        "• However, since 1990, these capital contributions have decreased considerably due to the effects of the EU's enlargement.",
+        "• Agricultural funds from the Common Agricultural Policy (CAP) of the EU are now distributed across a greater number of member countries.",
+        "• The EU enlargements in 2004 and 2007 included the accession of less developed countries, which lowered the overall average income level of the Union.",
+        "• As a result of this lowered average income, Spanish regions that were previously considered relatively less developed are now at or above the European average income level.",
+        "• Consequently, Spain has transitioned from being a recipient of EU funds to becoming a net contributor, providing financial support to less developed countries within the Union."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:08.944697",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1.1.5",
+      "section_name": "Economic recovery (2014–2020)",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the economic downturn, Spain significantly reduced imports, increased exports, and attracted growing numbers of tourists; as a result, after three decades of running a trade deficit, the country attained a trade surplus in 2013, which strengthened during 2014–2015.",
+        "• In 2015, Spain experienced a 3.2% increase in economic growth, the highest among larger European Union economies.",
+        "• Between 2014 and 2015, Spain's economy recovered 85% of the GDP lost during the 2009–2013 recession, leading some international analysts to describe Spain's recovery as \"the showcase for structural reform efforts.\"",
+        "• The Spanish economy outperformed expectations by growing 3.2% in 2016, surpassing the eurozone average growth rate.",
+        "• A primary driver of Spain’s economic recovery was international trade, which was stimulated by dramatic gains in labor productivity.",
+        "• Exports increased from approximately 25% of GDP in 2008 to 33% of GDP in 2016, supported by an internal devaluation characterized by the country’s wage bill halving between 2008 and 2016.",
+        "• The export growth was also fueled by Spain’s search for new markets and a mild recovery in the European economy.",
+        "• By the second quarter of 2017, Spain had recovered all the GDP lost during the economic crisis, exceeding for the first time the output level of 2008.",
+        "• By 2017, after several months of rising prices, homeowners who had been renting out properties during the economic slump began putting their homes back on the market.",
+        "• Home sales in Spain were expected to return in 2017 to pre-crisis (2008) levels.",
+        "• The Spanish real estate market was experiencing a new boom focused on the rental sector.",
+        "• According to the National Statistics Institute, compared to May 2007, 48 out of 50 Spanish provinces recorded higher rent levels by 2017.",
+        "• The 10 most populated provinces accumulated rent inflation between 5% and 15% since 2007.",
+        "• The rental price increase was most pronounced in major cities such as Barcelona and Madrid, which saw new record average rental prices.",
+        "• The rise in rental prices was partially driven by short-term rentals to tourists in these large urban centers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:12.356479",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2",
+      "section_name": "Data",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Spain's main economic indicators from 1980 to 2023, with IMF estimates for 2024 to 2027 shown in italics; inflation rates below 5% are highlighted in green.",
+        "• In 1980, Spain's GDP measured at 294.4 billion US$ PPP, with a GDP per capita of 7,819.0 US$ PPP; nominal GDP was 230.8 billion US$, and nominal GDP per capita was 6,128.0 US$; real GDP growth was 1.2%, inflation was 15.6%, unemployment stood at 11.0%, and government debt was 16.6% of GDP.",
+        "• From 1981 to 1985, GDP increased from 321.0 to 405.5 billion US$ PPP, while nominal GDP fluctuated between 204.6 and 181.6 billion US$; inflation decreased from 14.5% to 8.8%, unemployment rose from 13.8% to 21.3%, and government debt increased from 20.0% to 42.1% of GDP.",
+        "• Between 1986 and 1990, GDP grew from 427.9 to 593.9 billion US$ PPP, with nominal GDP rising from 251.3 to 535.7 billion US$; real GDP growth accelerated, peaking at 5.7% in 1987; inflation dropped significantly to 6.7% by 1990; unemployment decreased from 20.9% to 16.2%, and government debt rose to 42.5% of GDP.",
+        "• During 1991–1995, GDP expanded from 629.5 to 728.9 billion US$ PPP, nominal GDP varied between 576.4 and 613.9 billion US$; real GDP growth fluctuated, including a negative growth of -1.3% in 1993; inflation remained low around 4.6–7.1%; unemployment increased to 24.1% by 1994 before declining to 22.9% in 1995; government debt escalated to 63.4% of GDP.",
+        "• From 1996 to 2000, GDP rose from 760.2 to 968.3 billion US$ PPP, nominal GDP ranged from 640.0 to 598.6 billion US$; real GDP growth was positive, reaching 5.1% in 2000; inflation dropped below 5% starting 1997; unemployment declined from 22.1% to 13.9%; government debt peaked at 67.5% in 1996 then decreased to 57.8% by 2000.",
+        "• In 2001–2005, GDP increased from 1,029.1 to 1,276.4 billion US$ PPP, nominal GDP grew from 627.8 to 1,154.4 billion US$; real GDP growth remained robust, between 2.7% and 4.1%; inflation stayed below 5%; unemployment fell from 10.5% to 9.2%; government debt declined steadily from 54.1% to 42.4% of GDP.",
+        "• Between 2006 and 2009, GDP rose from 1,369.7 to 1,451.3 billion US$ PPP, nominal GDP increased from 1,260.5 to 1,489.9 billion US$; real GDP growth peaked at 4.1% in 2006 but turned negative (-3.8%) in 2009 due to the global financial crisis; inflation remained low except for a slight increase in 2008; unemployment increased from 8.5% to 17.9%; government debt rose from 39.1% to 53.3%.",
+        "• From 2010 to 2015, GDP fluctuated between 1,471.3 and 1,621.5 billion US$ PPP, nominal GDP ranged from 1,423.3 to 1,195.7 billion US$; real GDP growth was weak or negative until 2014, then recovered to 3.8% in 2015; inflation was low or negative; unemployment peaked at 24.8% in 2012 and declined to 22.1% by 2015; government debt increased sharply, reaching 105.1% of GDP in 2014 before slightly decreasing.",
+        "• During 2016–2019, GDP grew from 1,733.0 to 2,006.7 billion US$ PPP, nominal GDP rose from 1,232.6 to 1,393.2 billion US$; real GDP growth remained positive, ranging from 2.1% to 3.0%; inflation stayed below 5%; unemployment steadily decreased from 19.6% to 14.1%; government debt declined from 102.8% to 98.3% of GDP.",
+        "• In 2020, Spain's GDP contracted sharply to 1,811.0 billion US$ PPP with a real GDP decline of -10.8% due to the COVID-19 pandemic; nominal GDP was 1,280.4 billion US$; inflation was negative at -0.3%; unemployment rose slightly to 15.5%; government debt surged to 120.0% of GDP.",
+        "• For 2021–2023, GDP rebounded from 1,983.1 to 2,411.3 billion US$ PPP, nominal GDP increased from 1,426.2 to 1,581.1 billion US$; real GDP growth recovered strongly to 6.7% in 2021, then moderated to 2.7% in 2023; inflation varied, reaching 8.8% in 2022 before falling to 4.9% in 2023; unemployment decreased from 14.0% to 12.2%; government debt declined from 116.8% to 107.7% of GDP.",
+        "• IMF projections for 2024–2027 indicate continued GDP growth from 2,516.3 billion US$ PPP in 2024 to 2,808.0 billion US$ PPP in 2027; nominal GDP is expected to rise from 1,647.1 billion US$ in 2024 to 1,829.2 billion US$ in 2027; real GDP growth is forecasted to slow from 2.9% in 2024 to 1.8% in 2027; inflation rates are projected to remain below 5%, decreasing from 3.5% in 2024 to 1.9% in 2026; unemployment is expected to stabilize around 11.1–11.3%; government debt is forecasted to gradually decrease from 105.6% of GDP in 2024 to approximately 104.3% in 2026.",
+        "• Overall, Spain's economy has experienced significant growth in GDP and GDP per capita over the four decades, with periods of recession notably in the early 1990s, during the 2008 financial crisis, and the 2020 COVID-19 pandemic, accompanied by fluctuations in inflation, unemployment, and government debt levels."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:19.522503",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3",
+      "section_name": "Banking system",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Spanish private commercial banks were central to Spain's economic development in the 19th century, benefiting from their role as the state's creditor, their ability to monetize public debt, and state-sanctioned oligopolistic arrangements that persisted from the early 20th century until the late 1980s, when European regulations mandated sector liberalization.",
+        "• Following the end of the Franco regime, the main Spanish commercial banks received favorable treatment and maintained close relationships with the Bank of Spain (Banco de España), facilitating a public-private partnership that restructured large commercial banks into two major entities, Santander and BBVA, to prepare them for international competition and external expansion ahead of the 1992 European banking market integration.",
+        "• Alongside this financial mercantilism benefiting commercial banks, Spanish regulators permitted the significant expansion of not-for-profit savings banks (Cajas) sponsored by regional governments, which became heavily exposed to the housing mortgage and real estate development sectors during the Spanish economic boom from 1999 to 2007.",
+        "• Prior to 2010, Spain’s banking system was regarded as one of the most solid among Western countries in managing the global liquidity crisis, attributed to conservative banking rules requiring high capital provisions and various guarantees from borrowers, enabling large, geographically and industrially diversified banks like BBVA and Santander to better withstand real estate deflation.",
+        "• Spain’s large commercial banks leveraged their strong positions to acquire distressed banking assets in Europe and the United States during the crisis period.",
+        "• Smaller local savings banks (Cajas) delayed registering bad loans, particularly those backed by houses and land, to avoid declaring losses amid the unprecedented real estate sector crisis.",
+        "• In June 2009, the Spanish government established the Fondo de Reestructuración Ordenada Bancaria (FROB), or Fund for Orderly Bank Restructuring, as a banking bailout and reconstruction fund.",
+        "• State intervention in local savings banks due to default risk was less severe than initially feared; on 22 May 2010, Banco de España took over CajaSur as part of a national program to stabilize smaller banks.",
+        "• In December 2011, Banco de España forcibly took over Caja Mediterráneo (CAM), a regional savings bank, to prevent its financial collapse; PricewaterhouseCoopers estimated an asset-debt imbalance of €3,500 million for CAM, excluding its industrial corporation.",
+        "• The crisis peaked with the partial nationalization of Bankia in May 2012, as mounting real estate losses among savings banks undermined confidence in Spanish government bonds, exacerbating the sovereign debt crisis.",
+        "• In early June 2012, Spain requested €41 billion in European funding specifically to recapitalize Spanish banks in need; this was not a sovereign bailout, as funds were exclusively for banking sector restructuring, with a full sovereign bailout estimated at ten to twelve times that amount for an economy Spain’s size.",
+        "• The European Monetary System (EMS) extended the credit line without imposing tax or macroeconomic conditions on Spain.",
+        "• By 2017, the cost of restructuring Spain’s bankrupt savings banks was estimated at €60.7 billion, with approximately €41.8 billion provided by the state through FROB and the remainder by the banking sector.",
+        "• The total restructuring cost remains uncertain until lenders still controlled by the state, such as Bankia and BMN, are privatized; by early 2017, the Spanish government considered merging these banks before privatization to recover an estimated €400 million of bailout costs.",
+        "• During the restructuring process, most regional savings banks—including CAM, Catalunya Banc, Banco de Valencia, Novagalicia Banco, Unnim Banc, and Cajasur—were absorbed by larger, more international Spanish banks that implemented improved management practices.",
+        "• As of 2022, Spanish banks have reduced their number of branches by half to about 20,000 over the decade following the 2008–2014 financial crisis and the 2012 international bailout.",
+        "• Remaining banks have decreased retail opening hours and promoted online banking services, prompting public concern about accessibility for vulnerable populations.",
+        "• A retired urologist with Parkinson’s disease initiated an online petition titled \"I'm Old, Not an Idiot,\" gathering over 600,000 signatures, urging banks and other institutions to serve all citizens without discrimination against the elderly and most vulnerable members of society."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:19.636015",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "4",
+      "section_name": "Prices",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Spain lacks its own fossil fuel resources and therefore imports all of its fossil fuels, making the country dependent on external energy supplies.",
+        "• Prior to the 2008 financial crisis, Spain exhibited an inflationary tendency and an inflationary gap relative to other European Monetary Union (EMU) countries, which negatively impacted the country’s overall productivity.",
+        "• Upon joining the eurozone, Spain lost the ability to use competitive devaluations as a tool to regain competitiveness, risking a permanent and cumulative loss of competitiveness due to inflationary pressures.",
+        "• During the mid-2000s, record high oil prices exerted additional upward pressure on Spain’s inflation rate, culminating in a 13-year high inflation rate of 5.00% in June 2008.",
+        "• In the second half of 2008, a dramatic decrease in oil prices combined with the bursting of Spain’s real estate bubble shifted economic concerns toward the risk of deflation.",
+        "• In January 2009, Spain recorded its lowest inflation rate in 40 years, followed by a negative inflation rate in March 2009, marking the first time since the inception of inflation statistics that Spain experienced deflation.",
+        "• Between 2009 and early 2016, Spain’s inflation rate generally oscillated between slightly negative and near-zero levels, with only minor temporary oil price shocks affecting this trend.",
+        "• Analysts argued that the low or negative inflation rates during this period did not constitute true deflation, as Spain’s GDP had been growing since 2014, domestic consumption had rebounded, and core inflation remained slightly positive.",
+        "• In 2017, Spain experienced a return to moderate inflation rates between 1% and 2%, still below the European Central Bank’s (ECB) inflation target, driven by the fading impact of previously cheaper fuel prices and the ongoing economic recovery.",
+        "• In 2022, Spain experienced a global price hike that was less severe than in other eurozone countries, ending the year with the lowest inflation rate in the eurozone at 5.5%.",
+        "• Price increases continued to moderate in 2023, with Spain announcing a lower-than-expected year-on-year inflation rate of 3.2% on May 30, 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:17.983575",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "5",
+      "section_name": "Economic strengths",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the 1990s, several Spanish companies have achieved multinational status by expanding their operations primarily into culturally proximate regions such as Latin America, Eastern Europe, and Asia.",
+        "• Spain ranks as the second largest foreign investor in Latin America, surpassed only by the United States.",
+        "• Spanish corporate expansion has notably included significant growth in Asian markets, particularly in China and India.",
+        "• The early global expansion of Spanish firms provided them with a competitive advantage over some European competitors and neighboring countries.",
+        "• The success of Spanish companies is partly attributed to the increasing global interest in Spanish language and culture, especially in Asia and Africa, alongside a corporate culture that embraces risk-taking in unstable markets.",
+        "• Spanish investments have targeted diverse sectors including biotechnology, pharmaceuticals, and renewable energy, with Iberdrola recognized as the world’s largest renewable energy operator.",
+        "• Prominent Spanish technology companies include Telefónica, Abengoa, Mondragon Corporation, Movistar, Gamesa, Hisdesat, and Indra.",
+        "• Spain is home to leading train manufacturers such as CAF and Talgo, and global corporations like the textile giant Inditex.",
+        "• The petroleum sector features major Spanish companies like Repsol, while infrastructure development is driven by firms such as Ferrovial, Acciona, ACS, OHL, and FCC.",
+        "• Among the world’s top ten international construction firms specializing in transport, six are Spanish companies.",
+        "• Spain possesses a robust banking system, highlighted by two global systemically important banks: Banco Santander and BBVA."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:15.217809",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 2012–13 edition of the Global Competitiveness Report, Spain was ranked 10th worldwide for first-class infrastructure, making it the 5th best infrastructure country within the European Union and surpassing nations such as Japan and the United States.",
+        "• Spain is a global leader in high-speed rail infrastructure, possessing the second longest high-speed rail network in the world, second only to China, and actively leading international high-speed rail projects utilizing Spanish technology.",
+        "• Spanish infrastructure concession companies manage 262 transport infrastructure projects worldwide, accounting for 36% of the global total, as reported by Public Works Financing in October 2012.",
+        "• The top three global infrastructure concession companies by number of concessions are Spanish firms: ACS, Global Vía, and Abertis, operating roads, railways, airports, and ports either under construction or in operation.",
+        "• Ferrovial-Cintra is the world’s leading infrastructure concessionaire by investment value, with €72,000 million invested, closely followed by ACS with €70,200 million.",
+        "• Other Spanish companies among the global top ten infrastructure concessionaires by investment include Sacyr (€21,500 million), FCC and Global Vía (€19,400 million each), and OHL (€17,870 million).",
+        "• In 2013, Spanish civil engineering companies secured contracts worldwide totaling €40 billion, setting a new record for the national industry in international project acquisitions.",
+        "• The Port of Valencia is the busiest seaport in the Mediterranean basin, ranked 5th busiest in Europe and 30th busiest globally.",
+        "• Four additional Spanish ports—Algeciras, Barcelona, Las Palmas, and Bilbao—are included in the ranking of the top 125 busiest seaports worldwide.",
+        "• Due to the presence of these major ports, Spain is tied with Japan for the third position among countries leading the ranking of the world’s busiest seaports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:21.722232",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Export growth",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the boom years prior to the economic downturn, Spain accumulated a trade deficit reaching a record equivalent to 10% of GDP in 2007, while its external debt expanded to 170% of GDP, ranking among the highest levels in Western economies.",
+        "• In the subsequent economic downturn, Spain significantly reduced imports due to a contraction in domestic consumption; however, despite the global economic slowdown, the country increased exports and continued to attract a growing number of tourists.",
+        "• In 2013, Spanish exports grew by 4.2%, marking the highest export growth rate within the European Union for that year.",
+        "• After three decades of persistent trade deficits, Spain achieved a trade surplus in 2013, driven primarily by growth in capital goods and the automotive sector.",
+        "• The trade surplus in 2013 was forecasted to reach an equivalent of 2.5% of GDP in 2014, with exports accounting for 34% of GDP in 2014, up from 24% in 2009.",
+        "• The trade surplus established in 2013 was consolidated and maintained throughout 2014 and 2015.",
+        "• Despite a slight decline in exports from other EU countries during the same period, Spanish exports continued to grow robustly; in the first half of 2016, Spain set a new export record with goods exported totaling 128,041 million euros, of which nearly 67% were destined for other EU member states.",
+        "• Among the 70 members of the World Trade Organization (WTO), whose combined economies represent 90% of global GDP, Spain recorded the highest growth in exports during the first half of 2016.",
+        "• In 2016, Spanish goods exports reached historical highs despite a global slowdown in trade, representing 33% of Spain’s total GDP; this contrasts with export-to-GDP ratios of 12% in the United States, 18% in Japan, 22% in China, and 45% in Germany.",
+        "• By 2017, foreign sales had increased annually since 2010, accompanied by a degree of unplanned import substitution, an unusual development for Spain during an economic expansion phase, indicating structural improvements in competitiveness.",
+        "• According to 2017 data, approximately 65% of Spain’s exports were directed to other European Union member countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:19.124297",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "6",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Spanish benchmark stock market index is the IBEX 35, which as of 2016 is primarily led by companies in the banking sector, including Banco Santander and BBVA.",
+        "• Other leading sectors represented in the IBEX 35 as of 2016 include clothing, with Inditex as a key company, telecommunications, led by Telefónica, and the energy sector, represented by Iberdrola.",
+        "• In 2022, the sector with the highest number of registered companies in Spain is Finance, Insurance, and Real Estate, totaling 2,656,178 companies.",
+        "• The second largest sector by number of companies registered in Spain in 2022 is Services, with 2,090,320 companies.",
+        "• Retail Trade ranks third in terms of company registrations in Spain in 2022, with 549,395 companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:19.116057",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Until 2008, Spain's external trade was predominantly conducted with European Union countries, specifically France, Germany, Italy, the United Kingdom, and Portugal.",
+        "• In recent years, Spain's foreign trade has increasingly shifted focus outside the European Union, targeting regions such as Latin America, Asia, Africa, and the United States.",
+        "• Spain's principal customers in Asia include Japan, China, India, South Korea, and Taiwan, reflecting a diversification of trade partners beyond Europe.",
+        "• Key African trading partners for Spain are oil-producing countries such as Nigeria, Algeria, and Libya, alongside Morocco, which holds significant economic ties with Spain.",
+        "• Latin American countries are vital trading partners for Spain, with Argentina, Mexico, Cuba (notably for tourism), Colombia, Brazil, and Chile (notably for food products) being important; Mexico, Venezuela, and Argentina are also significant for petroleum trade.",
+        "• Following the economic crisis beginning in 2008 and the subsequent decline of the domestic market, Spain has, since 2010, expanded its export supply and volume substantially by turning outward to international markets.",
+        "• Spain has diversified its traditional export destinations and experienced significant growth in sales of medium and high-technology products, successfully entering highly competitive markets such as the United States and Asia.",
+        "• In 2015, Spain's imports totaled $305,266 million USD, with Germany being the largest source of imports at $39,854 million (13.1%), followed by France ($33,031 million, 10.8%), China ($26,474 million, 8.7%), Italy ($19,241 million, 6.3%), and the United States ($14,247 million, 4.7%).",
+        "• Other notable import partners in 2015 included the United Kingdom ($13,966 million, 4.6%), the Netherlands ($12,706 million, 4.2%), Portugal ($11,901 million, 3.9%), Belgium ($7,849 million, 2.6%), and Algeria ($7,198 million, 2.4%).",
+        "• Spain's exports in 2015 amounted to $278,122 million USD, with France as the top export destination at $42,998 million (15.5%), followed by Germany ($30,077 million, 10.8%), Italy ($20,758 million, 7.5%), the United Kingdom ($20,258 million, 7.3%), and Portugal ($19,914 million, 7.2%).",
+        "• Additional significant export markets for Spain in 2015 included the United States ($12,668 million, 4.6%), the Netherlands ($8,820 million, 3.2%), Belgium ($7,384 million, 2.7%), Morocco ($6,811 million, 2.5%), and Turkey ($5,650 million, 2.0%)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:30.895837",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Over the last forty years, Spain's foreign tourist industry has expanded to become the second-largest in the world.",
+        "• A 2015 survey conducted by the World Economic Forum declared Spain's tourism industry as the most competitive globally.",
+        "• The World Economic Forum repeated this finding in its 2017 survey, reaffirming Spain's leading position in tourism competitiveness.",
+        "• By 2018, Spain ranked as the second most visited country worldwide, surpassing the United States and closely trailing France.",
+        "• In 2019, Spain recorded 83.7 million visitors, setting a new tourism record for the tenth consecutive year.",
+        "• The economic scale of Spain's tourism sector increased from approximately €40 billion in 2006 to about €77 billion in 2016.",
+        "• In 2015, the combined value of foreign and domestic tourism accounted for nearly 5% of Spain's Gross Domestic Product (GDP).",
+        "• The tourism industry in Spain provided employment for approximately 2 million people as of 2015.",
+        "• The World Tourism Organization, an important international body in the tourism sector, has its headquarters located in Madrid, Spain."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:27.317547",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Automotive industry",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The automotive industry is one of the largest employers in Spain, playing a significant role in the national economy.",
+        "• In 2015, Spain ranked as the 8th largest automobile producer globally and was the 2nd largest car manufacturer in Europe, following Germany.",
+        "• By 2016, the automotive sector contributed 8.7 percent to Spain's gross domestic product (GDP) and employed approximately nine percent of the manufacturing workforce.",
+        "• In 2008, the automobile industry was the second most exported industry in Spain, and by 2015, about 80 percent of the total automotive production was destined for export markets.",
+        "• In 2015, German companies invested €4.8 billion in Spain, making it the second-largest recipient of German foreign direct investment after the United States.",
+        "• Of the €4.8 billion German investment in Spain in 2015, €4 billion was allocated specifically to the Spanish automotive industry, underscoring the sector's importance to foreign investors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:23.515241",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "6.4",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The PS10 and PS20 solar power plants are located in Seville, Spain, representing significant developments in the country's solar energy infrastructure.",
+        "• In 2010, Spanish electricity consumption was 88% of the EU15 average, where the EU15 average consumption was 7,409 kWh per person.",
+        "• During the same year, Spain's electricity usage was 73% of the OECD average, with the OECD average being 8,991 kWh per person.",
+        "• In 2023, Spain's total electricity consumption amounted to 244,686 gigawatt hours (GWh), marking a 2.3% decrease compared to the consumption in 2022.",
+        "• Spain is recognized as a global leader in renewable energy, both in terms of producing renewable energy and exporting renewable energy technologies.",
+        "• In 2013, Spain became the first country worldwide to have wind power as its primary source of energy, highlighting its pioneering role in renewable energy adoption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:25.567990",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "6.5",
+      "section_name": "Agribusiness",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2015, Spain's agribusiness sector generated exports valued at slightly over 40 billion euros, representing 3% of the national GDP and accounting for more than 15% of total Spanish exports.",
+        "• The period from 2004 to 2014 marked a significant expansion in Spain's agribusiness exports, which increased by 95%, driven primarily by pork, wine, and olive oil production.",
+        "• By 2012, Spain had become the world's largest producer of olive oil, responsible for 50% of global olive oil production.",
+        "• In 2013, Spain achieved the status of the world's leading wine producer, and in both 2014 and 2015, it was the largest exporter of wine worldwide.",
+        "• Despite these production and export achievements, Spain faces challenges related to poor marketing strategies and low profit margins in its agribusiness sector.",
+        "• A notable issue is that the primary importers of Spanish olive oil and wine—Italy and France, respectively—often purchase Spanish products in bulk and subsequently bottle and market them under their own national labels, frequently applying significant price markups.",
+        "• Within the European Union, Spain holds the position of the largest producer and exporter of citrus fruits, including oranges, lemons, and small citrus varieties, as well as peaches and apricots.",
+        "• Spain is also the leading producer and exporter of strawberries within the European Union."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:24.234848",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "6.6",
+      "section_name": "Food retail",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, the food distribution sector in Spain was led by Mercadona, which held a dominant market share of 24.5%.",
+        "• Carrefour was the second-largest food retailer in Spain in 2020, with an 8.4% market share.",
+        "• Lidl ranked third in the Spanish food retail market in 2020, capturing 6.1% of the market share.",
+        "• DIA held a 5.8% share of the food distribution market in Spain during 2020.",
+        "• Eroski accounted for 4.8% of the food retail market share in Spain in 2020.",
+        "• Auchan had a 3.4% market share in the Spanish food distribution sector in 2020.",
+        "• Regional distributors collectively represented 14.3% of the food retail market share in Spain in 2020.",
+        "• Other food retailers and distributors combined accounted for 32.7% of the Spanish food distribution market share in 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:27.814729",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "6.7",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, Spain ranked as the 7th largest producer of gypsum globally, reflecting its significant role in the international gypsum market.",
+        "• During the same year, Spain was the 10th largest producer of potash worldwide, highlighting its importance in the production of this key mineral used primarily in fertilizers.",
+        "• Spain also held the position of the 15th largest salt producer globally in 2019, indicating a notable presence in the salt mining industry.",
+        "• Copper mining in Spain is a major industry, with the country being the second largest copper producer in Europe, underscoring its substantial contribution to European copper supply.",
+        "• The Iberian Pyrite Belt is the primary region for copper extraction in Spain, known for its rich deposits and mining activity.",
+        "• The province of Granada in Spain contains two Celestine mines, which contribute to the country’s status as a major producer of strontium concentrates, an important mineral for various industrial applications.",
+        "• The Las Cruces copper mine, located in Gerena, is a notable mining site within Spain’s copper production sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:29.456405",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "7",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of Spain",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1985 and 2018, approximately 23,201 mergers and acquisitions deals involved Spanish companies either as acquirers or targets, with a combined total transaction value of 1,935 billion USD (1,571.8 billion EUR).",
+        "• The largest deal involving Spanish participation was announced on October 31, 2005, when Telefónica SA, a Spanish telecommunications services company, acquired O2 PLC, a wireless company based in the United Kingdom, for 31,659.40 million USD.",
+        "• On April 2, 2007, an Italian investor group in the \"Other Financials\" sector acquired Endesa SA, a Spanish power company, for 26,437.77 million USD.",
+        "• The Spanish entity FROB, categorized under \"Other Financials,\" acquired Banco Financiero y de Ahorros, a Spanish bank, on May 9, 2012, in a transaction valued at 23,785.68 million USD.",
+        "• Iberdrola SA, a Spanish power company, purchased Scottish Power PLC, a power company from the United Kingdom, on November 28, 2006, for 22,210.00 million USD.",
+        "• On February 8, 2006, Airport Development & Investment Ltd, a Spanish company in \"Other Financials,\" acquired BAA PLC, a transportation and infrastructure company based in the United Kingdom, for 21,810.57 million USD.",
+        "• Imperial Tobacco Overseas Holding, a United Kingdom company in \"Other Financials,\" acquired Altadis SA, a Spanish tobacco company, on March 14, 2007, for 17,872.72 million USD.",
+        "• Santander Central Hispano SA, a Spanish bank, acquired Abbey National PLC, a United Kingdom bank, on July 23, 2004, in a deal worth 15,787.49 million USD.",
+        "• Vodafone AirTouch PLC, a wireless company from the United Kingdom, acquired Airtel SA, a Spanish company in \"Other Telecom,\" on July 17, 2000, for 14,364.85 million USD.",
+        "• Banco Financiero y de Ahorros, a Spanish bank, acquired Bankia SA, another Spanish bank, on December 26, 2012, in a transaction valued at 14,155.31 million USD.",
+        "• On April 2, 2007, Enel SpA, an Italian power company, acquired Endesa SA, a Spanish power company, for 13,469.98 million USD."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:33.450185",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_spain.json",
+      "original_index": 24
+    }
+  ]
+}

@@ -1,0 +1,1168 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_nigeria.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.532216",
+    "total_sections_in_source": 54,
+    "extracted_sections_count": 54,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Nigeria is classified as a middle-income, mixed economy and emerging market, characterized by expanding sectors including manufacturing, financial services, communications, technology, and entertainment.",
+        "• Nigeria ranks as the 53rd-largest economy globally by nominal GDP, the second largest economy in Africa by purchasing power parity (PPP), and the 27th-largest economy worldwide by PPP.",
+        "• In 2013, Nigeria's manufacturing sector re-emerged as the largest on the African continent, producing a significant proportion of goods and services for the West African region.",
+        "• According to the International Monetary Fund (IMF), Nigeria's debt-to-GDP ratio stood at 36.63% in 2021.",
+        "• Oil revenues constitute approximately two-thirds (2/3) of Nigeria’s state revenues, yet the petroleum sector contributes only about 9% to the country's overall GDP.",
+        "• Nigeria accounts for roughly 2.7% of the global oil supply, underscoring the country's role as a notable oil producer despite the petroleum sector’s relatively small share of the total economy.",
+        "• The agricultural sector in Nigeria is largely subsistence-based and has not kept pace with the country's rapid population growth, leading to a shift from being a large net food exporter to importing some food products.",
+        "• Mechanization in agriculture has spurred a resurgence in manufacturing and exporting food products, facilitating a movement towards achieving food sufficiency in the country.",
+        "• In 2006, Nigeria reached an agreement with the Paris Club to repurchase the majority of its outstanding debts in exchange for a cash payment of approximately US$12 billion.",
+        "• A Citigroup report published in February 2011 identified Nigeria as having the highest average GDP growth rate globally projected between 2010 and 2050.",
+        "• Nigeria is one of only two African countries included among the 11 Global Growth Generators identified by Citigroup, highlighting its significant economic growth potential."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:13:48.648319",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2014, Nigeria rebased its Gross Domestic Product (GDP) to better reflect the contributions of rapidly growing sectors such as telecommunications, banking, and the film industry to its economy.",
+        "• Nigeria's human capital is underdeveloped, as evidenced by its ranking of 161 out of 189 countries on the United Nations Development Index in 2019.",
+        "• The country faces inadequate non-energy-related infrastructure, which hampers overall economic development.",
+        "• Nigeria has made advancements in efforts to provide universal primary education and to protect the environment, indicating progress in social and ecological policy areas.",
+        "• A critical challenge to achieving Nigeria’s development objectives is the reduction of endemic corruption, which obstructs progress and negatively impacts the business environment.",
+        "• Despite slow broad-based progress, Nigeria’s anti-corruption efforts have become more visible in international assessments, with the country’s ranking improving since 2001.",
+        "• In Transparency International’s 2021 Corruption Perceptions Index, Nigeria ranked 154 out of 180 countries, reflecting some progress in combating corruption.",
+        "• The Nigerian economy experiences a persistent supply crisis in the power sector, which affects residents despite the country’s abundant natural resources.",
+        "• Nigeria holds some of the world’s largest deposits of coal, oil, and gas and is recognized as Africa’s largest oil producer, yet frequent power supply difficulties persist.",
+        "• Two-thirds of Nigerians express optimism, expecting living conditions to improve over the coming decades.",
+        "• According to the National Bureau of Statistics (NBS), Nigeria’s GDP grew by 3.19% in the second quarter (Q2) of 2024.",
+        "• The non-oil sector was the primary driver of economic growth in Q2 2024, expanding by 4.13%, while the oil sector contracted by -3.83%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:13:54.383832",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1990 and 2023, Nigeria's GDP (PPP) grew from $165.5 billion to $1,414.6 billion, with IMF staff estimates projecting continued growth to $1,912.8 billion by 2029.",
+        "• Nigeria's GDP per capita (PPP) increased from $1,739 in 1990 to $6,367 in 2023, with projections reaching $7,447 by 2029.",
+        "• Nominal GDP rose from $62.2 billion in 1990 to $363.8 billion in 2023, though IMF projections show fluctuations, with $199.7 billion estimated for 2024 and a gradual increase to $268.9 billion by 2029.",
+        "• Nominal GDP per capita increased from $653 in 1990 to $1,637 in 2023, with future estimates ranging from $877 in 2024 to $1,047 in 2029.",
+        "• Real GDP growth rates varied significantly, with negative growth in 1991 (-0.6%), 2016 (-1.6%), and 2020 (-1.8%), but generally positive growth averaging around 2.9% to 3.3% in recent IMF projections for 2024–2029.",
+        "• Inflation rates fluctuated widely, with data missing for early 1990s; notable inflation included 14.6% in 2002, 15.0% in 2004, and a peak of 24.7% in 2023. Inflation under 10% was highlighted in green in the data, with Nigeria achieving single-digit inflation by 2015 (9%).",
+        "• Government debt as a percentage of GDP decreased from 71.7% in 1990 to a low of 7.3% in 2008, then increased again to 46.4% in 2023, with IMF forecasts projecting debt levels around 49% to 51.3% through 2024–2029.",
+        "• The US dollar exchange rate against the Nigerian Naira depreciated from 1 Naira per USD in 1980 to 360 Naira per USD in 2017 (official rate), with parallel market rates ranging from 350 to 520 Naira per USD in 2017 due to forex scarcity and speculative activities as noted by the Central Bank of Nigeria (CBN).",
+        "• Inflation index (2000=100) rose from 1.30 in 1980 to a peak of 207 in 2005, then fluctuated, with a notable low of 5 (estimated) in 2017.",
+        "• Per capita income as a percentage of the USA’s per capita income declined from 7% in 1980 to 3% in 1985 and 2.5% in 1990, then fluctuated around 3.5% to 10% in the 2000s and 2010s, reaching an estimated 10% in 2017.",
+        "• The official US dollar exchange rate does not reflect the parallel market rate, which is often higher due to limited foreign exchange availability and speculative pressures.",
+        "• Nigeria’s GDP per capita expanded by 132% in the 1960s, peaked with 283% growth in the 1970s, but shrank by 66% in the 1980s; diversification efforts in the 1990s restored decadal growth to 10%, though PPP GDP growth only resumed in the 2000s.",
+        "• Sectoral composition of Nigeria’s GDP shifted significantly between 2012 and 2015: agriculture’s share declined from 40% to 18%, services increased from 30% to 55%, manufacturing rose slightly from 15% to 16%, and oil’s contribution dropped from 14% to 8%.",
+        "• In 2005, Nigeria’s inflation rate was estimated at 15.6%, with the National Economic Empowerment Development Strategy (NEEDS) aiming to reduce inflation to single digits; by 2015, inflation was successfully reduced to 9%.",
+        "• Federal government fiscal data shows a budget deficit of 5% in 2005, with expenditures at $13.54 billion and revenues at $12.86 billion; by 2012, expenditures rose to $31.61 billion while revenues increased substantially to $54.48 billion, indicating improved fiscal balance.",
+        "• The Central Bank of Nigeria (CBN) raised the Monetary Policy Rate (MPR) to 18.5% in 2024, marking the sixth consecutive increase since September 2022, reflecting monetary tightening efforts.",
+        "• Nigeria’s global GDP (PPP) ranking improved from 52nd in 2005 to a peak of 20th in 2014, before slightly declining to 23rd by 2017 (estimated).",
+        "• Parallel market exchange rates for the US dollar in Lagos showed significant volatility between 2015 and 2019, with the \"best\" rates (stronger Naira) ranging from 195 Naira/USD in 2015 to 380 Naira/USD in 2019, and the \"worst\" rates fluctuating between 237 and 520 Naira/USD.",
+        "• For purchasing power parity comparisons, the US dollar was exchanged at a rate of 1 USD to 314.27 Nigerian Naira as of 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:24.516878",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, Nigerian farmers in the Middle Belt region were part of an agricultural workforce that employs approximately 30% of the Nigerian population.",
+        "• The agricultural sector in Nigeria is characterized by extremely low productivity, primarily due to the continued reliance on antiquated farming methods.",
+        "• Despite Nigeria's historical status as a food-exporting country, the agricultural sector has failed to keep pace with the nation's rapid population growth.",
+        "• As a result of insufficient domestic food production, Nigeria now imports a significant amount of food to meet the consumption needs of its population.",
+        "• Nigeria, recognized as Africa's most populous country, has struggled to increase food production to adequately feed its fast-growing population.",
+        "• The staple foods that Nigerians rely on include rice, beans, and maize, among others.",
+        "• Efforts are currently underway to restore Nigeria's food self-sufficiency and reduce dependence on food imports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:31.242625",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Crop production",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, Nigeria's plant-based food production was measured in million tonnes, reflecting its significant agricultural output.",
+        "• Nigeria ranks sixth globally and holds the position of the largest farm output producer in Africa.",
+        "• The agricultural sector contributes approximately 18% to Nigeria's Gross Domestic Product (GDP).",
+        "• Nearly one-third of Nigeria's workforce is employed within the agricultural sector, highlighting its importance to national employment.",
+        "• Despite no longer being a major exporter due to a surge in local consumer demand, Nigeria remains a leading producer of numerous agricultural products.",
+        "• In addition to staple crops, Nigeria produces significant quantities of palm oil and rubber, which are important components of its agricultural economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:34.010501",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.1.1",
+      "section_name": "Roots and tubers",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Nigerian economy exhibits a regional agricultural specialization, with a roots-based economy predominant in the southern region and a cereal-based economy dominant in the northern region.",
+        "• In terms of production by weight, roots and tubers constitute the largest category of food produced in Nigeria, totaling 118 million tonnes in the year 2020.",
+        "• The category of roots and tubers, often referred to as \"underground food,\" encompasses key crops such as yam, cassava, potatoes, and sweet potatoes.",
+        "• These root and tuber crops are primarily cultivated in the southern part of Nigeria, which is characterized as the \"Roots economy\" region due to its focus on these agricultural products."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:37.490711",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.1.2",
+      "section_name": "Cereals",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The group of cereals including sorghum and pearl millet constitutes the second-largest category of food produced in Nigeria, with a total production of 28.6 million tonnes recorded in 2020.",
+        "• Sorghum alone accounts for 50% of this cereal group production, amounting to 14 million tonnes in 2020.",
+        "• Sugar cane production in Nigeria contributes an additional 1.5 million tonnes to the overall cereal production figures.",
+        "• Cereals in Nigeria are predominantly cultivated in the savannah zone, which is the primary agricultural region for these crops.",
+        "• On June 23, the International Grains Council (IGC) released Nigeria’s grain market report for the 2022-23 period, estimating total grain production at 21.6 million tonnes.",
+        "• This 21.6 million tonnes figure for 2022-23 was a revision upward from the previous month’s forecast of 21.1 million tonnes, indicating a positive adjustment in expected grain output.",
+        "• The IGC set Nigeria’s grain production for the year 2021-22 at 21.5 million tonnes, providing a basis for comparison that shows a slight increase in grain production from 2021-22 to 2022-23.",
+        "• The data released on June 23, 2022, thus demonstrates a trend of increasing grain production in Nigeria between the 2021-22 and 2022-23 agricultural years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:44.249137",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.1.3",
+      "section_name": "Rice and paddy",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In Nigeria, peanut, oil palm, cocoa, and cotton are significant agricultural products contributing to the country's economy.",
+        "• Rice and paddy constitute the third-largest group of food produced in Nigeria, highlighting their importance in the national food production hierarchy.",
+        "• In the year 2020, Nigeria produced a total of 8.2 million tonnes of rice and paddy, reflecting substantial agricultural output in this sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:46.910412",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.1.4",
+      "section_name": "Oil crops",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, Nigeria produced approximately 4 million tonnes of oil crops, reflecting a significant contribution to the agricultural sector.",
+        "• The primary types of oil crops produced in Nigeria include soybeans, sunflower seeds, canola, and peanuts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:49.879417",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.1.5",
+      "section_name": "Citrus fruit",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, Nigeria produced close to 4 million tonnes of citrus fruit, highlighting the country's significant output in this agricultural sector.",
+        "• The primary types of citrus fruits cultivated in Nigeria include tangerine, grape, lemon, and lime, representing the main varieties contributing to the nation's citrus production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:51.929674",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.1.6",
+      "section_name": "Cocoa",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Cocoa production in Nigeria, primarily derived from obsolete varieties and overage trees, has experienced an increase from approximately 180,000 tons annually to 350,000 tons."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:53.873447",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.1.7",
+      "section_name": "More products",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Beans, melons, pepper, and vegetables are cultivated on chopping fields in Nigeria, contributing to the country's agricultural output.",
+        "• Oil palms, rubber, and bananas are grown primarily for export purposes, indicating their significance in Nigeria's international trade.",
+        "• Palm oil holds a major role in Nigeria's rapidly growing personal care products industry, highlighting its economic importance beyond food production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:56.435131",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.1.8",
+      "section_name": "Cattle",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigeria maintains a total livestock population of approximately 15 million head.",
+        "• In addition to this, about five million pigs are kept across the country.",
+        "• Small livestock, including sheep, goats, and chickens, are primarily raised for subsistence purposes rather than commercial production.",
+        "• The livestock sector includes various animals, with a notable presence in markets such as the Kano fruit market, indicating the integration of livestock trade within broader agricultural markets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:14:59.405582",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3.1.9",
+      "section_name": "Poultry and Eggs",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• An estimated 42% of Nigerians own chickens, indicating widespread poultry ownership across the country.",
+        "• Poultry and eggs constitute a significant and popular commodity within Nigeria's food industry.",
+        "• Approximately 46% of poultry in Nigeria is raised using an extensive or free-range system, reflecting traditional and less intensive farming practices.",
+        "• Nigeria produces an estimated 300,000 tonnes of poultry meat annually, highlighting the sector's substantial contribution to national food supply.",
+        "• The annual production of eggs in Nigeria is estimated at 650,000 tonnes, underscoring the importance of egg production in the country's agricultural economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:02.805396",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2003, Nigeria's fish production was recorded at 505.8 metric tons, reflecting the country's fishing output during that year.",
+        "• By 2015, Nigeria's fish production had increased significantly to 1,027,000 tonnes, indicating substantial growth in the fishing sector over the 12-year period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:04.827570",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Timber",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Roundwood removals in Nigeria totaled slightly less than 70 million cubic meters, while sawn wood production was estimated at 2 million cubic meters.",
+        "• The paper industry in Nigeria has a historical foundation dating back to the 1960s and 1970s, during which the government established three integrated pulp and paper mills: the Nigerian Paper Mill in Jebba, the Nigeria Newsprint Manufacturing Company in Oku Iboku, and the Iwopin Pulp and Paper Company.",
+        "• These pulp and paper mills were intended to satisfy domestic demand for paper products and reduce Nigeria’s dependence on imports.",
+        "• Over the years, the mills have encountered numerous challenges including lack of maintenance, obsolete equipment, inadequate power supply, and scarcity of raw materials.",
+        "• Due to these operational difficulties, most of the mills have become moribund or are functioning at low capacity.",
+        "• According to a report by allAfrica.com, among the three mills, only the Nigerian Paper Mill in Jebba still retains a semblance of operational viability.",
+        "• Nigeria’s local production of paper products is approximately 265,000 metric tons per year, which is significantly lower than the domestic demand estimated at 3 million metric tons per annum.",
+        "• Consequently, Nigeria heavily depends on the importation of paper products to meet its domestic needs, incurring an annual cost of about N182 billion.",
+        "• The reliance on imported paper products exposes Nigeria to vulnerabilities related to fluctuations in foreign exchange rates and international market prices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:11.082225",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "3.3.1",
+      "section_name": "Peeling / Milling",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Until recently, Nigeria exported unhusked rice while simultaneously importing husked rice, despite rice being the country's staple food.",
+        "• The rice mill located in Imota, near Lagos, is designed to process rice domestically, aiming to improve Nigeria's balance of trade and labor market conditions.",
+        "• The Imota rice mill is also expected to reduce unnecessary costs associated with transportation and middlemen in the rice supply chain.",
+        "• Operations at the Imota rice mill commenced in 2023, initially at low production levels.",
+        "• When fully operational, the Imota rice mill is projected to employ approximately 250,000 people.",
+        "• The mill is expected to produce 2.4 million 50-kilogram bags of rice annually at full capacity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:15.316505",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "3.3.2",
+      "section_name": "Coconut oil milling and refining",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The St. Gabriel Coconut Refinery, a multi-billion Naira coconut oil refinery and the first of its kind in Africa, commenced operations in Akwa Ibom State.",
+        "• The refinery is located in Mkpat Enin, Akwa Ibom State, and was officially inaugurated in May 2022.",
+        "• The Governor of Akwa Ibom State, Emmanuel, pledged to initiate immediate training programs for indigenous personnel to operate and manage the refinery effectively.",
+        "• The St. Gabriel Coconut Refinery has a daily processing capacity of cracking 1,000,000 coconuts.",
+        "• The facility is projected to create employment for no fewer than 3,000 individuals, encompassing both direct and indirect job opportunities.",
+        "• According to Governor Emmanuel, the market price of coconut oil stands at $1,326 per barrel."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:19.065589",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "3.3.3",
+      "section_name": "Dairy and meat",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigeria possesses 19 million head of cattle, representing the largest cattle population in Africa.",
+        "• Despite this large cattle population, as of June 2021, Nigeria's dairy sector supplies less than 10% of the country's demand for dairy products.",
+        "• The shortfall in dairy product supply is projected to increase in accordance with Nigeria's population growth.",
+        "• In June 2022, Fan Milk, a subsidiary of the Danone Group and manufacturer of popular frozen dairy and ice cream brands, inaugurated a newly completed model dairy farm in Odeda, Ogun State.",
+        "• This dairy farm marks Danone's first investment in dairy farming within sub-Saharan Africa, aimed at enhancing local milk production in Nigeria.",
+        "• Fan Milk plans to establish a world-class dairy farm and a training institute, utilizing the expertise and resources of its parent company, Danone.",
+        "• The Dano Milk Factory, operated by Arla Foods, opened in 2022 within Lekki's Free Trade Zone.",
+        "• In 2021, Arla Foods, a farmer-owned dairy cooperative, commenced construction of a dairy farm in Kaduna State covering 200 hectares.",
+        "• The Kaduna farm is designed to accommodate 400 dairy cows and will feature modern milking parlors and advanced technology.",
+        "• The facility will also include grasslands and living quarters for 25 employees, supporting both production and workforce needs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:25.498969",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "3.3.4",
+      "section_name": "Bakery, household cereals, etc.",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to a 2016 KPMG report, Nigeria's bread sector is rapidly growing, with 72 percent of the market dominated by small- and medium-scale bakers.",
+        "• The Nigerian bakery market is valued at $621 million, reflecting its substantial economic significance.",
+        "• The bakery product group \"Fresh bread and miscellaneous bakery\" has the highest consumption volume in Nigeria, totaling 8.5 million tonnes, which constitutes 91% of the total bakery product volume.",
+        "• The consumption of \"Fresh bread and miscellaneous bakery\" products exceeds that of the second-largest product group, \"gingerbread, sweet biscuits and waffles,\" which amounts to 689,000 tonnes, by more than tenfold.",
+        "• The Nigerian bakery product market size is projected to experience significant growth during the forecast period from 2020 to 2026.",
+        "• In 2022, Primera Food, in cooperation with Michael Foods, commenced large-scale production of noodles in Ogun State, marking an expansion in Nigeria's processed food sector.",
+        "• Kellogg's inaugurated a production plant in 2022 within the Lekki Free Trade Zone in Lagos, representing Kellogg's second factory established on the African continent.",
+        "• NASCO Foods, based in Jos, produces biscuits and corn flakes and expanded its factory in Jos in 2022, indicating growth in local food manufacturing capacity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:31.560107",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The mining sector in Nigeria contributes approximately 0.3% to the country's gross domestic product (GDP), indicating a relatively minor role in the overall economy.",
+        "• Nigeria's domestic mining industry is significantly underdeveloped, resulting in the importation of minerals such as salt and iron ore that could otherwise be produced locally.",
+        "• Ownership rights over mineral resources in Nigeria are vested in the Federal Government, which holds exclusive authority to grant titles for mineral exploration, mining activities, and the sale of mineral resources.",
+        "• The regulatory framework for mining activities in Nigeria is managed by the Ministry of Solid Minerals Development, which is responsible for overseeing the management and development of all mineral resources within the country.",
+        "• The legal basis for mining operations in Nigeria is established by the Federal Minerals and Mining Act of 1999, which codifies the laws governing mineral exploration, mining, and related activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:34.528769",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Oil",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigeria exports several types of crude oil, including Bonny light oil, Forcados crude oil, Qua Ibo crude oil, and Brass River crude oil.",
+        "• The United States is Nigeria's largest buyer of crude oil, accounting for 40% of Nigeria's total oil exports.",
+        "• Nigeria supplies approximately 10% of the overall U.S. oil imports, making it the fifth-largest source of imported oil for the United States.",
+        "• The United Kingdom is Nigeria's largest trading partner, followed by the United States.",
+        "• The stock of U.S. investment in Nigeria is nearly $7 billion, with the majority concentrated in the energy sector.",
+        "• ExxonMobil and Chevron are the two largest U.S. corporations involved in offshore oil and gas production in Nigeria."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:38.009122",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "3.6",
+      "section_name": "Natural gas pipeline Nigeria–Morocco",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Russian invasion of Ukraine has threatened the supply of natural gas to Europe, prompting initiatives to transport Nigerian natural gas via pipelines to North African countries such as Morocco and Algeria.",
+        "• In December 2022, Morocco's National Office of Hydrocarbons and Mines signed Memoranda of Understanding (MoUs) with Nigeria, Gambia, Guinea Bissau, Guinea, Sierra Leone, and Ghana.",
+        "• These agreements aim to initiate the construction of a natural gas pipeline passing through the aforementioned West African countries to Morocco."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:40.465092",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "3.7",
+      "section_name": "Process and Industrial Developments dispute",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Process and Industrial Developments Ltd (P&ID) entered into a 20-year contractual agreement with the Nigerian government concerning the supply and processing of natural gas.",
+        "• Under the contract, Nigeria was obligated to supply natural gas, while P&ID was responsible for refining the gas to enable its use in powering the Nigerian electrical grid.",
+        "• The contract permitted P&ID to retain valuable byproducts generated from the gas refining process for its own use.",
+        "• In 2012, P&ID initiated arbitration proceedings in London, alleging that the Nigerian government failed to supply the agreed quantity of natural gas and did not construct the necessary infrastructure as stipulated in the contract.",
+        "• The arbitral tribunal ruled in favor of P&ID, awarding damages exceeding £4.8 billion due to Nigeria’s breach of contract.",
+        "• By the time the case was heard in the London High Court in December 2022, the total compensation amount, including accrued interest, had increased to £8.15 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:46.017246",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "3.8",
+      "section_name": "Cement",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Dangote and BUA are the two dominant companies operating in the cement market of Nigeria, holding significant market shares and influence within the industry.",
+        "• In May 2022, BUA Cement inaugurated a new large-scale cement manufacturing plant located in Sokoto, Nigeria, marking a strategic expansion of its production capacity.",
+        "• The newly established BUA cement plant in Sokoto is equipped with an integrated 50 megawatt (MW) power station, enabling self-sufficient energy generation to support its operations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:48.763925",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "3.9",
+      "section_name": "Oil-based products",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Historically, Nigeria has been an exporter of crude oil while importing the majority of petroleum products consumed domestically.",
+        "• In September 2024, the Dangote Oil Refinery commenced operations with a production capacity of 650,000 barrels of petrol per day, equivalent to approximately 103 million liters.",
+        "• The Dangote Oil Refinery has the potential to significantly reduce Nigeria's dependence on imported petroleum products.",
+        "• The Nigerian National Petroleum Corporation (NNPC), the state-owned oil company, is the sole customer of the Dangote Oil Refinery."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:51.936786",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "3.10",
+      "section_name": "Fertiliser and paint",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 3 May 2022, a fertiliser production plant near Lagos, Nigeria, was officially commissioned after several years of construction, marking a significant development in the country's agricultural input sector.",
+        "• The newly commissioned fertiliser plant has an annual production capacity of 3 million tonnes, positioning Nigeria as a major player in the global fertiliser market.",
+        "• The commissioning of the plant coincided with a global shortage of fertiliser supplies in 2022, primarily due to the cessation of Russian fertiliser exports following the invasion of Ukraine.",
+        "• Nigeria is strategically filling the gap in the global fertiliser market created by the absence of Russian fertilisers, thereby enhancing its economic and geopolitical significance in this sector.",
+        "• Aliko Dangote, the company boss at the fertiliser plant's opening, described the fertiliser market as a \"seller's market,\" highlighting strong demand and limited supply.",
+        "• Dangote emphasized the high demand by stating, \"People are begging for us to sell and we are choosy about who we sell to,\" indicating selective distribution amid robust market conditions.",
+        "• In close proximity to the Dangote fertiliser refinery, BASF, a multinational chemical company, inaugurated a factory in Lekki, Nigeria.",
+        "• BASF is internationally recognized for its production of fertilisers, paints, and lacquers, and its establishment in Lekki signifies increased industrial activity in Nigeria's chemical manufacturing sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:15:58.449805",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "3.11",
+      "section_name": "Bodycare products, cleaning detergents",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Colgate factory located in the Lekki Free Trade Zone near Lagos commenced production of body care products in the year 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:00.130100",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "3.12",
+      "section_name": "Pharmaceutical industry",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2022, Nigeria hosts approximately 60 percent of the pharmaceutical production capacity in Africa, positioning it as a major hub for pharmaceutical manufacturing on the continent.",
+        "• Experts project that the Nigerian pharmaceutical industry is expected to grow significantly post-COVID-19, with market size estimates ranging between $60 billion to $70 billion.",
+        "• The pharmaceutical sector in Nigeria has substantial growth potential and is forecasted to reach a market value of $4 billion within the next 10 years.",
+        "• According to Goldstein Market Intelligence analysts, the Nigerian pharmaceuticals market is projected to grow at a compound annual growth rate (CAGR) of 9.1% during the forecast period from 2017 to 2030.",
+        "• The majority of large pharmaceutical companies in Nigeria are concentrated in Lagos, which serves as the central hub for pharmaceutical manufacturing activities.",
+        "• Emzor Pharmaceutical Industries Ltd is identified as the pharmaceutical producer with the largest workforce in Nigeria, manufacturing over 140 pharmaceutical products.",
+        "• Emzor’s product range includes painkillers, vitamins, haematinics, antimalarials, tussives, antibiotics, anthelmintics, antihistamines, antacids, and cardioprotectants, demonstrating a broad spectrum of pharmaceutical offerings.",
+        "• Fidson Healthcare Plc manufactures a variety of pharmaceutical products including painkillers, anti-allergy medications, blood pressure treatments, digestive aids, sleeping pills, and cough syrup.",
+        "• May & Baker Nigeria Plc produces pharmaceutical remedies targeting malaria, hypertension, diabetes, depression, and pain management.",
+        "• Swiss Pharma Nigeria is noted for producing pharmaceutical products under the BAYER brand, indicating a partnership or licensing arrangement with the multinational pharmaceutical company.",
+        "• The mention of Innoson Vehicle Manufacturing in Nnewi appears in the context but is unrelated to the pharmaceutical industry, indicating the presence of other manufacturing sectors within Nigeria."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:08.626965",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "3.13",
+      "section_name": "Vehicle industry",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigerians purchase approximately 720,000 cars annually, with less than 20% of these vehicles being produced domestically within Nigeria.",
+        "• Innoson Vehicle Manufacturing, located in Nnewi, produces buses, SUVs, and since May 2022, has also been manufacturing tricycles locally known as \"kekes.\"",
+        "• Nord Automobiles Ltd operates two assembly plants: one in Sangotedo where all eight of its vehicle models are currently assembled, and another plant under construction in Epe; the company manufactures its own plastic parts and plans to incorporate steel stamping in the future.",
+        "• Proforce Ltd., situated 30 kilometers northeast of Lagos, produces armored vehicles and notably sold an undisclosed number of these vehicles to Belarus in March 2022, marking the first instance of Nigerian-manufactured vehicles being exported to a European country.",
+        "• Jet Motor Company, based in Epe, Lagos State, is producing Nigeria’s first electric-powered delivery trucks in collaboration with GIG Logistics.",
+        "• Electric Motor Vehicle Company, located in Idah, Kogi State, manufactures electrically powered vehicles; it is owned by Prince Mustapha Mona Audu, a Glasgow-educated computer specialist and son of a former governor, who unveiled the four-seater electric vehicle named Adoja in May 2022, claiming it to be the most environmentally friendly vehicle in Nigeria.",
+        "• The Stallion Group assembles approximately 45,000 Volkswagen vehicles annually in Lagos.",
+        "• Peugeot Automobiles Nigeria (PAN), operating in Kaduna, underwent ownership changes in April 2022 when Peugeot exited the conglomerate and Aliko Dangote acquired its shares; the company was renamed DPAN and will primarily assemble Chinese brands Chery and Higer using pre-produced parts, with a new Greenfield production line planned to increase output to 120 cars per day."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:13.747583",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "3.14",
+      "section_name": "Toolmaking industry",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The city of Oshogbo hosts a modest toolmaking industry contributing to Nigeria's economy.",
+        "• The industry in Oshogbo manufactures products including CNC turning machines and industrial drilling machines.",
+        "• Additional manufactured items in this sector include stud bolts and flanges.",
+        "• The primary target market for these toolmaking products is the oil industry located in the Niger Delta region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:16.615506",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "3.15",
+      "section_name": "Electronics",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The most successful manufacturer of laptops in Nigeria is Zinox Technologies, an indigenous company based in Lagos.",
+        "• Zinox Technologies acknowledges its position as the leading laptop manufacturer within the Nigerian electronics sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:18.561043",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "3.16",
+      "section_name": "Steel production",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Ajaokuta Steel Company Limited, as stated on its official website, has an annual steel production capacity of 1.3 million tonnes.",
+        "• Steel manufacturing facilities located in Katsina, Jos, and Osogbo are currently inactive and do not appear to be operational."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:21.326975",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "4",
+      "section_name": "Services",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigeria ranks 27th worldwide in services output, making it the leading country in Africa for this sector.",
+        "• The financial district in Lagos serves as a central hub for Nigeria's services industry, highlighting the city's importance in the national and continental economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:23.272103",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Finance sector",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigeria is recognized as the largest financial market in Africa, reflecting its significant role in the continent's economic landscape.",
+        "• As of November 2018, the Central Bank of Nigeria (CBN) had licensed 21 commercial banks operating within the country.",
+        "• The Nigerian banking sector is relatively well-developed compared to regional standards, exhibiting a high level of banking penetration at 44.2%, which is substantially above the West African regional average of 17.8%.",
+        "• The local economy demonstrates robust utilization of advanced financial instruments, indicating a sophisticated financial market infrastructure.",
+        "• Nigeria maintains strong connections to international financial markets, facilitating cross-border capital flows and investment.",
+        "• Following the 2016–17 oil crisis, Nigeria experienced a significant increase in foreign capital inflows over the subsequent 12 to 18 months.",
+        "• Capital importation surged to US$6.3 billion in the first quarter of 2018, representing a 594% year-on-year growth compared to previous periods.",
+        "• For context, total capital importation was US$12.3 billion for the full year of 2017 and US$5.1 billion in 2016, highlighting a rapid acceleration in foreign investment.",
+        "• Despite these positive trends, Nigeria faces challenges due to high lending rates, which restrict access to credit for smaller firms, particularly those operating outside the oil sector.",
+        "• In 2024, the Nigerian National Assembly publicly denied any proposal to remove the Central Bank of Nigeria’s authority to set interest rates, maintaining the central bank’s regulatory role.",
+        "• Nigeria is the leading country in Africa’s fintech sector, accounting for 28% of all fintech companies on the continent, underscoring its dominance in financial technology innovation.",
+        "• As of January 2024, the African continent hosts over 1,263 active fintech companies, with Nigeria playing a central role in this growing industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:29.220173",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Telecommunication",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On January 14, 2022, the Nigerian Communications Commission (NCC) announced that the telecommunications sector contributed 12.45% to Nigeria's Gross Domestic Product (GDP).",
+        "• The announcement was made by the NCC's Chief Executive Officer (CEO), Prof. Umar Garba Danbatta, during his convocation lecture titled \"Empowering the Nigeria Youth Through Information and Communications Technology (ICT)\" at Fountain University, Osogbo.",
+        "• Prof. Danbatta revealed that the ICT sector in Nigeria has consistently contributed above 10% to the country's GDP for over a decade.",
+        "• He emphasized that Nigeria is Africa's largest ICT market, accounting for 82% of the continent's telecommunications subscribers.",
+        "• Additionally, Nigeria represents 29% of internet usage across Africa.",
+        "• Globally, Nigeria ranks 11th in the absolute number of internet users.",
+        "• Nigeria also ranks 7th worldwide in the absolute number of mobile phone users."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:38.017054",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Transport sector, forwarding, shipment",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigeria's central location in Africa makes the transport sector a crucial component of the national service industry.",
+        "• Following 2015, the Buhari administration initiated significant improvements in transport infrastructure, focusing on extensive road repairs and new construction projects.",
+        "• State governments have actively invested their increased government allocations into transport infrastructure development.",
+        "• A notable infrastructure project representing these improvements is the Second Niger Bridge at Onitsha, which was nearly completed by May 2022.",
+        "• Since 2009, Nigeria has been expanding its railway network by laying new tracks operated by the state-owned Nigerian Railway Corporation.",
+        "• Despite challenges posed by the COVID-19 pandemic, the Nigerian Railway Corporation reportedly generated a surplus starting in 2019.",
+        "• Nigeria's principal seaports are located in Lagos (Apapa and Tin Can Island), Port Harcourt (Onne), and Calabar.",
+        "• A new deep seaport in Lekki, situated 50 kilometers east of Lagos, was scheduled to open in 2022.",
+        "• Five Nigerian airports—Lagos, Kano, Port Harcourt, Enugu, and Abuja—currently offer flights to international destinations.",
+        "• The new national airline, \"Nigeria Air,\" was planned to commence operations in mid-2022 but was suspended indefinitely in 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:43.752200",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "4.3.1",
+      "section_name": "Movie industry, Television, Streaming",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nollywood, Nigeria's film industry, produces films and soap operas that are broadcast throughout the entire African continent.",
+        "• Nigeria ranks as the second largest film-producing nation globally, positioned after India and ahead of the United States in terms of film output."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:45.904834",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "4.3.2",
+      "section_name": "Music industry",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigeria's most renowned musician is Fela Anikulapo Kuti, the inventor of Afrobeat, who performed legendary concerts with his band \"Africa 70\" at the \"Shrine\" in Lagos.",
+        "• Other distinctive Nigerian musical styles include Jùjú, Apala, Fuji, and Sakara, each representing unique cultural expressions within the country's music scene.",
+        "• In the pop music genre, Nigerian musicians residing in Europe, such as Sade Adu and Dr. Alban, achieved significant success during the 1980s and 1990s.",
+        "• Among Nigerian pop musicians based in Europe, Nneka is recognized as one of the best-known contemporary artists.",
+        "• D'Banj is one of the few Nigerian artists living in Nigeria who has attained commercial success in Europe, notably reaching the European singles charts in the summer of 2012 with the song \"Oliver Twist.\"",
+        "• In 2016, Wizkid achieved a number 1 hit on the charts in collaboration with Canadian artist Drake, marking a significant milestone for Nigerian music internationally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:50.613392",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "4.3.3",
+      "section_name": "Social media",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigerians are avid users of social media, demonstrating a strong engagement with digital platforms.",
+        "• In 2021, the average daily time Nigerians spent on social media was 3 hours and 41 minutes.",
+        "• This average daily usage in Nigeria significantly exceeds the global average, which was 2 hours and 22 minutes in 2021.",
+        "• The number of active social media users in Nigeria grew by 22 percent in 2021.",
+        "• This growth rate of 22 percent in Nigeria surpasses the global average increase in active social media users, which was 13 percent in 2021.",
+        "• WhatsApp and Facebook are identified as the most popular and widely used social media platforms among Nigerians."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:54.157565",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 39
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Fashion",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Lagos Leather Fair is recognized as the largest leather fair in West Africa, highlighting Nigeria's prominence in the regional leather industry.",
+        "• Nigeria ranks as the sixth largest leather exporter globally, underscoring its significant role in the international leather market.",
+        "• Prestigious global fashion brands such as Prada, Gucci, and Louis Vuitton source leather goods from Nigeria, indicating the country's integration into high-end fashion supply chains.",
+        "• Fashion journalist Waridi Schrobsdorff equates Lagos with major fashion capitals Milan and Paris, as stated on the news channel N-tv, reflecting Lagos's rising status in the global fashion industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:16:58.605007",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 40
+    },
+    {
+      "section_number": "4.5",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The temple of the Yoruba goddess Oshun located at Osun-Osogbo serves as a significant attraction for both pilgrims and tourists, highlighting the cultural and religious tourism in Nigeria.",
+        "• African bush elephants can be found in Yankari National Park, situated in Bauchi State, representing one of Nigeria's notable wildlife tourism destinations.",
+        "• Multidisciplinary technologist Ade Olufeko was documented inside Sungbo's Eredo in 2017, indicating the site's relevance and interest among scholars and tourists alike.",
+        "• Tourism in Nigeria predominantly revolves around events, largely due to the country's diverse ethnic groups, which contribute to a rich cultural calendar attracting visitors.",
+        "• In addition to cultural events, Nigeria's tourism sector includes natural attractions such as rainforests, savannahs, waterfalls, and other scenic landscapes.",
+        "• In 2015, tourists spent approximately US$2.6 billion in Nigeria, reflecting the economic significance of the tourism industry during that period.",
+        "• By 2017, tourist expenditure in Nigeria declined to US$1.5 billion, indicating a notable decrease in tourism-generated revenue within two years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:03.100997",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 41
+    },
+    {
+      "section_number": "5",
+      "section_name": "Data",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2009, Nigeria's electricity production amounted to 18.89 billion kilowatt-hours (kWh).",
+        "• The composition of electricity production by source in Nigeria as of 1998 was 61.69% from fossil fuels, 38.31% from hydroelectric power, 0% from nuclear energy, and less than 0.1% from other sources.",
+        "• Electricity consumption in Nigeria was recorded at 17.66 billion kWh in 2009.",
+        "• Nigeria exported 40 million kWh of electricity in 2003.",
+        "• There were no recorded electricity imports into Nigeria in 1998, with imports at 0 kWh.",
+        "• As of July 2006, Nigeria's oil production was estimated at 2.35 million barrels per day, equivalent to 374,000 cubic meters per day.",
+        "• Nigeria's oil consumption was estimated at 310,000 barrels per day (49,000 cubic meters per day) in 2003."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:09.662659",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 42
+    },
+    {
+      "section_number": "6",
+      "section_name": "Overseas remittances",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Remittances sent home by Nigerians living abroad constitute a major source of foreign exchange earnings for Nigeria.",
+        "• The International Organization for Migration reported a significant increase in remittances to Nigeria, rising from US$2.3 billion in 2004 to US$17.9 billion in 2007.",
+        "• In 2007, remittances accounted for 6.7% of Nigeria’s Gross Domestic Product (GDP).",
+        "• The United States is the largest source of official remittances sent to Nigeria.",
+        "• Following the United States, the United Kingdom, Italy, Canada, Spain, and France are key countries contributing to remittance inflows to Nigeria.",
+        "• Within the African continent, Egypt, Equatorial Guinea, Chad, Libya, and South Africa are significant source countries for remittances to Nigeria.",
+        "• China is identified as the largest remittance-sending country to Nigeria from Asia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:13.549130",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 43
+    },
+    {
+      "section_number": "7",
+      "section_name": "Labour force",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2015, Nigeria's labour force comprised 74 million individuals, reflecting the size of the working-age population engaged in or seeking employment.",
+        "• The unemployment rate in Nigeria was recorded at 10.8% in 2003, but this figure decreased to 6.4% by 2015, indicating an improvement in employment levels over the 12-year period.",
+        "• Since 1999, the Nigerian Labour Congress (NLC), which serves as an umbrella organization for trade unions, has organized six general strikes primarily to protest against increases in domestic fuel prices.",
+        "• In March 2005, the Nigerian government enacted legislation that ended the Nigerian Labour Congress's (NLC) exclusive right to organize unions, thereby opening union organization to other entities.",
+        "• By December 2005, the Nigerian Labour Congress was actively lobbying for an increase in the minimum wage for federal workers, highlighting concerns over wage stagnation and living standards.",
+        "• The minimum wage at that time had been introduced six years earlier (circa 1999) and had not been adjusted since; due to inflation, its real value had diminished to approximately US$42.80 per month.",
+        "• Data from the International Organization for Migration indicates that the number of immigrants residing in Nigeria more than doubled from 477,135 in 1991 to 971,450 in 2005, showing significant growth in immigrant population.",
+        "• The majority of immigrants in Nigeria, accounting for 74% as of 2005, originate from neighbouring countries within the Economic Community of West African States (ECOWAS).",
+        "• The proportion of immigrants from ECOWAS countries increased substantially over the early 2000s, rising from 63% in 2001 to 97% in 2005, demonstrating a marked regional migration trend.",
+        "• Nigeria's government faces high interest rates on bonds partly due to the country's high fertility rate, which results in a large number of children and consequently lower levels of national savings."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:22.154127",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 44
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Human capital",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2019, Nigeria's Human Development Index (HDI) is ranked 161st globally with a value of 0.539.",
+        "• The HDI value for Sub-Saharan Africa as a whole is slightly higher at 0.547.",
+        "• By comparison, the United States has a significantly higher HDI value of 0.926.",
+        "• The global average HDI value stands at 0.737, indicating Nigeria's development level is below the world average.",
+        "• Nigeria's education index is measured at 0.499, substantially lower than the United States' education index of 0.900.",
+        "• The expected years of schooling for individuals in Nigeria is 10.0 years, compared to 16.3 years in the United States.",
+        "• The mean years of schooling for Nigerian adults aged 25 years and older is 6.7 years, whereas in the United States it is 13.4 years.",
+        "• Nigeria faces relatively high inequality, which exacerbates challenges related to the development and formation of human capital within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:27.580965",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 45
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "Child labour",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Child labour in Nigeria refers to the employment of children under the age of 18 in ways that restrict or prevent their access to basic education and personal development.",
+        "• Child labour is widespread and pervasive across every state in Nigeria, affecting a significant portion of the child population.",
+        "• In 2006, the estimated number of child workers in Nigeria was approximately 15 million.",
+        "• Poverty is identified as a major driving factor behind child labour in Nigeria, with many poor families relying on income generated by their children to sustain household needs.",
+        "• According to data from the Nigeria Child and Family Labour Survey (NCFLS), Nigeria has over 62.9 million children aged between 5 and 17 years, constituting 30.3% of the total population.",
+        "• The NCFLS surveyed 16,418 households nationwide to gather data on child labour and related issues.",
+        "• Approximately 6 million Nigerian children do not attend school at all, largely due to their involvement in labour activities that consume their time, energy, and resources.",
+        "• Children engaged as domestic servants represent the least visible form of child labour and are often subjected to sexual harassment.",
+        "• In the informal economy and public places, street vending is the most common form of child labour, employing about 64% of working children in these settings.",
+        "• Within informal enterprises located in semi-public places, children are frequently observed working as mechanics and bus conductors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:35.567203",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 46
+    },
+    {
+      "section_number": "7.3",
+      "section_name": "Inflation",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, Nigeria experienced a significant disparity between the black-market exchange rate and the official exchange rate of the Naira, with the black-market rate being approximately 60% higher than the official rate.",
+        "• The Central Bank of Nigeria released about $200 million weekly at the official exchange rate during this period.",
+        "• Some companies reported that their budgets included a 30% \"premium\" payment to central bank officials as a means to obtain dollars at the official exchange rate.",
+        "• Nigeria's inflation rate increased to 15.63% in December 2021, up from 15.40% in November 2021, as announced by the National Bureau of Statistics (NBS) on January 17, 2022.",
+        "• The Consumer Price Index (CPI) indicated that prices of goods and services rose by 15.63% in December 2021 compared to December 2020.",
+        "• The NBS attributed the rise in the food index to price increases in several categories, including bread and cereals, food products, meat, fish, potatoes, yam and other tubers, soft drinks, and fruits.",
+        "• In 2024, Nigerian President Bola Tinubu proposed increasing the national budget by $13.7 billion, raising it to a total of $77.3 billion.",
+        "• The proposed additional funds for 2024 included $7.1 billion allocated for infrastructure projects and $6.7 billion designated for recurrent expenditure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:42.546193",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 47
+    },
+    {
+      "section_number": "8",
+      "section_name": "Foreign economic relations",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nigeria’s foreign economic relations are primarily centered on its role as a supplier of oil and natural gas to the global economy, while simultaneously pursuing diversification of its export base.",
+        "• The country aims to harmonize tariffs in accordance with a potential customs union proposed by the Economic Community of West African States (ECOWAS), promoting regional economic integration.",
+        "• Nigeria encourages inflows of both foreign portfolio investment and foreign direct investment to bolster its economic growth and development.",
+        "• In October 2005, Nigeria implemented the ECOWAS common external tariff, which resulted in a reduction in the number of tariff bands applied to imports.",
+        "• Before the 2005 tariff revision, tariffs represented Nigeria’s second largest source of government revenue, surpassed only by income from oil exports.",
+        "• A significant milestone was achieved in 2005 when Nigeria reached an agreement with the Paris Club, enabling the elimination of its bilateral debt through a combination of debt write-downs and buybacks.",
+        "• Nigeria became a member of the Organization of the Petroleum Exporting Countries (OPEC) in July 1971, aligning itself with major oil-producing nations.",
+        "• The country joined the World Trade Organization (WTO) in January 1995, integrating further into the global trading system.",
+        "• The potential global shift to renewable energy poses a substantial risk to Nigeria’s economy, as a cessation of international demand for its petroleum resources would significantly weaken the country.",
+        "• According to the Geopolitical Gains and Losses after energy transition (GeGaLo) index, Nigeria is ranked 149th out of 156 countries, indicating a high vulnerability to negative impacts from the global energy transition."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:48.472752",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 48
+    },
+    {
+      "section_number": "8.1",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Nigeria imported goods valued at approximately US$34.2 billion, with the leading sources of imports being China (28%), Belgium-Luxembourg (8.9%), the Netherlands (8.3%), South Korea (6.4%), the United States (6.0%), and India (4.6%).",
+        "• The principal imports to Nigeria in 2017 consisted of manufactured goods, machinery and transport equipment, chemicals, and food and live animals.",
+        "• Nigeria's exports in 2017 totaled about US$46.68 billion, with the leading export destinations being India (18%), the United States (14%), Spain (9.7%), France (6.0%), and the Netherlands (4.9%).",
+        "• Oil accounted for 83% of Nigeria’s merchandise exports in 2017, while natural rubber and cocoa were the country’s major agricultural exports.",
+        "• In 2005, Nigeria recorded a trade surplus of US$26 billion, which corresponded to nearly 20% of its gross domestic product (GDP).",
+        "• Nigeria achieved a positive current account balance of US$9.6 billion in 2005.",
+        "• The Nigerian currency is the naira (NGN); as of June 2006, the exchange rate was approximately US$1 = NGN128.4, and by June 2019, it had depreciated to US$1 = NGN357.",
+        "• Nigeria has expanded trade relations with developing countries such as India in recent years, becoming the largest African crude oil supplier to India by exporting 400,000 barrels per day (64,000 m³/d) valued at US$10 billion annually.",
+        "• India is the largest purchaser of Nigerian oil, which fulfills 20% to 25% of India’s domestic oil demand.",
+        "• Indian oil companies are actively involved in oil drilling operations in Nigeria and have plans to establish refineries within the country.",
+        "• Trade volume between Nigeria and the United Kingdom increased by 35% from US$6.3 billion in 2010 to US$8.5 billion in 2011.",
+        "• In the first quarter of 2024, Nigeria’s exports were dominated by petroleum products, including crude oil and liquefied natural gas, with major export destinations being China, India, and the Netherlands.",
+        "• The first quarter of 2024 witnessed a notable increase in Nigeria’s energy exports, reinforcing the country’s role as a key player in the global energy market.",
+        "• Apapa Port in Lagos handled the majority of Nigeria’s exports during this period, highlighting the port’s critical importance in the nation’s trade infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:17:58.303693",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 49
+    },
+    {
+      "section_number": "8.2",
+      "section_name": "Foreign trade statistics",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Nigeria's goods exports amounted to $55,820 million, goods imports were $47,746 million, resulting in a net trade surplus of $8,075 million.",
+        "• In 2022, goods exports reached $64,227 million while imports were $58,229 million, producing a net trade surplus of $5,998 million.",
+        "• The year 2021 saw goods exports at $46,859 million and imports at $51,421 million, leading to a net trade deficit of $4,561 million.",
+        "• In 2020, Nigeria's goods exports were valued at $35,944 million with imports at $52,346 million, resulting in a significant net trade deficit of $16,402 million.",
+        "• For 2019, goods exports totaled $64,978 million and imports were $62,110 million, yielding a net trade surplus of $2,868 million.",
+        "• In 2018, exports were $61,221 million and imports were $40,754 million, resulting in a substantial net trade surplus of $20,467 million.",
+        "• The year 2017 recorded goods exports of $45,817 million and imports of $32,669 million, with a net trade surplus of $13,148 million.",
+        "• In 2016, goods exports stood at $34,701 million and imports at $35,240 million, producing a slight net trade deficit of $536 million.",
+        "• During 2015, exports were $45,888 million and imports $52,335 million, resulting in a net trade deficit of $6,447 million.",
+        "• In 2010, Nigeria achieved goods exports of $79,618 million and imports of $49,520 million, leading to a net trade surplus of $30,098 million.",
+        "• The year 2000 saw goods exports of $19,132 million and imports of $8,717 million, with a net trade surplus of $10,415 million.",
+        "• In 1990, exports were $13,585 million and imports were $4,932 million, resulting in a net trade surplus of $8,653 million.",
+        "• For 1980, Nigeria's goods exports amounted to $25,945 million and imports were $14,728 million, yielding a net trade surplus of $11,217 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:18:05.272010",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 50
+    },
+    {
+      "section_number": "8.3",
+      "section_name": "External debt",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, Nigeria's external debt was estimated at $5.9 billion, while its domestic debt stood at N5.6 trillion, resulting in a total debt burden of approximately $44 billion.",
+        "• In April 2006, Nigeria became the first African country to fully repay its debt owed to the Paris Club, an informal group of creditor nations.",
+        "• The repayment to the Paris Club in 2006 was structured as a combination of a debt write-off amounting to approximately $18 billion and a cash payment of approximately $12 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:18:09.669270",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 51
+    },
+    {
+      "section_number": "8.4",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, Nigeria received a net inflow of US$85.73 billion in foreign direct investment (FDI), with a significant portion originating from Nigerians living in the diaspora.",
+        "• The majority of foreign direct investment in Nigeria is concentrated in the energy and banking sectors, reflecting these industries' prominence in attracting external capital.",
+        "• Policies and public initiatives designed to encourage the inflow of foreign capital in Nigeria have the potential to generate employment opportunities within the domestic economy.",
+        "• The Nigerian Enterprises Promotion (NEP) Decree, initially enacted in 1972 and revised in 1977, was a legislative measure aimed at reducing the level of foreign investment in the Nigerian economy.",
+        "• On 15 February 2008, the stock market capitalization of companies listed on the Nigerian Stock Exchange was valued at US$97.75 billion, indicating the scale of Nigeria’s equity market at that time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:18:16.016730",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 52
+    },
+    {
+      "section_number": "8.5",
+      "section_name": "Swiss Banks to return Abacha Stolen Funds",
+      "chapter_name": "Economy of Nigeria",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Swiss foreign ministry has declared that it has taken all necessary measures to guarantee that funds stolen by the late Nigerian dictator Sani Abacha were utilized appropriately within Nigeria.",
+        "• This statement was made in response to allegations concerning the misappropriation of $200 million (equivalent to SFr240 million) out of the total $700 million returned by Swiss Banks to Nigeria.",
+        "• The total amount repatriated by the Swiss Banks to Nigeria in relation to the Abacha stolen funds stands at $700 million.",
+        "• The specific allegation under scrutiny involves the misuse of approximately 28.57% of the returned funds, amounting to $200 million.",
+        "• The context of these events relates to the broader efforts to recover and repatriate assets stolen by Sani Abacha during his dictatorship in Nigeria."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:18:19.499563",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_nigeria.json",
+      "original_index": 53
+    }
+  ]
+}

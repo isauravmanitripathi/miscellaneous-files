@@ -1,0 +1,542 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_zimbabwe.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.452215",
+    "total_sections_in_source": 20,
+    "extracted_sections_count": 20,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Zimbabwe operates on a gold standard-based system.",
+        "• Zimbabwe's informal economy is valued at $44 billion in purchasing power parity (PPP) terms, representing 64.1% of the total economy.",
+        "• Agriculture and mining are the primary contributors to Zimbabwe's export sector.",
+        "• As of the end of 2023, Zimbabwe's total economy is estimated to be worth $73 billion.",
+        "• Zimbabwe possesses reserves of metallurgical-grade chromite, an important industrial mineral.",
+        "• Other commercially significant mineral deposits in Zimbabwe include coal, diamonds, lithium, asbestos, copper, nickel, gold, platinum, and iron ore.",
+        "• During the colonial period, Zimbabwe faced severe food insecurity, worsened by forced relocations to \"native reserves\" and the destruction of stored food by colonial authorities.",
+        "• These colonial actions created dependence on colonial powers and negatively impacted food production capabilities.",
+        "• Natural disasters such as droughts, locust invasions, and animal diseases further exacerbated food insecurity during the colonial era.",
+        "• Following the controversial and tumultuous land reform policies implemented in the 2000s, Zimbabwean agriculture has experienced a resurgence.",
+        "• Zimbabwe has regained agricultural self-sufficiency, notably achieving record-high production and export levels of tobacco, alongside wheat production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:33.353941",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "The sweeping impact of land reform",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2000, Zimbabwe initiated a controversial land reform program that over the subsequent decade resulted in the seizure of approximately 6,000 large farms previously owned by white farmers.",
+        "• These seized farms were redistributed into over 168,000 smaller farms owned by black Zimbabweans, primarily targeting landless black citizens and several prominent members of the ruling ZANU-PF party.",
+        "• Many of the new farm occupants lacked farming experience or interest, which led to the loss of the labor-intensive and highly efficient agricultural management practices maintained by the former white landowners.",
+        "• The decline in effective farm management precipitated severe losses in agricultural exports, negatively impacting Zimbabwe’s economy.",
+        "• The widespread seizure of private land and property alarmed international investors and significantly undermined market confidence in Zimbabwe.",
+        "• In response to the land reform and associated human rights abuses, the United States and other countries imposed sanctions on Zimbabwean government officials; many of these sanctions remain in place to the present day.",
+        "• Between 1999 and 2008, Zimbabwe experienced a dramatic economic contraction, with its Gross Domestic Product (GDP) shrinking by nearly 50%, marking the most severe economic downturn recorded in a non-war-affected country in history."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:36.318974",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Hyperinflation and currency changes",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 2003 and 2006, the Reserve Bank of Zimbabwe engaged in extreme money printing, which caused inflation to increase by a factor of 1,000.",
+        "• By mid-2008, Zimbabwe experienced hyperinflation reaching 89.7 sextillion percent, rendering even a $100 trillion bill insufficient to cover basic expenses such as a bus fare.",
+        "• In response to the hyperinflation crisis, the Zimbabwean government introduced a multi-currency system, legalizing the use of U.S. dollars and other foreign currencies as legal tender.",
+        "• Following the introduction of the multi-currency system, the Zimbabwean dollar became nearly worthless and effectively disappeared from circulation.",
+        "• After a period of relative economic stability under the multi-currency regime, the Zimbabwean government reintroduced a local currency in 2019.",
+        "• Upon reintroduction in 2019, the price of one loaf of bread ranged between 2 and 3 Zimbabwean dollars.",
+        "• By 2024, the price of a loaf of bread had escalated dramatically to 24,000 Zimbabwean dollars, which was approximately equivalent to 1 United States dollar.",
+        "• Despite the official tolerance of the U.S. dollar, many vendors showed reluctance to accept local currency payments due to ongoing instability and depreciation of the Zimbabwean dollar.",
+        "• In April 2024, the Zimbabwean government launched a new currency called Zimbabwe Gold (ZiG) to replace the Zimbabwean dollar.",
+        "• The Zimbabwe Gold (ZiG) currency was backed by the country’s reserves of foreign currency and precious metals, with gold being the primary backing asset.",
+        "• The introduction of Zimbabwe Gold aimed to curb inflation by preventing excessive money printing and to restore price stability within the Zimbabwean economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:36.547787",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Current economic conditions",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Government spending in Zimbabwe accounts for 29.7% of the country's GDP, with state enterprises receiving substantial subsidies.",
+        "• The business environment is characterized by high taxes and tariffs, alongside costly state regulations that impose financial burdens on companies.",
+        "• The processes of starting or closing a business in Zimbabwe are slow and expensive, reflecting bureaucratic inefficiencies.",
+        "• Labour market regulations make hiring and terminating workers a prolonged and complicated procedure.",
+        "• By 2008, unofficial estimates indicated that Zimbabwe’s unemployment rate had escalated to 94%, highlighting severe economic distress.",
+        "• As of 2023, the official unemployment rate in Zimbabwe was reported at 9.3%; however, the majority of the workforce is employed in the informal sector, which consists predominantly of low-paying, temporary, and precarious jobs.",
+        "• A 2014 report by the Africa Progress Panel ranked Zimbabwe as the worst-performing African country in terms of the time required to double per capita GDP, estimating it would take 190 years at the current growth rate.",
+        "• Economic uncertainty in Zimbabwe is exacerbated by factors including the indigenisation programme (compulsory acquisition), concerns over the absence of a free press, potential abandonment of the US dollar as the official currency, political instability following the conclusion of the government of national unity with the MDC, and internal power struggles within the ruling party ZANU-PF.",
+        "• In September 2016, Zimbabwe’s finance minister identified key contributors to the country’s poor economic performance as low production levels, a significant trade deficit, minimal foreign direct investment, and lack of access to international finance caused by substantial arrears.",
+        "• According to the World Bank Group’s ease of doing business report, Zimbabwe was ranked 140th out of 190 countries, indicating considerable challenges in the business environment.",
+        "• Despite overall low rankings, Zimbabwe scored relatively better in specific areas such as the ability to obtain credit (ranked 85th) and the protection of minority investors (ranked 95th)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:36.510259",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Transportation",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zimbabwe possesses internal transportation and electrical power networks that are considered adequate for the country's needs, although these infrastructures have suffered from a lack of maintenance over several years.",
+        "• The country is traversed by two significant trans-African automobile routes: the Cairo-Cape Town Highway, which runs north to south across Africa, and the Beira-Lobito Highway, facilitating east-west connectivity.",
+        "• The major urban and industrial areas within Zimbabwe are linked by highways that are generally poorly paved, indicating infrastructural challenges in road quality.",
+        "• Rail transportation in Zimbabwe is managed by the National Railways of Zimbabwe, which operates rail lines connecting the country to a comprehensive central African railroad network.",
+        "• This extensive rail network enables Zimbabwe to maintain rail connections with all its neighboring countries, supporting regional trade and mobility."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:31.713502",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Zimbabwe Electricity Supply Authority (ZESA) is the national entity responsible for supplying electrical energy throughout Zimbabwe.",
+        "• Zimbabwe's primary electrical power generation facilities include the Kariba Dam, which is jointly owned with Zambia, and the Hwange Thermal Power Station, operational since 1983 and located adjacent to the Hwange coal field.",
+        "• Despite these facilities, Zimbabwe's total electrical generation capacity is insufficient to meet national demand, resulting in frequent rolling blackouts across the country.",
+        "• The Hwange Thermal Power Station operates below its full capacity due to its advanced age and prolonged neglect in maintenance activities.",
+        "• By 2006, Zimbabwe faced deteriorating infrastructure and a shortage of spare parts for both generators and coal mining equipment, which severely impacted domestic power generation capabilities.",
+        "• Consequently, Zimbabwe imported approximately 40% of its electrical power in 2006, sourcing 100 megawatts from the Democratic Republic of Congo, 200 megawatts from Mozambique, up to 450 megawatts from South Africa, and 300 megawatts from Zambia.",
+        "• As of May 2010, Zimbabwe's estimated total power generation capacity was around 940 megawatts, significantly below the peak demand of 2,500 megawatts.",
+        "• Due to the shortfall in grid power supply, the use of local small-scale generators became widespread among consumers to supplement electricity needs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:34.723652",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Telephone",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Historically, obtaining new telephone lines in Zimbabwe was a challenging process, indicating limited accessibility to fixed-line telecommunication services.",
+        "• TelOne is the sole fixed-line telephone service provider in Zimbabwe, holding a monopoly over the country's fixed-line telephony infrastructure.",
+        "• In response to difficulties with fixed-line services, cellular phone networks have emerged as viable alternatives for telecommunication in Zimbabwe.",
+        "• The primary mobile phone operators in Zimbabwe are Telecel, Net*One, and Econet, representing the main providers of cellular telephony services in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:34.362288",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture in Zimbabwe is divided into two main sectors: commercial farming, which includes crops such as cotton, tobacco, coffee, peanuts, and various fruits, and subsistence farming, focusing on staple crops like maize and wheat.",
+        "• Prior to 2000, commercial farming was predominantly controlled by the white minority in Zimbabwe.",
+        "• In 2000, a controversial land redistribution program was initiated, involving the forcible seizure of land from white farmers and its redistribution to black settlers; this was justified by then-President Robert Mugabe as a means to address colonial-era inequalities.",
+        "• The new black landowners lacked formal land titles, which prevented them from using the land as collateral to secure bank loans, and many lacked experience in commercial-scale agriculture.",
+        "• Following the land redistribution, a significant portion of Zimbabwe’s agricultural land was left fallow, leading to a sharp decline in agricultural output.",
+        "• The University of Zimbabwe estimated that agricultural production fell by 51% between 2000 and 2007.",
+        "• Tobacco production, Zimbabwe’s primary export crop, declined by 79% from 2000 to 2008 as a result of the land reforms and associated disruptions.",
+        "• Tobacco production began to recover after 2008 due to the implementation of a contract farming system and increased demand from China.",
+        "• Major international tobacco companies, including British American Tobacco and China Tobacco, played a key role by providing farmers with agricultural inputs, equipment, loans, and technical supervision for tobacco cultivation.",
+        "• By 2018, tobacco production had rebounded to 258 million kilograms, marking the second largest crop yield on record for Zimbabwe.",
+        "• The tobacco sector shifted from large, white-owned farms primarily exporting to Europe and America, to predominantly small, black-owned farms exporting over half of the crop to China.",
+        "• In 2017, tobacco farming contributed 11% to Zimbabwe’s GDP and supported the livelihoods of approximately 3 million people out of the country’s 16 million population.",
+        "• Land reform in Zimbabwe has received considerable support across Africa and some backing from African-American activists; however, critics like Jesse Jackson, during a visit to South Africa in June 2006, emphasized that land redistribution must minimize trauma, attract investors, and be accompanied by democratic governance, which he identified as lacking in Zimbabwe and a major cause of its economic crisis.",
+        "• In 2018, Zimbabwe’s agricultural production included: 3.3 million tons of sugarcane; 730 thousand tons of maize; 256 thousand tons of cassava; 191 thousand tons of vegetables; 132 thousand tons of tobacco (ranking Zimbabwe as the 6th largest producer globally); 106 thousand tons of bananas; 96 thousand tons of oranges; 90 thousand tons of soy; 80 thousand tons of sorghum; 60 thousand tons of potatoes; 55 thousand tons of barley; 42 thousand tons of peanuts; and 38 thousand tons of cotton.",
+        "• Zimbabwe also produced smaller quantities of various other agricultural products beyond those listed above."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:46.456875",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Mining sector",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zimbabwean soil is rich in raw materials similar to other southern African countries, including significant deposits of platinum, coal, iron ore, and gold.",
+        "• Recently, considerable diamond deposits have been discovered in Zimbabwe, notably the Marange diamond fields, which were found in 2006 and are considered among the richest diamond fields globally.",
+        "• Additional mineral deposits in Zimbabwe include copper, chromite, and nickel, although these exist in lesser quantities compared to the primary minerals.",
+        "• In March 2011, the Zimbabwean government enacted laws mandating local ownership of mining companies, a policy change that led to declines in the share prices of companies operating mines within Zimbabwe.",
+        "• Gold production in Zimbabwe experienced fluctuations over the years, with recorded outputs of 27,114 kilograms in 1998, a significant drop to 7,017 kilograms in 2007, and a partial recovery to 18,400 kilograms by 2015.",
+        "• Various non-governmental organizations (NGOs) have reported widespread corruption within Zimbabwe’s diamond sector; a November 2012 report by the NGO Reap What You Sow highlighted a severe lack of transparency regarding diamond revenues and claimed that Zimbabwe’s elite were profiting disproportionately from diamond resources.",
+        "• In November 2012, former South African President Thabo Mbeki warned that Zimbabwe needed to halt its \"predatory elite\" from colluding with mining companies for personal gain, underscoring concerns about corruption in the mining sector.",
+        "• The Associated Press reported in November 2012 that at least $2 billion worth of diamonds had been stolen from Zimbabwe’s eastern diamond fields, with the proceeds enriching President Robert Mugabe’s ruling circle, associated gem dealers, and criminal networks.",
+        "• Zimbabwe’s mineral exports reached a total value of $1.8 billion in January 2013, reflecting the economic significance of the mining sector to the country’s export earnings.",
+        "• As of October 2014, Metallon Corporation was recognized as Zimbabwe’s largest gold mining company, with its operations controlled by Chairman Mzi Khumalo.",
+        "• By 2019, Zimbabwe had become the world’s third-largest producer of platinum and the sixth-largest producer of lithium, indicating its growing importance in global mineral markets.",
+        "• In 2017, Zimbabwe produced 23.9 tons of gold, demonstrating an increase in gold output compared to previous years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:43.381208",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.6",
+      "section_name": "Education",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The state of education in Zimbabwe significantly influences the development of the national economy, while conversely, the economic conditions impact access to education and the quality of teachers available.",
+        "• Zimbabwe boasts one of the highest literacy rates in Africa, with over 90% of the population being literate.",
+        "• Since the year 2000, Zimbabwe has experienced a crisis that has negatively affected its educational achievements due to a shortage of resources.",
+        "• The crisis has also led to a substantial exodus of teachers and specialists, including professionals such as doctors, scientists, and engineers, who have emigrated to other countries.",
+        "• The introduction of a new curriculum in both primary and secondary education sectors has further influenced the condition of Zimbabwe’s historically strong education system."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:39.800431",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "4",
+      "section_name": "Macroeconomic data",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The macroeconomic data for Zimbabwe from 1990 to 2024 includes key indicators such as GDP in billion US$ PPP and nominal terms, GDP per capita in US$ PPP and nominal terms, real GDP growth rate, inflation rate in percent, and government debt as a percentage of GDP.",
+        "• In 1990, Zimbabwe's nominal GDP was US$10.1 billion with a nominal GDP per capita of US$1,037; data for GDP in PPP and growth rates were not available.",
+        "• From 1991 to 1997, nominal GDP fluctuated between US$7.6 billion and US$10.4 billion, with nominal GDP per capita ranging from US$702 to US$881; no data on real GDP growth, inflation, or government debt was provided for these years.",
+        "• In 1998, GDP in PPP terms was recorded at US$33.1 billion with a GDP per capita of US$2,813; nominal GDP was US$12.1 billion and nominal GDP per capita was US$1,029; other macroeconomic indicators remained unavailable.",
+        "• Between 1999 and 2004, nominal GDP declined from US$11.8 billion to US$9.5 billion, and nominal GDP per capita decreased from US$1,004 to US$807; real GDP growth rates were negative, ranging from −1.1% in 1999 to −6.3% in 2004; inflation and government debt data were not reported.",
+        "• The period 2005 to 2008 showed a continued decline in nominal GDP from US$9.0 billion to US$6.7 billion and nominal GDP per capita from US$765 to US$553; real GDP growth was negative, reaching −16.3% in 2008; government debt rose from 33.1% of GDP in 2005 to 61.1% in 2008; inflation data was unavailable.",
+        "• In 2009, nominal GDP rebounded to US$9.7 billion with nominal GDP per capita at US$790; real GDP growth was positive at 7.4%; government debt slightly decreased to 58.7% of GDP; inflation data was not provided.",
+        "• From 2010 to 2016, nominal GDP increased steadily from US$12.0 billion to US$20.5 billion, and nominal GDP per capita rose from US$976 to US$1,430; real GDP growth was positive except for a slight dip in 2016 (0.8%); inflation rates were low or negative, ranging from −2.4% to 3.7%; government debt fluctuated between 37.0% and 49.9% of GDP.",
+        "• In 2017, nominal GDP reached US$22.0 billion with nominal GDP per capita at US$1,503; real GDP growth was 5.2%; inflation was 0.9%; government debt increased significantly to 68.9% of GDP.",
+        "• The year 2018 saw a nominal GDP spike to US$36.9 billion and nominal GDP per capita to US$2,467; real GDP growth was 5.0%; inflation rose to 10.6%; government debt decreased to 48.1% of GDP.",
+        "• In 2019, nominal GDP fell to US$26.0 billion with nominal GDP per capita at US$1,705; real GDP contracted by −6.3%; inflation soared to 255.3%; government debt increased to 82.3% of GDP.",
+        "• The economic downturn continued in 2020 with nominal GDP at US$26.9 billion and nominal GDP per capita at US$1,725; real GDP growth was −7.8%; inflation escalated dramatically to 557.2%; government debt rose to 84.5% of GDP.",
+        "• In 2021, nominal GDP recovered to US$36.0 billion with nominal GDP per capita at US$2,265; real GDP growth was 8.5%; inflation decreased to 98.5%; government debt declined to 58.2% of GDP.",
+        "• For 2022, nominal GDP was US$32.5 billion and nominal GDP per capita was US$2,004; real GDP growth was 6.1%; inflation surged again to 193.4%; government debt increased sharply to 102.1% of GDP.",
+        "• In 2023, nominal GDP rose to US$35.2 billion with nominal GDP per capita at US$2,119; real GDP growth was 5.3%; inflation reached an extremely high level of 667.4%; government debt was 96.7% of GDP.",
+        "• The forecast for 2024 indicates nominal GDP of US$35.9 billion and nominal GDP per capita of US$2,114; real GDP growth is projected at 2.0%; inflation is expected to remain very high at 635.3%; government debt is forecasted at 70.3% of GDP.",
+        "• Inflation rates under 10% are highlighted in green in the original data, indicating periods of relatively low inflation primarily between 2010 and 2017.",
+        "• The data reveals significant economic volatility in Zimbabwe over the period, characterized by sharp contractions in GDP, hyperinflation episodes especially post-2018, and fluctuating government debt levels relative to GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:59.359519",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "5",
+      "section_name": "Science and technology",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zimbabwe's Second Science and Technology Policy (2012) emphasizes sectorial policies targeting biotechnology, information and communication technologies (ICTs), space sciences, nanotechnology, indigenous knowledge systems, emerging technologies, and scientific solutions to new environmental challenges.",
+        "• The 2012 policy includes provisions for the establishment of a National Nanotechnology Programme to advance research and development in this field.",
+        "• Zimbabwe has a National Biotechnology Policy established in 2005, which guides the development and regulation of biotechnology within the country.",
+        "• Despite challenges such as poor infrastructure and limited human and financial resources, Zimbabwe's biotechnology research is more advanced compared to most sub-Saharan African countries, although it primarily relies on traditional techniques.",
+        "• The Second Science and Technology Policy commits the government to allocate at least 1% of the country's Gross Domestic Product (GDP) to research and development activities.",
+        "• The policy mandates that at least 60% of university education should focus on developing skills related to science and technology disciplines.",
+        "• Additionally, the policy requires that school pupils dedicate at least 30% of their study time to science subjects, aiming to strengthen foundational scientific knowledge from an early education level."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:41.956186",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "6",
+      "section_name": "History",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zimbabwe experienced a visible economic decline beginning in 1997, marked notably by the stock market crash on November 14, 1997.",
+        "• In 1997, civil society groups intensified their agitation for rights that had been eroded under the Economic Structural Adjustment Program (ESAP).",
+        "• A total of 232 strikes were recorded in 1997, the highest annual number since Zimbabwe’s independence, as documented by Kanyenze (2004).",
+        "• During the first half of 1997, war veterans organized demonstrations that were initially ignored by the government.",
+        "• Due to escalating strike intensity, the government was compelled to pay war veterans a once-off gratuity of ZWD $50,000 by December 31, 1997, and a monthly pension of US$2,000 starting January 1998 (Kanyenze 2004).",
+        "• To finance these unbudgeted payments, the government attempted to introduce a ‘war veterans’ levy,’ but faced strong opposition from the labor force and ultimately had to borrow funds to fulfill these obligations.",
+        "• The Zimbabwean dollar underwent massive depreciation in 1997, causing a sharp rise in the cost of agricultural inputs, which undermined producers’ viability.",
+        "• Producers demanded an increase in the producer price of maize (corn) due to rising input costs.",
+        "• In response, millers raised maize meal prices by 24 percent in January 1998, which triggered nationwide riots in the final month of that period.",
+        "• The government intervened by imposing price controls on all basic commodities to curb inflation and social unrest (Kanyenze 2004).",
+        "• Multiple interventionist policies were implemented to counteract the adverse effects of Structural Adjustment Programs and to support the struggling private sector, which faced declining output and increased competition from cheap imports.",
+        "• Some of the subsequent policies enacted were considered highly detrimental to the economy, although specific policies are not detailed in this section."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:53.009462",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "1980–2000",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• At the time of Zimbabwe's independence in 1980, the annual inflation rate was 5.4 percent, with month-to-month inflation at 0.5 percent.",
+        "• Zimbabwean currency denominations of Z$2, Z$5, Z$10, and Z$20 were released, with approximately 95 percent of all transactions conducted in the Zimbabwean dollar.",
+        "• Following the Lancaster House Agreement in December 1979, the transition to majority rule in early 1980, and the lifting of international sanctions, Zimbabwe experienced a brisk economic recovery.",
+        "• Real economic growth for the period 1980–1981 exceeded 20 percent.",
+        "• Economic growth sharply declined in 1982, 1983, and 1984 due to depressed foreign demand for Zimbabwe’s mineral exports and the onset of a drought.",
+        "• In 1985, the economy rebounded strongly, driven by a 30 percent increase in agricultural production.",
+        "• The economy stagnated in 1986 with zero growth and contracted by about 3 percent in 1987, primarily because of drought conditions and a foreign exchange crisis.",
+        "• Between 1980 and 1990, Zimbabwe’s GDP grew at an average annual rate of approximately 4.5 percent.",
+        "• A 1992 World Bank study reported that over 500 health centres had been constructed since 1980, contributing to improved healthcare infrastructure.",
+        "• The percentage of children vaccinated increased significantly from 25 percent in 1980 to 67 percent in 1988.",
+        "• Life expectancy in Zimbabwe rose from 55 years in 1980 to 59 years by 1988.",
+        "• Primary school enrolment increased by 232 percent within one year after the government made primary education free.",
+        "• Secondary school enrolment increased by 33 percent over two years following educational reforms.",
+        "• These expansive social policies contributed to an increase in the national debt ratio.",
+        "• Several laws were enacted during the 1980s aimed at reducing wage disparities, although significant wage gaps persisted.",
+        "• In 1988, legislation was passed granting women, at least theoretically, equal rights to men; prior to this, women required the consent of their father or husband to undertake many personal initiatives.",
+        "• The Zimbabwean government’s stability began to deteriorate in 1997 after announcing a bonus for independence war veterans equivalent to 3 percent of GDP.",
+        "• Unexpected government expenditures increased further due to Zimbabwe’s military involvement in the Second Congo War in 1998.",
+        "• In 1999, Zimbabwe experienced a severe drought that further weakened the economy.",
+        "• The economic difficulties culminated in Zimbabwe’s effective bankruptcy in the following decade.",
+        "• In 1999, Zimbabwe defaulted for the first time on debts owed to the International Monetary Fund (IMF), World Bank, African Development Bank, and Western lenders."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:52.091151",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "2000–2009",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 2000 and 2009, Zimbabwe experienced severe economic hardship characterized by a sharp decline in investor confidence, which multiple Western countries attributed to the Government of Zimbabwe's land reform program, recurrent interference with and intimidation of the judiciary, and the maintenance of unrealistic price controls and exchange rates.",
+        "• From 2000 to December 2007, Zimbabwe's national economy contracted by as much as 40%, inflation soared to over 66,000%, and the country faced persistent shortages of hard currency, fuel, medicine, and food.",
+        "• During the same period, Zimbabwe's GDP per capita declined by 40%, agricultural output decreased by 51%, and industrial production fell by 47%.",
+        "• The Mugabe Government attributed Zimbabwe's economic difficulties primarily to sanctions imposed by Western powers, claiming these sanctions were responsible for crippling the economy.",
+        "• It has been argued, though the source is unspecified, that sanctions imposed by Britain, the United States, and the European Union were designed to undermine Zimbabwe’s economy and the living conditions of its people in an effort to overthrow President Robert Mugabe’s government.",
+        "• Western countries, including Britain, the US, and the EU, countered that their sanctions were targeted specifically against Mugabe, his inner circle, and certain companies owned by them, rather than the general population.",
+        "• Critics, whose identities are not specified, highlighted the \"Zimbabwe Democracy and Economic Recovery Act of 2001,\" signed by then-US President George W. Bush, as a legislative effort aimed at undermining Zimbabwe’s economy.",
+        "• Following the enactment of this bill, the International Monetary Fund (IMF) ceased providing financial resources to Zimbabwe, and various financial institutions began withdrawing their support.",
+        "• The sanctions stipulated that all economic assistance to Zimbabwe would be conditioned on progress toward democratization, respect for human rights, and adherence to the rule of law.",
+        "• The European Union terminated its support for all projects in Zimbabwe as part of the sanctions regime.",
+        "• Due to the sanctions and the foreign policies of the US and EU, Zimbabwe’s external debts were not cancelled, unlike in other indebted countries.",
+        "• Additional observers noted that the asset freezes imposed by the European Union on individuals and companies associated with Zimbabwe’s government resulted in significant economic and social costs for the country.",
+        "• In February 2004, Zimbabwe ceased repayments on its foreign debt, which led to its compulsory suspension from the International Monetary Fund (IMF).",
+        "• The United Nations World Food Programme halted its food aid to Zimbabwe due to insufficient donations from the international community, exacerbating the country’s food insecurity.",
+        "• As a consequence of these developments, the Zimbabwean government was forced to borrow from local sources to meet its financial needs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:57.347670",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "6.2.1",
+      "section_name": "Hyperinflation (2004–2009)",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zimbabwe began experiencing severe foreign exchange shortages in 2000, worsened by the disparity between the official exchange rate and the black market rate.",
+        "• In 2004, Zimbabwe introduced a system of auctioning scarce foreign currency to importers, which temporarily alleviated the foreign currency crisis, but by mid-2005 shortages became severe again.",
+        "• The Reserve Bank of Zimbabwe (RBZ) devalued the Zimbabwean dollar twice in 2005: first to 9,000 ZWD per US dollar, and then to 17,500 ZWD per US dollar on 20 July 2005; however, this official rate was reported to be only half of the black market rate at that time.",
+        "• In July 2005, Zimbabwe reportedly appealed to the South African government for an emergency loan of US$1 billion, but no substantial financial support was publicly confirmed despite rumors.",
+        "• In December 2005, Zimbabwe made an unexplained loan repayment of US$120 million to the International Monetary Fund (IMF) to avoid expulsion from the organization.",
+        "• From early 2006, the official exchange rate was frozen at Z$101,196 per US dollar, while by 27 July 2006 the parallel (black market) rate had surged to Z$550,000 per US dollar; by comparison, the exchange rate a decade earlier was Z$9.13 per US dollar.",
+        "• In August 2006, the RBZ revalued the Zimbabwean dollar by removing three zeros (1,000 ZWD became 1 revalued dollar) and simultaneously devalued the currency by 60% against the US dollar, setting a new official rate of 250 revalued ZWD per US dollar; the parallel market rate ranged between 1,200 and 1,500 revalued ZWD per US dollar as of 28 September 2006.",
+        "• In November 2006, an announced devaluation to revalued ZWD 750 per US dollar was expected around 1 December but did not occur; the parallel market reacted by increasing the rate to ZWD 2,000 per US dollar on 18 November 2006, and by year-end it reached ZWD 3,000 per US dollar.",
+        "• On 1 April 2007, the parallel market rate escalated to ZWD 30,000 per US dollar, and by the end of 2007 it had soared to approximately ZWD 2,000,000 per US dollar.",
+        "• On 18 January 2008, the RBZ began issuing higher denomination bearer cheques (banknotes with expiry dates), including $10 million notes worth less than US$1.35 on the parallel market at issuance.",
+        "• On 4 April 2008, the RBZ introduced $25 million and $50 million bearer cheques, initially valued at US$0.70 and US$1.40 respectively on the parallel market.",
+        "• On 1 May 2008, the RBZ announced that the Zimbabwean dollar would be allowed to float in value under certain conditions.",
+        "• On 6 May 2008, the RBZ issued $100 million and $250 million bearer cheques; the $250 million note was worth approximately US$1.30 on the parallel market at issuance.",
+        "• On 15 May 2008, the RBZ issued a $500 million bearer cheque worth about US$1.93 on the parallel market, and simultaneously issued three \"special agro-cheques\" with face values of $5 billion (US$19.30), $25 billion (US$96.50), and $50 billion (US$193), which could be used to purchase any goods and services like bearer cheques.",
+        "• On 30 July 2008, RBZ Governor Gideon Gono announced a redenomination of the Zimbabwe dollar effective 1 August 2008, removing 10 zeros from the currency, so that ZWD 10 billion became 1 new dollar.",
+        "• Following the redenomination, the RBZ continued issuing increasingly large denomination banknotes: $10,000 and $20,000 on 29 September 2008; $50,000 on 13 October 2008; $100,000, $500,000, and $1 million on 3 November 2008; $10 million on 2 December 2008; $50 million and $100 million on 4 December 2008; $200 million on 9 December 2008; $500 million on 11 December 2008; $10 billion on 19 December 2008; and $1 trillion on 17 January 2009.",
+        "• On 2 February 2009, a final redenomination was implemented, cutting 12 zeros from the currency before the Zimbabwe dollar was officially abandoned on 12 April 2009.",
+        "• After abandoning the Zimbabwe dollar, the country relied on foreign currencies for transactions pending economic recovery, rather than introducing a new national currency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:33:03.355868",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Dollarization: 2009–present",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In February 2009, the newly installed national unity government of Zimbabwe, which included opposition members to Robert Mugabe, authorized foreign currency transactions throughout the economy to stimulate economic recovery and end hyperinflation.",
+        "• By April 2009, the Zimbabwean dollar had lost all credibility and was suspended entirely, with the US dollar replacing it in all government transactions.",
+        "• By 2014, Zimbabwe recognized eight legal currencies: the US dollar, South African rand, Botswana pula, British pound sterling, Australian dollar, Chinese yuan, Indian rupee, and Japanese yen.",
+        "• Dollarization reversed hyperinflation, stabilized the banking system, and enabled the economy to resume slow growth after 2009.",
+        "• Despite economic stabilization, dollarization led to reduced taxation and decreased financial transparency as many Zimbabweans kept money outside the formal banking system.",
+        "• The economy experienced extremely high real interest rates due to a lack of capital availability.",
+        "• The government was forced into a \"pay as you go\" fiscal system, limiting spending to revenues collected.",
+        "• There was a shortage of coinage for everyday transactions, prompting the use of South African rand coins, sweets, mobile phone airtime, and condoms as substitutes for small change.",
+        "• Counterfeiting of foreign currencies unfamiliar to Zimbabweans became a problem during this period.",
+        "• The economy grew at an average rate of 10% annually up to 2012 under dollarization.",
+        "• In January 2013, Finance Minister Tendai Biti revealed that Zimbabwe's national public account held only US$217.",
+        "• The budget for the July 2013 presidential election was US$104 million, while the total government budget for 2013 was US$3.09 billion, with a projected economic growth rate of 5%.",
+        "• The Economist described the 2013 election as \"rigged\" and reported that after regaining full control, Mugabe's government doubled the civil service and engaged in widespread misrule and corruption.",
+        "• In August 2014, Zimbabwe began issuing treasury bills and bonds to pay delayed public sector salaries amid weakening GDP growth and deflation.",
+        "• In July 2014, US$2 million worth of six-month Treasury bills were sold through private placements at an interest rate of 9.5%.",
+        "• IMF data forecasted GDP growth of 3.1% by the end of 2014, a significant decline from the average 10% growth between 2009 and 2012.",
+        "• Government data showed consumer prices declined for five consecutive months by June 2014, indicating deflation.",
+        "• The Reserve Bank of Zimbabwe issued large volumes of treasury bills to finance government overspending, increasing the money supply and effectively devaluing bank balances despite their US dollar denomination.",
+        "• In November 2016, Zimbabwe introduced a pseudo-currency called Bond Notes amid widespread public protests.",
+        "• In February 2019, Reserve Bank Governor John Mangudya formally introduced the RTGS dollar as a new currency, comprising electronic bank balances, mobile wallet funds, bond notes, and bond coins, completing the conversion of all US dollar-denominated bank balances to a devalued Zimbabwean currency at a 1:1 exchange rate.",
+        "• In June 2019, the government prohibited the use of foreign currencies in local transactions to pave the way for a new national currency, effectively ending the dollarization period.",
+        "• Despite the prohibition, low-volume trade in US dollars persisted, especially in the informal sector and through in-shop bureau de change operations.",
+        "• In March 2020, citing challenges posed by the COVID-19 pandemic, the government reinstated formal transactions in US dollars.",
+        "• In October 2023, Zimbabwe extended its multi-currency system from 2025 until 31 December 2030 due to declining public trust in the Zimbabwean dollar, which had depreciated by more than 80% in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:57.311706",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "6.4",
+      "section_name": "Government of National Unity: 2009–2013",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In response to Zimbabwe's prolonged negative economic situation, the three parliamentary parties agreed to form a Government of National Unity (GNU) from 2009 to 2013.",
+        "• Despite significant internal disagreements within the GNU, the government implemented critical decisions that led to improvements in the overall economic environment.",
+        "• A pivotal decision was the suspension of the Zimbabwean Dollar, the national currency, in April 2009, which effectively halted the rampant hyperinflation that had plagued the country.",
+        "• Following the suspension of the Zimbabwean Dollar, Zimbabwe adopted the use of multiple foreign currencies for transactions, including the US Dollar, South African Rand, European Union Euro, and Botswana Pula, facilitating the resumption of normal business activities.",
+        "• Tendai Biti, the former finance minister representing the Movement for Democratic Change – Tsvangirai (MDC-T), endeavored to maintain a disciplined fiscal budget during this period.",
+        "• In 2009, Zimbabwe experienced economic growth for the first time in a decade, marking a significant turnaround from previous years of economic decline."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:56.491338",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "6.5",
+      "section_name": "Post-Government of National Unity: 2013–2020",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following ZANU-PF's landslide victory in the 2013 general elections, Patrick Chinamasa was appointed as Zimbabwe's finance minister.",
+        "• The government fast-tracked policies encouraging the indigenisation of the economy, implementing laws requiring that 51% or more of non-black Zimbabwean owned companies be handed over to black Zimbabweans.",
+        "• These indigenisation policies have been credited with creating further economic uncertainty and negatively impacting the investment climate in Zimbabwe.",
+        "• Although indigenisation legislation had been in development since 2007 and actively initiated by ZANU-PF in 2010, the policy continued to be criticized for being unclear and described as a form of \"racketeering by regulation.\"",
+        "• The government doubled the size of the civil service and engaged in what The Economist characterized as \"...misrule and dazzling corruption.\"",
+        "• In April 2014, Finance Minister Patrick Chinamasa admitted that Zimbabwe was heavily in debt and needed to better attract foreign direct investment.",
+        "• Officially, Zimbabwe's debt stood at US$7 billion, exceeding 200% of the country's GDP; however, this figure is disputed, with estimates as high as US$11 billion when including debts to other African countries and China.",
+        "• By May 2014, reports indicated that Zimbabwe's economy was in decline following a period of relative stability during the Government of National Unity.",
+        "• It was estimated that Zimbabwe's manufacturing sector required approximately US$8 billion in investment for working capital and equipment upgrades.",
+        "• In 2016, opposition politician Tendai Biti estimated the government was running a fiscal deficit of up to 12% of GDP.",
+        "• Zimbabwe began experiencing a significant shortage of US dollars, partly due to a persistent trade deficit.",
+        "• In response, the government imposed limits on cash withdrawals from banks and revised exchange-control regulations to promote exports and alleviate the currency shortage.",
+        "• During June and July 2016, after government employees went unpaid for weeks, police established roadblocks to extort money from tourists, and widespread protests erupted across Zimbabwe.",
+        "• Finance Minister Patrick Chinamasa toured Europe in mid-2016 seeking investment capital and loans, candidly admitting, \"Right now we have nothing.\"",
+        "• In August 2016, the government announced plans to lay off 25,000 civil servants, representing 8% of the total 298,000 civil servants, reduce the number of embassies and diplomatic expenses, and cut ministerial expenses to save US$4 billion annually in wages and secure assistance from the World Bank and IMF.",
+        "• Concurrently, the government aimed to improve women's access to microfinance through the establishment of the Zimbabwe Women Microfinance Bank Limited, which commenced operations on 29 May 2018.",
+        "• The Zimbabwe Women Microfinance Bank operates under the supervision of the Ministry of Women's Affairs, Gender and Community Development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:33:11.858339",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "6.5.1",
+      "section_name": "Re-adoption of the Zimbabwe Dollar",
+      "chapter_name": "Economy of Zimbabwe",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In mid-July 2019, Zimbabwe experienced an inflation rate increase to 175% following the introduction of a new Zimbabwe dollar and the government's ban on the use of foreign currency, raising concerns about the onset of a new hyperinflationary period.",
+        "• The Zimbabwean government ceased the publication of official inflation data starting in August 2019.",
+        "• By December 2019, the year-on-year inflation rate had escalated dramatically to 521%.",
+        "• Despite the high inflation figures, officials from the Reserve Bank of Zimbabwe expressed in February 2020 their objective to reduce inflation to 50% by the end of December 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:59.055816",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_zimbabwe.json",
+      "original_index": 19
+    }
+  ]
+}

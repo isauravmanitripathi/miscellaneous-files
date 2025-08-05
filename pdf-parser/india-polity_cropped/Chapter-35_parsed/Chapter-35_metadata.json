@@ -1,0 +1,439 @@
+{
+  "table_of_contents": [
+    {
+      "title": "35 Tribunals",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.46923828125,
+          104.5107421875
+        ],
+        [
+          269.54296875,
+          104.5107421875
+        ],
+        [
+          269.54296875,
+          130.8076171875
+        ],
+        [
+          103.46923828125,
+          130.8076171875
+        ]
+      ]
+    },
+    {
+      "title": "ADMINISTRATIVE TRIBUNALS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.888671875,
+          118.3359375
+        ],
+        [
+          362.478515625,
+          118.3359375
+        ],
+        [
+          362.478515625,
+          136.705078125
+        ],
+        [
+          104.888671875,
+          136.705078125
+        ]
+      ]
+    },
+    {
+      "title": "Central Administrative Tribunal (CAT)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          74.25,
+          392.1328125
+        ],
+        [
+          364.5,
+          392.1328125
+        ],
+        [
+          364.5,
+          411.46875
+        ],
+        [
+          74.25,
+          411.46875
+        ]
+      ]
+    },
+    {
+      "title": "State Administrative Tribunals",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.75,
+          502.34765625
+        ],
+        [
+          303.908203125,
+          502.34765625
+        ],
+        [
+          303.908203125,
+          520.91015625
+        ],
+        [
+          75.75,
+          520.91015625
+        ]
+      ]
+    },
+    {
+      "title": "TRIBUNALS FOR OTHER MATTERS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          103.693359375,
+          87.205078125
+        ],
+        [
+          399.83203125,
+          87.205078125
+        ],
+        [
+          399.83203125,
+          106.34765625
+        ],
+        [
+          103.693359375,
+          106.34765625
+        ]
+      ]
+    },
+    {
+      "title": "Table 35.2  Circuit Sittings of Benches of CAT",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          73.5,
+          355.5
+        ],
+        [
+          360.0,
+          355.5
+        ],
+        [
+          360.0,
+          377.25
+        ],
+        [
+          73.5,
+          377.25
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          105.0,
+          442.79296875
+        ],
+        [
+          300.75,
+          442.79296875
+        ],
+        [
+          300.75,
+          459.80859375
+        ],
+        [
+          105.0,
+          459.80859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          16
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

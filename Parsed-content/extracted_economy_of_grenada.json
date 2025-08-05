@@ -1,0 +1,202 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_grenada.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.953534",
+    "total_sections_in_source": 7,
+    "extracted_sections_count": 7,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Grenada",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Nutmeg is one of Grenada's key exports, highlighting its importance in the country's trade economy.",
+        "• The economy of Grenada is largely based on tourism, characterized as small and open, indicating a significant reliance on external markets and services.",
+        "• Between the 1980s and the 2000s, Grenada experienced a structural shift in its economic sectors, moving from agriculture dominance to a service-oriented economy, with tourism becoming the leading sector for foreign currency earnings.",
+        "• The principal export crops of Grenada include spices such as nutmeg and mace, with the country being the world's second-largest producer of nutmeg, following Indonesia.",
+        "• Additional export crops encompass cocoa, citrus fruits, bananas, cloves, and cinnamon, diversifying Grenada's agricultural export base.",
+        "• Manufacturing industries in Grenada are predominantly small-scale operations, including the production of beverages, other foodstuffs, textiles, and the assembly of electronic components for export.",
+        "• Economic growth in Grenada increased in the late 1990s after a period of slow growth and domestic fiscal adjustment during the early 1990s.",
+        "• Despite an expansionary fiscal policy during this period, the public debt remained moderate at approximately 50 percent of GDP, with deficits financed partly through privatization receipts.",
+        "• Since 2001, Grenada's economic growth has declined due to adverse shocks such as a slowdown in the global economy and natural disasters.",
+        "• In response to these shocks, fiscal policy became more expansionary, and privatization receipts declined, leading to a sharp increase in public debt to nearly 110 percent of GDP by 2003.",
+        "• The impact of Hurricane Ivan in September 2004 further worsened economic conditions; reconstruction efforts were initiated with significant aid from the international community.",
+        "• Post-hurricane, fiscal consolidation was hindered as government revenues fell, and policy priorities shifted towards relief efforts, delaying economic recovery.",
+        "• Although reconstruction proceeded rapidly, aided by international assistance, the sectors of tourism and agriculture remained weak, nearly offsetting the economic stimulus from reconstruction activities.",
+        "• Grenada continues to face challenges related to reconstruction and recovery, with public debt considered unsustainable and large financing gaps persisting.",
+        "• Reinvigorating economic growth remains a high priority for Grenada, requiring continued efforts to address vulnerabilities and promote sustainable development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:54.306977",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_grenada.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Grenada",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Grenada is characterized as small, with tourism serving as its largest source of foreign exchange earnings.",
+        "• Grenada shares a common central bank with the Organisation of Eastern Caribbean States (OECS) and uses the East Caribbean dollar as its official currency.",
+        "• Following tourism, Grenada's economy depends heavily on agricultural exports, primarily various spices.",
+        "• The major agricultural exports of Grenada include nutmeg, wheat flour, and a variety of fruits, with data from 2017 indicating these constitute the majority of exports.",
+        "• Since gaining independence, Grenada has faced numerous economic challenges, notably a rising fiscal deficit and a substantial debt burden that hampers government operations.",
+        "• In 2004, Hurricane Ivan caused significant setbacks to Grenada's economy, damaging infrastructure and economic stability.",
+        "• The global financial crisis of 2008, known as the Great Recession, also adversely affected Grenada's economy, partly due to the United States being one of its largest trade partners.",
+        "• In 2017, Grenada was ranked nine positions above the bottom among 126 developing countries in terms of total debt, indicating a high debt level relative to other developing nations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:16:57.445660",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_grenada.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic Performance",
+      "chapter_name": "Economy of Grenada",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the late 1990s, Grenada experienced an average annual GDP growth rate of nearly six percent.",
+        "• Post-2001, economic growth significantly declined due to a downturn in the tourism industry following the September 11, 2001 terrorist attacks, combined with damages from several hurricanes.",
+        "• In September 2004, Hurricane Ivan brought the Grenadian economy to a near standstill, damaging or destroying approximately 90 percent of the country's buildings, including key tourist facilities.",
+        "• In July 2005, Hurricane Emily struck Grenada while the country was still recovering from Hurricane Ivan’s impact.",
+        "• The hurricanes caused extensive damage to Grenada’s tree crops, destroying or severely damaging a large percentage of them, with recovery expected to take several years.",
+        "• The economic damage from Hurricane Ivan exceeded 200 percent of Grenada’s GDP, leading to a negative GDP growth of three percent in 2004, contrasting with a 5.8 percent positive growth in 2003.",
+        "• Despite signs of economic recovery after Hurricanes Ivan and Emily, overall conditions remained challenging, with GDP projected to grow by only one percent in 2005.",
+        "• After 2001, the fiscal situation deteriorated due to a continued expansionary fiscal policy characterized by increased spending on social sectors, wages, and goods and services.",
+        "• The fiscal deficit rose from 3.2 percent of GDP in 2000 to 8.5 percent in 2001.",
+        "• In 2002, the fiscal deficit widened further to 19.2 percent of GDP, primarily due to reduced output caused by Tropical Storm Lili.",
+        "• As the economy began to recover in 2003, the government initiated fiscal consolidation measures, reducing the deficit to 4.8 percent of GDP.",
+        "• In 2004, fiscal consolidation efforts were hindered by a policy shift towards post-hurricane relief, and government revenues declined due to hurricane impacts.",
+        "• Since 2001, adverse shocks such as a slowdown in the global economy and natural disasters contributed to declining economic growth.",
+        "• Fiscal policy became more expansionary as privatization receipts declined, leading to a sharp increase in public debt, which exceeded 100 percent of GDP since 2002 and approached 130 percent in 2004.",
+        "• Grenada is a member of the Eastern Caribbean Central Bank (ECCB), which manages monetary policy and issues a common currency for member countries.",
+        "• Inflation in Grenada has remained low and stable under the currency board arrangement, averaging around two percent over the past 15 years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:03.436003",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_grenada.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Balance of Payments",
+      "chapter_name": "Economy of Grenada",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Grenada's current account balance has consistently remained in large deficit, primarily due to its heavy reliance on imports of most consumer goods and domestic investment needs.",
+        "• Between 1997 and 2000, the country experienced an average current account deficit of approximately 44 percent of GDP.",
+        "• Since 2001, the current account deficit has increased to over 35 percent of GDP, driven by higher import demand coupled with reduced receipts from tourism and nutmeg exports.",
+        "• The deficits are financed through various inflows, including foreign direct investment (FDI), official grants and loans, and commercial borrowing by the private sector.",
+        "• Grenada's economy is highly vulnerable to external shocks because of its significant dependence on tourism, exports, and the importation of most goods consumed or invested domestically.",
+        "• The economy is also susceptible to adverse shocks such as natural disasters, which can further impact its financial stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:06.101167",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_grenada.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Regional Situation",
+      "chapter_name": "Economy of Grenada",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following Hurricanes Ivan and Emily, Grenada's primary focus is on ongoing recovery efforts to restore infrastructure severely damaged by these natural disasters.",
+        "• The international community has provided substantial aid to Grenada, including financial assistance through the International Monetary Fund's (IMF) emergency assistance policy specifically designed for natural disasters.",
+        "• Additional aid has been received from the World Bank and the Caribbean Development Bank to support Grenada’s recovery and development initiatives.",
+        "• In terms of regional economic development, Grenada aims to deepen its integration into the Eastern Caribbean regional economy to bolster its competitiveness.",
+        "• Greater regional integration is expected to enhance Grenada’s capacity in production, marketing, and distribution, thereby increasing its economic scale.",
+        "• In 2013, Grenada launched a citizenship by investment program as part of its strategy to attract foreign investment and stimulate economic growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:08.743347",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_grenada.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "International Monetary Fund",
+      "chapter_name": "Economy of Grenada",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Grenada joined the International Monetary Fund (IMF) on August 27, 1975.",
+        "• Since joining, Grenada has been subject to extensive review and oversight by the IMF.",
+        "• As a result of its engagement with the IMF, Grenada has become eligible to receive special drawing rights (SDRs).",
+        "• Special drawing rights (SDRs) are supplementary foreign exchange reserve assets established and maintained by the IMF.",
+        "• The allocation of SDRs to Grenada is based on its economic performance and policy adherence.",
+        "• Grenada's eligibility for additional SDRs depends on its economic and policy performance, with potential for increased SDR allocations.",
+        "• Over recent years, Grenada and the IMF have collaborated closely to promote economic growth and sustainability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:11.815233",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_grenada.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Grenada",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Gross Domestic Product (GDP) of Grenada, measured by purchasing power parity, was estimated at $1.401 billion in 2015.",
+        "• The real GDP growth rate in 2015 was 4.6%.",
+        "• The GDP per capita, based on purchasing power parity, was approximately $13,100 in 2015.",
+        "• The composition of GDP by sector in 2015 was: agriculture at 6.2%, industry at 14.3%, and services at 79.5%.",
+        "• As of 2008, approximately 38% of Grenada's population was living below the poverty line.",
+        "• Data on household income or consumption share for the lowest and highest 10% is not available (NA%).",
+        "• The inflation rate for consumer prices in 2015 was 1.3%.",
+        "• The labor force in 2013 comprised approximately 59,900 individuals.",
+        "• Occupational distribution of the labor force in 2008 was: services at 69%, industry at 20%, and agriculture at 11%.",
+        "• The unemployment rate in 2013 was notably high at 33.5%.",
+        "• The government’s budget in 2012 had revenues totaling $191.8 million and expenditures of $230.9 million.",
+        "• Key industries include food and beverages, textiles, light assembly operations, tourism, and construction.",
+        "• The industrial production growth rate in 2015 was -1%, indicating a slight contraction.",
+        "• Electricity production in 2012 was 193 GWh.",
+        "• Electricity generation by source in 2012 was predominantly fossil fuels at 98.2%, with hydro and nuclear contributing 0%, and other sources accounting for 1.4%.",
+        "• Electricity consumption in 2012 was 178 GWh.",
+        "• Grenada exported 0 kWh of electricity in 2013 and imported 0 kWh in the same year.",
+        "• Agricultural products include bananas, cocoa, nutmeg, mace, citrus, avocados, root crops, sugarcane, maize, and vegetables.",
+        "• The total value of exports in 2015 was $43.8 million.",
+        "• Major export commodities are nutmeg, bananas, cocoa, fruits and vegetables, clothing, and mace.",
+        "• Export partner countries in 2015 included Nigeria (44.7%), St. Lucia (10.8%), Antigua and Barbuda (7.3%), St. Kitts and Nevis (6.6%), Dominica (6.6%), and the United States (5.8%).",
+        "• Imports in 2015 amounted to $310.4 million, primarily consisting of food, manufactured goods, machinery, chemicals, and fuel.",
+        "• Main import partners were Trinidad and Tobago (49.6%) and the United States (16.4%) in 2015.",
+        "• External debt was approximately $679 million in 2013.",
+        "• In 1995, Grenada received $8.3 million in economic aid.",
+        "• The national currency is the East Caribbean dollar (EC$), with 1 EC$ equal to 100 cents.",
+        "• The fixed exchange rate since 1976 is 2.7000 EC$ per US dollar.",
+        "• The fiscal year in Grenada follows the calendar year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:18.062365",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 28
+      },
+      "source_file": "economy_of_grenada.json",
+      "original_index": 6
+    }
+  ]
+}

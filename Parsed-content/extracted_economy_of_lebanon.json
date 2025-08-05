@@ -1,0 +1,621 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_lebanon.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.241016",
+    "total_sections_in_source": 24,
+    "extracted_sections_count": 24,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Lebanon has been undergoing a large-scale, multi-dimensional crisis since 2019, characterized by a banking collapse, a liquidity crisis, and a sovereign default.",
+        "• Lebanon is classified as a developing, lower-middle income economy.",
+        "• The nominal Gross Domestic Product (GDP) was estimated at $19 billion in 2020.",
+        "• The per capita GDP in 2020 was approximately $2,500.",
+        "• In 2018, government spending totaled $15.9 billion, representing 83% of the GDP.",
+        "• The Lebanese economy experienced significant growth after the 34-day war of 2006, with an average growth rate of 9.1% between 2007 and 2010.",
+        "• Post-2011, the economy was impacted by the Syrian civil war, growing at an average annual rate of 1.7% from 2011 to 2016, and by 1.5% in 2017.",
+        "• The estimated GDP size in 2018 was $54.1 billion.",
+        "• Between 2019 and 2021, Lebanon's economy contracted by 53.4%, marking the highest economic contraction among 193 countries.",
+        "• Since 2020, the International Monetary Fund (IMF) has ceased publishing data on Lebanon’s economy.",
+        "• Lebanon ranks as the third-highest indebted country globally in terms of debt-to-GDP ratio.",
+        "• As a consequence of high debt levels, interest payments accounted for 48% of domestic government revenues in 2016.",
+        "• The high interest burden limited the Lebanese government's capacity to invest in infrastructure and other public goods.",
+        "• The Lebanese economy is predominantly service-oriented.",
+        "• Lebanon has a strong tradition of laissez-faire economics, with the constitution stating that \"the economic system is free and ensures private initiative and the right to private property.\"",
+        "• Major economic sectors include metal products, banking, agriculture, chemicals, and transport equipment.",
+        "• The primary growth sectors are banking and tourism.",
+        "• There are no restrictions on foreign exchange or capital movement in Lebanon."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:03:09.246772",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The GDP per capita in Lebanon, measured in international dollars, showed fluctuations from 1980 to 2012, starting at $5,322 in 1972, peaking at $15,985 in 2012, with the MENA average increasing from $3,346 in 1972 to $13,088 in 2012.",
+        "• The Lebanese Civil War (1975–1990) severely damaged the country's economic infrastructure, halved national output, and negatively impacted Lebanon's role as a Middle Eastern entrepot and banking hub.",
+        "• Post-war, the Lebanese government regained control over key ports and facilities, leading to a 353% increase in GDP per capita during the 1990s.",
+        "• Lebanon's economic recovery was supported by a stable banking system, resilient small- and medium-scale manufacturers, family remittances, banking services, exports (manufactured and farm), and international aid.",
+        "• The \"Horizon 2000\" reconstruction program, launched in 1993 with a $20 billion budget, significantly contributed to economic growth, with real GDP expanding by 8% in 1994 and 7% in 1995.",
+        "• Israel's Operation Grapes of Wrath in April 1996 hindered economic activity, leading to slower growth rates of less than 3% in 1997 and 1998, and only 1% in 1999.",
+        "• Between 1992 and 1998, annual inflation decreased from over 100% to 5%, and foreign exchange reserves increased from $1.4 billion to over $6 billion, fostering foreign payments surpluses and a relatively stable Lebanese pound.",
+        "• Reconstruction efforts included the management of Beirut's central district by Solidere, a $2-billion firm, the reopening of the stock market in January 1996, and the return of international banks and insurance companies.",
+        "• The Lebanese government faced challenges such as funding reconstruction through foreign exchange reserves and increased borrowing, with a focus on reducing the budget deficit.",
+        "• The wealth gap widened in the 1990s, causing dissatisfaction over the unequal distribution of reconstruction benefits, prompting a shift from infrastructure rebuilding to improving living conditions.",
+        "• Post-civil war stability allowed Beirut's reconstruction to near completion, increased tourism, and growth in bank assets, which exceeded US$75 billion, with market capitalization reaching $10.9 billion in Q2 2006.",
+        "• The 2006 war caused significant economic damage, especially to tourism, but subsequent rebuilding in 2008 in real estate and tourism sectors contributed to economic resilience.",
+        "• Major contributors to Lebanon's reconstruction included Saudi Arabia (US$1.5 billion pledged), the European Union (about $1 billion), and Persian Gulf countries (up to $800 million).",
+        "• Lebanon's banking system adopted conservative regulations due to security turmoil, which helped banks remain unaffected by the 2008 financial crisis; these regulations maintained high liquidity and security reputation.",
+        "• In late 2008, Moody’s upgraded Lebanon’s sovereign credit rating from stable to positive, recognizing its financial security, and MSCI ranked Lebanon as the world's best stock market performer in 2008 with a 51% increase in the stock index.",
+        "• The Lebanese economy grew by 8.5% in 2008, 7% in 2009, and 8.8% in 2010, although the debt-to-GDP ratio remained among the highest globally.",
+        "• The Syrian crisis significantly impacted Lebanon, increasing demographic pressures from Syrian refugees, doubling unemployment to 20% in 2014, and reducing wages by 14% for less-skilled workers.",
+        "• The crisis led to increased poverty, with 170,000 Lebanese falling below the poverty line, and public spending rising by $1 billion between 2012 and 2014, with estimated refugee-related expenditures of $4.5 billion annually.",
+        "• The IMF’s October 2015 report lowered Lebanon’s projected economic growth rate to 2%, down from 2.5% in April 2015.",
+        "• Nationwide protests erupted in October 2019 over economic deterioration, triggered by a government plan to charge 20 cents per day for VoIP services like WhatsApp and Facebook, reflecting widespread dissatisfaction with governance.",
+        "• Lebanon’s public debt was extremely high, exceeding 150.7% of GDP in 2010 (the fourth highest globally), down slightly from 154.8% in 2009; debt levels in 2008 were projected at $47 billion, potentially rising to $49 billion without privatization of telecoms.",
+        "• The high debt levels have slowed economic growth and limited government spending on essential development projects.",
+        "• In early 2020, Lebanon’s central bank (BdL) defaulted on $90 million of sovereign debt, and the government sought IMF assistance for a shortfall of $50 billion.",
+        "• The Beirut port explosion on August 4, 2020, involving 2,750 tons of ammonium nitrate, destroyed the country’s only large grain silo, caused over 200 deaths, and damaged several square kilometers of buildings in downtown Beirut.",
+        "• By August 9, 2020, French President Emmanuel Macron had secured over €250 million in international contributions for relief efforts.",
+        "• On August 10, 2020, Prime Minister Hassan Diab’s government resigned following the explosion.",
+        "• IMF conditions for cooperation included restoring fiscal solvency, reducing losses at state-owned companies, regulating capital outflows, and establishing a social safety net.",
+        "• The UN launched a $565 million aid appeal on August 14, 2020, focusing on immediate needs such as meals, first aid, shelters, and school repairs, with some funds from Macron’s collected contributions directed to these efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:03:19.657806",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 28
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "2019–present economic crisis",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to a World Bank report, Lebanon's economy was already structurally strained prior to the Syrian crisis, which significantly worsened the economic situation by bringing approximately 1.5 million Syrian refugees into Lebanon.",
+        "• The GDP growth rate declined by around 1 percent in 2018, indicating early signs of economic deterioration before the full crisis unfolded.",
+        "• In August 2019, the USD parallel exchange rate began diverging from the official exchange rate; the official rate had been fixed at £L1,507.5 since 1997, while the parallel rate was £L1,600 in fall 2019 and increased to approximately £L4,200 by May 2020.",
+        "• The increase in the USD parallel exchange rate was driven by a dollar shortage in Lebanon, prompting a disparity between official and black market rates.",
+        "• To curb the dollar's rising black market value, the Central Bank of Lebanon negotiated with licensed exchangers to offer official rates at around £L3,860/3,910; however, these measures were insufficient.",
+        "• On 23 June 2020, the black market dollar rate soared to £L6,075, leading to a 75% devaluation of the Lebanese pound.",
+        "• The dollar shortage resulted in the closure of 785 restaurants and cafes between September 2019 and February 2020, and caused approximately 25,000 employees to lose their jobs.",
+        "• Lebanon's gross domestic product (GDP) fell to about $44 billion in 2020 from approximately $55 billion in the previous year, reflecting the severe economic downturn.",
+        "• The economic crisis was exacerbated by the COVID-19 pandemic, further straining the Lebanese economy.",
+        "• In 2020, Lebanon defaulted for the first time on $30 billion in bonds and attempted to seek assistance from the International Monetary Fund (IMF), but negotiations did not reach a conclusion.",
+        "• The liquidity crisis led to restrictions on withdrawals from US dollar bank accounts, prompting depositors to seek alternative assets to preserve savings amid fears of haircuts and banking sector restructuring.",
+        "• As a result, many depositors invested in real estate, notably increasing land sales revenues of the major developer Solidere from nearly $1.3 million to $234.5 million.",
+        "• Depositors also bought shares in Solidere, causing its stock price to rise by 500% from the start of the liquidity crisis until April 2021.",
+        "• The Beirut port explosion on 4 August 2020 inflicted additional economic damage, with economists estimating a contraction of Beirut’s GDP by approximately 20–25% for 2020, surpassing IMF's earlier forecast of a 12% decline.",
+        "• The ongoing economic and political crises contributed to this severe downturn, with the blast exacerbating economic vulnerabilities.",
+        "• In March 2021, Lebanon approved a $246 million emergency assistance package from the World Bank aimed at supporting struggling families, enhancing social safety nets, and addressing the economic crisis.",
+        "• On 16 March 2021, the Lebanese pound sharply appreciated on the black market from £L13,000 to £L15,000 against the US dollar, leading to street protests, grocery store closures, and bakery threats of shutdowns.",
+        "• Following a meeting between President Aoun and Prime Minister-designate Saad Hariri on 18 March 2021, the Lebanese pound's black market rate decreased from £L15,000 to £L12,500 against the dollar.",
+        "• As of 2023, Lebanon is considered by some analysts to have become a failed state, suffering from chronic poverty, economic mismanagement, and a banking collapse.",
+        "• Lebanon’s poverty rate surged from 20 percent before 2019 to over 80 percent after the crisis, driven by the economic collapse, the 2020 Beirut explosion, and the COVID-19 pandemic.",
+        "• These crises intensified resource shortages, increased reliance on sectarian patronage systems, and deepened societal divisions, leading to political and economic stagnation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:03:31.540206",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.1.0.1",
+      "section_name": "External debt",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the Lebanese civil war, the Lebanese government engaged in extensive borrowing to finance post-war reconstruction efforts.",
+        "• The annual growth rate of Lebanon's gross debt was 123 percent between 1993 and 1995.",
+        "• Between 1995 and 2000, the gross debt growth rate accelerated to 171 percent annually.",
+        "• From 2005 to 2018, the average yearly growth of Lebanon’s debt was approximately 22 percent.",
+        "• During the same period (2005-2018), Lebanon’s GDP growth rate remained in the single digits, with the exception of 2009.",
+        "• The high level of debt has led Lebanon to allocate a significant portion of its revenues to debt servicing, with an average of nearly 45 percent of government revenues spent on interest payments.",
+        "• In 1996, interest payments constituted nearly 68 percent of that year's budget deficit.",
+        "• As debt accumulated and economic growth remained minimal, Lebanon’s debt-to-GDP ratio reached 178 percent by the end of 2019.",
+        "• Lebanon's debt-to-GDP ratio of 178 percent in 2019 positioned it as the third most indebted country globally, after Greece and Japan.",
+        "• In 2020, Lebanon defaulted on a $1.2 billion external bond, marking the first sovereign default in its history.",
+        "• The country is currently engaged in discussions with a group of creditors regarding a potential restructuring of a defaulted Eurobond.",
+        "• A successful debt restructuring could enable Lebanon to regain access to external credit markets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:03:36.425668",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.1.0.2",
+      "section_name": "Currency crisis",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lebanon's national currency, the Lebanese pound (LBP), is officially pegged to the US dollar at a fixed rate of £L15,000 to US$1.",
+        "• The fixed exchange rate has become unstable due to the depreciation of the pound in the black market.",
+        "• In 2019, reports indicated that the black market exchange rate was approximately £L8,100 to US$1, significantly diverging from the official peg.",
+        "• The depreciation of the Lebanese pound can be attributed to the country's economic dependence on imports, which created trade imbalances.",
+        "• In 2018, Lebanon imported goods worth US$20 billion, while its exports amounted to only US$3 billion, resulting in a substantial trade deficit.",
+        "• The trade deficit was further impacted by a decline in remittances, which constituted about 24 percent of Lebanon's GDP in 2008 but decreased to nearly 12 percent in 2018.",
+        "• The combination of trade imbalance and declining remittances, along with regional geopolitical tensions, contributed to the erosion of the Pound-Dollar peg rate.",
+        "• In response to the currency crisis, the Lebanese central bank increased borrowing to support the currency.",
+        "• The central bank also issued a directive requiring all money transfer offices to cash out transfers in Lebanese pounds, which worsened the dollar shortage."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:03:40.618905",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.1.0.3",
+      "section_name": "Corruption and political instability",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 4 August 2020, a devastating explosion occurred in Beirut, resulting in the deaths of at least 200 people and causing widespread destruction.",
+        "• Following the explosion, the Lebanese government, led by Prime Minister Hassan Diab, announced the resignation of his cabinet.",
+        "• Prime Minister Hassan Diab stated in his resignation speech that corruption was deeply entrenched across Lebanon’s political and administrative sectors.",
+        "• Diab highlighted that other hidden calamities, which pose significant threats, are protected by the ruling class that controls the country's destiny.",
+        "• Reports indicate that Lebanon’s ongoing financial crisis and political paralysis fueled growing public anger and frustration, leading to mass protests starting in October 2019.",
+        "• Protesters demanded an end to corruption and called for the resignation of political leaders, including then-Prime Minister Saad al-Hariri.",
+        "• In 2020, the newly formed government under Hassan Diab faced similar accusations of corruption as previous administrations.",
+        "• In November 2019, the Central Bank of Lebanon was accused of operating a Ponzi scheme by relying on new borrowing to service existing debt.",
+        "• The Central Bank denied these allegations, asserting that its actions conformed to the 1963 Code of Money and Credit.",
+        "• Lebanon’s banking system was collapsing, prompting banks to impose informal restrictions on dollar withdrawals and international transfers, which led to mass protests and police violence.",
+        "• The COVID-19 pandemic temporarily halted protests but did not resolve underlying issues; public discontent persisted.",
+        "• The Beirut port explosion reignited street protests, as reports indicated that Lebanese citizens had lost faith in the political elite.",
+        "• It is estimated that approximately 50% of Lebanon’s population lives near or below the poverty line.",
+        "• Thousands of Lebanese have lost their jobs amid the economic crisis.",
+        "• The country has experienced incessant power outages, with some residents describing the blackouts as worse than those during the Lebanese Civil War (1975–1990)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:03:45.967354",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lebanon's trade balance is structurally negative, indicating that the country consistently imports more than it exports.",
+        "• In 2017, Lebanon's trade deficit reached a significant value of $20.3 billion.",
+        "• During the same year, Lebanon imported goods and services worth $23.1 billion.",
+        "• Lebanon's exports in 2017 amounted to $2.8 billion, substantially lower than its imports.",
+        "• The Lebanese economy operates under a competitive and free market regime, characterized by a strong laissez-faire commercial tradition.",
+        "• Lebanon's economy is primarily service-oriented, with key growth sectors including banking and tourism.",
+        "• There are no restrictions on foreign exchange or capital movement within Lebanon, facilitating open economic transactions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:00.113347",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Food security",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, food constituted 18% of the total dollar value of Lebanon's imports, as reported by World Bank statistics.",
+        "• Lebanon is heavily dependent on imports for key foodstuffs, particularly wheat and livestock products.",
+        "• Approximately 90% of Lebanon's imported wheat originates from Ukraine and Russia.",
+        "• Lebanon's wheat reserves are stored in silos located at the Port of Beirut, with these reserves sufficient to cover about three months of national consumption.",
+        "• In 2019, Lebanon produced 130,000 tons of wheat domestically, while wheat imports amounted to 570,000 tons.",
+        "• The issue of Lebanon's food security is contested, with differing narratives presented to international and domestic audiences.",
+        "• UNESCWA administrators, using data from the World Food Programme in May 2016, claimed that Lebanon imports up to 80% of its food needs.",
+        "• Conversely, domestic messaging emphasizes Lebanon's near self-sufficiency in food production.",
+        "• Lebanon is overall self-sufficient in fruit production and nearly self-sufficient in vegetable production.",
+        "• Self-sufficiency indexes for certain fruits such as bananas, citrus fruits, and apples reach up to 200%.",
+        "• Despite fruit and vegetable self-sufficiency, Lebanon experiences a significant deficit in the production of cereals, livestock, and dairy products.",
+        "• Prior to the Syrian Crisis, Lebanon faced an average cereal production deficit of 800,000 tons per year.",
+        "• Half of Lebanon’s imported cereals consist of soft wheat.",
+        "• Lebanon implements a wheat subsidy program managed by the Ministry of Economy and Trade (MET).",
+        "• The decision to implement wheat subsidies is made annually by the Council of Ministers.",
+        "• The MET also enforces bread price controls, fixing the price of standard Lebanese bread (900 grams) at 1 USD.",
+        "• Through these policies, the MET supports bakeries and mills by providing in-kind wheat flour deliveries to reduce production costs.",
+        "• This subsidy and price control system ensures that mills and bakeries maintain a profit margin on the standard 900-gram bread package."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:04.954079",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3",
+      "section_name": "Corruption",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the NGO Transparency International, Lebanon ranks 138th out of 180 countries surveyed in the Corruption Perceptions Index, indicating a high level of perceived corruption within the country.",
+        "• A 2016 poll conducted by Transparency International revealed that 92% of Lebanese respondents believed that corruption had increased during that year.",
+        "• In the same 2016 poll, 67% of respondents expressed the belief that the majority of Lebanon’s political and economic elites were corrupt.",
+        "• Additionally, 76% of those surveyed in 2016 indicated that the Lebanese government was performing poorly in its efforts to combat corruption.",
+        "• As of July 2020, Riad Salamé, who has served as the governor of Banque du Liban (Lebanon’s central bank) since 1993, had his assets frozen amid allegations of corruption.",
+        "• Riad Salamé faced a scheduled hearing in October 2020, where he was accused of embezzling central bank assets and mismanaging public funds.",
+        "• On 4 August 2020, Lebanon experienced a catastrophic explosion at the Port of Beirut, which caused widespread devastation.",
+        "• The explosion destroyed numerous houses and left nearly 300,000 people homeless, exacerbating the country’s existing economic and social crises.",
+        "• The blast resulted in the destruction of Lebanon’s main harbor, a critical infrastructure used primarily for importing food, thereby severely impacting the nation’s food supply chain."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:10.450777",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4",
+      "section_name": "Inequality",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The top 1% richest adults in Lebanon receive approximately 25% (a quarter) of the total national income, positioning Lebanon among the most unequal countries globally.",
+        "• The bottom 50% of Lebanon’s population holds only 10% of the total national income, highlighting significant income disparity.",
+        "• Lebanon exhibits a dual social structure characterized by an extremely wealthy elite whose income levels are comparable to those in high-income countries, contrasted with a much poorer majority similar to many developing nations.",
+        "• This polarized social structure indicates the absence of a broad middle class in Lebanon.",
+        "• In comparison, the middle 40% of the population in Lebanon receives far less income than the top 10%, with a difference of between 20 and 30 percentage points less income than the top 10% in Lebanon.",
+        "• By contrast, the middle 40% in Western Europe receives more income than the top 10%, and in the United States, the middle 40% receives slightly less than the top 10%.",
+        "• Since 2005, the richest segment of Lebanon’s population has captured most of the income growth: the top 10% experienced an income increase ranging from 5% to 15%.",
+        "• Conversely, the bottom 50% of the population saw their income decrease by 15% since 2005.",
+        "• The poorest 10% of the population experienced an even more severe income decline, with a reduction of 25% (a quarter) since 2005.",
+        "• Between 2005 and 2016, the wealth of Lebanese billionaires represented on average 20% of the national income.",
+        "• This proportion of billionaire wealth relative to national income is significantly higher than in other countries: 2% in China, 5% in France, and 10% in the United States."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:17.820852",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "5",
+      "section_name": "Fiscal haven",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Lebanon was ranked 11th on the Financial Secrecy Index, indicating its significant role as a fiscal haven with strong banking secrecy traditions.",
+        "• Lebanon has historically maintained robust banking secrecy but has initiated measures in recent years to combat money laundering and tax evasion.",
+        "• As of January 2019, banking secrecy protections in Lebanon apply exclusively to Lebanese nationals residing within the country; these protections do not extend to US citizens and US fiscal residents due to the implementation of the FATCA agreement.",
+        "• Lebanon is a member of the Global Forum on Transparency and Exchange of Information for Tax Purposes and has signed agreements to exchange fiscal data with other countries.",
+        "• Despite these agreements, as of January 2019, Lebanon was not fully compliant with certain provisions of the Global Forum treaty concerning transparency and information exchange.",
+        "• On April 24, 2025, Lebanon passed a bill amending the banking secrecy law, which permits all regulatory bodies and banking supervisory authorities to request access to all banking information, thereby reducing secrecy.",
+        "• Ali Hassan Khalil, the Finance Minister of Lebanon, stated that the draft budget for 2019 projected a fiscal deficit of less than 9% of GDP, an improvement from the 11.2% deficit recorded in 2018.",
+        "• Khalil also indicated that the economic growth forecast for Lebanon in 2019 was initially 1.5%, with potential to increase to 2%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:23.556110",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "6",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Foreign investment in Lebanon faces minimal restrictions, with the notable exception of prohibitions against Israeli citizens and entities engaging in investment activities within the country.",
+        "• Lebanon is not subject to comprehensive U.S. trade sanctions at the national level; however, the American government has specifically targeted Hezbollah and individuals associated with the organization through sanctions.",
+        "• Foreign ownership of real estate in Lebanon is permitted, provided that certain legal conditions are met, allowing non-Lebanese investors to acquire property under regulated circumstances.",
+        "• Lebanon holds one of the highest public debt-to-GDP ratios globally, exceeding 150%, as reported by _The Wall Street Journal_, reflecting the country’s increasing reliance on debt to address budget deficits.",
+        "• In January 2019, Qatar made a strategic economic intervention by pledging to purchase $500 million worth of Lebanese government bonds, aiming to support Lebanon’s economy and assist in managing its sovereign debt burden.",
+        "• By June 2019, according to Bloomberg, Qatar had already acquired a portion of the pledged government bonds and expressed intentions to finalize the remaining investment promptly, signaling ongoing financial support for Lebanon’s economic stabilization efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:26.732004",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Remittances",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lebanon benefits significantly from its large, cohesive, and entrepreneurial diaspora, which has established extensive commercial networks worldwide over time.",
+        "• The Lebanese diaspora's emigration has resulted in the creation of strong \"commercial networks\" that facilitate economic connections globally.",
+        "• In 2009, remittances sent by Lebanese expatriates to their family members within Lebanon amounted to $8.2 billion.",
+        "• These remittances constituted approximately one fifth (20%) of Lebanon's national economy in 2009.",
+        "• Nassib Ghobril, who is the head of research and analysis at Byblos Bank, estimates that Lebanese expatriates provide Lebanon with about $1,400 per capita annually through remittances."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:30.598797",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "7",
+      "section_name": "Investment",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The stock market capitalization of listed companies in Lebanon was valued at $9.6 billion in January 2019, representing a decline from $11.5 billion in January 2018.",
+        "• Lebanon was unable to attract significant foreign aid to assist in rebuilding efforts following the prolonged civil war from 1975 to 1989 and the Israeli occupation of the south from 1978 to 2000.",
+        "• The fragile social balance and near-dissolution of central government institutions during the civil war severely handicapped the Lebanese state’s ability to capture revenues necessary to fund recovery efforts.",
+        "• As a result of these challenges, Lebanon accumulated substantial public debt, which by 2001 had reached $28 billion, equivalent to nearly 150% of the country’s GDP.",
+        "• Economic performance in Lebanon was sluggish during 2000 and 2001, with zero growth recorded in 2000 and estimated growth between 1.0% and 1.4% in 2001, primarily due to slight increases in tourism, banking, industry, and construction sectors.",
+        "• Unemployment in Lebanon was estimated at 14% in 2000, with a significantly higher rate of 29% among the 15-24-year-old age group, and preliminary estimates suggested further increases in unemployment in 2001.",
+        "• Despite economic difficulties, many Lebanese expatriates began returning to Lebanon due to adverse financial conditions abroad caused by the global economic crisis.",
+        "• The return of expatriates was also motivated by increasing job opportunities within Lebanon, attracting Lebanese youth seeking employment and benefiting university graduates living in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:36.458420",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "8",
+      "section_name": "Reforms",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lebanon's current reform program is structured around three main pillars: economic revival and sustainable growth driven by the private sector; fiscal consolidation and structural improvements in public sector finances; and ensuring monetary, financial, and price stability.",
+        "• The Lebanese government has maintained a firm commitment to the Lebanese pound, which has been pegged to the US dollar since September 1999, aiming to preserve currency stability.",
+        "• In late 2000, the government implemented several economic liberalization measures including substantial reductions in customs duties, export promotion schemes for agriculture, decreases in social security fees, relaxation of restrictions on foreign investment in real estate, and adoption of an open-skies policy, which positively impacted trade in 1991.",
+        "• Despite these reforms, the relative appreciation of the Lebanese pound undermined export competitiveness, causing merchandise exports to decline sharply from 23% of GDP in 1989 to 4% in 2000.",
+        "• In 2001, the government shifted focus to fiscal measures such as increasing gasoline taxes, reducing public expenditures, and approving a value-added tax (VAT) that became effective in February 2002 to improve fiscal consolidation.",
+        "• Slow growth in money supply and the dollarization of bank deposits limited commercial banks’ capacity to finance government deficits, increasing reliance on the central bank, which monetized the fiscal deficit and exerted significant pressure on central bank reserves.",
+        "• The Lebanese central bank intervened directly in currency markets to maintain the peg and low inflation, sustaining investor confidence in government debt, but this came at the cost of international reserves declining by $2.4 billion in 2000 and by $1.6 billion in the first half of 2001.",
+        "• For 2002, the government prioritized privatization efforts, initially targeting the telecommunications and electricity sectors, while planning future sales of the state airline, Beirut port, and water utilities, with proceeds earmarked for reducing public debt and the budget deficit.",
+        "• Privatization was expected to generate savings through reduced government payrolls, lower interest rates, and stimulation of private sector growth and foreign investment.",
+        "• The government also embarked on administrative reforms aimed at recruiting qualified technocrats to implement ambitious economic programs and was reviewing further savings through income tax system reforms.",
+        "• Lebanon faces significant challenges in meeting fiscal adjustment program requirements, including tax reform and modernization, expenditure rationalization, privatization, and improved debt management.",
+        "• The Lebanese economy heavily depends on its tourism sector year-round, attracting tourists primarily from Europe, the Gulf Cooperation Council (GCC), and other Arab countries, with Faraya in the Mount Lebanon Governorate highlighted as a notable tourist destination.",
+        "• The United States holds a strong exporter position with Lebanon, generally ranking as Lebanon's fourth-largest source of imported goods, with over 160 U.S. business offices operating in Lebanon.",
+        "• Since the lifting of passport restrictions in 1997, numerous large U.S. companies have established branches or regional offices in Lebanon, including Microsoft, American Airlines, Coca-Cola, FedEx, UPS, General Electric, Parsons Brinckerhoff, Cisco Systems, Eli Lilly, Computer Associates, and Pepsi Cola.",
+        "• Mexico also has significant business presence in Lebanon through enterprises run by ethnic Lebanese, notably Carlos Slim's Telmex.",
+        "• Solidere shares are the most actively traded on the Beirut Stock Exchange, with the share price rising sharply from approximately US$5.00 in early 2004 to close at US$17.50 on 23 December 2005.",
+        "• In 2025, Lebanon amended its banking secrecy laws under pressure from the International Monetary Fund (IMF), allowing independent auditors access to banking records from the past 10 years to combat corruption and facilitate a comprehensive restructuring of the Lebanese banking sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:50.078003",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "9",
+      "section_name": "Salaries of Lebanese",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 15 October 2011, following threats of strikes by various unions including the teachers' union and the general worker's union, the minimum wage in Lebanon was increased by 40%, from £L200,000 ($133) to £L700,000 ($466); however, most unions proceeded with strikes except the general worker's union.",
+        "• Wages between the previous minimum wage and £L1,200,000 ($800) were raised by £L200,000 ($133), resulting in a new wage range from £L700,000 (minimum wage) to £L1,400,000 ($933).",
+        "• Wages in the range of more than £L1,200,000 up to £L1,700,000 ($1,133) were increased by £L300,000 ($200), adjusting the range to £L1,500,000 ($1,000) to £L2,000,000 ($1,333).",
+        "• Wages above £L1,800,000 ($1,200) were not subject to any increase during this wage adjustment.",
+        "• The wage increases were broadly welcomed by most Lebanese citizens but faced criticism from some workers' unions, particularly due to the exclusion of raises for employees earning more than $1,200.",
+        "• Opposition politicians and some critics argued that the wage increases would impose financial burdens on small businesses, potentially leading to their closure.",
+        "• According to a 2013 World Bank analysis of the Quality of Life Index in Lebanon: 15% of the population lived below the poverty line, defined as earning less than $2,500 annually.",
+        "• The moderate middle class comprised 54% of the Lebanese population in 2013, earning approximately $9,000 annually, an increase from 12% in 1998.",
+        "• The upper middle class accounted for 32% of the population in 2013, with annual incomes ranging from $15,000 to $27,000, up from 19% in 1998.",
+        "• The highest upper class represented 7% of the Lebanese population in 2013, earning $30,000 and above annually, a rise from 1% in 1998."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:05:59.088514",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "10",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Lebanon's main economic indicators from 1980 to 2020, including GDP in both PPP and nominal terms, GDP per capita, real GDP growth, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• Inflation rates below 5% are highlighted in green, indicating periods of relative price stability within the dataset.",
+        "• The annual unemployment rate data is sourced from the World Bank, although the International Monetary Fund considers these figures unreliable.",
+        "• In 1980, Lebanon's GDP was $16.4 billion PPP and $4.0 billion nominal, with a GDP per capita of $6,344.9 PPP and $1,552.3 nominal, a real GDP growth of 1.5%, and an inflation rate of 23.9%; unemployment and government debt data are not available.",
+        "• Between 1981 and 1989, Lebanon experienced significant economic volatility with GDP fluctuating from $18.1 billion PPP in 1981 to a low of $15.1 billion PPP in 1989, real GDP growth showing sharp contractions such as -36.8% in 1982 and -42.2% in 1989, and extremely high inflation rates peaking at 487.2% in 1987.",
+        "• Unemployment rates during the 1980s are not reported, and government debt data is unavailable for this period.",
+        "• From 1990 to 1999, Lebanon's economy showed gradual recovery with GDP increasing from $13.5 billion PPP in 1990 to $34.1 billion PPP in 1999, real GDP growth rates varying between -0.8% and 38.2%, inflation rates declining to as low as 0.2% in 1999, and unemployment stabilizing around 8.4% to 8.6%; government debt data remains unavailable.",
+        "• In 2000, Lebanon's GDP reached $35.3 billion PPP with a nominal GDP of $17.0 billion, GDP per capita was $9,181.2 PPP and $4,427.2 nominal, real GDP growth was 1.1%, inflation slightly negative at -0.4%, unemployment at 8.3%, and government debt was 148.1% of GDP.",
+        "• From 2001 to 2010, Lebanon's economy expanded steadily with GDP rising from $37.5 billion PPP in 2001 to $74.1 billion PPP in 2010, real GDP growth rates mostly positive peaking at 10.2% in 2009, inflation rates generally low and stable between -0.4% and 4.1%, unemployment decreasing from 8.2% to 6.8%, and government debt increasing from 163.1% to 136.8% of GDP by 2010.",
+        "• The period 2011 to 2014 saw moderate economic growth with GDP increasing from $76.3 billion PPP to $94.1 billion PPP, real GDP growth fluctuating between 0.9% and 3.8%, inflation rates mostly below 5% except for 6.6% in 2012, unemployment rising slightly from 7.4% to 8.8%, and government debt hovering around 131.0% to 138.3% of GDP.",
+        "• Between 2015 and 2019, Lebanon's economy showed signs of stagnation and decline with GDP peaking at $110.2 billion PPP in 2018 before falling to $104.0 billion PPP in 2019, real GDP growth turning negative in 2018 (-1.7%) and 2019 (-7.3%), inflation rates remaining moderate between -3.7% and 4.6%, unemployment increasing from 9.3% to 11.4%, and government debt rising from 140.5% to 171.1% of GDP.",
+        "• In 2020, Lebanon experienced a severe economic contraction with GDP dropping sharply to $78.9 billion PPP and $19.0 billion nominal, GDP per capita falling to $11,561.1 PPP and $2,784.8 nominal, real GDP growth plummeting to -25.0%, inflation surging to 84.9%, unemployment rising to 13.3%, and government debt slightly decreasing to 150.4% of GDP.",
+        "• The data reflects Lebanon's economic instability over four decades, marked by periods of hyperinflation, recession, recovery, and recent severe economic crisis, with government debt consistently exceeding 100% of GDP from 2000 onwards."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:15.572947",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "11",
+      "section_name": "FATF analysis of Lebanon",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In October 2024, the Financial Action Task Force (FATF) officially placed Lebanon on its \"grey list,\" indicating that Lebanon is a jurisdiction subject to increased monitoring.",
+        "• The designation was due to Lebanon exhibiting strategic deficiencies in its efforts to combat money laundering and terrorist financing.",
+        "• Being on the FATF grey list signals that Lebanon's regulatory and enforcement frameworks related to anti-money laundering (AML) and counter-terrorist financing (CTF) require significant improvements to meet international standards.",
+        "• The FATF's decision reflects concerns over Lebanon's effectiveness in implementing measures to prevent illicit financial activities, which could impact the country's financial system and international economic relations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:20.489544",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "11.1",
+      "section_name": "Background",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lebanon has been experiencing a severe economic crisis since 2019, marked by a collapsing financial system, sovereign default, and escalating public debt.",
+        "• The economic situation in Lebanon was further worsened by the COVID-19 pandemic, which impacted public health and economic activities.",
+        "• The 2020 Beirut port explosion significantly contributed to the crisis by causing extensive infrastructure damage and exacerbating poverty levels across the country.",
+        "• In March 2025, the World Bank estimated that Lebanon’s recovery and reconstruction needs total approximately $11 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:22.863634",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "11.2",
+      "section_name": "FATF Grey Listing",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Financial Action Task Force (FATF) decided to grey-list Lebanon due to multiple concerns impacting the country's financial integrity and regulatory framework.",
+        "• One primary factor was the ineffectiveness of Lebanon's judiciary, with specific worries about the lack of independence and inefficiency in prosecuting financial crimes.",
+        "• Lebanon's economy became increasingly cash-based following the collapse of its banking sector in 2019, which heightened concerns regarding the potential for illicit financial flows.",
+        "• The FATF also emphasized that Lebanese authorities failed to sufficiently address the risks associated with terrorist financing, particularly those linked to the activities of local paramilitary organizations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:26.333851",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "11.3",
+      "section_name": "Implications",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Lebanon's inclusion on the Financial Action Task Force (FATF) grey list subjects the country to enhanced monitoring by international regulatory bodies.",
+        "• This grey list status may deter foreign investment in Lebanon due to increased perceived risks and scrutiny.",
+        "• The designation complicates the process of remittances, affecting the flow of funds from the Lebanese diaspora and other sources.",
+        "• Financial institutions in Lebanon face increased compliance costs as a result of the enhanced monitoring requirements linked to the grey list status.",
+        "• The grey list designation highlights the urgent necessity for Lebanon to implement comprehensive reforms aimed at strengthening its anti-money laundering (AML) and counter-terrorist financing (CFT) framework."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:30.116174",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "11.4",
+      "section_name": "Government Response",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In response to the grey listing by the Financial Action Task Force (FATF), Lebanese authorities have committed to implementing a comprehensive two-year action plan.",
+        "• The action plan is designed to address the deficiencies identified by the FATF in Lebanon's anti-money laundering and counter-terrorist financing frameworks.",
+        "• This two-year plan is scheduled to conclude at the end of 2026, marking the target date for the completion of all corrective measures.",
+        "• The ultimate objective of the action plan is to facilitate the reassessment of Lebanon's status by the FATF, with the aim of removing the country from the grey list."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:32.369109",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "12",
+      "section_name": "2025 government establishment",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The European Union has mandated that Lebanon must implement substantial financial reforms and secure an agreement with the International Monetary Fund (IMF) before receiving the remaining €500 million of a previously pledged €1 billion aid package.",
+        "• EU Commissioner for the Mediterranean, Dubravka Suica, emphasized this condition during her recent visit to Lebanon, underscoring the critical need to restructure Lebanon's banking sector.",
+        "• Although Lebanon reached a draft agreement with the IMF in 2022, the country has not yet enacted the necessary reforms to access the related funding.",
+        "• The newly established Lebanese government, led by Finance Minister Yassine Jaber, has declared a renewed commitment to economic reform.",
+        "• The government plans to actively engage with the IMF, with a delegation scheduled to visit in March to discuss the government's reform agenda."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:37.796948",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "13",
+      "section_name": "2025 IMF–World Bank Spring Meetings",
+      "chapter_name": "Economy of Lebanon",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In April 2025, a Lebanese delegation participated in the IMF–World Bank Spring Meetings held in Washington, D.C., presenting a unified reform vision aimed at addressing Lebanon’s prolonged financial and economic crisis.",
+        "• The Lebanese delegation was led by Finance Minister Yassine Jaber and included the Minister of Economy, the Governor of Banque du Liban, and senior presidential advisors, marking a significant shift from previous years.",
+        "• The International Monetary Fund (IMF) positively noted the coherence and clarity of Lebanon’s reform approach during these meetings.",
+        "• The delegation outlined a comprehensive series of proposed reforms targeting key areas such as tax policy, social security, economic restructuring, and monetary governance.",
+        "• Banque du Liban Governor Karim A. Souaid emphasized the critical importance of maintaining the central bank’s independence and protecting the rights of small depositors.",
+        "• IMF officials welcomed the renewed seriousness demonstrated by the Lebanese delegation but stressed that actual progress would depend on effective implementation, which had previously been hindered by political divisions and legislative inaction.",
+        "• Further discussions took place with Jihad Azour, the IMF Middle East and Central Asia Director, focusing on Lebanon’s reform agenda and economic challenges.",
+        "• Lebanon sought financial support through a proposed $1 billion loan from the World Bank aimed at assisting post-conflict reconstruction efforts and establishing a national social safety net.",
+        "• The Lebanese delegation asserted that the reform proposals were internally motivated and framed as essential measures for the country’s economic recovery and long-term stability, rather than as responses to external pressures."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:06:43.121017",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_lebanon.json",
+      "original_index": 23
+    }
+  ]
+}

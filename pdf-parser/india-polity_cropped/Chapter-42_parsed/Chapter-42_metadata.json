@@ -1,0 +1,449 @@
+{
+  "table_of_contents": [
+    {
+      "title": "42 Election Commission",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.25,
+          106.154296875
+        ],
+        [
+          390.0,
+          106.154296875
+        ],
+        [
+          390.0,
+          130.904296875
+        ],
+        [
+          104.25,
+          130.904296875
+        ]
+      ]
+    },
+    {
+      "title": "COMPOSITION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.75,
+          87.8818359375
+        ],
+        [
+          233.5341796875,
+          87.8818359375
+        ],
+        [
+          233.5341796875,
+          106.0576171875
+        ],
+        [
+          105.75,
+          106.0576171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          105.26220703125,
+          87.73681640625
+        ],
+        [
+          245.63671875,
+          87.73681640625
+        ],
+        [
+          245.63671875,
+          106.0576171875
+        ],
+        [
+          105.26220703125,
+          106.0576171875
+        ]
+      ]
+    },
+    {
+      "title": "POWERS AND FUNCTIONS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          104.81396484375,
+          87.35009765625
+        ],
+        [
+          327.814453125,
+          87.35009765625
+        ],
+        [
+          327.814453125,
+          106.2509765625
+        ],
+        [
+          104.81396484375,
+          106.2509765625
+        ]
+      ]
+    },
+    {
+      "title": "VISION, MISSION AND PRINCIPLES6",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          105.0,
+          86.7216796875
+        ],
+        [
+          402.521484375,
+          86.7216796875
+        ],
+        [
+          402.521484375,
+          106.34765625
+        ],
+        [
+          105.0,
+          106.34765625
+        ]
+      ]
+    },
+    {
+      "title": "Vision",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.0,
+          136.9951171875
+        ],
+        [
+          119.9794921875,
+          136.9951171875
+        ],
+        [
+          119.9794921875,
+          154.5908203125
+        ],
+        [
+          75.0,
+          154.5908203125
+        ]
+      ]
+    },
+    {
+      "title": "Mission",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          74.25,
+          221.009765625
+        ],
+        [
+          130.81201171875,
+          221.009765625
+        ],
+        [
+          130.81201171875,
+          238.798828125
+        ],
+        [
+          74.25,
+          238.798828125
+        ]
+      ]
+    },
+    {
+      "title": "Guiding Principles",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.0,
+          339.345703125
+        ],
+        [
+          199.318359375,
+          339.345703125
+        ],
+        [
+          199.318359375,
+          357.134765625
+        ],
+        [
+          75.0,
+          357.134765625
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          105.0,
+          237.638671875
+        ],
+        [
+          302.712890625,
+          237.638671875
+        ],
+        [
+          302.712890625,
+          255.041015625
+        ],
+        [
+          105.0,
+          255.041015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_federated_states_of_micronesia.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.174446",
+    "total_sections_in_source": 3,
+    "extracted_sections_count": 3,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Federated States of Micronesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Federated States of Micronesia (FSM) is primarily based on subsistence agriculture and fishing, reflecting the traditional livelihoods of its population.",
+        "• The islands possess few mineral resources of economic value, with the exception of high-grade phosphate deposits.",
+        "• Although there is potential for developing a tourist industry, the FSM’s remote location and inadequate infrastructure and facilities significantly hinder tourism growth.",
+        "• Financial assistance from the United States is the primary source of revenue for the FSM, with the U.S. pledging to spend $1.3 billion in the islands during the period 1986–2001.",
+        "• Geographic isolation and poorly developed infrastructure are major obstacles to sustained economic growth in the FSM.",
+        "• Under the Compact of Free Association, the United States provided approximately $2 billion in grants and services to the FSM from 1986 to 2001.",
+        "• The financial terms of the Compact of Free Association were subject to renegotiation for an extension period beyond 2001.",
+        "• In 2001, the U.S. provided over $84 million in Compact grants to the FSM, an amount equivalent to more than one-third of the FSM’s Gross Domestic Product (GDP).",
+        "• Additionally, the U.S. contributed more than $20 million to the FSM through other federal programs in 2001.",
+        "• Total official development assistance to the FSM from all sources exceeded $100 million in 2001, with nearly 90% of this aid originating from the United States.",
+        "• The public sector in the FSM plays a central economic role as the administrator of Compact funds and other aid resources.",
+        "• National and state-level governments collectively employ over 50% of the FSM’s workforce and provide services that account for more than 40% of the country’s GDP.",
+        "• Anticipating a potential reduction or cessation of some U.S. assistance programs following the expiration of the Compact’s financial provisions in 2001, the FSM government initiated economic reforms in 1996 aimed at reducing the public sector’s dominance in the economy.",
+        "• The emergence of music startups utilizing the FSM’s .fm internet domain has created a new, though relatively small, source of government revenue."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:56.254552",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_federated_states_of_micronesia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Industries",
+      "chapter_name": "Economy of the Federated States of Micronesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The fishing industry is a critical sector in the Federated States of Micronesia (FSM), with foreign commercial fishing fleets paying over $20 million annually for licenses to operate within FSM territorial waters.",
+        "• Licensing fees from foreign fishing fleets contribute nearly 30% of the FSM's domestic budgetary revenue, underscoring the industry's fiscal significance.",
+        "• Marine product exports, predominantly reexports of fish to Japan, constitute nearly 85% of FSM's total export revenue, highlighting the sector's dominance in international trade.",
+        "• The tourism industry exists in FSM but faces significant challenges due to inadequate infrastructure development.",
+        "• Key tourist attractions across FSM include scuba diving opportunities in each state, World War II battle sites, and the ancient ruined city of Nan Madol located on Pohnpei.",
+        "• Approximately 15,000 tourists visit the FSM islands annually, indicating a modest but notable level of tourism activity.",
+        "• The Asian Development Bank has recognized tourism as one of the highest potential growth industries for FSM, suggesting strategic importance for future economic development.",
+        "• Agriculture in FSM is primarily subsistence-based, with its overall economic importance in decline.",
+        "• The main agricultural crops cultivated in FSM are coconuts, bananas, betel nuts, cassava, and sweet potatoes.",
+        "• The agriculture sector employs less than 10% of the formal labor force and contributes under 7% to FSM's export revenue, reflecting its limited role in the formal economy.",
+        "• Manufacturing activities in FSM are limited and modest in scale, primarily involving the export of betel nut from Yap and the production of buttons made from trochus shells."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:52.771501",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_federated_states_of_micronesia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Taxation and trade",
+      "chapter_name": "Economy of the Federated States of Micronesia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Federated States of Micronesia (FSM) receives a large inflow of official assistance, which enables the country to sustain a substantial trade deficit without severe economic strain.",
+        "• Due to this significant external aid, FSM maintains a relatively light tax burden, with tax revenues amounting to approximately 11% of its GDP, which is notably lower compared to other states in the region where tax burdens range between 18% and 25% of GDP.",
+        "• In the early 1990s, the FSM government borrowed funds against future disbursements from the Compact of Free Association, leading to an accumulation of external debt.",
+        "• By 1997, FSM’s external debt had reached $111 million, which represented over 50% of the country’s GDP at that time.",
+        "• The legal framework in the Federated States of Micronesia does not include any patent laws, indicating the absence of formal intellectual property protections for inventions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:13:53.386362",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_federated_states_of_micronesia.json",
+      "original_index": 2
+    }
+  ]
+}

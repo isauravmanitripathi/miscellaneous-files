@@ -1,0 +1,350 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_jamaica.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.156531",
+    "total_sections_in_source": 13,
+    "extracted_sections_count": 13,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Jamaica is predominantly service-oriented, with services accounting for 71% of the country's Gross Domestic Product (GDP).",
+        "• Jamaica possesses natural resources and a climate favorable to agriculture and tourism, which are significant sectors of the economy.",
+        "• The discovery of bauxite in the 1940s marked a pivotal shift in Jamaica's economic structure, leading to the development of the bauxite-alumina industry.",
+        "• The establishment of the bauxite-alumina industry caused a transition away from reliance on traditional exports such as sugar and bananas.",
+        "• The Jamaican economy faces vulnerabilities due to weaknesses in the financial sector, including issues related to speculation and lower levels of investment, which undermine confidence in the productive sectors.",
+        "• The Jamaican government actively seeks to raise new sovereign debt both domestically and internationally to meet U.S. dollar debt obligations, manage liquidity, stabilize the exchange rate, and fund the current budget deficit.",
+        "• Economic policies implemented by the Jamaican government promote foreign investment in sectors that generate or conserve foreign exchange, create employment opportunities, and utilize local raw materials.",
+        "• The government offers a broad range of incentives to attract investors, aiming to stimulate economic growth.",
+        "• Free trade zones in Jamaica have attracted foreign firms involved in garment assembly, light manufacturing, and data entry, thereby stimulating investment in these sectors.",
+        "• Over the past five years, the garment industry in Jamaica has experienced setbacks characterized by reduced export earnings, factory closures, and rising unemployment rates.",
+        "• The Jamaican government aims to bolster economic activity through strategies such as privatization, restructuring of the financial sector, reduction of interest rates, and enhancement of tourism and related industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:48:52.309331",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to independence, Jamaica's economy was predominantly agriculture-based, with the majority of the labor force engaged in producing sugar, bananas, and tobacco.",
+        "• In the 18th century, Jamaica had the highest wealth inequality globally, characterized by a small, slave-owning elite that was extremely wealthy, while the rest of the population lived on the brink of subsistence.",
+        "• The primary export products—sugar, bananas, and tobacco—were mainly shipped to the United Kingdom, Canada, and the United States.",
+        "• Jamaica's trade relationships expanded significantly between 1938 and 1946, with total imports nearly doubling from £6,485,000 to £12,452,000.",
+        "• After gaining independence in 1962, the Jamaican government prioritized economic growth; however, between 1998 and 1999, all sectors except bauxite/alumina, energy, and tourism experienced contraction.",
+        "• In 2000, Jamaica recorded its first year of positive economic growth since 1995, driven by sustained tight macroeconomic policies.",
+        "• Inflation decreased from 25% in 1995 to single digits by 2000, reaching a multi-decade low of 4.3% in 2004.",
+        "• The Bank of Jamaica has periodically intervened in the market to prevent sharp declines in the exchange rate; despite interventions, the Jamaican dollar has depreciated, with an average exchange rate of J$73.40 per US$1.00 and J$136.2 per €1.00 as of February 2011.",
+        "• Since 2004, inflation has trended upward, with projections indicating it could reach 12–13% in 2008 due to adverse weather damaging crops, rising agricultural imports, and high energy prices.",
+        "• Over the past 30 years, Jamaica's real per capita GDP has grown at an average rate of only 1% annually, making it one of the slowest-growing developing countries.",
+        "• To address economic stagnation, the Jamaican government initiated a comprehensive reform program supported by both domestic and international entities, including:",
+        "• A four-year Extended Fund Facility (EFF) from the IMF totaling US$932 million.",
+        "• Support from the World Bank Group and the Inter-American Development Bank (IDB), each providing US$510 million to aid economic stabilization, debt reduction, and growth.",
+        "• Continued support for private sector development from the International Finance Corporation (IFC) and the Multilateral Investment Guarantee Agency (MIGA).",
+        "• The reform efforts have begun to yield positive results:",
+        "• Institutional reforms and measures to improve the business environment have started restoring confidence in the economy.",
+        "• Jamaica improved 27 places in the 2015 Doing Business ranking to position 58 among 189 economies worldwide.",
+        "• The country's credit rating has improved, and the government successfully raised over US$2 billion in international capital markets during 2014 and 2015.",
+        "• Despite some economic revival, growth remains modest, with a forecasted real GDP growth of 1.9% for fiscal year 2015/2016.",
+        "• Jamaica continues to face significant social challenges, including high crime and violence rates and elevated unemployment levels.",
+        "• The poverty rate, which had decreased by nearly 20% over two decades, increased by 8% in recent years.",
+        "• The unemployment rate as of April 2022 stands at approximately 6.0%, according to the Statistical Institute of Jamaica, with youth unemployment more than twice the national rate at around 15%, though this figure is trending downward.",
+        "• Jamaica's notable assets include a skilled labor force and strong social and governance indicators."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:05.620983",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agricultural production is a significant contributor to Jamaica's economy, providing employment for nearly a quarter of the population.",
+        "• The sector is vulnerable to extreme weather events such as hurricanes and faces competition from neighboring countries, notably the USA.",
+        "• Farmers in Jamaica encounter challenges including praedial larceny, which is theft from farms.",
+        "• In 1997, agriculture accounted for 7.4% of Jamaica's Gross Domestic Product (GDP).",
+        "• The agricultural sector, combined with forestry and fishing, contributed approximately 6.6% to GDP in 1999.",
+        "• Sugar has been produced in Jamaica for centuries and remains the nation's dominant agricultural export, produced across nearly every parish.",
+        "• Raw sugar production in 2000 was estimated at 175,000 tons, representing a decline from 290,000 tons produced in 1978.",
+        "• During the 2000s, Jamaican agriculture's share of GDP declined further, reaching an all-time low between 2004 and 2008, partly due to increased international competition.",
+        "• The enactment of NAFTA in 1993 led to a significant reduction in Caribbean exports to the United States, as Latin American exports outcompeted Jamaican products.",
+        "• The EU's Banana Import Regime's third phase prioritized imports to previously colonized nations, but under WTO pressure, EU policy shifted to a non-discriminatory trade agreement, adversely affecting Jamaica's banana industry.",
+        "• Jamaican banana exports declined after 2008 due to hurricane damage and increased competition, with Jamaica producing about 130,000 tons in 1999, accounting for 2.4% of Caribbean banana exports and approximately 7.5% of regional banana production.",
+        "• Sugar constituted 7.1% of Jamaica's exports in 1999 and represented about 4.8% of the Caribbean's total sugar production.",
+        "• Sugar is also processed into by-products such as molasses, rum, and some wallboard made from bagasse.",
+        "• Coffee production in Jamaica, mainly around the Blue Mountains and hilly areas, is renowned globally, especially Jamaican Blue Mountain Coffee, valued for its unique flavor developed due to cooler high-altitude climates.",
+        "• Coffee accounted for 1.9% of exports in 1999, with the picking season from August to March, and is exported from Kingston.",
+        "• Cocoa is cultivated throughout Jamaica, with about one-third of output used locally for instant drinks and confectionery.",
+        "• Citrus fruits are primarily grown in central Jamaica at elevations between 1,000 and 2,500 feet, with a harvesting season from November to April.",
+        "• Two factories in Bog Walk produce fruit juices, canned fruits, essential oils, and marmalade from citrus.",
+        "• Coconuts are cultivated on the northern and eastern coasts, providing copra for manufacturing butterine, margarine, lard, edible oil, and laundry soap.",
+        "• Vanilla is also cultivated as an export crop.",
+        "• Other export crops include pimento, ginger, tobacco, sisal, and various fruits.",
+        "• Rice is grown in swampy areas around Black River, Long Bay in Hanover, and Westmoreland parishes primarily for local consumption.",
+        "• Changing dietary preferences towards more meat and packaged foods have increased Jamaica's food import bill, posing a threat to the economy.",
+        "• The government has promoted gardening and farming to boost local food production, with limited success; for example, local potato cultivation has increased, but imports of French fries remain high."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:14.219767",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Animal husbandry",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Pastures constitute a significant portion of land in Jamaica, supporting the country's livestock industry.",
+        "• Many properties in Jamaica specialize in cattle rearing, contributing to the agricultural sector.",
+        "• The total livestock holdings in Jamaica include approximately 400,000 head of cattle, 440,000 goats, and 180,000 pigs.",
+        "• Dairying activities in Jamaica have increased since the establishment of a condensed milk factory at Bog Walk in 1940.",
+        "• Despite the growth in dairy production, the domestic supply of dairy products remains insufficient to meet local demand.",
+        "• As a result of the shortfall, Jamaica imports large quantities of powdered milk, butter, and cheese to supplement local production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:16.276267",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• White River Fishing Village is located in Ocho Rios, St. Ann, Jamaica.",
+        "• The fishing industry in Jamaica experienced growth during the 1900s, primarily driven by an increased focus on inland fishing activities.",
+        "• Several thousand fishermen are engaged in the industry, earning their livelihoods through fishing.",
+        "• The waters off the south coast of Jamaica, including the surrounding cays, are richer in marine resources compared to the northern waters.",
+        "• Some fishermen operate from the Pedro Cays, which are situated approximately 80 miles (130 km) south of Jamaica.",
+        "• Jamaica is able to supply about 50% of its own fish requirements domestically.",
+        "• The country imports major quantities of frozen and salted fish from the United States and Canada to meet the remaining demand.",
+        "• The total fish catch in Jamaica was 5,676 tons in the year 2000, representing a significant decrease from 11,458 tons recorded in 1997.",
+        "• The majority of the catch is marine-based, including species such as fish from the sea, along with freshwater species like carp and barbel.",
+        "• In addition to fish, the catch includes crustaceans and molluscs, contributing to the diversity of marine resources harvested."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:20.475483",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Forestry",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• By the late 1890s, Jamaica's original forest cover had diminished significantly, with only 185,000 hectares (460,000 acres) remaining out of an initial 1,000,000 hectares (2,500,000 acres).",
+        "• In the year 2000, Jamaica's roundwood production was recorded at 881,000 cubic meters (31.1 million cubic feet).",
+        "• Approximately 68% of the timber harvested in 2000 was utilized as fuel wood, while the remaining 32% was designated for industrial purposes.",
+        "• The forests that once extensively covered Jamaica now predominantly exist only in mountainous regions, indicating significant deforestation of lowland areas.",
+        "• These remaining mountain forests supply merely 20% of the island's total timber requirements, highlighting a substantial shortfall in domestic timber production.",
+        "• The majority of the remaining forest areas are under protection to prevent further exploitation and deforestation.",
+        "• Efforts are underway to reforest accessible mountain areas, with a focus on planting species such as pines, mahoe, and mahogany to restore forest cover."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:24.662860",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1998, Jamaica was the third-leading producer of bauxite and alumina globally, producing 12.6 million tons of bauxite, which accounted for 10.4% of world production, and 3.46 million tons of alumina, representing 7.4% of global output.",
+        "• In 2012, Jamaica mined 8,540 million tons of bauxite, and in 2011, the country mined 10,200 million tons of bauxite, indicating fluctuations in production levels over these years.",
+        "• Mining and quarrying contributed approximately 4.1% to Jamaica's gross domestic product (GDP) in 1999.",
+        "• In 1999, bauxite and alumina exports constituted 55.2% of Jamaica’s total exports, making them the second-largest source of foreign exchange earnings after tourism.",
+        "• Jamaica's bauxite reserves exceed 2 billion tonnes, with an expected lifespan of approximately 100 years based on current extraction rates.",
+        "• Bauxite deposits are primarily located in the central parishes of St. Elizabeth, Manchester, Clarendon, St. Catherine, St. Ann, and Trelawny.",
+        "• The country has four alumina processing plants and six bauxite mines.",
+        "• Jamaica possesses deposits of several million tons of gypsum on the southern slopes of the Blue Mountains; in 2000, the country produced 330,441 tons of gypsum.",
+        "• Gypsum produced in Jamaica is utilized locally in the cement industry and in manufacturing building materials.",
+        "• Other minerals found in Jamaica include marble, limestone, silica, and ores of copper, lead, zinc, manganese, and iron, though these are mined in small quantities.",
+        "• Petroleum exploration has been conducted in Jamaica; however, no commercial oil reserves have been discovered to date."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:28.859794",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The manufacturing sector is a vital component of Jamaica's economy, contributing significantly to its economic activities.",
+        "• In 1999, manufacturing accounted for 13.9% of Jamaica's Gross Domestic Product (GDP).",
+        "• Jamaican manufacturing companies produce a diverse range of products, including food processing, oil refining, chemicals, construction materials, plastic goods, paints, pharmaceuticals, cartons, leather goods, cigars, assembled electronics, textiles, and apparel.",
+        "• The garment industry is a major employer, providing jobs to thousands of local residents and representing 12.9% of Jamaica's exports in 1999, with export earnings of US$159 million.",
+        "• Chemicals constituted 3.3% of the country's exports in 1999, generating US$40 million in revenue.",
+        "• A portion of the bauxite mined in Jamaica is processed into alumina before being exported.",
+        "• Jamaica operates an oil refinery located near Kingston that converts crude petroleum imported from Venezuela into gasoline and other petroleum products primarily for domestic consumption.",
+        "• The construction industry is experiencing growth due to the development of new hotels and tourist attractions, supporting Jamaica’s tourism sector.",
+        "• In 1999, the construction and installation sector contributed 10.4% to the GDP.",
+        "• Manufactured goods were imported into Jamaica, constituting 30.3% of total imports, with a total import value of US$877 million in 1999.",
+        "• The Jamaican Logistics Hub initiative has led to the proposal of various economic zones across the country, aimed at assembling goods from other regions for distribution throughout the Americas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:32.343034",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism, alongside remittances, is Jamaica's top source of revenue, significantly contributing to the national economy.",
+        "• The tourism industry accounts for over 50 percent of Jamaica's total foreign exchange earnings.",
+        "• Tourism provides approximately one-fourth (25%) of all employment opportunities in Jamaica.",
+        "• Most tourist activity is concentrated along Jamaica's northern coast, including key communities such as Montego Bay, Ocho Rios, and Port Antonio, as well as in Negril on the western tip of the island.",
+        "• Notable tourist destinations include Ocho Rios, Green Grotto Caves, Y.S. Falls, and Appleton Estate.",
+        "• Many of Jamaica's popular tourist sites are landmarks that also serve as residences for many Jamaicans.",
+        "• The majority of frequented tourist sites are located near water bodies, such as rivers and beaches, where local fishermen sustain livelihoods through seafood harvesting.",
+        "• Ocho Rios, situated in the parish of Saint Ann on Jamaica's north coast, is one of the most famous beach towns; it transitioned from a fishing village to a major tourist attraction hosting millions of visitors annually.",
+        "• Ocho Rios is renowned for its local food and cultural experiences that draw tourists.",
+        "• Dunn's River Falls, located in Ocho Rios, is approximately 600 feet long and flows directly into the sea, making it a major natural attraction.",
+        "• The area surrounding Dunn's River Falls features numerous hotels and restaurants, along with street vendors selling food around the clock.",
+        "• Negril is known as the party capital of Jamaica, contributing significantly to the country's nightlife and entertainment scene.",
+        "• Negril's diverse factors, including vibrant nightlife, contribute to its popularity among tourists."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:36.337674",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1.8",
+      "section_name": "Logistics",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In April 2014, the Governments of Jamaica and China signed preliminary agreements for the first phase of the Jamaican Logistics Hub (JLH).",
+        "• The JLH initiative aims to position Kingston as the fourth global logistics node, joining Rotterdam, Dubai, and Singapore, to serve the Americas.",
+        "• Upon completion, the project is expected to generate numerous employment opportunities for Jamaicans.",
+        "• The development will establish Economic Zones designed to attract multinational companies.",
+        "• The JLH is anticipated to stimulate significant economic growth, helping to reduce Jamaica’s heavy debt-to-GDP ratio.",
+        "• The project’s progress and Jamaica’s adherence to the IMF’s refinancing programme have positively influenced the country's credit rating and outlook.",
+        "• The improvements in credit ratings have been recognized by the three major rating agencies, reflecting enhanced investor confidence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:38.794397",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "1.9",
+      "section_name": "ICT/BPO",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Jamaica has made significant progress in developing its Information and Communications Technology (ICT) infrastructure, indicating ongoing advancements in technological capabilities and connectivity within the country.",
+        "• As the largest English-speaking territory in the Caribbean, Jamaica holds a prominent position in the region's ICT sector, leveraging language advantages for international business.",
+        "• Jamaica is recognized as the leading contact centre destination in the Caribbean, attracting numerous companies to establish operations within the country.",
+        "• The country hosts over 87 ICT/BPO (Information Communications Technology/Business Process Outsourcing) companies, reflecting a substantial industry presence.",
+        "• These ICT/BPO companies collectively employ approximately 44,000 full-time agents, demonstrating the sector’s significant contribution to employment and economic activity in Jamaica."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:41.251836",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2",
+      "section_name": "Taxation/Tax Rates",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Jamaican tax rates are considered extremely favorable when compared to global standards, indicating a relatively low tax burden for residents and entities.",
+        "• The tax brackets in Jamaica are divided into three main bands, each with specific personal allowances and corresponding tax rates.",
+        "• The first tax band, labeled as \"Lower,\" applies to income up to J$1,500,000, which is taxed at a rate of 0%, meaning no tax is levied on income within this threshold.",
+        "• The second tax band, labeled as \"Middle,\" covers income from J$1,500,001 to J$6,000,000, with a fixed personal allowance of J$1,500,000 and a tax rate of 25% on income exceeding the lower threshold.",
+        "• The third tax band, labeled as \"Upper,\" applies to income exceeding J$6,000,000, with no personal allowance (J$0) and a higher tax rate of 30%.",
+        "• Separate tax rates are established for foreign nationals, indicating that non-residents or foreigners may be subject to different taxation rules or rates compared to local residents, although specific rates for foreign nationals are not detailed in this section."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:44.837005",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3",
+      "section_name": "Economic Data",
+      "chapter_name": "Economy of Jamaica",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents key economic indicators for Jamaica spanning the years 1980 to 2024, providing a comprehensive overview of the country's economic performance over this period.",
+        "• The indicators include Gross Domestic Product (GDP) in both Purchasing Power Parity (PPP) and nominal US dollars, GDP per capita, real GDP growth rates, inflation rates, unemployment rates, and government debt as a percentage of GDP.",
+        "• In 1980, Jamaica's GDP was approximately 6.5 billion US dollars (PPP), with a GDP per capita of 3,089 US dollars (PPP), and a nominal GDP of 2.6 billion US dollars.",
+        "• The GDP increased steadily over the years, reaching 33.8 billion US dollars (PPP) in 2024, with a corresponding rise in GDP per capita to 12,283 US dollars and nominal GDP to 20.6 billion US dollars in the same year.",
+        "• The real GDP growth rate experienced fluctuations, with notable declines such as −4.0% in 1980, and periods of positive growth, reaching up to 5.4% in 1993 and 4.8% in 2017.",
+        "• Inflation rates varied significantly; for example, inflation was high at 31.3% in 1984, but below 5% in several years, with inflation rates below 5% highlighted in green, such as 1988 (−4.0%), 1996 (0.2%), 1998 (−1.2%), 2002 (0.7%), 2004 (1.3%), 2005 (0.9%), 2006 (2.9%), 2007 (1.4%), 2011 (1.4%), 2013 (0.2%), 2014 (0.6%), 2015 (0.9%), 2016 (1.5%), 2017 (0.7%), 2019 (1.0%), 2020 (−9.9%), 2021 (4.6%), 2022 (10.3%), 2023 (6.5%), and 2024 (5.8%).",
+        "• Unemployment rates fluctuated, with a high of 77.3% in 1992 and a low of 4.4% in 2017; the unemployment rate was 18.0% in 1980 and decreased to 4.4% by 2017.",
+        "• Government debt as a percentage of GDP showed an increasing trend, starting from an unspecified value in 1980, reaching 82.7% in 1999, peaking at 141.9% in 2009, and then gradually decreasing to 67.9% in 2024.",
+        "• Notable years include 2000, with government debt at 91.8%, and 2009, with the highest debt-to-GDP ratio of 141.9%.",
+        "• The data indicates periods of economic growth, inflation control, and debt management, with some years marked by economic downturns or high inflation, reflecting Jamaica's economic volatility over the decades."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:49:50.468846",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_jamaica.json",
+      "original_index": 12
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SCOPE OF JUDICIAL REVIEW",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          103.39453125,
+          87.978515625
+        ],
+        [
+          353.8125,
+          87.978515625
+        ],
+        [
+          353.8125,
+          105.9609375
+        ],
+        [
+          103.39453125,
+          105.9609375
+        ]
+      ]
+    },
+    {
+      "title": "JUDICIAL REVIEW OF THE NINTH SCHEDULE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          105.0,
+          88.4619140625
+        ],
+        [
+          490.67578125,
+          88.4619140625
+        ],
+        [
+          490.67578125,
+          106.154296875
+        ],
+        [
+          105.0,
+          106.154296875
+        ]
+      ]
+    },
+    {
+      "title": "Table 27.1  Number of Acts and Regulations Included in the Ninth Schedule",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          74.25,
+          257.16796875
+        ],
+        [
+          535.5,
+          257.16796875
+        ],
+        [
+          535.5,
+          274.18359375
+        ],
+        [
+          74.25,
+          274.18359375
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          105.0,
+          469.86328125
+        ],
+        [
+          301.517578125,
+          469.86328125
+        ],
+        [
+          301.517578125,
+          486.87890625
+        ],
+        [
+          105.0,
+          486.87890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

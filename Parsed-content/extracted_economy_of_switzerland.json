@@ -1,0 +1,623 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_switzerland.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.051175",
+    "total_sections_in_source": 21,
+    "extracted_sections_count": 21,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Switzerland is recognized as one of the world's most advanced and is characterized by a highly-developed free market system.",
+        "• Since 2015, Switzerland has consistently ranked first globally on the Global Innovation Index, highlighting its leading position in innovation.",
+        "• In the 2020 Global Competitiveness Report, Switzerland secured the third position, reflecting its strong competitive economic environment.",
+        "• According to United Nations data from 2016, Switzerland is the third richest landlocked country worldwide, following Liechtenstein and Luxembourg.",
+        "• Switzerland, Luxembourg, and Norway are the only three countries globally with a nominal GDP per capita exceeding US$90,000 that are neither island nations nor ministates.",
+        "• Among the member countries of the Organisation for Economic Co-operation and Development (OECD), Switzerland ranks third in terms of GDP per capita.",
+        "• Switzerland maintains a highly efficient and robust social security system, with social expenditure accounting for approximately 24.1% of its Gross Domestic Product (GDP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:35.944523",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "19th century",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Switzerland was established as a federal state in 1848, marking a significant political and economic turning point for the country.",
+        "• Prior to 1848, economic development was uneven, with city-cantons such as Zürich, Geneva, and Basel advancing industrially and commercially, while rural regions remained poor and underdeveloped.",
+        "• The workshop system was prevalent throughout the early modern period, but machine production began in 1801 in St. Gallen, utilizing the third generation of machines imported from Great Britain.",
+        "• Due to Switzerland’s mountainous terrain and lack of significant coal deposits, hydraulic power was commonly used instead of steam engines for industrial purposes.",
+        "• By 1814, hand weaving had largely been supplanted by the power loom, signaling a shift towards mechanized textile production.",
+        "• Tourism and banking emerged as important economic sectors around the same time as early industrialization.",
+        "• Although Switzerland was predominantly rural, its cities underwent an industrial revolution in the late 19th century, with a particular focus on the textile industry.",
+        "• Basel was a key industrial center where textiles, including silk production, dominated the local economy.",
+        "• In 1888, women constituted 44% of wage earners in Switzerland, with nearly half employed in textile mills and household servants representing the second largest employment category for women.",
+        "• The proportion of women participating in the workforce between 1890 and 1910 was higher than that observed in the late 1960s and 1970s.",
+        "• Railways were crucial to Switzerland’s industrialization; the first railway line opened in 1847, connecting Zürich and Baden.",
+        "• By 1860, despite competition among private companies, Switzerland had developed a railway network exceeding 1000 kilometers in length.",
+        "• The railway network, however, lacked coordination due to Switzerland’s decentralized political system, limiting its overall efficiency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:38.798410",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "20th century",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The industrial sector in Switzerland began to grow in the 19th century under a laissez-faire industrial and trade policy, contributing to Switzerland’s emergence as one of the most prosperous nations in Europe, a phenomenon sometimes termed the \"Swiss miracle,\" which developed from the mid-19th to early 20th centuries and was linked to Switzerland’s role during the World Wars.",
+        "• Switzerland’s total energy consumption declined from the mid-1910s to the early 1920s, then started to increase again in the early 1920s, stagnated during the 1930s, fell again in the early 1940s, and experienced rapid growth starting in the mid-1940s.",
+        "• During the 1940s, particularly World War II, Switzerland’s economy benefited from increased exports and deliveries of weapons to Germany, France, the United Kingdom, and other European countries, despite a rapid decrease in energy consumption.",
+        "• Swiss banks cooperated with Nazi Germany as well as extensively with British and French interests during World War II; this cooperation and commercial relations with Axis powers led to sharp international criticism and a brief period of Switzerland’s international isolation after the war.",
+        "• Switzerland’s production facilities remained largely undamaged during World War II, enabling rapid growth in both imports and exports in the post-war period.",
+        "• In the 1950s, Switzerland’s annual GDP growth averaged 5%, and energy consumption nearly doubled; coal lost its status as the primary energy source, replaced by increased imports of fossil fuels such as crude and refined oil, natural gas, and refined gas.",
+        "• The 1960s saw annual GDP growth average 4%, with total energy consumption nearly doubling again; by the end of the decade, oil accounted for over three-quarters of Switzerland’s energy supply.",
+        "• The 1970s experienced a gradual decline in GDP growth from a peak of 6.5% in 1970, followed by a contraction of 7.5% in 1975 and 1976; Switzerland became increasingly dependent on oil imports from the OPEC cartel.",
+        "• The 1973 international oil crisis caused Switzerland’s energy consumption to decrease between 1973 and 1978; in 1974, three nationwide car-free Sundays were implemented to conserve oil during the supply shock.",
+        "• From 1977 onwards, GDP growth resumed, although the 1979 energy crisis caused a short-term decrease in energy consumption.",
+        "• In 1970, industry employed about 46% of the Swiss labor force, but during the 1970s economic recession, the services sector grew to dominate the national economy.",
+        "• By 1970, foreign nationals constituted 17.2% of the population and about one quarter of the workforce; however, job losses during the 1970s recession reduced this number.",
+        "• In the 1980s, Switzerland’s economy contracted by 1.3% in 1982 but subsequently grew substantially for the remainder of the decade, with annual GDP growth rates between approximately 3% and 4%, except in 1986 and 1987 when growth slowed to 1.9% and 1.6%, respectively.",
+        "• The 1990s were marked by slow economic growth, with Switzerland experiencing the weakest growth in Western Europe; a three-year recession from 1991 to 1993 caused a 2% contraction in the economy.",
+        "• The 1991–1993 recession also negatively impacted Switzerland’s energy consumption and export growth rates, resulting in an average annual GDP growth of only 0.6% during the decade.",
+        "• Unemployment rates, which had been below 1% before 1990, rose to an all-time peak of 5.3% in 1997 due to the recession.",
+        "• In the 1990s, real wages decreased several times because nominal wages failed to keep pace with inflation.",
+        "• Beginning in 1997, a global resurgence in currency movement stimulated the Swiss economy, which gradually gained momentum and peaked in 2000 with a 3.7% growth in real GDP.",
+        "• By 2008, Switzerland ranked second among European countries with populations over one million in terms of nominal and purchasing power parity GDP per capita, behind Norway."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:47.809903",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "21st century",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the early 2000s recession, Switzerland was significantly affected due to its close economic ties with Western Europe and the United States, experiencing a slowdown alongside these economies.",
+        "• Following the 9/11 terrorist attacks, global stock market crashes occurred, accompanied by announcements of false enterprise statistics and exaggerated managers' wages, impacting Switzerland's economic environment.",
+        "• Switzerland's GDP growth rate declined sharply during this period: 1.2% in 2001, 0.4% in 2002, and a contraction of -0.2% in 2003, which adversely affected the labor market.",
+        "• The unemployment rate in Switzerland rose from a low of 1.6% in September 2000 to a peak of 4.3% in January 2004, although this remained substantially lower than the European Union's unemployment rate of 9.2% at the end of 2004.",
+        "• On 10 November 2002, the economics magazine _Cash_ proposed five key measures to revive the Swiss economy:",
+        "• These recommended measures were implemented successfully, aligning with the government's pursuit of the \"Magical Hexagon\" economic goals: full employment, social equality, economic growth, environmental quality, positive trade balance, and price stability.",
+        "• The Swiss economy began to rebound from mid-2003, with GDP growth averaging 3% over the following years: 2.5% in 2004, 2.6% in 2005, and 3.6% in both 2006 and 2007.",
+        "• In 2008, GDP growth was modest in the first half of the year but declined in the last two quarters, resulting in a real growth rate of 1.9% due to the base effect.",
+        "• The economy contracted by 1.9% in 2009 but began recovering in the third quarter, surpassing its previous peak by the second quarter of 2010, with an overall growth rate of 2.6% for 2010.",
+        "• The stock market collapse between 2007 and 2009 severely impacted investment income earned abroad, causing a significant reduction in Switzerland's current account surplus: from 15.1% of GDP in 2006 to 9.1% in 2007, and further down to 1.8% in 2008.",
+        "• The current account surplus recovered to 11.9% in 2009 and 14.6% in 2010, reflecting economic stabilization.",
+        "• Unemployment peaked at 4.4% in December 2009 but decreased to 2.4% by August 2018, indicating labor market improvement.",
+        "• The Swiss National Bank reported a record loss of CHF 132 billion (approximately $142 billion) in 2022, primarily due to its holdings of the Euro currency.",
+        "• The Euro to Swiss Franc exchange rate fluctuated over the years, influencing economic conditions and SNB policies.",
+        "• The gross domestic product (GDP) of Switzerland at market prices showed consistent growth from 1980 to 2023, with values and corresponding US dollar exchange rates as follows:",
+        "• 1980: CHF 184 billion; 1.67 Francs/USD",
+        "• 1985: CHF 244 billion; 2.43 Francs/USD",
+        "• 1990: CHF 331 billion; 1.38 Francs/USD",
+        "• 1995: CHF 374 billion; 1.18 Francs/USD",
+        "• 2000: CHF 422 billion; 1.68 Francs/USD",
+        "• 2005: CHF 464 billion; 1.24 Francs/USD",
+        "• 2006: CHF 491 billion; 1.25 Francs/USD",
+        "• 2007: CHF 521 billion; 1.20 Francs/USD",
+        "• 2008: CHF 547 billion; 1.08 Francs/USD",
+        "• 2009: CHF 535 billion; 1.09 Francs/USD",
+        "• 2010: CHF 546 billion; 1.04 Francs/USD",
+        "• 2011: CHF 659 billion; 0.89 Francs/USD",
+        "• 2012: CHF 632 billion; 0.94 Francs/USD",
+        "• 2013: CHF 635 billion; 0.93 Francs/USD",
+        "• 2014: CHF 644 billion; 0.92 Francs/USD",
+        "• 2015: CHF 646 billion; 0.96 Francs/USD",
+        "• 2016: CHF 659 billion; 0.98 Francs/USD",
+        "• 2017: CHF 668 billion; 1.01 Francs/USD",
+        "• 2018: CHF 694 billion; 1.00 Francs/USD",
+        "• 2019: CHF 717 billion; 0.99 Francs/USD",
+        "• 2020: CHF 750 billion; 0.94 Francs/USD",
+        "• 2021: CHF 780 billion; 0.91 Francs/USD",
+        "• 2022: CHF 885 billion; 0.95 Francs/USD",
+        "• 2023: CHF 885 billion; 0.90 Francs/USD"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:07:00.297585",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 39
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1",
+      "section_name": "Data",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Switzerland's main economic indicators from 1980 to 2024, including GDP (in billion US$ PPP and nominal), GDP per capita (in US$ PPP and nominal), real GDP growth rate, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, Switzerland's GDP was 119.3 billion US$ PPP with a GDP per capita of 18,921.0 US$ PPP; nominal GDP was 122.5 billion US$ with a nominal GDP per capita of 19,426.6 US$. The real GDP growth rate was 5.1%, inflation was 4.0%, unemployment was 0.2%, and government debt data was not available.",
+        "• From 1981 to 1985, GDP increased steadily from 126.9 billion US$ PPP to 158.8 billion US$ PPP, with GDP per capita rising from 20,028.6 to 24,591.4 US$ PPP. Inflation fluctuated between 2.9% and 6.5%, unemployment remained low (0.2% to 1.1%), and government debt data remained unavailable.",
+        "• Between 1986 and 1989, nominal GDP rose significantly from 159.1 billion US$ to 208.1 billion US$, while GDP per capita nominal increased from 24,529.6 to 31,440.4 US$. Real GDP growth ranged from 1.5% to 4.4%, inflation stayed below 5%, and unemployment remained under 1.4%.",
+        "• In 1990, GDP reached 214.3 billion US$ PPP with a GDP per capita of 32,105.6 US$ PPP, nominal GDP was 265.9 billion US$, and nominal GDP per capita was 39,842.8 US$. Real GDP growth was 3.7%, inflation rose to 5.4%, unemployment was 0.5%, and government debt was 33.3% of GDP.",
+        "• From 1991 to 1995, Switzerland experienced negative or near-zero real GDP growth (-0.9% to 0.6%), inflation rates varied between 0.9% and 5.9%, unemployment increased from 1.1% to 4.2%, and government debt rose from 35.1% to 50.0% of GDP.",
+        "• During 1996–1999, GDP continued to grow from 249.0 billion US$ PPP to 277.8 billion US$ PPP, with GDP per capita increasing from 35,259.4 to 38,999.4 US$ PPP. Inflation rates dropped to as low as 0.0%, unemployment fluctuated between 3.9% and 5.2%, and government debt peaked at 56.0% in 1998 before declining to 52.7% in 1999.",
+        "• In 2000, GDP was 295.7 billion US$ PPP, GDP per capita was 41,280.3 US$ PPP, nominal GDP was 279.2 billion US$, and nominal GDP per capita was 38,970.2 US$. Real GDP growth was strong at 4.1%, inflation was 1.6%, unemployment was 1.8%, and government debt was 52.2% of GDP.",
+        "• From 2001 to 2005, GDP increased from 307.3 to 354.9 billion US$ PPP, GDP per capita rose from 42,698.6 to 47,868.9 US$ PPP, inflation remained low (0.6% to 1.2%), unemployment hovered between 1.7% and 3.8%, and government debt decreased from 51.1% to 54.9%.",
+        "• Between 2006 and 2009, nominal GDP grew from 441.7 billion US$ to 553.7 billion US$, GDP per capita nominal increased from 59,212.3 to 71,886.6 US$, while real GDP growth fluctuated from 4.2% in 2006 to -2.3% in 2009. Inflation ranged from -0.5% to 2.4%, unemployment rose from 3.3% to 3.7%, and government debt declined from 48.5% to 43.1%.",
+        "• In 2010, Switzerland's GDP was 437.2 billion US$ PPP with a GDP per capita of 56,157.5 US$ PPP; nominal GDP was 598.2 billion US$ and nominal GDP per capita was 76,830.1 US$. Real GDP growth was 3.2%, inflation was 0.7%, unemployment was 3.5%, and government debt was 41.5% of GDP.",
+        "• From 2011 to 2015, GDP increased from 454.8 billion US$ PPP to 540.5 billion US$ PPP, GDP per capita rose from 57,785.8 to 65,779.4 US$ PPP, inflation rates were low or negative (-1.1% to 0.2%), unemployment rates ranged from 2.8% to 3.2%, and government debt remained stable around 42%.",
+        "• During 2016–2019, GDP grew from 558.5 billion US$ PPP to 632.7 billion US$ PPP, GDP per capita increased from 67,065.6 to 74,042.1 US$ PPP, inflation rates were low (0.4% to 0.9%), unemployment decreased from 3.3% to 2.3%, and government debt declined from 40.9% to 39.6%.",
+        "• In 2020, Switzerland's GDP slightly decreased to 630.1 billion US$ PPP with a GDP per capita of 73,212.3 US$ PPP; nominal GDP was 739.0 billion US$ and nominal GDP per capita was 86,138.9 US$. Real GDP contracted by 2.3%, inflation was negative at -0.7%, unemployment rose to 3.2%, and government debt increased to 43.3%.",
+        "• From 2021 to 2024, GDP showed strong recovery and growth, reaching 851.1 billion US$ PPP in 2024 with GDP per capita at 95,836.6 US$ PPP. Nominal GDP rose to 942.3 billion US$ and nominal GDP per capita to 106,097.6 US$. Real GDP growth ranged from 0.7% to 5.6%, inflation rates varied between 0.6% and 2.8%, unemployment remained low (2.0% to 3.0%), and government debt steadily decreased from 41.0% in 2021 to 31.9% in 2024.",
+        "• Inflation rates below 5% are highlighted in green throughout the table, indicating Switzerland's generally low and stable inflation environment over the period.",
+        "• Unemployment rates remained exceptionally low throughout the entire period, rarely exceeding 5.2%, with some years reporting rates as low as 0.2%.",
+        "• Government debt as a percentage of GDP was not available before 1990, after which it peaked at 56.0% in 1998 and has generally declined to 31.9% by 2024, reflecting improved fiscal management.",
+        "• Real GDP growth experienced fluctuations including periods of negative growth in early 1990s, 2009, and 2020, corresponding with global economic downturns, but generally maintained positive growth in most years.",
+        "• The data reflects Switzerland's economic resilience, characterized by steady GDP growth, low inflation, low unemployment, and manageable government debt levels over more than four decades."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:07:03.576374",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic sectors",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Swiss economy adheres to the typical developed country model regarding its economic sectors, with distinct distributions of labor across primary, secondary, and tertiary sectors.",
+        "• In 2006, only 1.3% of the Swiss working population was employed in the primary or agricultural sector, indicating a very small agricultural workforce.",
+        "• By 2012, 27.7% of the Swiss workforce was engaged in the secondary or manufacturing sector, representing a significant minority of workers involved in industrial production.",
+        "• The majority of the Swiss working population, accounting for 71.0% in 2012, was employed in the tertiary or services sector, highlighting the dominance of service-oriented economic activities.",
+        "• Despite Switzerland aligning most of its economic practices with European Union policies, certain trade protectionist measures persist, particularly aimed at safeguarding the small agricultural sector.",
+        "• In 2022, the services sector had the highest number of registered companies in Switzerland, totaling 230,494 companies, underscoring its central role in the Swiss economy.",
+        "• The finance, insurance, and real estate sector was the second largest in terms of registered companies in 2022, with 107,547 companies operating within this domain.",
+        "• Retail trade ranked third in the number of registered companies in Switzerland in 2022, with 45,935 companies contributing to this sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:35.829436",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Watches",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Switzerland is a leading exporter of high-end watches and clocks, producing most of the world's high-end watches.",
+        "• In 2011, Swiss watch exports reached nearly 19.3 billion CHF, representing a 19.2% increase compared to the previous year.",
+        "• The majority of Swiss watch manufacturing is concentrated around the Jura mountains, specifically in the cantons of Geneva, Vaud, Neuchâtel, Bern, and Jura.",
+        "• Prominent Swiss watchmaking firms include Rolex, Patek Philippe, Swatch, and Richemont.",
+        "• The distribution of Swiss watch exports in 2011 was primarily to Asia (55%), followed by Europe (29%), the Americas (14%), and both Africa and Oceania at 1% each.",
+        "• In 2011, Switzerland led global watch exports by value, exporting over US$20 billion worth of all types of watches, with Hong Kong in second place at under US$10 billion.",
+        "• Despite Switzerland's lead in export value, China exported the highest number of watches by volume in 2011.",
+        "• In July 2024, the Swatch Group experienced a significant financial downturn, losing 70% of its profit."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:42.273610",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Industrial sector",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Switzerland possesses a comprehensive industrial sector characterized by globally competitive companies operating across diverse industrial fields.",
+        "• The food processing industry is notably significant, with Nestlé being a prominent Swiss multinational corporation in this sector.",
+        "• The machinery and robotics manufacturing segment includes leading companies such as ABB, Bobst SA, and Stadler Rail, which contribute to Switzerland’s industrial prominence.",
+        "• The chemical industry in Switzerland focuses on products for industrial and construction applications, with Sika AG recognized as a key player in this domain.",
+        "• Switzerland’s industrial sector also encompasses military equipment manufacturing, with Ruag being a major company involved in this specialized field.",
+        "• The Swiss pharmaceutical industry is among the most competitive globally, featuring major corporations like Novartis and Roche that play critical roles in the international pharmaceutical market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:39.512065",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Switzerland is highly protective of its agricultural industry, employing high tariffs and extensive domestic subsidizations to encourage domestic production, which currently accounts for about 60% of the food consumed within the country.",
+        "• Cheeses and dairy products are emblematic of Swiss agriculture, with Emmentaler cheese being a notable example; while some Swiss types of Emmentaler are AOP (Appellation d'Origine Protégée) restricted, generic Emmentaler cheese is produced globally.",
+        "• Wine is another significant agricultural product in Switzerland, alongside dairy and cheese.",
+        "• According to the Organisation for Economic Co-operation and Development (OECD), Switzerland subsidizes more than 70% of its agricultural sector, a figure that is notably higher than the 35% subsidy level found in the European Union.",
+        "• The 2007 Agricultural Program increased agricultural subsidies by CHF 63 million, bringing the total subsidies to CHF 14.092 billion.",
+        "• Swiss agricultural protectionism promotes domestic production but does not aim to reduce prices or production costs; increased domestic production is not necessarily consumed internally and may be exported, benefiting producers financially.",
+        "• Between 90% and 100% of potatoes, vegetables, pork, veal, cattle, and most milk products consumed in Switzerland are produced domestically.",
+        "• Overall, Swiss agriculture meets approximately 65% of the domestic food demand.",
+        "• In 2016, the Swiss government allocated about 5.5% of its total budget, amounting to over CHF 3.5 billion, to support food production.",
+        "• The first major reform in Swiss agricultural policies occurred in 1993, with significant changes implemented by 1998 linking farm subsidy eligibility to strict adherence to good environmental practices.",
+        "• Farmers must obtain certificates of environmental management systems (EMS) before applying for subsidies, demonstrating compliance with criteria including balanced fertilizer use, dedicating at least 7% of farmland as ecological compensation areas, regular crop rotation, appropriate animal and soil protection measures, and limited, targeted pesticide use.",
+        "• Approximately 1,500 farms exit the Swiss agricultural sector each year.",
+        "• Between 2003 and 2004, the number of organic farms in Switzerland increased by 3.3%, while organic food sales rose by 7%, reaching $979 million.",
+        "• Swiss consumers tend to place less importance on the higher prices of organic food compared to conventional locally produced food, indicating a preference or willingness to pay for organic products despite cost differences."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:49.804830",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the CIA World Factbook, Switzerland's exports were valued at $308.3 billion in 2011 and $258.5 billion in 2010, while imports were estimated at $299.6 billion in 2011 and $246.2 billion in 2010, ranking Switzerland as the 20th largest exporter and the 18th largest importer globally.",
+        "• The United Nations Commodity Trade Statistics Database reports lower figures for Switzerland's trade, with exports at $223.5 billion in 2011 and $185.8 billion in 2010, and imports at $197.0 billion in 2011 and $166.9 billion in 2010.",
+        "• Germany is Switzerland's largest trading partner, accounting for 17% of Swiss exports and 20% of imports in 2017.",
+        "• The United States was the second largest export destination for Switzerland in 2017, comprising 10% of total exports, and the second largest source of imports at 7.8%.",
+        "• China ranked third as an export destination with 9.2% of Swiss exports in 2017 but contributed only 4.8% to Switzerland's imports.",
+        "• Other significant export destinations for Switzerland in 2017 included India (7.3%), France (5.4%), Hong Kong (5.4%), the United Kingdom (4.5%), and Italy (4.4%).",
+        "• Major sources of imports into Switzerland in 2017, besides Germany, the USA, and China, included Italy (7.6%), the United Kingdom (7.1%), France (6.0%), the United Arab Emirates (3.7%), and Hong Kong (3.4%).",
+        "• Switzerland's export profile is dominated by precision and high-technology finished products due to its developed economy and skilled labor force.",
+        "• Key Swiss export categories by SITC include medicaments (13%), heterocyclic compounds (2.2%), watches (6.4%), orthopaedic appliances (2.1%), and precious jewellery (2.5%).",
+        "• In 2017, gold bullion or coins constituted about 24% of Swiss exports, highlighting the importance of precious metals in the trade portfolio.",
+        "• Agricultural products traditionally associated with Switzerland, such as cheese (0.23%), wine (0.028%), and chocolate (0.35%), represent only a minor fraction of total exports.",
+        "• Switzerland is a significant exporter of arms and ammunition, ranking third globally for small calibers, which accounted for 0.33% of total exports in 2012.",
+        "• The main imports of Switzerland include gold (21%), medicaments (7.4%), cars (4.0%), precious jewellery (3.7%), and other unclassified transactions (18%).",
+        "• Despite a historical tradition in automobile manufacturing, Switzerland currently lacks large-scale assembly line automobile production.",
+        "• In 2017, the top import product into Switzerland was gold (SITC 9710), valued at $52.96 billion, representing 21.0% of total imports.",
+        "• Unclassified transactions (SITC 9310) were the second largest import category in 2017, valued at $46.33 billion or 18.0% of imports.",
+        "• Medicaments (SITC 5417) were the third largest import category in 2017, with a value of $18.69 billion, accounting for 7.4% of imports.",
+        "• Cars (SITC 7810) ranked fourth among imports in 2017, valued at $9.98 billion or 4.0% of total imports.",
+        "• Precious jewellery (SITC 8973) was the fifth largest import category in 2017, with $9.19 billion in value, representing 3.7% of imports.",
+        "• Other notable imports in 2017 included diamonds ($3.13 billion, 1.2%), artwork ($3.05 billion, 1.2%), heterocyclic compounds ($2.59 billion, 1.0%), watches ($2.47 billion, 1.0%), and TV and radio transmitters ($2.38 billion, 1.0%).",
+        "• The top export product from Switzerland in 2017 was gold (SITC 9710), valued at $69.04 billion, constituting 24.0% of total exports.",
+        "• Unclassified transactions (SITC 9310) were the second largest export category in 2017, with $54.97 billion or 19.0% of exports.",
+        "• Medicaments (SITC 5417) were the third largest export category in 2017, valued at $36.64 billion, representing 13.0% of exports.",
+        "• Watches (SITC 8851) ranked fourth among exports in 2017, valued at $18.63 billion or 6.4% of total exports.",
+        "• Precious jewellery (SITC 8973) accounted for $7.27 billion or 2.5% of Swiss exports in 2017.",
+        "• Other significant export categories in 2017 included heterocyclic compounds ($6.29 billion, 2.2%), orthopedic devices ($5.99 billion, 2.1%), machinery for specialized industries ($4.24 billion, 1.5%), circuit breakers and panels ($3.45 billion, 1.2%), and medical instruments ($2.74 billion, 1.0%).",
+        "• Additional notable exports in 2017 included coffee ($2.34 billion, 0.8%), artwork ($2.02 billion, 0.7%), valves ($1.82 billion, 0.6%), diamonds ($1.78 billion, 0.6%), scented mixtures ($1.68 billion, 0.6%), and perfumery and cosmetics ($1.67 billion, 0.6%).",
+        "• The top 25 trading partners importing into Switzerland in 2017 were led by Germany ($54.61 billion, 20.0%), followed by the USA ($21.30 billion, 7.8%), Italy ($20.70 billion, 7.6%), the United Kingdom ($19.26 billion, 7.1%), and France ($16.45 billion, 6.0%).",
+        "• Other significant import partners in 2017 included China ($13.22 billion, 4.8%), the United Arab Emirates ($9.98 billion, 3.7%), Hong Kong ($9.34 billion, 3.4%), Ireland ($7.73 billion, 2.8%), and Austria ($7.70 billion, 2.8%).",
+        "• Additional countries in the top 25 import partners for Switzerland in 2017 included Belgium-Luxembourg, Japan, Spain, Netherlands, Thailand, Uzbekistan, Zambia, Czech Republic, Peru, Poland, Russia, South Africa, Singapore, Canada, and Ghana, each contributing between 0.7% and 2.1% of imports.",
+        "• The top 25 trading partners exporting from Switzerland in 2017 were headed by Germany ($48.15 billion, 17.0%), the USA ($28.37 billion, 10.0%), China ($26.15 billion, 9.2%), India ($20.89 billion, 7.3%), and Hong Kong ($15.52 billion, 5.4%).",
+        "• Other major export destinations in 2017 included France ($15.27 billion, 5.4%), the United Kingdom ($12.91 billion, 4.5%), Italy ($12.56 billion, 4.4%), Austria ($8.81 billion, 3.1%), and Japan ($7.58 billion, 2.7%).",
+        "• Additional countries among the top 25 export destinations in 2017 were Singapore, Turkey, Belgium-Luxembourg, Israel, Spain, Netherlands, United Arab Emirates, Thailand, Canada, South Korea, Malaysia, Russia, Brazil, other Asian countries, and Saudi Arabia, each accounting for between 0.7% and 2.6% of Swiss exports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:07:08.807218",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 33
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Switzerland possesses a highly developed tourism infrastructure, particularly concentrated in its mountainous regions and urban centers, which supports a robust market for tourism-related equipment and services.",
+        "• Distribution of hotels by region in Switzerland includes 14% in Grisons, 12% each in the Valais and Eastern Switzerland, 11% in Central Switzerland, and 9% in the Bernese Oberland.",
+        "• The \"tourism intensity,\" defined as the ratio of lodging nights to the resident population and serving as an indicator of tourism's relative economic importance locally, is highest in Grisons at 8.3 and in the Bernese Oberland at 5.3, compared to the national Swiss average of 1.3.",
+        "• Foreign visitors account for 56.4% of lodging nights in Switzerland, with the nationality breakdown as follows: 16.5% from Germany, 6.3% from the United Kingdom, 4.8% from the United States, 3.6% from France, and 3.0% from Italy.",
+        "• The total financial volume related to tourism in Switzerland, including transportation, was estimated at CHF 35.5 billion as of 2010; this figure includes revenues from fuel taxes and sales of motorway vignettes.",
+        "• The total gross value added (GVA) by tourism in Switzerland amounts to CHF 14.9 billion.",
+        "• Tourism generates employment equivalent to 144,838 full-time jobs across Switzerland.",
+        "• The financial volume generated specifically by tourist lodging is CHF 5.19 billion, with an additional CHF 5.19 billion generated from dining services at lodging establishments.",
+        "• The tourism sector's total gross value added of CHF 14.9 billion represents approximately 2.9% of Switzerland’s nominal GDP of CHF 550.57 billion in 2010."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:49.210895",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Banking and finance",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2003, Switzerland's financial sector accounted for an estimated 11.6% of the national GDP and employed approximately 196,000 people, with 136,000 working specifically in the banking sector; this workforce represents about 5.6% of the total Swiss labor force.",
+        "• Switzerland’s long-standing neutrality and national sovereignty, recognized internationally, have created a stable environment conducive to the development and prosperity of its banking sector.",
+        "• Switzerland maintained neutrality during both World Wars, is not a member of the European Union, and only joined the United Nations in 2002, underscoring its independent international stance.",
+        "• Approximately 28% of all offshore funds—funds held outside their country of origin—are estimated to be held in Switzerland, highlighting its role as a major global financial center.",
+        "• In 2009, Swiss banks managed assets totaling 5.4 trillion Swiss Francs, reflecting the significant scale of the country’s banking industry.",
+        "• The majority of Switzerland’s financial sector activities are concentrated in the cities of Zürich and Geneva.",
+        "• Zürich specializes in banking and insurance, hosting major institutions such as UBS, Credit Suisse, Julius Baer (banking), and Swiss Re and Zurich Insurance (insurance).",
+        "• Geneva focuses on wealth management and commodity-related activities, with prominent firms including Pictet Group, Lombard Odier, Union Bancaire Privée (wealth management), and Cargill, Mediterranean Shipping Company, Louis Dreyfus Company, Mercuria Energy Group, Trafigura, and Banque de Commerce et de Placements (commodity trading, trade finance, and shipping).",
+        "• The Bank for International Settlements (BIS), an organization promoting cooperation among the world’s central banks, is headquartered in Basel, Switzerland.",
+        "• Founded in 1930, the BIS chose Basel due to Switzerland’s neutrality, which was crucial for an institution established by countries formerly on opposing sides of World War I.",
+        "• In May 2006, foreign banks operating in Switzerland managed assets worth 870 billion Swiss Francs, which increased to an estimated 960 billion Swiss Francs by 2014.",
+        "• In 2023, Switzerland’s banking system suffered a loss of credibility following the collapse of Credit Suisse, which was subsequently acquired by Swiss competitor UBS, and due to the handling of the crisis by the Swiss National Bank."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:57.024845",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.6.1",
+      "section_name": "Connection to illegal activities",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Swiss banks have historically functioned as secure repositories for the wealth of various illicit actors, including dictators, despots, mobsters, arms dealers, corrupt officials, and individuals engaged in tax evasion.",
+        "• These financial institutions have been perceived as safe havens due to Switzerland's stringent banking secrecy laws and stable economic environment, attracting funds derived from illegal activities.",
+        "• The association of Swiss banks with illicit wealth highlights their role in facilitating the concealment and preservation of assets obtained through corruption, organized crime, and other unlawful means."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:51.695422",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.7",
+      "section_name": "Commodities trading",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Switzerland is a major global hub for commodities trading, contributing 4% to the Swiss GDP as of 2022.",
+        "• The commodities traded in Switzerland encompass a broad range of products, including agriculture, minerals, metals, and oil/energy, either physically or financially.",
+        "• In 2022, approximately 40% of all global oil shipments were traded through Switzerland, alongside 60% of metals and grains.",
+        "• The commodities trading sector in Switzerland employs around 10,000 people directly, with an additional 35,000 employed indirectly, primarily concentrated around Lake Geneva, Zug, and Lugano.",
+        "• Between 2013 and 2019, corporate loans and revolving credit facilities extended to the five main Swiss energy trading houses—Glencore, Mercuria, Gunvor, Vitol, and Trafigura—exceeded $360 billion.",
+        "• Switzerland serves as a major hub for gold trading, hosting some of the world’s largest gold refiners, including Valcambi, PAMP/MKS, Argor-Heraeus, and Metalor.",
+        "• The agricultural commodities trading sector in Switzerland is dominated by major companies such as ADM, Bunge, Cargill, Cofco, and Louis Dreyfus.",
+        "• Key supporting firms in the agricultural commodities sector include shipping company MSC, logistics provider Kühne + Nagel, Danzas, and quality control firm SGS S.A.",
+        "• The prominence of commodities trading in Switzerland has allowed certain organizations within the sector to engage in corruption and exploitation, operating with minimal transparency or regulatory oversight."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:55.886359",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "3",
+      "section_name": "Workforce",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Swiss economy is characterised by a skilled and generally 'peaceful' workforce, with one quarter of the country's full-time workers being unionised.",
+        "• Labour and management relations in Switzerland are amicable and marked by a willingness to settle disputes through negotiation rather than labour action.",
+        "• These labour relations occur between trade unions and branch associations, which are often grouped within Unions of Employers such as the Fédération patronale vaudoise and the Fédération des Entreprises Romandes Genève.",
+        "• Currently, about 600 collective bargaining agreements exist in Switzerland, and these agreements are regularly renewed without major difficulties.",
+        "• Switzerland does not have a country-wide minimum wage across all sectors; however, some collective bargaining agreements include minimum wage requirements for specific sectors or employers.",
+        "• A ballot initiative held in May 2014 proposed a Swiss minimum wage of 22 Swiss francs per hour, equivalent to a monthly income of about 4,000 Swiss francs, but it failed to pass, receiving only 23.7% support.",
+        "• On 27 September 2020, voters in the Canton of Geneva approved a minimum wage of 23 Swiss francs per hour, approximately 4,000 Swiss francs per month.",
+        "• The peak number of bankruptcies in Switzerland occurred in 2003, leading to a pessimistic economic mood due to massive layoffs, dismissals from the global economic slowdown, major management scandals, and changing foreign investment attitudes.",
+        "• These factors strained the traditional Swiss labour peace, prompting Swiss trade unions to encourage strikes against companies such as Swiss International Air Lines, Coca-Cola, and Orange.",
+        "• Despite these strikes, the total number of days lost to strikes in Switzerland remains among the lowest in the OECD.",
+        "• A study has estimated that Switzerland will face a shortfall of hundreds of thousands of workers by 2030.",
+        "• Statistical data indicate that one in four Swiss workers holds a second job."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:58.798196",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4",
+      "section_name": "Income and wealth distribution",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, the mean household income in Switzerland was CHF 120,624, approximately USD 134,000 nominal and USD 101,000 in purchasing power parity (PPP) terms.",
+        "• After deductions for social security, taxes, and mandatory health insurance, the mean household income was CHF 85,560, equivalent to about USD 95,000 nominal and USD 72,000 PPP.",
+        "• The OECD reported that in 2011, Swiss household gross adjusted disposable income per capita was USD 32,594 PPP.",
+        "• By 2016, Switzerland had the highest average wealth per adult globally, at USD 561,900.",
+        "• The wealthiest 1% of the Swiss population owned 35% of the total national wealth as of 2015.",
+        "• Switzerland’s total \"net wealth\" was estimated at USD 5.4 trillion, measured by the net worth of its richest citizens.",
+        "• Among Switzerland’s wealthy, there were 740 super-rich individuals each possessing assets of at least USD 100 million.",
+        "• Switzerland had 580,000 millionaires, which is 60,000 more than Germany, despite Germany’s population being approximately ten times larger.",
+        "• The appreciation of the Swiss franc against the US dollar during the 2000s, particularly during the 2008 financial crisis, caused capital held in Swiss francs to more than double in value when converted to dollars, without a corresponding increase in domestic purchasing power.",
+        "• The high average wealth in Switzerland is skewed by a small number of extremely wealthy individuals; the median wealth per adult was much lower, at USD 100,900 nominal (USD 70,000 PPP as of 2011), which is five times less than the average wealth.",
+        "• The Swiss Federal Statistical Office characterizes the majority of the population as “neither rich nor poor,” noting that the average Swiss income is sufficient only to cover the high cost of living in Switzerland.",
+        "• According to some Swiss statistics, 28% of Swiss families have no savings left at the end of the month.",
+        "• As of 2022, one in seven Swiss pensioners was living in poverty, with approximately 46,000 pensioners already below the poverty line and an additional 295,000 at risk of falling into poverty.",
+        "• The official poverty line for pensioners in Switzerland is set at CHF 2,279 (approximately USD 2,300) per month, which covers rent, health insurance, clothing, and food expenses.",
+        "• Approximately 8.2% of the Swiss population lives below the national poverty line, defined as earning less than CHF 3,990 per month for a household consisting of two adults and two children.",
+        "• An additional 15% of the Swiss population is considered at risk of poverty."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:07:07.978810",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Terrorism",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Switzerland, through the United States-Swiss Joint Economic Commission (JEC), has enacted stringent legislation aimed at combating terrorism financing and preventing terrorist acts.",
+        "• The country has implemented multiple anti-money laundering procedures as part of its efforts to curb terrorism-related financial activities.",
+        "• Swiss authorities have actively seized accounts linked to al-Qaeda, demonstrating a commitment to disrupting terrorist funding networks."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:58.657999",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "European Union",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Apart from agriculture, economic and trade barriers between the European Union (EU) and Switzerland are minimal, facilitating extensive bilateral cooperation.",
+        "• Following the Swiss voters' rejection of the European Economic Area Agreement in 1992, the Swiss Government prioritized negotiating bilateral economic agreements with the EU to maintain close economic ties.",
+        "• After four years of negotiations, the Bilaterals agreement was established, covering seven key sectors: research, public procurement, technical barriers to trade, agriculture, civil aviation, land transport, and the free movement of persons.",
+        "• The Swiss Parliament officially endorsed the Bilaterals agreement in 1999, and it was subsequently approved by a general referendum in May 2000.",
+        "• The Bilaterals agreement was ratified by the European Parliament and the legislatures of EU member states, entering into force on June 1, 2002.",
+        "• Switzerland initiated a second round of negotiations known as Bilaterals II, which was approved by the Swiss electorate on June 5, 2005, further strengthening Switzerland’s economic relationship with the EU.",
+        "• Switzerland has aligned most of its policies and practices with EU policies and norms to enhance its international competitiveness, reflecting a broad commitment to integration despite not being an EU member.",
+        "• While most EU policies adopted by Switzerland are non-contentious, issues related to police and judicial cooperation in international law enforcement and the taxation of savings remain controversial due to concerns over the impact on Swiss bank secrecy.",
+        "• In June 2003, Swiss and EU finance ministers agreed that Swiss banks would impose a withholding tax on savings income of EU citizens, with the tax rate gradually increasing to 35% by 2011.",
+        "• Under this agreement, 75% of the withholding tax revenue collected by Swiss banks would be transferred to the EU.",
+        "• Recent estimates place EU capital inflows into Switzerland at approximately $8.3 billion, highlighting the significant financial integration between Switzerland and the EU."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:07:05.839170",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "5",
+      "section_name": "Institutional membership",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Switzerland holds membership in several prominent international economic organizations, reflecting its active participation in global economic governance and cooperation.",
+        "• The country is a member of the United Nations (UN), an international organization founded in 1945 to promote peace, security, and cooperation among member states.",
+        "• Switzerland is part of the World Trade Organization (WTO), which deals with the global rules of trade between nations to ensure trade flows as smoothly, predictably, and freely as possible.",
+        "• The nation is a member of the International Monetary Fund (IMF), an organization aimed at promoting international monetary cooperation, securing financial stability, facilitating international trade, promoting high employment and sustainable economic growth, and reducing poverty worldwide.",
+        "• Switzerland also participates in the World Bank, an international financial institution that provides loans and grants to the governments of poorer countries for the purpose of pursuing capital projects and reducing poverty.",
+        "• Additionally, Switzerland is a member of the Organisation for Economic Co-operation and Development (OECD), an international organization that works to build better policies for better lives by promoting policies that improve the economic and social well-being of people around the world."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:07:03.640470",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "6",
+      "section_name": "International comparison",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, Switzerland's economy was composed of 3.8% agricultural sector, 23% manufacturing sector, and 73.2% services sector, reflecting a predominantly service-oriented economy.",
+        "• Switzerland's overall unemployment rate in 2006 was 4.0%, with a gender breakdown of 4.7% unemployment for females and 3.4% for males.",
+        "• The average number of hours worked per week in Switzerland in 2006 was 41.6 hours.",
+        "• The European Union-25 countries in 2006 had an agricultural sector comprising 4.7%, manufacturing sector at 27.4%, and services sector at 67.9%, indicating a slightly higher emphasis on manufacturing compared to Switzerland.",
+        "• The EU-25 unemployment rate in 2006 was significantly higher at 8.2%, with female unemployment at 9% and male unemployment at 7.6%.",
+        "• Average weekly working hours in the EU-25 in 2006 were 40.5 hours, slightly less than in Switzerland.",
+        "• Germany’s economic sector distribution in 2014 included 2.1% agriculture, 24.4% manufacturing, and 73.5% services, closely mirroring Switzerland’s sector proportions.",
+        "• Germany’s unemployment rate in 2014 was 5.2%, with female unemployment at 4.9% and male unemployment at 5.5%, showing a more balanced gender unemployment rate compared to Switzerland.",
+        "• Average weekly working hours in Germany in 2014 were 41.2 hours, marginally lower than Switzerland’s 2006 figure.",
+        "• France’s 2006 economic structure consisted of 3.9% agriculture, 24.3% manufacturing, and 71.8% services, similar to Switzerland but with a slightly higher manufacturing share.",
+        "• France had a high unemployment rate in 2006 of 8.8%, with female unemployment at 9.5% and male unemployment at 8.1%, exceeding Switzerland’s rates.",
+        "• The average weekly working hours in France in 2006 were 39.1 hours, the lowest among the countries listed.",
+        "• Italy’s 2006 economy was composed of 4.2% agriculture, 29.8% manufacturing, and 66% services, indicating the highest manufacturing sector share among the compared countries.",
+        "• Italy’s unemployment rate in 2006 was 6.6%, with female unemployment at 8.5% and male unemployment at 5.2%, showing a notable gender disparity.",
+        "• Average weekly working hours in Italy in 2006 were 39.3 hours, relatively low compared to Switzerland.",
+        "• The United Kingdom in 2006 had an economic composition of 1.3% agriculture, 22% manufacturing, and 76.7% services, the highest service sector percentage among the countries listed.",
+        "• UK unemployment rate in 2006 was 5.3%, with female unemployment at 4.8% and male unemployment at 5.7%, showing a relatively balanced gender unemployment rate.",
+        "• The UK had the highest average weekly working hours in 2006 at 42.4 hours.",
+        "• The United States in 2005 had 1.6% agriculture, 20.6% manufacturing, and 77.8% services, representing the highest service sector proportion among the countries compared.",
+        "• The US unemployment rate in 2005 was 5.1%, with female unemployment at 5.6% and male unemployment at 5.9%, indicating a slightly higher male unemployment rate.",
+        "• Average weekly working hours in the US in 2005 were 41 hours, slightly lower than Switzerland’s 2006 average."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:07:13.615310",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "7",
+      "section_name": "Regional disparities",
+      "chapter_name": "Economy of Switzerland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The tax index for all federal, cantonal, and church taxes in Switzerland is standardized at 100.0 for the year 2006, serving as a baseline for comparison among cantons.",
+        "• Median church, local, and cantonal tax rates in 2011 vary by family status and pre-tax income, specifically for unmarried individuals and married couples with two children, at income levels of 80,000 CHF and 150,000 CHF.",
+        "• The population under 20 years as a percentage of the total population aged 20–64 is provided for the year 2007, indicating demographic disparities across cantons.",
+        "• National income per person in Swiss Francs (CHF) is reported for 2005, alongside the percentage change in national income per person from 2003 to 2005, highlighting economic growth or decline in each canton.",
+        "• Zurich (ZH) has a tax index of 82.9, median tax rates of 11.01% (unmarried, 80,000 CHF) and 17.31% (unmarried, 150,000 CHF), 4.50% (married with 2 children, 80,000 CHF) and 10.52% (married with 2 children, 150,000 CHF), a youth population of 31.12%, a national income per person of 68,803 CHF, and a 4.6% income growth from 2003-2005.",
+        "• Berne (BE) shows a higher tax index of 123.1, with median tax rates of 14.75% and 21.96% for unmarried individuals at 80,000 CHF and 150,000 CHF respectively, and 6.79% and 14.23% for married couples with two children; youth population is 33.05%, income per person is 45,643 CHF, and income growth is 5%.",
+        "• Lucerne (LU) has a tax index of 119, median tax rates ranging from 13.49% to 18.04% for unmarried and 5.07% to 11.18% for married with children, a youth population of 37.19%, income per person of 43,910 CHF, and 5.3% income growth.",
+        "• Uri (UR) reports a tax index of 144.2, median tax rates between 11.95% and 15.76% for unmarried, and 5.91% to 10.84% for married with children, youth population at 37.06%, income per person 45,711 CHF, and 5.3% income growth.",
+        "• Schwyz (SZ) presents the lowest tax index at 66.5, with median tax rates from 8.53% to 13.04% for unmarried and 3.33% to 7.77% for married with children, youth population 36.95%, income per person 50,170 CHF, and the highest youth population percentage at 6.3%.",
+        "• Obwald (OW) has the highest tax index of 146.5, median tax rates of 11.21% to 14.88% for unmarried and 7.11% to 11.01% for married with children, youth population 40.88%, income per person 39,645 CHF, and 4.7% income growth.",
+        "• Nidwald (NW) shows a tax index of 79.1, median tax rates of 10.73% to 15.07% for unmarried and 3.66% to 9.39% for married with children, youth population 34.55%, highest income per person at 73,285 CHF, and a significant youth population percentage of 15.6%.",
+        "• Glaris (GL) has a tax index of 134.8, median tax rates from 11.99% to 17% for unmarried and 5.51% to 11.22% for married with children, youth population 36.85%, income per person 73,236 CHF, and youth population percentage 10.9%.",
+        "• Zoug (ZG) features the lowest tax index at 50.3, median tax rates of 5.95% to 12.98% for unmarried and 1.13% to 4.91% for married with children, youth population 35.45%, highest income per person at 93,752 CHF, and 5.4% income growth.",
+        "• Friburg (FR) has a tax index of 126.4, median tax rates between 15.18% and 21.88% for unmarried and 5% to 12.89% for married with children, youth population 40.2%, income per person 39,559 CHF, and 2.6% income growth.",
+        "• Soleure (SO) reports a tax index of 116.9, median tax rates from 15.87% to 21.96% for unmarried and 7.26% to 14.12% for married with children, youth population 34.34%, income per person 46,844 CHF, and 4.9% income growth.",
+        "• Basle-City (BS) has a tax index of 113.1, median tax rates between 14.98% and 20.61% for unmarried and 3.9% to 13.36% for married with children, lowest youth population at 26.6%, highest income per person at 115,178 CHF, and youth population percentage 15.9%.",
+        "• Basle-Country (BL) shows a tax index of 92.5, median tax rates of 14.52% to 22.07% for unmarried and 3.37% to 12.64% for married with children, youth population 33%, income per person 53,501 CHF, and 3.9% income growth.",
+        "• Schaffhouse (SH) has a tax index of 114.6, median tax rates from 13.68% to 20.1% for unmarried and 5.63% to 11.44% for married with children, youth population 32.92%, income per person 55,125 CHF, and 5.4% income growth.",
+        "• Appenzell Outer-Rhodes (AR) reports a tax index of 121.7, median tax rates between 13.44% and 19.02% for unmarried and 6.73% to 12.88% for married with children, youth population 37.6%, income per person 44,215 CHF, and 4.7% income growth.",
+        "• Appenzell Inner-Rhodes (AI) has a tax index of 105.6, median tax rates from 11.68% to 16.68% for unmarried and 5.13% to 10.79% for married with children, highest youth population at 44.46%, income per person 45,936 CHF, and 7.4% income growth.",
+        "• St Gall (SG) shows a tax index of 115.5, median tax rates between 14.41% and 20.71% for unmarried and 4.7% to 11.89% for married with children, youth population 37.66%, income per person 44,866 CHF, and 4% income growth.",
+        "• Grisons (GR) has a tax index of 112.2, median tax rates from 13.79% to 20.16% for unmarried and 3.97% to 11.37% for married with children, youth population 33.97%, income per person 49,355 CHF, and 11.7% income growth.",
+        "• Argovia (AG) reports a tax index of 87.4, median tax rates between 13.56% and 19.62% for unmarried and 4.79% to 11.78% for married with children, lowest youth population at 2.5%, income per person 49,209 CHF.",
+        "• Thurgovia (TG) has a tax index of 86.6, median tax rates from 13.58% to 18.89% for unmarried and 4.38% to 11.52% for married with children, youth population 37.52%, income per person 44,918 CHF, and 3.2% income growth.",
+        "• Tessin (TI) shows a tax index of 64.6, median tax rates between 12.47% and 19.35% for unmarried and 1.96% to 10.31% for married with children, youth population 31.14%, income per person 41,335 CHF, and 3.4% income growth.",
+        "• Vaud (VD) has a tax index of 106.2, median tax rates from 15.44% to 21.77% for unmarried and 5.09% to 13.14% for married with children, youth population 37.87%, income per person 52,901 CHF, and 3.4% income growth.",
+        "• Valais (VS) reports a tax index of 121.3, median tax rates between 14.71% and 22.94% for unmarried and 4.29% to 10.41% for married with children, youth population 35.18%, income per person 38,385 CHF, and 6% income growth.",
+        "• Neuchâtel"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:07:36.037912",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 28
+      },
+      "source_file": "economy_of_switzerland.json",
+      "original_index": 20
+    }
+  ]
+}

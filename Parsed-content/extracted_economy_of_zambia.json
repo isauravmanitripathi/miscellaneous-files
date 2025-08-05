@@ -1,0 +1,1254 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_zambia.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.437169",
+    "total_sections_in_source": 54,
+    "extracted_sections_count": 53,
+    "skipped_sections_count": 1
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zambia is classified as a developing country and attained middle-income status in 2011.",
+        "• Throughout the first decade of the 21st century, Zambia's economy was among the fastest-growing in Africa, with its capital city, Lusaka, recognized as the fastest-growing city within the Southern African Development Community (SADC).",
+        "• In recent years, Zambia's economic growth has stalled due to several challenges, including declining copper prices, significant fiscal deficits, and energy shortages.",
+        "• Since the 1920s, Zambia's economy has been heavily dependent on mineral extraction, particularly copper mining.",
+        "• At the time of its independence, Zambia had a higher GDP per capita than nearly all other sub-Saharan African countries.",
+        "• Over the subsequent decades following independence, Zambia's economy contracted, partly as a result of falling copper prices.",
+        "• From the 2000s onward, Zambia's economy resumed growth, and by 2019, the country's GDP per capita, measured in current international dollars, was $1,305.00.",
+        "• Zambia is one of the most urbanized countries in sub-Saharan Africa, with approximately half of its population of 16 million people residing in a few urban zones located along major transportation corridors, while rural areas remain sparsely populated.",
+        "• The main exports of Zambia include copper and cobalt, with non-traditional exports comprising cotton, coffee, fresh flowers, burley tobacco, gemstones, and maize (corn).",
+        "• Zambia benefits from the African Growth and Opportunity Act (AGOA), which permits eligible sub-Saharan African countries to export over 6,400 duty-free goods to the United States.",
+        "• Copper production in Zambia has increased steadily since 2004, driven by higher copper prices and the development of new mining operations.",
+        "• The maize harvest in 2005 was favorable, contributing positively to Zambia's GDP and agricultural export performance.",
+        "• Zambia continues to collaborate with international organizations on poverty reduction programs, including entering into a new lending arrangement with the International Monetary Fund (IMF) in the second quarter of 2004."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:12.968387",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "Economic policies soon after independence (1964–1967)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The British South Africa Company (BSAC), originally established by British imperialist Cecil Rhodes, retained commercial assets and mineral rights acquired through the Lochner Concession, a 1892 agreement with the Litunga of Barotseland.",
+        "• On the eve of Zambia’s independence in 1964, the incoming Zambian government threatened to expropriate the BSAC in order to compel the company to relinquish its mineral rights.",
+        "• The Federation of Rhodesia and Nyasaland assigned specific economic roles to its three territories: Southern Rhodesia was responsible for providing managerial and administrative skills; Northern Rhodesia (later Zambia) supplied copper revenues; and Nyasaland provided Black labor.",
+        "• Following independence, Zambia established a series of national development plans overseen by the National Commission for Development Planning.",
+        "• The Transitional Development Plan (1964–1966) was the first post-independence economic plan, focusing on infrastructure and manufacturing investment.",
+        "• The Transitional Development Plan was succeeded by the First National Development Plan (1966–1971), which continued the emphasis on major infrastructure and manufacturing development.",
+        "• Both the Transitional Development Plan and the First National Development Plan were largely implemented and generally regarded as successful in promoting Zambia’s early economic development.",
+        "• Subsequent national development plans after 1971 did not achieve the same level of success as the initial two plans."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:12.967514",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "The Mulungushi Economic Reforms (1968)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In April 1968, Zambia initiated the Mulungushi Economic Reforms, marking a significant structural shift in its economy by declaring government intent to acquire majority equity holdings (usually 51% or more) in key foreign-owned firms through a parastatal conglomerate named the Industrial Development Corporation (INDECO).",
+        "• By January 1970, the Zambian government had acquired majority ownership of the Zambian operations of two major foreign mining corporations: the Anglo American Corporation and the Rhodesia Selection Trust (RST), which were renamed Nchanga Consolidated Copper Mines (NCCM) and Roan Consolidated Mines (RCM), respectively.",
+        "• Following these acquisitions, the government established the Mining Development Corporation (MINDECO) as a new parastatal entity to oversee mining operations, while the Finance and Development Corporation (FINDECO) enabled government control over insurance companies and building societies.",
+        "• Despite these nationalizations, foreign-owned banks such as Barclays, Standard Chartered, and Grindlays successfully resisted government takeover efforts.",
+        "• In 1971, INDECO, MINDECO, and FINDECO were consolidated under a single umbrella parastatal, the Zambia Industrial and Mining Corporation (ZIMCO), creating one of sub-Saharan Africa’s largest companies, with President Kenneth Kaunda serving as chairman of the board.",
+        "• The management contracts previously held by Anglo American and RST for day-to-day mine operations were terminated in 1973, signaling full government control over mining activities.",
+        "• In 1982, NCCM and RCM were merged to form the Zambia Consolidated Copper Mines Ltd (ZCCM), further consolidating the mining sector under government ownership.",
+        "• In 1973, a sharp increase in oil prices was followed by a significant slump in copper prices in 1975, which caused a severe reduction in Zambia’s export earnings; copper had accounted for 95% of export earnings in 1973 but its value halved on the world market by 1975.",
+        "• By 1976, Zambia faced a balance-of-payments crisis and accumulated substantial debt to the International Monetary Fund (IMF), leading to the abandonment of the Third National Development Plan (1978–83) as crisis management took precedence over long-term economic planning.",
+        "• By the mid-1980s, Zambia was among the most heavily indebted countries globally relative to its gross domestic product (GDP), with the IMF demanding economic stabilization and restructuring programs aimed at reducing dependence on copper.",
+        "• The IMF’s proposed measures included ending price controls, devaluing the kwacha (Zambia’s currency), reducing government expenditure, canceling subsidies on food and fertilizer, and increasing prices for farm produce.",
+        "• President Kaunda’s removal of food subsidies caused sharp increases in basic food prices, provoking widespread riots among the urban population.",
+        "• In May 1987, Kaunda broke with the IMF and introduced a New Economic Recovery Programme in 1988, but this initiative failed to resolve the economic crisis.",
+        "• By 1989, Kaunda sought a new understanding with the IMF, and in 1990 he announced plans to partially privatize parastatal companies as part of a major policy reversal.",
+        "• Despite attempts to retain power, Kaunda called multiparty elections in 1991, which he lost to the Movement for Multiparty Democracy (MMD); he respected the election results and peacefully transferred power.",
+        "• Kenneth Kaunda left office on 2 November 1991 with the inauguration of Frederick Chiluba, leader of the MMD, as the new president of Zambia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:19.218322",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "Chiluba's economic reforms (1991–2000)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zambia operates under a Unitary economic system of government, which framed the context for Frederick Chiluba’s administration from 1991 to 2001 following democratic multi-party elections in November 1991, during which the government committed to extensive economic reforms.",
+        "• The transformation of Zambia’s economy toward a free market system commenced at the end of 1991 after the change in government, motivated by the need to address a serious economic crisis and secure essential loans from the World Bank and the International Monetary Fund (IMF).",
+        "• A major challenge during Chiluba’s reforms was the privatization of Zambia’s copper mines, the country’s primary export earner, which involved the government privatizing numerous state-owned industries and maintaining positive real interest rates.",
+        "• The government eliminated exchange controls and endorsed free market principles as part of its reform agenda, although it remained uncertain whether the succeeding Mwanawasa government would continue with similar economic reforms and further privatization efforts.",
+        "• Despite reforms, Zambia had yet to tackle significant issues such as reducing the size of the public sector, which still accounted for 44% of total formal employment, and improving the delivery systems within the social sector.",
+        "• The privatization of the giant parastatal mining company, Zambian Consolidated Copper Mines (ZCCM), culminated with the final transfer of its assets on March 31, 2000, after which international donors resumed balance-of-payment support to Zambia.",
+        "• Although balance-of-payment support provided short-term fiscal relief, it was not considered a solution to Zambia’s long-term debt problems; however, it offered the government temporary breathing space to implement further economic reforms.",
+        "• The government expended a significant portion of its foreign exchange reserves to intervene in the exchange rate mechanism, but continued intervention risked jeopardizing Zambia’s eligibility for debt relief.",
+        "• Zambia qualified for the Heavily Indebted Poor Countries (HIPC) debt relief initiative in 2000, contingent upon meeting specific performance criteria, which was expected to provide a sustainable long-term solution to the country’s debt challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:23.514288",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "2001–2010",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 2 January 2002, Levy Mwanawasa of the Movement for Multi-Party Democracy (MMD) won the Zambian presidential election, although many observers claimed the opposition had actually won.",
+        "• In January 2003, the Zambian Government notified the International Monetary Fund (IMF) and the World Bank of its intention to renegotiate certain agreed performance criteria, specifically those requiring the privatization of the Zambia National Commercial Bank and the national telephone and electricity utilities.",
+        "• Foreign investors favored President Mwanawasa, partly due to his strong anti-corruption campaign during his tenure.",
+        "• Under Mwanawasa’s presidency, Zambia experienced an influx of foreign investment, with the mineral sector serving as the primary engine of economic growth.",
+        "• Mwanawasa’s economic policies successfully reduced inflation to single-digit levels by 2006, a milestone not achieved in over 25 years in Zambia.",
+        "• The economic benefits of Mwanawasa’s policies were partially distributed to the poor, contributing to poverty alleviation.",
+        "• Zambia’s tourism sector expanded as tourists and white farmers, displaced from Zimbabwe, relocated to Zambia, notably boosting the economy.",
+        "• The town of Livingstone, located near Victoria Falls, was transformed into a significant tourist hub during this period.",
+        "• Zambia received substantial foreign aid and debt relief, attributed to economic liberalization and Mwanawasa’s reform efforts.",
+        "• Overall, Zambia’s economic growth rate increased to approximately 6% per annum during Mwanawasa’s presidency.",
+        "• On 29 June 2008, Mwanawasa suffered a stroke while attending an African Union summit in Egypt, leading to Rupiah Banda becoming acting president and subsequently the official president.",
+        "• Rupiah Banda faced internal divisions within the MMD and pledged to \"unite the party and the entire nation\" and to \"continue implementing [Mwanawasa's] programs\" upon assuming office.",
+        "• Despite Banda’s initial promises, he dismantled much of Mwanawasa’s anti-corruption framework after taking office.",
+        "• The weakening of anti-corruption measures under Banda, combined with the global economic impact of the Great Recession, resulted in a prolonged period of increased inflation in Zambia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:23.814957",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "2011–2020",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In September 2011, Michael Sata, a social democrat and leader of the Patriotic Front (PF), won the Zambian general election with a commitment to improve conditions for Zambian employees.",
+        "• Prior to his election victory, Michael Sata, who had previously opposed Chinese investment, publicly changed his stance to support it.",
+        "• Michael Sata passed away on 28 October 2014 and was succeeded as president by Edgar Lungu.",
+        "• Between 2011 and 2020, Zambia experienced an infrastructure boom including the development of the Kafue Gorge Lower Power Station.",
+        "• Two multi-purpose stadiums were constructed during this period: the Levy Mwanawasa Stadium and the National Heroes Stadium.",
+        "• Major expansions were undertaken at three international airports: Kenneth Kaunda International Airport, Harry Mwanga Nkumbula International Airport, and Simon Mwansa Kapwepwe International Airport.",
+        "• The Pave Zambia 2000 project was launched to create and repair major urban roads throughout the country.",
+        "• Despite infrastructure growth, the period was marked by a significant increase in national debt, which slowed economic progress.",
+        "• Economic challenges were exacerbated by widespread corruption and the global COVID-19 pandemic.",
+        "• These factors contributed to weak GDP growth and led to a recession in Zambia in 2019 and 2020, respectively.",
+        "• Zambia’s GDP contracted from US$29 billion in 2010 to US$19 billion in 2020.",
+        "• During the same decade, Zambia’s national debt surged dramatically from 16% of GDP in 2010 to 140% of GDP by 2020.",
+        "• In November 2020, Zambia became the first African country to default on a debt repayment during the coronavirus pandemic by opting not to repay a US$42.5 million eurobond."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:13.377817",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "0.6",
+      "section_name": "From 2021",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In August 2021, Zambia elected a new government led by Hakainde Hichilema's United Party for National Development (UPND), which promised to stimulate job growth.",
+        "• The UPND government introduced an ambitious budget that increased the Constituency Development Fund (CDF) from ZMW 1.6 million (US$91,000) to ZMW 25.7 million (US$1.5 million) for each of Zambia's 156 constituencies, with a policy to decentralize the release of these funds directly to constituencies.",
+        "• The government targeted employment creation by planning to hire 30,000 new teachers and 11,200 health workers; by mid-July 2022, 30,496 teachers had been recruited, and by the end of July 2022, 11,276 health workers—including doctors, nurses, and ancillary staff such as drivers—were employed.",
+        "• To boost copper production to 3 million tonnes annually within the next decade, the government reintroduced the deductibility of mineral royalty payments for corporate income tax assessment purposes; the outcomes of these policy changes remain pending.",
+        "• At the 2022 IMF-World Bank Spring Meetings, the World Bank announced funding of US$560 million for projects in Zambia during 2022.",
+        "• In July 2022, to address debt challenges, the Zambian government engaged creditors of undisbursed loans to facilitate formal cancellation of approximately US$2.0 billion in loans, with ongoing projects to be financed through government revenues.",
+        "• In early August 2022, the Zambia Development Agency, a quasi-government institution under the Ministry of Commerce, Trade and Industry, reported investment pledges totaling US$3.8 billion in the first half of 2022, targeting agriculture, tourism, construction, and mining sectors, with a potential to create 19,000 jobs.",
+        "• In October 2021, Zambia’s 2022 national budget included measures to promote local development, notably increasing the Constituency Development Fund from ZMW 1.6 million (US$91,000) to ZMW 25.7 million (US$1.5 million) per constituency, raising total local development funding from ZMW 250 million (US$14.2 million) to ZMW 4 billion (US$228.4 million).",
+        "• After securing a crucial Staff-Level IMF Deal in early December 2021, Zambia cut fuel subsidies later that month as a key step toward obtaining US$1.4 billion from the IMF.",
+        "• By the end of July 2022, the Official Creditor Committee (OCC), co-chaired by China and France and vice-chaired by South Africa, agreed to provide financing assurances under the G20 Common Framework for debt treatment, enabling Zambia to secure final approval from the IMF for a US$1.4 billion bailout under the Extended Credit Facility.",
+        "• In early August 2022, Zambia’s Minister of Finance and National Planning, Dr. Situmbeko Musokotwane, announced that the IMF board was expected to meet at the end of August 2022 to approve the loan programme.",
+        "• On 31 August 2022, the IMF board approved a US$1.3 billion Extended Credit Facility to assist Zambia in restoring fiscal stability.",
+        "• In June 2023, Zambia reached an agreement in principle to restructure US$6.3 billion of debt with bilateral lenders.",
+        "• In October 2023, Zambia signed a memorandum of understanding (MoU) with its bilateral creditors to restructure approximately US$6.3 billion of debt; the MoU’s terms were to be implemented through bilateral agreements with each member of the Official Creditor Committee (OCC).",
+        "• In March 2024, Zambia concluded a 76.5 billion kwacha (US$3.0 billion) debt restructuring deal with bondholders, which included significant concessions from bondholders and provided necessary debt relief to the government.",
+        "• Under the March 2024 agreement, bondholders agreed to forgo approximately 21.4 billion kwacha (US$840 million) of their claims and provide cash flow relief amounting to approximately 63.8 billion kwacha (US$2.5 billion) during the IMF programme period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:33.240819",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "0.6.1",
+      "section_name": "Public-Private Dialogue Forum (PPDF)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In April 2022, Zambia established the Public-Private Dialogue Forum (PPDF) as a formal mechanism to enhance collaboration between the public and private sectors.",
+        "• The PPDF was created with the objective of unlocking the potential of the private sector to serve as a key driver of economic development and job creation in Zambia.",
+        "• The forum is designed to provide a structured platform for dialogue and interaction between government entities and private sector stakeholders.",
+        "• A primary focus of the PPDF is to identify and address bottlenecks that have historically impeded the growth and expansion of Zambia’s private sector.",
+        "• By facilitating continuous engagement and problem-solving, the PPDF aims to improve the business environment and stimulate private sector-led economic growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:21.666322",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "0.6.2",
+      "section_name": "European Union (EU)–Zambia Economic Forum",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In May 2022, the inaugural European Union (EU)-Zambia Economic Forum was launched in Lusaka by President Hakainde Hichilema under the theme ‘Economic transformation through green growth’.",
+        "• The forum was a high-level event that convened entrepreneurs, experts, financial institutions, innovators, and policy decision-makers from Zambia, the EU, and representatives of its 27 member states.",
+        "• Special guests at the forum included the EU Commissioner for Agriculture, Janusz Wojciechowski, and the Commissioner for Trade and Industry of the African Union Commission, Albert M. Muchanga.",
+        "• The EU-Zambia Economic Forum was established as a platform aimed at promoting employment, value addition, and increased trade between the EU and Zambia.",
+        "• The forum sought to facilitate business-to-business (B2B) and business-to-government (B2G) collaboration and foster economic synergies for EU and Zambian businesses."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:17.981274",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "0.6.3",
+      "section_name": "UK–Zambia Green Growth Compact",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In November 2021, the governments of Zambia and the United Kingdom signed the UK-Zambia Green Growth Compact, a bilateral agreement aimed at enhancing UK investment in Zambia.",
+        "• The agreement is projected to increase UK investment in Zambia by £1.0 billion, equivalent to US$1.26 billion, with a strategic focus on job creation and the development of green energy production.",
+        "• In May 2022, Nicholas Woolley, the British High Commissioner to Zambia, announced that the British government had allocated the full £1.0 billion investment to be disbursed over a five-year period.",
+        "• Of the £1.0 billion, £100.0 million (US$126.0 million) is specifically earmarked to support Small and Medium Entrepreneurs (SMEs) in Zambia, promoting business growth and economic diversification.",
+        "• Additionally, £500.0 million (US$629.9 million) of the allocated funds are designated for investment in renewable energy projects within Zambia, underscoring the commitment to sustainable and green economic development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:25.865946",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "0.6.4",
+      "section_name": "World Bank Support",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In July 2022, the World Bank approved US$155.0 million in International Development Assistance specifically for Social Cash Transfer programs aimed at mitigating the high cost of living pressures experienced in Zambia.",
+        "• Alongside the Social Cash Transfer funding, the World Bank also approved an additional US$27.0 million credit facility in July 2022 to support the Zambian government's broader development programs.",
+        "• In the same month, July 2022, the World Bank further approved US$665.0 million to finance various projects in Zambia with the objectives of spurring economic recovery, promoting growth, and alleviating the country’s debt burden.",
+        "• The World Bank has outlined plans to provide Zambia with over US$2.0 billion in new financing through concessional loans extending through the year 2032, demonstrating a long-term commitment to the country’s economic development.",
+        "• In late October 2022, the World Bank approved a concessional loan amounting to US$275.0 million, which was targeted at fiscal stabilization and the acceleration of economic programs in Zambia.",
+        "• This US$275.0 million concessional loan was financed by the World Bank’s International Development Association (IDA), highlighting the IDA’s role in supporting Zambia’s fiscal and economic initiatives."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:25.255006",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "0.6.5",
+      "section_name": "African Export-Import Bank (Afreximbank) Support",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In July 2022, Benedict Oramah, President of the African Export-Import Bank (Afreximbank), announced during his visit to Lusaka, Zambia, that the bank would invest approximately US$250 million in the country.",
+        "• The investment is designated for the establishment of Zambia's first-ever Battery Electric Vehicle (BEV) manufacturing plant.",
+        "• This initiative marks a significant milestone in Zambia's industrial and economic development, particularly in the automotive and clean energy sectors.",
+        "• The announcement underscores Afreximbank's commitment to supporting industrialization and technological advancement within Zambia and the broader African continent."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:23.515399",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "0.6.6",
+      "section_name": "EAC-SADC-COMESA Free Trade Area",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In July 2022, the 4th Mid-Year Coordination Meeting of the African Union, Regional Economic Communities, and Regional Mechanisms was held in Lusaka, Zambia.",
+        "• During this meeting, three regional blocs—the East African Community (EAC), Southern African Development Community (SADC), and Common Market for Eastern and Southern Africa (COMESA)—reached a significant agreement.",
+        "• The agreement entailed convening a tripartite ministers' summit aimed at accelerating the completion of a border control-free travel and free movement of goods and services area.",
+        "• The objective was to finalize this integrated free trade and movement zone by the end of 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:26.481165",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "0.6.7",
+      "section_name": "Zambia-China Trade and Investment Forum",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In September 2022, Zambia and China inaugurated their first-ever trade and investment forum designed to enhance and unlock the trade and investment potential between the two nations.",
+        "• During this inaugural forum, an Exchange Letter was signed to grant Duty Free Treatment for Zambian products, covering 98 percent of the tariff lines.",
+        "• The Exchange Letter was signed by Zambia’s Finance Minister Situmbeko Musokotwane and the Chinese Ambassador to Zambia, Du Xiao."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:25.925467",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "0.6.8",
+      "section_name": "Zambia-China bilateral trade growth",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In mid-September 2023, Zambian President Hakainde Hichilema met with Chinese President Xi Jinping in Beijing to discuss bilateral relations and economic cooperation.",
+        "• During the meeting, over 15 Memoranda of Understanding (MOUs) were signed, representing a potential Chinese investment of approximately ZMW 62.3 billion kwacha (equivalent to US$3.0 billion) into Zambia.",
+        "• The two leaders agreed to increase the use of local currencies in trade transactions between Zambia and China, aiming to facilitate smoother and more cost-effective bilateral trade.",
+        "• Among the MOUs signed was a significant agreement with ZTE, an international telecommunications manufacturer, to establish and operate a smartphone manufacturing plant in Zambia, marking a strategic industrial collaboration.",
+        "• In late September 2023, China Nonferrous Metal Mining Group (CNMC) announced plans to invest an additional ZMW 27.0 billion kwacha (US$1.3 billion) into Zambia over the period from 2023 to 2028.",
+        "• CNMC’s planned investment targets multiple sectors of the Zambian economy, including mining, energy, education, and technology, indicating a diversified approach to economic development and cooperation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:31.500030",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "0.6.9",
+      "section_name": "U.S.-Zambia Business Summit",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In October 2022, over 50 business and government leaders from the United States and Zambia convened in Lusaka for the inaugural U.S.-Zambia Business Summit, held over two days at the Intercontinental Hotel.",
+        "• The Summit included participation from key U.S. agencies such as the U.S. Trade and Development Agency and the U.S. International Development Finance Corporation.",
+        "• The primary focus of the Summit was to promote Zambia as one of the most attractive business environments for investment within the African continent.",
+        "• In May 2025, Zambia hosted the inaugural African Continental Free Trade Area (AfCFTA) Digital Trade Forum in Lusaka.",
+        "• The AfCFTA Digital Trade Forum gathered policymakers and business leaders from across Africa to collaborate on developing practical strategies for implementing the digital commerce provisions outlined in the AfCFTA agreement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:28.835144",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "0.7",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, Zambia ranked as the world's 7th largest producer of copper, underscoring the country's significant role in the global copper market.",
+        "• The Zambian economy has historically been heavily reliant on the copper-mining industry, which has been central to its industrialization and economic development.",
+        "• The industrialization of Zambia's copper industry is partly attributed to Frederick Russell Burnham, an American scout who worked under Cecil Rhodes, highlighting early foreign influence in the sector.",
+        "• By 1998, copper output in Zambia had declined to a low of 228,000 tonnes, marking a 30-year downward trend caused by insufficient investment, low copper prices, and uncertainty surrounding the privatization of the mining sector.",
+        "• In 2001, following the privatization of the copper industry, Zambia experienced its first increase in copper productivity since 1973, signaling a potential turnaround in the sector.",
+        "• In January 2002, the future of Zambia's copper industry faced uncertainty when investors in the country’s largest copper mine announced plans to withdraw their investments.",
+        "• From 2004 onwards, rising international copper prices revitalized global interest in Zambia’s copper sector, leading to the acquisition of the Konkola Copper Mines (KCCM) by new investors and significant capital investments aimed at expanding production capacity.",
+        "• China emerged as a major investor in Zambia’s copper mining industry, culminating in February 2007 with the establishment of a Chinese-Zambian economic partnership zone centered around the Chambishi copper mine.",
+        "• Copper mining remains pivotal to Zambia’s economy, accounting for approximately 85% of the country’s exports; however, concerns persist regarding the lack of economic diversification and vulnerability to fluctuations in global copper prices.",
+        "• Production data from 2016 to 2024 indicates fluctuating outputs in various minerals: copper production ranged from 682,431 MT in 2023 to a projected 771,036 MT in 2024, with growth rates varying annually, including a peak growth of 12.98% in 2024 and declines such as -10.59% in 2023.",
+        "• Other mineral outputs during 2016-2024 include cobalt (ranging from 367 MT in 2020 to 5,276 MT in 2016), gold (from 1,515 kg in 2022 to 4,610 kg in 2016), nickel (starting production in 2019 with 1,110 MT and increasing to 19,137 MT projected in 2024), manganese (from 15,904 MT in 2019 to 171,066 MT in 2023), coal (from 129,470 MT in 2016 to 915,187 MT in 2023), emeralds (ranging from 7,653 kg in 2020 to 31,683 kg projected in 2024), beryllium (from 2,000 kg in 2020 to 7,000 kg in 2018 and 2019), and sulfur (elemental and industrial) increasing from 363,000 MT in 2016 to 960,300 MT in 2019.",
+        "• In January 2013, the Zambia Environmental Management Agency (ZEMA) approved 27 mining and exploration licenses, with additional licenses rumored to be forthcoming, indicating regulatory support for mining expansion.",
+        "• Zambia is the world’s second-largest producer of emeralds, with the Kafubu River area deposits, particularly Kagem Mines located about 45 km southwest of Kitwe, responsible for 20% of global gem-quality emerald production in 2004.",
+        "• In the first half of 2011, Kagem Mines produced 3.74 tons of emeralds, demonstrating significant output from this key mining site.",
+        "• In April 2022, Gemfields, the majority owner of Kagem Mines, achieved a record U$42.3 million in revenue from a sold-out March/April auction; since 2009, Kagem-sourced gemstones (emerald and beryl) have generated total revenue of U$792 million for Gemfields, with all proceeds fully repatriated to Kagem in Zambia and all royalties duly paid to the Zambian government based on full auction sales prices.",
+        "• Kagem Mines’ performance data from 2019 to 2023 shows fluctuations in premium emerald carats and total emerald and beryl production: premium emerald carats ranged from 133,900 in 2020 to 259,500 in 2022, while emerald and beryl production varied between 9,400,000 carats in 2020 and 37,241,000 carats in 2022.",
+        "• Rich uranium deposits have been discovered in various parts of Zambia, prompting the government in 2007 to seek guidance from the International Atomic Energy Agency (IAEA) to develop regulatory guidelines for uranium mining.",
+        "• In 2008, uranium deposits were identified in Kaputa District, Northern Province, and Albidon Zambia Limited confirmed high-grade uranium mineralization at its Njame East project near Chirundu.",
+        "• The Southern Province hosts five main uranium deposits—Mutanga, Dibwe, Dibwe East, Njame, and Gwabe—explored under the Mutanga Uranium Project located 31 km north of Siavonga and north of Lake Kariba.",
+        "• The Mutanga Uranium Project, also known as the Kariba Uranium Project, was acquired in 2016 by GoviEx Uranium Inc, a company listed on the Toronto Stock Exchange (TSX) in Canada.",
+        "• In March 2022, GoviEx announced that the Mutanga Uranium Project is forecasted to commence production in 2027 and is expected to be the lowest capital-intensive uranium project in Africa.",
+        "• Lumwana Mining Company Limited (LMC), which began uranium exploration in 2007 in Solwezi District, is currently stockpiling uranium obtained as a by-product of copper mining operations while awaiting a uranium mining license.",
+        "• Uranium mining activities in Zambia are regulated and monitored by the Zambia Environmental Management Agency (ZEMA), ensuring environmental compliance.",
+        "• Additional notable mining projects include the Munali Nickel Mine, with an estimated development cost of U$180 million in 2007, and the Enterprise Nickel Project, estimated at U$275 million, reflecting ongoing investments in nickel mining development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:46.145704",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "0.8",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, the agriculture sector contributed 2.7% to Zambia's GDP, reflecting its economic significance within the country.",
+        "• Agriculture accounted for 85% of total employment (both formal and informal) as of the year 2000, indicating its role as a primary source of livelihood for the majority of the population.",
+        "• Maize (corn) serves as both the principal cash crop and the staple food in Zambia, underscoring its centrality in the agricultural landscape.",
+        "• Other significant crops cultivated in Zambia include soybean, cotton, sugar, sunflower seeds, wheat, sorghum, pearl millet, cassava, tobacco, and various vegetable and fruit crops, highlighting the sector's crop diversity.",
+        "• Floriculture has emerged as a growth sector within Zambian agriculture, with agricultural non-traditional exports now rivaling the mining industry in terms of foreign exchange earnings.",
+        "• Zambia possesses considerable potential to increase agricultural output, as currently less than 20% of its arable land is under cultivation, indicating room for expansion and intensification.",
+        "• Historically, the agriculture sector faced challenges such as low producer prices, difficulties in accessing and distributing credit and inputs, and shortages of foreign exchange, which constrained growth.",
+        "• Major crop production statistics from 2010 to 2023 show fluctuations and growth in various crops:",
+        "• Maize production ranged from 2,004,389 MT in 2019 to a peak of 3,620,244 MT in 2021.",
+        "• Cassava production increased significantly from 1,151,000 MT in 2010 to 4,450,019 MT in 2023.",
+        "• Sugarcane production rose from 3,700,000 MT in 2010 to over 5,102,118 MT in 2021, with some years missing data.",
+        "• Wheat production varied between 151,850 MT in 2019 and 277,586 MT in 2022, with a notable increase to 400,000 tonnes in 2021 due to demand from the Democratic Republic of the Congo.",
+        "• Soybean production grew from 111,887 MT in 2010 to 760,067 MT in 2023, reflecting rapid expansion.",
+        "• Sweet potato production fluctuated, peaking at 252,867 MT in 2010 and reaching 234,631 MT in 2023.",
+        "• Cotton production declined from 107,000 MT in 2010 to 55,971 MT in 2023.",
+        "• Groundnuts production showed variability, with 164,602 MT in 2010 and 235,446 MT in 2023.",
+        "• Millet production ranged from 23,942 MT in 2013 to 46,753 MT in 2023.",
+        "• Vegetable production remained relatively stable, around 350,000 to 445,625 MT between 2010 and 2021, with some missing data in later years.",
+        "• Tobacco exports in US dollars increased from approximately $147 million in 2010 to a peak of $221.58 million in 2019, then declined to $114.18 million in 2021.",
+        "• In 2019, Zambia's agricultural production included:",
+        "• 4.7 million tons of sugarcane;",
+        "• 4 million tons of cassava, ranking Zambia as the 18th largest producer globally;",
+        "• 2 million tons of maize;",
+        "• 281 thousand tons of soybeans;",
+        "• 153 thousand tons of tobacco, making Zambia the 6th largest tobacco producer worldwide;",
+        "• 151 thousand tons of wheat;",
+        "• 130 thousand tons of peanuts;",
+        "• 109 thousand tons of sweet potatoes;",
+        "• 72 thousand tons of cotton;",
+        "• 6,900 tons of coffee;",
+        "• along with various other agricultural products.",
+        "• Wheat production notably increased from 205,000 tonnes in 2020 to 400,000 tonnes in 2021, driven by high flour demand in the neighboring Democratic Republic of the Congo (DRC).",
+        "• The floriculture sector, specifically exports of cut flowers and flower buds suitable for bouquets or ornamental purposes (fresh, dried, dyed, bleached, impregnated, or otherwise prepared), showed significant export growth:",
+        "• Exports surged from US$333,520 in 2010 to a peak of US$32,150,400 in 2013, representing a 5,106.40% growth from 2010 to 2011.",
+        "• After 2013, exports declined steadily to US$7,051,388 in 2020.",
+        "• Imports of these floriculture products remained relatively low, fluctuating between US$3,369 and US$32,755 during 2010–2020.",
+        "• In July 2022, Zambia and China signed a memorandum of understanding (MoU) to facilitate the export of soybean meal and stevia from Zambia to China, indicating growing international trade relations in agricultural commodities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:43.073898",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 37
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "0.9",
+      "section_name": "Fisheries and Livestock",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Fisheries and Livestock sub-sector in Zambia plays a significant role in employment creation, food and nutrition security, and overall economic growth.",
+        "• Capture fishery production in Zambia showed fluctuations from 2005 to 2023, starting at 65,927 metric tons (MT) in 2005 and increasing to 101,825 MT by 2023, with annual growth rates varying between -9.82% and 22.09%.",
+        "• Aquaculture production in Zambia increased substantially from 5,125 MT in 2005 to 76,627 MT in 2023, with notable growth rates including 69.06% in 2010, 56.07% in 2013, and 37.08% in 2018, although some years experienced declines such as -24.77% in 2017.",
+        "• The livestock population in Zambia from 2017 to 2023 demonstrated growth across all categories: cattle increased from 3,714,667 in 2017 to 4,839,941 in 2023; sheep rose from 170,262 to 264,729; goats grew from 3,583,696 to 4,548,542; pigs increased from 1,082,765 to 1,167,807; and chickens fluctuated, peaking at 41,230,000 in 2021 before declining to 31,824,758 in 2023.",
+        "• Livestock product outputs for 2018 and 2019 showed increases in all categories: milk production rose from 1,686,400 MT to 2,045,603 MT; egg production increased from 1,642,693,000 to 1,744,047,000 units; hides production grew from 345,549 MT to 369,357 MT; beef production increased from 6,103,281 MT to 6,763,045 MT; pork production rose from 555,270 MT to 595,472 MT; and poultry meat production increased from 5,111,098 MT to 5,537,874 MT.",
+        "• In 2019, Zambia produced approximately 191,000 tons of beef, 50,000 tons of chicken meat, 34,000 tons of pork, and 453 million liters of cow's milk, reflecting the country's substantial livestock production capacity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:32.422128",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "0.10",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Energy in Zambia encompasses the production of energy and electricity intended for both domestic consumption and export purposes.",
+        "• The Energy Regulation Board (ERB) is the authoritative body mandated to balance and safeguard the interests of all stakeholders involved in the energy sector in Zambia.",
+        "• Zambia’s energy policy framework is governed by several key legislative acts, including the Energy Regulation Act No. 12 of 2019, which provides regulatory oversight for the energy sector.",
+        "• The Electricity Act No. 11 of 2019 also guides the energy policy, specifically addressing issues related to electricity generation, distribution, and regulation.",
+        "• The Rural Electrification Act No. 20 of 2003 is a significant legislative instrument aimed at promoting and facilitating the extension of electricity services to rural areas across Zambia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:30.782254",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "0.10.1",
+      "section_name": "Electricity",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 2000 and 2020, Zambia's total electricity generation increased from 7,760 GWh to approximately 15,980 GWh, with hydropower consistently constituting the majority of the energy mix, ranging from 7,670 GWh in 2000 to 13,670 GWh in 2020.",
+        "• Hydropower accounted for over 99% of Zambia's renewable energy generation in 2019, when the country produced a total of 15,013 GWh of electricity, of which 12,427 GWh was renewable and 2,586 GWh was non-renewable.",
+        "• Coal power generation began to appear in Zambia's energy mix from 2015 onwards, starting at 290 GWh and increasing to a peak of 1,420 GWh in 2018 before slightly declining to 1,270 GWh in 2020.",
+        "• Solar power generation commenced in 2019 with 120 GWh and increased to 150 GWh by 2020, reflecting Zambia's efforts to diversify its power generation portfolio.",
+        "• The oil-based electricity generation fluctuated over the years, with a notable increase to 700 GWh in 2015, followed by a decline to around 730 GWh in 2020.",
+        "• Other renewables, specifically bioelectricity, contributed modestly to the electricity generation, ranging between 10 GWh and 180 GWh from 2000 to 2020.",
+        "• In March 2019, Zambia commissioned the 54 MW Bangweulu Solar Power Station, followed by the 34 MW Ngonye Solar Power Station in May 2019, marking significant milestones in the expansion of solar energy capacity.",
+        "• By July 2022, Zambia's national electricity generation capacity reached 3,456.8 MW, surpassing the peak national demand of 2,300 MW, resulting in a surplus of approximately 1,156 MW.",
+        "• The surplus electricity generated in 2022 was allocated to fulfill power supply agreements, including the export of 180 MW to Namibia and 100 MW to Zimbabwe, with the latter under a five-year contract requiring ZESCO to earn a monthly income of US$6.3 million prior to export commencement in August 2022.",
+        "• At the end of 2022, Zambia faced significant electricity supply challenges due to low water levels at the Kariba Dam, which adversely affected the 1,080 MW Kariba Hydropower Plant's output, leading to load shedding nationwide.",
+        "• These challenges were exacerbated by maintenance activities at the 300 MW Maamba Collieries Coal Fired Power Plant, further constraining electricity supply.",
+        "• In January 2023, Zambia signed a Memorandum of Understanding (MOU) and Joint Development Agreement (JDA) valued at US$2 billion with the United Arab Emirates to develop 2,000 MW of solar power projects, signaling a major investment in renewable energy infrastructure.",
+        "• In April 2023, ZESCO Limited, Zambia's state-owned utility, entered into a Power Purchase Agreement worth ZMW 67 billion (US$3.4 billion) with Integrated Clean Energy Power Company of China to develop 2,400 MW of renewable energy.",
+        "• The renewable energy project with the Chinese company is planned to be implemented in phases, with the first phase consisting of two 300 MW solar power plants located in Central Province and Southern Province, respectively, both expected to be connected to the national grid by the end of 2024.",
+        "• Zambia's electrical energy export earnings have shown substantial growth from 2021 through 2025, with monthly earnings reaching up to ZMW 901.3 million in November 2023 and continuing strong performance into 2024 and 2025, reflecting increased regional electricity trade.",
+        "• The electricity export data indicates variable monthly revenues, with some months in 2022 and 2025 showing no recorded earnings, while other months consistently generated hundreds of millions of Zambian Kwacha, underscoring the fluctuating but growing importance of electricity exports to Zambia's economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:50.660620",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "0.10.2",
+      "section_name": "Petroleum",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zambia is a net importer of petroleum, with Oil & Mineral Fuels ranking as the top import category in 2019, valued at US$1.26 billion.",
+        "• In January 2022, the Energy Regulation Board (ERB) of Zambia transitioned from a quarterly to a monthly fuel pricing cycle to enhance responsiveness to market fundamentals, specifically international oil prices and the Kwacha/US Dollar exchange rate from the preceding month.",
+        "• Following a policy decision by the United Party for National Development (UPND) government to place the Indeni Petroleum Refinery on care and maintenance, Zambia now sells only one type of diesel on the market: imported Low Sulphur Gasoil/Diesel.",
+        "• Fuel price trends in Zambian Kwacha (ZMW) from December 2021 through early 2025 show fluctuations in petrol and low sulphur diesel prices, with petrol prices ranging from ZMW 19.84 (January 2022) to projected ZMW 34.98 (January 2025), and low sulphur diesel prices ranging from ZMW 18.93 (January 2022) to projected ZMW 34.98 (January 2025).",
+        "• Notable pricing events include the restoration of Excise Duty and VAT in September 2022 and the final quarterly price cycle rates on 16 December 2021, when petrol was ZMW 21.16 and diesel ZMW 22.29.",
+        "• Zambia’s bulk fuel depots have varying capacities and commissioning dates: Chipata (7.0 million litres, US$40 million, commissioned 2022), Lusaka (25.0 million litres, US$24.7 million, 2013), Mansa (6.5 million litres, 2021), Mongu (6.5 million litres, US$27.4 million, 2016), Mpika (6.5 million litres, US$8.1 million, 2014), Ndola (110 million litres, commissioned 1973), and Solwezi (15.5 million litres, US$7.0 million, 2015), totaling 177 million litres capacity.",
+        "• The Tazama Pipeline, 1,710 km long, is a joint venture between the Government of Zambia (66.7%) and the Government of Tanzania (33.3%), constructed starting January 1966 and completed in 1968; it transports petroleum from the port of Dar-es-Salaam, Tanzania, to the Indeni Energy Company in Ndola, Zambia.",
+        "• The Tazama Pipeline was funded by Mediobanca, with Zambia and Italy crediting GBP 11,070,000 and Tanzania and Italy crediting GBP 5,542,407 in 1967 at 6% interest, repayable in 15 equal annual installments from earnings; as of 2022, the pipeline is 54 years old.",
+        "• The Namibia-Zambia Multi-Product Petroleum and Natural Gas Pipelines Project (NAZOP) is a planned pipeline with details to be announced; in October 2022, Zambia and Namibia signed a memorandum of understanding (MoU) to support and facilitate this private sector-led project, which aims to supply 100,000 to 120,000 barrels per day.",
+        "• The Lobito–Lusaka Oil Products Pipeline is a planned 1,400 km pipeline involving Sonangol, IDC Zambia Limited, and strategic investors, with feasibility assessments ongoing; construction is expected to be completed by 2026 at an estimated cost of US$5.0 billion.",
+        "• In January 2023, Zambia announced intentions to acquire a stake in Angola’s Lobito Oil Refinery in Benguela Province, which is expected to be completed in 2026 with a production capacity of 200,000 barrels per day; private investors, including Zambia, are proposed to hold 70% ownership, while Angola’s state oil firm Sonangol Group will retain 30%.",
+        "• In September 2023, TAZAMA commenced construction of a 3 km pipeline linking the Tazama Pipeline to the Mpika fuel storage depot (6.5 million litres capacity) at a cost of ZMW 31.26 million (US$1.5 million); this pipeline aims to divert a portion of imported low sulphur diesel to serve the Northern circuit of Zambia, reducing fuel costs long-term.",
+        "• The Mpika tie-in pipeline is the first phase of a planned network of distribution pipelines intended to connect other fuel storage depots across Zambia, enhancing fuel distribution efficiency nationwide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:50.659974",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "0.11",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zambia's tourism revenue is primarily generated from both local and international tourists visiting Victoria Falls in Livingstone, along with associated attractions such as the Livingstone Museum and Mosi-oa-Tunya National Park.",
+        "• In July 2020, the Livingstone Tourism Association reported a record number of visitors during the Heroes and Unity holidays, indicating a peak in tourism activity at that time.",
+        "• Notable celebrities, including Will Smith, have visited the Victoria Falls tourist site; additionally, an entrepreneur celebrated her £3 million wedding at The Royal Livingstone Hotel, located on the banks of the Zambezi River.",
+        "• To promote domestic tourism growth, in March 2021, African Eagle Hotels, a multinational company, announced plans to construct two hotels at Kasaba Bay Resort in Nsumbu National Park: a 2-star hotel costing US$20 million and a 5-star hotel costing US$30 million, both scheduled to open by 2023.",
+        "• In October 2021, the Zambian government allocated ZMW 150 million (equivalent to US$8.6 million) in its national budget to further develop Kasaba Bay, aiming to stimulate tourism within Zambia's Northern Circuit.",
+        "• Tourism statistics from 1995 to 2020 show fluctuating numbers of tourists, growth rates, tourism receipts in thousands of US dollars, and tourism's percentage contribution to Zambia's Gross National Product (GNP).",
+        "• In 1995, Zambia received 163,000 tourists, with no available data on receipts or GNP percentage.",
+        "• Tourist arrivals increased by 62.0% in 1996 to 264,000 visitors, though receipts and GNP percentages were not reported.",
+        "• By 1997, tourist numbers reached 341,000 (29.2% growth), generating US$29,000,000 in receipts and contributing 0.67% to GNP.",
+        "• From 1998 to 2001, tourist numbers steadily increased from 362,000 to 492,000, with receipts rising from US$40,000,000 to US$80,000,000 and GNP contribution growing from 1.1% to 2.0%.",
+        "• In 2002, tourists numbered 565,000 (14.8% growth), but receipts dropped to US$64,000,000 and GNP contribution fell to 1.5%.",
+        "• A sharp decline occurred in 2003, with tourists decreasing by 26.9% to 413,000, though receipts increased to US$88,000,000 and GNP contribution was 1.8%.",
+        "• The years 2004 to 2007 saw strong growth in tourists from 515,000 to 897,000, with receipts rising significantly from US$92,000,000 to US$599,000,000 and GNP contribution fluctuating between 1.5% and 5.4%.",
+        "• In 2005, tourism receipts notably surged to US$447,000,000, representing 5.4% of GNP, coinciding with a 29.9% increase in tourists to 669,000.",
+        "• Tourist numbers declined in 2008 and 2009 by 9.5% and 12.6% respectively, with receipts decreasing to US$542,000,000 and US$474,000,000, and GNP contributions falling to around 3.0% and 3.1%.",
+        "• Recovery occurred from 2010 to 2011, with tourists increasing to 920,000 and receipts reaching US$555,000,000, maintaining a 2.4% GNP share.",
+        "• Between 2012 and 2015, tourist arrivals fluctuated between 859,000 and 932,000, receipts ranged from US$518,000,000 to US$660,000,000, and GNP contribution varied from 2.0% to 3.1%.",
+        "• From 2016 to 2019, tourist numbers grew steadily from 956,000 to 1,270,000, with receipts increasing from US$683,000,000 to US$820,000,000 and GNP contribution rising from 2.5% to 3.5%.",
+        "• The year 2020 saw a dramatic decline in tourists by 60.5% to 502,000 due to unspecified factors, with no available data on receipts or GNP contribution.",
+        "• In 2021, tourist numbers slightly decreased by 0.4% to 554,200, with receipts and GNP data not available.",
+        "• By 2022, tourism rebounded strongly with a 91.4% increase to 1,060,788 tourists, though financial and GNP data remain unavailable."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:48.704237",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "0.12",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The manufacturing Gross Domestic Product (GDP) at current prices in Zambia showed a general upward trend from 2020 to 2024, with quarterly values measured in Zambian Kwacha (ZMW) million as follows: in 2020, Q1 was 5,293, Q2 was 5,556, Q3 was 7,179, and Q4 was 7,605; in 2021, Q1 was 9,200, Q2 was 11,654, Q3 was 10,717, and Q4 was 10,211; in 2022, Q1 was 10,677, Q2 was 9,463, Q3 was 9,600, and Q4 was 11,019; in 2023, Q1 was 10,814, Q2 was 9,918, Q3 was 12,892, and Q4 was 13,734; and in 2024, Q1 was 13,849, Q2 was 15,131, Q3 was 17,220, and Q4 was 17,753.",
+        "• Key manufacturing companies operating in Zambia include African Explosives Zambia, producing explosives; Airumi New Energy Zambia, manufacturing car batteries and storage batteries; and Bayer Seed Itaba Plant, specializing in maize seed production.",
+        "• Cement production is dominated by several companies such as Chilanga Cement, Dangote Cement, and Larfarge, all significant contributors to the sector.",
+        "• Heavy construction and mining equipment are produced by Hitachi Construction Machinery Zambia (HCMZ), while steel manufacturing is undertaken by Kafue Steel Plant and Powerful Diligent Veracious (PDV) Metal Steel.",
+        "• The food processing sector includes Kalene Hills Fruit Factory (fruit processing), Kawambwa Tea Industries Limited (tea), Mununshi Fruit Company Limited (MFCL) (bananas), Northern Coffee Company Limited (NCCL) (coffee), Zambeef Products (meat, dairy, eggs, animal feed, leather), Zambia Sugar Plc (sugar and molasses ethanol), and Zambia National Service (ZNS) Chingola Milling Plant (mealie meal).",
+        "• Other manufacturing activities include Metal Fabricators of Zambia (ZAMEFA) producing electric power cables; Mpande Limestone and Ndola Lime Company Limited (NLC) producing limestone; Naipu Mining Machinery (Zambia) Company Limited manufacturing mining equipment; Nitrogen Chemicals Of Zambia (NCZ) and United Capital Fertilizer (UCF) Zambia Limited producing fertilizers.",
+        "• Additional companies include Proton Electro Cables Zambia and Uniflex Wires and Cables Ltd, both producing electric cables; Sunbird Energy producing cassava ethanol; Trade Kings Zambia Limited manufacturing fast-moving consumer goods (FMCG) and steel; Zambian Breweries producing alcoholic beverages; and Zambia Forestry and Forest Industries Corporation Plc (ZAFFICO) producing wood and wood & paper products.",
+        "• The Composite Purchasing Managers' Index (PMI) for Zambia’s manufacturing sector, where a value above 50 indicates expansion and below 50 indicates contraction, fluctuated between 2021 and 2025: in 2021, the PMI ranged from 47.10 in February to 51.80 in November; in 2022, it varied between 48.30 in December and 50.50 in April and July; in 2023, values ranged from a low of 46.90 in March to a high of 51.40 in May; in 2024, the PMI mostly remained below 50, ranging from 45.60 in September to 50.80 in December; and in early 2025, the PMI showed slight recovery with values of 50.90 in January, February, and April, and 51.40 in May.",
+        "• Annual cement production in Zambia demonstrated growth from 2020 to 2024, with production figures in metric tonnes (MT) as follows: 2,127,832 MT in 2020; 2,732,013 MT in 2021; 2,369,193 MT in 2022; 2,740,288 MT in 2023; and 3,265,299 MT in 2024, indicating an overall increasing trend in cement manufacturing output."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:47.072616",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "0.13",
+      "section_name": "Education",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2022, Zambia implements a free education policy specifically targeting public early childhood and secondary schools, ensuring that education at these levels is accessible without direct tuition fees.",
+        "• The education system in Zambia encompasses various institutions, including early childhood centers, primary and secondary schools, as well as higher education establishments such as universities.",
+        "• Comprehensive information about the educational infrastructure in Zambia can be found in resources such as the \"Education in Zambia\" overview, which details the structure, policies, and challenges of the Zambian education sector.",
+        "• Detailed listings of educational institutions are available, including the \"List of schools in Zambia,\" which catalogs primary and secondary schools across the country.",
+        "• Higher education institutions are documented in the \"List of universities in Zambia,\" providing a directory of universities offering tertiary education and contributing to the nation's academic and professional development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:46.443568",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "0.14",
+      "section_name": "Finance and Banking Services",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The central bank of Zambia is the Bank of Zambia (BOZ), which oversees the country's monetary policy and banking regulations.",
+        "• The Bank of Zambia implements monetary policy primarily through adjustments to the policy rate and statutory reserve ratio, with detailed records of changes from November 2015 to May 2025.",
+        "• On 5 November 2015, the policy rate was increased by 300 basis points to 15.50%, marking a tightening phase in monetary policy.",
+        "• From 19 February 2016 through 16 November 2016, the policy rate was maintained steadily at 15.50%.",
+        "• On 22 February 2017, the policy rate was reduced by 150 basis points to 14.00%, the Overnight Lending Facility (PLF) rate was set to 600 basis points above the policy rate, and the statutory reserve ratio was decreased by 250 basis points to 15.50%, indicating an easing of monetary policy.",
+        "• Subsequent reductions in the policy rate occurred on 17 May 2017 (to 12.50%), 10 August 2017 (to 11.00%), and 22 November 2017 (to 10.25%), with corresponding reductions in the statutory reserve ratio to 9.50% and then 8.00%.",
+        "• The policy rate was further cut by 50 basis points to 9.75% on 16 February 2018 and maintained at this level through 20 February 2019.",
+        "• On 22 May 2019, the policy rate was increased by 50 basis points to 10.25%, maintained on 21 August 2019, and then raised by 125 basis points to 11.50% on 20 November 2019.",
+        "• The policy rate was held at 11.25% on 19 February 2020, then cut by 225 basis points to 9.25% on 20 May 2020, followed by a further cut of 125 basis points to 8.00% on 19 August 2020, remaining at 8.00% through 18 November 2020.",
+        "• On 17 February 2021, the policy rate was increased by 50 basis points to 8.50%, maintained through 1 September 2021, then raised by 50 basis points to 9.00% on 24 November 2021.",
+        "• The policy rate was maintained at 9.00% through 23 November 2022, with a slight increase to 9.25% on 15 February 2023, coinciding with an increase in the statutory reserve ratio from 9.00% to 11.50% on 2 February 2023.",
+        "• Further increases in the policy rate occurred on 17 May 2023 (to 9.50%), 23 August 2023 (to 10.00%), and 22 November 2023 (to 11.00%), with the statutory reserve ratio increased twice in November 2023: by 300 basis points to 14.50% on 6 November and by 250 basis points to 17.00% on 27 November.",
+        "• On 14 February 2024, the policy rate was raised by 150 basis points to 12.50%, alongside a substantial increase in the statutory reserve ratio by 900 basis points to 26.00% on 2 February 2024.",
+        "• The policy rate was further increased by 100 basis points to 13.50% on 15 May 2024, maintained at 13.50% on 14 August 2024, then raised by 50 basis points to 14.00% on 13 November 2024.",
+        "• On 12 February 2025, the policy rate was increased by 50 basis points to 14.50% and held steady at this level on 23 May 2025.",
+        "• The Bank of Zambia purchases gold locally from the Kansanshi Copper Mine and the Zambia Gold Company to bolster its reserves.",
+        "• Cumulative gold reserves held by the Bank of Zambia increased significantly over recent years: US$43 million in 2021; US$83 million in 2022 with a target of US$100 million; approximately US$190 million (≈ ZMW 3.7 billion) in 2024 corresponding to about 2,469.17 kilograms of refined gold; and approximately US$233.5 million (≈ ZMW 6.3 billion) in 2025 with about 2,163.26 kilograms of refined gold.",
+        "• Commercial banks’ average lending rates in Zambia have fluctuated between 2016 and 2022, starting at 29.20% in 2016, declining to 23.60% in 2018, rising again to 26.57% in 2020, and slightly decreasing to 25.22% by 2022.",
+        "• The monetary policy adjustments by the Bank of Zambia reflect responses to economic conditions, with periods of both tightening and easing aimed at controlling inflation, stabilizing the currency, and supporting economic growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:02.307768",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "0.15",
+      "section_name": "Health",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In May 2025, the Zambian government entered into a Joint Venture (JV) agreement with Akums Drugs and Pharmaceuticals Limited, one of India's largest pharmaceutical companies.",
+        "• The JV agreement aims to establish a manufacturing plant in Zambia dedicated to the local production of approximately 150 essential medicines."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:48.170637",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "1",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zambia’s transportation system encompasses multiple modes, including road, rail, air, and water transport, reflecting a diverse infrastructure network.",
+        "• The country is predominantly reliant on road transport, which serves as the primary means for the movement of goods and passengers across Zambia.",
+        "• The road network in Zambia is a critical component of the national infrastructure, facilitating connectivity within the country and with neighboring states.",
+        "• Zambia’s rail transport system plays a significant role in freight and passenger movement, contributing to the overall transport infrastructure.",
+        "• Air transport is supported by a number of airports throughout Zambia, which are integral for domestic and international connectivity.",
+        "• Water transport is also utilized in Zambia, leveraging the country’s rivers and lakes to support transportation needs, particularly in areas less accessible by road or rail."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:51.374329",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "2",
+      "section_name": "Growth",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Positive macroeconomic indicators in Zambia are evident, stemming from reforms enacted in the early and mid-1990s.",
+        "• The adoption of a floating exchange rate system and the establishment of open capital markets have imposed fiscal discipline on the Zambian government.",
+        "• These economic policies have facilitated the diversification of Zambia's export sector beyond traditional commodities.",
+        "• Growth has been observed in the tourism industry, contributing to the broader economic expansion.",
+        "• The availability of inputs for expanding businesses has improved due to these reforms, supporting overall economic development.",
+        "• Certain areas within the Copper Belt region have experienced a notable economic revival, attributed to the spin-off effects from substantial capital reinvestment in the mining sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:51.854752",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Export Diversification",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In April 2022, Zambia's Ministry of Agriculture, through the Plant Quarantine and Phytosanitary Service (PQPS), approved the first consignment of over 37 metric tons of Zambian-grown avocados for export to European Union countries.",
+        "• This approval marked a significant milestone in Zambia's ongoing efforts to diversify its economy away from dependence on copper by emphasizing growth in the agricultural sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:50.705137",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "The Multi-Facility Economic Zones (MFEZ)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2005, the Japanese Government, through the Japan International Cooperation Agency (JICA), assisted the Zambian government in introducing the Multi-Facility Economic Zone (MFEZ) programme aimed at fostering economic development in Zambia.",
+        "• The primary objective of the MFEZ programme is to attract substantial domestic and foreign direct investment (FDI) by establishing a strengthened policy and legislative environment conducive to investment.",
+        "• MFEZs are designated special industrial zones designed to accommodate both export-oriented and domestic-oriented industries, providing a strategic platform for industrial growth.",
+        "• These zones are expected to be equipped with well-appointed infrastructure to attract and facilitate the establishment of world-class enterprises within the zones.",
+        "• The MFEZ investment incentives for companies operating under the MFEZ or Priority Sector include:",
+        "• Corporate Tax: 0% for 5 years, starting from the year of the first declaration of dividends.",
+        "• Tax on Profits: 30% for 5 years; for years 6 to 8, only 50% of profits are taxed, and for years 9 and 10, 75% of profits are taxed.",
+        "• Import Duty: 0% for 5 years on raw materials, capital goods, machinery, including trucks and specialized motor vehicles.",
+        "• Value Added Tax (VAT): Deferred on machinery and equipment, including trucks and specialized motor vehicles imported.",
+        "• Currently, Zambia hosts numerous Multi-Facility Economic Zones (MFEZs), although specific names and locations of these zones are not detailed in the section."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:53.661305",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "2.2.1",
+      "section_name": "The Lusaka South Multi-Facility Economic Zone (LS-MFEZ)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Lusaka South Multi-Facility Economic Zone (LS-MFEZ) was established in June 2012 with a strategic focus on multiple sectors including agribusiness, packaging and printing, palm oil processing, pulp and packaging boards, pharmaceuticals, electrical and electronic appliances, information and communication technologies (ICTs), education and skills training, research and development (R&D), as well as professional, medical, scientific, and measuring services.",
+        "• By 2020, the LS-MFEZ had attracted investments totaling US$100.6 million for that year alone, contributing to an accumulated investment sum of approximately US$567.6 million since its inception in 2012, and had generated around 7,100 jobs.",
+        "• In 2021, the LS-MFEZ achieved a record investment inflow of US$309.4 million, increasing the total accumulated investments to about US$877.4 million; during this period, permanent employment reached approximately 9,360 jobs, with total employment including construction workers rising to 11,560."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:56.182662",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "2.2.2",
+      "section_name": "The Lusaka East Multi-Facility Economic Zone",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Lusaka East Multi-Facility Economic Zone is also referred to as the Zambia-China Economic & Trade Cooperation Zone (ZCCZ).",
+        "• The economic zone prioritizes several key sectors including agriculture, specifically circular and tourism agricultures.",
+        "• Agro-processing is a major focus area within the zone, emphasizing value addition to agricultural products.",
+        "• The zone supports the brewery industry as part of its industrial activities.",
+        "• Pharmaceutical manufacturing and related activities are prioritized within the zone.",
+        "• Production and supply of building materials are key components of the zone’s industrial portfolio.",
+        "• Logistics, particularly storage facilities, are emphasized to support efficient supply chain and distribution networks.",
+        "• The zone is designed to facilitate and promote international commerce, enhancing trade opportunities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:56.791225",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "2.2.3",
+      "section_name": "Roma Industrial and Commercial Park",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Roma Industrial and Commercial Park was launched in 2011.",
+        "• The park is expected to generate more than 4,000 permanent jobs upon full development.",
+        "• The primary focus of the Roma Industrial and Commercial Park is on real estate and residential developments."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:52.594951",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "2.2.4",
+      "section_name": "Chambishi Multi-Facility Economic Zone (CMFEZ)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Chambishi Multi-Facility Economic Zone (CMFEZ) was officially opened in 2007.",
+        "• The CMFEZ prioritizes several key sectors including mining, engineering equipment assembly, construction materials, fertilizers, agriculture, and service industries such as banking and hospitals.",
+        "• By the year 2016, the CMFEZ had attracted approximately US$800 million in investment.",
+        "• This investment came from a total of 14 different enterprises operating within the economic zone."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:53.617179",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "2.2.5",
+      "section_name": "Chembe Multi-Facility Economic Zone",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, the Government of Zambia initiated the development of the Chembe Multi-Facility Economic Zone located in Chembe, within Luapula Province."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:53.993231",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "2.2.6",
+      "section_name": "Chibombo Multi-Facility Economic Zone",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Chibombo Multi-Facility Economic Zone (MFEZ), also referred to as the Jiangxi Multi-Facility Economic Zone, is situated in Chibombo District within the Central Province of Zambia.",
+        "• The groundbreaking ceremony for the Chibombo MFEZ took place in November 2018, marking the commencement of development activities for the zone.",
+        "• In October 2021, the Chibombo MFEZ formalized six project agreements with a combined investment value of US$160 million.",
+        "• These six projects signed in 2021 are projected to generate employment opportunities exceeding 1,000 jobs within the zone."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:55.462814",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "2.2.7",
+      "section_name": "Lumwana Multi-Facility Economic Zone",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In November 2009, the government of Zambia announced a plan to invest US$1.2 billion into the Lumwana Multi-Facility Economic Zone.",
+        "• The Lumwana Multi-Facility Economic Zone is a designated area intended to promote industrial and economic development within Zambia.",
+        "• This investment plan was part of Zambia’s broader strategy to enhance economic growth through the establishment of specialized economic zones.",
+        "• The US$1.2 billion investment reflects the government's commitment to developing infrastructure and attracting business activities in the Lumwana region.",
+        "• The initiative aims to leverage the economic potential of the Lumwana area, which is known for its mining and industrial activities.",
+        "• The announcement in 2009 marked a significant milestone in Zambia’s efforts to diversify its economy and create employment opportunities through targeted economic zones."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:58.020296",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "2.2.8",
+      "section_name": "Sub-Saharan Gemstones Exchange Industrial Park",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Sub-Saharan Gemstones Exchange Industrial Park is a Multi-Facility Economic Zone (MFEZ) situated in Ndola, within Zambia's Copperbelt Province.",
+        "• By October 2011, the infrastructure development of the MFEZ had attracted investments exceeding US$10 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:56.181980",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 39
+    },
+    {
+      "section_number": "2.2.9",
+      "section_name": "Kalumbila Multi-Facility Economic Zone (MFEZ)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Kalumbila Multi-Facility Economic Zone (MFEZ) is situated in the North-Western Province of Zambia.",
+        "• The MFEZ received official approval from the Ministry of Commerce, Trade and Industry in September 2022.",
+        "• The initial investment anticipated for the development of the Kalumbila MFEZ was approximately US$100 million.",
+        "• The primary purpose of the facility is to provide local vendors with an industrial base to establish a local supply chain.",
+        "• This supply chain is intended to support the expanding Kalumbila copper mine, the forthcoming Enterprise nickel mine, and other businesses operating around the First Quantum Minerals (FQM) sites."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:58.952192",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 40
+    },
+    {
+      "section_number": "2.2.10",
+      "section_name": "Actualized Investments",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, actualized investments in Zambia's Multi-Facility Economic Zones (MFEZ) and Industrial Parks (IPs) amounted to US$1.90 billion, equivalent to ZMW 24.53 billion, resulting in the creation of 14,775 jobs.",
+        "• In 2020, the actualized investment value increased to US$2.18 billion, or ZMW 39.92 billion, with a corresponding rise in employment to 25,795 jobs created within the MFEZ and IP sectors.",
+        "• The year 2021 saw further growth in actualized investments, reaching US$2.74 billion (ZMW 53.95 billion), accompanied by the creation of 35,794 jobs in Zambia's economic zones and industrial parks.",
+        "• In 2022, actualized investments peaked at US$4.40 billion, equivalent to ZMW 74.36 billion; however, the number of jobs created decreased to 19,528 compared to the previous year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:00.420452",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 41
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Fintech",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zambia's startup and venture capital ecosystem has historically been relatively quiet, with limited activity in the fintech sector.",
+        "• A notable shift occurred in August 2021 when Union54, a Zambian fintech company, became the first startup from Zambia to be accepted into Y Combinator's summer batch of YC 2021, marking a significant milestone for the country's tech ecosystem.",
+        "• In October 2021, Union54 secured a U$3 million seed funding round led by the American investment firm Tiger Global, indicating growing international investor interest in Zambian fintech ventures.",
+        "• Further demonstrating investor confidence, Union54 raised an additional U$12 million in April 2022 through a seed extension round, which was also led by Tiger Global, underscoring the company's rapid growth and the expanding fintech landscape in Zambia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:31:59.966436",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 42
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Salaula",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Standard economic theory and empirical data indicate that the importation of second-hand clothing can have positive economic effects in a country like Zambia, which is classified as one of the least developed countries in the world.",
+        "• The _salaula_ market in Zambia reduces the proportion of household income that families need to allocate for clothing expenses, thereby increasing affordability.",
+        "• The _salaula_ market supports employment opportunities related to clothing repairs and alterations, helping to sustain these ancillary businesses.",
+        "• The presence of second-hand clothing imports encourages tailors to specialize in the production of styled garments, potentially enhancing the diversity and quality of locally made clothing.",
+        "• Despite these benefits, the massive importation of used clothing from developed countries has caused a near-total collapse of Zambia’s indigenous textile industry.",
+        "• The availability of cheap used clothing undermines the relevance of tailors’ specialized garment production, as consumers tend to prioritize the lowest cost over style or quality.",
+        "• Workers who might have been employed in textile mills or clothing factories face unemployment or are forced to accept significantly lower incomes by participating in the resale of _salaula_ clothing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:02.220513",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 43
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Electric Battery Value Chain",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zambia and the Democratic Republic of the Congo (DRC) together hold more than 70% of the world’s cobalt reserves and possess abundant deposits of copper, nickel, and manganese, prompting them to establish a Zambia-DRC Executive Battery Council to oversee the implementation of a cooperative agreement focused on the electric vehicle battery value chain.",
+        "• The Executive Council’s executive committee will include President Hakainde Hichilema of Zambia, President Felix Tshisekedi of the DRC, the Deputy Secretary General of the African Economic Community for the United Nations, and the President of AFREXIM Bank, which serves as a financial partner in the initiative.",
+        "• A communiqué issued by the two heads of state emphasized that Zambia and the DRC will harmonize policies to support the electric vehicle battery value chain initiative.",
+        "• Zambia and the DRC signed a Memorandum of Understanding (MOU) formalizing this cooperation in Lusaka, Zambia, on 29 April 2022.",
+        "• In July 2022, Benedict Oramah, President of the African Export-Import Bank (Afreximbank), announced in Lusaka that a consortium of investors had earmarked over US$500 million to establish an industrial park aimed at adding value to copper, cobalt, and manganese mined in Zambia.",
+        "• The planned industrial park will include plants to process cobalt, copper, and lithium sourced from Zambia and neighboring countries, alongside the establishment of a US$250 million Battery Electric Vehicle (BEV) manufacturing plant.",
+        "• Also in July 2022, at the 94th Agricultural and Commercial Show in Lusaka, Victor Mapani, Managing Director of Zambia’s national utility company ZESCO, announced plans to deploy electric vehicle (EV) charging stations nationwide to accelerate EV adoption and support carbon emission reduction efforts.",
+        "• In December 2022, during the US-Africa summit in Washington DC, Zambia, the DRC, and the United States signed an MOU to advance the electric vehicle battery value chain, with multiple US agencies—including USAID, the US Department of Commerce, and the Trade and Development Agency—exploring technical assistance for the Zambia-DRC EV supply chain.",
+        "• Additionally, US financial institutions such as the Export-Import Bank of the United States and the Development Finance Corporation committed to exploring financing and support mechanisms to facilitate investment in African electric vehicle value chains.",
+        "• In April 2023, Afreximbank and the United Nations Economic Commission for Africa (ECA) signed a framework agreement with Zambia and the DRC to establish special economic zones (SEZs) dedicated to electric vehicle and battery production.",
+        "• Afreximbank and ECA will lead the creation of an operating company in partnership with public and private investors, including Afreximbank’s impact fund subsidiary, the Fund for Export Development in Africa, to develop SEZs focused on manufacturing battery precursors, batteries, and electric vehicles in both countries.",
+        "• In October 2023, the Chinese company Better Technology Group announced that procurement of manufacturing equipment for electric vehicle batteries, energy storage batteries, and uninterruptible power supply batteries was underway, with delivery to Zambia scheduled by December 2023.",
+        "• This equipment will be utilized in the EV battery manufacturing facility to be established in Zambia’s Chibomba-Jiangxi Multi Facility Economic Zone in Central Province, with construction expected to be completed by March 2024.",
+        "• The Group President of Better Technology Group also revealed that the company has budgeted an investment of ZMW 2.18 billion (approximately US$100 million) in the venture through 2026."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:11.235889",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 44
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In June 2023, the Zambian Government, through the Electronic Government Division known as SMART Zambia, granted an internet services license to Starlink.",
+        "• The license was issued following the successful completion of trial projects conducted by Starlink throughout the nation of Zambia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:00.439044",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 45
+    },
+    {
+      "section_number": "3",
+      "section_name": "Inflation",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Zambian government faced a lack of balance-of-payment support, which limited resources for capital investment and forced periodic issuance of bonds or expansion of the money supply to meet spending and debt obligations.",
+        "• Despite the resumption of balance-of-payment support, the government continued issuing bonds and expanding the money supply, resulting in persistently high interest rates detrimental to local businesses, fueling inflation, and increasing the budget burden with domestic debt payments.",
+        "• These financial pressures prevented the government from adequately meeting public payroll obligations and funding essential needs such as infrastructure rehabilitation.",
+        "• In 1998, the government sharply drew down foreign exchange reserves to meet foreign debt obligations, exacerbating pressure on the Zambian kwacha and contributing to inflationary trends.",
+        "• Inflation was recorded at 32% in the year 2000, during which the kwacha depreciated by the same percentage against the US dollar.",
+        "• By mid- to late 2001, Zambia adopted more conservative fiscal management policies, resulting in a year-end inflation rate below 20%, marking the best inflation performance in decades.",
+        "• Inflation increased again to 26.7% in 2002, indicating ongoing volatility in price levels.",
+        "• In 2007, Zambia experienced an inflation rate of 8%, the first instance of single-digit inflation in 30 years.",
+        "• On January 27, 2011, the Central Statistical Office reported that inflation had risen to 9%.",
+        "• Between April 2019 and April 2020, Zambia’s annual inflation rate increased to 15.7% from 14% in March 2020, primarily driven by rising prices in food and other non-food items.",
+        "• Inflation in Zambia tends to peak during election years, with a recent high of 17.9% recorded in 2016, suggesting a likely inflation peak around the 2021 general elections.",
+        "• The exchange rate of the kwacha against the US dollar has remained relatively stable over the past two years but has not returned to the 2013 peak value of nearly 0.2 kwacha per dollar.",
+        "• The real effective exchange rate of the kwacha, measured against a weighted average of foreign currencies, improved from 88.5 in 2016 to 96.4 in 2017, indicating some strengthening of the currency in real terms.",
+        "• In September 2018, the kwacha depreciated against the US dollar but stabilized between 0.08 kwacha to the dollar from November to December 2018; however, further exchange rate instability remains likely due to ongoing political and economic uncertainties."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:11.332005",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 46
+    },
+    {
+      "section_number": "4",
+      "section_name": "Economic Statistics",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1980, Zambia's GDP in PPP terms was 7.806 billion US dollars with a GDP per capita of 1,321.44 US dollars PPP; nominal GDP was 4.246 billion US dollars and nominal GDP per capita was 718.80 US dollars, with a real GDP growth of 3.85% and an inflation rate of 11.73%.",
+        "• From 1981 to 1985, GDP in PPP increased from 9.111 billion to 10.261 billion US dollars, while nominal GDP decreased from 4.385 billion to 2.848 billion US dollars; inflation rates rose sharply, reaching 37.43% in 1985, and real GDP growth fluctuated, including negative growth in 1982 (-2.91%) and 1984 (-1.72%).",
+        "• Between 1986 and 1989, GDP in PPP grew from 10.645 billion to 12.539 billion US dollars, nominal GDP rebounded from 1.962 billion to 4.365 billion US dollars, but inflation remained extremely high, peaking at 113.16% in 1989; real GDP growth was volatile, with a notable 9.27% growth in 1988 followed by a -3.66% contraction in 1989.",
+        "• In the early 1990s (1990-1994), GDP in PPP rose from 12.933 billion to 12.556 billion US dollars, nominal GDP hovered around 3.6 to 4 billion US dollars, while inflation rates remained exceedingly high, reaching 158.40% in 1993; real GDP growth was mostly negative, with a significant -13.31% decline in 1994.",
+        "• From 1995 to 1999, Zambia experienced gradual GDP growth in PPP from 13.190 billion to 16.107 billion US dollars and nominal GDP fluctuated between 3.4 and 4.3 billion US dollars; inflation rates decreased but remained elevated (around 21-38%), and real GDP growth was positive except for a slight contraction of -0.39% in 1998.",
+        "• In 2000, GDP in PPP was 17.114 billion US dollars, nominal GDP was 3.601 billion US dollars, with real GDP growth of 3.90%, inflation at 24.09%, unemployment at 12.93%, and government debt at 28.89% of GDP.",
+        "• Between 2001 and 2005, Zambia's GDP in PPP increased from 18.430 billion to 25.930 billion US dollars, nominal GDP rose from 3.870 billion to 8.329 billion US dollars, real GDP growth averaged around 5-7%, inflation remained high but declining from 21.36% to 18.33%, unemployment hovered around 13-16%, and government debt decreased from 21.89% to 13.09% of GDP.",
+        "• From 2006 to 2010, GDP in PPP grew from 28.842 billion to 43.256 billion US dollars, nominal GDP surged from 12.762 billion to 20.264 billion US dollars, real GDP growth peaked at 10.30% in 2010, inflation rates dropped below 10% by 2010 (8.50%), unemployment ranged from 7.93% to 15.30%, and government debt fluctuated around 15-21% of GDP.",
+        "• During 2011 to 2015, GDP in PPP increased from 46.612 billion to 54.473 billion US dollars, nominal GDP peaked at 28.042 billion in 2013 before declining to 21.245 billion in 2015, real GDP growth slowed to 2.92% in 2015, inflation rates remained mostly below 10% until rising to 10.12% in 2015, unemployment increased from 7.85% to 10.13%, and government debt escalated sharply from 16.42% to 61.94% of GDP.",
+        "• Between 2016 and 2020, Zambia's GDP in PPP grew from 55.712 billion to 63.559 billion US dollars, nominal GDP declined from 20.965 billion to 18.111 billion US dollars, real GDP growth was volatile with a contraction of -2.79% in 2020, inflation spiked to 17.87% in 2016 and reached 15.73% in 2020, unemployment remained around 10-13%, and government debt surged dramatically from 58.32% to 140.21% of GDP.",
+        "• In 2021 and 2022, IMF staff estimates show GDP in PPP rising from 69.245 billion to 76.325 billion US dollars, nominal GDP increasing from 21.313 billion to 27.025 billion US dollars, real GDP growth at 4.60% in 2021 and 2.91% in 2022, inflation rates elevated at 22.02% in 2021 but declining to 12.53% in 2022, unemployment was 12.50% in 2021 with no data for 2022, and government debt decreased from 119.41% to 71.10% of GDP.",
+        "• The 2023 IMF staff estimate indicates Zambia's GDP in PPP reached 85.951 billion US dollars, nominal GDP was 28.406 billion US dollars, real GDP growth rebounded to 5.80%, inflation rate was 10.95%, unemployment data was not available, and government debt rose again to 115.23% of GDP.",
+        "• Inflation rates below 10% are highlighted in green in the data, occurring notably in years such as 2006 (9.02%), 2010 (8.50%), 2011 (8.66%), 2012 (6.58%), 2013 (6.98%), 2014 (7.81%), 2017 (6.58%), and 2018 (6.99%).",
+        "• Unemployment data is unavailable for most years prior to 2000, with recorded rates fluctuating between 7.85% and 15.90% from 2000 onwards, reflecting labor market challenges.",
+        "• Government debt as a percentage of GDP was not reported before 2000; from 2000 it ranged from a low of 13.09% in 2005 to a high of 140.21% in 2020, indicating significant fiscal pressures in recent years.",
+        "• Real GDP growth rates show periods of both expansion and contraction, with notable negative growth in 1982 (-2.91%), 1984 (-1.72%), 1989 (-3.66%), 1994 (-13.31%), 2020 (-2.79%), and strong growth peaks such as 10.30% in 2010 and 9.22% in 2009.",
+        "• The data reflects Zambia's economic volatility over four decades, characterized by fluctuating inflation, variable real GDP growth, rising government debt, and persistent unemployment challenges."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:27.823369",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 47
+    },
+    {
+      "section_number": "5",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1997 and 2024, Zambia's imports, exports, trade balance, total trade (in current millions of US dollars), and percentage growth in trade exhibited significant fluctuations, with total trade rising from US$2,902 million in 1997 to an estimated US$22,393 million in 2024, reflecting an 18.00% growth in trade for that year.",
+        "• Zambia experienced a trade deficit in most years from 1997 to 2024, with notable exceptions in 2006 (trade surplus of US$230 million), 2009 (US$397 million surplus), 2010 (US$1,094 million surplus), 2011 (US$715 million surplus), 2012 (US$918 million surplus), 2020 (US$2,212 million surplus), 2021 (US$4,212 million surplus), 2022 (US$2,604 million surplus), and 2024 (US$4 million surplus).",
+        "• The largest total trade value within the period was recorded in 2013 at US$23,777 million, followed by 2024 with US$22,393 million, and 2014 with US$22,839 million, though 2013 and 2014 saw negative trade balances of -US$563 million and -US$685 million respectively.",
+        "• The highest recorded imports were in 2013 at US$12,170 million, while the highest exports were in 2022 at US$11,651 million.",
+        "• Export earnings from key minerals between 2014 and 2024 show copper as the dominant export commodity, with earnings fluctuating from US$7,619 million in 2014, dipping to US$4,399 million in 2016, peaking again at US$8,345 million in 2021, and estimated at US$7,360 million in 2024.",
+        "• Non-traditional exports (NTEs) ranged from US$1,749 million in 2016 to US$3,766 million in 2023, showing a general upward trend, with an estimated US$3,179 million in 2022.",
+        "• Cobalt export earnings varied significantly, with US$123.9 million in 2014, falling to zero in 2022 and 2023, before rising to US$37.3 million in 2024.",
+        "• Gold export earnings ranged from US$127.5 million in 2023 to US$223.4 million estimated in 2024, with fluctuations in between.",
+        "• Nickel exports, reported in millions of Zambian Kwacha (ZMW), showed a substantial increase from 1,642.4 million ZMW in 2021 to an estimated 8,428.1 million ZMW in 2024.",
+        "• Major trade-enhancing infrastructure projects in Zambia include the TAZARA Railway, commissioned in 1975 at a cost of US$406 million, equivalent to US$3.29 billion in 2022 USD.",
+        "• The Kazungula Bridge, commissioned in May 2021, was constructed at a cost of US$259.3 million, significantly improving regional trade connectivity.",
+        "• The Levy Mwanawasa (Chembe) Bridge, commissioned in October 2008, was built for US$1.5 million, contributing to local infrastructure development.",
+        "• The Chinsali-Nakonde road project, valued at 6.3 billion Zambian Kwacha (approximately US$255.76 million), is under construction with grant funding from the African Development Bank; the 210 km road is being built in two sections by China State Engineering Corporation and China Railway 7 Group, with expected completion in December 2026."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:12.384511",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 48
+    },
+    {
+      "section_number": "6",
+      "section_name": "Major exhibitions",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Zambia International Trade Fair is an annual event held in Ndola at the beginning of July, serving as a significant platform for trade and commerce; this event was archived on 31 July 2022 at the Wayback Machine.",
+        "• The Agriculture and Commercial Show takes place annually in Lusaka at the beginning of August, focusing on agricultural advancements and commercial activities within the region.",
+        "• The Central Province Agriculture Show is conducted in Mkushi, highlighting agricultural developments specific to Zambia’s Central Province."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:05.087443",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 49
+    },
+    {
+      "section_number": "7",
+      "section_name": "Notable Companies",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The \"List of companies of Zambia\" encompasses prominent businesses operating within the Zambian economy, reflecting the diverse industrial and commercial sectors present in the country.",
+        "• The Lusaka Stock Exchange (LuSE) serves as Zambia's principal stock exchange, providing a platform for the trading of shares and securities of Zambian companies, thereby facilitating capital formation and investment within the national economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:03.758626",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 50
+    },
+    {
+      "section_number": "8",
+      "section_name": "Public Private Partnerships (PPP)",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In December 2021, Zambia's UPND Government established the Public-Private Partnership (PPP) Council of Ministers, chaired by the Minister of Finance and National Planning, Dr. Situmbeko Musokotwane, with members including the Ministers of Infrastructure (Charles Milupi), Commerce, Trade, and Industry (Chipoka Mulenga), Transport and Logistics (Frank Tayali), and Technology and Science (Felix Mutati).",
+        "• The PPP Council's primary objective is to promote public-private partnerships as the main mechanism for infrastructure development in Zambia, shifting away from solely government-funded projects.",
+        "• The Lusaka-Ndola Dual Carriageway project spans 327 km and is a key connection within the Trans-African Highway network, specifically linking Trans-African Highway 4 (TAH 4) and Trans-African Highway 9 (TAH 9). It involves a $650 million concession agreement over 25 years, including 3 years of construction and 22 years of toll operation and maintenance, covering also 45 km of the Luanshya-Fisenge-Masangano Road. The project is a joint venture between Macro-Ocean Investment Consortium and the Government of Zambia, with construction starting in Q3 2023 (August) and expected completion in 2026.",
+        "• The Mufulira-Mokambo road project covers 15 km and aims to enhance trade with the Democratic Republic of the Congo (DRC). The PPP concession agreement, signed in November 2024, is valued at $56.7 million with a 22-year term comprising 2 years of construction and 20 years of toll operation and maintenance, including border post facilities at Mokambo. The project partners are Jasworld Ports Limited and the Government of Zambia, with construction expected to begin in Q1 2025 and completion in 2027.",
+        "• The Ndola-Sakania-Mufulira road project extends 70 km and focuses on improving trade with the DRC and local markets. It involves a ZMW 1.64 billion (US$76.1 million) concession agreement for developing 61 km of the road, with a 22-year concession period including 3 years of construction. The project is contracted to Jaswin Ports Limited and the Government of Zambia, with construction starting in 2024 and expected completion in 2026.",
+        "• The Chingola-Kasumbalesa road project covers 35 km and aims to improve trade with the DRC, local markets, and the Southern African Development Community (SADC) region. The project cost is ZMW 558 million (US$31 million), undertaken by Turbo Ka-Chin Investment Consortia and the Government of Zambia. Construction began in Q2 2022 (May) and is expected to be completed by December 2023.",
+        "• The Katete-Chanida Border Post project spans 55 km and targets improved trade with Mozambique. The PPP concession agreement, signed in October 2023, is worth ZMW 1.7 billion (US$79.8 million) over 25 years, including 2 years for construction and 23 years for operation and maintenance. The project partners are Lutembwe Consulting Company and the Government of Zambia, with construction starting in Q1 2024 and expected completion in Q4 2025.",
+        "• The Lumwana-Kambimba Border Post project covers 45 km and will connect Lumwana with Kolwezi in the DRC, enhancing trade within the SADC region. The concession agreement was signed in Q3 2023 (September) with Sandstone Consortium and the Government of Zambia as partners. Construction is scheduled to start in Q4 2024; completion date is to be announced.",
+        "• The Kasomeno-Kasenga-Chalwe-Kabila-Mwenda Road and Luapula River Bridge project, also known as the Kasomeno-Mwendo Toll Road (KMTR), spans 182 km and serves as a critical trade link between Luapula province in Zambia and Lubumbashi in the DRC. It is a key connection to the Trans-African Highway network, particularly TAH 4 to Dar es Salaam, Tanzania. The project is a joint venture among GED Africa, Agence Congolaise des Grands Travaux (ACGT), and Zambia Road Development Agency (RDA). Construction began in Q3 2023 (October); completion date is to be announced.",
+        "• The Chingola-Solwezi-Mutanda road project covers 205 km with a 30-year concession agreement valued at US$250 million, signed in 2021. The project partners are Bert Pave and Maintenance Limited and the Government of Zambia. Construction started in Q1 2022; completion date is to be announced.",
+        "• The Mutanda-Kasempa-Kaoma road project extends 371 km with a 25-year concession agreement worth US$326 million, signed in 2024. The project is managed by Barotse Highway Limited and the Government of Zambia, with construction scheduled to start in Q1 2025 and expected completion in 2027.",
+        "• The Solwezi-Kipushi road project covers 111 km and involves a 25-year concession agreement valued at US$145 million, signed in 2024. The project partners are Borderway Capital Investments and the Government of Zambia. Construction is planned to begin in Q1 2025, with expected completion in 2027."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:27.205950",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 51
+    },
+    {
+      "section_number": "9",
+      "section_name": "Constituency Development Funds Performance",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Constituency Development Funds (CDFs) in Zambia are decentralized financial resources aimed at improving public service delivery and fostering economic development at the ward and constituency levels within local communities.",
+        "• The performance of CDFs is measured by the absorption rate, which indicates the proportion of disbursed funds effectively utilized within the reporting period.",
+        "• In 2022, the total allocation and disbursement of CDFs amounted to ZMW 4.0 billion (equivalent to US$228.4 million), with an absorption rate of 55.0%, translating to an absorption value of ZMW 2.2 billion; the reporting period covered was from 1 January 2022 to 31 December 2022.",
+        "• For the year 2023, the allocation increased to ZMW 4.4 billion (US$278.7 million), but only ZMW 2.7 billion was disbursed; the absorption rate improved to 60.0%, with an absorption value of ZMW 1.3 billion, covering the same annual reporting period from 1 January 2023 to 31 December 2023.",
+        "• Data for the years 2024 and 2025 indicate planned allocations of ZMW 4.8 billion (US$228.1 million) and ZMW 5.6 billion (US$212.1 million), respectively; however, disbursement, absorption rates, absorption values, and reporting periods for these years are not available (N/A).",
+        "• The absorption rate threshold is visually coded: rates below 50% are marked in red, while rates above 50% are marked in green, highlighting the satisfactory absorption performance for 2022 and 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:11.536744",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 52
+    },
+    {
+      "section_number": "10",
+      "section_name": "Private Wealth",
+      "chapter_name": "Economy of Zambia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, the total estimated value of private wealth in Zambia was US$14 billion, equivalent to ZMW 238 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:32:12.261996",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_zambia.json",
+      "original_index": 53
+    }
+  ]
+}

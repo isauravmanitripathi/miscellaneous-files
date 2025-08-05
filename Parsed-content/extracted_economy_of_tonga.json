@@ -1,0 +1,98 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_tonga.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.283803",
+    "total_sections_in_source": 3,
+    "extracted_sections_count": 3,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Tonga",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tonga's economy features a large nonmonetary sector and relies heavily on remittances from approximately half of its population living abroad, primarily in Australia, New Zealand, and the United States.",
+        "• The monetary sector is largely dominated or owned by the royal family and nobles, particularly in telecommunications and satellite services.",
+        "• Recent Chinese immigrants, who arrived under a cash-for-passports scheme that ended in 1998, now dominate much of the small business sector, especially retailing on the island of Tongatapu.",
+        "• The manufacturing sector in Tonga is limited to handicrafts and a few very small-scale industries, collectively contributing about 3% of the country’s GDP.",
+        "• Commercial business activities are minimal and largely controlled by large trading companies common throughout the South Pacific region.",
+        "• Tonga’s first commercial trading bank, the Bank of Tonga, was established in September 1974.",
+        "• Rural Tongans primarily depend on plantation and subsistence agriculture, with coconuts, vanilla beans, and bananas as the major cash crops.",
+        "• The only significant industry related to agriculture is the processing of coconuts into copra and desiccated coconut.",
+        "• Livestock farming focuses mainly on pigs and poultry, while horses are used as draft animals by farmers working their api (small farms).",
+        "• Cattle raising is increasing, leading to a decline in beef imports.",
+        "• Tonga’s development plans prioritize expanding the private sector, improving agricultural productivity, revitalizing the squash and vanilla bean industries, developing tourism, and enhancing communications and transportation infrastructure.",
+        "• A small but growing construction sector is emerging, driven by aid inflows and remittances from Tongans living abroad.",
+        "• The copra industry faces challenges due to persistently low world market prices.",
+        "• Efforts to diversify the economy include exploring fisheries, with tests indicating sufficient skipjack tuna in Tongan waters to support a fishing industry.",
+        "• Forestry is another potential development area; forests cover 35% of Tonga’s land but are decreasing due to land clearing, while coconut trees past their prime offer a possible lumber resource.",
+        "• The tourism industry remains relatively undeveloped, though the government acknowledges its potential importance and is working to increase tourism revenue; cruise ships frequently visit Nukuʻalofa and Vava'u.",
+        "• According to the CIA World Factbook, agriculture forms the economic base, contributing 30% to GDP, with squash, coconuts, bananas, and vanilla beans as main crops, and agricultural exports constituting two-thirds of total exports.",
+        "• Tonga imports a large proportion of its food, mainly from New Zealand.",
+        "• The industrial sector accounts for only 10% of GDP.",
+        "• Tourism is the primary source of hard currency earnings for Tonga.",
+        "• The country remains dependent on substantial external aid and remittances to balance its trade deficit.",
+        "• The government emphasizes private sector development, particularly encouraging investment to stimulate economic growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:46.273387",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_tonga.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Tonga",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2008, Tonga's electricity production totaled 53 gigawatt-hours (GW·h).",
+        "• The electricity production by source in 2009 consisted of 92% from fossil fuels, 0% from nuclear energy, 0% from hydroelectric power, and 8% from renewable energy sources.",
+        "• Tonga's electricity consumption was recorded at 38.13 GW·h in 2003.",
+        "• In 2003, Tonga did not export any electricity, with exports measured at 0 kilowatt-hours (kW·h).",
+        "• Similarly, Tonga did not import any electricity in 2003, with imports also at 0 kW·h.",
+        "• In 2021, the Tongan government set a national target to achieve 70% renewable energy generation by the year 2030.",
+        "• In July 2012, Tonga Power inaugurated the country’s first solar photovoltaic generator, the 1.32 MW Maama Mai Solar Farm located on the island of Tongatapu.",
+        "• Following the initial solar farm, a larger 6 MW solar farm was developed, distributed across three separate sites on Tongatapu.",
+        "• In 2022, Tonga commissioned a pair of grid batteries with a capacity of 13 MW / 24 MWh on the main island to enhance energy storage and grid stability.",
+        "• The Outer Islands Renewable Energy Project is actively installing solar and battery systems on nine smaller islands, while simultaneously upgrading the electrical grids on the islands of ʻEua and Vavaʻu."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:42.487312",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_tonga.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Other data",
+      "chapter_name": "Economy of Tonga",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tonga's agricultural products include squash, coconuts, copra, bananas, vanilla beans, cocoa, coffee, ginger, black pepper, and fish.",
+        "• In 2018, Tonga produced 148 thousand tons of coconut, representing the largest agricultural output by volume.",
+        "• The country produced 20 thousand tons of squash in 2018.",
+        "• Cassava production in Tonga reached 6.7 thousand tons in 2018.",
+        "• Sweet potato production was recorded at 6.4 thousand tons in 2018.",
+        "• Tonga produced 6 thousand tons of vegetables in 2018.",
+        "• Yam production amounted to 4.5 thousand tons in 2018.",
+        "• Tonga also produced smaller quantities of various other agricultural products beyond those listed.",
+        "• The official currency of Tonga is the pa'anga (T$), subdivided into 100 seniti.",
+        "• Historical exchange rates of the pa'anga against the US dollar are as follows: 1.9716 T$ per US$1 in 2004; 2.142 in 2003; 2.1952 in 2002; 2.1236 in 2001; 1.6250 in November 1999; 1.4921 in 1998; 1.2635 in 1997; 1.2323 in 1996; and 1.2709 in 1995."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:39.421785",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_tonga.json",
+      "original_index": 2
+    }
+  ]
+}

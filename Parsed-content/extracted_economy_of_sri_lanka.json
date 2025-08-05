@@ -1,0 +1,851 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_sri_lanka.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.004682",
+    "total_sections_in_source": 33,
+    "extracted_sections_count": 33,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The mixed economy of Sri Lanka was valued at LKR 29.89 trillion (approximately $99 billion) by gross domestic product (GDP) in 2024, with a purchasing power parity (PPP) valuation of $342.6 billion.",
+        "• In 2024, Sri Lanka's economy expanded by 5.0%, indicating a strong recovery following the economic crisis experienced in 2022.",
+        "• Sri Lanka successfully met the Millennium Development Goal (MDG) target of halving extreme poverty and is on track to achieve most other MDGs, outperforming other countries in South Asia.",
+        "• By 2016, Sri Lanka's poverty headcount index was recorded at 4.1%, reflecting significant progress in poverty reduction.",
+        "• Following the conclusion of the three-decade-long Sri Lankan Civil War, the country has prioritized addressing long-term strategic and structural development challenges and has financed multiple infrastructure projects.",
+        "• The country faced high foreign debt levels, economic mismanagement under the administrations of Gotabhaya Rajapaksa and Mahinda Rajapaksa, and a decline in tourism revenue, which collectively led to Sri Lanka defaulting on its sovereign debt in April 2022.",
+        "• In 2022, the Sri Lankan economy contracted by 7.8%, and the proportion of the population earning less than $3.65 per day doubled to approximately 25%.",
+        "• On March 20, 2023, the International Monetary Fund (IMF) provided Sri Lanka with a loan of US$3 billion as part of a 48-month debt relief program to assist in economic recovery."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:40.617803",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, the services sector accounted for 58.2% of Sri Lanka's economy, an increase from 54.6% in 2010, indicating significant growth over the decade.",
+        "• The industrial sector comprised 27.4% of the economy in 2019, up from 26.4% ten years earlier, showing moderate expansion.",
+        "• Agriculture represented 7.4% of the economy, with a competitive export agricultural sector; however, technological advancements have been slow to penetrate the protected domestic agricultural sector.",
+        "• Sri Lanka is recognized as the largest manufacturing center globally for solid and industrial tyres.",
+        "• The apparel sector in Sri Lanka is progressing by moving up the value chain, enhancing product quality and market positioning.",
+        "• Despite these advancements, rising trade protectionism over the past decade has raised concerns about a resurgence of inward-looking economic policies.",
+        "• In the services sector, ports and airports contribute significantly to income generation, supporting Sri Lanka’s emerging status as a regional shipping and aviation hub.",
+        "• The Port of Colombo is the largest transshipment hub in South Asia, underscoring its strategic importance in maritime trade.",
+        "• The software and information technology sector in Sri Lanka is growing, competitive, and open to global competition, reflecting diversification in services.",
+        "• Tourism is a rapidly expanding sector; in 2019, Lonely Planet named Sri Lanka the best destination to visit, and Travel+Leisure recognized it as the best island destination.",
+        "• Sri Lanka’s top export destinations are the United States, United Kingdom, and India, highlighting key international trade relationships.",
+        "• The main import partners for Sri Lanka are China, India, and the United Arab Emirates (UAE), indicating significant regional trade connections.",
+        "• The onset of the COVID-19 pandemic exacerbated existing concerns regarding Sri Lanka’s slowing economic growth, excessive money printing, and rising government debt, leading to multiple sovereign credit rating downgrades.",
+        "• Following heightened monetary instability caused by debt monetization, import controls and import substitution policies have intensified in Sri Lanka.",
+        "• Sri Lanka was recognized as one of the top 10 countries globally for its handling of the COVID-19 pandemic, reflecting effective public health management.",
+        "• In 2021, the Sri Lankan government officially declared the country was experiencing its worst economic crisis in 73 years.",
+        "• On April 12, 2021, Sri Lanka announced the suspension of most foreign debt repayments after two years of money printing aimed at supporting tax cuts, ending its previously unblemished record of debt servicing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:40.688696",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Early history",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sri Lanka has historically functioned as a significant trading hub due to its strategic location at the center of east–west trade routes and its development of irrigated agriculture in the hinterland, as evidenced by both indigenous historical texts and foreign travelers’ accounts.",
+        "• The island features ancient irrigation reservoirs known as tanks, constructed by early Kings following the Indo-Aryan migration; many of these tanks remain extant and are integrated into a broader irrigation system that includes modern infrastructure.",
+        "• Faxian (also spelled Fa Hsien), a Chinese Buddhist monk who traveled to India and Sri Lanka around 400 AD, documented existing legends of pre-Indo-Aryan trade between foreign merchants and native tribal peoples on the island, describing it as originally uninhabited except for spirits and naga serpent worshipers engaged in commerce.",
+        "• According to Faxian’s work, 'A Record of Buddhistic Kingdoms,' Sri Lanka was known for its precious stones and pearl fisheries, which were subject to a 30% tax imposed by the king.",
+        "• Faxian traveled to Sri Lanka aboard a large merchant vessel from India and returned to China on a merchant ship carrying over 200 men; during the return voyage, the ship encountered a storm, forcing merchants to jettison cargo before arriving at Java-dvipa (modern Indonesia), demonstrating Sri Lanka’s active participation in both coastal and long-distance maritime trade networks.",
+        "• Cosmas Indicopleustes, a 6th-century merchant and monk from Alexandria, Egypt, who visited the Indian subcontinent, referred to Sri Lanka as Taprobane and Sieladiba in his work 'Christian Topography,' highlighting the island’s prominence as a commercial center.",
+        "• Cosmas described Sri Lanka’s central geographic position as attracting ships from across India, Persia, and Ethiopia, while also dispatching its own vessels, indicating extensive maritime connectivity.",
+        "• He noted that Sri Lanka received goods such as silk, aloes, cloves, sandalwood, and other products from distant trading regions including Tzinista (China) and other locations, which were then redistributed to markets on the Indian subcontinent, including Male (Malabar or the southwest Indian coast) and Calliana (Kalyana).",
+        "• Cosmas emphasized Sri Lanka’s role as a major commercial hub, centrally located in the Indies, renowned for its hyacinth (sapphire) trade, and functioning as both an importer and exporter within regional and long-distance trade networks."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:42.154767",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Independence to 1977",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• At the time of gaining independence from the British in 1948, Sri Lanka possessed economic and social indicators comparable to Japan and was ahead of many Asian nations.",
+        "• Sri Lanka's social indicators were considered \"exceptionally high,\" with literacy reaching 21.7% by the late 19th century.",
+        "• A Malaria eradication policy implemented in 1946 reduced the death rate from 20 per thousand in 1946 to 14 per thousand by 1947.",
+        "• Life expectancy at birth in Sri Lanka in 1948 was 54 years, slightly below Japan’s 57.5 years.",
+        "• In 1950, Sri Lanka’s infant mortality rate was 82 deaths per thousand live births, compared to Malaysia’s 91 and the Philippines’ 102.",
+        "• Due to its strategic location in the Indian Ocean, Sri Lanka was expected to achieve rapid economic growth post-independence and was regarded as one of the most promising new nations in Asia.",
+        "• However, by 1960, initial optimism had diminished due to poor economic policies and mismanagement.",
+        "• In 1950, Sri Lanka’s unadjusted school enrollment ratio for ages 5-19 was 54%, higher than India’s 19% and Korea’s 43%, but lower than the Philippines’ 59%.",
+        "• By 1979, Sri Lanka’s school enrollment rate increased to 74%, but was surpassed by the Philippines at 85% and Korea at 94%.",
+        "• At independence, Sri Lanka inherited a stable macroeconomic environment, established a central bank, and joined the International Monetary Fund (IMF), entering the Bretton Woods system of currency pegs on August 29, 1950.",
+        "• Exchange controls were tightened in 1953 through new legislation to manage the economy.",
+        "• From 1961 to 1964, economic controls and restrictions were intensified in response to foreign exchange crises, followed by partial liberalization from 1965 to 1970.",
+        "• After the 1967 Sterling Crisis, a currency devaluation occurred, but controls were maintained.",
+        "• Between 1970 and 1977, economic controls were further tightened alongside the collapse of the Bretton Woods system.",
+        "• Economist Saman Kelegama described this period as characterized by cycles of tightening, partial relaxing, and re-tightening of trade regimes and related policies due to perceived foreign exchange crises.",
+        "• In the early 1960s, Sri Lanka adopted a strategy of gradual economic isolation from external markets, initiating a standard import-substitution industrialization regime with associated controls and restrictions.",
+        "• This period also saw widespread expropriation and state intervention in economic activities.",
+        "• In 1960, Sri Lanka’s per capita GDP was 152 US dollars, comparable to Korea’s 153 and Taiwan’s 149, but lower than Malaysia’s 280 and the Philippines’ 254; Thailand and Indonesia had lower figures at 95 and 62 respectively.",
+        "• By 1978, Sri Lanka’s per capita GDP had increased to 226 dollars, but was significantly lower than Malaysia’s 588, Indonesia’s 370, and Taiwan’s 505.",
+        "• The 1970s witnessed significant political unrest, including the JVP insurrection in the south and the emergence of the roots of a civil war in the northern and eastern regions of Sri Lanka."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:48.092703",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Post 1977 period",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1977, Colombo abandoned statist economic policies and the import substitution industrialisation policy, shifting towards market-oriented policies and export-oriented trade, leading Sri Lanka to develop dynamic industries such as food processing, textiles and apparel, food and beverages, telecommunications, insurance, and banking.",
+        "• During the 1970s, the share of the middle class in Sri Lanka increased, reflecting socio-economic changes preceding the economic policy shift.",
+        "• Between 1977 and 1994, under United National Party (UNP) rule and President J.R. Jayawardana, Sri Lanka moved away from a socialist orientation by deregulating, privatizing, and opening the economy to international competition.",
+        "• In 2001, Sri Lanka faced a severe financial crisis with debt reaching 101% of GDP, nearly leading to bankruptcy; the crisis was averted through a ceasefire agreement with the LTTE and the securing of substantial foreign loans.",
+        "• After 2004, the United People's Freedom Alliance (UPFA) government focused on mass production of goods for domestic consumption, including rice, grain, and other agricultural products.",
+        "• Twenty-five years of civil war significantly slowed economic growth, diversification, and liberalization, while the Janatha Vimukthi Peramuna (JVP) uprisings, particularly the second uprising in the early 1980s, caused extensive social and political upheaval.",
+        "• Following the suppression of the JVP insurrection, increased privatization, economic reforms, and emphasis on export-oriented growth improved economic performance, raising GDP growth to 7% in 1993.",
+        "• By 1996, plantation crops constituted only 20% of exports, a sharp decline from 93% in 1970, while textiles and garments accounted for 63% of exports, indicating a significant structural shift in the export sector.",
+        "• Throughout the 1990s, GDP grew at an average annual rate of 5.5%, though growth slowed to 3.8% in 1996 due to drought and deteriorating security conditions.",
+        "• The economy rebounded with growth rates of 6.4% in 1997 and 4.7% in 1998 but slowed again to 3.7% in 1999.",
+        "• The Central Bank of Sri Lanka recommended further reforms including expanding market mechanisms in non-plantation agriculture, dismantling the government’s monopoly on wheat imports, and promoting competition in the financial sector.",
+        "• Economic growth during 1991–2000 averaged 5.2% annually, but growth was uneven due to various global and domestic economic and political challenges.",
+        "• In 2001, Sri Lanka experienced a GDP contraction of 1.4%, the first negative growth since independence, caused by global and domestic economic problems and terrorist attacks in Sri Lanka and the United States.",
+        "• The 2001 economic crisis exposed fundamental policy failures and structural imbalances, emphasizing the need for comprehensive reforms.",
+        "• Parliamentary elections in December 2001 resulted in the United National Party winning parliamentary seats, while the Sri Lanka Freedom Party retained the presidency.",
+        "• During the brief peace process from 2002 to 2004, the economy benefited from lower interest rates, recovery in domestic demand, increased tourist arrivals, revival of the stock exchange, and increased foreign direct investment (FDI).",
+        "• In 2002, economic growth reached 4%, supported by strong service sector growth and a partial recovery in agriculture; total FDI inflows amounted to approximately $246 million.",
+        "• The Mahinda Rajapaksa government halted privatization efforts, launched new state-owned companies, and re-nationalized previously privatized enterprises, with courts declaring some privatizations null and void.",
+        "• Several state-owned corporations became overstaffed and inefficient during this period, incurring large losses amid uncovered frauds and rising nepotism.",
+        "• The European Union revoked Sri Lanka’s GSP Plus preferential tariff status due to alleged human rights violations, resulting in an estimated annual loss of US$500 million.",
+        "• The resumption of the civil war in 2005 caused a steep increase in defense expenditures and led some donor countries to reduce aid due to escalating violence and lawlessness.",
+        "• A sharp rise in global petroleum prices combined with the economic impact of the civil war caused inflation to peak at 20%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:49.830863",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Post-civil war period",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to 2009, Sri Lanka's economy was heavily impacted by the ongoing civil war between the Government of Sri Lanka and the Liberation Tigers of Tamil Eelam (LTTE), creating a persistent cloud of uncertainty over economic activities.",
+        "• The civil war concluded decisively on 19 May 2009 with the total elimination of the LTTE, marking a significant turning point for the country's stability and economic prospects.",
+        "• Following the end of the civil war, Sri Lanka's economy experienced robust growth, with the GDP expanding by 8.0% in 2010 and further accelerating to 9.1% in 2012, largely driven by a boom in non-tradable sectors.",
+        "• Despite this initial post-war boom, economic growth slowed considerably thereafter, with GDP growth declining to 3.4% in 2013 and only modestly recovering to 4.5% in 2014.",
+        "• Under the leadership of Prime Minister and Minister of National Policy and Economic Affairs Ranil Wickremesinghe, government policies and economic reforms aimed to stimulate growth through the creation of the Western Region Megapolis in the western province, intended as a major urban and economic development hub.",
+        "• Additional plans included establishing multiple specialized business and technology development zones across the island, as well as designated tourism zones to diversify and strengthen the economy.",
+        "• In the mid to late 2010s, Sri Lanka faced significant economic challenges including rising debt levels and a political crisis, which led to downgrades in the country's sovereign debt ratings.",
+        "• In 2016, the government successfully lifted a European Union ban on Sri Lankan fish products, resulting in a 200% increase in fish exports to the EU, signaling improvements in trade relations.",
+        "• By 2017, enhancements in human rights conditions prompted the European Commission to propose restoring the Generalized Scheme of Preferences Plus (GSP+) trade facility to Sri Lanka, potentially boosting exports.",
+        "• Tax revenue as a percentage of GDP increased from a low of 10% in 2014—the lowest in nearly two decades—to 12.3% in 2015, reflecting efforts to improve fiscal stability.",
+        "• Despite these reforms, Bloomberg listed Sri Lanka among countries with the highest investment risk, highlighting ongoing economic vulnerabilities.",
+        "• Economic growth further decelerated to 3.3% in 2018 and 2.3% in 2019, indicating a prolonged slowdown.",
+        "• The Sri Lankan Rupee depreciated significantly against the US dollar, falling from 131 to 182 between 2015 and 2019, which exacerbated foreign debt burdens and dampened domestic consumption, ending a period of relative economic stability.",
+        "• Over the past decade, China emerged as Sri Lanka’s top creditor, surpassing traditional lenders such as Japan and the World Bank, reflecting shifting geopolitical and financial influences.",
+        "• Sri Lanka’s key economic sectors include tourism, tea exports, apparel and textile manufacturing, rice production, and other agricultural products, all contributing substantially to GDP.",
+        "• Overseas employment also plays a critical role in generating foreign exchange earnings for the country.",
+        "• In early 2022, Sri Lankan government bonds exhibited a spike in yields accompanied by an inverted yield curve across maturities including 15-year, 10-year, 5-year, 1-year, and 6-month bonds, signaling investor concerns about economic stability.",
+        "• The Sri Lankan Rupee began rapidly depreciating against the US dollar in early March 2022, intensifying currency instability.",
+        "• By the early 2020s, Sri Lanka was engulfed in a severe economic crisis characterized by prolonged shortages of essential goods such as food, fuel, and electricity, severely affecting the population.",
+        "• Official inflation data indicated a peak inflation rate of 57% during the crisis period, reflecting extreme price volatility and economic distress.",
+        "• In April 2022, Sri Lanka officially declared a sovereign default on its debt obligations, marking a historic financial collapse.",
+        "• In June 2022, Prime Minister Ranil Wickremesinghe publicly acknowledged in parliament the total collapse of the Sri Lankan economy, stating that the country was unable to finance essential imports and services."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:46.859402",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2",
+      "section_name": "Macroeconomic trends",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the International Monetary Fund, Sri Lanka's gross domestic product (GDP) at market prices in millions of Sri Lankan Rupees showed a consistent increase from 66,167 million in 1980 to 14,601,600 million in 2020, with the exchange rate of Sri Lankan Rupees to US Dollars rising from 16.53 in 1980 to 189.00 in 2020.",
+        "• For purchasing power parity (PPP) comparisons, the US Dollar is exchanged at a fixed rate of 113.4 Sri Lankan Rupees, differing significantly from nominal exchange rates over the years.",
+        "• In 1980, Sri Lanka's GDP was 16.58 billion US$ (PPP) and 4.02 billion US$ (nominal), with a GDP per capita of 1,135 US$ (PPP) and 267 US$ (nominal), a real GDP growth rate of 5.8%, inflation at 26.1%, and government debt at 78% of GDP.",
+        "• By 1985, GDP increased to 27.43 billion US$ (PPP) and 5.97 billion US$ (nominal), GDP per capita rose to 1,772 US$ (PPP) and 369 US$ (nominal), real GDP growth slowed to 5.0%, inflation dropped sharply to 1.5%, and government debt rose to 95% of GDP.",
+        "• In 1990, GDP reached 37.74 billion US$ (PPP) and 8.03 billion US$ (nominal), with GDP per capita at 2,320 US$ (PPP) and 463 US$ (nominal), real GDP growth was 6.2%, inflation increased to 21.5%, and government debt decreased to 82% of GDP.",
+        "• The year 1995 saw GDP at 56.28 billion US$ (PPP) and 13.03 billion US$ (nominal), GDP per capita at 3,257 US$ (PPP) and 714 US$ (nominal), a real GDP growth rate of 6.1%, inflation at 7.7%, and government debt at 80% of GDP.",
+        "• In 2000, GDP was 83.03 billion US$ (PPP) and 16.33 billion US$ (nominal), GDP per capita reached 4,496 US$ (PPP) and 869 US$ (nominal), real GDP growth increased to 8.4%, inflation was 6.2%, and government debt remained at 82% of GDP.",
+        "• By 2005, GDP rose to 112.59 billion US$ (PPP) and 24.41 billion US$ (nominal), GDP per capita was 5,739 US$ (PPP) and 1,248 US$ (nominal), real GDP growth was 6.2%, inflation increased to 11.0%, and government debt slightly decreased to 79% of GDP.",
+        "• In 2006, GDP increased to 124.94 billion US$ (PPP) and 28.28 billion US$ (nominal), GDP per capita was 6,319 US$ (PPP) and 1,435 US$ (nominal), real GDP growth rose to 7.7%, inflation decreased to 10.0%, and government debt further declined to 77% of GDP.",
+        "• The year 2007 recorded GDP at 136.99 billion US$ (PPP) and 32.35 billion US$ (nominal), GDP per capita at 6,874 US$ (PPP) and 1,630 US$ (nominal), real GDP growth at 6.8%, inflation increased to 15.8%, and government debt dropped to 74% of GDP.",
+        "• In 2008, GDP reached 147.99 billion US$ (PPP) and 40.71 billion US$ (nominal), GDP per capita was 7,309 US$ (PPP) and 2,037 US$ (nominal), real GDP growth was 6.0%, inflation decreased to 9.6%, and government debt was 71% of GDP.",
+        "• The 2009 figures show GDP at 154.39 billion US$ (PPP) and 42.07 billion US$ (nominal), GDP per capita at 7,540 US$ (PPP) and 2,090 US$ (nominal), real GDP growth slowed to 3.5%, inflation dropped to 3.4%, and government debt increased slightly to 75% of GDP.",
+        "• In 2010, GDP increased to 168.80 billion US$ (PPP) and 56.73 billion US$ (nominal), GDP per capita rose to 8,164 US$ (PPP) and 2,799 US$ (nominal), real GDP growth rebounded to 8.0%, inflation rose to 6.3%, and government debt decreased to 72% of GDP.",
+        "• By 2011, GDP was 186.76 billion US$ (PPP) and 65.29 billion US$ (nominal), GDP per capita at 8,949 US$ (PPP) and 3,200 US$ (nominal), real GDP growth was 8.4%, inflation increased slightly to 6.7%, and government debt remained at 71% of GDP.",
+        "• In 2012, GDP rose to 207.60 billion US$ (PPP) and 68.43 billion US$ (nominal), GDP per capita reached 10,164 US$ (PPP) and 3,350 US$ (nominal), real GDP growth increased to 9.1%, inflation rose to 7.5%, and government debt decreased to 70% of GDP.",
+        "• The year 2013 saw GDP at 218.11 billion US$ (PPP) and 74.32 billion US$ (nominal), GDP per capita at 10,599 US$ (PPP) and 3,610 US$ (nominal), real GDP growth slowed to 3.4%, inflation decreased to 6.9%, and government debt increased slightly to 72% of GDP.",
+        "• In 2014, GDP increased to 233.01 billion US$ (PPP) and 79.36 billion US$ (nominal), GDP per capita was 11,220 US$ (PPP) and 3,819 US$ (nominal), real GDP growth rose to 5.0%, inflation dropped significantly to 2.8%, and government debt remained at 72% of GDP.",
+        "• By 2015, GDP reached 247.37 billion US$ (PPP) and 80.60 billion US$ (nominal), GDP per capita was 11,798 US$ (PPP) and 3,843 US$ (nominal), real GDP growth remained steady at 5.0%, inflation further decreased to 2.2%, and government debt increased to 78% of GDP.",
+        "• In 2016, GDP was 261.72 billion US$ (PPP) and 82.40 billion US$ (nominal), GDP per capita rose to 12,343 US$ (PPP) and 3,886 US$ (nominal), real GDP growth slowed to 4.5%, inflation increased to 4.0%, and government debt rose to 80% of GDP.",
+        "• The year 2017 recorded GDP at 274.72 billion US$ (PPP) and 87.42 billion US$ (nominal), GDP per capita at 12,811 US$ (PPP) and 4,076 US$ (nominal), real GDP growth declined to 3.1%, inflation increased to 6.5%, and government debt slightly decreased to 79% of GDP.",
+        "• In 2018, GDP increased to 285.37 billion US$ (PPP) and 87.95 billion US$ (nominal), GDP per capita was 13,169 US$ (PPP) and 4,058 US$ (nominal), real GDP growth rose to 3.8%, inflation decreased to 3.8%, and government debt increased to 84% of GDP.",
+        "• By 2019, GDP reached 297.01 billion US$ (PPP) and 83.98 billion US$ (nominal), GDP per capita was 13,622 US$ (PPP) and 3,851 US$ (nominal), real GDP growth was 4.1%, inflation dropped to 2.7%, and government debt rose to 87% of GDP.",
+        "• In 2020, Sri Lanka's GDP declined slightly to 289.88 billion US$ (PPP) and 80.71 billion US$ (nominal), GDP per capita decreased to 13,225 US$ (PPP) and 3,682 US$ (nominal), real GDP growth contracted by -2.4%, inflation increased to 3.4%, and government debt surged to 101% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:12.274420",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3",
+      "section_name": "Trade statistics",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, Sri Lanka's export revenue from merchandise and services amounted to $13.7 billion, while imports totaled $19.1 billion.",
+        "• In 2017, export revenue increased to $15.0 billion, with imports rising to $20.9 billion.",
+        "• The year 2018 saw further growth in exports to $15.9 billion and imports to $22.2 billion.",
+        "• In 2019, export revenue slightly decreased to $15.8 billion, whereas imports declined more significantly to $19.9 billion.",
+        "• The year 2020 experienced a notable reduction in both exports and imports, with exports falling to $12.8 billion and imports to $15.5 billion.",
+        "• In 2021, export revenue rebounded to $15.1 billion, and imports increased to $20.6 billion.",
+        "• For 2022, exports slightly decreased to $14.8 billion, while imports dropped to $18.2 billion.",
+        "• Data for 2023 is not provided in the available statistics.",
+        "• The forecast or reported figures for 2024 indicate export revenue of $16.17 billion and imports of $18.84 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:45.852274",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Largest trading partners with Sri Lanka",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2020, Sri Lanka's total exports amounted to $10.3 billion, while its total imports were valued at $14.9 billion.",
+        "• The United States was Sri Lanka's largest trading partner by total trade in 2020, with exports of $2,560 million and imports of $355 million, resulting in a trade balance surplus of $2,205 million and a total trade volume of $2,915 million.",
+        "• The United Kingdom ranked second among Sri Lanka's trading partners, with exports of $793 million and imports of $167 million, yielding a trade balance surplus of $626 million and a total trade volume of $960 million.",
+        "• India was the third largest trading partner, with exports from Sri Lanka valued at $668 million and imports at $3,220 million, resulting in a significant trade deficit of $2,552 million and total trade of $3,888 million.",
+        "• Germany ranked fourth, with Sri Lankan exports of $651 million and imports of $269 million, producing a trade surplus of $382 million and total trade of $978 million.",
+        "• Italy was the fifth largest partner, with exports of $432 million and imports of $246 million, leading to a trade surplus of $186 million and total trade of $678 million.",
+        "• The Netherlands stood sixth, with exports of $305 million and imports of $90.9 million, resulting in a trade surplus of $214.1 million and total trade of $395.9 million.",
+        "• Belgium ranked seventh, with exports of $285 million and imports of $37.7 million, yielding a trade surplus of $247.3 million and total trade of $322.7 million.",
+        "• China was the eighth largest trading partner, with Sri Lankan exports of $256 million and imports of $3,820 million, resulting in the largest trade deficit of $3,564 million and total trade volume of $4,076 million.",
+        "• Canada ranked ninth, with exports of $225 million and imports of $177 million, producing a trade surplus of $48 million and total trade of $402 million.",
+        "• Japan was the tenth largest trading partner, with exports of $200 million and imports of $376 million, resulting in a trade deficit of $176 million and total trade of $576 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:51.775970",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Sovereign Debt Crisis 2022",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After two years of implementing money printing and tax cuts aimed at providing fiscal and monetary stimulus, Sri Lanka declared a 'pre-emptive negotiated default' on its foreign debt obligations.",
+        "• The declaration stated that most of Sri Lanka's foreign debt would not be repaid starting from April 12, 2022.",
+        "• Following this announcement, Fitch Ratings downgraded Sri Lanka's sovereign credit rating from 'CC' to 'C'.",
+        "• Fitch Ratings further indicated that Sri Lanka's rating would be downgraded to restricted default (RD) status once the country missed its first debt payment.",
+        "• Concurrently, Standard and Poor's (S&P) downgraded Sri Lanka's sovereign rating to 'CC'.",
+        "• S&P also stated that Sri Lanka would be downgraded to selective default (SD) status after missing a payment on its debt."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:49.319254",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "GDP growth 2021 and projections for 2022",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sri Lanka's gross domestic product (GDP) contracted by 4% in 2020, primarily due to government responses to the Coronavirus pandemic; this contraction was greater than the previous contraction recorded in 2001 and followed several years of slow growth and currency depreciation.",
+        "• The International Monetary Fund (IMF) initially projected a 4.6% contraction for Sri Lanka's GDP in 2020, indicating the severity of the economic downturn caused by the pandemic.",
+        "• In the second quarter of 2020, Sri Lanka's GDP contracted by an estimated 16%, marking the largest quarterly decline on record, followed by a 2% expansion in the third quarter.",
+        "• For the first nine months of 2020, Sri Lanka's GDP was estimated to have contracted by 5%, reflecting ongoing economic challenges throughout the year.",
+        "• Prior to the pandemic, Sri Lanka's economic growth rates showed a declining trend: 5.0% in 2015, 4% in 2016, 4% in 2017, 3% in 2018, and 2% in 2019.",
+        "• The Sri Lankan economy experienced multiple shocks between 2016 and 2019, including a currency crisis that led to an IMF program in 2016, political instability in 2018 coupled with a second currency crisis, and the impact of suicide bombings by an Islamist extremist group on Easter Sunday 2019.",
+        "• In 2021, Sri Lanka's economy grew by 4%, despite challenges such as excessive central bank financing which contributed to balance of payments deficits and foreign exchange shortages.",
+        "• The International Monetary Fund forecasted a 3% economic growth for Sri Lanka in 2022 but cautioned that risks were predominantly on the downside, warning that the economy could implode due to trade contractions and monetary instability exacerbated by continued money printing (central bank credit expansion).",
+        "• Independent economists expressed concerns over the government's monetary policy, particularly the use of Modern Monetary Theory and money printing, which they warned could worsen economic instability.",
+        "• The Central Bank of Sri Lanka stated that the economy was being managed through an alternative approach, differing from conventional monetary policies.",
+        "• The World Bank warned that Sri Lanka's public and publicly guaranteed debt could rise to 115% of GDP in 2021, which could lead to a worsening of poverty levels in the country.",
+        "• Despite progress in managing the Coronavirus pandemic, external debt remained a significant challenge for Sri Lanka's economy as of 2021."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:55.466921",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Fiscal Developments",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, Sri Lanka's budget deficit was initially reported as -6.8% of GDP but later revised to 9.4%; in 2020, the deficit was reported as 11.1% and later revised to 14%, while the forecast for 2021 was a deficit of -9.4%.",
+        "• The 2021 budget deficit expectation of 9.4% of GDP was adjusted downward following a revision of nominal output due to the economic impact of the Coronavirus pandemic in 2020.",
+        "• The budget initially submitted to parliament for 2021 anticipated an 8.9% deficit, with growth slowed by the pandemic and compounded by tax cuts.",
+        "• Concerns were raised about the 2021 deficit targets being overly optimistic due to ongoing uncertainties from the Coronavirus pandemic and global economic weaknesses, with Fitch Ratings projecting a higher deficit of 11.5%.",
+        "• The Finance Ministry argued that a lower interest bill, gradual economic recovery in 2021, and increased foreign direct investment into the Port City would bolster economic activity and improve state finances.",
+        "• The Treasury expressed intentions to increase domestic borrowing rather than relying on foreign loans.",
+        "• Sri Lanka’s national debt has been rising steadily amid weak economic growth and policy deadlock, with central government debt reaching 101% of GDP after the sharp deficit increase in 2020.",
+        "• The debt-to-GDP ratio increased from 77.9% in 2017 to 86.8% in 2019, reflecting worsening fiscal conditions.",
+        "• In 2020, the Ministry of Finance altered its cash-basis accounting method by charging some payment arrears to the previous year, leading to a reported 2020 deficit of 11.1% of GDP and a revised 2019 deficit of 9.6%, up from 6.8%.",
+        "• The main opposition party accused the Ministry of Finance of accounting fraud, arguing that under the country’s cash-basis accounting convention, arrears should be charged to the year they were paid.",
+        "• The actual deficit financed in 2020 was 14.0% of GDP, highlighting discrepancies in reported figures.",
+        "• FactCheck.lk, a Sri Lanka-based fact-checking portal, stated that the reallocation of deficit figures to 2019 \"cannot be validated by an accounting standard.\"",
+        "• Sri Lanka sought international credit ratings in 2005 after Mahinda Rajapakse’s election as president to facilitate borrowing from international markets.",
+        "• Standard and Poor’s assigned Sri Lanka a \"B+\" speculative rating, four levels below investment grade, while Fitch rated it \"BB−,\" three grades below investment grade.",
+        "• Standard and Poor’s cited constraints including widespread subsidies, an oversized public sector, transfers to loss-making state enterprises, and high local and international interest burdens.",
+        "• Standard and Poor’s estimated public sector debt at 95% of GDP, compared to the CIA’s estimate of 89% of GDP.",
+        "• In mid-2007, Sri Lanka sought to borrow $500 million from international markets to stabilize the deteriorating exchange rate and reduce pressure on domestic debt repayments.",
+        "• Ranil Wickremasinghe, head of the opposition United National Party (UNP), warned that such intense borrowing was unsustainable and that loans would not be repaid if his party came to power.",
+        "• Sri Lanka’s credit rating was progressively downgraded following multiple currency crises and economic shocks: Fitch downgraded Sri Lanka to 'B' in December 2018 and further to 'B−' in April 2020 amid the global Coronavirus pandemic.",
+        "• Moody’s downgraded Sri Lanka to Caa1 in September 2020, a move disputed by the Finance Ministry.",
+        "• Fitch Ratings downgraded Sri Lanka to CCC in November 2020, citing fiscal and external vulnerabilities.",
+        "• Standard and Poor’s downgraded Sri Lanka to 'CCC+' in December 2020, referencing high fiscal deficits and excessive domestic liquidity; this downgrade was also protested by the Finance Ministry.",
+        "• Sri Lanka’s investment-to-GDP ratio stands at approximately 31%, composed of about 24% private investment and 5% public investment.",
+        "• The private savings rate is about 24%, while the government is a net dis-saver, resulting in a domestic savings-investment gap of around 7% of GDP.",
+        "• In 2019, investment fell to 27.4% of GDP from 30.4% in 2018, with the domestic savings rate also declining to 21.3% from 23%.",
+        "• The government’s revenue deficit (government dis-saving) increased from 1.2% to 2.7% of GDP in 2019, undermining the overall savings rate.",
+        "• Efforts are underway to improve Sri Lanka’s ranking on the Ease of Doing Business index, where it stood at 111 in 2018, down from 85th in 2014.",
+        "• Sri Lanka’s overall tariff structure is also being addressed to enhance economic competitiveness.",
+        "• In 1992, Sri Lanka’s exports were comparable to those of Vietnam and Bangladesh at approximately US$2 billion.",
+        "• By the end of 2017, Sri Lanka’s exports had grown to US$12 billion, significantly lagging behind Vietnam’s US$214 billion and Bangladesh’s US$36 billion in the same year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:07.136716",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Inflation in 2021",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Inflation in Sri Lanka, as measured by the Colombo Consumer Price Index (CPI), was 4.2% for the year ending December 2020 and decreased slightly to 3.9% in April 2021.",
+        "• The Colombo CPI inflation rate increased to 6.0% in the 12 months leading to August 2021, up from 5.7% in July 2021, indicating a rising inflation trend during mid-2021.",
+        "• In 2019, Sri Lanka's inflation rate was recorded at 4.8%, showing a moderate increase in inflation over the subsequent years.",
+        "• The Department of Census and Statistics of Sri Lanka compiles a National Consumer Price Index (NCPI), which is released with a delay compared to the Colombo CPI.",
+        "• Inflation measured by the NCPI rose to 6.8% in July 2021 from 6.1% in June 2021, surpassing the inflation target set by the Central Bank of Sri Lanka.",
+        "• The Central Bank of Sri Lanka targeted an inflation range of 4-6% for the year 2021, maintaining a loose monetary policy stance to stimulate economic growth.",
+        "• In January 2021, Central Bank Governor W. D. Lakshman emphasized the necessity of continued monetary and fiscal support to bolster the economy amid challenging domestic and global macroeconomic conditions.",
+        "• Governor Lakshman stated that the Central Bank would maintain an accommodative monetary policy throughout 2021 to support economic recovery, while remaining vigilant to ensure inflation stays within the targeted 4-6% range over the medium term.",
+        "• Despite initial accommodative policies, the Central Bank raised interest rates and increased the statutory reserve ratio in August 2021 in response to worsening balance of payments issues and rising inflation.",
+        "• Until at least 2019, Sri Lanka employed a 'flexible inflation targeting' framework for its monetary policy, balancing inflation control with economic growth objectives.",
+        "• In 2020, the Central Bank shifted its priority towards economic growth to counteract the adverse effects of the COVID-19 pandemic, as stated by Governor Lakshman.",
+        "• Sri Lanka experienced a significant balance of payments deficit of US$3.2 billion in 2020, which occurred alongside monetary easing policies aimed at supporting the economy during the pandemic."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:00.278317",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3.5.1",
+      "section_name": "12 Month T bill to be at 10% by 30 June 2019",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Central Bank of Sri Lanka (CBSL) has significantly reduced its Treasury bill (T bill) holdings from April 2017 to the present, effectively reversing previous monetary stimulus measures that had inflationary effects.",
+        "• This reduction in CBSL T bill holdings has led to liquidity levels in the money market that now broadly reflect natural market conditions, contrasting with the more artificial conditions observed a year earlier.",
+        "• As of June 2018, banking sector interest rates were more realistic, reflecting the natural market liquidity environment.",
+        "• Private sector credit growth in Sri Lanka declined from a high of 29% year-on-year (YoY) in July 2016 to approximately 15% YoY by the first quarter of 2018 (1Q2018).",
+        "• Changes in the private credit space, particularly a shift towards retail lending, combined with the CBSL’s policy rate cut in April 2018, suggest that credit growth may either stabilize around 15% or decline slightly in the near term.",
+        "• The anticipated near-term inflationary pressures and a likely reduction in disposable income are expected to reduce consumption-led borrowings, which may contribute to the moderation or horizontal movement of credit growth.",
+        "• These dynamics are not expected to exert excessive upward pressure on interest rates, including yields on 12-month Treasury bills, particularly during the second half of 2018 (2H2018E).",
+        "• Consequently, 12-month Treasury bill yields are projected to slightly decline from 9.4% in June 2018 to around 9% by the end of 2018 (2018E).",
+        "• However, starting from 2019, International Sovereign Bond (ISB) bullet payments exceeding US$3 billion annually are expected to create upward pressure on interest rates.",
+        "• This external debt servicing requirement is likely to cause 12-month Treasury bill yields to rise to at least 10% by 30 June 2019."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:56.696333",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "3.6",
+      "section_name": "Trade account issues",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In recent years, the Sri Lankan Government has prioritized addressing external economic imbalances, focusing particularly on reducing the country's high trade deficit, which was approximately 15% of GDP in 2012.",
+        "• The government aims to align the economy with the Marshall–Lerner condition, a principle that requires the sum of the price elasticities of exports and imports to be greater than one for currency depreciation to improve the trade balance.",
+        "• Sri Lanka's oil import bill constitutes an estimated 27% of the country's total imports, representing a significant and inelastic component of imports.",
+        "• Pro-growth economic policies have led to investment goods accounting for 24% of total imports, adding another inelastic import component.",
+        "• The combined price elasticity of export goods and import goods in Sri Lanka totals less than one, indicating the country does not meet the Marshall–Lerner condition, thereby limiting the effectiveness of currency depreciation in correcting the trade deficit.",
+        "• Proposed measures to address these trade account issues include promoting import substitution for both investment goods and consumer goods to reduce reliance on imports.",
+        "• The government suggests providing tax concessions to encourage value-added exports, aiming to enhance export competitiveness and increase export revenues.",
+        "• Negotiations for longer credit periods on oil imports are recommended to ease the immediate financial burden of high oil import costs.",
+        "• Another proposal involves allowing the external value of the Sri Lankan currency to be determined by market forces with minimal intervention from the Central Bank, to foster a more flexible exchange rate regime."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:58.673037",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "3.7",
+      "section_name": "Capital account",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Within Sri Lanka's capital account, borrowings continue to constitute a significant proportion compared to Foreign Direct Investments (FDIs), indicating a reliance on debt financing over equity inflows.",
+        "• Foreign Direct Investments in Sri Lanka were estimated to be approximately US$800 million for the fiscal year 2012, reflecting the scale of equity capital entering the country during that period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:57.817637",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "3.8",
+      "section_name": "Overall balance (BOP)",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Sri Lanka concluded the fiscal year 2012 with an overall positive balance of US$151 million.",
+        "• This positive balance in 2012 marked a significant improvement compared to the previous fiscal year 2011, which recorded an overall balance deficit of US$1,061 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:03:58.537470",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4",
+      "section_name": "Financial institutions",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Central Bank of Sri Lanka, established in 1950, serves as the country’s primary monetary authority, responsible for formulating and implementing monetary policy as well as exercising supervisory control over the national financial system.",
+        "• The Colombo Stock Exchange (CSE) is Sri Lanka’s principal stock exchange and is recognized as one of the most modern exchanges in South Asia, featuring a fully automated trading platform to facilitate securities trading.",
+        "• The CSE’s vision is to contribute to the nation’s wealth by generating value through securities markets, emphasizing its role in economic development.",
+        "• Since 1995, the headquarters of the Colombo Stock Exchange have been located at the World Trade Center Towers in Colombo, with additional branches established in Kandy, Matara, Kurunegala, Negombo, and Jaffna to serve investors across the country.",
+        "• In 2009, following the conclusion of the 30-year civil war in Sri Lanka, the Colombo Stock Exchange was recognized as the best performing stock exchange globally, reflecting a significant post-conflict economic recovery and investor confidence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:02.122958",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Transportation and roads",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Most cities and towns in Sri Lanka are connected by Sri Lanka Railways, the state-run railway operator responsible for rail transport across the island.",
+        "• The Sri Lanka Transport Board is the state-run agency tasked with operating public bus services throughout Sri Lanka.",
+        "• The government has initiated several highway projects aimed at strengthening the national economy and transport infrastructure, including the Colombo-Katunayake Expressway, Colombo-Kandy (Kadugannawa) Expressway, Colombo-Padeniya Expressway, and the Outer Circular Highway designed to alleviate traffic congestion in Colombo.",
+        "• The Road Development Authority (RDA), a government-sponsored organization, has undertaken multiple large-scale road projects island-wide to enhance Sri Lanka’s road network.",
+        "• Sri Lanka’s commercial and economic centers, primarily the capitals of the nine provinces, are connected by \"A-Grade\" roads, which are systematically categorized and marked for efficient navigation.",
+        "• \"B-Grade\" roads, also paved and marked, serve to connect district capitals within the provinces, facilitating regional connectivity.",
+        "• The combined total length of A, B, and E grade roads in Sri Lanka is estimated at 12,379.49 kilometers, reflecting the extent of the country’s road infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:02.533215",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The energy policy of Sri Lanka is governed by the Ministry of Power and Energy, which oversees the strategic direction and regulatory framework for the sector.",
+        "• The production and retailing of electricity in Sri Lanka are managed by the Ceylon Electricity Board, the primary state-owned entity responsible for electricity generation and distribution.",
+        "• Policy recommendations and planning related to energy are under the oversight of the Public Utilities Commission of Sri Lanka, which functions as the regulatory authority ensuring compliance and guiding sector development.",
+        "• The majority of energy generation in Sri Lanka is derived from hydroelectric power stations, predominantly located in the Central Province, highlighting the country's reliance on renewable water resources for electricity production.",
+        "• An example of renewable energy infrastructure in Sri Lanka includes wind farms, which contribute to the diversification of the energy mix alongside hydroelectric power."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:01.710327",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Skilled Labour",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sri Lanka possesses a well-established education system that has effectively generated a large supply of skilled labour within the country.",
+        "• The literacy rate in Sri Lanka stands at 92%, which is notably higher than the average expected for a developing country.",
+        "• Sri Lanka holds the distinction of having the highest literacy rate in South Asia and ranks among the highest literacy rates across Asia overall.",
+        "• Information technology literacy among the urban population in Sri Lanka is recorded at 39.9%, indicating a satisfactory level of IT skills in urban areas.",
+        "• Job seekers across Sri Lanka utilize web-based job boards extensively to find skilled employment opportunities, supplementing traditional sources such as newspapers and the government gazette.",
+        "• The working-age population in Sri Lanka is defined as all individuals aged 15 years and above, regardless of gender.",
+        "• In the fourth quarter of 2017, Sri Lanka’s unemployment rate was measured at 4.2 percent.",
+        "• The unemployment rate in Sri Lanka has demonstrated a gradual decline over the years leading up to 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:04.376112",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism constitutes one of the primary industries in Sri Lanka, with major attractions including the island's renowned beaches located in the southern and eastern regions, ancient heritage sites situated in the interior, and resorts found in the mountainous areas of the country.",
+        "• The city of Ratnapura and its surrounding areas are significant tourist destinations due to the frequent discovery and mining of precious stones such as rubies and sapphires.",
+        "• Tourist arrivals in Sri Lanka were adversely affected by the 2004 Indian Ocean Tsunami and the intensification of the civil war with Tamil Tiger separatists, leading to a decline from 566,202 foreign visitors in 2004 during a ceasefire to 447,890 by the end of the war in 2009.",
+        "• After the conclusion of the civil war, tourist arrivals increased rapidly, reaching 2,333,796 in 2019.",
+        "• The 2019 Easter Sunday bombings caused a reduction in tourist arrivals to 1,913,702; however, authorities responded swiftly by apprehending the responsible group, and travel advisories from key source markets such as the United Kingdom were relaxed as early as June 2019.",
+        "• In 2019, Sri Lanka received international recognition with Lonely Planet naming it the best destination to visit and Travel+Leisure designating it the best island.",
+        "• The COVID-19 pandemic severely impacted the tourism industry following the closure of airports in March 2020, with tourism revenues estimated to have declined from US$3.6 billion in 2019 to US$956 million in 2020, negatively affecting over 300,000 individuals connected to the sector.",
+        "• The Sri Lankan government introduced several relief measures in response to the pandemic’s impact on tourism, including a debt moratorium, which was subsequently extended.",
+        "• Tourist arrivals in 2020 fell by approximately 70 percent to 507,704 from 1,913,702 in 2019, with nearly all arrivals occurring before the airport closures in March.",
+        "• In December 2020, a 'pilot project' facilitated the arrival of 393 package tourists on charter flights from Ukraine, marking a tentative reopening of tourism.",
+        "• Official tourism activities resumed on January 21, 2021, permitting independent travelers to enter Sri Lanka subject to compliance with a series of health protocols and mandatory Coronavirus testing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:09.600274",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "4.5",
+      "section_name": "Tea industry",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The tea industry in Sri Lanka operates under the Ministry of Public Estate Management and Development and is one of the country's main industries.",
+        "• In 1995, Sri Lanka became the world's leading tea exporter, capturing a 23% share of global tea exports, surpassing Kenya's 22% share.",
+        "• The central highlands of Sri Lanka provide an ideal environment for tea cultivation due to their consistently low-temperature climate, along with suitable annual rainfall and humidity levels.",
+        "• Tea cultivation was introduced to Sri Lanka in 1867 by James Taylor, a British planter who had arrived in the country in 1852.",
+        "• Recently, Sri Lanka has emerged as a significant exporter of fair trade tea, particularly to the United Kingdom and other international markets.",
+        "• Fair trade tea export projects from Sri Lanka are believed to contribute to the reduction of rural poverty in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:05.202468",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "4.6",
+      "section_name": "Apparel and textile industry",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The apparel industry of Sri Lanka primarily exports its products to the United States and Europe, indicating these regions as the main international markets for Sri Lankan apparel.",
+        "• There are approximately 900 factories located throughout Sri Lanka that manufacture apparel, demonstrating the extensive scale of the industry within the country.",
+        "• These factories serve prominent international brands including Victoria's Secret, Liz Claiborne, and Tommy Hilfiger, highlighting the industry's integration with major global fashion companies.",
+        "• According to data categorized and reported by the Sri Lanka Export Development Board, the Textiles & Apparels sector accounted for approximately 44% of Sri Lankan merchandise exports in the year 2017, underscoring its significant contribution to the national export economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:05.600930",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "4.7",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agricultural sector of Sri Lanka primarily produces rice, coconut, and grain, with the majority of these products intended for domestic consumption and occasional export.",
+        "• The tea industry in Sri Lanka, established in 1867, is generally not classified within the agricultural sector because it is predominantly export-oriented rather than focused on domestic use.",
+        "• Sri Lanka's agricultural and agri-allied manufacturing sectors are susceptible to climate variations, which have impacted production.",
+        "• Notable climate-related events affecting agriculture include significant floods occurring in May 2016, May 2017, and May 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:06.732121",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "4.7.1",
+      "section_name": "Transition to biological agriculture",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In June 2021, Sri Lanka initiated the first-ever 100% organic farming program, also referred to as biological agriculture, and simultaneously imposed a nationwide ban on inorganic fertilizers and pesticides.",
+        "• The organic farming program received endorsement from its advisor Vandana Shiva, a prominent environmental activist, but faced criticism from scientific experts and members of the farming community who cautioned about potential agricultural collapse and a financial crisis linked to the devaluation of the national currency, particularly affecting the tea industry.",
+        "• By autumn 2021, Sri Lanka experienced a severe decline in agricultural output, with reductions of up to 50%, leading to widespread food shortages across the country.",
+        "• The tea industry was reported to be in a critical state, with organic farming practices described as being ten times more expensive than conventional methods while yielding only half the usual production for farmers.",
+        "• In September 2021, the Sri Lankan government declared an \"economic emergency\" as the agricultural crisis was compounded by a depreciating national currency exchange rate, rising inflation driven by escalating food prices, and reduced income from tourism due to pandemic-related restrictions.",
+        "• Although the government rescinded some of the organic farming measures, the importation of urea fertilizer remained prohibited, and the country began considering the introduction of peacetime rationing for essential goods to manage shortages.",
+        "• In mid-October 2021, the ban on inorganic fertilizers was largely lifted temporarily \"until the island was able to produce enough organic fertiliser,\" signaling a partial retreat from the initial policy.",
+        "• By November 2021, Sri Lanka officially abandoned its ambition to become the world's first fully organic farming nation, following sustained increases in food prices and weeks of public protests opposing the organic farming plan.",
+        "• As of December 2021, significant damage to agricultural production had already occurred, with substantial price increases for vegetables reported nationwide and an extended recovery period anticipated.",
+        "• The fertilizer ban was lifted selectively for certain crops; however, the international price of urea fertilizer rose due to increased costs of oil and gas, further complicating agricultural recovery efforts.",
+        "• Jeevika Weerahewa, a senior lecturer at the University of Peradeniya, forecasted that the fertilizer ban would lead to an unprecedented 50% reduction in the paddy harvest for the year 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:14.312573",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "4.8",
+      "section_name": "IT industry",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The export revenue generated by the Sri Lankan Information Technology (IT) sector amounted to US$1,089 million in the year 2019."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:06.732744",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "4.9",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sri Lanka is renowned for producing a diverse range of gemstones, including chrysoberyl, corundum, garnet, ruby, spinel, and tourmaline, with a particular distinction as the leading producer of the Ceylon Blue sapphire.",
+        "• Ceylon sapphires are highly prized in the global gemstone market, frequently commanding prices of thousands of dollars per carat due to their desirability and quality.",
+        "• Contrary to common misconception, Sri Lanka produces sapphires in all colors, including the rare padparascha variety; however, blue sapphires remain the most sought after and yield the highest market prices.",
+        "• Some of the world’s largest and most famous sapphires, such as the Logan Sapphire and the Blue Belle of Asia, have originated from Sri Lanka.",
+        "• The principal regions known for gemstone mining in Sri Lanka include Balangoda, Elahera, Kamburupitiya, Moneragala, Okkampitiya, and Ratnapura, which are historically and economically significant mining areas.",
+        "• Beyond gemstones, Sri Lanka possesses a variety of industrial minerals such as ball clay, kaolin, other clays, calcite, dolomite, feldspar, graphite, limestone, ilmenite, mica, rutile mineral sands, phosphate rock, quartz, zircon, dolomite, and silica sand.",
+        "• The Pulmoddai beach sand deposit is recognized as the most important non-ferrous mineral reserve in Sri Lanka and is among the richest mineral sand deposits globally, containing heavy mineral concentrates ranging from 50% to 60%, including significant titanium minerals.",
+        "• Sri Lanka is particularly famous for its high-purity vein graphite, which is highly valued in the global market for its quality and purity.",
+        "• As of 2014, the two largest graphite mines in Sri Lanka were the Bogala and Kahatagaha Mines, which are the primary sources of graphite production in the country.",
+        "• Major investors and companies involved in Sri Lanka’s graphite mining sector include Graphite Lanka Ltd., Bogala Graphite Lanka Plc, Bora Bora Resources Ltd. (BBR) of Australia, MRL Corp. Ltd. of Australia, and Saint Jean Carbon Inc. of Canada."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:11.031866",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "5",
+      "section_name": "Major companies",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sri Lanka has developed several multinational companies and internationally recognized brands across various sectors.",
+        "• The most notable conglomerates in Sri Lanka include Cargills, John Keells Holdings, Hayleys, LOLC Holdings, and Carson Cumberbatch.",
+        "• The largest apparel companies in Sri Lanka are MAS Holdings and Brandix, both significant players in the global garment industry.",
+        "• LAUGFS Holdings is a prominent company operating in the energy sector within Sri Lanka.",
+        "• Aitken Spence is a well-known hospitality conglomerate, recognized for its extensive operations in the tourism and hotel industry.",
+        "• Dilmah is a globally recognized Sri Lankan tea brand, known for its quality and international presence.",
+        "• Consumer goods in Sri Lanka are represented by major brands such as Ceylon Tobacco Company, Elephant House, DCSL, CBL, and Maliban, each holding significant market positions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:09.742489",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "6",
+      "section_name": "Global economic relations",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2002, exports from Sri Lanka to the United States, its most important market, were valued at $1.8 billion, accounting for 38% of Sri Lanka's total exports.",
+        "• The United States has been Sri Lanka's largest market for garments for many years, receiving over 63% of the country's total garment exports.",
+        "• India was Sri Lanka's largest supplier in 2002, with imports valued at $835 million.",
+        "• Japan, which had traditionally been Sri Lanka's largest supplier, ranked as the fourth-largest supplier in 2002, with exports to Sri Lanka totaling $355 million.",
+        "• Other significant suppliers to Sri Lanka include Hong Kong, Singapore, Taiwan, and South Korea.",
+        "• The United States was the 10th-largest supplier to Sri Lanka in 2002, with imports from the US amounting to $218 million, according to Central Bank trade data.",
+        "• A new port is under construction in Hambantota, located in Southern Sri Lanka, funded by the Chinese government as part of Chinese aid to Sri Lanka.",
+        "• The Hambantota port project aims to alleviate congestion in Sri Lankan ports, particularly in Colombo.",
+        "• In 2009, a total of 4,456 ships visited Sri Lankan ports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:12.666917",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Trade agreements",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sri Lanka has several Free Trade Agreements (FTAs) that are currently effective, including with India and Pakistan, facilitating enhanced trade relations with these neighboring countries.",
+        "• The FTA with Singapore became effective in May 2018, marking a significant step in strengthening bilateral trade ties between Sri Lanka and Singapore.",
+        "• Sri Lanka benefits from the European Union's Generalized Scheme of Preferences Plus (GSP+), which provides preferential access to the EU market under specific conditions promoting sustainable development and good governance.",
+        "• The country also enjoys trade preferences under the United States' Generalized System of Preferences (GSP), allowing duty-free entry for certain products into the U.S. market to support economic growth.",
+        "• Sri Lanka is a member of the South Asian Free Trade Area (SAFTA), a regional trade agreement aimed at reducing tariffs and promoting trade among South Asian countries.",
+        "• Additionally, Sri Lanka participates in the Asia-Pacific Trade Agreement (APTA), which fosters trade cooperation and tariff concessions among member countries in the Asia-Pacific region.",
+        "• Under negotiation are FTAs with China, Bangladesh, and Thailand, indicating Sri Lanka’s ongoing efforts to expand its trade network and deepen economic integration with key Asian economies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:15.639323",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Foreign assistance",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Sri Lanka exhibits a high dependency on foreign assistance to support its economic development and related projects.",
+        "• In 2003, several prominent foreign assistance initiatives were launched to aid Sri Lanka’s economy.",
+        "• The most significant foreign aid initiative in 2003 stemmed from an international aid conference held in Tokyo in June 2003.",
+        "• The Tokyo aid conference included participation from major international financial institutions and donor countries, specifically the International Monetary Fund (IMF), World Bank, Asian Development Bank (ADB), Japan, the European Union (EU), and the United States (US).",
+        "• At the Tokyo summit, the total financial pledges made to support Sri Lanka amounted to $4.5 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:13.520461",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Debt and IMF assistance",
+      "chapter_name": "Economy of Sri Lanka",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to 2016, Sri Lanka's debt escalated significantly due to extensive infrastructure development, bringing the country to the brink of bankruptcy and necessitating a bailout from the International Monetary Fund (IMF).",
+        "• In May 2016, Krystal Tan, an Asia economist at Capital Economics, stated that without an IMF loan, Sri Lanka would have been in a precarious financial position, noting that foreign exchange reserves covered only around 80 percent of the country’s short-term external debt.",
+        "• The IMF agreed to provide a $1.5 billion bailout loan to Sri Lanka in April 2016, contingent upon the country meeting a set of criteria aimed at improving its economic situation.",
+        "• By the fourth quarter of 2016, Sri Lanka’s total debt was estimated at $64.9 billion, with at least $9.5 billion of additional debt incurred by state-owned organizations.",
+        "• Since early 2015, Sri Lanka’s domestic debt had increased by 12 percent, while external debt rose by 25 percent.",
+        "• In late 2016, the World Bank provided $100 million in financing, and the Japan International Cooperation Agency (JICA) extended a $100 million loan to Sri Lanka, both aimed at budget financing and supporting reforms in competitiveness, transparency, public sector, and fiscal management.",
+        "• The World Bank reported that the Sri Lankan government acknowledged the need for reforms in fiscal operations, competitiveness, and governance, which, if fully implemented, could enable the country to achieve Upper Middle-Income status in the medium term.",
+        "• In November 2016, the IMF announced it would disburse $162.6 million (SDR 119.894 million) to Sri Lanka, exceeding the originally planned $150 million.",
+        "• The IMF’s evaluation in November 2016 was cautiously optimistic, noting that inflation had abated but credit growth remained strong; the Central Bank was prepared to tighten monetary policy if inflationary pressures or credit growth persisted.",
+        "• The IMF highlighted the authorities’ intention to build up foreign reserves through outright purchases while allowing greater exchange rate flexibility.",
+        "• The banking sector in Sri Lanka was reported as well-capitalized, with ongoing efforts to establish a resolution mechanism for distressed financial institutions.",
+        "• The IMF emphasized the need to strengthen the supervisory and regulatory framework and to identify and mitigate vulnerabilities in the financial sector, particularly concerning non-bank financial institutions and state-owned banks.",
+        "• As part of debt management reforms, Sri Lanka implemented a new Inland Revenue Act and introduced an automatic fuel pricing formula.",
+        "• Tax reforms included increasing Value Added Tax (VAT) rates and narrowing exemptions.",
+        "• The IMF’s third review noted that Sri Lanka was on track with fiscal consolidation, revenue mobilization, monetary policy management, and reserves accumulation.",
+        "• In the IMF’s fourth review in June 2018, it was stated that Sri Lanka had made important progress under its Fund-supported program but required further advancement in revenue-based fiscal consolidation, prudent monetary policy, and sustained efforts to build international reserves.",
+        "• In 2018, China extended a $1.25 billion loan to Sri Lanka, comprising a below-market-rate syndicated loan and smaller Panda bond, as a bailout measure.",
+        "• In 2021, Bangladesh agreed to provide Sri Lanka with loans of at least $200 million from its foreign exchange reserves through a currency swap deal, following Sri Lankan Prime Minister Mahinda Rajapaksa’s visit to Bangladesh for joint celebrations of Bangladesh’s golden jubilee of independence and the birth centenary of Bangabandhu.",
+        "• In December 2021, Sri Lanka announced it would repay a $251 million oil debt to Iran by exporting $5 million worth of Ceylon tea monthly.",
+        "• The IMF and other observers stressed that a strong and credible structural reform program was critical for Sri Lanka to avoid a prolonged economic crisis and address the root causes of its difficulties.",
+        "• In 2022, as Sri Lanka’s crisis deepened, India extended multi-pronged assistance amounting to approximately $4 billion through multiple credit lines and currency support, consistent with India’s 'Neighborhood First' policy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:04:25.747578",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_sri_lanka.json",
+      "original_index": 32
+    }
+  ]
+}

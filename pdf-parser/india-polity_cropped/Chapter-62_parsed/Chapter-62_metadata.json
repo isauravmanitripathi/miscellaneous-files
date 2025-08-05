@@ -1,0 +1,427 @@
+{
+  "table_of_contents": [
+    {
+      "title": "62 National Investigation Agency",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          106.4443359375
+        ],
+        [
+          487.5,
+          106.4443359375
+        ],
+        [
+          487.5,
+          131.1943359375
+        ],
+        [
+          105.0,
+          131.1943359375
+        ]
+      ]
+    },
+    {
+      "title": "ESTABLISHMENT OF THE NIA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.1875,
+          194.1328125
+        ],
+        [
+          355.306640625,
+          194.1328125
+        ],
+        [
+          355.306640625,
+          210.375
+        ],
+        [
+          105.1875,
+          210.375
+        ]
+      ]
+    },
+    {
+      "title": "RATIONALE OF THE NIA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.21630859375,
+          87.06005859375
+        ],
+        [
+          315.263671875,
+          87.06005859375
+        ],
+        [
+          315.263671875,
+          106.734375
+        ],
+        [
+          104.21630859375,
+          106.734375
+        ]
+      ]
+    },
+    {
+      "title": "FUNCTIONS OF THE NIA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          103.8427734375,
+          88.171875
+        ],
+        [
+          312.57421875,
+          88.171875
+        ],
+        [
+          312.57421875,
+          106.541015625
+        ],
+        [
+          103.8427734375,
+          106.541015625
+        ]
+      ]
+    },
+    {
+      "title": "VISION OF THE NIA",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          104.21630859375,
+          87.1083984375
+        ],
+        [
+          272.53125,
+          87.1083984375
+        ],
+        [
+          272.53125,
+          106.34765625
+        ],
+        [
+          104.21630859375,
+          106.34765625
+        ]
+      ]
+    },
+    {
+      "title": "MISSION OF THE NIA",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          103.91748046875,
+          86.57666015625
+        ],
+        [
+          287.47265625,
+          86.57666015625
+        ],
+        [
+          287.47265625,
+          106.34765625
+        ],
+        [
+          103.91748046875,
+          106.34765625
+        ]
+      ]
+    },
+    {
+      "title": "JURISDICTION OF THE NIA",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          105.0,
+          88.55859375
+        ],
+        [
+          334.6875,
+          88.55859375
+        ],
+        [
+          334.6875,
+          106.34765625
+        ],
+        [
+          105.0,
+          106.34765625
+        ]
+      ]
+    },
+    {
+      "title": "NIA (AMENDMENT) ACT, 2019",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          103.5439453125,
+          87.15673828125
+        ],
+        [
+          353.21484375,
+          87.15673828125
+        ],
+        [
+          353.21484375,
+          107.4111328125
+        ],
+        [
+          103.5439453125,
+          107.4111328125
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          105.0,
+          426.1640625
+        ],
+        [
+          301.9658203125,
+          426.1640625
+        ],
+        [
+          301.9658203125,
+          443.1796875
+        ],
+        [
+          105.0,
+          443.1796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_moldova.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.375963",
+    "total_sections_in_source": 20,
+    "extracted_sections_count": 20,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Moldova is classified as an emerging upper-middle income economy.",
+        "• Moldova is a landlocked country located in Eastern Europe.",
+        "• The country shares its eastern border with Ukraine and its western border with Romania.",
+        "• Moldova was formerly a republic within the Soviet Union.",
+        "• Currently, Moldova holds the status of a candidate member for the European Union."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:40:06.209281",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Background",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On January 2, 1992, Moldova introduced a market economy by liberalising prices, an action that led to significant inflation within the country.",
+        "• In 1993, Moldova established its national currency, the Moldovan leu, which replaced the Soviet rouble as the official medium of exchange.",
+        "• The economic situation in Moldova began to improve notably in 2001, marking the start of a period characterized by steady annual economic growth ranging between 5% and 10%.",
+        "• Remittances sent by Moldovans living abroad constitute approximately 25% of Moldova's Gross Domestic Product (GDP), representing one of the highest proportions of remittance contributions to GDP globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:40:09.590812",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Moldova's economy benefits from its proximity to the Black Sea, which provides a mild and sunny climate conducive to agriculture, supported by fertile Chernozem soil ideal for crops such as wheat, corn, barley, tobacco, sugar beet, and soybeans.",
+        "• Livestock farming in Moldova includes beef and dairy cattle, complemented by widespread beekeeping activities.",
+        "• Moldova is renowned for its extensive and well-developed vineyards, primarily located in the central and southern regions, producing liqueur and sparkling wine as notable products.",
+        "• Other significant agricultural products include sunflower seeds, walnuts, apples, and various fruits, making agriculture and food processing a vital sector that accounts for approximately 40% of Moldova’s GDP.",
+        "• In 2018, Moldova's agricultural production included 1.1 million tons of wheat, 132 thousand tons of plums, 174 thousand tons of potatoes, 175 thousand tons of barley, 2.0 million tons of maize, 665 thousand tons of apples, 707 thousand tons of sugar beet (used for sugar and ethanol production), 730 thousand tons of grapes, and 788 thousand tons of sunflower seeds.",
+        "• Moldova also produced 85 thousand tons of rapeseed and ranks between the 20th and 25th largest global producers of grapes and apples, and between the 10th and 15th largest producers of plums and sunflower seeds.",
+        "• Moldova’s economy faced significant challenges following the dissolution of the Soviet Union, due to its prior dependence on Soviet energy and raw material supplies, compounded by droughts and civil conflict.",
+        "• The 1998 Russian rouble devaluation negatively impacted Moldova’s economy, but steady economic growth resumed from 2000 onwards.",
+        "• Since independence, Moldova has implemented economic reforms including price liberalization and the phasing out of subsidies on most basic consumer goods.",
+        "• A privatization program initiated in March 1993 resulted in the privatization of 80% of housing units and nearly 2,000 enterprises of various sizes, which contributed to increased homelessness and unemployment.",
+        "• Nearly all agricultural land was privatized from state to private ownership by 2000, facilitated by an American assistance program.",
+        "• Moldova established a stock market in June 1995 to support its transitioning economy.",
+        "• Inflation was reduced from over 105% in 1994 to 11% in 1997; although inflation spiked after the 1998 Russian currency devaluation, it was subsequently controlled to 18.4% in 2000, 6.3% in 2001, and 4.4% in 2002.",
+        "• Inflation rose again to 15.7% in 2003 due to drought-driven agricultural price increases but decreased to 12.5% in 2004.",
+        "• The Moldovan leu appreciated significantly in 2003 and early 2004, reaching its highest level since 1999 by May 2004; stabilization occurred in late 2004 at an exchange rate of 12.00-12.50 leu per US dollar after intervention by the National Bank of Moldova.",
+        "• Moldova continued its transition towards a free-market economy, achieving its fifth consecutive year of positive GDP growth in 2004 with an 8% real GDP increase, a notable improvement given only one year of positive growth since independence prior to 2000.",
+        "• The 2004 budget execution was strong, with consolidated budget revenues exceeding projections by 1.4% for most of the year.",
+        "• Privatization efforts in 2004 were limited, involving several smaller companies and one winery, while privatization of larger state enterprises, including two electricity distribution companies, was postponed indefinitely.",
+        "• Foreign direct investment was discouraged by sporadic and ineffective law enforcement, economic and political uncertainty, and government interference.",
+        "• During the first nine months of 2004, Moldova’s imports grew faster than exports, worsening the terms of trade due to higher-priced energy imports outpacing the value of agricultural and agro-processing exports.",
+        "• In 2002, Moldova rescheduled a $39.6 million Eurobond to avoid default, and in May 2004 redeemed promissory notes to Russian Gazprom valued at $114.5 million for $50 million.",
+        "• Moldova ceased servicing its bilateral debts in mid-2003 but allocated about 6% of its government budget to external debt interest payments in 2004, with a projected reduction to 4% in 2005.",
+        "• The International Monetary Fund (IMF) and World Bank resumed lending to Moldova in July 2002 but suspended it again in July 2003; despite adopting a poverty reduction strategy in 2004, Moldova had not reached agreements with international financial institutions by that time.",
+        "• Moldova imports approximately 70% of its electrical energy consumption from Ukraine, with only 30% produced domestically.",
+        "• In 2021, Moldova’s trade volume with Russia was $1.33 billion, compared to $5.06 billion with the European Union; by 2022, trade with the EU increased to $6.9 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:40:28.748837",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Macroeconomic situation",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Moldova experienced a series of consecutive economic shocks including the doubling of the price of imported natural gas, the 2006 Russian ban on Moldovan and Georgian wines, and a severe drought in 2007, yet overall economic performance remained positive.",
+        "• Real GDP growth was estimated at 5 percent in 2007 and projected to increase to 7 percent in 2008, indicating a strengthening economy.",
+        "• Investment levels began to rise in 2007, starting to replace remittances as the primary driver of economic growth, signaling a shift away from a consumption-driven growth model.",
+        "• Moldova faces challenges common to other transition economies, such as strong appreciation pressures on its currency due to foreign exchange inflows and a widening trade deficit.",
+        "• Foreign direct investment (FDI) increased significantly, reaching an estimated 12 percent of GDP in 2007, up from 7 percent in 2006.",
+        "• Inflation remained a major macroeconomic concern, recorded at 13 percent in 2007, which is considered high for the regional context.",
+        "• The merchandise trade balance deteriorated due to strong import growth; however, this was partially offset by improvements in net income and transfers, resulting in a slight improvement in the current account deficit to 12 percent of GDP.",
+        "• The resumption of wine exports to Russia in October 2007 was a significant positive development, although export volumes were expected to recover slowly.",
+        "• Fiscal policy in 2007 was tight, ending the year with a modest budget deficit of 0.3 percent of GDP, supported by strong revenue performance primarily from robust VAT collections on imports.",
+        "• Government expenditure was maintained in line with the budget during 2007, but tax cuts introduced in 2008 posed a risk to the favorable fiscal position.",
+        "• Monetary policy tightening in 2007 was complicated by strong foreign exchange inflows; the National Bank of Moldova increased reserve requirements from 10 to 15 percent and raised policy interest rates by 2.5 percentage points.",
+        "• Despite these measures, risks to inflation remained due to potential second-round effects from the drought, liquidity pressures from growing remittances and FDI, and continued strong growth in credit and broad money supply.",
+        "• Moldova remains the poorest country in Europe and has been resistant to implementing reforms that have benefited other Eastern European countries.",
+        "• The Communist Party maintained political control following the March 2005 parliamentary elections and re-elected Vladimir Voronin as president through collaboration with the opposition.",
+        "• Although the government professed a pro-Western stance, it struggled to pursue structural reforms and made limited progress on the International Monetary Fund’s program aimed at attracting external financial resources.",
+        "• In December 2004, the parliament approved the government’s economic growth and strategy paper, but international financial institutions and Western investors remained unsatisfied until the government addressed fiscal adjustment, wage restraint, and payment of debt arrears.",
+        "• Despite a slowdown in privatization and industrial output, GDP growth was 7.3 percent in 2004, consumption continued to increase, and the national currency appreciated.",
+        "• The unresolved political and economic impasse in the pro-Russian Transnistria enclave persisted, characterized by corruption and smuggling of arms and contraband, despite international mediation efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:40:43.589148",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Business and economic environment",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the 2024 Index of Economic Freedom, Moldova ranks 99th globally with an overall score of 57.1, representing a decrease compared to its 2023 ranking.",
+        "• The Index of Economic Freedom evaluates Moldova across four main categories: Rule of Law, Regulatory Efficiency, Government Size, and Open Markets, each comprising specific parameters with individual scores.",
+        "• Under the Rule of Law category, Moldova scores 37.9 in Property Rights, 35.6 in Government Integrity, and 29.8 in Judicial Effectiveness, indicating challenges in legal protections and institutional effectiveness.",
+        "• In the Regulatory Efficiency category, Moldova achieves scores of 60.2 in Business Freedom, 46.6 in Labor Freedom, and 71.2 in Monetary Freedom, reflecting moderate performance in business operations and labor market flexibility.",
+        "• The Government Size category shows Moldova scoring 64.4 in Government Spending, 93.4 in Tax Burden, and 82.1 in Fiscal Health, with the high Tax Burden score indicating a relatively low tax burden on the economy.",
+        "• For Open Markets, Moldova attains scores of 75.6 in Trade Freedom, 55.0 in Investment Freedom, and 50.0 in Financial Freedom, demonstrating moderate openness to trade but more limited investment and financial freedoms.",
+        "• Scores above 60 in the Index of Economic Freedom are classified as Moderately Free, with Moldova achieving this threshold in several parameters including Business Freedom, Monetary Freedom, Government Spending, Tax Burden, Fiscal Health, and Trade Freedom.",
+        "• According to the 2020 Ease of Doing Business Index, Moldova’s Distance to Frontier (DTF) score is 74.4 out of 100, ranking 48th globally and reflecting an improvement of 1.3 points compared to 2019.",
+        "• The 2020 Ease of Doing Business parameters and their respective DTF scores for Moldova are as follows: Starting a Business at 95.7%, Dealing with Construction Permits at 56.2%, Getting Electricity at 75.3%, Registering Property at 82.8%, Getting Credit at 70.0%, Protecting Minority Investors at 68.0%, Paying Taxes at 85.2%, Trading Across Borders at 92.3%, Enforcing Contracts at 63.6%, and Resolving Insolvency at 54.8%.",
+        "• The Distance to Frontier (DTF) metric used in the Ease of Doing Business Index indicates that higher scores represent better performance, with Moldova showing particular strengths in Starting a Business, Paying Taxes, and Trading Across Borders."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:40:50.654228",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Trade policy",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the World Bank, Moldova's weighted average tariff rate in 2001 was 2.8 percent, representing the most recent year for which World Bank data are available.",
+        "• The World Bank revised the 2001 tariff rate figure downward from the previously reported 3.9 percent in the 2005 Index.",
+        "• A 2004 World Bank report identified a range of informal barriers to both imports and exports in Moldova, including cumbersome and restrictive trade procedures, corruption, burdensome and inappropriate regulations, and high transport costs.",
+        "• Despite these challenges, Moldova's trade policy score remains unchanged based on the revised trade factor methodology."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:40:54.340939",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Free Trade Agreements",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Moldova has established multilateral and bilateral Free Trade Agreements (FTAs) with a total of 43 countries, enhancing its international trade relations.",
+        "• The Moldova–Azerbaijan Free Trade Agreement was signed in 1995 and entered into force in 1996, marking one of Moldova's earliest trade agreements.",
+        "• The Moldova–Georgia Free Trade Agreement was signed in 1997 but only came into effect a decade later, in 2007.",
+        "• Moldova became a member of the Central European Free Trade Agreement (CEFTA) by signing on 19 December 2006, with the agreement entering into force on 28 July 2007.",
+        "• The Commonwealth of Independent States Free Trade Agreement (CISFTA) was signed by Moldova on 18 October 2011 and entered into force on 9 December 2012, facilitating trade within the CIS region.",
+        "• The Deep and Comprehensive Free Trade Area (DCFTA) between Moldova and the European Union was signed on 27 June 2014, provisionally applied from 1 September 2014, and fully entered into force on 1 July 2016, representing a significant step in Moldova's economic integration with the EU.",
+        "• Moldova signed a Free Trade Agreement with Turkey on 11 September 2014, which came into force on 1 November 2016, strengthening bilateral trade ties.",
+        "• The Free Trade Agreement between the European Free Trade Association (EFTA) and Moldova was signed recently on 27 June 2023 but is currently awaiting ratification before it can enter into force.",
+        "• Moldova is actively negotiating a Free Trade Agreement with China, although no signing date or entry into force has been established yet, indicating ongoing efforts to expand trade partnerships."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:40:59.357770",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "6",
+      "section_name": "Regional developments",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Countries benefit economically from sharing borders with developed markets, as proximity facilitates trade and development opportunities.",
+        "• Moldova is bordered by Romania and Ukraine, whose economic trajectories have influenced regional trade dynamics.",
+        "• In 1995, Romania's GDP per capita (PPP, current international dollars) was $5,429, approximately 1.7 times higher than Moldova's $3,145.",
+        "• By 2021, Romania's GDP per capita increased significantly to $36,277, representing more than 2.5 times Moldova's GDP per capita of $15,009.",
+        "• Ukraine's GDP per capita was $4,136 in 1995, higher than Moldova's $3,145, but by 2021 it reached only $14,281, indicating a relative decline compared to Moldova's growth.",
+        "• For comparative context, the Russian Federation's GDP per capita rose from $5,613 in 1995 to $34,043 in 2021, slightly below Romania's 2021 figure.",
+        "• The contrasting economic growth rates of Moldova's neighbors, particularly Romania's rapid increase and Ukraine's relative stagnation, have distinct implications for Moldova's trade and regional economic development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:03.657392",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "7",
+      "section_name": "Regional GDP",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The regional GDP data for the Republic of Moldova in 2021 is presented in both Moldovan leu and Euro, providing a comparative economic overview across different regions.",
+        "• Chișinău ranks first among Moldovan regions with a nominal GDP of 146.204 billion leu, equivalent to 7.003 billion euros, and a GDP per capita of 11,000 euros, indicating its status as the economic center of the country.",
+        "• The Northern Region holds the second position with a GDP of 37.080 billion leu or 1.776 billion euros, and a GDP per capita of 1,800 euros, reflecting its economic contribution relative to other regions.",
+        "• The Central Region is ranked third, generating a GDP of 36.390 billion leu, which equals 1.743 billion euros, and has a GDP per capita of 1,600 euros, showing a slightly lower per capita output compared to the Northern Region.",
+        "• The Southern Region is fourth in terms of nominal GDP, producing 16.838 billion leu or 0.807 billion euros, with a GDP per capita of 1,500 euros, marking it as one of the less economically productive regions per capita.",
+        "• Gagauzia, an autonomous territorial unit, ranks fifth with a GDP of 5.566 billion leu, corresponding to 0.267 billion euros, and a GDP per capita of 2,000 euros, which is higher than some other regions despite its smaller overall GDP.",
+        "• The total nominal GDP of Moldova in 2021 amounts to 242.079 billion leu or 11.596 billion euros, with an average GDP per capita of 4,800 euros, summarizing the country's overall economic output and individual economic productivity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:15.742444",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "8",
+      "section_name": "Fiscal burden",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 2019, Moldova has maintained a flat income tax rate of 12 percent for individuals.",
+        "• The corporate tax rate for SRL (limited liability) companies in Moldova has been fixed at 12 percent since 2012.",
+        "• In 2018, Moldova introduced a unique tax rate of 7 percent specifically for IT companies registered as part of the Moldova IT Park initiative.",
+        "• The standard Sales Tax (Value Added Tax, VAT) rate in Moldova has been consistently set at 20 percent since 2014.",
+        "• Moldova applies reduced VAT rates of 12 percent and 8 percent on certain categories of goods, although the specific goods are not detailed here.",
+        "• In 2024, Moldova implemented a policy to treat companies in the Transnistria region and the rest of Moldova equally concerning customs duties on imported goods.",
+        "• As part of this 2024 policy, companies importing goods into Transnistria are required to register with Moldovan authorities and pay import customs duties to Moldova.",
+        "• Under this policy, Transnistrian importers are exempt from paying VAT and excise duties to Moldova on imported goods.",
+        "• The 2024 customs duty alignment aims to reduce smuggling activities, particularly the illicit export of duty-free imported goods such as cigarettes from Transnistria."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:21.886344",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "9",
+      "section_name": "Monetary policy",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The annual inflation rate in Moldova reached 30.2% in December 2022, primarily driven by increases in global fuel and food prices.",
+        "• Following this peak, inflation began to decline in 2023, prompting a gradual reduction in interest rates.",
+        "• Despite the decrease, interest rates remain elevated as monetary authorities maintain a cautious stance until inflation is fully controlled."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:24.279919",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "10",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Moldovan government imposes minimal formal barriers to foreign investment, allowing investors to place investments anywhere in the Republic of Moldova, provided such investments do not conflict with national security, anti-monopoly laws, environmental protection standards, public health, or public order.",
+        "• Since gaining independence in 1992, Moldova has privatized most state-owned enterprises, resulting in the majority of economic sectors being predominantly privately owned.",
+        "• Despite widespread privatization, the Moldovan government retains control over key sectors including electrical distribution, railways, the state airline Air Moldova, the fixed-line communication company Moldtelecom, and the country’s largest tobacco company.",
+        "• Invest Moldova was established as an agency to encourage inward foreign investment by promoting the country’s low tax rates on individuals and companies.",
+        "• To support export-oriented manufacturing, Moldova has created Free Economic Zones designed to attract such companies by offering favorable conditions.",
+        "• Industrial Parks have been developed in Moldova to cluster companies together, thereby reducing operating costs and fostering business collaboration.",
+        "• Foreign direct investment (FDI) in Moldova has been gradually increasing, with recorded inflows of $150 million in 2020, $410 million in 2021, and $587 million in 2022.",
+        "• In addition to FDI, Moldova receives substantial loan inflows annually, ranging between $4.7 billion and $4.9 billion each year.",
+        "• The main sectors attracting foreign direct investment in Moldova are manufacturing, financial intermediation, and trade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:30.897230",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "11",
+      "section_name": "Banking and finance",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• There are no official barriers to the establishment of foreign banks or branches in Moldova, allowing unrestricted entry into the Moldovan banking sector.",
+        "• The National Bank of Moldova serves as the central bank and holds responsibility for the management and regulatory control of all banks operating within Moldova.",
+        "• In 2014, Moldova experienced a major financial scandal known as the 2014 Moldovan bank fraud scandal, which nearly led to the country's bankruptcy.",
+        "• Approximately $1 billion disappeared from three Moldovan banks involved in the scandal: Banca de Economii, Unibank, and Banca Socială.",
+        "• In the week prior to the 2014 Moldovan parliamentary election, more than $750 million was extracted from these three banks within a span of just three days.",
+        "• During this period, a van loaded with stolen files from the banks was set on fire, indicating attempts to destroy evidence related to the fraud.",
+        "• Several individuals were charged in connection with the fraud; notably, Ilan Shor was convicted but subsequently fled justice.",
+        "• Moldova has undertaken major reforms to its financial sector legal framework as part of its efforts to align with European Union legislation.",
+        "• By 2023, the Moldovan banking system is regarded as highly harmonized with the relevant EU community standards and regulations.",
+        "• According to a 2023 report by the International Monetary Fund (IMF), Moldovan banks remain adequately capitalized, maintain sufficient liquidity coverage, and exhibit healthy asset quality."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:36.427351",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "12",
+      "section_name": "Wages and prices",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Moldovan government exerts influence on prices primarily through its extensive state-owned sector.",
+        "• The Ministry of Economy reports that the state regulates prices for goods and services provided by monopolies, including electric and thermal energy, land, medical services, and services offered by local tax regions.",
+        "• Moldova maintains two distinct legal monthly minimum wages: one designated for state employees and a higher minimum wage applicable to the private sector.",
+        "• In the year 2023, the average monthly salary across the Moldovan economy was 12,175 Moldovan lei (MDL), which is approximately equivalent to 630 euros (EUR) or 686 US dollars (USD)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:39.909155",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "13",
+      "section_name": "Property rights",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The U.S. Department of Commerce reports that Moldova's legal system has improved in recent years, highlighting that the country possesses a documented and consistently applied commercial law framework.",
+        "• Despite these improvements, significant challenges remain in Moldova's legal system, indicating that further reforms and enhancements are necessary.",
+        "• According to the U.S. Department of State, Moldova's Constitution provides for an independent judiciary, establishing a legal foundation for judicial autonomy.",
+        "• However, the executive branch in Moldova has exerted undue influence over the judiciary, undermining the principle of judicial independence.",
+        "• Observers note that arrears in salary payments to judges contribute to difficulties in maintaining judicial independence, as financial instability increases vulnerability to outside influences and corruption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:43.249091",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "14",
+      "section_name": "Regulation",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The U.S. Department of Commerce reports that bureaucratic procedures in Moldova lack transparency and are often encumbered by red tape, resulting in unnecessarily prolonged processing times.",
+        "• Commercial law in Moldova is characterized as a confusing patchwork of narrow statutes combined with an outdated civil code, according to the U.S. Department of Commerce.",
+        "• With assistance from USAID experts, a draft civil code has been developed in Moldova that aligns with current European practices by incorporating commercial law provisions.",
+        "• The U.S. Department of Commerce highlights that anti-corruption laws in Moldova are not effectively enforced, and corruption persists at an advanced level throughout the country.",
+        "• A World Bank report indicates that Moldova’s labor laws exhibit a degree of rigidity, suggesting limited flexibility in labor market regulations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:47.590020",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "15",
+      "section_name": "Informal market",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Transparency International assigned Moldova a corruption score of 2.3 in the year 2004, reflecting the perceived level of corruption in the country at that time.",
+        "• In 2005, Moldova's informal market received a score of 4, indicating the extent and impact of informal economic activities within the country during that year.",
+        "• By 2011, Transparency International reported an improved corruption score for Moldova of 2.9, signifying a reduction in perceived corruption levels compared to the 2004 score.",
+        "• The progression of scores from 2004 to 2011, as concluded by Transparency International, suggests a positive trend in Moldova’s efforts to address corruption and regulate its informal market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:50.470856",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "16",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, the total number of tourists associated with Moldova was 503,700.",
+        "• International tourism accounted for 406,000 tourists visiting Moldova in 2023.",
+        "• Inbound tourists to Moldova numbered 43,600 in 2023.",
+        "• Among inbound tourists, 38.9% originated from Romania.",
+        "• Italy contributed 14.4% of the inbound tourists to Moldova.",
+        "• Ukraine accounted for 14.0% of inbound tourists visiting Moldova.",
+        "• Germany was the source of 5.3% of inbound tourists to Moldova.",
+        "• The United States represented 5.2% of inbound tourists to Moldova.",
+        "• Outbound tourism from Moldova involved 362,400 tourists in 2023.",
+        "• Of Moldovan outbound tourists, 47.0% traveled to Turkey.",
+        "• Bulgaria was the destination for 18.9% of Moldovan outbound tourists.",
+        "• Egypt attracted 10.6% of Moldovan outbound tourists.",
+        "• Romania was visited by 10.3% of Moldovan outbound tourists.",
+        "• Greece was the destination for 5.5% of Moldovan outbound tourists.",
+        "• Domestic tourism within Moldova accounted for 97,700 tourists in 2023.",
+        "• Moldova contains approximately 15,000 sights and 300 natural zones, which constitute significant potential attractions for both domestic and international tourists."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:41:57.231757",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "17",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, Moldova's nominal GDP was 9.496 billion US dollars, with a nominal GDP per capita of 3,307.3 US dollars; the GDP in purchasing power parity (PPP) terms was 23.961 billion US dollars, and GDP per capita (PPP) was 8,345.0 US dollars, accompanied by a real GDP growth rate of 9.0%.",
+        "• Inflation in 2013, measured by the Consumer Price Index (CPI), averaged 4.57%, with an end-of-period inflation rate of 5.1%; the government gross public debt was 29.9% of GDP, the current account balance was -5.2% of GDP, general government external debt stood at 1.305 billion US dollars, and total external debt was 6.729 billion US dollars.",
+        "• In 2014, Moldova's nominal GDP slightly increased to 9.510 billion US dollars, with nominal GDP per capita at 3,314.5 US dollars; GDP (PPP) rose to 25.218 billion US dollars, and GDP per capita (PPP) to 8,789.2 US dollars, while real GDP growth slowed to 5.0%.",
+        "• Inflation in 2014 averaged 5.06% (CPI), with end-of-period inflation at 4.7%; public debt increased to 34.9% of GDP, the current account deficit widened to -6.0%, general government external debt was 1.320 billion US dollars, and total external debt decreased to 6.320 billion US dollars.",
+        "• The year 2015 saw a decline in nominal GDP to 7.726 billion US dollars and nominal GDP per capita to 2,715.7 US dollars; however, GDP (PPP) increased to 26.233 billion US dollars, and GDP per capita (PPP) to 9,221.8 US dollars, with real GDP growth slightly negative at -0.3%.",
+        "• Inflation rose sharply in 2015, averaging 9.6% (CPI) and reaching 13.5% at year-end; public debt rose significantly to 42.4% of GDP, the current account deficit remained at -6.0%, general government external debt increased to 1.354 billion US dollars, and total external debt decreased to 5.932 billion US dollars.",
+        "• In 2016, nominal GDP recovered to 8.072 billion US dollars, with nominal GDP per capita at 2,857.8 US dollars; GDP (PPP) increased to 29.732 billion US dollars, and GDP per capita (PPP) to 10,527.0 US dollars, while real GDP growth rebounded to 4.4%.",
+        "• Inflation averaged 6.4% (CPI) in 2016, with end-of-period inflation at 2.3%; public debt decreased to 39.2% of GDP, the current account deficit narrowed to -3.6%, general government external debt rose to 1.481 billion US dollars, and total external debt increased to 6.056 billion US dollars.",
+        "• In 2017, nominal GDP increased to 9.515 billion US dollars, with nominal GDP per capita at 3,422.6 US dollars; GDP (PPP) reached 31.586 billion US dollars, and GDP per capita (PPP) was 11,361.9 US dollars, with real GDP growth at 4.2%.",
+        "• Inflation averaged 6.5% (CPI) in 2017, with end-of-period inflation at 7.3%; public debt decreased to 34.8% of GDP, the current account deficit widened to -5.8%, general government external debt increased to 1.722 billion US dollars, and total external debt rose to 6.833 billion US dollars.",
+        "• The year 2018 saw nominal GDP rise to 11.252 billion US dollars and nominal GDP per capita to 4,121.0 US dollars; GDP (PPP) was 33.671 billion US dollars, and GDP per capita (PPP) was 12,332.0 US dollars, with real GDP growth at 4.1%.",
+        "• Inflation in 2018 averaged 3.6% (CPI), with end-of-period inflation at 0.9%; public debt further decreased to 31.8% of GDP, the current account deficit increased significantly to -10.8%, general government external debt slightly decreased to 1.706 billion US dollars, and total external debt increased to 7.321 billion US dollars.",
+        "• In 2019, nominal GDP reached 11.737 billion US dollars, with nominal GDP per capita at 4,376.6 US dollars; GDP (PPP) rose to 35.509 billion US dollars, and GDP per capita (PPP) to 13,241.0 US dollars, while real GDP growth slowed to 3.6%.",
+        "• Inflation averaged 4.8% (CPI) in 2019, with end-of-period inflation at 7.5%; public debt declined to 28.8% of GDP, the current account deficit narrowed to -9.4%, general government external debt was 1.718 billion US dollars, and total external debt increased to 7.416 billion US dollars.",
+        "• In 2020, nominal GDP slightly decreased to 11.530 billion US dollars, with nominal GDP per capita virtually unchanged at 4,377.5 US dollars; GDP (PPP) declined to 32.987 billion US dollars, and GDP per capita (PPP) to 12,523.5 US dollars, with a sharp real GDP contraction of -8.3%.",
+        "• Inflation averaged 3.7% (CPI) in 2020, with end-of-period inflation at 0.4%; public debt increased to 36.6% of GDP, the current account deficit narrowed to -7.7%, general government external debt rose markedly to 2.255 billion US dollars, and total external debt increased to 8.088 billion US dollars.",
+        "• The year 2021 experienced a strong economic rebound with nominal GDP rising to 13.694 billion US dollars and nominal GDP per capita to 5,293.2 US dollars; GDP (PPP) increased to 39.259 billion US dollars, and GDP per capita (PPP) to 15,175.3 US dollars, with real GDP growth surging to 13.9%.",
+        "• Inflation averaged 5.1% (CPI) in 2021, with end-of-period inflation also at 13.9%; public debt decreased to 32.6% of GDP, the current account deficit widened to -12.4%, general government external debt increased to 2.606 billion US dollars, and total external debt rose to 8.740 billion US dollars.",
+        "• In 2022, nominal GDP further increased to 14.550 billion US dollars, with nominal GDP per capita at 5,726.3 US dollars; GDP (PPP) was 39.918 billion US dollars, and GDP per capita (PPP) was 15,709.5 US dollars, but real GDP contracted by -4.9%.",
+        "• Inflation surged dramatically in 2022, averaging 28.5% (CPI) with end-of-period inflation reaching 30.2%; public debt remained stable at 32.6% of GDP, the current account deficit widened to -14.3%, general government external debt rose to 3.172 billion US dollars, and total external debt increased to 9.593 billion US dollars.",
+        "• In 2023, nominal GDP reached 16.000 billion US dollars, with nominal GDP per capita at 6,410.9 US dollars; GDP (PPP) increased to 42.217 billion US dollars, and GDP per capita (PPP) to 16,915.7 US dollars, with real GDP growth recovering to 2.0%.",
+        "• Inflation averaged 13.3% (CPI) in 2023, with end-of-period inflation at 5.0%; public debt increased to 35.0% of GDP, the current account deficit narrowed to -12.1%, general government external debt rose to 3.487 billion US dollars, and total external debt increased to 10.242 billion US dollars."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:42:25.171927",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "17.1",
+      "section_name": "Moldovan economy in graphics",
+      "chapter_name": "Economy of Moldova",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The nominal GDP per capita of Moldova is compared with that of its neighboring countries, providing a measure of the average economic output per person at current market prices within the region.",
+        "• The GDP based on purchasing power parity (PPP) per capita for Moldova is also presented alongside neighboring countries, reflecting the relative value of goods and services produced per person adjusted for cost of living differences.",
+        "• Remittances sent by Moldovan foreign workers constitute a significant portion of Moldova’s economy and are analyzed in relation to the country’s nominal GDP, highlighting the economic impact of migrant labor income on national financial inflows.",
+        "• Moldova experienced an industrial production growth rate of 3.4% in the year 2017, indicating an expansion in the country’s industrial sector output during that period.",
+        "• The agricultural production sector in Moldova grew by 2.5% in 2018, demonstrating positive development and increased productivity in the agricultural industry for that year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:42:28.551463",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_moldova.json",
+      "original_index": 19
+    }
+  ]
+}

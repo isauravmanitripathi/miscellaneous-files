@@ -1,0 +1,423 @@
+{
+  "table_of_contents": [
+    {
+      "title": "41 Scheduled and Tribal Areas",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.25,
+          105.57421875
+        ],
+        [
+          461.25,
+          105.57421875
+        ],
+        [
+          461.25,
+          131.291015625
+        ],
+        [
+          104.25,
+          131.291015625
+        ]
+      ]
+    },
+    {
+      "title": "ADMINISTRATION OF SCHEDULED AREAS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.75,
+          117.755859375
+        ],
+        [
+          462.287109375,
+          117.755859375
+        ],
+        [
+          462.287109375,
+          136.8984375
+        ],
+        [
+          105.75,
+          136.8984375
+        ]
+      ]
+    },
+    {
+      "title": "ADMINISTRATION OF TRIBAL AREAS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          104.58984375,
+          87.78515625
+        ],
+        [
+          421.048828125,
+          87.78515625
+        ],
+        [
+          421.048828125,
+          106.6376953125
+        ],
+        [
+          104.58984375,
+          106.6376953125
+        ]
+      ]
+    },
+    {
+      "title": "Table 41.1  Tribal Areas at a Glance (2019)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          74.25,
+          463.67578125
+        ],
+        [
+          347.23828125,
+          463.67578125
+        ],
+        [
+          347.23828125,
+          481.46484375
+        ],
+        [
+          74.25,
+          481.46484375
+        ]
+      ]
+    },
+    {
+      "title": "Table 41.2  Articles Related to Scheduled and Tribal Areas at a Glance",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          73.5,
+          308.25
+        ],
+        [
+          508.5,
+          308.25
+        ],
+        [
+          508.5,
+          326.583984375
+        ],
+        [
+          73.5,
+          326.583984375
+        ]
+      ]
+    },
+    {
+      "title": "Table 41.3  Parliamentary Laws Related to the Fifth and Sixth Schedules of\nthe Constitution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          73.5,
+          591.0
+        ],
+        [
+          537.0,
+          591.0
+        ],
+        [
+          537.0,
+          626.09765625
+        ],
+        [
+          73.5,
+          626.09765625
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          103.5,
+          690.75
+        ],
+        [
+          300.919921875,
+          690.75
+        ],
+        [
+          300.919921875,
+          709.2421875
+        ],
+        [
+          103.5,
+          709.2421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

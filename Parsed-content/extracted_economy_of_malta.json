@@ -1,0 +1,325 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_malta.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.337541",
+    "total_sections_in_source": 12,
+    "extracted_sections_count": 12,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Malta is characterized as a highly industrialised, service-based economy, reflecting a modern and diversified economic structure.",
+        "• The International Monetary Fund classifies Malta as an advanced economy, indicating a high level of economic development and sophistication.",
+        "• The World Bank designates Malta as a high-income country, underscoring its substantial per capita income and economic prosperity.",
+        "• The World Economic Forum categorizes Malta as an innovation-driven economy, highlighting its focus on technological advancement and knowledge-based industries.",
+        "• Malta is a member of the European Union and the eurozone, having officially adopted the euro as its currency on 1 January 2008, integrating it into the European monetary system.",
+        "• Key strengths of Malta’s economy include its strategic geographic location in the central Mediterranean Sea, serving as a crossroads between Europe, North Africa, and the Middle East, which facilitates trade and connectivity.",
+        "• Malta possesses a fully developed open market economy, promoting free trade and investment with minimal restrictions.",
+        "• The population is multilingual, with 88% of Maltese people speaking English, enhancing communication and business operations internationally.",
+        "• The labour force in Malta is productive, contributing to economic efficiency and competitiveness.",
+        "• Malta offers a low corporate tax regime, attracting foreign investment and multinational companies.",
+        "• The country has well-developed finance and information and communications technology (ICT) clusters, supporting sectors critical to modern economic growth.",
+        "• The Maltese economy relies significantly on foreign trade, manufacturing—particularly electronics—and tourism, alongside other tertiary sector services.",
+        "• In 2014, Malta attracted over 1.7 million tourists, reflecting the importance of tourism to the national economy.",
+        "• In 2024, Malta’s GDP per capita, adjusted for purchasing power parity (PPP), was $67,682, ranking 15th among European Union countries in terms of purchasing power standard.",
+        "• In the 2013 calendar year, Malta recorded a budget deficit of 2.7%, which complied with the Maastricht criteria limits set for eurozone countries, ensuring fiscal discipline.",
+        "• Malta’s government gross debt stood at 69.8% of GDP in 2013, indicating the level of public indebtedness relative to economic output.",
+        "• The unemployment rate in Malta was 5.9% in 2015, representing the sixth-lowest rate within the European Union, signifying a relatively strong labour market.",
+        "• According to the Economist Intelligence Unit’s Democracy Index, Malta ranks as the 33rd-most democratic country worldwide, reflecting its political stability and governance quality."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:29:34.186511",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malta's transport infrastructure includes one airport, Luqa International Airport, and two major ports: Malta Freeport and Valletta Cruise Port.",
+        "• Malta Freeport exclusively handles all cargo ship traffic and import-export activities, while Valletta Cruise Port is dedicated solely to cruise ships.",
+        "• In 2022, Malta Freeport generated revenues amounting to €170 million, whereas Valletta Cruise Port contributed €90 million, resulting in a combined total revenue of €260 million from both ports.",
+        "• Malta Freeport maintains maritime connections with 110 ports worldwide, including 55 ports located within the Mediterranean region.",
+        "• During 2022, Malta Freeport managed 2,189 container ships, which transported a total of 2.80 million TEU (twenty-foot equivalent units) of container traffic in and out of the port.",
+        "• Valletta Cruise Port welcomed 900,000 cruise passengers in 2023, generating €53 million in economic contribution to Malta.",
+        "• Luqa International Airport serves 35 airlines and offers flights to 115 destinations globally.",
+        "• In 2023, Luqa International Airport handled 7.8 million passengers, producing $2.7 billion in revenue for the Maltese economy, which represents 24% of Malta's Gross Domestic Product (GDP).",
+        "• Malta’s former national airline, Air Malta, rebranded as KM Malta Airlines in 2024, reported revenues of €679.4 million in 2022.",
+        "• Universal Air, a new airline operating from Luqa International Airport, commenced operations in April 2024 with an initial fleet of 6 aircraft.",
+        "• The combined employment from airlines, the airport, and associated businesses at Luqa International Airport accounts for nearly 7,000 individuals."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:29:39.612211",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "History",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the Napoleonic Wars (1800–1815), Malta's economy prospered and became the focal point of a major trading system, with two-thirds of cargo consigned from Malta in 1808 destined for the Levant and Egypt.",
+        "• Subsequently, approximately half of Malta's cargo was usually destined for Trieste, consisting largely of British and colonial-manufactured goods, which contributed to economic prosperity and employment opportunities for artisans such as weavers in the port industry.",
+        "• In 1820, during the Battle of Navarino in Greece, the British fleet was based in Malta, highlighting the island's strategic maritime importance.",
+        "• By 1839, prominent companies such as P&O and the East India Company used Malta as a calling port on their Egypt and Levant shipping routes.",
+        "• The opening of the Suez Canal in 1869 significantly benefited Malta's economy by causing a massive increase in shipping traffic entering its port, marking the beginning of a special economic phase.",
+        "• The Mediterranean Sea became known as the \"world highway of trade,\" with numerous ships calling at Malta for coal and various supplies en route to the Indian Ocean and the Far East.",
+        "• Between 1871 and 1881, approximately 8,000 workers found employment in the Malta docks, and several banks were established on the island, contributing to economic growth.",
+        "• By 1882, Malta had reached the height of its economic prosperity due to its strategic position and increased maritime activity.",
+        "• However, by the end of the 19th century, Malta's economy began to decline, and by the 1940s, it was in serious crisis primarily because of the invention of large, oil-fired ships that no longer needed to stop at Malta's Grand Harbor to refuel.",
+        "• In response to economic challenges, the British Government extended the dockyard facilities to adapt to changing maritime technologies.",
+        "• At the end of World War II, Malta's strategic military importance diminished significantly due to advancements in modern air warfare technology and the invention of the atomic bomb.",
+        "• The British loss of control over the Suez Canal and subsequent withdrawal from the naval dockyard led to the transformation of the dockyard into a commercial shipbuilding and ship repair facility."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:29:51.490174",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Modern economy",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Maltese economy is primarily reliant on foreign trade, manufacturing—particularly in electronics and pharmaceuticals—and tourism as key sectors driving economic activity.",
+        "• Malta officially adopted the Euro as its currency on 1 January 2008, marking a significant monetary transition.",
+        "• Since 1987, tourist arrivals and foreign exchange earnings from tourism have shown a consistent upward trend, although the industry experienced a temporary decline following the September 11, 2001 attacks.",
+        "• The Maltese economy has sustained rapid growth supported by a favorable international economic environment, availability of domestic resources, and industrial policies that encourage foreign export-oriented investment.",
+        "• Increased demand for credit from both public and private sectors, combined with interest rate controls, has resulted in credit rationing for the private sector and the introduction of non-interest charges by banks.",
+        "• Despite these financial pressures, consumer price inflation remained low at 2.2% in 2007, as reported by the Central Bank of Malta, influenced by a fixed exchange rate policy pegged 100% to the euro in preparation for currency adoption and ongoing price controls.",
+        "• Malta possesses a robust manufacturing sector focused on high value-added products such as electronics and pharmaceuticals, hosting over 250 foreign-owned, export-oriented enterprises.",
+        "• Tourism contributes approximately 15% to Malta’s Gross Domestic Product (GDP), underscoring its significance to the national economy.",
+        "• The film production industry in Malta has been growing, generating around 35 million euros between 1997 and 2011, despite competition from other filming locations in Eastern Europe and North Africa; the Malta Film Commission supports foreign film companies in producing feature films, commercials, and television series.",
+        "• Between 2001 and 2005, Malta’s mean real GDP growth was modest at 0.4%, attributed to a slowdown in tourism and other industrial sectors.",
+        "• Unemployment reached 4.4% during this period, marking its lowest level in three years.",
+        "• The Maltese government has been actively privatizing many formerly state-owned companies and liberalizing the market to enhance economic efficiency.",
+        "• Fiscal policy efforts have focused on reducing the budget deficit after public debt escalated from a negative figure in 1988 to 56% of GDP in 1999 and further to 69.1% in 2009.",
+        "• By 2007, Malta’s budget deficit-to-GDP ratio was comfortably below the 3% threshold required for eurozone membership; however, pre-election spending caused the deficit to rise to 4.4% in 2008 and 3.8% in 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:02.958848",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of January 2014, the Wikipedia article on Malta's energy sector requires updating to include recent developments or newly available information.",
+        "• Malta possesses significant potential for generating electricity through solar and wind power sources.",
+        "• Despite this renewable energy potential, Malta generates nearly all of its electricity from oil.",
+        "• The country imports 100% of the oil used for electricity production, indicating complete reliance on foreign energy sources.",
+        "• Energy availability and the high cost of energy, frequently cited as the highest in Europe, were prominent issues during Malta's 2013 national election."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:06.442355",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, the average annual employment in Malta's manufacturing industry totaled 18,008 workers, with an average annual earnings per capita of €15,812.",
+        "• The food and beverages; tobacco sector employed 2,873 individuals, with an average annual earning of €13,441 per capita.",
+        "• The textiles and textile products sector had 422 employees, earning an average of €15,512 annually per capita.",
+        "• The wearing apparel and clothes sector employed 733 people, with an average annual earning of €11,698 per capita.",
+        "• The leather and leather products sector had 185 employees, with average annual earnings of €9,308 per capita.",
+        "• The wood and wood products sector employed 78 individuals, earning an average of €12,000 annually per capita.",
+        "• The paper and paper products sector had 265 employees, with an average annual earning of €15,698 per capita.",
+        "• The publishing and printing sector employed 1,669 workers, with average annual earnings of €17,615 per capita.",
+        "• The chemicals and chemical products sector employed 1,038 individuals, earning an average of €19,052 annually per capita.",
+        "• The rubber and plastic products sector had 1,578 employees, with an average annual earning of €15,254 per capita.",
+        "• The other non-metallic mineral products sector employed 766 workers, earning an average of €11,928 annually per capita.",
+        "• The fabricated metal products sector had 596 employees, with average annual earnings of €14,451 per capita.",
+        "• The machinery and equipment n.e.c. (not elsewhere classified) sector employed 446 individuals, with an average annual earning of €13,518 per capita.",
+        "• The electrical machinery and apparatus sector had 1,409 employees, earning an average of €16,515 annually per capita.",
+        "• The radio, TV, and communication equipment sector was the largest employer with 3,168 workers, with average annual earnings of €18,673 per capita.",
+        "• The medical, precision, and optical instruments sector employed 877 individuals, with average annual earnings of €15,582 per capita.",
+        "• The motor vehicles, trailers, and semitrailers sector had the smallest workforce of 50 employees, with average annual earnings of €10,220 per capita.",
+        "• The other transport equipment sector employed 258 workers, with the highest average annual earnings per capita in the industry at €20,938.",
+        "• The furniture and manufacturing n.e.c. sector employed 1,597 individuals, earning an average of €15,753 annually per capita."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:16.067407",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Banking",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the largest bank in Malta by market share was Bank of Valletta, founded in 1974, holding 44.67% of the market.",
+        "• HSBC Bank Malta p.l.c., established in 1999, was the second largest bank in Malta in 2022, with a market share of 20.48%.",
+        "• APS BANK P.L.C., founded in 1910, ranked third among Maltese banks in 2022, controlling 8.41% of the market.",
+        "• MeDirect Bank (Malta) plc, founded in 2004, held the fourth position in Malta’s banking sector in 2022, with a market share of 6.87%.",
+        "• FIMBank plc, established in 1995, was the fifth largest bank in Malta in 2022, with a market share of 5.70%.",
+        "• Lombard Bank Malta plc, founded in 1955, ranked sixth in Malta’s banking market in 2022, holding 3.85% of the market.",
+        "• BNF Bank plc, the youngest among the top seven banks, founded in 2008, held the seventh position in 2022 with a market share of 3.13%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:22.720937",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The GDP identity from the income side includes the percentage compensation of employees by industry, averaged over the period 2016 to 2020, as reported by the National Statistics Office (NSO) in the Gross Domestic Product: 2020 report.",
+        "• In 1998, Malta's electricity production totaled 1,620 GWh.",
+        "• Electricity production by source in 1998 was predominantly from fossil fuels at 98.6%, with renewable sources contributing 1.4%, and no production from hydroelectric, nuclear, or other sources (all at 0%).",
+        "• Electricity consumption in Malta for the year 1998 was recorded at 1,507 GWh.",
+        "• There were no electricity exports or imports in Malta in 1998, with both recorded at 0 kWh.",
+        "• Malta’s agricultural products include potatoes, cauliflower, grapes, wheat, barley, tomatoes, citrus fruits, cut flowers, green peppers, as well as livestock products such as pork, milk, poultry, and eggs.",
+        "• The currency of Malta has been the euro since 1 January 2008, with the conversion rate of 1 euro equaling 100 cents; prior to this, the currency was the Maltese lira, subdivided into 100 cents.",
+        "• Historical exchange rates of the Maltese lira (LM) per US dollar were 0.4086 in January 2000, 0.3994 in 1999, 0.3885 in 1998, 0.3857 in 1997, 0.3604 in 1996, and 0.3529 in 1995.",
+        "• The Maltese lira was irrevocably fixed to the euro at a conversion rate of 0.4293 LM per 1 euro in 2007."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:31.945820",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "5",
+      "section_name": "Companies",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to HitHorizons, companies registered in Malta generate a total of €88,255,174,701 in sales annually.",
+        "• The company with the highest sales in Malta is ALKAGESTA LTD, reporting €2.075 billion in sales per annum.",
+        "• HC TRADING MALTA LIMITED ranks second in sales among Maltese companies, with €1.346 billion in annual sales.",
+        "• ADVAITA TRADE PRIVATE LIMITED holds the third position in sales, achieving €1.253 billion in yearly sales."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:35.214593",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "6",
+      "section_name": "Poverty",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Poverty and social exclusion represent significant challenges within Malta's socio-economic landscape.",
+        "• In 2008, approximately 15% of Malta's population was estimated to be living below the poverty line.",
+        "• This 15% poverty rate in Malta was marginally lower than the European Union average, which stood at 17% in 2008.",
+        "• To combat poverty, Malta introduced the National Strategic Policy for Poverty Reduction and Social Inclusion on 24 December 2014.",
+        "• The National Strategic Policy targets six key branches: social services, health and environment, culture, income and social benefits, education, and employment.",
+        "• The policy is designed to be operational from 2014 through 2024, establishing a decade-long framework for poverty reduction.",
+        "• A core component of the policy involves engaging various stakeholders in discussions aimed at alleviating the difficulties faced by families experiencing poverty in Malta."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:39.414092",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "7",
+      "section_name": "Unemployment system",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Unemployment benefits in Malta are distributed through contributory and non-contributory schemes, with contributory schemes providing benefits within 50 weeks of contribution, while non-contributory schemes offer a Social Unemployment Benefit after a means test to the head of a household.",
+        "• Eligibility for unemployment benefits requires that the individual is capable of work and has registered as unemployed.",
+        "• The Malta registrar of unemployment classifies individuals into three categories: category one includes people who have never worked; category two comprises those who quit or were dismissed from their jobs; and category three consists of individuals currently employed but seeking other job opportunities.",
+        "• Unemployment benefits are provided for a duration of 156 days, after which individuals may qualify for means-tested unemployment assistance.",
+        "• Eligible recipients of unemployment benefits include Maltese citizens aged sixteen years or older, participants in eligible work-study programs, and Maltese citizens residing abroad who are employed by foreign entities.",
+        "• Scholars have observed that Malta’s unemployment system has fostered dependency on benefits, evidenced by an increase in recipients of both short-term and long-term benefits from 1992 to 2005.",
+        "• In 2016, 969 Maltese citizens were removed from the employment register due to abuse of the unemployment system.",
+        "• Political movements have emerged aiming to reduce and reform the unemployment system, particularly following the Labour Party’s election victory in 2013.",
+        "• After the 2013 Labour Party election, the number of individuals receiving unemployment benefits decreased by 75%.",
+        "• The Labour government introduced the \"in-work\" benefit to encourage employment while supporting the poorest and most desperate families.",
+        "• Eligibility for the in-work benefit requires applicants to have children under the age of 23, with benefit amounts varying based on marital status and the number of employed family members.",
+        "• Single parents in employment earning between €6,600 and €16,500 are eligible for a maximum annual payment of up to €1,250 per child under the in-work benefit scheme.",
+        "• Married couples with a combined income between €10,000 and less than €24,000, where at least one spouse earns over €3,000, qualify for a maximum annual payment of up to €1,200 per child.",
+        "• In 2016, the in-work benefit was extended to married couples with only one working parent, adding approximately 3,700 families to the scheme.",
+        "• Married couples with only one employed parent earning between €6,600 and €16,500 are eligible for a maximum annual payment of up to €350 per child under the in-work benefit.",
+        "• The in-work benefit payments are disbursed quarterly in January, April, July, and October.",
+        "• Malta’s female workforce participation rate was 42.3% in 2017, which is relatively low compared to other demographics.",
+        "• Over half of Maltese women who remain outside the workforce do not receive direct unemployment benefits, as unemployment benefits require prior employment.",
+        "• Most unemployment benefits in Malta are received by men, reflecting the requirement of prior employment for eligibility.",
+        "• Older Maltese women tend to stay out of the workforce, whereas women who participate are generally younger and possess higher educational qualifications.",
+        "• The long-term unemployment rate among women in Malta was 2.5% in 2011, lower than the 3.3% long-term unemployment rate observed among men."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:48.630812",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "8",
+      "section_name": "Pensions system",
+      "chapter_name": "Economy of Malta",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malta operates both public and private pension systems to provide retirement income to its residents.",
+        "• The public pension system in Malta requires contributions categorized into two classes: class one contributions are made by employed individuals, while class two contributions are made by self-employed individuals.",
+        "• During the 1950s and 1960s, Malta implemented a gradual increase in the pension age, adjusting eligibility criteria based on birth year; for instance, individuals born in 1953 must reach 62 years of age to collect pensions, whereas those born in 1960 must be 64 years old.",
+        "• Eligibility for Malta’s pension programs includes a mandatory minimum contribution period; individuals who have not contributed for the required duration are ineligible to receive pension benefits.",
+        "• Malta offers a state-sponsored Malta Retirement Programme specifically designed for foreign pensioners seeking residence in the country.",
+        "• Under the Malta Retirement Programme, foreign nationals whose income consists of more than 75% from pension payments are eligible to obtain a residence permit in Malta.",
+        "• Participants in the Malta Retirement Programme benefit from a special tax status, providing favorable fiscal conditions for foreign pensioners residing in Malta."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:30:53.136947",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_malta.json",
+      "original_index": 11
+    }
+  ]
+}

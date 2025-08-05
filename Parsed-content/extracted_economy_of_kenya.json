@@ -1,0 +1,741 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_kenya.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.198471",
+    "total_sections_in_source": 29,
+    "extracted_sections_count": 29,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Kenya is predominantly market-based, characterized by a limited number of state enterprises.",
+        "• Kenya is classified as an emerging market and is considered an averagely industrialized nation, positioned ahead of its East African peers.",
+        "• The country is currently designated as a lower middle income nation with a developmental goal to become a newly industrialized nation by the year 2030.",
+        "• Major industries driving Kenya’s economy include financial services, agriculture, real estate, manufacturing, logistics, tourism, retail, and energy sectors.",
+        "• As of 2020, Kenya ranked as the third largest economy in Sub-Saharan Africa, following Nigeria and South Africa.",
+        "• Regionally, Kenya has maintained a stronger and more stable economy compared to neighboring countries within East Africa.",
+        "• By 2023, Kenya had become Africa’s largest start-up hub, distinguished by the highest total funds invested and the greatest number of start-up projects.",
+        "• The Kenyan government is generally investment-friendly, having implemented several regulatory reforms aimed at simplifying both foreign and local investment procedures.",
+        "• One such reform includes the establishment of an export processing zone to promote trade and industrialization.",
+        "• A significant and growing source of foreign financial inflows into Kenya is remittances sent by Kenyans living abroad, particularly in the United States, the Middle East, Europe, and Asia.",
+        "• According to data from the Central Bank of Kenya, remittances from the Kenyan diaspora constitute over 3.4% of the country’s Gross Domestic Product (GDP).",
+        "• As of September 2018, Kenya’s economic outlook was positive, with an expected GDP growth rate exceeding 6%.",
+        "• The projected economic growth was primarily driven by expansions in the telecommunications, transport, and construction sectors, along with a recovery in agriculture and the proliferation of small businesses.",
+        "• These economic improvements are supported by a large pool of highly educated professional workers, contributing to innovation and development.",
+        "• Kenya exhibits a high level of IT literacy and innovation, especially among its youth demographic.",
+        "• In 2020, Kenya ranked 56th in the World Bank’s ease of doing business index, improving from 61st position in 2019, out of 190 countries assessed.",
+        "• Compared to its neighboring countries, Kenya boasts well-developed social and physical infrastructure, facilitating economic activities and development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:26.780168",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 70 AD and 1500 AD, trade routes spanning Africa, Asia, and Europe integrated the Kenyan coastal strip into the global economy, with foreign merchants bringing merchandise to the coast and departing with African goods.",
+        "• In 1499 AD, Portuguese explorer Vasco da Gama returned to Europe after discovering the sea route to India via South Africa, enabling European dominance over East African coastal trade in the 16th and 17th centuries.",
+        "• During the 18th century, Portuguese influence in East African trade was replaced by Omani Arabs, who later were succeeded by the British.",
+        "• By 1895, the British controlled the coastal strip, and by 1920, they extended inland trade routes to the Buganda Kingdom.",
+        "• The British built a railway from Mombasa to Kampala, following ancient trade routes, to enhance profitability, employing Indian laborers for construction.",
+        "• Major towns along the railway emerged, supported by European settler farming communities; Indian laborers who stayed after construction established shops called dukawallahs.",
+        "• During colonial rule, European settlers and Indian dukawallahs laid the foundations of modern Kenya’s economy, with notable Asian-Kenyan entrepreneurs such as Manu Chandaria and Madatally Manji starting as dukawallahs.",
+        "• Between 1920 and 1963, Europeans and Indians experienced strong economic growth, while Africans faced land dispossession, dehumanization, and forced labor under racial segregation.",
+        "• Kenya gained independence in 1963, with President Jomo Kenyatta promoting Africanization of the economy through public investment, support for smallholder agriculture, and incentives for private and foreign industrial investments.",
+        "• The 1965 Sessional Paper by Tom Mboya and Mwai Kibaki emphasized Kenya’s focus on African socialism, avoiding reliance on Western capitalism or Eastern communism, and urged economic independence from external countries or blocs.",
+        "• From 1963 to 1973, Kenya’s GDP grew annually by an average of 6.6%; during the 1970s, growth increased to an average of 7.2%; agricultural production grew by 4.7% annually, driven by estate redistribution, new crop strains, and opening new cultivation areas.",
+        "• In the 1980s, GDP growth declined to 4.2% annually, and further to 2.2% in the 1990s, with agricultural production shrinking by 3.9% annually from 1991 to 1993.",
+        "• Kenya’s import substitution policy, initiated in 1946, failed to transform the industrial base; rising oil prices in the late 1970s made manufacturing sectors uncompetitive.",
+        "• The government responded with intervention in the private sector, but lack of export incentives, import controls, and foreign exchange restrictions hindered investment attractiveness.",
+        "• During the 1980s and 1990s, Kenya signed structural adjustment loans with the World Bank and IMF, conditioned on reforms such as liberalized trade, interest rates, and outward-oriented industrial policies, but economic performance was poor during this period.",
+        "• From 1991 to 1993, Kenya experienced its worst economic performance since independence, with GDP stagnation, a 3.9% annual decline in agriculture, inflation reaching 100% in August 1993, and a government budget deficit exceeding 10% of GDP, leading to suspension of aid programs.",
+        "• In 1993, Kenya launched major economic reforms with assistance from the World Bank and IMF, including removing price controls, import licensing, foreign exchange controls, privatization, civil service reduction, and fiscal and monetary tightening; from 1994 to 1996, GDP growth averaged just over 4% annually.",
+        "• The economy slowed again in 1997 due to adverse weather and pre-election economic slowdown; Kenya refused to meet IMF governance reforms commitments, resulting in a three-year suspension of IMF lending and a hold on a $90 million World Bank structural adjustment credit.",
+        "• The government took reform measures such as establishing the Kenya Anti-Corruption Authority in 1997, improving procurement transparency, and reducing civil service payroll; in 2000, IMF and World Bank provided a $150 million Poverty Reduction and Growth Facility and a $157 million Public Sector Reform credit, both later suspended.",
+        "• Despite setbacks, reforms established Kenya as East Africa’s economic powerhouse and regional business hub.",
+        "• Between 2003 and 2008, under President Mwai Kibaki, economic performance improved; reforms included establishing the National Debt Management Department, reforming the Kenya Revenue Authority (KRA), reforming banking laws, writing off public enterprise debts, and investing 30% of tax revenue in development projects.",
+        "• Tax revenue collection exceeded expectations in 2004; infrastructure investments commenced, and public debt decreased from 80% of GDP in 2002 to 27% in 2005.",
+        "• The financial sector strengthened, exemplified by Equity Bank Kenya becoming one of East Africa’s largest banks; GDP growth increased from 2% in 2003 to 7% in 2007.",
+        "• In 2008, growth dropped to 1% due to post-election violence, but recovered to an average of 5% from 2009 to 2013; agriculture contracted by 2.7% in 2009 due to drought and the 2008 financial crisis.",
+        "• From 2013 to 2018, under the Jubilee Party government led by Uhuru Kenyatta, GDP growth averaged above 5%, with quarterly growth rates of 5.7% in Q1 2018, 6.0% in Q2, and 6.2% in Q3; small business growth contributed to economic improvement.",
+        "• Despite robust growth, concerns persisted regarding debt sustainability, current account deficits, fiscal consolidation, and revenue growth.",
+        "• The IMF-estimated nominal GDP of Kenya in 1980 was $7.265 billion with an exchange rate of 7.42 shillings per USD; in 1985, $6.135 billion at 16.43 shillings; in 1990, $8.591 billion at 22.86 shillings; in 1995, $9.046 billion at 50.42 shillings; in 2000, $12.71 billion at 78.58 shillings; in 2005, $18.74 billion at 75.55 shillings; in 2010, $40 billion at 78.90 shillings; in 2015, $63.77 billion at 96.85 shillings; and in 2020, $101.1 billion at 107 shillings."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:42.847115",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Vision 2030 plan",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Vision 2030 is Kenya's strategic blueprint aimed at shaping the country's economic future with the objective of establishing a prosperous, globally competitive nation characterized by a high quality of life by the year 2030.",
+        "• The plan seeks to achieve this vision through a comprehensive transformation of Kenya's industry and environment, structured around three core pillars: economic, social, and political.",
+        "• The overarching goal of Vision 2030 is to position Kenya as a middle-income country with a sustained economic growth rate that supports improved living standards for its citizens.",
+        "• The economic pillar focuses on diversifying and expanding key sectors such as agriculture, manufacturing, tourism, and services to promote economic growth and job creation.",
+        "• The social pillar emphasizes investments in education, health, and social protection to enhance human capital development and reduce poverty and inequality.",
+        "• The political pillar aims to strengthen governance, institutions, and the rule of law to foster a stable and enabling environment for economic and social development.",
+        "• Vision 2030 was launched in 2008 as part of Kenya's long-term development agenda, with specific milestones set to be achieved by 2012, 2017, and 2022, leading up to the 2030 target.",
+        "• The plan is implemented through sector-specific flagship projects, including infrastructure development such as roads, ports, energy, and information technology.",
+        "• Key initiatives include the expansion of the Standard Gauge Railway (SGR), the development of the Lamu Port-South Sudan-Ethiopia-Transport (LAPSSET) Corridor, and increased investment in renewable energy sources.",
+        "• The plan aims to increase Kenya’s GDP growth rate to an average of 10% annually over the period, with the goal of raising per capita income and reducing poverty levels.",
+        "• As part of the strategy, Kenya aims to improve its competitiveness by enhancing infrastructure, human capital, and institutional capacity, aligning with global standards.",
+        "• The plan emphasizes sustainable development practices, environmental conservation, and climate change mitigation to ensure long-term economic stability.",
+        "• The implementation of Vision 2030 involves collaboration among government ministries, private sector stakeholders, development partners, and civil society organizations.",
+        "• Progress reports indicate that Kenya has made significant strides in infrastructure development, economic diversification, and social services, although challenges remain in fully achieving all targets by 2030."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:48.582795",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Economic pillar",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Vision 2030 aims for an average annual economic growth rate exceeding 10% over a period of 23 years, starting from the year 2007.",
+        "• The strategic focus of Vision 2030 encompasses key economic sectors including tourism, agriculture, wholesale and retail trade, manufacturing, IT-enabled services, and financial services.",
+        "• The initiative reflects Kenya’s long-term development plan to transform the country into a newly industrializing, middle-income nation by the year 2030."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:50.522039",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Social pillar",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The \"Social pillar\" of Kenya's economy aims to enhance the quality of life for its citizens through various development programs.",
+        "• Vision 2030 is a strategic initiative that seeks to improve human and social welfare in Kenya by focusing on key sectors such as education and training, health, environment, housing and urbanization, children and social development, and youth and sports.",
+        "• The overarching goal of Vision 2030 is to transform Kenya into a newly industrializing, middle-income country providing a high quality of life to all its citizens by the year 2030.",
+        "• In 2018, President Uhuru Kenyatta launched the \"Big Four Agenda,\" a government development blueprint aimed at accelerating economic growth and social development in Kenya.",
+        "• The Big Four Agenda concentrates on four critical sectors: universal healthcare, manufacturing, affordable housing, and food security.",
+        "• The focus on universal healthcare aims to provide accessible and quality health services to all Kenyans, thereby improving health outcomes and reducing health disparities.",
+        "• The manufacturing sector under the Big Four Agenda is targeted to boost industrialization, create jobs, and promote economic diversification.",
+        "• Affordable housing is prioritized to address the housing deficit and improve living standards, with initiatives aimed at constructing affordable homes for Kenyans.",
+        "• Food security efforts focus on increasing agricultural productivity, ensuring stable food supplies, and reducing hunger across the country.",
+        "• These initiatives reflect Kenya’s commitment to achieving sustainable development and improving social welfare as part of its broader economic growth strategy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:54.833072",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Political pillar",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The political pillar of Kenya’s economy envisions a \"democratic system that is issue-based, transparent, people-centred, results-oriented, and accountable to the public.\"",
+        "• It targets five main areas: the rule of law under the Constitution of Kenya, electoral and political processes, democracy and public service delivery, transparency and accountability, and security, peacebuilding, and conflict management.",
+        "• The current Constitution of Kenya was inaugurated on 27 August 2010, serving as the legal framework to support this political pillar."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:56.872154",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Currency, exchange rate, and inflation",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya's currency is printed under the authority of the Central Bank of Kenya, which has been responsible for printing banknotes since 1996.",
+        "• Since 1996, multiple versions of Kenya's banknotes and coinage have been issued and circulated.",
+        "• The most recent redesign of Kenya's currency occurred in 2019.",
+        "• Between 2003 and 2010, the exchange rate of the Kenyan Shilling (KSh) against the US Dollar averaged approximately KSh74 to KSh78 per US Dollar.",
+        "• The average inflation rate in Kenya from 2005 to July 2015 was 8.5%.",
+        "• As of July 2015, Kenya's inflation rate was estimated at 6.62%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:57:59.638740",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Revenue and spending",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, the Kenyan government’s total revenue was US$4.448 billion, while its estimated expenditures amounted to US$5.377 billion.",
+        "• The government’s budget balance as a percentage of gross domestic product (GDP) improved from −5.5% in 2004 to −2.1% in 2006.",
+        "• In 2012, Kenya set a national budget of US$14.59 billion, with government revenue approximately US$12 billion.",
+        "• The 2018 budget policy report projected a total budget of US$30 billion for Kenya.",
+        "• In 2018, the government’s revenue was approximately US$29.5 billion, resulting in a budget deficit of US$5 billion, which was financed through borrowing.",
+        "• During the financial year ending in June 2020, the Kenya Revenue Authority (KRA) collected approximately US$15 billion in tax revenue."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:02.813215",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Government debt",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Starting in 1982, Kenya's key public debt indicators increased beyond critical levels, both as a percentage of GDP and as a percentage of government revenue.",
+        "• In 2002, during the final year of Daniel arap Moi's administration, Kenya's public debt was approximately 80% of GDP.",
+        "• During the last decade of Moi's regime, the government allocated 94% of its total revenue to salaries and debt servicing to the IMF, World Bank, and other Western countries.",
+        "• In 2003, Mwai Kibaki's administration established a public debt management department within the treasury to reduce Kenya's debt to sustainable levels.",
+        "• In 2006, Kenya experienced a current account deficit of US$1.5 billion, a significant increase from US$495 million in 2005.",
+        "• The current account balance as a percentage of GDP in 2006 was −4.2%.",
+        "• In 2006, Kenya's external debt totaled US$6.7 billion, with a GDP of US$25.83 billion, resulting in external debt comprising approximately 27% of GDP.",
+        "• The national treasury reported in 2011 that Kenya's debt was increasing, reaching 40% of GDP in 2009 and 54% of GDP by 2012.",
+        "• By 2019, Kenya's total debt had risen to US$50 billion against a GDP of US$98 billion, with public debt constituting 51% of GDP.",
+        "• In 2021, Kenya's debt further increased to US$65 billion, with a GDP of US$101 billion, making the public debt level 65% of GDP.",
+        "• Since 2011, China has been Kenya's largest bilateral lender, while the World Bank has been the largest multilateral lender since 1963.",
+        "• In April 2025, Kenya secured US$600 million in short-term financing from commercial banks to support road construction projects amid ongoing budgetary pressures caused by sluggish tax revenue growth, high debt servicing costs, and increased spending obligations at the county level.",
+        "• The US$600 million financing was backed by securitized collections from the national fuel levy, set at 18 Kenyan shillings (approximately US$0.14) per litre, arranged through the Kenya Roads Board to facilitate access to more affordable credit.",
+        "• Finance Minister John Mbadi stated that the funds would be used to pay contractors for urgent road maintenance while the government pursued a larger funding arrangement, potentially a US$1.5 billion privately placed bond or syndicated loan.",
+        "• This financing initiative supports broader infrastructure financing efforts by President William Ruto’s administration, which took office in September 2022.",
+        "• Kenya plans to issue Africa’s first sustainability-linked bond by November 2025, targeting US$500 million to support the national budget and advance environmental, social, and energy-related goals.",
+        "• The government’s strategy aims to manage an anticipated budget deficit of 3.9% of GDP for the fiscal year ending June 2025."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:10.839351",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Economic Stimulus Programme",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Kenya Economic Stimulus Programme was introduced during the 2010–2011 budget plan.",
+        "• The primary goal of the initiative was to stimulate economic activity in Kenya by addressing key developmental challenges.",
+        "• The programme focused on investing in long-term solutions to critical issues such as food insecurity, rural unemployment, and underdevelopment.",
+        "• A significant component of the strategy involved providing business loans to support economic growth.",
+        "• These business loans targeted small and medium enterprises (SMEs), aiming to offer essential financial support to foster growth and innovation within this sector.",
+        "• The stated objectives of the programme included promoting regional development to achieve greater equity and social stability across Kenya.",
+        "• Additional focus areas encompassed infrastructure development, enhancement of education systems, and provision of affordable healthcare.",
+        "• The initiative also prioritized environmental conservation efforts.",
+        "• It aimed to improve information and communications technology (ICT) capacity and increase access to IT resources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:13.052251",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Integrated Financial Management Information System",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Integrated Financial Management Information System (IFMIS) was launched in 2003 as a digital platform designed to manage Kenya's financial information and services.",
+        "• The system was subsequently re-engineered by the Ministry of Finance to address issues of fraud and other financial malpractices.",
+        "• IFMIS facilitates integrated budget planning by linking financial management processes directly to planning policy objectives and budget allocation strategies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:14.590898",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.5",
+      "section_name": "Funds for the Inclusion of Informal Sector",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Fund for the Inclusion of Informal Sector (FIIS) is a financial initiative established to support businesses operating within Kenya's informal economy.",
+        "• FIIS provides access to credit financing and a range of other financial facilities tailored to the needs of informal sector enterprises.",
+        "• The fund aims to facilitate the inclusion of informal sector businesses into the formal financial system by offering essential banking services.",
+        "• FIIS serves as a mechanism to enhance financial accessibility for informal economy entrepreneurs, enabling them to expand and formalize their operations.",
+        "• The establishment of FIIS underscores the Kenyan government's commitment to promoting financial inclusion and economic development within the informal sector.",
+        "• Specific details regarding the funding amount, operational guidelines, or implementation timeline are not provided within this section."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:16.948928",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.6",
+      "section_name": "Investor compensation fund",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Investor Compensation Fund is established to provide compensation to investors who incur losses due to breaches of duty by licensed stockbrokers or dealers.",
+        "• The fund offers compensation up to a maximum of Sh.50,000 (Kenyan shillings) per investor.",
+        "• Its primary purpose is to protect investors from financial losses resulting from misconduct or negligence by licensed financial intermediaries in the securities market.",
+        "• The fund covers losses caused specifically by breaches of duty, which may include fraudulent activities, misappropriation, or failure to adhere to regulatory standards by licensed entities.",
+        "• The maximum compensation limit per investor is set at Sh.50,000, regardless of the total amount lost, ensuring a cap on the fund’s liability.",
+        "• The existence of the fund underscores the regulatory framework aimed at safeguarding investor interests within Kenya’s capital markets.",
+        "• The fund is part of the broader investor protection mechanisms overseen by the Capital Markets Authority (CMA) of Kenya.",
+        "• The section does not specify the total amount of funds accumulated in the Investor Compensation Fund or the criteria for claiming compensation beyond the maximum limit."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:20.323896",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "4",
+      "section_name": "Foreign economic relations",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Foreign investments in Kenya remain relatively weak relative to the size of its economy and level of development.",
+        "• As of 2022, Kenya's total foreign direct investment (FDI) stock was valued at USD 10.4 billion.",
+        "• The FDI stock represented only 9.5% of Kenya’s Gross Domestic Product (GDP) in 2022.",
+        "• Major sources of foreign investments include China, Japan, Russia, the United States, and the United Kingdom.",
+        "• Kenya hosts numerous foreign multinational companies and international organizations, notably the United Nations Environment Programme.",
+        "• Chinese investments in Kenya have been increasing over recent years.",
+        "• Conversely, investments from Western countries such as the United Kingdom have declined significantly.",
+        "• Multilateral agencies, particularly the World Bank and the European Development Fund, have increased their investments in Kenya.",
+        "• Currently, Chinese investors are the most active among foreign investors in Kenya.",
+        "• Kenya participates actively in regional trade blocs, including the Common Market for Eastern and Southern Africa (COMESA) and the East African Community (EAC).",
+        "• The East African Community (EAC) is a partnership comprising Kenya, Uganda, Tanzania, Rwanda, Burundi, and South Sudan.",
+        "• The primary goal of the EAC is to establish a common market modeled after the European Union.",
+        "• An early step towards regional integration was the establishment of a customs union within the EAC, which has eliminated duties on goods and non-tariff trade barriers among member states."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:24.930911",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Exports",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya's primary exports are horticultural products and tea, which in 2005 had a combined value of US$1,150 million.",
+        "• The value of these exports was approximately ten times greater than Kenya's third most valuable export, coffee.",
+        "• Other significant Kenyan exports include petroleum products, fish, cement, pyrethrum, and sisal.",
+        "• The leading imports into Kenya consist of crude petroleum, chemicals, manufactured goods, machinery, and transportation equipment.",
+        "• Africa is Kenya's largest export market, followed by the European Union.",
+        "• The major destinations for Kenyan exports are Uganda, Tanzania, the United Kingdom, and the Netherlands.",
+        "• Kenya's main sources of imports are China, India, the United Arab Emirates, Saudi Arabia, and South Africa.",
+        "• Kenya's main exports to the United States are garments, which are traded under the African Growth and Opportunity Act (AGOA).",
+        "• Despite this, Kenya's apparel industry faces challenges competing with Asian producers and maintains a trade deficit with the United States.",
+        "• Economists attribute many of Kenya's export-related problems to the fact that its exports are inexpensive items that generate relatively low revenue for the country.",
+        "• Kenya is the dominant trade partner for Uganda, accounting for 12.3% of Uganda's exports and 15.6% of Uganda's imports.",
+        "• For Rwanda, Kenya accounts for 30.5% of Rwanda's exports and 17.3% of Rwanda's imports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:29.744475",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Balance of trade",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya generally maintains a substantial trade deficit, indicating that the value of its imports exceeds that of its exports.",
+        "• The trade balance in Kenya fluctuates significantly over time due to the primary commodities exported, which are highly sensitive to fluctuations in global prices and weather conditions.",
+        "• In 2005, Kenya's income from exports was approximately US$3.2 billion, while the cost of imports was about US$5.7 billion, resulting in a trade deficit of roughly US$2.5 billion.",
+        "• The trade data across selected years demonstrates a persistent deficit, with the net trade balance worsening over time:"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:35.888655",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Foreign investment policies",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since independence, Kenyan policies on foreign investment have generally been favorable, with occasional restrictions aimed at promoting the \"Africanisation\" of enterprises.",
+        "• Foreign investors in Kenya have been guaranteed ownership rights and the ability to remit dividends, royalties, and capital without restrictions.",
+        "• Kenya is currently the most significant source of foreign direct investment (FDI) in Uganda and Rwanda.",
+        "• Uganda and neighboring regions serve as the primary export markets for Kenyan products.",
+        "• Kenya has experienced greater success in expanding its economy and improving quality of life levels compared to many other sub-Saharan African countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:37.834224",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Kenya's agricultural production included 5.2 million tons of sugarcane, 4 million tons of maize, 1.8 million tons of potatoes, 1.4 million tons of bananas, 946 thousand tons of cassava, 871 thousand tons of sweet potatoes, 775 thousand tons of mangoes (including mangosteen and guava), 765 thousand tons of beans, 599 thousand tons of tomatoes, 674 thousand tons of cabbage, 492 thousand tons of tea, 349 thousand tons of pineapples, 336 thousand tons of wheat, 239 thousand tons of carrots, 233 thousand tons of avocados, 206 thousand tons of sorghum, 188 thousand tons of watermelons, 179 thousand tons of cowpeas, 169 thousand tons of spinach, 131 thousand tons of papayas, 92 thousand tons of coconuts, and 41 thousand tons of coffee.",
+        "• Kenya's tea production in 2018 was 492 thousand tons, making it the third largest producer in the world, behind China and India.",
+        "• Agriculture is the second largest contributor to Kenya's GDP, following the service sector.",
+        "• Only 15% of Kenya's total land area has sufficient fertility and rainfall for farming, with only 7-8% classified as first-class land.",
+        "• In 2006, nearly 75% of working Kenyans earned their living from the land, compared to 80% in 1980.",
+        "• Approximately half of Kenya's total agricultural output is non-marketed subsistence production.",
+        "• In 2005, agriculture—including forestry and fishing—contributed about 24% to Kenya's GDP, accounted for 18% of wage employment, and generated 50% of export revenue.",
+        "• In 2005, horticulture contributed 23% and tea contributed 22% of Kenya's total export earnings.",
+        "• The principal cash crops in Kenya are tea, horticultural produce, and coffee.",
+        "• Coffee's importance declined due to depressed global prices, representing only 5% of export receipts in 2005.",
+        "• Major food staples like corn are subject to sharp weather-related fluctuations, leading to periodic food shortages and aid requirements.",
+        "• In 2004, aid was necessary for 1.8 million Kenyans due to intermittent droughts.",
+        "• Expansion of credit to the agricultural sector has improved farmers' ability to manage environmental and price risks.",
+        "• The fertile highlands of Kenya are among Africa's most successful agricultural regions, producing tea, coffee, sisal, pyrethrum, corn, and wheat.",
+        "• Livestock farming predominates in the semi-arid savanna regions to the north and east of Kenya.",
+        "• Lower-lying areas cultivate coconuts, pineapples, cashew nuts, cotton, sugarcane, sisal, and corn."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:42.443134",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "4.5",
+      "section_name": "Forestry and fishing",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Resource degradation has led to a reduction in forestry output in Kenya.",
+        "• In 2004, the total roundwood removals in Kenya amounted to 22,162,000 cubic meters.",
+        "• Fisheries in Kenya are of significant local importance, particularly around Lake Victoria.",
+        "• Fisheries also hold potential at Lake Turkana, indicating future development prospects.",
+        "• Kenya's total fish catch in 2004 was 128,000 metric tons.",
+        "• The fishing industry's output has been declining due to ecological disruption.",
+        "• Contributing factors to the decline include pollution, overfishing, and the use of unauthorized fishing equipment.",
+        "• These issues have resulted in falling fish catches and have endangered local fish species."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:45.104805",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "4.6",
+      "section_name": "Mining and minerals",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya has no significant mineral endowment, with the mining and quarrying sector contributing less than 1% to the country's GDP.",
+        "• The primary contributor to mineral output in Kenya is the soda ash operation at Lake Magadi, located in Kajiado County in south-central Kenya.",
+        "• In 2005, Kenya's mineral production exceeded 1 million tons, largely due to increased soda ash output.",
+        "• One of Kenya's largest recent foreign-investment projects is the planned expansion of Magadi Soda, indicating significant foreign interest in the soda ash industry.",
+        "• Besides soda ash, the main minerals produced in Kenya include limestone, gold, salt, large quantities of niobium, fluorspar, and fossil fuels.",
+        "• All unextracted minerals in Kenya are considered government property, as stipulated by the Mining Act.",
+        "• The exploration and exploitation of minerals are overseen by the Department of Mines and Geology, which operates under the Ministry of Environment and Natural Resources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:47.665128",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "4.7",
+      "section_name": "Industry and manufacturing",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya is the most industrially developed country in East Africa, yet manufacturing accounts for only 14% of its Gross Domestic Product (GDP).",
+        "• The 14% figure represents only a slight increase in manufacturing's contribution since Kenya's independence in 1963.",
+        "• The sector experienced rapid expansion immediately after independence but stagnated during the 1980s.",
+        "• Factors hampering growth in the 1980s included shortages of hydroelectric power, high energy costs, dilapidated transport infrastructure, and the dumping of cheap imports.",
+        "• Urbanization has increased the importance of industry and manufacturing sectors to the Kenyan economy, reflected by a rising GDP per capita.",
+        "• Industrial activity is primarily concentrated around Kenya’s three largest urban centers: Nairobi, Mombasa, and Kisumu.",
+        "• The manufacturing sector is dominated by food-processing industries, including grain milling, beer production, sugarcane crushing, and the fabrication of consumer goods.",
+        "• Kenya operates an oil refinery that processes imported crude petroleum into petroleum products mainly for the domestic market.",
+        "• There is a substantial and expanding informal sector engaged in small-scale manufacturing of household goods, motor-vehicle parts, and farm implements.",
+        "• Kenya became a beneficiary of the US Government’s African Growth and Opportunity Act (AGOA), which provided a significant boost to manufacturing.",
+        "• Since AGOA took effect in 2000, Kenya’s clothing exports to the United States increased from US$44 million to US$270 million in 2006.",
+        "• Additional initiatives to strengthen manufacturing include favorable tax measures, notably the exemption of duties on capital equipment and raw materials."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:51.875871",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "4.8",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The primary source of Kenya's electricity supply is hydroelectric power generated at dams along the upper Tana River and the Turkwel Gorge Dam located in the west of the country.",
+        "• Additional sources include a petroleum-fired plant situated on the coast, geothermal facilities at Olkaria, and electricity imports from Uganda.",
+        "• Kenya's installed electricity capacity was approximately 1,142 megawatts annually between 2001 and 2003.",
+        "• The Kenya Electricity Generating Company, a state-owned enterprise established in 1997 under the original name Kenya Power Company, is responsible for electricity generation.",
+        "• The Kenya Power and Lighting Company manages the transmission and distribution of electricity throughout the country.",
+        "• Periodic electricity shortfalls occur, notably during droughts that reduce water flow to hydroelectric stations; for example, in 1997 and 2000, severe droughts led to 12-hour blackouts, causing significant economic disruption.",
+        "• Frequent outages and high electricity costs continue to pose serious challenges to economic activity in Kenya.",
+        "• The government plans to implement tax and other concessions to promote investment in hydroelectric and geothermal energy, with Kenya recognized as a pioneer in adopting geothermal energy.",
+        "• Kenya currently imports all crude petroleum requirements, which constitute approximately 20% to 25% of the country's total import bill.",
+        "• Hydrocarbon reserves have been discovered in Kenya's semi-arid northern region of Turkana after decades of intermittent exploration; offshore prospecting activities are ongoing.",
+        "• The Kenya Petroleum Refineries, a joint venture equally owned by the government and several oil majors, operates the country's only oil refinery located in Mombasa.",
+        "• The Mombasa refinery's production is transported via the Mombasa–Nairobi pipeline; however, the refinery is currently non-operational (specific date of closure not provided).",
+        "• In 2004, Kenya's oil consumption was estimated at approximately 55,000 barrels per day (8,700 cubic meters).",
+        "• Total energy consumption in Kenya has increased over the decades, with the following figures in Terrawatt-hours (TWh):",
+        "• 1980: 29 TWh",
+        "• 1990: 36 TWh",
+        "• 2000: 46 TWh",
+        "• 2010: 67 TWh",
+        "• 2020: 99 TWh",
+        "• 2021: 104 TWh",
+        "• Per capita energy consumption in Kilowatt-hours (KWh) has also risen:",
+        "• 1980: 1,815 KWh",
+        "• 1990: 1,551 KWh",
+        "• 2000: 1,479 KWh",
+        "• 2010: 1,623 KWh",
+        "• 2020: 1,902 KWh",
+        "• 2021: 1,953 KWh"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:56.983980",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "4.9",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya's dependence on tourism has significantly decreased over the years, with tourism, encompassing both domestic and international visitors, contributing approximately 6% to Kenya’s economy in 2023.",
+        "• In 2019, foreign tourist revenues in Kenya totaled $1.76 billion, representing only 1.6% of the country's Gross Domestic Product (GDP) and approximately 12% of all international tourism receipts in the Eastern Africa region.",
+        "• The growth of Kenya’s middle class has led to a substantial increase in domestic tourism, which has continued steadily despite political turmoil such as elections and security threats like terror attacks.",
+        "• In 2014, data from the Kenya National Bureau of Statistics revealed that the number of Kenyans staying in hotel rooms surpassed that of foreign tourists for the first time, indicating the rising importance of domestic tourism.",
+        "• This shift underscores the need for the Kenyan government to prioritize promoting domestic tourism to achieve more sustainable growth within the tourism sector.",
+        "• In 2018, domestic tourists accounted for 52.9% of the total bed occupancy in Kenyan hotels, highlighting the dominance of local visitors in the hospitality industry.",
+        "• Kenya boasts numerous large national parks situated across diverse landscapes, including coastal regions, deserts, steppes, and mountainous areas.",
+        "• The national parks and nature reserves in Kenya serve as habitats for a wide variety of animal species, emphasizing the country’s rich biodiversity and natural heritage."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:58:59.747800",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "4.10",
+      "section_name": "Financial services",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya is recognized as East Africa's central hub for financial services, playing a pivotal role in the region's economic infrastructure.",
+        "• The Nairobi Stock Exchange (NSE) holds the position of 4th in Africa regarding market capitalization, indicating its significant size and influence within the continent's financial markets.",
+        "• The banking sector in Kenya is regulated by The Central Bank of Kenya, ensuring oversight and stability within the financial system.",
+        "• Kenya's banking industry is predominantly composed of local commercial banks, with key institutions including Equity Bank, Kenya Commercial Bank, NCBA Bank, Diamond Trust Bank, Cooperative Bank, and National Bank.",
+        "• As of 2023, Kenya Commercial Bank is the largest bank in the country by asset size and has the most extensive branch network, highlighting its dominance in the Kenyan banking sector.",
+        "• Kenya hosts several high-profile accounting firms, notably the Big Four firms, which include Mazars, Grant Thornton International, and PKF International, all actively operating within the country's financial system.",
+        "• These accounting firms are frequently responsible for auditing companies listed on the Nairobi Stock Exchange, underscoring their importance in maintaining financial transparency and compliance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:02.820622",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "4.11",
+      "section_name": "Shipbuilding",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya's first commercially constructed ship from scratch, and the first in East Africa, was launched in October 2023.",
+        "• The vessel is named MV Uhuru II.",
+        "• The ship has a weight capacity of 1800 tons.",
+        "• The primary purpose of MV Uhuru II is to ferry goods and petroleum across Lake Victoria."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:04.254691",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "5",
+      "section_name": "Labour",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, Kenya's labour force was estimated to comprise approximately 24 million workers.",
+        "• In recent years, there has been a significant migration of Kenya's labour force from rural areas to urban centers, notably Nairobi, reflecting increasing urbanization.",
+        "• The labour force participation rate in Kenya remained stable from 1997 to 2010 for both women and men.",
+        "• In 1997, 65% of women and 76% of men were employed in some form of labour activity.",
+        "• By 2005, the labour force participation rate was 60% for women and 70% for men, showing a slight decline for women and a slight increase for men compared to 1997.",
+        "• In 2010, the participation rates were 61% for women and 72% for men, indicating minimal change from 2005.",
+        "• Over the past two decades, there has been a notable shift in employment patterns, with many Kenyans moving away from family farming towards wage employment, small business entrepreneurship, and informal sector work.",
+        "• In 1989, 4.5 million Kenyans out of a total working population of 7.3 million were engaged in family farming.",
+        "• By 2009, the number of Kenyans working on family farms decreased to 6.5 million out of a total working population of 14.3 million.",
+        "• Of those working on family farms in 2009, 3.8 million were women and 2.7 million were men.",
+        "• According to the World Bank 2012 Kenya Economic Update, modern wage jobs encompass roles such as engineers, telecommunication specialists, cut flower workers, teachers, construction workers, housekeepers, professionals, industrial and manufacturing workers, and port and dock workers.",
+        "• In 1989, approximately 1.9 million Kenyans were employed in wage work.",
+        "• By 2009, wage employment had increased to 5.1 million Kenyans, with 3.4 million men and 1.3 million women employed in wage jobs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:10.702723",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Informal economy (\"Jua Kali\")",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The \"Jua Kali\" sector in Kenya is synonymous with the informal economy and is characterized as non-farming self-employment.",
+        "• \"Jua Kali\" translates from Swahili to \"hot sun,\" symbolizing that workers operate under the intense sun while working.",
+        "• The informal sector comprises legally unrecognized and unregulated self-employment and wage employment activities.",
+        "• Employment within the informal sector does not contribute directly to Kenya's Gross Domestic Product (GDP).",
+        "• Non-farm self-employment in Kenya increased from 0.9 million workers in 1989 to 2.7 million workers in 2009.",
+        "• As of 2009, the non-farm self-employment workforce included approximately 1.4 million men and 1.3 million women.",
+        "• The World Bank characterizes non-farm self-employment jobs to include roles such as street vendors, shop owners, dressmakers, assistants, fishmongers, and caterers.",
+        "• By 2009, the informal economy accounted for about 80% of total employment in Kenya.",
+        "• Most informal workers are self-employed, with few entrepreneurs employing others within the sector.",
+        "• The informal sector contributes approximately 35% of Kenya's total GDP through economic activities.",
+        "• The informal economy has its own informal financial structures, notably rotating savings and credit associations (ROSCAs).",
+        "• This sector primarily provides income for individuals in lower socioeconomic groups.",
+        "• Drawbacks of the informal economy include the facilitation of smuggling and tax evasion.",
+        "• Members of the informal sector often lack social and legal protections.",
+        "• Most workers in the informal sector have low levels of educational attainment.",
+        "• Rising costs of education and employment uncertainty have driven many workers to join the informal economy.",
+        "• Entry into the informal sector is often facilitated by lower entry fees, shorter training periods, and practical apprenticeships."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:14.084502",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Human capital",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kenya is recognized as having one of the best human capital profiles in Africa.",
+        "• According to the World Bank's 2019 Human Capital Index (HCI), Kenya ranked first in sub-Saharan Africa in terms of human capital development.",
+        "• The 2019 HCI score for Kenya was 0.52, indicating its relative standing in human capital metrics.",
+        "• The Human Capital Index measures the potential productivity of the next generation of workers based on key indicators.",
+        "• The index combines several critical indicators, including school enrollment rates, child survival rates, quality of learning, healthy growth, and adult survival.",
+        "• The HCI score ranges from 0 to 1, with higher scores indicating better human capital outcomes.",
+        "• Kenya's score of 0.52 suggests moderate levels of human capital development relative to other countries in the region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:17.156844",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "6",
+      "section_name": "Challenges",
+      "chapter_name": "Economy of Kenya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Kenyan economy is heavily dependent on rainfall for its agricultural sector, making it vulnerable to periods of high inflation during droughts.",
+        "• Approximately 33% of Kenya's total labor force is employed in agriculture.",
+        "• Kenya's economic performance has historically been hindered by multiple factors, including:",
+        "• Some of these economic challenges have been mitigated through policy interventions, resulting in:",
+        "• Poor governance and corruption have negatively impacted Kenya’s economic growth by increasing the cost of doing business and discouraging investment.",
+        "• Despite these ongoing challenges, approximately two-thirds of Kenyans are optimistic, expecting living conditions to improve over the coming decades."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:59:20.842438",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_kenya.json",
+      "original_index": 28
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Provincial Administration",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          182.25,
+          306.10613943808534
+        ],
+        [
+          305.4375,
+          306.10613943808534
+        ],
+        [
+          305.4375,
+          315.965576171875
+        ],
+        [
+          182.25,
+          315.965576171875
+        ]
+      ]
+    },
+    {
+      "title": "Government of India Act, 1935",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          217.5,
+          533.4349635796046
+        ],
+        [
+          378.0,
+          533.4349635796046
+        ],
+        [
+          378.0,
+          543.91845703125
+        ],
+        [
+          217.5,
+          543.91845703125
+        ]
+      ]
+    },
+    {
+      "title": "Home Government",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          164.25,
+          328.6139438085328
+        ],
+        [
+          254.25,
+          328.6139438085328
+        ],
+        [
+          254.25,
+          338.848876953125
+        ],
+        [
+          164.25,
+          338.848876953125
+        ]
+      ]
+    },
+    {
+      "title": "Federal Government",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          164.25,
+          405.14047866805413
+        ],
+        [
+          261.75,
+          405.14047866805413
+        ],
+        [
+          261.75,
+          415.419921875
+        ],
+        [
+          164.25,
+          415.419921875
+        ]
+      ]
+    },
+    {
+      "title": "NEED FOR REVIEWING THE CONSTITUTION[8]",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          72.0,
+          274.24755859375
+        ],
+        [
+          340.3125,
+          274.24755859375
+        ],
+        [
+          340.3125,
+          287.62548828125
+        ],
+        [
+          72.0,
+          287.62548828125
+        ]
+      ]
+    },
+    {
+      "title": "Arguments against Review",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          53.25,
+          392.53662109375
+        ],
+        [
+          224.4375,
+          392.53662109375
+        ],
+        [
+          224.4375,
+          405.91455078125
+        ],
+        [
+          53.25,
+          405.91455078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

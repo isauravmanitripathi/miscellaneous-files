@@ -1,0 +1,339 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_luxembourg.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.290263",
+    "total_sections_in_source": 14,
+    "extracted_sections_count": 14,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Luxembourg's labour productivity level is among the highest in Europe, as reported by the OECD in 2012.",
+        "• The economy of Luxembourg is predominantly reliant on the banking, steel, and industrial sectors.",
+        "• According to an International Monetary Fund (IMF) estimate in 2022, Luxembourg's citizens have the highest per capita gross domestic product (GDP) in the world.",
+        "• Luxembourg possesses a highly efficient and robust social security system compared to other OECD nations, with social welfare expenditure accounting for approximately 21.9% of its GDP.",
+        "• Before the mid-19th century, Luxembourg was primarily a rural country with limited commercial interaction with neighboring economies.",
+        "• In the late 19th century, the steel industry was the dominant economic sector in Luxembourg.",
+        "• Over time, the financial sector became the main economic driver of Luxembourg’s economy.",
+        "• Luxembourg’s financial sector gained a reputation for secrecy, making it an attractive location for individuals and businesses to hold assets for purposes of tax avoidance and tax evasion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:16:57.015016",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1715 to 1791, Luxembourg was under Austro-Hungarian rule and was predominantly rural and largely isolated during this period.",
+        "• Luxembourg had no road connections to Brussels, which significantly limited its ability to trade with neighboring regions.",
+        "• Towards the end of the 18th century, the construction of long-distance paved roads began, integrating Luxembourg with neighboring markets and improving trade opportunities.",
+        "• The first land survey in Luxembourg was conducted following a decree by Maria Theresa in 1766, as part of broader reforms aimed at abolishing certain feudal privileges and promoting greater egalitarianism.",
+        "• Full abolition of feudalism in Luxembourg occurred in 1795 when Luxembourg became part of the French revolutionary regime.",
+        "• Luxembourg remained part of Napoleonic France until 1815, after which the Congress of Vienna divided the territory: the eastern part was given to Prussia, while the remainder formed the Grand Duchy of Luxembourg under Dutch rule.",
+        "• Under Dutch administration, new taxes and customs tariffs were introduced, which negatively impacted commerce and contributed to Luxembourg remaining predominantly rural.",
+        "• The 1839 Treaty of London further divided Luxembourg, with part becoming a province of the newly independent Belgium, and the remainder continuing as the independent Grand Duchy of Luxembourg.",
+        "• During the first half of the 19th century, Luxembourg remained largely rural, although a textile industry began to emerge.",
+        "• In the second half of the 19th century, Luxembourg developed a steel industry, which eventually became the dominant sector of its economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:04.592488",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, Luxembourg's Gross Domestic Product (GDP) was valued at $60.54 billion.",
+        "• The services sector, which includes the financial sector, accounted for 86% of the GDP in 2013.",
+        "• The financial sector alone constituted 36% of Luxembourg's GDP in 2013.",
+        "• The industrial sector represented 13.3% of the GDP in the same year.",
+        "• Agriculture contributed a minimal 0.3% to Luxembourg's GDP in 2013."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:09.204511",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.0.1",
+      "section_name": "Banking",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Luxembourg has been a member of the eurozone since 1999, integrating its economy with the euro currency system.",
+        "• Banking constitutes the largest sector within Luxembourg's economy, highlighting its critical role in national economic activities.",
+        "• In the 2019 Global Financial Centres Index, Luxembourg was ranked as the 25th most competitive financial center globally and the third most competitive in Europe, following London and Zürich.",
+        "• The country has developed a specialization in cross-border fund administration, leveraging its strategic position in international finance.",
+        "• Due to Luxembourg's relatively small domestic market, its financial center primarily serves an international clientele and market.",
+        "• As of the end of March 2009, Luxembourg hosted 152 banks employing over 27,000 individuals, indicating a significant banking workforce.",
+        "• Several factors have contributed to the growth of Luxembourg's financial sector, including political stability, effective communications infrastructure, easy access to other European financial centers, a skilled multilingual workforce, a tradition of banking secrecy, and expertise in cross-border financial services.",
+        "• These positive attributes have resulted in Luxembourg achieving a Corruption Perceptions Index score of 8.3 and a DAW Index ranking of 10 in 2012, the latter being the highest ranking in Europe.",
+        "• Germany represents the largest single national grouping of banks operating in Luxembourg, with substantial representation also from Scandinavian, Japanese, and major US banks.",
+        "• By the end of 2008, total banking assets in Luxembourg exceeded €929 billion, reflecting the sector's substantial financial scale.",
+        "• Luxembourg is home to more than 9,000 holding companies, underscoring its role as a hub for corporate structures and investment vehicles.",
+        "• The European Investment Bank, the financial institution of the European Union, is headquartered in Luxembourg, emphasizing the country's importance in EU financial operations.",
+        "• In 2023, Luxembourg enterprises anticipated negative investment trends due to slowing economic growth and tighter monetary policy conditions.",
+        "• The net balance of enterprises expecting an increase in investment minus those expecting a decrease was negative at -4% in 2023, which is significantly lower than the European Union average of 14%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:19.345931",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.0.2",
+      "section_name": "Holdings",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the enactment of the Holding Act of 1929, Luxembourg has established itself as an attractive location for tax avoidance strategies.",
+        "• A collaborative network comprising lawyers, bankers, and political elites in Luxembourg has developed and maintained an infrastructure of regulatory codes, legal expertise, and shell companies that facilitate tax avoidance.",
+        "• Due to concerns regarding Luxembourg's banking secrecy laws and its reputation as a tax haven, the G20 included Luxembourg on a \"grey list\" of nations with questionable banking arrangements in April 2009.",
+        "• Luxembourg was subsequently removed from the G20 \"grey list\" within the same year, 2009.",
+        "• In response to international scrutiny and to align with the tax authorities of European Union member states, Luxembourg has modified its tax legislation.",
+        "• A significant legislative change was the outlawing of the classic tax-exempt 1929 Holding Company as of 31 December 2010, following a European Commission ruling that deemed it illegal state aid.",
+        "• Approximately 90 percent of companies operating in Luxembourg are foreign-owned entities.",
+        "• Around 40 percent of companies registered in Luxembourg do not conduct any substantive economic activity within the country and primarily serve as asset-holding entities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:26.018184",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.0.2.1",
+      "section_name": "The early beginnings of the financial center",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The financial center of Luxembourg was not an accidental success emerging solely in the 1970s, contrary to common belief among many national historians.",
+        "• Calabrese and Majerus argue that the Holding Law of 1929 (H29) was a foundational legal framework that significantly contributed to Luxembourg’s future financial success.",
+        "• The Holding Law of 1929 served as a legal instrument enabling companies to avoid double taxation on financial assets, primarily by establishing dummy corporations that benefited from Luxembourg’s low tax rates.",
+        "• The Holding regime introduced by H29 proved successful rapidly; within three years, the capital estimations for holding companies exceeded expectations, surpassing 2 billion Luxembourg francs.",
+        "• One of the largest holding companies established under this regime was The Ford Investment Company, founded in early 1930.",
+        "• The Ford Investment Company utilized the Holding Law to avoid UK tax on dividends from its European subsidiaries and also engaged in activities such as lending money and investing, including purchasing factories for its European subsidiaries.",
+        "• The Holding Law was complemented by the creation of the Luxembourg Stock Exchange in 1928, which became a crucial institution in establishing Luxembourg’s national financial center.",
+        "• During the interwar period, holding companies became an important source of state revenue, and although the initial adoption of the Holding Law faced opposition, subsequent modifications encountered little resistance due to its fiscal contributions.",
+        "• H29 facilitated the development of a network comprising lawyers, banks, and notaries closely linked to Luxembourg’s political elite, which created and maintained a regulatory infrastructure, legal expertise, and shell companies attractive for European tax avoidance.",
+        "• The Holding Law significantly contributed to establishing a legal framework that supported the future development of investment funds, enhancing Luxembourg’s reputation among investors as a competent and reliable financial market player.",
+        "• Luxembourg’s financial center gained international recognition when, in 1963, it was selected to list the first and a substantial portion of Eurobonds on the Luxembourg Stock Exchange, demonstrating its ability to compete with established financial centers like London.",
+        "• The Holding Law of 1929 had a profound and enduring impact on the construction of Luxembourg’s domestic financial center and is a critical element in understanding the country’s economic history."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:30.611976",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Steel",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1876, the introduction of English metallurgy marked a pivotal event in Luxembourg's economic history, initiating the development of its steel industry.",
+        "• The advancement in refining processes during this period directly contributed to the establishment of the Arbed company in 1911, a major player in Luxembourg's steel sector.",
+        "• Beginning in 1974, the steel industry underwent significant restructuring, accompanied by an increase in government ownership of Arbed, which reached 31%.",
+        "• In 2001, Arbed merged with Spanish company Aceralia and French company Usinor to create Arcelor, a major steel manufacturing entity.",
+        "• Subsequently, in 2007, Arcelor merged with Mittal Steel Company, resulting in the formation of ArcelorMittal, which became a global leader in the steel industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:35.019078",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The government of Luxembourg actively promotes the development of the country as a center for audiovisual and communications industries.",
+        "• Radio-Television-Luxembourg is recognized as Europe's premier private broadcaster for both radio and television services.",
+        "• The Luxembourg satellite company SES, originally named Société Européenne des Satellites, was established in 1986 with government support to install and operate a satellite telecommunications system for the transmission of television programs across Europe.",
+        "• The first SES Astra satellite, known as the 16-channel RCA 4000 Astra 1A, was launched in December 1988 by the Ariane Rocket.",
+        "• SES currently holds the position as the world’s largest satellite services company in terms of revenue, although the specific date of this status is not provided.",
+        "• Approximately 67% of enterprises in Luxembourg utilize innovative digital technologies in their operations.",
+        "• Among Luxembourg firms adopting digital technologies, 74% use robots, 43% employ Internet of Things (IoT) technologies, and 42% utilize digital platforms, indicating a preference for these technologies over other digital innovations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:39.726845",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism constituted approximately 8.3% of Luxembourg's Gross Domestic Product (GDP) in the year 2009, highlighting its significant role in the national economy.",
+        "• The tourism sector employed around 25,000 individuals in 2009, accounting for 11.7% of Luxembourg's total working population.",
+        "• Despite facing an economic crisis during the period referenced, Luxembourg continued to attract over 900,000 visitors annually.",
+        "• Visitors to Luxembourg typically stayed an average of 2.5 nights in accommodations such as hotels, hostels, or camping sites.",
+        "• Business travel was a prominent segment of tourism, representing 44% of all overnight stays across the country.",
+        "• In Luxembourg City, the capital, business travel accounted for an even higher proportion of overnight stays, at 60%.",
+        "• Between 2009 and 2010, overnight stays related to business travel increased by 11% nationwide.",
+        "• Specifically in the capital, Luxembourg City, business travel overnight stays grew by 25% between 2009 and 2010."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:48.942561",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Luxembourg's agricultural sector is small in scale but highly productive, benefiting from substantial subsidies primarily provided by the European Union and the national government.",
+        "• The agricultural sector employs approximately 1 to 3 percent of Luxembourg's total workforce, indicating a relatively minor role in overall employment.",
+        "• The majority of farmers in Luxembourg specialize in dairy and meat production, reflecting the primary focus areas within the agricultural industry.",
+        "• The Moselle Valley region in Luxembourg is notable for its vineyards, which produce around 15 million litres of dry white wine annually.",
+        "• Most of the dry white wine produced in the Moselle Valley is consumed domestically within Luxembourg, with additional smaller quantities exported and consumed in neighboring countries including Germany, France, and Belgium."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:17:53.347792",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3",
+      "section_name": "Data",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the sector with the highest number of companies registered in Luxembourg was Finance, Insurance, and Real Estate, comprising 89,748 companies.",
+        "• The second largest sector by number of registered companies in Luxembourg in 2022 was Services, with 31,658 companies.",
+        "• Retail Trade was the third largest sector in terms of registered companies in Luxembourg in 2022, with 6,571 companies.",
+        "• From 1980 to 2017, Luxembourg's GDP in billion US dollars (PPP) increased from 5.7 in 1980 to 62.8 in 2017, showing substantial economic growth over the period.",
+        "• GDP per capita in Luxembourg rose from $15,611 (PPP) in 1980 to $106,373 (PPP) in 2017, indicating significant improvement in average economic output per person.",
+        "• The nominal GDP in billion US dollars grew from $6.4 billion in 1980 to $65.7 billion in 2017.",
+        "• Real GDP growth rates fluctuated annually, with notable peaks such as 10.0% in 1986 and 8.4% in 2007, and declines including −4.4% in 2009 during the global financial crisis.",
+        "• Inflation rates varied over the years, with several years recording inflation under 2%, highlighted in green in the original data; for example, 0.8% in 1981, 1.0% in 1982, and 1.4% in 1998.",
+        "• Unemployment rates in Luxembourg ranged from a low of 0.0% in 2009 and 2016 to a high of 14.8% in 1985, reflecting varying labor market conditions over the decades.",
+        "• Government debt as a percentage of GDP was not available for years before 1995 but ranged from 8.9% in 1995 to a peak of 23.7% in 2013, then slightly declined to 23.0% in 2017.",
+        "• Specific annual data highlights include:",
+        "• 1980: GDP $5.7 billion (PPP), GDP per capita $15,611, nominal GDP $6.4 billion, 3.2% GDP growth, 6.3% inflation, 0.7% unemployment.",
+        "• 1995: GDP $19.3 billion (PPP), GDP per capita $47,516, nominal GDP $20.6 billion, 1.4% GDP growth, 1.9% inflation, 3.0% unemployment, 8.9% government debt.",
+        "• 2007: GDP $44.2 billion (PPP), GDP per capita $92,837, nominal GDP $51.6 billion, 8.4% GDP growth, 2.7% inflation, 4.0% unemployment, 7.7% government debt.",
+        "• 2009: GDP $42.9 billion (PPP), GDP per capita $86,894, nominal GDP $54.4 billion, −4.4% GDP growth, 0.0% inflation, 5.6% unemployment, 15.7% government debt.",
+        "• 2017: GDP $62.8 billion (PPP), GDP per capita $106,373, nominal GDP $65.7 billion, 3.5% GDP growth, 2.1% inflation, 5.8% unemployment, 23.0% government debt.",
+        "• The data reflects Luxembourg's transition to a high-income economy with strong growth in GDP and GDP per capita, low inflation rates mostly under 2%, and generally low unemployment rates over the nearly four decades covered.",
+        "• Government debt as a percentage of GDP increased notably after 2008, coinciding with the global financial crisis, before stabilizing around 22-23% in the mid-2010s."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:18:13.009554",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1978, Luxembourg initiated plans to construct a nuclear reactor with a capacity of 1,200 megawatts (MW).",
+        "• The proposed nuclear reactor project was ultimately abandoned due to anticipated significant public protests against its development.",
+        "• Currently, Luxembourg relies predominantly on imported oil and natural gas to meet the majority of its energy generation needs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:18:15.446913",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "5",
+      "section_name": "Spaceflight and space resource extraction",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Luxembourg is a member of the European Space Agency (ESA) and contributed 23 million Euros to the agency in 2015.",
+        "• The world's largest satellite operator, SES, originated in Luxembourg and maintains its headquarters in Betzdorf, Luxembourg.",
+        "• In February 2016, the Government of Luxembourg announced plans to initiate an industrial sector focused on mining asteroid resources in space by establishing a legal framework and regulatory incentives to support companies involved in space resource extraction.",
+        "• By June 2016, Luxembourg declared it would invest more than US$200 million in research, technology demonstration, and the direct purchase of equity in companies relocating to Luxembourg to support the space mining industry.",
+        "• By April 2017, three space mining corporations had established their headquarters in Luxembourg, reflecting the country’s growing role in the space resource extraction sector.",
+        "• Luxembourg enacted a new law in August 2017 that guarantees private operators the rights to resources they extract in space, allowing ownership of space resources by any entity regardless of nationality, not limited to Luxembourg citizens or companies."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:18:21.678392",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "6",
+      "section_name": "Transportation",
+      "chapter_name": "Economy of Luxembourg",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Luxembourg possesses efficient transportation infrastructure encompassing road, rail, and air transport facilities and services.",
+        "• The road network in Luxembourg has undergone significant modernization in recent years, featuring 147 kilometers of motorways that connect the capital city to neighboring countries.",
+        "• The introduction of the high-speed TGV rail link to Paris has prompted the renovation of Luxembourg City's railway station to accommodate increased passenger traffic and improved services.",
+        "• A new passenger terminal at Luxembourg Airport has been recently inaugurated to support growing air travel demand.",
+        "• Luxembourg Airport has experienced sustained growth in passenger numbers over recent years, with 2.7 million passengers recorded in 2015 and an expected increase to 4 million passengers by 2020.",
+        "• The airport is currently undergoing a second stage of expansion to further enhance its capacity and facilities.",
+        "• Trams have been reintroduced to Luxembourg City, with the first core tram line becoming operational at the end of 2017.",
+        "• Additional tram lines are planned, including a tram/light-rail connection to Esch-sur-Alzette, Luxembourg’s second-largest city.",
+        "• In 2019, Luxembourg implemented a policy making almost all public transport free of charge for both residents and visitors, significantly enhancing accessibility and usage of public transit services."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:18:27.656018",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_luxembourg.json",
+      "original_index": 13
+    }
+  ]
+}

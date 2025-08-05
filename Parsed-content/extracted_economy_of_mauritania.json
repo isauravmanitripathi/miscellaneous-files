@@ -1,0 +1,152 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_mauritania.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.339500",
+    "total_sections_in_source": 6,
+    "extracted_sections_count": 6,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Mauritania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Mauritania in 2006 remained predominantly based on agriculture, mining, and livestock, despite significant demographic shifts caused by recurring droughts in the 1970s and 1980s that forced many nomads and subsistence farmers to relocate to urban areas.",
+        "• Mauritania possesses extensive iron ore deposits, which constituted nearly 50% of the country's total exports; however, a decline in global demand for iron ore led to reductions in production levels.",
+        "• Recent increases in metal prices have encouraged the development of gold and copper mining operations, with new mines opening in the interior regions of Mauritania.",
+        "• The coastal waters of Mauritania are recognized as some of the richest fishing grounds worldwide, yet overexploitation by foreign entities poses a significant threat to this vital source of national revenue.",
+        "• In 1986, Mauritania inaugurated its first deep-water port near the capital city, Nouakchott, enhancing its maritime infrastructure and export capabilities.",
+        "• The country faced economic challenges in the late 20th century, including drought and poor economic management, which contributed to a growing foreign debt burden.",
+        "• In March 1999, the Mauritanian government entered into an agreement with a joint mission from the World Bank and the International Monetary Fund (IMF) to implement a $54 million Enhanced Structural Adjustment Facility (ESAF).",
+        "• The ESAF agreement outlined specific economic objectives for the period 1999 to 2002, focusing on structural reforms and fiscal stabilization.",
+        "• Privatization was identified as a critical issue within the economic reform agenda during this period, reflecting the government's commitment to restructuring the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:31:00.098332",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_mauritania.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Macro-economic trends",
+      "chapter_name": "Economy of Mauritania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The gross domestic product (GDP) of Mauritania at market prices, estimated by the International Monetary Fund, is presented in millions of Mauritanian Ouguiyas for selected years: 37,211 million in 1980, 60,197 million in 1985, 97,819 million in 1990, 158,443 million in 1995, 258,245 million in 2000, and 514,642 million in 2005.",
+        "• The US Dollar exchange rate against the Mauritanian Ouguiya increased over the same period: 45.93 Ouguiyas per US Dollar in 1980, 77.07 in 1985, 80.64 in 1990, 129.76 in 1995, 240.00 in 2000, and 265.55 in 2005.",
+        "• The inflation index (base year 2000 = 100) rose significantly from 23 in 1980 to 36 in 1985, 52 in 1990, 73 in 1995, 100 in 2000, and 144 in 2005, indicating persistent inflationary trends.",
+        "• Mauritania’s GDP per capita experienced an 82% growth during the 1960s, peaked with a 166% increase in the 1970s, but this growth was unsustainable, declining to 14% growth in the 1980s and contracting by 29% in the 1990s.",
+        "• In 2009, the mean wage in Mauritania was recorded at $0.97 per man-hour, reflecting labor income levels during that period.",
+        "• Key economic indicators from 1990 to 2024 show GDP in billion US dollars (PPP) rising from 5.76 in 1990 to an estimated 37.29 in 2024, with GDP per capita (PPP) increasing from $2,886 in 1990 to $8,233 in 2024.",
+        "• Nominal GDP in billion US dollars grew from $1.79 in 1990 to an estimated $10.76 in 2024, illustrating substantial nominal economic expansion.",
+        "• Real GDP growth rates fluctuated over the years, with notable figures including 9.8% growth in 1995, a contraction of −3.9% in 2000, a peak of 18.3% in 2006, and moderate growth rates around 4-6% in the 2010s, with a slight contraction of −0.4% in 2020 due to global economic conditions, followed by recovery growth of 6.8% in 2022 and 6.5% in 2023.",
+        "• Inflation rates varied considerably, with 6.5% in 1995, a low of 0.5% in 2015, and a peak of 12.1% in 2005, followed by generally low inflation rates under 10% in the 2010s and early 2020s, including 2.7% projected for 2024.",
+        "• Government debt as a percentage of GDP showed significant variation, starting at 55.5% in 2000, rising to 71.1% in 2005, then declining to 38.0% in 2006, fluctuating around 40-60% in subsequent years, and projected to decrease to 44.2% by 2024.",
+        "• The data reflect Mauritania’s economic volatility over recent decades, with periods of rapid growth, contraction, inflationary pressures, and fluctuating government debt levels, highlighting challenges and progress in the country’s macroeconomic environment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:31:14.745020",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_mauritania.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Diversification",
+      "chapter_name": "Economy of Mauritania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, mining industries constituted well over 35 percent of the Mauritanian economy, indicating a significant reliance on mineral extraction sectors.",
+        "• The fish industry accounted for as much as 54 percent of the Mauritanian economy in 2007, reflecting its substantial economic importance relative to other sectors.",
+        "• There were notable shifts in the power relationship between the mining and fish industries, highlighting dynamic changes in their economic influence.",
+        "• Economic diversification into non-mining industries remains a persistent long-term challenge for Mauritania, underscoring the need to reduce dependency on extractive sectors.",
+        "• Mauritania is a net importer of food, with reports indicating that approximately 70 percent of its domestic food requirements are met through imports, emphasizing vulnerability in food self-sufficiency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:31:19.351957",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_mauritania.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Natural Gas and the Tortue/Ahmeyim Project",
+      "chapter_name": "Economy of Mauritania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2015, Kosmos Energy made significant natural gas discoveries on the maritime border between Senegal and Mauritania.",
+        "• In December 2016, Kosmos Energy entered into a partnership with British Petroleum (BP) to develop these natural gas resources.",
+        "• The partnership includes Kosmos Energy, British Petroleum, the governments of Mauritania and Senegal, and the national oil companies of both countries.",
+        "• The consortium is optimistic about the potential of the gas discoveries located in the Grand Tortue/Ahmeyim field.",
+        "• The Grand Tortue/Ahmeyim reserves are estimated to contain 15 trillion cubic feet of natural gas.",
+        "• According to BP, the 15 trillion cubic feet of gas is equivalent to all of Africa’s current gas production for nearly seven years.",
+        "• The production phase for the Grand Tortue/Ahmeyim project is scheduled to begin in 2022.",
+        "• Initial production will start at a rate of 2.3 million tons of natural gas annually."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:31:27.134416",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_mauritania.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Dispute with Woodside Petroleum",
+      "chapter_name": "Economy of Mauritania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In February 2006, the newly established Mauritanian government publicly denounced amendments to an oil contract that had been made by former leader Ould Taya with Woodside Petroleum, an Australian oil company.",
+        "• Woodside Petroleum had initially agreed in 2004 to invest US$600 million in the development of Mauritania's Chinguetti offshore oil project.",
+        "• The contested contract amendments were declared by Mauritanian authorities to have been signed \"outside the legal framework of normal practice, to the great detriment of our country,\" and were reported by BBC News to potentially cost Mauritania up to US$200 million annually.",
+        "• These amendments were signed by Woodside two weeks following the passage of legislation on February 1, 2005, which authorized four specific contract amendments.",
+        "• Key provisions of the amendments included a reduction in the state's share of profit oil, a 15 percent tax reduction in certain zones, relaxation of environmental regulations, and an extension of the length and scope of Woodside’s exploitation and exploration monopoly.",
+        "• The disputed amendments were signed by former Mauritanian Oil Minister Zeidane Ould Hmeida in two separate instances: February 2004 and March 2005.",
+        "• Zeidane Ould Hmeida was arrested in January 2006 on charges of committing \"serious crimes against the country's essential economic interests.\"",
+        "• Authorities in Nouakchott indicated that the Mauritanian government was likely to pursue international arbitration to resolve the dispute, a course of action that Woodside Petroleum also considered.",
+        "• Woodside Petroleum operated the Chinguetti project on behalf of a consortium including Hardman, BG Group, Premier Oil, ROC Oil, Fusion, Petronas, Dana Petroleum, Energy Africa, and the Hydrocarbons Mauritanian Society.",
+        "• The Chinguetti oil field was discovered in 2001 and has proven reserves estimated at approximately 120 million barrels (19 million cubic meters) of oil.",
+        "• By the end of December 2005, Mauritanian authorities projected that oil profits for 2006 would amount to 47 billion ouguiyas, equivalent to about US$180 million, representing roughly one-quarter of the national state budget, as reported by RFI.",
+        "• There are allegations that some U.S. oil companies have been involved in Mauritania's oil-related corruption issues."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:31:35.737257",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_mauritania.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Electricity",
+      "chapter_name": "Economy of Mauritania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mauritania possesses a total electricity generating capacity of 380 megawatts (MW).",
+        "• Of this total capacity, 263 MW are derived from fossil fuel sources.",
+        "• Renewable energy sources contribute 117 MW to the country's electricity generating capacity.",
+        "• The country's climatic conditions, characterized by abundant sunshine, create highly favorable conditions for solar power generation.",
+        "• In 2016, eight solar power plants with a combined capacity of 16.6 MW were installed in Mauritania.",
+        "• The installation of these solar plants was supported by Masdar, a renewable energy company."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:31:39.216728",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_mauritania.json",
+      "original_index": 5
+    }
+  ]
+}

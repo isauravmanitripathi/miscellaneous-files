@@ -1,0 +1,2120 @@
+{
+  "generation_info": {
+    "source_file": "extracted_economy_of_andorra.json",
+    "generation_timestamp": "2025-08-04T01:02:44.564935",
+    "openai_model": "gpt-4.1-mini",
+    "questions_per_bullet_point": 2,
+    "total_sections": 3,
+    "total_bullet_points": 41,
+    "total_questions_generated": 82,
+    "source_metadata": {
+      "source_file": "economy_of_andorra.json",
+      "extraction_timestamp": "2025-08-02T17:13:27.278729",
+      "total_sections_in_source": 4,
+      "extracted_sections_count": 4,
+      "skipped_sections_count": 0
+    },
+    "completion_status": {
+      "Economy of Andorra_1": {
+        "total_bullets": 11,
+        "completed_bullets": [
+          0,
+          0,
+          1,
+          1,
+          2,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "completion_percentage": 100.0
+      },
+      "Economy of Andorra_2": {
+        "total_bullets": 27,
+        "completed_bullets": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "completion_percentage": 100.0
+      },
+      "Economy of Andorra_2.1": {
+        "total_bullets": 3,
+        "completed_bullets": [
+          0,
+          1,
+          2
+        ],
+        "completion_percentage": 100.0
+      }
+    }
+  },
+  "sections": [
+    {
+      "chapter_name": "Economy of Andorra",
+      "section_name": "Generated Section",
+      "section_number": "1",
+      "source_file": "extracted_economy_of_andorra.json",
+      "original_index": 0,
+      "total_bullet_points": 11,
+      "bullet_points": [
+        {
+          "bullet_point_index": 0,
+          "bullet_point_text": "• The economy of Andorra is characterized as a developed, free market economy primarily driven by the sectors of finance, retail, and tourism.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the primary reason why tourism significantly influences the finance and retail sectors?",
+              "options": [
+                "Tourism causes a decline in local production, forcing finance and retail to compensate through imports.",
+                "Tourism increases demand for financial services and retail goods, creating a symbiotic growth among these sectors.",
+                "Tourism reduces the need for financial regulation, allowing retail businesses to operate freely.",
+                "Tourism leads to government subsidies in finance and retail, which artificially inflate these sectors."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Tourism generally boosts local economic activity rather than causing a decline in local production; finance and retail sectors grow due to increased consumption, not to compensate for production losses.",
+                "1": "Correct. Tourism brings a large influx of visitors who require banking, currency exchange, and shopping facilities, thus driving growth in finance and retail sectors. This interdependence creates a positive feedback loop enhancing the overall economy.",
+                "2": "Incorrect. Tourism often necessitates stricter financial regulations to manage foreign exchange and consumer protection; it does not reduce the need for regulation in retail.",
+                "3": "Incorrect. While governments may support sectors, there is no specific evidence that tourism in Andorra leads to subsidies that artificially inflate finance and retail; growth is demand-driven rather than subsidy-driven."
+              }
+            },
+            {
+              "question": "If Andorra aims to diversify its economy beyond finance, retail, and tourism, which of the following policy measures would be most effective in ensuring sustainable economic growth?",
+              "options": [
+                "Investing in technology-driven sectors and promoting innovation hubs to reduce over-reliance on tourism.",
+                "Limiting tourism growth to preserve natural resources without developing alternative sectors.",
+                "Increasing tariffs on imported goods to protect local retail businesses from foreign competition.",
+                "Reducing financial regulations to attract more foreign banks and expand the finance sector further."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Investing in technology and innovation can create new industries, reduce vulnerability to tourism fluctuations, and promote sustainable long-term growth.",
+                "1": "Incorrect. Limiting tourism without alternative economic development could harm overall growth and employment; diversification requires proactive development of new sectors.",
+                "2": "Incorrect. While protecting local retail might help in the short term, increasing tariffs can lead to trade inefficiencies and retaliation, potentially harming the economy and not addressing diversification.",
+                "3": "Incorrect. Reducing financial regulations might expand finance temporarily but increases systemic risks and does not diversify the economy beyond existing sectors."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:08.251273",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 142,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Andorra_1_0",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 0,
+          "bullet_point_text": "• Tourism is the primary sector of Andorra's economy, accounting for approximately 80% of the country's Gross Domestic Product (GDP).",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the potential risks associated with its heavy reliance on tourism, which accounts for approximately 80% of its GDP?",
+              "options": [
+                "Increased diversification of the economy leading to sustainable growth",
+                "Reduced exposure to external economic shocks due to tourism's stability",
+                "Enhanced resilience against environmental changes because tourism is service-based",
+                "Economic vulnerability to global crises affecting travel and tourism demand"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Heavy reliance on a single sector like tourism actually reduces economic diversification, increasing vulnerability rather than promoting sustainable growth.",
+                "1": "Incorrect: Tourism demand is often volatile and sensitive to external shocks, so it does not provide reduced exposure to economic shocks; rather, it increases exposure.",
+                "2": "Incorrect: Tourism, especially in mountainous regions like Andorra, is vulnerable to environmental changes such as climate change affecting snowfall and natural attractions, thus reducing resilience.",
+                "3": "Correct: Heavy dependence on tourism makes Andorra's economy highly susceptible to global events such as pandemics, economic recessions, or geopolitical tensions that reduce travel demand, thereby causing significant economic instability."
+              }
+            },
+            {
+              "question": "If Andorra were to implement policies aimed at reducing its economic dependence on tourism, which of the following strategies would most effectively address the associated risks while promoting balanced economic development?",
+              "options": [
+                "Focusing solely on luxury tourism to maximize revenue from fewer tourists",
+                "Investing in technology and financial services sectors to diversify income sources",
+                "Reducing environmental regulations to encourage rapid industrialization",
+                "Increasing tourism infrastructure to attract more visitors year-round"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect: Focusing only on luxury tourism narrows the market segment and does not reduce dependence on tourism; it may increase economic risk if that segment declines.",
+                "1": "Correct: Developing sectors like technology and financial services can diversify Andorra's economy, reducing vulnerability to tourism fluctuations and promoting sustainable, balanced growth.",
+                "2": "Incorrect: Relaxing environmental regulations for industrialization may harm Andorra's natural assets, which are crucial for tourism and long-term sustainability.",
+                "3": "Incorrect: Increasing tourism infrastructure intensifies dependence on tourism rather than reducing it, potentially exacerbating economic risks."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:09.537578",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 133,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Andorra_1_0",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 1,
+          "bullet_point_text": "• Annually, an estimated 9 million tourists visit Andorra, attracted by its duty-free status and its summer and winter resort facilities.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the primary reason why its duty-free status significantly boosts its tourism sector?",
+              "options": [
+                "It allows tourists to purchase goods at lower prices compared to neighboring countries, increasing consumer spending.",
+                "It mandates that all tourism-related services are exempt from taxation, attracting more service providers.",
+                "It requires tourists to pay a fixed tax upon entry, which funds the development of resort facilities.",
+                "It restricts imports, thereby encouraging tourists to buy only locally produced goods."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Duty-free status reduces or eliminates taxes on goods, making products cheaper for tourists compared to neighboring countries. This price advantage encourages higher spending and attracts more visitors, directly benefiting the tourism sector.",
+                "1": "Incorrect: Duty-free status primarily affects goods taxation rather than mandating exemption of all tourism services from taxes. Services may still be taxed, so this is not the main driver of tourism growth.",
+                "2": "Incorrect: Tourists are not required to pay a fixed tax upon entry due to duty-free status. Instead, the benefit lies in tax exemptions on purchases, not entry fees.",
+                "3": "Incorrect: Duty-free status does not restrict imports; rather, it reduces taxes on imported goods. Restricting imports would likely reduce product variety and deter tourists."
+              }
+            },
+            {
+              "question": "If Andorra were to reconsider its duty-free policy and impose standard import taxes, what would be the most likely immediate economic consequence on its tourism industry?",
+              "options": [
+                "A decline in tourist arrivals due to increased prices of goods, reducing overall tourism revenue.",
+                "No significant change in tourism patterns since resort facilities are the primary attraction, not shopping.",
+                "A shift in tourist demographics favoring high-spending visitors who are less sensitive to price changes.",
+                "An increase in tourist arrivals as the government could invest more in resort infrastructure from tax revenues."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Imposing standard import taxes would raise prices of goods, diminishing the duty-free advantage. This would likely deter price-sensitive tourists, leading to a decline in arrivals and tourism revenue.",
+                "1": "Incorrect: Although resort facilities attract tourists, the duty-free shopping is a significant complementary factor. Removing this benefit would negatively impact tourism patterns.",
+                "2": "Incorrect: While some high-spending tourists might remain, the overall volume of tourists would likely decline, and the shift in demographics would not compensate for the loss in numbers.",
+                "3": "Incorrect: While increased tax revenues could fund infrastructure, the immediate effect of higher prices would likely reduce tourist inflow, outweighing potential long-term benefits."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:09.051735",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 137,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Andorra_1_1",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 1,
+          "bullet_point_text": "• In 2024, Andorra's gross domestic product (GDP) was approximately US$6.00 billion.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy with a GDP of approximately US$6.00 billion in 2024, which of the following best explains the potential challenges the country might face in sustaining economic growth compared to larger economies?",
+              "options": [
+                "Excessive reliance on heavy manufacturing industries leading to environmental degradation",
+                "High vulnerability to global commodity price fluctuations due to large natural resource exports",
+                "Limited domestic market size restricting economies of scale and diversification",
+                "Overdependence on agricultural exports causing trade imbalances"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Andorra's economy is not heavily industrialized; it is more service-oriented, so environmental degradation from manufacturing is not a primary concern.",
+                "1": "Incorrect. Andorra is not known for large natural resource exports; hence, vulnerability to commodity price fluctuations is less relevant compared to resource-dependent economies.",
+                "2": "Correct. Andorra's small GDP reflects a limited domestic market, which constrains economies of scale and diversification opportunities, making sustained growth challenging compared to larger economies with bigger internal markets.",
+                "3": "Incorrect. Andorra does not have a significant agricultural export sector; its economy relies more on services like tourism and finance, so overdependence on agriculture is not a major issue."
+              }
+            },
+            {
+              "question": "Considering Andorra's GDP size of approximately US$6.00 billion in 2024, which of the following policy measures would be most effective for the government to enhance economic resilience and attract foreign investment?",
+              "options": [
+                "Prioritizing self-sufficiency in food production to reduce import dependence",
+                "Restricting foreign direct investment to protect local small businesses from external competition",
+                "Focusing exclusively on expanding heavy industries to increase export volume rapidly",
+                "Implementing tax incentives and strengthening financial services regulations to position as a competitive international finance center"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. While food self-sufficiency has merits, Andorra's geographic and climatic constraints make it impractical; focusing on sectors where it has comparative advantage is more beneficial.",
+                "1": "Incorrect. Restricting foreign direct investment can limit capital inflows and technology transfer, which are crucial for small economies to grow and integrate globally.",
+                "2": "Incorrect. Heavy industries are not aligned with Andorra's economic structure or resource base; focusing exclusively on them would be inefficient and unsustainable.",
+                "3": "Correct. Given Andorra's small economy and existing strengths in finance and tourism, tax incentives combined with robust financial regulations can attract foreign investment and enhance economic resilience effectively."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:10.848686",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 84,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_1_1",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 2,
+          "bullet_point_text": "• The country is an attractive destination for shoppers from France and Spain, functioning as a free port that facilitates duty-free shopping.",
+          "questions": [
+            {
+              "question": "In the context of Andorra functioning as a free port facilitating duty-free shopping, which of the following best explains the primary economic impact of this status on its relationship with neighboring countries France and Spain?",
+              "options": [
+                "It causes a decline in tourism in Andorra as shoppers prefer to buy goods in their home countries to avoid travel costs.",
+                "It leads to increased tariffs imposed by France and Spain on goods imported from Andorra to protect their domestic industries.",
+                "It results in Andorra becoming heavily dependent on agricultural exports to France and Spain due to tariff exemptions.",
+                "It encourages cross-border consumer spending, boosting Andorra’s retail sector while potentially causing revenue loss in neighboring countries’ local markets."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Duty-free shopping attracts tourists and shoppers to Andorra rather than deterring them, so tourism is likely to increase, not decline.",
+                "1": "Incorrect. France and Spain do not typically impose increased tariffs on goods from Andorra because it is a small, landlocked country with special trade arrangements; instead, the competition arises from duty-free advantages in Andorra.",
+                "2": "Incorrect. Andorra’s economy is not primarily based on agricultural exports, and duty-free status mainly affects retail and consumer goods rather than agricultural trade.",
+                "3": "Correct. Being a free port with duty-free shopping attracts shoppers from France and Spain, increasing consumer spending in Andorra’s retail sector. This can lead to a competitive disadvantage for retailers in neighboring countries, potentially causing revenue loss there."
+              }
+            },
+            {
+              "question": "If Andorra were to reconsider its duty-free status and impose taxes on imported goods, which of the following policy implications would most likely arise for its economy and regional trade dynamics?",
+              "options": [
+                "A reduction in cross-border shopping from France and Spain, leading to a decline in retail revenues and potential economic slowdown.",
+                "A significant rise in tourism as visitors take advantage of new luxury taxes to access premium goods.",
+                "An increase in foreign direct investment as multinational companies seek to capitalize on new tax revenues.",
+                "A strengthening of Andorra’s agricultural exports due to improved trade balances with neighbors."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Imposing taxes on imports would reduce the duty-free advantage, likely discouraging shoppers from neighboring countries and causing a decline in retail revenues, which could slow economic growth.",
+                "1": "Incorrect. Introducing taxes on goods would typically discourage shopping tourism rather than encourage it, as higher prices reduce the incentive for visitors to purchase luxury items.",
+                "2": "Incorrect. Increased taxes generally deter investment in retail sectors dependent on duty-free status; foreign direct investment is unlikely to increase simply due to new tax revenues without other incentives.",
+                "3": "Incorrect. Andorra’s economy is not heavily reliant on agricultural exports, and changes in duty-free status would not directly enhance agricultural trade balances."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:09.693821",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 142,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_1_2",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 2,
+          "bullet_point_text": "• The country's comparative economic advantage has diminished recently due to the opening of neighboring France and Spain's economies, which has increased the availability of goods and reduced tariffs.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the primary reason for the diminishing comparative advantage after the economic opening of France and Spain?",
+              "options": [
+                "The opening of France and Spain led to increased tariffs on Andorran exports.",
+                "Andorra's labor costs rose significantly, making its products less competitive.",
+                "Increased availability of goods in neighboring countries reduced Andorra's tariff-based trade benefits.",
+                "Andorra's domestic industries failed to innovate, leading to loss of competitiveness."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: The economic opening involved tariff reductions, not increases, in France and Spain, which reduced Andorra's protective trade environment.",
+                "1": "Incorrect: There is no evidence that labor costs in Andorra rose significantly; the main issue is external market liberalization, not cost factors.",
+                "2": "Correct: The opening of France and Spain's economies increased the availability of goods and reduced tariffs, which directly undermined Andorra's previous advantage based on limited competition and tariff barriers.",
+                "3": "Incorrect: While innovation affects competitiveness, the key factor here is external market changes, not internal innovation failures."
+              }
+            },
+            {
+              "question": "If Andorra aims to regain its economic competitiveness following the opening of France and Spain's markets, which of the following policy measures would be most effective?",
+              "options": [
+                "Increasing subsidies to traditional industries reliant on tariff protection.",
+                "Diversifying its economy towards niche sectors less affected by neighboring markets.",
+                "Implementing stricter import tariffs to protect domestic industries.",
+                "Restricting foreign direct investment to preserve local business dominance."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect: Subsidies to traditional industries may delay necessary economic adjustments and are less sustainable in a liberalized trade environment.",
+                "1": "Correct: Diversification into niche sectors can help Andorra leverage unique strengths and reduce dependence on markets dominated by France and Spain.",
+                "2": "Incorrect: Imposing stricter tariffs contradicts the trend of economic opening and may provoke trade disputes with neighbors.",
+                "3": "Incorrect: Restricting foreign investment can limit capital inflows and innovation, hindering economic growth and adaptation."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:11.996346",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 201,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_1_2",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 3,
+          "bullet_point_text": "• Andorra has developed extensive summer and winter tourist resorts, supporting its tourism industry.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the primary economic rationale behind developing both summer and winter tourist resorts?",
+              "options": [
+                "To promote agricultural development alongside tourism in different seasons",
+                "To compete directly with neighboring countries by offering identical tourist attractions",
+                "To focus solely on winter tourism while using summer resorts as secondary attractions",
+                "To ensure year-round tourism inflow and reduce seasonal economic fluctuations"
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Agricultural development is unrelated to the development of tourist resorts and does not explain the dual-season resort strategy.",
+                "1": "Incorrect. While competition exists, the primary rationale is not to mimic neighbors but to diversify tourism offerings to sustain economic stability.",
+                "2": "Incorrect. The strategy is not to prioritize winter tourism exclusively but to balance both seasons to maximize tourist inflow.",
+                "3": "Correct. Developing both summer and winter resorts allows Andorra to attract tourists throughout the year, mitigating the risks of seasonal dependency and stabilizing income streams, which is crucial for a small economy reliant on tourism."
+              }
+            },
+            {
+              "question": "If Andorra were to face a significant decline in winter snowfall due to climate change, which of the following policy measures would most effectively sustain its tourism-dependent economy?",
+              "options": [
+                "Investing in artificial snow-making technologies and enhancing summer tourism infrastructure",
+                "Encouraging tourists to visit only during the summer season to avoid losses",
+                "Reducing investment in summer resorts to focus resources on winter tourism recovery",
+                "Shifting the economy entirely from tourism to manufacturing industries"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Combining artificial snow-making with strengthening summer tourism infrastructure would help mitigate the impact of reduced natural snowfall and maintain year-round tourist inflow, preserving economic stability.",
+                "1": "Incorrect. Limiting tourism to summer alone would reduce overall tourist numbers and income, increasing economic vulnerability.",
+                "2": "Incorrect. Reducing summer resort investment contradicts the need to diversify tourism and adapt to changing climatic conditions.",
+                "3": "Incorrect. Abruptly shifting to manufacturing is impractical given Andorra's geographic and economic context; tourism remains the backbone of its economy."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:08.150424",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 101,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Andorra_1_3",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 4,
+          "bullet_point_text": "• The country hosts around 270 hotels and 400 restaurants, along with numerous shops, indicating a robust tourist infrastructure.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the relationship between the presence of around 270 hotels and 400 restaurants and the country's economic structure?",
+              "options": [
+                "Such infrastructure points to Andorra relying mainly on agricultural exports supported by hospitality services.",
+                "The large number of hotels and restaurants suggests Andorra has a diversified industrial base beyond tourism.",
+                "A high density of hospitality establishments indicates that tourism is a primary driver of Andorra's GDP and employment.",
+                "The presence of many hotels and restaurants implies that Andorra's economy is predominantly based on manufacturing and heavy industries."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Agricultural exports are not directly linked to the presence of hotels and restaurants; hospitality services primarily cater to tourists rather than supporting agriculture.",
+                "1": "Incorrect. While hospitality infrastructure supports tourism, it does not indicate a diversified industrial base; in fact, it suggests economic concentration rather than diversification.",
+                "2": "Correct. A robust hospitality infrastructure with numerous hotels and restaurants directly supports the tourism sector, which is a major contributor to Andorra's GDP and employment, reflecting the economy's reliance on tourism services.",
+                "3": "Incorrect. Manufacturing and heavy industries do not typically require extensive hospitality infrastructure; thus, the presence of many hotels and restaurants does not imply an economy based on these sectors."
+              }
+            },
+            {
+              "question": "Considering Andorra's extensive tourist infrastructure with around 270 hotels and 400 restaurants, which of the following policy measures would most effectively enhance sustainable economic growth in the country?",
+              "options": [
+                "Increasing tariffs on imported goods to protect local manufacturing industries.",
+                "Reducing investment in hospitality infrastructure to encourage industrial diversification.",
+                "Limiting the number of tourists to reduce pressure on existing hotels and restaurants.",
+                "Implementing strict environmental regulations to preserve natural landscapes that attract tourists."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Increasing tariffs might protect manufacturing but could raise costs for tourism-related businesses reliant on imports, potentially harming the tourism sector.",
+                "1": "Incorrect. Reducing investment in hospitality would undermine the existing economic strength in tourism rather than promoting sustainable growth.",
+                "2": "Incorrect. Limiting tourist numbers could reduce immediate environmental pressure but may also decrease revenue from tourism, negatively impacting economic growth without alternative income sources.",
+                "3": "Correct. Since tourism depends heavily on natural and cultural attractions, enforcing environmental regulations helps preserve these assets, ensuring long-term sustainability and continued economic benefits from tourism."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:13.134680",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 129,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Andorra_1_4",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 5,
+          "bullet_point_text": "• Tourism employs a growing segment of the domestic labor force, with an estimated 10 million tourists visiting annually.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the likely cause-effect relationship between the influx of approximately 10 million tourists annually and the employment patterns in the domestic labor force?",
+              "options": [
+                "An increase in tourists leads to a decline in traditional industries as labor shifts away from agriculture and manufacturing to tourism.",
+                "Tourism growth causes wage stagnation in the domestic labor market due to an oversupply of low-skilled workers.",
+                "The influx of tourists primarily benefits foreign investors, resulting in minimal impact on local employment.",
+                "The high volume of tourists directly increases demand for service-sector jobs, thereby expanding employment opportunities in tourism-related industries."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. While labor may shift towards tourism, the statement assumes a decline in traditional industries without evidence; moreover, Andorra's economy is service-oriented, so agriculture and manufacturing are less significant.",
+                "1": "Incorrect. Although tourism can lead to labor market changes, wage stagnation due to oversupply is not a direct or necessary consequence; in fact, skilled tourism jobs may command competitive wages.",
+                "2": "Incorrect. While foreign investment can play a role, the statement ignores the direct employment generated by tourism for the domestic workforce, which is significant in Andorra.",
+                "3": "Correct. A large number of tourists typically increases demand for services such as hospitality, retail, and transportation, which in turn creates more jobs in these sectors, directly affecting employment patterns."
+              }
+            },
+            {
+              "question": "Considering Andorra’s reliance on tourism employing a growing segment of its domestic labor force, which of the following policy measures would most effectively sustain economic growth while mitigating potential socio-economic risks?",
+              "options": [
+                "Increasing taxes on tourism-related businesses to fund social welfare schemes for displaced workers in other sectors.",
+                "Implementing vocational training programs focused on hospitality and language skills to enhance workforce quality and service standards.",
+                "Restricting tourist numbers to prevent over-dependence on tourism and encourage diversification into heavy industries.",
+                "Limiting foreign investment in tourism infrastructure to preserve local ownership and prevent capital flight."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Increasing taxes on tourism businesses might discourage investment and growth; moreover, displaced workers are less likely in a growing tourism sector.",
+                "1": "Correct. Enhancing workforce skills through targeted training improves service quality, supports sustainable tourism growth, and increases employment opportunities, addressing both economic and social dimensions.",
+                "2": "Incorrect. While diversification is important, restricting tourist numbers abruptly could harm the economy given tourism’s central role; heavy industries are less feasible in Andorra’s context.",
+                "3": "Incorrect. Limiting foreign investment might reduce capital inflows necessary for infrastructure development; balanced foreign participation can be beneficial if well-regulated."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:10.665144",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 121,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Andorra_1_5",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 6,
+          "bullet_point_text": "• There is an active trade in consumer goods, including imported manufactured items, which are less expensive due to duty-free status, making them more affordable than in neighboring countries.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the primary economic effect of its duty-free status on imported manufactured consumer goods compared to neighboring countries?",
+              "options": [
+                "It causes domestic producers to increase prices due to reduced competition from imports.",
+                "It results in higher government revenue through increased customs duties on imported goods.",
+                "It leads to lower retail prices, thereby increasing consumer purchasing power and attracting cross-border shoppers.",
+                "It discourages foreign direct investment by making local markets less profitable."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Lower prices due to duty-free imports typically increase competition, which pressures domestic producers to keep prices competitive rather than increase them.",
+                "1": "Incorrect: Duty-free status implies exemption from customs duties, so government revenue from customs duties on these goods decreases rather than increases.",
+                "2": "Correct: Duty-free status reduces the cost burden on imported goods, allowing retailers to sell them at lower prices. This increases affordability for consumers and attracts shoppers from neighboring countries seeking cheaper products, boosting trade activity.",
+                "3": "Incorrect: Duty-free status generally makes the market more attractive for investment by increasing trade volume and consumer demand, rather than discouraging foreign direct investment."
+              }
+            },
+            {
+              "question": "If the government of Andorra considers removing the duty-free status on imported manufactured consumer goods, which of the following is the most likely immediate economic consequence?",
+              "options": [
+                "An increase in cross-border shopping by Andorran residents in neighboring countries.",
+                "An increase in retail prices of consumer goods, reducing Andorra's competitiveness as a shopping destination.",
+                "A surge in domestic manufacturing due to protection from foreign competition.",
+                "A significant rise in government revenue without affecting consumer behavior."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect: The scenario concerns imported goods becoming more expensive in Andorra, so Andorran residents would be less incentivized to shop abroad; the main effect is on foreign shoppers visiting Andorra.",
+                "1": "Correct: Removing duty-free status would increase the cost of imported goods, leading to higher retail prices. This would reduce the price advantage Andorra currently enjoys, making it less attractive to shoppers from neighboring countries.",
+                "2": "Incorrect: While protectionist measures can sometimes encourage domestic manufacturing, Andorra's economy is small and heavily reliant on trade and tourism; immediate manufacturing growth is unlikely.",
+                "3": "Incorrect: Although government revenue from customs duties might increase, higher prices typically alter consumer behavior, reducing demand and potentially offsetting revenue gains."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:10.050662",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 193,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_1_6",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        },
+        {
+          "bullet_point_index": 7,
+          "bullet_point_text": "• Andorra's duty-free status has significantly influenced its relationship with the European Union (EU), sparking controversy and negotiations.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's duty-free status and its relationship with the European Union (EU), which of the following best explains the primary cause of the controversies and negotiations between Andorra and the EU?",
+              "options": [
+                "Andorra's duty-free status creates a competitive advantage that conflicts with the EU's customs regulations and tax policies.",
+                "Andorra's agricultural subsidies distort the EU's internal market, leading to trade disputes.",
+                "The EU demands Andorra to open its labor market to EU citizens, which Andorra resists due to its small population.",
+                "Andorra's refusal to adopt the Euro as its official currency leads to trade imbalances with the EU."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Andorra's duty-free status allows goods to enter without customs duties, which conflicts with the EU's customs union and tax regulations, prompting negotiations to address potential market distortions and tax evasion concerns.",
+                "1": "Incorrect. Andorra's economy is not significantly based on agriculture subsidies affecting the EU market; thus, this is not a key cause of controversy.",
+                "2": "Incorrect. While labor mobility is a common issue in EU relations, Andorra's primary disputes with the EU revolve around customs and tax policies, not labor market access.",
+                "3": "Incorrect. Andorra uses the Euro through a monetary agreement with the EU, so currency issues are not the main source of controversy."
+              }
+            },
+            {
+              "question": "If the European Union were to impose stricter customs regulations on Andorra to limit its duty-free status, which of the following policy implications would most likely arise for Andorra's economy?",
+              "options": [
+                "The government of Andorra would likely reduce taxes to compensate for lost revenue from duty-free trade.",
+                "Andorra would immediately join the EU customs union to avoid trade disruptions.",
+                "Andorra would benefit from increased foreign direct investment due to enhanced regulatory alignment with the EU.",
+                "Andorra would need to diversify its economy away from retail and tourism sectors reliant on duty-free trade."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Reducing taxes may not be feasible if government revenue from duty-free related activities declines; instead, fiscal adjustments would be complex and not necessarily involve tax cuts.",
+                "1": "Incorrect. Immediate accession to the EU customs union is unlikely given Andorra's sovereignty and the complexity of EU membership; negotiations would be required.",
+                "2": "Incorrect. While regulatory alignment can attract investment, losing duty-free status might initially deter investors due to reduced competitive advantages.",
+                "3": "Correct. Stricter customs regulations limiting duty-free advantages would reduce Andorra's attractiveness as a shopping destination, compelling it to diversify its economy beyond retail and tourism reliant on duty-free status."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:07.081620",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 143,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_1_7",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "1"
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Economy of Andorra",
+      "section_name": "Generated Section",
+      "section_number": "2",
+      "source_file": "extracted_economy_of_andorra.json",
+      "original_index": 1,
+      "total_bullet_points": 27,
+      "bullet_points": [
+        {
+          "bullet_point_index": 0,
+          "bullet_point_text": "• The Gross Domestic Product (GDP) of Andorra based on purchasing power parity was US$3.327 billion in 2015, ranking 190th in the world.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's GDP based on purchasing power parity (PPP) being US$3.327 billion in 2015 and ranking 190th globally, which of the following best explains the implications of this ranking for Andorra's economic structure and development challenges?",
+              "options": [
+                "A low GDP ranking based on PPP means Andorra is highly dependent on foreign aid and lacks any significant domestic economic activity.",
+                "A lower GDP ranking indicates a predominantly agrarian economy with limited integration into global markets.",
+                "A low GDP ranking despite PPP adjustment suggests that Andorra's economy is small in absolute terms but may have relatively higher living standards due to cost of living differences.",
+                "The ranking implies that Andorra has a large population but low per capita income, leading to its low global economic position."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Andorra is not dependent on foreign aid; it has a developed service sector and benefits from tourism and banking, so this option misrepresents its economic structure.",
+                "1": "Incorrect: Andorra's economy is not predominantly agrarian; it is service-oriented, especially in tourism and banking, so this explanation does not fit the economic profile.",
+                "2": "Correct: A low GDP ranking by PPP reflects the small size of Andorra's economy in absolute terms due to its small population and territory, but PPP adjustment accounts for cost of living, indicating that residents may enjoy relatively higher purchasing power despite the low total GDP.",
+                "3": "Incorrect: Andorra has a very small population (around 77,000), so the low GDP ranking is due to size, not a large population with low per capita income."
+              }
+            },
+            {
+              "question": "Considering Andorra's GDP of US$3.327 billion (PPP) in 2015 and its ranking at 190th globally, which of the following policy measures would be most effective for the government to sustainably enhance its economic growth and global competitiveness?",
+              "options": [
+                "Increasing agricultural subsidies to boost domestic food production and reduce import dependence.",
+                "Implementing protectionist trade policies to shield local industries from international competition.",
+                "Diversifying the economy by promoting high-value tourism, financial services, and digital innovation sectors.",
+                "Reducing investments in education and infrastructure to lower government expenditure and balance the budget."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Given Andorra's mountainous terrain and small land area, agriculture is limited and not a major economic driver; subsidies here would have minimal impact on overall growth.",
+                "1": "Incorrect: Protectionist policies could harm Andorra's open economy, which relies heavily on cross-border trade and tourism, potentially reducing competitiveness and growth.",
+                "2": "Correct: Diversification into high-value sectors like tourism, financial services, and digital innovation aligns with Andorra's existing strengths and global trends, enhancing sustainable growth and competitiveness.",
+                "3": "Incorrect: Reducing investments in education and infrastructure would undermine long-term growth potential and human capital development, which are critical for economic advancement."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:18.242792",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 136,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_2_0",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 1,
+          "bullet_point_text": "• The estimated real GDP growth rate for 2015 was 8.95%, placing Andorra at 132nd globally.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's estimated real GDP growth rate of 8.95% in 2015, which of the following best explains the implications of its global ranking at 132nd for its economic development strategy?",
+              "options": [
+                "The global rank at 132nd means Andorra's economy is among the largest globally, so it should prioritize maintaining its current economic structure.",
+                "The low global rank despite high growth indicates that Andorra's economy is shrinking relative to other countries, necessitating austerity measures to stabilize growth.",
+                "A high GDP growth rate combined with a low global rank suggests that Andorra's economy is rapidly expanding but still small in absolute terms, indicating a need to focus on sustainable diversification.",
+                "A high growth rate and low global rank imply that Andorra's economy is mature and requires policies to slow down growth to prevent overheating."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Being ranked 132nd globally means Andorra's economy is relatively small, not among the largest. Maintaining the current economic structure without diversification may limit future growth potential.",
+                "1": "Incorrect. A high growth rate does not indicate economic shrinkage; rather, it shows expansion. The low global rank reflects the small size of the economy, not contraction. Austerity measures are generally used to control excessive deficits, not to address low economic size.",
+                "2": "Correct. A high real GDP growth rate indicates rapid economic expansion, but a global rank of 132nd suggests the overall size of Andorra's economy is relatively small. This combination implies that while growth is strong, the country should focus on sustainable development and diversification to build a resilient economy.",
+                "3": "Incorrect. High growth rates typically characterize developing or emerging economies rather than mature ones. Mature economies usually experience lower growth rates. Therefore, policies to slow growth are not appropriate in this context."
+              }
+            },
+            {
+              "question": "Considering Andorra's real GDP growth rate of 8.95% in 2015, which of the following policy measures would be most appropriate for the government to ensure long-term economic stability?",
+              "options": [
+                "Reducing public expenditure drastically to control inflation caused by rapid growth.",
+                "Implementing policies to attract foreign direct investment (FDI) to diversify the economy beyond its current sectors.",
+                "Focusing solely on boosting the tourism sector, given its immediate contribution to GDP growth.",
+                "Increasing tariffs and trade barriers to protect domestic industries from international competition."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. While controlling inflation is important, drastic cuts in public expenditure during high growth phases may undermine essential investments in infrastructure and social services, potentially harming long-term growth.",
+                "1": "Correct. At a high growth rate, attracting FDI can help diversify Andorra's economy, reduce dependence on limited sectors, and promote sustainable long-term growth, which is crucial for a small economy ranked 132nd globally.",
+                "2": "Incorrect. Although tourism may be a significant contributor to GDP, focusing solely on one sector increases vulnerability to external shocks. Diversification is key to economic resilience.",
+                "3": "Incorrect. Increasing tariffs and trade barriers can lead to inefficiencies and retaliation, which may harm a small open economy like Andorra's. Protectionism could stifle growth rather than support it."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:20.903324",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 91,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Andorra_2_1",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 2,
+          "bullet_point_text": "• The GDP per capita, adjusted for purchasing power parity, was US$49,900 in 2015, making it the 29th highest in the world.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's GDP per capita being US$49,900 (PPP) in 2015, which of the following most plausibly explains the factors contributing to its ranking as the 29th highest globally?",
+              "options": [
+                "Andorra's status as a tax haven and its tourism-driven economy significantly boost its GDP per capita, despite its small population.",
+                "The ranking is mainly because of Andorra's heavy industrialization and manufacturing exports.",
+                "Andorra's GDP per capita is high due to substantial foreign direct investment in its agricultural sector.",
+                "A high GDP per capita in Andorra is primarily due to its large population and extensive natural resources."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Andorra's economy benefits from being a tax haven and a popular tourist destination, which generate significant income relative to its small population, elevating its GDP per capita.",
+                "1": "Incorrect: Andorra does not have a large industrial base or significant manufacturing exports; its economy is service-oriented.",
+                "2": "Incorrect: Agriculture is minimal in Andorra and does not contribute substantially to GDP or foreign investment.",
+                "3": "Incorrect: Andorra has a very small population and limited natural resources, so these factors do not drive its high GDP per capita."
+              }
+            },
+            {
+              "question": "Considering Andorra's high GDP per capita adjusted for PPP, which of the following policy implications is most relevant for a government aiming to replicate similar economic success in a small country?",
+              "options": [
+                "Implementing low tax regimes and promoting tourism to attract foreign income and investment.",
+                "Focusing on developing heavy industries to increase export volumes and GDP per capita.",
+                "Increasing population size rapidly to enhance domestic market size and economic output.",
+                "Prioritizing large-scale agricultural reforms to boost rural incomes and overall GDP."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Andorra's economic model shows that low taxes combined with tourism promotion can attract foreign income and investment, raising GDP per capita.",
+                "1": "Incorrect: Heavy industries require large-scale infrastructure and resources, which small countries like Andorra typically lack; this strategy may not be feasible or effective.",
+                "2": "Incorrect: Rapid population growth can strain resources and infrastructure; Andorra's success is linked to high income per capita rather than population size.",
+                "3": "Incorrect: Large-scale agriculture is often limited by geography and climate in small countries and may not significantly impact GDP per capita."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:18.573938",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 123,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_2_2",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 3,
+          "bullet_point_text": "• The sectoral composition of GDP in 2015 was: agriculture at 11.9%, industry at 33.6%, and services at 54.5%.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's GDP composition in 2015, which of the following best explains the relatively high share of the industrial sector compared to agriculture?",
+              "options": [
+                "Industrial activities in Andorra are primarily driven by manufacturing linked to natural resource extraction, which is more productive than agriculture.",
+                "Government policies heavily subsidize agriculture, but industrial growth outpaces it due to international trade agreements.",
+                "Agriculture employs a majority of the workforce but contributes less to GDP because of low productivity compared to industry.",
+                "The mountainous terrain limits large-scale agriculture, leading to a shift of labor and resources towards industrial and service sectors."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Andorra has limited natural resources, so industrial activities are less about resource extraction and more about manufacturing and construction; thus, this option misattributes the industrial sector's strength.",
+                "1": "Incorrect: While government policies may influence sectors, there is no strong evidence that agriculture is heavily subsidized in Andorra; moreover, the terrain is a more significant factor than trade agreements for sectoral distribution.",
+                "2": "Incorrect: Agriculture does not employ the majority of the workforce in Andorra; rather, services dominate employment, so this option incorrectly assumes workforce distribution.",
+                "3": "Correct: The challenging mountainous geography restricts extensive agriculture, pushing economic focus towards industry and services, explaining the higher industrial GDP share relative to agriculture."
+              }
+            },
+            {
+              "question": "Considering Andorra's GDP structure with services constituting 54.5% in 2015, which policy measure would most effectively enhance sustainable economic growth in the country?",
+              "options": [
+                "Promoting diversification within the service sector, especially in tourism and financial services, to reduce vulnerability to external shocks.",
+                "Implementing protectionist trade policies to shield domestic industries from international competition.",
+                "Focusing on expanding heavy industries to balance the GDP composition and reduce reliance on services.",
+                "Investing in advanced agricultural technologies to increase the agriculture sector's GDP share beyond 20%."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Diversifying the service sector, particularly tourism and finance, aligns with Andorra's strengths and can enhance resilience and sustainable growth amid global economic fluctuations.",
+                "1": "Incorrect: Protectionism can hinder economic efficiency and growth, especially in a small, open economy like Andorra that benefits from international trade and tourism.",
+                "2": "Incorrect: Expanding heavy industries is impractical given Andorra's size, resource constraints, and existing economic focus; it may also lead to environmental and infrastructural challenges.",
+                "3": "Incorrect: While improving agriculture can help, given the terrain and current economic structure, drastically increasing agriculture's share is less feasible and less impactful for overall growth."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:19.367532",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 110,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_2_3",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 4,
+          "bullet_point_text": "• Data on the population below the poverty line is not available (N/A).",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economic statistics, which of the following best explains the implications of the unavailability of data on the population below the poverty line?",
+              "options": [
+                "It indicates that Andorra has no poverty issues, making such data collection unnecessary.",
+                "It limits the government's ability to design targeted poverty alleviation programs effectively.",
+                "It reflects a deliberate policy choice to prioritize economic growth data over social welfare metrics.",
+                "It suggests that poverty measurement is replaced by alternative indicators like income inequality indices."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Absence of data does not imply absence of poverty; many countries lack comprehensive data yet face poverty challenges.",
+                "1": "Correct. Without data on the population below the poverty line, policymakers lack crucial information to identify vulnerable groups and allocate resources effectively for poverty reduction.",
+                "2": "Incorrect. There is no evidence that data omission is a deliberate policy to focus solely on economic growth; rather, it may be due to data collection challenges.",
+                "3": "Incorrect. While alternative indicators may be used, the unavailability of poverty line data does not automatically mean such replacements exist or are sufficient."
+              }
+            },
+            {
+              "question": "If Andorra were to initiate a social welfare policy aimed at reducing economic disparities, what would be the most significant challenge arising from the current lack of data on the population below the poverty line?",
+              "options": [
+                "Inability to measure the country's overall GDP growth accurately.",
+                "Difficulty in identifying and prioritizing the most vulnerable segments of the population for assistance.",
+                "Problems in assessing the effectiveness of tourism policies on economic development.",
+                "Challenges in negotiating international trade agreements due to incomplete economic data."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. GDP growth measurement relies on macroeconomic data, not directly on poverty statistics.",
+                "1": "Correct. Without data on poverty levels, it becomes challenging to target welfare programs efficiently and ensure that aid reaches those most in need.",
+                "2": "Incorrect. Tourism policy assessment relates to sectoral economic data, not directly to poverty line statistics.",
+                "3": "Incorrect. Trade negotiations depend on broader economic indicators, not specifically on poverty data."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:18.550781",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 71,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Andorra_2_4",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 5,
+          "bullet_point_text": "• Household income or consumption data by percentage share for the lowest and highest 10% is not available (N/A).",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, the unavailability of household income or consumption data by percentage share for the lowest and highest 10% most likely affects which of the following economic analyses?",
+              "options": [
+                "Accurate assessment of income inequality and formulation of targeted social welfare policies",
+                "Calculation of the country's GDP growth rate using expenditure approach",
+                "Measurement of inflation impact on average household consumption",
+                "Estimation of total tax revenue from personal income taxes"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Without data on income or consumption shares of the lowest and highest 10%, it becomes difficult to accurately assess income inequality or design policies targeting specific income groups, which are crucial for social welfare planning.",
+                "1": "Incorrect: GDP growth rate calculation via expenditure approach relies on aggregate consumption, investment, government spending, and net exports, not detailed income distribution data.",
+                "2": "Incorrect: Inflation impact on average consumption is generally measured using price indices and average consumption data, which do not require detailed income or consumption shares by decile.",
+                "3": "Incorrect: Estimating total tax revenue depends on tax rates and aggregate taxable income, not specifically on income distribution shares of the top and bottom deciles."
+              }
+            },
+            {
+              "question": "If Andorra aims to implement a progressive taxation policy to reduce income inequality but lacks detailed household income data for the lowest and highest 10%, which of the following policy approaches would be most appropriate?",
+              "options": [
+                "Delay any tax reforms until comprehensive household income data becomes available",
+                "Implement a flat tax rate across all income groups to ensure simplicity and fairness",
+                "Use proxy indicators such as property ownership and luxury goods consumption to estimate wealth distribution for tax policy design",
+                "Rely solely on corporate tax reforms to indirectly address income inequality"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Delaying reforms may perpetuate inequality; policymakers often need to act using best available data and proxies rather than waiting indefinitely.",
+                "1": "Incorrect: A flat tax rate ignores income disparities and does not target inequality; it may disproportionately burden lower-income groups.",
+                "2": "Correct: In absence of direct income data, proxy indicators like property ownership or luxury consumption can help approximate wealth distribution, enabling more informed progressive tax policy design.",
+                "3": "Incorrect: Corporate tax reforms alone may not effectively reduce personal income inequality, as they do not directly address household income distribution."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:22.338106",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 113,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Andorra_2_5",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 6,
+          "bullet_point_text": "• The inflation rate for consumer prices in 2015 was -0.9%, ranking 225th worldwide.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's 2015 consumer price inflation rate of -0.9%, which of the following best explains the potential economic implications of such a deflationary environment?",
+              "options": [
+                "An immediate boost in export competitiveness due to currency depreciation",
+                "A sustained decrease in consumer demand leading to slower economic growth",
+                "A rise in government tax revenues due to increased consumption",
+                "An increase in nominal wages due to higher purchasing power"
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Currency depreciation is not a direct consequence of deflation; moreover, deflation can be associated with currency appreciation due to higher real interest rates, so export competitiveness may not improve immediately.",
+                "1": "Correct. Deflation (negative inflation) often signals falling prices, which can reduce consumer spending as people anticipate further price drops, leading to decreased demand and slower economic growth.",
+                "2": "Incorrect. Deflation generally leads to reduced consumption, which can decrease tax revenues rather than increase them, especially indirect taxes like sales tax.",
+                "3": "Incorrect. While deflation increases the real value of money, nominal wages tend to be sticky downward and do not automatically increase; in fact, wages may stagnate or fall in deflationary periods."
+              }
+            },
+            {
+              "question": "If Andorra were to experience a prolonged period of negative inflation similar to 2015, which of the following policy measures would be most appropriate for its government to stimulate economic activity?",
+              "options": [
+                "Increasing indirect taxes to boost government revenue",
+                "Reducing government expenditure to balance the budget",
+                "Implementing expansionary fiscal policy through increased public spending",
+                "Raising interest rates to attract foreign investment"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Increasing indirect taxes may reduce disposable income and consumption, which is counterproductive in a deflationary context.",
+                "1": "Incorrect. Reducing government expenditure during deflation can deepen economic contraction by lowering aggregate demand.",
+                "2": "Correct. Expansionary fiscal policy, such as increased public spending, can help counteract deflation by stimulating demand and encouraging economic growth.",
+                "3": "Incorrect. Raising interest rates during deflation can further suppress demand by increasing borrowing costs, worsening economic slowdown."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:24.998737",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 84,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Andorra_2_6",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 7,
+          "bullet_point_text": "• The labor force numbered 42,230 in 2007, ranking 185th globally.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's labor force numbering 42,230 in 2007 and ranking 185th globally, which of the following best explains the potential economic implications of such a labor force size for a small country?",
+              "options": [
+                "A smaller labor force limits domestic market size but can encourage specialization in niche sectors.",
+                "A small labor force invariably leads to higher unemployment rates due to limited job opportunities.",
+                "A small labor force ensures a higher per capita income due to less competition for jobs.",
+                "A small labor force size directly results in a low GDP, irrespective of productivity levels."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. A smaller labor force often means a limited domestic market, which can restrict large-scale industries but encourages the country to specialize in niche sectors like tourism or finance, leveraging comparative advantages.",
+                "1": "Incorrect. A small labor force does not necessarily cause higher unemployment; it depends on economic structure, labor demand, and policies. Some small economies have low unemployment due to high demand in specialized sectors.",
+                "2": "Incorrect. While less competition might exist, per capita income depends on overall economic output and distribution; a small labor force alone does not guarantee higher per capita income.",
+                "3": "Incorrect. GDP depends not only on labor force size but also on productivity, capital, and technology. A small labor force can still generate high GDP if productivity is high."
+              }
+            },
+            {
+              "question": "Considering Andorra's labor force size and global ranking, which of the following policy measures would be most effective in enhancing economic growth and employment opportunities in such a context?",
+              "options": [
+                "Restricting foreign investment to protect local jobs from external competition.",
+                "Implementing policies to attract foreign skilled labor to complement the domestic workforce.",
+                "Focusing solely on expanding the labor force through population growth incentives.",
+                "Reducing investment in education and training to cut government expenditure."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Restricting foreign investment may protect some local jobs short-term but can hinder capital inflow, technology transfer, and overall economic growth, which are vital for small economies.",
+                "1": "Correct. Attracting foreign skilled labor can supplement a small domestic labor force, bringing in expertise and innovation that promote economic growth and diversify employment opportunities.",
+                "2": "Incorrect. While population growth can increase labor supply, it is a long-term and uncertain strategy; immediate economic benefits are limited without complementary policies.",
+                "3": "Incorrect. Reducing education and training investment undermines human capital development, which is crucial for productivity and economic competitiveness, especially in small economies."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:23.354010",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 66,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Andorra_2_7",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 8,
+          "bullet_point_text": "• Employment by occupation in 2007 was approximately 0.3% in agriculture, 20.8% in industry, and 79% in services.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's employment distribution in 2007, which of the following best explains the predominance of the services sector over agriculture and industry?",
+              "options": [
+                "Technological advancements in agriculture have increased labor demand, but the service sector remains dominant due to tourism.",
+                "Government policies heavily subsidize the industrial sector, causing a decline in agricultural employment.",
+                "The service sector's dominance is primarily due to Andorra's large manufacturing base supporting service industries.",
+                "The geographical constraints and limited arable land restrict agricultural activities, leading to a smaller agricultural workforce."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Technological advancements typically reduce labor demand in agriculture; although tourism boosts services, the statement incorrectly links increased agricultural labor demand with service sector dominance.",
+                "1": "Incorrect: While government policies can influence sectoral employment, there is no evidence that subsidies to industry have caused agricultural decline; rather, physical geography is a more fundamental cause.",
+                "2": "Incorrect: Andorra does not have a large manufacturing base; industry employs only about 20.8%, so the service sector's dominance is not due to manufacturing but other service activities like tourism and finance.",
+                "3": "Correct: Andorra's mountainous terrain and limited fertile land constrain large-scale agriculture, naturally limiting agricultural employment. This geographical factor pushes the economy towards services, especially tourism and finance."
+              }
+            },
+            {
+              "question": "Considering Andorra's employment structure in 2007, if the government aims to diversify its economy by increasing industrial employment, which policy measure would be most appropriate?",
+              "options": [
+                "Investing in infrastructure to support manufacturing and incentivizing industrial startups to create jobs outside the service sector.",
+                "Expanding agricultural subsidies to shift labor from services to farming and reduce dependence on imports.",
+                "Implementing strict regulations on the service sector to force a labor shift towards industry.",
+                "Promoting tourism aggressively to further strengthen the service sector and indirectly boost industrial employment."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Enhancing infrastructure and providing incentives for industrial startups directly addresses the need to grow the industrial sector and create employment opportunities beyond services.",
+                "1": "Incorrect: Given the limited agricultural potential due to geography, expanding agriculture is unlikely to absorb significant labor or diversify the economy effectively.",
+                "2": "Incorrect: Restricting the service sector could harm the economy since it employs the majority; forced labor shifts without viable industrial growth can lead to unemployment and economic instability.",
+                "3": "Incorrect: While tourism growth benefits services, it does not directly increase industrial employment and may deepen economic dependence on a single sector."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:30.679059",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 113,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Andorra_2_8",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 9,
+          "bullet_point_text": "• The unemployment rate was 3.7%, placing Andorra at 183rd in the world.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's reported unemployment rate of 3.7%, which of the following best explains the potential economic implications of this ranking (183rd in the world) for its labor market and economic structure?",
+              "options": [
+                "The ranking implies that Andorra's economy is heavily dependent on agriculture, which typically exhibits low unemployment rates due to seasonal work.",
+                "A low unemployment rate combined with a low global ranking indicates that Andorra faces significant underemployment and disguised unemployment.",
+                "A relatively low unemployment rate indicates a tight labor market, which may lead to upward pressure on wages and increased labor costs for businesses.",
+                "A low unemployment ranking suggests that Andorra likely has a large informal sector absorbing unemployed workers, masking true unemployment levels."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Andorra's economy is not primarily agricultural but rather service-oriented, including tourism and finance. Agriculture-dependent economies often have seasonal unemployment, but this does not apply here.",
+                "1": "Incorrect. Underemployment and disguised unemployment usually accompany higher unemployment rates or poor labor market conditions. A low unemployment rate combined with a low global ranking (meaning low unemployment) does not indicate significant underemployment.",
+                "2": "Correct. A low unemployment rate such as 3.7% generally reflects a tight labor market where most people seeking jobs are employed. This can increase competition for workers, potentially pushing wages higher and raising labor costs, which affects business profitability and economic dynamics.",
+                "3": "Incorrect. While informal sectors can mask true unemployment, Andorra's small size and developed service-based economy make a large informal sector less likely. The low unemployment rate is more plausibly a reflection of actual employment levels."
+              }
+            },
+            {
+              "question": "Considering Andorra's low unemployment rate of 3.7%, which of the following policy measures would be most appropriate for the government to sustain economic growth without triggering labor market imbalances?",
+              "options": [
+                "Adopt protectionist trade policies to safeguard domestic jobs from foreign competition.",
+                "Focus on expanding social welfare schemes to support the unemployed and reduce poverty.",
+                "Increase labor market flexibility by reducing employment protections to encourage hiring and firing.",
+                "Implement targeted skill development programs to address potential labor shortages in high-demand sectors."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Protectionist policies can distort markets and may harm economic growth, especially in a small, open economy like Andorra, which benefits from international trade and tourism.",
+                "1": "Incorrect. Expanding welfare schemes primarily addresses unemployment and poverty, which are less pressing concerns in a context of low unemployment like Andorra's.",
+                "2": "Incorrect. While labor market flexibility can encourage employment, reducing protections excessively in a tight labor market may lead to job insecurity and social unrest, which is less relevant when unemployment is already low.",
+                "3": "Correct. With low unemployment, the challenge is often labor shortages or skill mismatches. Targeted skill development helps workers meet industry demands, supporting sustainable growth without overheating the labor market."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:29.198059",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 72,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_2_9",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 10,
+          "bullet_point_text": "• The government’s budget revenues were US$1.872 billion, while expenditures were US$2.06 billion in 2016.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's 2016 fiscal data where government expenditures exceeded revenues, which of the following is the most appropriate explanation for the potential macroeconomic impact of such a budget deficit?",
+              "options": [
+                "It implies that the government has surplus funds to invest in infrastructure without borrowing.",
+                "It necessarily indicates poor economic management and will result in immediate inflationary pressures.",
+                "It could stimulate economic growth in the short term through increased public spending but may lead to higher public debt if not managed prudently.",
+                "It suggests that the country has a balanced budget with no need for fiscal adjustments."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. A budget deficit means expenditures are higher than revenues, so the government does not have surplus funds; rather, it may need to borrow or use reserves to finance the gap.",
+                "1": "Incorrect. While deficits can sometimes contribute to inflation, it is not an automatic or immediate consequence. Inflation depends on various factors including monetary policy and economic capacity, so this option overgeneralizes the impact.",
+                "2": "Correct. A budget deficit, where expenditures exceed revenues, can stimulate growth by increasing demand via public spending. However, if deficits persist without adequate revenue generation or borrowing controls, public debt can rise, affecting fiscal sustainability.",
+                "3": "Incorrect. A balanced budget means revenues equal expenditures, which contradicts the given data showing expenditures exceed revenues."
+              }
+            },
+            {
+              "question": "Considering Andorra’s 2016 budget deficit, which of the following policy measures would be most effective for the government to ensure fiscal sustainability without hampering economic growth?",
+              "options": [
+                "Increasing tariffs on imports significantly to boost government revenue rapidly.",
+                "Relying solely on external borrowing to finance the deficit without altering fiscal policies.",
+                "Implementing gradual tax reforms to increase revenues while prioritizing efficient public expenditure.",
+                "Drastically cutting all government spending immediately to eliminate the deficit."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. While increasing tariffs might raise revenue, significant hikes can disrupt trade, increase consumer prices, and harm economic growth, especially for a small open economy like Andorra.",
+                "1": "Incorrect. Sole reliance on external borrowing can increase debt burden and vulnerability to external shocks, risking long-term fiscal instability.",
+                "2": "Correct. Gradual tax reforms can enhance revenue without shocking the economy, and efficient expenditure ensures funds are well-utilized, balancing fiscal sustainability with growth.",
+                "3": "Incorrect. Immediate drastic spending cuts can harm essential public services and economic growth, potentially leading to recession or social unrest."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:22.434254",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 106,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_2_10",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 11,
+          "bullet_point_text": "• Major industries include tourism (notably skiing), banking, timber, and furniture manufacturing.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the interdependence between its tourism industry and banking sector?",
+              "options": [
+                "Banking regulations restrict tourism investments, limiting growth in the tourism sector.",
+                "Banking profits are primarily reinvested in timber and furniture manufacturing, not tourism.",
+                "Tourism generates foreign currency inflows that enhance banking liquidity and financial services.",
+                "Tourism and banking operate independently with minimal economic interaction."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. There is no strong evidence that banking regulations in Andorra restrict tourism investments; rather, the sectors tend to support each other economically.",
+                "1": "Incorrect. While timber and furniture manufacturing are part of the economy, banking profits are not primarily channeled there; the tourism sector significantly influences banking through foreign exchange and investment.",
+                "2": "Correct. Tourism, especially skiing, attracts foreign visitors who bring in foreign currency, which increases liquidity in banks. This inflow supports banking operations and financial services, creating a symbiotic relationship between the two sectors.",
+                "3": "Incorrect. Tourism and banking are interconnected; tourism boosts demand for banking services such as currency exchange, investment, and credit facilities."
+              }
+            },
+            {
+              "question": "If Andorra aims to enhance sustainable economic growth, which policy measure would most effectively leverage its major industries?",
+              "options": [
+                "Implementing eco-friendly tourism practices while promoting green financing in banks.",
+                "Subsidizing ski resorts without integrating environmental regulations.",
+                "Restricting foreign investment in banking to prioritize local ownership.",
+                "Increasing tariffs on timber exports to protect domestic furniture manufacturing."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Combining eco-friendly tourism with green financing aligns environmental sustainability with economic growth, leveraging Andorra's strengths in tourism and banking while addressing global sustainability concerns.",
+                "1": "Incorrect. Subsidizing ski resorts without environmental safeguards risks ecological degradation, which can undermine the long-term viability of tourism, especially in a nature-dependent sector like skiing.",
+                "2": "Incorrect. Restricting foreign investment in banking could reduce capital inflows and financial sector dynamism, which are crucial for supporting other industries like tourism.",
+                "3": "Incorrect. Increasing tariffs on timber exports may protect furniture manufacturing but could reduce competitiveness and harm the timber industry, potentially limiting overall growth."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:23.368971",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 98,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Andorra_2_11",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 12,
+          "bullet_point_text": "• The industrial production growth rate was -3.9% in 2020, ranking 184th worldwide.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's industrial production growth rate of -3.9% in 2020, ranking 184th worldwide, which of the following is the most appropriate explanation for this decline?",
+              "options": [
+                "Structural inefficiencies in Andorra's industrial sector that predated 2020 led to the decline.",
+                "Increased competition from neighboring countries with lower production costs caused the decline.",
+                "A significant contraction in global demand due to the COVID-19 pandemic disrupted Andorra's industrial output.",
+                "A deliberate policy shift by Andorra to prioritize service sectors over industrial production."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Structural inefficiencies may exist but the sharp decline in 2020 aligns more directly with the extraordinary global crisis rather than long-term inefficiencies alone.",
+                "1": "Incorrect. Although competition affects industrial sectors, the pandemic's global impact was the dominant factor in 2020, making competition a less likely primary cause of the sudden decline.",
+                "2": "Correct. The global COVID-19 pandemic in 2020 caused widespread disruptions in supply chains and demand, severely impacting industrial production worldwide, including Andorra, explaining the negative growth and low ranking.",
+                "3": "Incorrect. While Andorra has a strong service sector, there is no clear evidence that a deliberate policy shift in 2020 caused the industrial decline; the pandemic's external shock is a more immediate cause."
+              }
+            },
+            {
+              "question": "Considering Andorra's industrial production contraction in 2020, which of the following policy measures would be most effective in fostering industrial recovery while maintaining economic stability?",
+              "options": [
+                "Reducing environmental regulations temporarily to accelerate industrial output growth.",
+                "Imposing protective tariffs on imported industrial goods to boost domestic production.",
+                "Shifting government investment entirely towards the tourism and service sectors to compensate for industrial losses.",
+                "Implementing targeted fiscal stimulus to support key industrial sectors and supply chain resilience."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Temporarily relaxing environmental regulations may boost output short-term but risks long-term sustainability and can damage Andorra’s reputation and ecological balance.",
+                "1": "Incorrect. Protective tariffs may lead to trade tensions and higher costs for consumers and industries, potentially harming the small open economy of Andorra rather than aiding recovery.",
+                "2": "Incorrect. While tourism and services are important, neglecting industrial recovery could lead to long-term economic imbalance and increased vulnerability to sector-specific shocks.",
+                "3": "Correct. Targeted fiscal stimulus can provide immediate relief to struggling industries and help rebuild supply chains, facilitating recovery while balancing economic stability."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:24.689980",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 83,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_2_12",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 13,
+          "bullet_point_text": "• Electricity production data is not available; however, electricity is generated primarily through hydro sources (40%) and other sources (60%) imported from Spain, with no fossil fuel or nuclear contribution.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's electricity generation, which of the following best explains the potential economic and environmental implications of relying 60% on electricity imports from Spain and 40% on domestic hydro sources?",
+              "options": [
+                "High import dependence ensures stable electricity prices and eliminates the need for domestic renewable investments.",
+                "Relying on hydroelectric power domestically increases fossil fuel consumption and environmental degradation.",
+                "Dependence on imports reduces energy security but allows Andorra to maintain a low carbon footprint due to hydro reliance.",
+                "Electricity imports from Spain are primarily fossil fuel-based, which increases Andorra's carbon emissions despite domestic hydro generation."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. While imports might stabilize supply, they do not necessarily guarantee stable prices, especially if Spain's energy market fluctuates. Also, reliance on imports can reduce incentives for domestic renewable investments, but the statement ignores the energy security risk.",
+                "1": "Incorrect. Hydroelectric power is a renewable energy source that generally reduces fossil fuel consumption and environmental harm. The statement incorrectly associates hydroelectric power with increased fossil fuel use and environmental degradation.",
+                "2": "Correct. Importing 60% of electricity from Spain means Andorra is vulnerable to external supply disruptions, impacting energy security. However, its domestic generation through hydro (a renewable source) helps maintain a relatively low carbon footprint. This duality highlights the trade-off between energy independence and environmental sustainability.",
+                "3": "Incorrect. The knowledge base specifies no fossil fuel or nuclear contribution in Andorra’s electricity generation. The imported electricity's source is not fossil fuel-based by default, so this option misrepresents the environmental impact."
+              }
+            },
+            {
+              "question": "If Andorra aims to enhance its energy self-sufficiency and reduce reliance on electricity imports from Spain, which of the following policy measures would be most effective considering its current electricity generation profile?",
+              "options": [
+                "Focusing on nuclear energy development to provide a stable and large-scale domestic power supply.",
+                "Investing in expanding hydroelectric capacity and integrating energy storage technologies to manage supply variability.",
+                "Increasing fossil fuel-based power plants to quickly boost domestic electricity production.",
+                "Negotiating long-term contracts with Spain to secure cheaper electricity imports."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Nuclear energy development is capital-intensive, requires significant infrastructure, and may not be feasible for a small country like Andorra. Additionally, it contradicts the current absence of nuclear power in their energy mix.",
+                "1": "Correct. Since Andorra already generates 40% of its electricity from hydro, expanding this renewable source and adding energy storage would improve self-sufficiency while maintaining environmental sustainability. Energy storage helps manage the intermittent nature of hydroelectricity.",
+                "2": "Incorrect. Introducing fossil fuel plants contradicts Andorra’s current non-fossil fuel electricity profile and would increase carbon emissions, undermining environmental goals.",
+                "3": "Incorrect. While securing imports might improve supply stability, it does not reduce dependence on external sources, which is the policy aim. It also leaves Andorra vulnerable to external market fluctuations."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:24.589944",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 209,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_2_13",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 14,
+          "bullet_point_text": "• Andorra imports all its electricity, mainly from Spain and France, and generates a small amount of hydropower domestically.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's electricity supply, which of the following best explains the potential economic and geopolitical vulnerabilities arising from its reliance on electricity imports from Spain and France?",
+              "options": [
+                "Importing electricity ensures Andorra's energy independence by diversifying its energy portfolio across multiple countries.",
+                "Relying on imports reduces Andorra's need to invest in domestic infrastructure, thereby eliminating any economic risks related to energy production.",
+                "Electricity imports from neighboring countries guarantee stable supply without any geopolitical risks due to strong regional cooperation.",
+                "Dependence on external electricity sources may expose Andorra to price volatility and supply disruptions influenced by the policies and stability of Spain and France."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Importing electricity from only two neighboring countries does not equate to energy independence; rather, it increases dependence and potential vulnerability.",
+                "1": "Incorrect: While importing reduces the need for domestic generation investment, it introduces economic risks such as exposure to external market dynamics and supply insecurity.",
+                "2": "Incorrect: Although regional cooperation exists, geopolitical risks cannot be entirely ruled out, especially in times of political or economic instability affecting Spain or France.",
+                "3": "Correct: Andorra's dependence on Spain and France for electricity makes it vulnerable to changes in their energy policies, price fluctuations, or political tensions, which can affect supply reliability and costs."
+              }
+            },
+            {
+              "question": "Considering Andorra's limited domestic hydropower generation and heavy reliance on imported electricity, which of the following policy measures would most effectively enhance its energy security and sustainability?",
+              "options": [
+                "Maintaining the current import strategy while focusing on energy conservation campaigns among consumers.",
+                "Privatizing the electricity import sector to encourage competitive pricing and efficiency.",
+                "Increasing electricity imports from additional neighboring countries to diversify supply sources.",
+                "Investing in expanding domestic renewable energy sources such as hydropower and solar to reduce import dependence."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Energy conservation helps reduce demand but does not fundamentally improve supply security or reduce vulnerability from import dependence.",
+                "1": "Incorrect: Privatization may improve efficiency or pricing but does not inherently address the core issue of import reliance or sustainability.",
+                "2": "Incorrect: While diversification can reduce some risks, Andorra's geographic constraints limit access to multiple suppliers, and increasing imports does not address sustainability directly.",
+                "3": "Correct: Developing domestic renewable energy reduces reliance on imports, enhances energy security, and supports sustainability goals by utilizing local resources."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:28.792939",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 125,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Andorra_2_14",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 15,
+          "bullet_point_text": "• Agricultural products include small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, and cattle.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's agricultural sector, which of the following best explains the limited scale and diversity of its agricultural production?",
+              "options": [
+                "The mountainous terrain restricts large-scale farming and favors small quantities of hardy crops and livestock.",
+                "Government policies prioritize industrial development over agriculture, limiting agricultural output.",
+                "High urbanization rates have converted most agricultural land into residential areas.",
+                "Andorra's climate is tropical, which is unsuitable for staple crops like rye and barley."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Andorra's mountainous terrain limits arable land, making large-scale farming difficult. This naturally leads to cultivation of small quantities of hardy crops such as rye, barley, oats, and rearing of sheep and cattle adapted to such environments.",
+                "1": "Incorrect: While government policies can influence agriculture, there is no strong evidence that industrial prioritization is the primary cause of limited agricultural diversity in Andorra. The physical geography is a more decisive factor.",
+                "2": "Incorrect: Although urbanization can reduce agricultural land, Andorra's small population and land area mean urbanization is not the dominant factor restricting agriculture. The terrain and altitude play a more critical role.",
+                "3": "Incorrect: Andorra has a temperate mountain climate, not tropical. Tropical climates would actually support different crops, but the limitation here is due to terrain and altitude rather than climate type."
+              }
+            },
+            {
+              "question": "If Andorra aims to enhance its agricultural productivity sustainably, which of the following policy measures would be most appropriate considering its current agricultural profile?",
+              "options": [
+                "Subsidizing large-scale monoculture plantations of wheat and barley to increase output.",
+                "Encouraging conversion of pasture lands into industrial zones to boost the economy.",
+                "Promoting terrace farming and introducing high-value, climate-resilient crops suited to mountainous regions.",
+                "Importing all agricultural products to focus solely on tourism and services."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Large-scale monoculture is impractical in Andorra’s terrain and could lead to environmental degradation. It also contradicts the current small-scale, diverse agricultural practices.",
+                "1": "Incorrect: Converting pasture lands into industrial zones would reduce agricultural capacity and harm livestock rearing, which is part of Andorra’s agricultural base.",
+                "2": "Correct: Terrace farming can mitigate the challenges of mountainous terrain by preventing soil erosion and optimizing land use. Introducing high-value, climate-resilient crops aligns with Andorra's small-scale, sustainable agricultural profile.",
+                "3": "Incorrect: While importing agricultural products can support other sectors, abandoning domestic agriculture entirely could harm rural livelihoods and reduce food security, which is not a sustainable or balanced policy approach."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:32.732749",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 117,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Andorra_2_15",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 16,
+          "bullet_point_text": "• The value of exports was US$1.842 billion in 2020, ranking 163rd globally.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's export value of US$1.842 billion in 2020, ranking 163rd globally, which of the following best explains the likely economic implications of this ranking for Andorra's trade policy?",
+              "options": [
+                "A ranking of 163rd indicates that Andorra's economy is primarily driven by export-led industrial growth.",
+                "The export value and ranking imply that Andorra should focus exclusively on import substitution policies to enhance self-reliance.",
+                "Andorra's relatively low global export ranking suggests a need to diversify its export base to reduce vulnerability to external shocks.",
+                "Such a ranking means Andorra has a significant influence on global commodity prices and can leverage this in trade negotiations."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. A low export ranking does not indicate an export-led industrial economy; rather, it suggests limited export activity relative to other countries.",
+                "1": "Incorrect. Import substitution is generally more relevant for larger economies seeking to reduce dependence on imports; given Andorra's small export scale, focusing exclusively on import substitution may limit growth opportunities.",
+                "2": "Correct. A low global export ranking indicates limited export diversification and scale, making the economy vulnerable to external demand fluctuations. Diversification can help stabilize income and foster sustainable growth.",
+                "3": "Incorrect. Being ranked 163rd globally means Andorra's export volume is too small to significantly influence global commodity prices or wield substantial leverage in trade negotiations."
+              }
+            },
+            {
+              "question": "Considering Andorra's export value of US$1.842 billion in 2020 and its global ranking, which of the following policy measures would be most appropriate for the government to enhance its economic resilience in a scenario of global trade disruptions?",
+              "options": [
+                "Promoting niche high-value exports and strengthening trade partnerships with neighboring countries.",
+                "Focusing solely on expanding export volume without regard to product quality or market diversification.",
+                "Reducing investment in infrastructure to limit exposure to global market fluctuations.",
+                "Imposing high tariffs on imports to protect domestic industries and reduce dependency on foreign goods."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Given Andorra's modest export scale, focusing on niche, high-value products and leveraging proximity to larger markets like Spain and France can enhance economic resilience amid global trade uncertainties.",
+                "1": "Incorrect. Expanding export volume without attention to quality or diversification risks overexposure to specific markets or products, increasing vulnerability to shocks.",
+                "2": "Incorrect. Reducing infrastructure investment would likely weaken economic capacity and competitiveness, making the economy less resilient to external disruptions.",
+                "3": "Incorrect. High tariffs may provoke retaliation and reduce trade flows, which can harm a small, open economy like Andorra that relies on cross-border trade."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:31.247317",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 76,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_2_16",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 17,
+          "bullet_point_text": "• Export commodities include integrated circuits, dental fitting supplies, cars, gold, and essential oils (2021).",
+          "questions": [
+            {
+              "question": "In the context of Andorra's export commodities such as integrated circuits, dental fitting supplies, cars, gold, and essential oils, which of the following best explains the likely economic rationale behind this diversified export portfolio?",
+              "options": [
+                "A. To mitigate risks associated with dependence on a single commodity by leveraging both high-tech and traditional sectors",
+                "C. To capitalize exclusively on the automotive industry as the main driver of economic growth",
+                "B. To focus primarily on natural resource exports due to abundant mineral wealth in Andorra",
+                "D. To prioritize agricultural exports over manufactured goods given Andorra's vast arable land"
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Diversifying exports across sectors like technology (integrated circuits), healthcare (dental supplies), automotive, precious metals (gold), and natural products (essential oils) helps Andorra reduce vulnerability to sector-specific shocks and global market fluctuations, ensuring more stable economic growth.",
+                "1": "Incorrect. While cars are part of the export basket, they are one among several commodities. Exclusive focus on automotive exports would increase economic risk and does not reflect the diversified nature of Andorra's exports.",
+                "2": "Incorrect. Andorra is not known for abundant mineral wealth; gold is likely imported or re-exported rather than mined domestically. Hence, the export portfolio is not primarily based on natural resource extraction.",
+                "3": "Incorrect. Andorra's geography limits large-scale agriculture; the presence of essential oils might be niche but does not indicate prioritization of agricultural exports over manufactured goods."
+              }
+            },
+            {
+              "question": "Considering Andorra's export commodities include integrated circuits and dental fitting supplies, which policy measure would most effectively enhance the country's competitiveness in these sectors?",
+              "options": [
+                "B. Increasing tariffs on imported raw materials to protect domestic producers",
+                "D. Limiting foreign direct investment to preserve local ownership in export industries",
+                "A. Investing in advanced technical education and research to foster innovation in high-tech manufacturing",
+                "C. Redirecting resources from technology sectors to expand traditional gold mining activities"
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Increasing tariffs on imported raw materials may raise production costs for high-tech manufacturing, reducing competitiveness rather than enhancing it.",
+                "1": "Incorrect. Restricting foreign direct investment can limit access to capital, technology transfer, and global networks essential for growth in specialized manufacturing sectors.",
+                "2": "Correct. Enhancing technical education and research capabilities directly supports innovation and quality improvements in high-tech sectors like integrated circuits and dental supplies, thereby improving competitiveness in global markets.",
+                "3": "Incorrect. Diverting resources away from high-tech sectors to traditional mining contradicts the existing export strengths and may hinder economic modernization."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:31.757704",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 113,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Andorra_2_17",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 18,
+          "bullet_point_text": "• Major export partners are Spain (40%), France (19%), the United States (11%), and Mauritania (5%) as of 2019.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's export distribution in 2019, which of the following best explains the economic rationale behind Spain being the largest export partner compared to France and the United States?",
+              "options": [
+                "France imposes higher tariffs on Andorran goods, reducing export volumes compared to Spain and the US.",
+                "Geographical proximity and strong trade agreements with Spain facilitate higher export volumes.",
+                "Andorra's export products are primarily tailored to the US market but routed through Spain for logistical reasons.",
+                "Spain's economy is more diversified, leading to greater demand for Andorran exports than France or the US."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect: There is no specific evidence that France imposes higher tariffs on Andorran goods. Tariff barriers alone would not fully explain the export distribution, especially given the close economic ties within the EU region.",
+                "1": "Correct: Spain shares a direct border with Andorra, making geographical proximity a key factor in trade. Additionally, Spain and Andorra have established trade agreements facilitating smoother export processes, which logically leads to Spain being the largest export partner.",
+                "2": "Incorrect: The data does not support that Andorran exports are primarily tailored for the US market. The US is a significant partner but ranks third, and routing exports through Spain without direct demand is inefficient.",
+                "3": "Incorrect: While Spain has a large economy, the key factor is not diversification but proximity and trade facilitation. France also has a large economy but is second in export share, indicating other factors dominate."
+              }
+            },
+            {
+              "question": "If Andorra aims to diversify its export markets beyond Spain and France, which of the following policy measures would be most effective in the short to medium term to enhance exports to the United States?",
+              "options": [
+                "Negotiating bilateral trade agreements to reduce tariffs and non-tariff barriers with the United States.",
+                "Increasing export subsidies exclusively for goods shipped to the United States.",
+                "Restricting exports to Spain and France to force market diversification towards the US.",
+                "Focusing on improving transportation infrastructure within Andorra to reduce shipping times to the US."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Bilateral trade agreements can directly reduce tariffs and non-tariff barriers, making Andorran goods more competitive in the US market. This is a practical and strategic approach to market diversification.",
+                "1": "Incorrect: While export subsidies can help, focusing them exclusively on the US market may not be sustainable or effective without addressing trade barriers and market access.",
+                "2": "Incorrect: Restricting exports to traditional partners like Spain and France could harm Andorra's economy and is not a viable policy to encourage diversification; market expansion should be additive, not coercive.",
+                "3": "Incorrect: Improving internal transportation infrastructure is less relevant for exports to the US, as the main logistical challenges lie in international shipping and customs, not internal transit."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:32.747349",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 111,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Andorra_2_18",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 19,
+          "bullet_point_text": "• Imports totaled US$1.727 billion in 2020, ranking 178th worldwide.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's import statistics in 2020, which of the following best explains the implications of its import ranking (178th worldwide) on its economic structure and trade dependencies?",
+              "options": [
+                "The import ranking reflects Andorra's strategic focus on export-led growth rather than domestic consumption.",
+                "A relatively low import ranking indicates Andorra has a predominantly self-sufficient economy with minimal reliance on foreign goods.",
+                "The import ranking suggests Andorra's economy is small in scale but likely highly dependent on imports due to limited domestic production capacity.",
+                "A low import ranking implies that Andorra primarily exports raw materials rather than importing finished goods."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. The import ranking alone does not indicate an export-led growth strategy; Andorra's economy is more service and tourism-driven, with imports supporting domestic consumption.",
+                "1": "Incorrect. A low import ranking does not necessarily mean self-sufficiency; small economies often rely heavily on imports despite low absolute values.",
+                "2": "Correct. Andorra's low import ranking is consistent with a small economy that depends on imports for many goods due to limited domestic production, reflecting its economic scale rather than self-sufficiency.",
+                "3": "Incorrect. Andorra is not known for exporting raw materials extensively; its economy is service-oriented, so this option misinterprets the import ranking."
+              }
+            },
+            {
+              "question": "Considering Andorra's imports totaled US$1.727 billion in 2020, which of the following policy measures would be most effective for the government to reduce trade vulnerability without harming its economic openness?",
+              "options": [
+                "Encouraging import substitution by mandating local production of all goods currently imported.",
+                "Implementing high tariffs on imported goods to protect nascent domestic industries.",
+                "Promoting diversification of import sources to mitigate risks associated with overdependence on a few countries.",
+                "Restricting imports to only essential goods to conserve foreign exchange reserves."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Mandating local production of all imported goods is impractical given Andorra's limited industrial base and would likely harm economic efficiency.",
+                "1": "Incorrect. High tariffs could harm economic openness and increase consumer prices, which is counterproductive for a small open economy like Andorra.",
+                "2": "Correct. Diversifying import sources reduces dependency risks and maintains openness, balancing economic resilience with trade benefits.",
+                "3": "Incorrect. Restricting imports broadly could disrupt supply chains and economic activities, especially in a small economy reliant on diverse imports."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:30.154882",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 68,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_2_19",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 20,
+          "bullet_point_text": "• Import commodities include cars, refined petroleum, perfumes, shaving products, and liquors (2019).",
+          "questions": [
+            {
+              "question": "In the context of Andorra's import profile including cars, refined petroleum, perfumes, shaving products, and liquors, which of the following best explains the economic implications of such import composition on Andorra's trade balance and domestic market?",
+              "options": [
+                "The import of perfumes and shaving products implies a focus on industrial manufacturing rather than consumer retail.",
+                "High import of luxury and refined goods indicates a trade deficit but supports a strong domestic consumption pattern driven by tourism.",
+                "Importing refined petroleum suggests Andorra is a major energy exporter relying on imported raw materials for refining.",
+                "Heavy reliance on car imports indicates a domestic automotive manufacturing industry that exports finished vehicles."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Perfumes and shaving products are typically consumer goods rather than industrial inputs, indicating a consumption-driven market rather than manufacturing focus.",
+                "1": "Correct. Andorra's import of luxury and refined goods like cars, perfumes, and liquors reflects its role as a consumer market catering to both residents and tourists. This import pattern often leads to a trade deficit but supports domestic consumption and tourism-driven economic activity.",
+                "2": "Incorrect. Refined petroleum import indicates Andorra imports finished energy products rather than raw materials, as it lacks refining capacity. It is not a major energy exporter but an energy consumer reliant on imports.",
+                "3": "Incorrect. Heavy car imports suggest dependence on foreign automotive products rather than a domestic manufacturing base; Andorra is not known for automotive production or exports."
+              }
+            },
+            {
+              "question": "Considering Andorra's import commodities such as refined petroleum and luxury goods, which policy measure would most effectively enhance its economic resilience against external supply shocks?",
+              "options": [
+                "Developing domestic production capacities for refined petroleum and luxury goods to reduce import dependence.",
+                "Implementing tariffs on imported luxury goods to protect local manufacturers and reduce imports.",
+                "Increasing subsidies on imported cars and perfumes to stabilize prices and maintain consumption levels.",
+                "Diversifying the economy by promoting sectors less reliant on imported refined petroleum and luxury goods."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. Developing domestic production for refined petroleum is capital-intensive and impractical for a small country like Andorra; similarly, luxury goods production requires specialized industries not currently present.",
+                "1": "Incorrect. Imposing tariffs on luxury imports may reduce imports but could harm the tourism sector and consumer demand, as many luxury goods cater to tourists and residents alike.",
+                "2": "Incorrect. Subsidizing imports increases fiscal burden and does not address underlying vulnerabilities; it may encourage continued dependence rather than resilience.",
+                "3": "Correct. Diversifying the economy to reduce reliance on imports of refined petroleum and luxury goods enhances resilience by mitigating risks from external supply disruptions and price volatility."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:32.767360",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 101,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_2_20",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 21,
+          "bullet_point_text": "• Main import partners are Spain (71%) and France (17%) as of 2019.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's import dependencies, which of the following best explains the economic risks associated with having Spain and France as the primary import partners accounting for nearly 88% of imports?",
+              "options": [
+                "High import shares from Spain and France imply that Andorra has a trade surplus with these countries, strengthening its currency.",
+                "Dependence on Spain and France reduces Andorra's incentive to diversify its domestic production, fostering economic self-sufficiency.",
+                "Such import concentration guarantees stable prices and supply due to strong bilateral trade agreements with these neighbors.",
+                "Heavy reliance on a limited number of countries can expose Andorra to supply chain disruptions due to political or economic instability in Spain or France."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. A high import share from these countries suggests Andorra imports more than it exports to them, likely resulting in a trade deficit rather than surplus, which does not strengthen its currency.",
+                "1": "Incorrect. High import dependence often discourages domestic production diversification, but this leads to economic vulnerability rather than self-sufficiency.",
+                "2": "Incorrect. While bilateral agreements may exist, heavy dependence does not inherently guarantee stable prices or supply; external shocks in these countries can still cause volatility.",
+                "3": "Correct. Relying heavily on just two countries for imports makes Andorra vulnerable to disruptions if either country faces economic downturns, political tensions, or logistical issues, which can affect supply chains and prices."
+              }
+            },
+            {
+              "question": "If Andorra aims to enhance its economic resilience by diversifying its import partners beyond Spain and France, which of the following policy measures would be most effective in achieving this objective?",
+              "options": [
+                "Negotiating new trade agreements with non-neighboring countries to reduce overdependence on Spain and France.",
+                "Focusing solely on boosting domestic production without altering existing trade relations.",
+                "Maintaining current import patterns but increasing foreign direct investment from Spain and France.",
+                "Increasing tariffs on imports from Spain and France to discourage reliance on these countries."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Expanding trade agreements with a broader range of countries can diversify import sources, reducing risks associated with overdependence on Spain and France.",
+                "1": "Incorrect. While boosting domestic production is beneficial, without changing trade relations, import concentration risks remain; diversification requires external engagement.",
+                "2": "Incorrect. Increasing FDI from Spain and France deepens economic ties with the same partners, which does not reduce import dependence or enhance resilience.",
+                "3": "Incorrect. Raising tariffs on key partners could provoke trade disputes and increase costs, potentially harming Andorra's economy without guaranteeing alternative suppliers."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:29.280876",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 67,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Andorra_2_21",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 22,
+          "bullet_point_text": "• External debt was zero dollars in 2016.",
+          "questions": [
+            {
+              "question": "In the context of Andorra having zero external debt in 2016, which of the following is the most appropriate explanation for how this might affect its economic resilience compared to countries with high external debt?",
+              "options": [
+                "It leads to higher inflation due to lack of external borrowing to stabilize the currency.",
+                "It limits economic growth potential by restricting access to international capital markets for development projects.",
+                "It enhances economic resilience by reducing vulnerability to external financial shocks and currency fluctuations.",
+                "It increases dependency on foreign aid and grants to finance government expenditure."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Inflation is not directly caused by lack of external borrowing; in fact, excessive borrowing can sometimes fuel inflation. Currency stabilization depends on monetary policy, not just debt levels.",
+                "1": "Incorrect: While borrowing can finance growth, zero external debt does not necessarily limit growth; countries can use internal resources or alternative financing. Moreover, high external debt can increase vulnerability.",
+                "2": "Correct: Zero external debt means Andorra is less exposed to risks from exchange rate volatility and sudden stops in capital flows, enhancing its economic stability and resilience against external shocks.",
+                "3": "Incorrect: Zero external debt does not imply dependency on foreign aid; Andorra’s fiscal position and economic model may allow self-sufficiency without external aid."
+              }
+            },
+            {
+              "question": "If Andorra were to consider taking on external debt in the future, which of the following policy implications should its government prioritize to maintain fiscal sustainability given its historical zero external debt status?",
+              "options": [
+                "Establishing stringent debt management frameworks to ensure borrowed funds are invested in high-return projects.",
+                "Increasing tariffs and trade barriers to protect domestic industries from foreign competition.",
+                "Reducing tax revenues to encourage private sector growth and offset the debt burden.",
+                "Relying primarily on short-term external borrowing to meet immediate fiscal needs."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: To maintain fiscal sustainability, especially transitioning from zero external debt, it is crucial to have strong debt management and ensure borrowed funds generate returns that exceed borrowing costs.",
+                "1": "Incorrect: Increasing tariffs may protect industries but can reduce trade efficiency and does not directly address debt sustainability or effective use of borrowed funds.",
+                "2": "Incorrect: Reducing tax revenues without compensatory fiscal measures can worsen fiscal deficits and increase debt burden, undermining sustainability.",
+                "3": "Incorrect: Relying on short-term external borrowing increases refinancing risks and vulnerability to market fluctuations, which is not advisable for fiscal sustainability."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:36.770648",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 41,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Andorra_2_22",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 23,
+          "bullet_point_text": "• Andorra does not receive any economic aid.",
+          "questions": [
+            {
+              "question": "In the context of Andorra not receiving any economic aid, which of the following best explains the potential impact on its economic policy autonomy compared to countries dependent on foreign aid?",
+              "options": [
+                "Andorra likely enjoys greater economic policy autonomy as it is not influenced by donor conditions tied to aid.",
+                "Andorra must rely heavily on international loans, limiting its policy choices despite no aid.",
+                "Andorra’s economy is more vulnerable to external shocks due to the absence of financial buffers from aid.",
+                "Andorra’s lack of aid means it cannot engage in international trade agreements effectively."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Without reliance on economic aid, Andorra is less subject to conditions or policy prescriptions often attached to aid, allowing it to formulate and implement economic policies independently.",
+                "1": "Incorrect: The statement assumes aid absence forces dependence on loans, but Andorra’s economic model and fiscal health may allow it to avoid excessive borrowing.",
+                "2": "Incorrect: While aid can provide financial buffers, absence of aid does not inherently increase vulnerability; Andorra’s stable economy and other factors may mitigate this risk.",
+                "3": "Incorrect: Lack of aid does not directly impede a country’s ability to negotiate trade agreements; trade policy is generally independent of aid status."
+              }
+            },
+            {
+              "question": "If Andorra were to consider introducing targeted economic aid programs from international organizations, which of the following policy implications would be most relevant based on its current status of receiving no aid?",
+              "options": [
+                "It would need to balance maintaining its economic sovereignty with meeting donor conditionalities.",
+                "It would face no changes in its fiscal policy as aid does not influence domestic economic decisions.",
+                "It would automatically improve its credit rating due to increased international support.",
+                "It would reduce the need to diversify its economy since aid would cover all fiscal deficits."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Introducing aid would likely require Andorra to comply with certain donor conditions, potentially impacting its policy autonomy and requiring careful balancing.",
+                "1": "Incorrect: Aid often influences fiscal policy decisions, especially if tied to reforms or specific sectoral investments.",
+                "2": "Incorrect: Receiving aid does not automatically improve credit ratings; ratings depend on broader fiscal and economic fundamentals.",
+                "3": "Incorrect: Aid is typically supplemental and does not eliminate the need for economic diversification or sound fiscal management."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:36.063256",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 44,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_2_23",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 24,
+          "bullet_point_text": "• The official currency is the Euro, which has replaced the French franc and Spanish peseta.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's adoption of the Euro replacing the French franc and Spanish peseta, which of the following best explains the potential economic impact on Andorra's trade and monetary stability?",
+              "options": [
+                "It leads to increased inflation in Andorra due to the Euro's higher value compared to the French franc and Spanish peseta.",
+                "It simplifies cross-border trade by eliminating currency exchange risks with Eurozone neighbors, enhancing economic integration.",
+                "It reduces Andorra's monetary policy autonomy, making it vulnerable to Eurozone-wide economic fluctuations without direct control.",
+                "It allows Andorra to independently print Euros to manage its domestic economic needs."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Currency adoption does not inherently cause inflation; inflation depends on broader economic factors. The Euro's value relative to the replaced currencies does not automatically translate to inflation in Andorra.",
+                "1": "Correct. Using the Euro aligns Andorra's currency with its main trading partners (France and Spain), reducing exchange rate risks and transaction costs, thereby facilitating smoother trade and economic integration.",
+                "2": "Incorrect. While adopting the Euro does reduce monetary policy autonomy, this is a consequence rather than a direct economic impact on trade and stability. The question asks for the best explanation related to trade and monetary stability, which is better captured by option 0.",
+                "3": "Incorrect. Andorra, as a non-Eurozone member, cannot print Euros independently; the European Central Bank controls Euro issuance. This option is factually incorrect and misunderstands the nature of Euro adoption."
+              }
+            },
+            {
+              "question": "If Andorra were to consider policy measures to strengthen its economic resilience, which of the following strategies would be most appropriate given its use of the Euro as official currency?",
+              "options": [
+                "Expanding the domestic money supply to finance public expenditure.",
+                "Implementing independent interest rate adjustments to control inflation.",
+                "Enhancing fiscal policy tools since monetary policy is constrained by Euro adoption.",
+                "Increasing currency devaluation to boost export competitiveness."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect. Expanding the domestic money supply is not feasible for Andorra as it does not have sovereign control over the Euro currency issuance.",
+                "1": "Incorrect. Interest rates are set by the European Central Bank for the entire Eurozone; Andorra cannot independently adjust interest rates to control inflation.",
+                "2": "Correct. Since Andorra uses the Euro and does not control its own monetary policy, fiscal policy (government spending and taxation) becomes the primary tool to influence economic resilience and growth.",
+                "3": "Incorrect. Currency devaluation is not possible for Andorra because it does not issue its own currency; it uses the Euro, whose value is set by the European Central Bank."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:38.116510",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 92,
+            "options_randomized": true,
+            "api_key_used": "key_5",
+            "task_id": "Economy of Andorra_2_24",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 25,
+          "bullet_point_text": "• Exchange rates fluctuated over the years, with the Euro per US dollar being 0.845 in 2021, 0.6827 in 2008, 0.7306 in 2007, and other values from 2002 to 2006.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the potential impact of fluctuations in the Euro per US dollar exchange rate between 2007 and 2021 on its trade and tourism sectors?",
+              "options": [
+                "Exchange rate fluctuations have minimal impact on Andorra's economy since it primarily uses the US dollar for domestic transactions.",
+                "A weaker Euro relative to the US dollar generally makes Andorran exports cheaper and more competitive in the US market, potentially boosting trade.",
+                "A stronger Euro relative to the US dollar discourages American tourists due to higher travel costs, negatively affecting Andorra's tourism revenue.",
+                "A stable Euro to US dollar exchange rate would reduce uncertainties for Andorran businesses engaged in international trade and tourism."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Andorra primarily uses the Euro for transactions, not the US dollar. Therefore, fluctuations in the Euro to US dollar exchange rate do affect its economy, especially through trade and tourism involving US dollar transactions.",
+                "1": "Correct. A weaker Euro (lower Euro per US dollar rate) means the Euro has less value compared to the dollar, making Andorran goods and services cheaper for US buyers, which can boost exports and attract more American tourists.",
+                "2": "Incorrect. A stronger Euro means the Euro is more valuable relative to the dollar, making travel and purchases in Andorra more expensive for Americans, which can reduce tourism revenue; however, this option incorrectly states the effect as discouraging tourists due to higher costs but does not connect it explicitly to the exchange rate direction as clearly as option A.",
+                "3": "Incorrect. While stability in exchange rates can reduce uncertainty, the question focuses on the impact of fluctuations. The statement is true in general but does not explain the impact of fluctuations themselves, which is the core of the question."
+              }
+            },
+            {
+              "question": "Considering the exchange rate trends of the Euro against the US dollar from 2007 to 2021, which of the following policy measures would be most appropriate for Andorra to stabilize its economy against external shocks?",
+              "options": [
+                "Implementing a currency hedging mechanism for businesses involved in US dollar transactions to mitigate exchange rate risks.",
+                "Reducing tourism promotion efforts in the US market to minimize exposure to exchange rate volatility.",
+                "Adopting a fixed exchange rate regime pegged to the US dollar to eliminate fluctuations and ensure trade stability.",
+                "Increasing tariffs on US imports to offset the effects of a weaker Euro and protect domestic industries."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct. Currency hedging allows businesses to protect themselves against adverse exchange rate movements, which is practical for a small economy like Andorra that cannot control global currency fluctuations.",
+                "1": "Incorrect. Reducing tourism promotion in the US market would likely harm Andorra's tourism sector; managing exchange rate risks is better done through financial instruments rather than reducing market engagement.",
+                "2": "Incorrect. Adopting a fixed exchange rate pegged to the US dollar is impractical for Andorra since it uses the Euro and does not control the Euro's monetary policy; moreover, it would expose Andorra to risks from Eurozone monetary decisions.",
+                "3": "Incorrect. Increasing tariffs to counteract currency depreciation can provoke trade disputes and reduce competitiveness; it is generally counterproductive in a small, open economy reliant on trade and tourism."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:41.520327",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 160,
+            "options_randomized": true,
+            "api_key_used": "key_2",
+            "task_id": "Economy of Andorra_2_25",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        },
+        {
+          "bullet_point_index": 26,
+          "bullet_point_text": "• The fiscal year follows the calendar year.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the significance of the fiscal year aligning with the calendar year for economic planning and statistical reporting?",
+              "options": [
+                "It facilitates synchronization of economic data with international financial institutions that also follow the calendar year.",
+                "It enables the government to implement mid-year budget revisions more effectively.",
+                "It reduces the complexity of tax collection by splitting the fiscal year into two halves.",
+                "It allows Andorra to avoid seasonal economic fluctuations by shifting fiscal reporting periods."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Aligning the fiscal year with the calendar year simplifies coordination with international bodies like the IMF or World Bank, which commonly use calendar-year data, enhancing comparability and transparency in economic reporting.",
+                "1": "Incorrect: Mid-year budget revisions are not directly facilitated by the fiscal year alignment; such revisions depend on policy frameworks rather than fiscal year timing.",
+                "2": "Incorrect: Tax collection complexity is not necessarily reduced by splitting the fiscal year; in fact, splitting would complicate tax administration rather than simplify it.",
+                "3": "Incorrect: Aligning with the calendar year does not inherently avoid seasonal fluctuations; rather, seasonal effects persist regardless of fiscal year timing."
+              }
+            },
+            {
+              "question": "If Andorra were to shift its fiscal year away from the calendar year to a non-calendar fiscal year, which of the following policy implications would most likely arise?",
+              "options": [
+                "Reduction in administrative costs related to tax filing and budget preparation.",
+                "Enhanced capacity to implement tax reforms mid-way through the calendar year.",
+                "Improved ability to align fiscal policies with agricultural cycles predominant in Andorra’s economy.",
+                "Difficulty in comparing Andorra’s economic statistics with those of major trading partners and international organizations."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Changing fiscal year often increases administrative complexity and costs initially due to adjustments in reporting and compliance systems.",
+                "1": "Incorrect: Fiscal year changes do not inherently improve mid-year tax reform implementation; such reforms depend on legislative and administrative processes.",
+                "2": "Incorrect: Andorra’s economy is primarily service-oriented (tourism, finance), not agriculture, so aligning fiscal year with agricultural cycles is unlikely to be beneficial.",
+                "3": "Correct: Changing the fiscal year away from the calendar year would complicate direct comparison of economic data with countries and institutions that use the calendar year, potentially affecting economic analysis and international cooperation."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:39.030099",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 44,
+            "options_randomized": true,
+            "api_key_used": "key_3",
+            "task_id": "Economy of Andorra_2_26",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2"
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Economy of Andorra",
+      "section_name": "Generated Section",
+      "section_number": "2.1",
+      "source_file": "extracted_economy_of_andorra.json",
+      "original_index": 2,
+      "total_bullet_points": 3,
+      "bullet_points": [
+        {
+          "bullet_point_index": 0,
+          "bullet_point_text": "• In 2022, the sector with the highest number of registered companies in Andorra was Services, accounting for 2,515 companies.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy in 2022, which of the following best explains the predominance of the Services sector in terms of the number of registered companies?",
+              "options": [
+                "The Services sector in Andorra primarily includes extractive industries, which are the main economic drivers.",
+                "Andorra's large population demands extensive industrial production, which indirectly boosts the services sector.",
+                "The mountainous terrain of Andorra limits agricultural and industrial activities, encouraging growth in service-oriented businesses.",
+                "Government policies in Andorra heavily subsidize manufacturing industries, leading to a higher number of service companies as a secondary effect."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Extractive industries (like mining) are not classified under services and are not the main economic drivers in Andorra; the services sector mainly includes tourism, finance, and retail.",
+                "1": "Incorrect: Andorra has a small population and limited industrial base; thus, large industrial production is unlikely and does not explain the dominance of services.",
+                "2": "Correct: Andorra's geography, characterized by mountainous terrain, restricts large-scale agriculture and heavy industry, making services like tourism, finance, and retail more viable and dominant sectors for company registration.",
+                "3": "Incorrect: While government subsidies can influence sector growth, the statement incorrectly claims subsidies target manufacturing, which would not logically increase service companies as a secondary effect; rather, manufacturing would grow directly."
+              }
+            },
+            {
+              "question": "If Andorra aims to diversify its economy by reducing over-reliance on the Services sector, which of the following policy measures would be most effective considering the current economic structure?",
+              "options": [
+                "Investing in sustainable mountain agriculture and promoting agro-tourism to complement existing service industries.",
+                "Focusing solely on expanding the financial services segment to attract more international companies.",
+                "Restricting foreign investment in the Services sector to force growth in manufacturing and agriculture.",
+                "Increasing corporate tax rates on service companies to discourage their formation and encourage industrial ventures."
+              ],
+              "correct": 0,
+              "explanations": {
+                "0": "Correct: Given Andorra's geography and current economic structure, promoting sustainable mountain agriculture and agro-tourism can diversify the economy while leveraging natural advantages, complementing the services sector rather than undermining it.",
+                "1": "Incorrect: Expanding financial services further deepens reliance on the Services sector, contrary to the goal of diversification.",
+                "2": "Incorrect: Restricting foreign investment in services may reduce overall economic dynamism and does not directly promote growth in manufacturing or agriculture, which require different support.",
+                "3": "Incorrect: Raising corporate taxes on service companies could harm the economy by discouraging entrepreneurship without guaranteeing growth in other sectors, especially given structural constraints."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:44.560141",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 126,
+            "options_randomized": true,
+            "api_key_used": "key_1",
+            "task_id": "Economy of Andorra_2.1_0",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2.1"
+          }
+        },
+        {
+          "bullet_point_index": 1,
+          "bullet_point_text": "• The Retail Trade sector had the second-highest number of registered companies, totaling 1,157.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains the likely economic impact of the Retail Trade sector having the second-highest number of registered companies?",
+              "options": [
+                "It suggests that the economy is overly dependent on retail, making it vulnerable to global supply chain disruptions.",
+                "It reflects a government policy focused exclusively on promoting retail trade over other sectors like manufacturing or tourism.",
+                "It implies that most retail companies are state-owned, limiting private sector competition and innovation.",
+                "It indicates a diversified economy with significant consumer demand driving employment and local business growth."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect. While dependence on retail can create vulnerabilities, having the second-highest number of companies does not necessarily mean over-dependence. Other sectors may still be robust, and the statement assumes a risk without evidence of dominance or lack of diversification.",
+                "1": "Incorrect. The statement assumes exclusive government policy focus on retail, which is unlikely. Economies generally promote multiple sectors, especially in a country like Andorra where tourism and finance are also important. The data point alone does not indicate policy exclusivity.",
+                "2": "Incorrect. There is no indication that retail companies are predominantly state-owned. In fact, retail sectors are often characterized by private ownership and competition. Assuming state ownership limits competition contradicts typical retail sector dynamics.",
+                "3": "Correct. A high number of registered companies in retail trade usually reflects strong consumer demand and a diversified economy where retail plays a key role in employment and business activity. This aligns with typical economic structures where retail supports both local consumption and tourism."
+              }
+            },
+            {
+              "question": "If the Andorran government aims to stimulate economic growth by leveraging the Retail Trade sector, which of the following policy measures would be most effective considering the sector's prominence in registered companies?",
+              "options": [
+                "Nationalizing major retail chains to ensure equitable distribution of goods and control over prices.",
+                "Providing tax incentives and easing licensing procedures for small and medium retail enterprises to encourage expansion and formalization.",
+                "Redirecting investment exclusively towards manufacturing industries to reduce over-reliance on retail trade.",
+                "Imposing stricter regulations on retail imports to protect local retailers from foreign competition."
+              ],
+              "correct": 1,
+              "explanations": {
+                "0": "Incorrect. Nationalizing retail chains is a drastic measure that can reduce competition, innovation, and efficiency. It is generally counterproductive in a sector characterized by many private enterprises and consumer-driven dynamics.",
+                "1": "Correct. Tax incentives and streamlined licensing encourage growth and formalization of retail businesses, which can boost employment and economic activity, especially when retail is a significant sector with many registered companies.",
+                "2": "Incorrect. Redirecting investment exclusively to manufacturing ignores the existing strength and potential of the retail sector. Balanced growth across sectors is generally more sustainable than focusing on one at the expense of another.",
+                "3": "Incorrect. While protecting local retailers may seem beneficial, stricter import regulations can reduce consumer choice and increase prices, potentially harming the sector’s competitiveness and consumer welfare."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:43.029685",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 96,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Andorra_2.1_1",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2.1"
+          }
+        },
+        {
+          "bullet_point_index": 2,
+          "bullet_point_text": "• The Wholesale Trade sector ranked third in terms of registered companies, with a total of 1,144.",
+          "questions": [
+            {
+              "question": "In the context of Andorra's economy, which of the following best explains why the Wholesale Trade sector ranks third in terms of registered companies?",
+              "options": [
+                "The dominance of tourism in Andorra reduces the need for Wholesale Trade, limiting its growth despite the number of companies.",
+                "Government policies in Andorra heavily subsidize Wholesale Trade, making it the most attractive sector for new businesses.",
+                "The sector benefits from Andorra's strategic location as a transit hub between Spain and France, facilitating trade activities.",
+                "Wholesale Trade companies require less capital investment compared to other sectors, encouraging more registrations."
+              ],
+              "correct": 2,
+              "explanations": {
+                "0": "Incorrect: Tourism is dominant in Andorra, but this generally boosts Wholesale Trade by increasing demand for goods, rather than limiting it; hence, this option contradicts the observed high number of companies.",
+                "1": "Incorrect: There is no strong evidence that government subsidies specifically favor Wholesale Trade over other sectors in Andorra; thus, subsidies are unlikely the main cause of its ranking.",
+                "2": "Correct: Andorra's geographic position between Spain and France makes it a natural transit and trade hub, which logically supports a strong Wholesale Trade sector with many registered companies.",
+                "3": "Incorrect: While capital requirements can influence company registrations, Wholesale Trade often involves significant inventory and logistic costs, so lower capital investment is not a primary reason for its ranking."
+              }
+            },
+            {
+              "question": "If the Andorran government aims to diversify its economy by reducing reliance on Wholesale Trade companies, which of the following policy measures would be most effective?",
+              "options": [
+                "Increasing import tariffs to protect Wholesale Trade companies from foreign competition.",
+                "Restricting the registration of new Wholesale Trade companies to limit sector growth.",
+                "Enhancing infrastructure exclusively for Wholesale Trade to improve efficiency and competitiveness.",
+                "Implementing tax incentives for emerging sectors like technology and renewable energy to attract new companies."
+              ],
+              "correct": 3,
+              "explanations": {
+                "0": "Incorrect: Increasing import tariffs may protect Wholesale Trade companies but would reinforce their dominance rather than diversify the economy.",
+                "1": "Incorrect: Restricting company registrations in Wholesale Trade could have negative economic consequences and may not foster growth in other sectors without complementary supportive policies.",
+                "2": "Incorrect: Enhancing infrastructure solely for Wholesale Trade would strengthen the existing sector, counteracting the objective of economic diversification.",
+                "3": "Correct: Providing tax incentives to emerging sectors encourages diversification by attracting businesses outside the dominant Wholesale Trade sector, aligning with the goal of reducing economic reliance."
+              }
+            }
+          ],
+          "generation_metadata": {
+            "generated_timestamp": "2025-08-04T01:02:40.699699",
+            "openai_model": "gpt-4.1-mini",
+            "questions_count": 2,
+            "bullet_point_length": 98,
+            "options_randomized": true,
+            "api_key_used": "key_4",
+            "task_id": "Economy of Andorra_2.1_2",
+            "chapter_name": "Economy of Andorra",
+            "section_number": "2.1"
+          }
+        }
+      ]
+    }
+  ]
+}

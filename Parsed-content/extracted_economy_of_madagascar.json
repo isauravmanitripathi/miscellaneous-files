@@ -1,0 +1,354 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_madagascar.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.298177",
+    "total_sections_in_source": 13,
+    "extracted_sections_count": 13,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2020, Madagascar's economy has a gross domestic product (GDP) of US$9.769 billion, characterized as a market economy supported primarily by agriculture alongside emerging tourism, textile, and mining industries.",
+        "• The agricultural sector in Madagascar produces tropical staple crops including rice and cassava, as well as cash crops such as vanilla and coffee, which are significant to the economy.",
+        "• Madagascar benefits from export exemptions under customs protocols in certain regions, notably with the United States and the European Union, which have facilitated the growth of the Malagasy textile industry.",
+        "• The 2009 Malagasy political crisis, widely regarded by the international community as an illegal coup, led to a decline in foreign investment and negatively impacted the Malagasy economy.",
+        "• Foreign investments in Madagascar began to resume following the resumption of elections in early 2014, signaling a recovery phase for the economy.",
+        "• The United Nations classifies Madagascar as a least developed country, reflecting ongoing economic and developmental challenges.",
+        "• By 2024, Madagascar's economy is recognized as one of the fastest growing economies globally, indicating significant economic progress despite previous setbacks.",
+        "• The article notes that the economy’s per capita GDP has undergone changes from 1950 to 2018, with figures adjusted for inflation to 2011 International dollars, highlighting long-term economic trends.",
+        "• The article requires additional citations for verification and broader contextual evaluation, as it currently focuses too much on specific examples without sufficient sourcing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:18:35.334567",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Successive French colonial and independence-era governments have aimed to modernize Madagascar's economy, beginning with land use projects established by French settlers and Creole immigrants from the Mascarene Islands during the nineteenth and twentieth centuries.",
+        "• These settlers introduced cash crops such as coffee, sugarcane, vanilla, cloves, and sisal for export, and developed small-scale mining operations to exploit Madagascar's graphite, chromite, and uranium resources.",
+        "• To support commodity processing and marketing, immigrants founded financial and commercial enterprises and constructed a small, modern railroad system, integrating some Malagasy as wage laborers, sharecroppers on plantations, or low-level employees in civil service and business enterprises, while foreign owners retained most benefits.",
+        "• After independence, the Philibert Tsiranana regime maintained French dominance over the modern economic sector, despite growing public outrage over economic dependence and unequal wealth distribution, particularly affecting the southern and western regions.",
+        "• This discontent led to Tsiranana's ouster in 1972 and a policy shift under the military regime of Gabriel Ramanantsoa, which severed most ties with France and initiated efforts to \"Malagachize\" the economy, though progress was slow and contributed to Ramanantsoa's fall in mid-1975.",
+        "• Didier Ratsiraka's presidency, beginning in 1975, marked a vigorous takeover of formerly French-dominated enterprises and implementation of a \"revolution from above,\" aiming to socialize the economy through nationalization of major enterprises.",
+        "• Under Ratsiraka, the state acquired majority or minority ownership in nearly all large financial, transportation, marketing, mining, and manufacturing enterprises; private firms were subjected to state-controlled pricing and profit repatriation monitoring.",
+        "• In the rural sector, Ratsiraka promoted the establishment of local farming cooperatives and announced an economic plan for 1978-80 to dramatically increase government capital investment across all sectors to improve goods and services availability.",
+        "• By the early 1980s, Ratsiraka's socialist institutional reforms and increased investment failed to enhance economic production or welfare; economic growth lagged behind population growth, and per capita income remained among the world's lowest despite abundant agricultural and mineral resources.",
+        "• The heightened investment levels during 1978-80 primarily resulted in substantial foreign debt, leading to structural adjustment agreements with the International Monetary Fund (IMF) and the World Bank throughout the 1980s and early 1990s.",
+        "• A 1993 World Bank study revealed that Madagascar's per capita income declined by 40 percent between 1971 and 1991, underscoring the failure of the socialist economic model.",
+        "• Acknowledging the failure of economic centralization and state control, the Ratsiraka regime began a return to a liberal economic model in 1980, which was fully embraced by the Albert Zafy regime after its 1993 inauguration.",
+        "• Post-1980 Ratsiraka and Zafy administrations implemented privatization of parastatals, dismantled agricultural marketing boards, ratified liberal investment codes favoring foreign investment, privatized the banking sector, diversified traditional primary-product exports, and increased investment in food production.",
+        "• The Zafy regime prioritized revitalizing the Malagasy economy as its foremost objective.",
+        "• As of 1994, the majority of Malagasy people continued traditional livelihoods, including small-scale farming with irrigated rice cultivation, dryland farming of cassava and other crops, zebu cattle herding, and cash crop production.",
+        "• On April 2, 2025, former U.S. President Donald J. Trump declared \"reciprocal tariffs\" of 47% on Madagascar, jeopardizing exports, notably Madagascar's production of approximately 80% of the world's vanilla supply."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:18:51.329106",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Madagascar produced 4 million tons of rice, making it the country's highest-yielding agricultural product by volume.",
+        "• The country also produced 3.1 million tons of sugarcane in 2018, ranking as its second-largest crop by production weight.",
+        "• Cassava production reached 2.5 million tons in 2018, reflecting its importance as a staple food crop in Madagascar.",
+        "• Sweet potato output was recorded at 1 million tons in 2018, contributing significantly to the root crop sector.",
+        "• Vegetable production totaled 388 thousand tons in 2018, indicating a diverse range of cultivated vegetables.",
+        "• Banana production was 383 thousand tons in 2018, highlighting its role as a key fruit crop.",
+        "• Madagascar produced 300 thousand tons of mangoes in 2018, including related fruits such as mangosteen and guava.",
+        "• Potato production amounted to 257 thousand tons in 2018, supporting local food security and markets.",
+        "• Taro production was 230 thousand tons in 2018, an important traditional root crop in Madagascar.",
+        "• Maize output reached 215 thousand tons in 2018, serving as a staple cereal crop.",
+        "• Pineapple production was 93 thousand tons in 2018, contributing to the country's tropical fruit exports.",
+        "• Bean production totaled 86 thousand tons in 2018, supporting both nutrition and agricultural diversity.",
+        "• Orange production was 83 thousand tons in 2018, reflecting cultivation of citrus fruits.",
+        "• Coconut production reached 73 thousand tons in 2018, important for both domestic use and export.",
+        "• Smaller-scale agricultural products in 2018 included coffee at 57 thousand tons, cloves at 23 thousand tons, cocoa at 11 thousand tons, cashew nuts at 7 thousand tons, and vanilla at 3 thousand tons.",
+        "• Agriculture, encompassing fishing and forestry, constitutes Madagascar's largest industry and employs approximately 82% of the national labor force.",
+        "• Madagascar's climate is highly varied: tropical along the coastal regions, moderate in the highlands, and arid in the southern areas, enabling the cultivation of diverse tropical crops such as rice, cassava, beans, and bananas.",
+        "• In 2011, agricultural products including cloves, vanilla, cacao, sugar, pepper, and coffee ranked among Madagascar's top twelve exports by value, underscoring the sector's economic significance.",
+        "• Madagascar is the world's largest producer of vanilla, with Malagasy vanilla accounting for 80-85% of the global vanilla market share.",
+        "• In April 2025, Madagascar's vanilla exports to the United States were threatened due to the imposition of \"reciprocal tariffs\" amounting to 47%, declared by then U.S. President Donald J. Trump."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:19:04.420104",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The fishing industry in Madagascar operates with a fleet of 66 industrial fishing vessels.",
+        "• For the year 2023, fees and taxes collected from fishing licenses are estimated to amount to 3.6 billion Ariary, equivalent to US$80 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:19:06.771819",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3",
+      "section_name": "Textiles",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Madagascar's Export Processing Zones (EPZs), situated around the cities of Antananarivo and Antsirabe, serve as the primary hubs for the country's garment export industry.",
+        "• The majority of Madagascar's garment exports originate from these EPZs, highlighting their critical role in the textile sector.",
+        "• These garment exports benefit from significant trade advantages, being largely exempt from customs restrictions in the United States under the African Growth and Opportunity Act (AGOA).",
+        "• Similarly, Madagascar's garment exports enjoy preferential treatment in the European Union market under the Everything but Arms (EBA) agreement, which facilitates duty-free and quota-free access."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:19:11.481222",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "4",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mining constitutes a small but expanding segment of Madagascar's economy, with recent investments primarily focused on ilmenite extraction near Tulear and Fort Dauphin.",
+        "• The multinational mining corporation Rio Tinto commenced production at its Mandena mine in Fort Dauphin in January 2009, following several years of preparatory work.",
+        "• The Mandena mining project has generated significant controversy, with environmental organizations such as Friends of the Earth submitting reports that highlight concerns regarding the mine's environmental impact and its effects on local communities.",
+        "• Gemstone mining remains an important economic activity within Madagascar, contributing to the country's mineral sector.",
+        "• Several major mining and oil and gas projects are underway, which, if successful, are expected to substantially enhance Madagascar's economic prospects.",
+        "• In the mining sector, key projects include coal development at Sakoa and nickel extraction near Tamatave.",
+        "• The Ambatovy mine, a large-scale nickel and cobalt operation, involves multiple stakeholders: Sherritt International (40%), Sumitomo (27.5%), Korea Resources (27.5%), and SNC-Lavalin (5%).",
+        "• To date, the Ambatovy mine has incurred costs amounting to US$4.76 million and was scheduled to begin production in 2011.",
+        "• In the oil sector, Madagascar Oil is developing two significant onshore heavy oil fields: the Tsimiroro field, characterized by heavy oil, and the Bemolanga field, known for ultra-heavy oil reserves."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:19:19.364268",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "5",
+      "section_name": "Investment climate",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the 2002 political crisis in Madagascar, the government sought to rebuild confidence by coordinating with international financial institutions and donors, developing a recovery plan in collaboration with the private sector and donors, and presenting it at the \"Friends of Madagascar\" conference organized by the World Bank in Paris in July 2002.",
+        "• Donor countries pledged $1 billion in assistance over five years to demonstrate confidence in Madagascar’s new government after the 2002 political crisis.",
+        "• The Malagasy Government prioritized road infrastructure development and committed to public-private partnerships by establishing a joint public-private sector steering committee.",
+        "• The Madagascar-U.S. Business Council was established in 2002 as a collaboration between the United States Agency for International Development (USAID) and Malagasian artisan producers; the U.S.-Madagascar Business Council was formed in the United States in May 2003, with both organizations continuing to explore cooperative opportunities.",
+        "• Under former President Marc Ravalomanana, the government aggressively sought foreign investment by addressing obstacles such as corruption, reforming land-ownership laws, promoting the study of American and European business techniques, and actively pursuing foreign investors.",
+        "• Marc Ravalomanana, who rose to prominence through his agro-food company TIKO, attempted to apply business principles to government management during his presidency.",
+        "• Prior to Ravalomanana’s resignation, concerns emerged regarding conflicts of interest between his government policies and his business activities, notably the preferential treatment for rice imports initiated by the government in late 2004 during a domestic production shortfall.",
+        "• Madagascar’s attractiveness to investors is largely due to its competitive and trainable workforce; since the establishment of the export processing zone (EPZ) system in 1989, more than 200 investors, especially garment manufacturers, have been organized under this system.",
+        "• The absence of quota limits on textile imports to the European market under the Lomé Convention significantly stimulated growth in Madagascar’s garment manufacturing sector.",
+        "• Between 1992 and 1997, Madagascar’s economic output growth averaged less than the population growth rate, hindered by declining world coffee demand and inconsistent government commitment to economic reform.",
+        "• Despite solid economic growth from 1997 to 2001, poverty levels remained persistently high, particularly in rural areas.",
+        "• A six-month political crisis triggered by a disputed presidential election in December 2001 virtually halted economic activity in much of Madagascar during the first half of 2002.",
+        "• As a result of the 2002 crisis, real GDP contracted by 12.7%, foreign investment inflows dropped sharply, and Madagascar’s emerging reputation as an African Growth and Opportunity Act (AGOA) standout and promising investment destination was damaged.",
+        "• Following the crisis, Madagascar’s economy rebounded with GDP growth exceeding 10% in 2003.",
+        "• In 2004, currency depreciation and rising inflation hampered economic performance, with inflation reaching approximately 25% by year-end, although GDP growth still reached 5.3%.",
+        "• In 2005, inflation was brought under control through tight monetary policy, including raising the central bank’s _Taux Directeur_ (key interest rate) to 16% and tightening reserve requirements for banks, with economic growth expected to reach around 6.5%.",
+        "• During President Ravalomanana’s tenure, Madagascar adopted a series of business laws and regulations to improve the investment climate, including: the commercial companies law (2003), labor law (2003), regulations on the application of the commercial companies law (2004), public procurement law (2004), competition law (2005), foreign exchange law (2006), investment law (2007), and free zones and free enterprises law (2007)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:19:33.709247",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "6",
+      "section_name": "Food security, vulnerability and risk management",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Antananarivo, described as vibrant, serves as the political and economic capital of Madagascar.",
+        "• Madagascar, despite possessing abundant and diverse natural resources, ranks among the world's poorest countries.",
+        "• The country exhibits significant potential for agricultural development due to its large variety of soil types and climatic diversity.",
+        "• Agricultural production in Madagascar is constrained by natural hazards including cyclones, drought, and locust invasions.",
+        "• Traditional farming practices in Madagascar are considered old-fashioned and contribute to limiting agricultural productivity.",
+        "• Over the past 25 years, the standard of living for the Malagasy population has declined dramatically.",
+        "• Madagascar transitioned from being a net exporter of agricultural products in the 1960s to a net importer starting in 1971.",
+        "• Inappropriate traditional agricultural methods have caused soil erosion and a decline in soil quality.",
+        "• The degradation of soil quality threatens the fundamental basis of survival for the people of Madagascar."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:19:40.051465",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "7",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Madagascar possesses a high potential for photovoltaic (solar) power generation, indicating significant opportunities for solar energy development within the country.",
+        "• In 2018, only 15% of Madagascar's population had access to electricity, reflecting limited electrification at that time.",
+        "• By 2023, the percentage of the population with access to electricity in Madagascar increased to 34%, demonstrating notable progress in expanding electrical infrastructure and services.",
+        "• The technically feasible hydropower potential in Madagascar is approximately 180,000 GWh, representing a substantial renewable energy resource that remains largely untapped.",
+        "• Despite this potential, less than 1% of Madagascar’s hydropower capacity has been developed to date, indicating significant underutilization of available resources.",
+        "• The country currently has an installed hydropower capacity of 162 MW, which contributes to producing 61% of Madagascar’s total electricity supply, highlighting hydropower’s dominant role in the national energy mix.",
+        "• Although Madagascar has enormous potential for solar power exploitation, the general lack of infrastructure presents a major barrier to fully harnessing this renewable energy source."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:19:45.579939",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "8",
+      "section_name": "Poverty reduction",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2000, Madagascar initiated the preparation of a Poverty Reduction Strategy Paper (PRSP) as part of the Heavily Indebted Poor Countries (HIPC) Initiative to address national poverty issues.",
+        "• In December 2000, the boards of the International Monetary Fund (IMF) and the World Bank confirmed Madagascar’s eligibility under the HIPC Initiative and recognized that the country had reached the decision point for debt relief.",
+        "• On March 1, 2001, the IMF Board approved a grant of $103 million for Madagascar for the period 2001–2003 under the Poverty Reduction and Growth Facility (PRGF), aimed at improving access to health, education, rural roads, water, and providing direct support to communities.",
+        "• On March 7, 2001, the Paris Club agreed to cancel $161 million of Madagascar’s debt as part of the debt relief measures under the HIPC Initiative.",
+        "• On February 28, 2001, the African Development Bank (ADB) approved a debt cancellation of $71.46 million for Madagascar under the HIPC framework and subsequently granted an additional credit of $20 million in June 2001 to support efforts against AIDS and poverty.",
+        "• The combined effect of these debt relief credits and prior economic reforms contributed to Madagascar achieving average GDP growth rates that exceeded the population growth rate of 2.8% during the late 1990s and 2000, specifically 3.5% in 1997, 3.9% in 1998, 4.7% in 1999, and 4.8% in 2000.",
+        "• In October 2004, the IMF and World Bank boards determined that Madagascar had reached the completion point under the enhanced HIPC Initiative, marking a significant milestone in the country’s poverty reduction and debt relief process."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:19:52.567108",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "9",
+      "section_name": "Child labour",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Child labour is prevalent in Brickaville, a city located in the Atsinanana region of Madagascar, particularly in small-scale mining operations.",
+        "• Children working in Madagascar’s small-scale mines are involved in activities such as salt mining, quarry work, and the collection of gem and gold ore.",
+        "• Approximately 58% of children working in these mining operations are younger than 12 years old.",
+        "• According to the International Programme on the Elimination of Child Labour (IPEC), child labourers in these mines typically originate from families experiencing precarious economic conditions.",
+        "• A 2010 report from a United States-based organization estimated that about 22% of children in Madagascar aged 5 to 14 years, equating to over 1.2 million children, are engaged in work.",
+        "• A French-based group reported that the total number of child labourers in Madagascar exceeds 2.4 million, including over 540,000 children aged 5 to 9 years who are working.",
+        "• Approximately 87% of child labour in Madagascar occurs in the agricultural sector, with children involved primarily in the production of vanilla, tea, cotton, cocoa, copra (dried coconut meat), sisal, shrimp harvesting, and fishing.",
+        "• Malagasy children employed in domestic service work typically work an average of 12 hours per day.",
+        "• Multiple internationally funded initiatives aimed at reducing and preventing child labour in Madagascar were active prior to 2009.",
+        "• Following the 2009 coup d’état in Madagascar, many international donors, including the African Union, European Union, World Bank, and the United States, suspended funding, causing these child labour reduction efforts to cease."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:20:01.044082",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Main indicators",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The GDP of Madagascar in 1980 was 8.867 billion US$ PPP, with a GDP per capita of 1,021.7 US$ PPP, a nominal GDP of 5.202 billion US$, real GDP growth of 0.788%, inflation at 18.278%, and government debt data not available.",
+        "• In 1981, Madagascar's GDP slightly decreased to 8.755 billion US$ PPP, GDP per capita fell to 982.4 US$ PPP, nominal GDP was 4.759 billion US$, real GDP growth was negative at −9.800%, inflation rose to 30.457%, and government debt data remained unavailable.",
+        "• The year 1982 saw GDP increase to 9.119 billion US$ PPP, GDP per capita at 996.6 US$ PPP, nominal GDP at 4.785 billion US$, real GDP growth was −1.900%, inflation at 31.907%, with no government debt data.",
+        "• In 1983, GDP rose to 9.562 billion US$ PPP, GDP per capita to 1,017.7 US$ PPP, nominal GDP was 4.686 billion US$, real GDP growth was positive at 0.900%, inflation dropped to 19.469%, government debt data still unavailable.",
+        "• Madagascar’s GDP in 1984 reached 10.081 billion US$ PPP, GDP per capita was 1,045.0 US$ PPP, nominal GDP at 3.906 billion US$, real GDP growth at 1.760%, inflation reduced to 9.720%, government debt data not provided.",
+        "• In 1985, GDP increased to 10.520 billion US$ PPP, GDP per capita to 1,062.0 US$ PPP, nominal GDP was 3.803 billion US$, real GDP growth was 1.156%, inflation at 10.566%, government debt data unavailable.",
+        "• The 1986 economic indicators showed GDP at 10.942 billion US$ PPP, GDP per capita at 1,075.8 US$ PPP, nominal GDP at 4.348 billion US$, real GDP growth at 1.960%, inflation at 14.492%, with no government debt data.",
+        "• For 1987, GDP was 11.345 billion US$ PPP, GDP per capita 1,086.2 US$ PPP, nominal GDP 3.213 billion US$, real GDP growth 1.175%, inflation 15.461%, government debt data not recorded.",
+        "• In 1988, GDP increased to 12.145 billion US$ PPP, GDP per capita to 1,132.5 US$ PPP, nominal GDP was 3.189 billion US$, real GDP growth at 3.407%, inflation surged to 26.338%, government debt data unavailable.",
+        "• The year 1989 recorded GDP at 13.135 billion US$ PPP, GDP per capita 1,192.9 US$ PPP, nominal GDP 3.176 billion US$, real GDP growth 4.075%, inflation dropped to 9.017%, government debt data not available.",
+        "• In 1990, GDP reached 14.053 billion US$ PPP, GDP per capita 1,243.0 US$ PPP, nominal GDP 3.931 billion US$, real GDP growth 3.129%, inflation at 11.859%, and government debt was 92.701% of GDP.",
+        "• Madagascar's 1991 GDP decreased to 13.612 billion US$ PPP, GDP per capita 1,172.6 US$ PPP, nominal GDP 3.255 billion US$, real GDP growth was negative at −6.306%, inflation at 8.540%, government debt increased to 113.835% of GDP.",
+        "• In 1992, GDP rose to 14.087 billion US$ PPP, GDP per capita 1,181.8 US$ PPP, nominal GDP 3.715 billion US$, real GDP growth 1.181%, inflation at 14.567%, government debt slightly decreased to 110.875% of GDP.",
+        "• The year 1993 showed GDP at 14.724 billion US$ PPP, GDP per capita 1,203.0 US$ PPP, nominal GDP 4.063 billion US$, real GDP growth 2.100%, inflation at 9.990%, government debt at 105.192% of GDP.",
+        "• In 1994, GDP was 15.032 billion US$ PPP, GDP per capita 1,192.3 US$ PPP, nominal GDP 3.522 billion US$, real GDP growth slightly negative at −0.042%, inflation spiked to 38.992%, government debt reduced to 95.963% of GDP.",
+        "• Madagascar’s 1995 GDP increased to 15.605 billion US$ PPP, GDP per capita 1,201.6 US$ PPP, nominal GDP 3.838 billion US$, real GDP growth 1.679%, inflation at 49.036%, government debt stable at 95.837% of GDP.",
+        "• In 1996, GDP rose to 16.233 billion US$ PPP, GDP per capita 1,213.4 US$ PPP, nominal GDP 4.932 billion US$, real GDP growth 2.154%, inflation decreased to 19.761%, government debt slightly increased to 98.716% of GDP.",
+        "• The 1997 economic data showed GDP at 17.123 billion US$ PPP, GDP per capita 1,242.5 US$ PPP, nominal GDP 4.263 billion US$, real GDP growth 3.693%, inflation at 4.492%, government debt decreased to 89.740% of GDP.",
+        "• In 1998, GDP was 17.994 billion US$ PPP, GDP per capita 1,267.5 US$ PPP, nominal GDP 4.402 billion US$, real GDP growth 3.917%, inflation at 6.210%, government debt rose to 108.460% of GDP.",
+        "• The year 1999 recorded GDP at 19.105 billion US$ PPP, GDP per capita 1,306.5 US$ PPP, nominal GDP 4.278 billion US$, real GDP growth 4.699%, inflation at 7.189%, government debt at 104.115% of GDP.",
+        "• Madagascar’s GDP in 2000 increased to 20.408 billion US$ PPP, GDP per capita 1,354.9 US$ PPP, nominal GDP 4.629 billion US$, real GDP growth 4.457%, inflation at 11.570%, government debt decreased to 90.212% of GDP.",
+        "• In 2001, GDP rose to 22.116 billion US$ PPP, GDP per capita 1,425.4 US$ PPP, nominal GDP 5.438 billion US$, real GDP growth 5.980%, inflation at 7.917%, government debt further decreased to 82.144% of GDP.",
+        "• The year 2002 saw GDP decline to 19.674 billion US$ PPP, GDP per capita 1,230.9 US$ PPP, nominal GDP 5.352 billion US$, real GDP growth sharply negative at −12.408%, inflation at 16.499%, government debt slightly increased to 86.693% of GDP.",
+        "• In 2003, GDP increased to 22.025 billion US$ PPP, GDP per capita 1,337.7 US$ PPP, nominal GDP 6.372 billion US$, real GDP growth rebounded to 9.785%, inflation was negative at −1.704%, government debt at 85.862% of GDP.",
+        "• Madagascar’s 2004 GDP was 23.805 billion US$ PPP, GDP per capita 1,403.6 US$ PPP, nominal GDP 5.065 billion US$, real GDP growth 5.257%, inflation at 13.956%, government debt decreased to 81.896% of GDP.",
+        "• In 2005, GDP rose to 25.719 billion US$ PPP, GDP per capita 1,472.1 US$ PPP, nominal GDP 5.859 billion US$, real GDP growth 4.756%, inflation at 18.364%, government debt further reduced to 74.366% of GDP.",
+        "• The year 2006 showed GDP at 27.944 billion US$ PPP, GDP per capita 1,552.8 US$ PPP, nominal GDP 6.396 billion US$, real GDP growth 5.399%, inflation at 10.766%, government debt significantly decreased to 32.226% of GDP.",
+        "• In 2007, GDP increased to 30.338 billion US$ PPP, GDP per capita 1,636.6 US$ PPP, nominal GDP 8.525 billion US$, real GDP growth 5.711%, inflation at 10.288%, government debt further reduced to 28.210% of GDP.",
+        "• Madagascar’s 2008 GDP was 32.996 billion US$ PPP, GDP per capita 1,727.9 US$ PPP, nominal GDP 10.725 billion US$, real GDP growth 6.713%, inflation at 9.297%, government debt slightly increased to 31.010% of GDP.",
+        "• In 2009, GDP declined to 31.886 billion US$ PPP, GDP per capita 1,621.0 US$ PPP, nominal GDP 9.617 billion US$, real GDP growth was negative at −3.979%, inflation at 8.954%, government debt"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:20:35.247874",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "9.2",
+      "section_name": "Other data",
+      "chapter_name": "Economy of Madagascar",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1993, the lowest 10% of households in Madagascar accounted for 2.3% of total income or consumption, while the highest 10% accounted for 34.9%.",
+        "• The industrial production growth rate in Madagascar was estimated at 5% in 1999.",
+        "• Madagascar's electricity production was estimated at 1.35 billion kilowatt-hours (kWh) in 2009.",
+        "• The composition of electricity production by source in 2009 was 69.5% from fossil fuels, 30.5% from hydroelectric power, with nuclear and other sources contributing 0%.",
+        "• Electricity consumption in Madagascar was estimated at 1.256 billion kWh in 2009.",
+        "• Madagascar did not export any electricity in 2010, with electricity exports recorded at 0 kWh.",
+        "• Similarly, Madagascar did not import any electricity in 2010, with electricity imports recorded at 0 kWh.",
+        "• The exchange rate of the Malagasy ariary (MGA) per US dollar was 2,195 in 2012 (estimated), with previous years recorded as 2,025.1 in 2011, 2,090 in 2010, 1,956.2 in 2009, and 1,654.78 in 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:20:42.004121",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_madagascar.json",
+      "original_index": 12
+    }
+  ]
+}

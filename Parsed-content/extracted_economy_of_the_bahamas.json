@@ -1,0 +1,239 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_bahamas.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.114658",
+    "total_sections_in_source": 9,
+    "extracted_sections_count": 9,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Bahamas is primarily dependent on two main sectors: tourism and offshore banking.",
+        "• The Bahamas is considered the richest country in the West Indies, although this claim requires citation for verification.",
+        "• The Bahamas is a stable, developing nation located in the Lucayan Archipelago, with a population of 391,232 as of 2016.",
+        "• For many years, steady growth in tourism receipts combined with a boom in the construction of new hotels, resorts, and residences contributed to solid GDP growth.",
+        "• Economic growth in the Bahamas was hindered between 2001 and 2003 due to the slowdown in the United States economy and the impacts of the September 11 attacks.",
+        "• Financial services represent the second-most important sector in the Bahamian economy, accounting for approximately 15% of GDP.",
+        "• Since December 2000, the Bahamian government enacted new regulations on the financial sector, which led to many international businesses leaving the country.",
+        "• Manufacturing and agriculture sectors together contribute about 10% of GDP, but these sectors show little growth despite government incentives aimed at their development.",
+        "• Short-term economic growth prospects for the Bahamas heavily depend on the tourism sector, which relies on growth in the United States, the source of over 80% of visitors.",
+        "• In addition to tourism and banking, the Bahamian government supports the development of a \"2nd-pillar\" economy focused on e-commerce."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:05.953070",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Features of the Bahamian economy",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Bahamian economy is predominantly reliant on tourism and financial services as the primary sources of foreign exchange earnings.",
+        "• The Gross Domestic Product (GDP) of the Bahamas is approximately $5.7 billion.",
+        "• Tourism contributes about 50% to the Bahamian GDP, representing the largest sector of the economy.",
+        "• Financial services account for nearly 20% of the GDP, making it the second most significant economic sector.",
+        "• The remaining portion of the economy is distributed among retail and wholesale trade, fishing, light manufacturing, and agriculture.",
+        "• The European Union classifies the Bahamas as one of several Caribbean \"uncooperative jurisdictions\" due to its failure to meet established tax fairness and transparency benchmarks."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:04.005500",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism accounts for an estimated 51% of the Bahamas' gross domestic product (GDP), highlighting its critical role in the national economy.",
+        "• Approximately half of the Bahamian workforce is employed in the tourism sector, indicating its significance as a major source of employment.",
+        "• In 2016, the Bahamas received over 3 million tourists, with the majority originating from the United States and Canada, underscoring these countries as primary markets for Bahamian tourism.",
+        "• Kerzner International's Atlantis Resort and Casino, which took over the former Paradise Island Resort, has been a major contributor to recent economic growth in the Bahamas by providing a significant boost to the tourism industry.",
+        "• The opening of Breezes Super Club and Sandals Resort further supported the economic turnaround by attracting additional tourists and investment to the Bahamas.",
+        "• The Bahamian Government has adopted a proactive strategy to attract foreign investors, including conducting major investment missions to key regions such as the Far East, Europe, Latin America, and Canada.",
+        "• The primary objective of these government-led investment missions was to restore and enhance the reputation of the Bahamas as a desirable destination and investment location in these international markets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:05.440255",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Offshore financial services",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Financial services represent the second-most important sector of the Bahamian economy, contributing up to 17% of the country's Gross Domestic Product (GDP), primarily due to the Bahamas' status as an offshore financial center.",
+        "• As of December 1998, a total of 418 banks and trust companies were licensed to operate within the Bahamas, highlighting the country's significant role in international banking and trust services.",
+        "• The Bahamas introduced the International Business Companies (IBC) Act in January 1990 with the objective of enhancing its position as a leading financial center by simplifying and reducing the costs associated with incorporating offshore companies.",
+        "• Within nine years of the IBC Act's enactment, over 100,000 IBC-type companies had been established in the Bahamas, demonstrating the Act's effectiveness in attracting offshore business entities.",
+        "• In February 1991, the Bahamian government legalized the establishment of Asset Protection Trusts, further expanding the range of offshore financial services available in the jurisdiction.",
+        "• In December 2000, in response to the Bahamas' appearance on the plenary Financial Action Task Force (FATF) Blacklist, the government enacted a comprehensive legislative package aimed at strengthening regulation of the financial sector.",
+        "• This legislative package included the creation of a Financial Intelligence Unit (FIU) and the enforcement of \"know-your-customer\" (KYC) rules to improve transparency and combat financial crimes.",
+        "• Additional regulatory initiatives included the enactment of the Foundations Act in 2004, which provided a legal framework for the establishment and operation of foundations within the Bahamas.",
+        "• The government also planned the introduction of legislation to regulate Private Trust Companies, indicating ongoing efforts to enhance the regulatory environment of the offshore financial sector.",
+        "• After subsequent improvements in regulatory compliance, the Bahamas was removed from the FATF Greylist in December 2020, reflecting international recognition of its strengthened financial oversight mechanisms."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:07.798014",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agriculture and fisheries industry in the Bahamas collectively contributes approximately 5% to the country’s Gross Domestic Product (GDP).",
+        "• The Bahamas exports lobster and certain fish species; however, these marine products are not raised through commercial aquaculture or farming within the country.",
+        "• There is no large-scale agricultural production in the Bahamas; the majority of agricultural products are produced primarily for domestic consumption rather than export.",
+        "• The Bahamas imports over $250 million worth of foodstuffs annually, which accounts for about 80% of the nation’s total food consumption, indicating a heavy reliance on imported food.",
+        "• The Bahamian government has articulated a strategic objective to expand domestic food production with the dual goals of reducing food import dependency and generating foreign exchange revenue.",
+        "• To achieve these goals, the government actively seeks foreign investment targeted at increasing agricultural exports, with a particular focus on specialty food items that may have export potential.",
+        "• The government officially identifies several key sectors for encouraging foreign investment, including beef and pork production and processing, fruit and nut cultivation, dairy production, winter vegetable farming, and mariculture activities such as shrimp farming.",
+        "• This section of the article, as of November 2019, lacks cited sources and invites contributions of reliable references to verify the information presented."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:06.906884",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Trade",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Bahamian Government maintains the value of the Bahamian dollar at parity with the U.S. dollar, ensuring a fixed exchange rate between the two currencies.",
+        "• The Bahamas benefits from several international trade agreements, including the U.S.-Caribbean Basin Trade Partnership Act (CBTPA), which facilitates preferential trade terms with the United States.",
+        "• The country is also a beneficiary of Canada's CARIBCAN program, which provides duty-free access to Canadian markets for goods originating from Caribbean countries.",
+        "• Additionally, the Bahamas participates in the European Union's Lome IV Agreement, granting it preferential trade access to EU markets.",
+        "• While the Bahamas is involved in the political dimensions of the Caribbean Community (CARICOM), it has not engaged in joint economic initiatives or integrated economic policies with other member states of CARICOM."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:04.828914",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Industry",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Bahamas hosts several notable industrial firms, including PharmaChem Technologies (GrandBahama) Ltd., a pharmaceutical company located in Freeport, formerly known as Syntex.",
+        "• BORCO operates an oil facility in Freeport that functions as a regional transshipment hub for oil.",
+        "• The Commonwealth Brewery, based in Nassau, produces well-known beer brands such as Heineken, Guinness, and Kalik.",
+        "• Bacardi Corporation distills rum in Nassau, which is then shipped to markets in the United States and Europe.",
+        "• Additional industries in the Bahamas include the production of sun-dried sea salt on Great Inagua Island.",
+        "• Freeport hosts a wet dock facility dedicated to the repair of cruise ships, supporting the maritime industry.",
+        "• Mining operations extract aragonite, a type of limestone with various industrial applications, from the sea floor at Ocean Cay.",
+        "• The banking sector features smaller yet agile institutions such as Fidelity Bank (Bahamas) Ltd. (FBB) and Royal Fidelity Merchant Bank & Trust Limited (RFMBT).",
+        "• Fidelity Bank (Bahamas) Ltd. offers a broad array of innovative banking products, including loan products integrated with built-in savings plans.",
+        "• Royal Fidelity Merchant Bank & Trust Limited is the only merchant bank in the Bahamas, operating as a joint venture with the Royal Bank of Canada.",
+        "• RFMBT provides investment products and services and secures the majority of corporate business transactions in the Bahamas.",
+        "• RFMBT notably acted as financial advisor and placement agent for the largest initial public offering (IPO) in Bahamian history, the IPO of Commonwealth Brewery, a subsidiary of Heineken.",
+        "• The Hawksbill Creek Agreement established a duty-free zone in Freeport, the Bahamas’ second-largest city, accompanied by a nearby industrial park designed to attract foreign industrial investment.",
+        "• Hutchison Whampoa, a Hong Kong-based firm, has established a container port facility in Freeport, enhancing the city’s industrial and shipping capabilities.",
+        "• In 1993, the Bahamian Parliament passed legislation extending most tax and duty exemptions in Freeport through the year 2054, reinforcing the city’s status as a favorable zone for industrial and commercial activity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:09.434555",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "Taxation",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Bahamas does not impose income tax, corporate tax, capital gains tax, or wealth tax on individuals or businesses.",
+        "• Payroll taxes in the Bahamas are used to fund social insurance benefits, with employees contributing 3.9% of their earnings and employers contributing 5.9%.",
+        "• In the year 2010, the total tax revenue collected in the Bahamas constituted 17.2% of the country's Gross Domestic Product (GDP).",
+        "• A value-added tax (VAT) was introduced in the Bahamas on 1 January 2015, initially set at a rate of 7.5%.",
+        "• The VAT rate was subsequently increased from 7.5% to 12% effective 1 July 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:11.380639",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of the Bahamas",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Bahamas' GDP in 1980 was 2.51 billion US$ PPP, with a GDP per capita of 11,877 US$ PPP, nominal GDP of 2.60 billion US$, real GDP growth of 7.1%, inflation at 12.2%, while unemployment rate and government debt data are not available for this year.",
+        "• In 1985, the GDP increased to 3.81 billion US$ PPP, GDP per capita rose to 16,296 US$ PPP, nominal GDP was 3.92 billion US$, real GDP growth slowed to 4.1%, inflation dropped to 4.6%, with unemployment rate and government debt data not reported.",
+        "• By 1990, GDP reached 4.99 billion US$ PPP, GDP per capita was 19,575 US$ PPP, nominal GDP stood at 5.22 billion US$, real GDP growth was 1.1%, inflation remained at 4.6%, unemployment rate was 12.0%, and government debt was 13% of GDP.",
+        "• In 1995, GDP was 5.61 billion US$ PPP, GDP per capita 20,103 US$ PPP, nominal GDP 5.65 billion US$, real GDP growth increased to 4.4%, inflation decreased to 2.0%, unemployment rate was 10.9%, and government debt rose to 21% of GDP.",
+        "• The year 2000 saw GDP at 7.79 billion US$ PPP, GDP per capita at 25,722 US$ PPP, nominal GDP at 8.08 billion US$, real GDP growth at 5.0%, inflation at 1.7%, unemployment rate at 7.0%, and government debt at 19% of GDP.",
+        "• In 2005, GDP increased to 9.50 billion US$ PPP, GDP per capita to 29,231 US$ PPP, nominal GDP to 9.84 billion US$, real GDP growth slowed to 3.4%, inflation was 1.8%, unemployment rate rose to 10.2%, and government debt increased to 23% of GDP.",
+        "• For 2006, GDP was 10.03 billion US$ PPP, GDP per capita 30,512 US$ PPP, nominal GDP 10.17 billion US$, real GDP growth was 2.5%, inflation at 2.0%, unemployment rate decreased to 7.6%, and government debt remained at 23% of GDP.",
+        "• In 2007, GDP reached 10.45 billion US$ PPP, GDP per capita 31,398 US$ PPP, nominal GDP 10.62 billion US$, real GDP growth slowed to 1.4%, inflation increased to 2.4%, unemployment rate slightly rose to 7.9%, and government debt stayed at 23% of GDP.",
+        "• The year 2008 experienced a GDP of 10.41 billion US$ PPP, GDP per capita of 30,906 US$ PPP, nominal GDP of 10.53 billion US$, real GDP contracted by −2.3%, inflation rose to 4.4%, unemployment rate increased to 8.7%, and government debt grew to 25% of GDP.",
+        "• In 2009, GDP declined to 10.05 billion US$ PPP, GDP per capita to 29,501 US$ PPP, nominal GDP to 9.98 billion US$, real GDP shrank by −4.2%, inflation dropped to 1.7%, unemployment rate surged to 14.2%, and government debt rose to 30% of GDP.",
+        "• For 2010, GDP rebounded to 10.33 billion US$ PPP, GDP per capita was 29,986 US$ PPP, nominal GDP was 10.10 billion US$, real GDP growth was 1.5%, inflation was 1.6%, unemployment rate increased to 15.1%, and government debt climbed to 34% of GDP.",
+        "• In 2011, GDP rose to 10.61 billion US$ PPP, GDP per capita to 30,452 US$ PPP, nominal GDP slightly decreased to 10.07 billion US$, real GDP growth slowed to 0.6%, inflation increased to 3.1%, unemployment rate further increased to 15.9%, and government debt grew to 35% of GDP.",
+        "• The year 2012 saw GDP increase to 11.14 billion US$ PPP, GDP per capita to 31,618 US$ PPP, nominal GDP to 10.72 billion US$, real GDP growth improved to 3.1%, inflation decreased to 1.9%, unemployment rate dropped to 14.4%, and government debt rose to 38% of GDP.",
+        "• In 2013, GDP was 11.25 billion US$ PPP, GDP per capita was 31,593 US$ PPP, nominal GDP decreased to 10.40 billion US$, real GDP contracted by −0.6%, inflation was very low at 0.4%, unemployment rate increased to 15.8%, and government debt rose significantly to 44% of GDP.",
+        "• For 2014, GDP slightly increased to 11.31 billion US$ PPP, GDP per capita was 31,410 US$ PPP, nominal GDP rose to 11.00 billion US$, real GDP contracted by −1.2%, inflation was 1.2%, unemployment rate decreased to 14.6%, and government debt increased to 48% of GDP.",
+        "• In 2015, GDP decreased to 11.09 billion US$ PPP, GDP per capita dropped to 30,435 US$ PPP, nominal GDP increased to 11.67 billion US$, real GDP contracted by −3.1%, inflation rose to 1.9%, unemployment rate declined to 13.4%, and government debt rose to 51% of GDP.",
+        "• The year 2016 recorded GDP at 11.25 billion US$ PPP, GDP per capita at 30,534 US$ PPP, nominal GDP at 11.75 billion US$, real GDP growth was 0.2%, inflation was negative at −0.3%, unemployment rate decreased to 12.2%, and government debt increased to 53% of GDP.",
+        "• In 2017, GDP reached 11.60 billion US$ PPP, GDP per capita was 31,139 US$ PPP, nominal GDP was 12.25 billion US$, real GDP growth was 1.3%, inflation was 1.4%, unemployment rate declined to 10.1%, and government debt rose to 57% of GDP.",
+        "• In 2000, the highest 10% of households accounted for 27% of household income or consumption by percentage share.",
+        "• The Bahamas' agricultural products include citrus, vegetables, and poultry.",
+        "• Electricity production in 2007 was 2,505 GWh, ranking 133rd globally, while electricity consumption in the same year was 1,793 GWh, also ranked 133rd.",
+        "• Oil consumption in 2006 was 26,830 barrels per day (4,266 m3/d), ranking 115th worldwide.",
+        "• Oil exports in 2003 consisted of transshipments of 29,000 barrels per day (4,600 m3/d).",
+        "• The Bahamian dollar is pegged to the U.S. dollar at a one-to-one exchange rate.",
+        "• According to The Heritage Foundation 2010 Index of Economic Freedom, the Bahamas has the 47th freest economy globally and ranks 7th out of 29 countries in the South and Central America/Caribbean region.",
+        "• The Bahamas' overall economic freedom score is higher than both the regional and world averages.",
+        "• Total government spending, including consumption and transfer payments, is relatively low in the Bahamas; in the most recent year reported, government spending was 23.4% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:10:32.985745",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_the_bahamas.json",
+      "original_index": 8
+    }
+  ]
+}

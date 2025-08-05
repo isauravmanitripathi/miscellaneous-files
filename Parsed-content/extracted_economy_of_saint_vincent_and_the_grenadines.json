@@ -1,0 +1,78 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_saint_vincent_and_the_grenadines.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.803523",
+    "total_sections_in_source": 2,
+    "extracted_sections_count": 2,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Saint Vincent and the Grenadines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Saint Vincent and the Grenadines is heavily dependent on agriculture, with the country being the world's leading producer of arrowroot and also cultivating other exotic fruits, vegetables, and root crops.",
+        "• Bananas constitute a critical agricultural product, accounting for over 60% of the workforce and 50% of the nation's merchandise exports, highlighting the economy's significant reliance on this single crop.",
+        "• This dependence on bananas renders the economy vulnerable to external factors, particularly changes in international trade policies and market conditions.",
+        "• Historically, St. Vincent's banana growers benefited from preferential access to the European market, which provided economic advantages.",
+        "• However, the European Union announced a phase-out of this preferential access, prompting Saint Vincent and the Grenadines to prioritize economic diversification to mitigate potential negative impacts.",
+        "• Tourism has emerged as a very important sector in the economy, surpassing banana exports as the chief source of foreign exchange in 1993.",
+        "• The Grenadines have become a favored destination for the up-market yachting community, contributing to the growth of tourism revenues.",
+        "• Infrastructure improvements in 1996, including the commissioning of new cruise ship and ferry berths, significantly increased passenger arrivals.",
+        "• By 1998, total visitor arrivals reached 202,109, with United States visitors constituting only 2.7% of tourists; the majority of tourists originate from other Caribbean countries and the United Kingdom.",
+        "• Tourism's economic contribution was recorded at US$90 million in 2005, reflecting its growing importance in the national economy.",
+        "• Saint Vincent and the Grenadines benefits from the U.S. Caribbean Basin Initiative, which supports economic development in the region.",
+        "• The country is a member of the Caribbean Community (CARICOM), which has established a framework agreement with the United States to promote trade and investment within the Caribbean region."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:22.086778",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_saint_vincent_and_the_grenadines.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Macroeconomic statistics",
+      "chapter_name": "Economy of Saint Vincent and the Grenadines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the International Monetary Fund (IMF) in 2015, the Gross Domestic Product (GDP) at Purchasing Power Parity (PPP) for Saint Vincent and the Grenadines was $1.572 billion.",
+        "• The World Bank reported the GDP (PPP) as $1,147,388,850 in 2013.",
+        "• The World Factbook estimated the GDP (PPP) at $1,198,000,000 in 2014.",
+        "• The IMF recorded the GDP (PPP) per capita as $13,259.473 in 2015 for Saint Vincent and the Grenadines.",
+        "• The World Bank's 2013 data indicated a GDP (PPP) per capita of $10,490.6.",
+        "• The World Factbook estimated the GDP (PPP) per capita at $10,900 in 2014.",
+        "• The World Bank reported GDP (PPP) per person employed as $13,225 for the period 1990-2010.",
+        "• The United Nations estimated the nominal GDP at $709,197,778 in 2013.",
+        "• The IMF reported the nominal GDP as US$0.720 billion in 2013.",
+        "• The World Bank's 2013 nominal GDP figure was $709,358,185.",
+        "• The World Factbook estimated the nominal GDP at $745 million in 2014.",
+        "• The United Nations reported nominal GDP per capita as US$6,484 in 2013.",
+        "• The IMF estimated nominal GDP per capita at US$6,563.096 in 2013.",
+        "• The World Bank reported gross national income (GNI) using the Atlas method as US$707 million in 2013.",
+        "• The World Bank also reported the GNI per capita (Atlas method and PPP) as an average national income of US$6,460 per person per year in 2013.",
+        "• Household income or consumption distribution by percentage share is not available (N/A).",
+        "• The agricultural products of Saint Vincent and the Grenadines include bananas, coconuts, sweet potatoes, and spices, along with small numbers of cattle, sheep, pigs, goats, and fish.",
+        "• The industrial production growth rate was negative, recorded at -0.9% in 1997.",
+        "• Electricity production was 115 million kilowatt-hours (kWh) in 2005.",
+        "• Electricity consumption was slightly lower at 107 million kWh in 2005.",
+        "• Oil consumption was estimated at 1,500 barrels per day (240 cubic meters per day) in 2005.",
+        "• The current account balance showed a deficit of $-0.22 billion in 2013 and $-0.19 billion in 2012.",
+        "• Reserves of foreign exchange and gold were $115 million in 2013 and $111 million in 2012.",
+        "• Saint Vincent and the Grenadines was ranked 49th in the 2010 Index of Economic Freedom.",
+        "• The exchange rate of East Caribbean dollars per US dollar remained stable at 2.7 for the years 2003, 2005, 2006, and 2007."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:54:29.447922",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_saint_vincent_and_the_grenadines.json",
+      "original_index": 1
+    }
+  ]
+}

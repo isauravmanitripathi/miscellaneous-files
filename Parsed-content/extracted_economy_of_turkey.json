@@ -1,0 +1,872 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_turkey.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.308799",
+    "total_sections_in_source": 33,
+    "extracted_sections_count": 33,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Turkey became one of the early members of the Council of Europe in 1950, became an associate member of the European Economic Community (EEC) in 1963, joined the European Union (EU) Customs Union in 1995, and started full membership negotiations with the EU in 2005.",
+        "• The economy of Turkey is characterized as an emerging free-market economy, ranking as the 16th-largest in the world and 7th-largest in Europe by nominal GDP in 2025.",
+        "• By purchasing power parity (PPP), Turkey ranked as the 12th-largest economy globally and 5th-largest in Europe in 2025.",
+        "• Turkey experienced rapid economic growth starting in the 2000s, which was interrupted by the economic crisis beginning in 2018, but the economy began to recover in 2021.",
+        "• Turkey’s nominal GDP per capita in USD and GDP per capita by PPP reached their all-time peak values in 2024.",
+        "• Turkey is a founding member of both the Organisation for Economic Co-operation and Development (OECD) and the G20 group of major economies.",
+        "• The European Union–Turkey Customs Union, ratified in 1995, established a free trade area between Turkey and the EU, significantly increasing bilateral foreign trade, investment, and economic activity.",
+        "• Tourism is a major sector in Turkey’s economy, with the country being the fifth most visited destination worldwide; tourism accounted for 12% of Turkey’s total GDP in 2023.",
+        "• Since 2000, Turkish universities pioneered many technoparks, which by now host over 1,600 research and development (R&D) centers attracting investments from both domestic and international corporations.",
+        "• Turkey is among the world’s leading producers of motor vehicles, consumer electronics, home appliances, and defense products.",
+        "• In 2021, Turkey was ranked eighth globally in the technology rankings of the Economic Complexity Index.",
+        "• From 2002 to 2013, Turkey experienced strong economic growth, except for 2009 due to the global financial crisis of 2008.",
+        "• Between 2014 and 2020, Turkey’s USD-based nominal GDP figures showed stagnation and recession, particularly during the 2018 Turkish currency and debt crisis, although GDP by PPP and Turkish lira-based nominal GDP continued to grow.",
+        "• Since 2021, Turkey’s USD-based nominal GDP and GDP-PPP figures have shown steady recovery and rapid growth, reaching all-time high values in 2023 and 2024.",
+        "• Growth-focused and populist financial policies, including a preference for maintaining very low interest rates (referred to as _Erdoganomics_), contributed to one of the world’s highest inflation rates starting in 2018.",
+        "• Following the Turkish parliamentary and presidential elections on May 14 and 28, 2023, and the appointment of Mehmet Şimşek as Minister of Treasury and Finance on June 4, 2023, Turkey adopted a more orthodox monetary policy concerning interest rates.",
+        "• As a result of the policy shift, inflation in Turkey decreased gradually from 85.5% in late 2022 to 42.1% in early 2025.",
+        "• Key economic components of Turkey include the Turkish lira as the national currency and the Central Bank of the Republic of Turkey as the monetary authority.",
+        "• The Istanbul Stock Exchange (ISE) serves as Turkey’s main stock exchange, hosting numerous companies listed on it.",
+        "• Major infrastructure and economic projects in Turkey include the Baku–Tbilisi–Ceyhan pipeline, the European Union–Turkey Customs Union, the Nabucco pipeline, the Southeastern Anatolia Project, and issues related to land ownership.",
+        "• Related economic and social topics connected to Turkey’s economy include energy, geography, minimum wage, science and technology, telecommunications, tourism, and transport sectors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:40.144326",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Data",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The data presents Turkey's per capita GDP changes from 1913 to 2018, adjusted for inflation to 2011 International dollars, alongside comparisons of Turkey's CO2 emissions growth relative to GDP growth and general government net debt as a percentage of GDP for selected European countries.",
+        "• The main economic indicators for Turkey from 1980 to 2024 are detailed, with IMF staff estimates extending from 2024 to 2029; inflation rates below 10% are highlighted in green.",
+        "• In 1980, Turkey's GDP was 159.2 billion US$ PPP, with a GDP per capita of 3,516.3 US$ PPP, nominal GDP of 96.6 billion US$, nominal GDP per capita of 2,133.7 US$, a real GDP growth of -0.8%, inflation at 110.6%, and unemployment at 7.2%.",
+        "• From 1981 to 1987, Turkey experienced fluctuating inflation rates ranging from 31.1% to 48.4%, with GDP growth varying between 3.4% and 10.0%, and unemployment rates between 6.9% and 8.1%.",
+        "• In 1988 and 1989, inflation peaked at 73.7% and 63.3% respectively, while GDP growth slowed to 2.1% and 0.3%, with unemployment rising to 8.7% and 8.6%.",
+        "• The early 1990s saw GDP growth rebound to 9.3% in 1990, but inflation remained high, ranging from 60.3% to 70.1%, and unemployment stayed around 7.7% to 8.4%.",
+        "• The 1994 economic crisis led to a GDP contraction of -5.5%, inflation surged to 104.5%, and unemployment was 8.0%.",
+        "• Between 1995 and 1998, Turkey's economy recovered with GDP growth between 3.1% and 7.5%, inflation remained elevated between 80.2% and 89.6%, and unemployment declined to around 6.1% to 6.4%.",
+        "• In 1999 and 2001, Turkey faced economic downturns with GDP shrinking by -3.3% and -5.8%, inflation rates of 64.9% and 54.2%, and unemployment rising to 7.2% and 7.8%.",
+        "• From 2002 to 2007, Turkey experienced robust economic growth with GDP growth rates between 4.8% and 9.8%, inflation dropping below 10% from 2004 onwards, and unemployment fluctuating between 8.7% and 9.9%.",
+        "• The global financial crisis in 2008-2009 caused GDP growth to slow to 0.8% and -4.8%, inflation to moderate to 10.4% and 6.3%, and unemployment to increase to 9.8% and 13.0%.",
+        "• Recovery from 2010 to 2013 saw GDP growth rebound to between 5.8% and 11.2%, inflation rates mostly below 10%, and unemployment stabilizing around 8.3% to 9.9%.",
+        "• From 2014 to 2017, Turkey maintained moderate GDP growth between 3.3% and 7.5%, inflation fluctuated between 7.7% and 11.1%, and unemployment hovered near 10.9%.",
+        "• In 2018 and 2019, GDP growth slowed to 3.0% and 0.8%, inflation surged to 16.3% and 15.2%, and unemployment increased to 10.9% and 13.7%.",
+        "• The COVID-19 pandemic period of 2020-2021 showed GDP growth of 1.9% and 11.4%, inflation rising from 12.3% to 19.6%, and unemployment decreasing slightly from 13.1% to 12.0%.",
+        "• In 2022, Turkey's GDP reached 3,009.8 billion US$ PPP with a per capita GDP of 35,293.4 US$ PPP, nominal GDP of 905.8 billion US$, nominal GDP per capita of 10,621.4 US$, real GDP growth of 5.5%, inflation spiking to 72.3%, and unemployment at 10.8%.",
+        "• IMF projections for 2023 to 2029 indicate steady GDP growth from 5.1% in 2023 to 3.8% in 2029, inflation rates declining from 53.8% in 2023 to 15.0% by 2028 and 2029, and unemployment stabilizing at 10.4%.",
+        "• By 2029, Turkey's GDP is forecasted to reach 4,471.8 billion US$ PPP, with a GDP per capita of 50,917.766 US$ PPP, nominal GDP of 1,764.2 billion US$, nominal GDP per capita of 20,088.2 US$, real GDP growth at 3.8%, inflation at 15.0%, and unemployment steady at 10.4%.",
+        "• The data reflects Turkey's economic volatility with periods of high inflation and recession, followed by phases of recovery and growth, highlighting challenges in controlling inflation and unemployment over the decades."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:46.181283",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Main economic sectors",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of November 2023, Turkey has a total of 1,086,670 registered companies operating within its economy.",
+        "• The manufacturing sector holds the largest share of registered companies in Turkey, with 241,362 companies engaged in this sector.",
+        "• The wholesale trading sector is the second largest in terms of company registrations, comprising 197,476 companies.",
+        "• The services sector ranks third in the number of registered companies, with a total of 187,325 companies operating in this field."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:29.897952",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agricultural sector",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Atatürk Dam is the largest of the 22 dams included in the Southeastern Anatolia Project, which encompasses 22 dams, 19 hydraulic power plants, and the irrigation of 1.82 million hectares of land, with a total estimated project cost of $32 billion.",
+        "• Agriculture remains a significant sector in Turkey's economy, positioning the country among the world's top ten agricultural producers.",
+        "• Major agricultural products in Turkey include wheat, sugar beet, milk, poultry, cotton, vegetables, and fruit.",
+        "• Turkey holds the distinction of being the world's largest grower of hazelnuts, apricots, and oregano.",
+        "• Approximately half of Turkey's land area is dedicated to agriculture, with farming employing about 15% of the national workforce, comprising fewer than half a million farmers.",
+        "• The agricultural sector contributes around 10% to Turkey's exports and accounts for over 5% of the country's gross domestic product (GDP).",
+        "• For the year 2024, the Turkish government has budgeted over 380 billion lira in agricultural subsidies.",
+        "• Despite its significant food production, Turkey is a net importer of wheat, sourcing much of it from Russia and Ukraine.",
+        "• Turkey ranks as the European Union's fourth largest supplier of vegetables and seventh largest supplier of fruit.",
+        "• Turkey aims to extend the EU Customs Union Agreement to include agricultural products, seeking enhanced trade integration.",
+        "• Approximately 50% of Turkey's agricultural greenhouse gas emissions are attributed to cattle farming.",
+        "• The World Bank recommends that Turkey's agricultural sector increase adaptation to climate change and implement technical improvements to enhance sustainability.",
+        "• Strategic planning for Turkey's agricultural sector falls under the jurisdiction of the Ministry of Agriculture and Forestry; however, no strategic plan for the period from 2024 onwards has been published to date.",
+        "• Nearly all seeds utilized in Turkish agriculture are produced domestically, ensuring self-sufficiency in seed supply."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:33.482376",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Industrial sector",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of April 2019, the industrial sector section of the Economy of Turkey article requires updating to include recent developments and newly available information.",
+        "• Heavy industry is increasingly relocating from the European Union to Turkey, primarily driven by Turkey's comparatively laxer pollution regulations.",
+        "• Another significant factor attracting heavy industry to Turkey is the availability of cheaper energy costs compared to those in the EU."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:29.691572",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.2.1",
+      "section_name": "Consumer electronics and home appliances",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, Turkey's Vestel was recognized as the largest television producer in Europe, responsible for manufacturing and selling 25% (one quarter) of all TV sets on the continent.",
+        "• By January 2005, the combined production of Vestel and its competitor, the Turkish electronics and white goods brand Beko, constituted more than 50% (over half) of all TV sets manufactured in Europe.",
+        "• Profilo Telra, another Turkish electronics brand, ranked as Europe's third-largest TV producer in the year 2005."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:31.431666",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.2.2",
+      "section_name": "Textiles and clothing",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Turkish textile industry ranks as the world's fifth largest exporter in the sector.",
+        "• In 2018, the textile and clothing sector accounted for 10% of Turkey's Gross Domestic Product (GDP).",
+        "• The industry employed approximately 750,000 people in Turkey in 2018.",
+        "• In 2006, Turkish companies exported clothing worth $13.98 billion.",
+        "• Of the total clothing exports in 2006, more than $10.67 billion, equivalent to 76.33%, were exported to the European Union."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:32.048326",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.2.3",
+      "section_name": "Motor vehicles and automotive products",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, Turkey's automotive industry produced 1,352,648 motor vehicles, ranking as the 13th largest producer globally, maintaining the same rank as in its peak production year of 2017 when it produced 1,695,731 vehicles.",
+        "• Turkish automotive companies such as TEMSA, Otokar, and BMC are recognized among the world's largest manufacturers of vans, buses, and trucks.",
+        "• Togg (Turkey's Automobile Joint Venture Group Inc.), established in 2018, is Turkey's first all-electric vehicle company, with its factory located in Gemlik, Bursa Province; the factory was inaugurated on 29 October 2022, coinciding with the 99th anniversary of the Turkish Republic.",
+        "• The automotive industry has been a significant component of the Turkish economy since the late 1960s, with most companies operating primarily in the Marmara Region.",
+        "• The Turkish automotive sector has developed a cluster of car manufacturers and parts suppliers, integrating into the global production network and exporting motor vehicles and components valued at over $22.94 billion in 2008.",
+        "• Major global car manufacturers with production plants in Turkey include Fiat/Tofaş, Oyak-Renault, Hyundai, Toyota, Honda, and Ford/Otosan.",
+        "• Turkey's annual automotive exports, including trucks and buses, exceeded 1 million units for the first time in 2016, driven by foreign automakers' investments in new models and a recovery in the European market.",
+        "• According to the Automotive Manufacturers Association (OSD), Turkey-based car plants exported 1.14 million units in 2016, marking a 15% increase from the previous year and setting a record high for the fourth consecutive year.",
+        "• In 2016, Turkey's automotive production grew by 9% year-on-year to reach 1.48 million units, establishing a new production record for the second consecutive year.",
+        "• Approximately 80% of the vehicles produced in Turkey are exported, underscoring the sector's export-oriented nature."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:36.756276",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.2.4",
+      "section_name": "Multiple unit trains, locomotives and wagons",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Istanbul Metro's M8 line features fully automated driverless trains equipped with platform screen doors, enhancing passenger safety on the line.",
+        "• TÜLOMSAŞ, established in 1894, is one of Turkey's major producers of multiple unit trains, locomotives, and wagons, including high-speed electric multiple units (EMU) and diesel multiple units (DMU).",
+        "• TÜVASAŞ, founded in 1951, is another key Turkish manufacturer specializing in multiple unit trains, locomotives, and wagons, producing various models including high-speed EMUs and DMUs.",
+        "• EUROTEM, created in 2006, contributes significantly to Turkey’s rolling stock industry by producing multiple unit trains, locomotives, and wagons, including high-speed EMU and DMU models.",
+        "• Bozankaya, based in Ankara, is a Turkish rolling stock manufacturer producing metro, tram, and trolleybus vehicles, contributing to the urban transit vehicle market in Turkey."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:34.812959",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.2.5",
+      "section_name": "Defence industry",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The TAI TF Kaan, a twin-engine fifth-generation air superiority fighter developed in Turkey, completed its maiden flight on February 21, 2024.",
+        "• The TAI Anka-3, a flying wing type stealth unmanned combat aerial vehicle (UCAV), completed its maiden flight on December 28, 2023.",
+        "• The TCG Anadolu (L-400), a significant naval vessel, was showcased during the naval parade celebrating the centennial of the Turkish Republic on October 29, 2023.",
+        "• Two UCAVs designed to operate on the TCG Anadolu are the Baykar Bayraktar TB3 and the jet-powered, low-observable Baykar MIUS Kızılelma.",
+        "• Construction of the first MUGEM-class aircraft carrier in Turkey commenced on January 2, 2025.",
+        "• Turkey hosts numerous modern armament manufacturers, with annual defense exports reaching $1.6 billion in 2014.",
+        "• Major Turkish defense manufacturers include MKEK, Turkish Aerospace Industries (TAI), Aselsan, Roketsan, FNSS, Nurol Makina, Otokar, and Havelsan.",
+        "• On July 11, 2002, Turkey became a Level 3 partner in the F-35 Joint Strike Fighter (JSF) development program, reflecting its strategic involvement in advanced fighter jet development.",
+        "• Turkish Aerospace Industries (TAI) produces various aircraft models, including the F-16 Fighting Falcon, which is actively used by the Turkish Air Force.",
+        "• Turkey has recently launched domestically built military and intelligence satellites, including Project Göktürk-1, a reconnaissance satellite with 0.8-meter resolution for the Turkish Armed Forces, and Project Göktürk-2, a reconnaissance satellite with 2-meter resolution for the Turkish National Intelligence Organization.",
+        "• Key Turkish defense products encompass a wide range of advanced military technologies, including the TAI TF Kaan fighter, TF2000-class destroyer, and Milgem-class corvette.",
+        "• Additional notable unmanned aerial vehicles include the Baykar MIUS Kızılelma UCAV, Baykar Akıncı high-altitude long-endurance (HALE) UCAV, Baykar Bayraktar TB2 medium-altitude long-endurance (MALE) UCAV, TAI Aksungur MALE UCAV, and TAI Anka MALE UAV/UCAV.",
+        "• Ground and artillery systems produced in Turkey include the Aselsan İzci unmanned ground vehicle (UGV), Altay main battle tank, T-155 Fırtına self-propelled howitzer, Panter howitzer, and TOROS artillery rocket system.",
+        "• Turkish missile and rocket systems feature the J-600T missile, Roketsan UMTAS anti-tank missile, Roketsan Cirit laser-guided rocket, and SOM cruise missile.",
+        "• Helicopter and transport aircraft in Turkey’s defense industry portfolio include the T-129 attack helicopter and the A400M transport aircraft.",
+        "• Armored vehicles manufactured in Turkey include the ACV-300, Otokar Cobra and Akrep, BMC Kirpi, FNSS Pars 6x6 and 8x8 armored personnel carriers (APCs), and Nurol Ejder 6x6 APC.",
+        "• Additional Turkish defense technologies include the Bayraktar Mini UAV and ASELPOD targeting and reconnaissance pod systems."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:47.204271",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.2.6",
+      "section_name": "Steel-Iron industry",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Turkey ranks 8th globally in steel production, reflecting its significant position in the international steel industry.",
+        "• In 2013, Turkey's total steel production amounted to 35.134 million tonnes, indicating sustained high output levels.",
+        "• The country achieved a record high crude steel production of 34.1 million tonnes in 2011, marking a peak in its steel manufacturing capacity.",
+        "• Major Turkish steel producers with production exceeding 2 million tonnes include Erdemir, Habaş, İçdaş, Diler, and Çolakoğlu, each holding notable ranks among the world's top steel companies.",
+        "• Erdemir produced 7.1 million tonnes of steel, ranking 47th globally; this figure includes only Erdemir's Turkish operations and excludes its Romanian subsidiary.",
+        "• Habaş produced 4.4 million tonnes of steel, securing the 72nd position among global steel producers.",
+        "• İçdaş contributed 3.6 million tonnes to steel production, placing it 76th in the international ranking.",
+        "• Diler's steel output was 2.3 million tonnes, earning it the 108th rank worldwide.",
+        "• Çolakoğlu produced 2.1 million tonnes of steel, ranking 110th among the top steel-producing companies globally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:37.985204",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.2.7",
+      "section_name": "Science and technology",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Turkey has over 80 technoparks where approximately 6,000 national and multinational companies conduct research and development (R&D) activities.",
+        "• TÜBİTAK (The Scientific and Technological Research Council of Turkey) serves as the leading agency responsible for formulating and implementing science, technology, and innovation policies in Turkey.",
+        "• The Turkish Academy of Sciences operates as an autonomous scholarly society dedicated to promoting scientific activities within the country.",
+        "• TAEK (Turkish Atomic Energy Authority) is the official nuclear energy institution of Turkey, with objectives that include conducting academic research in nuclear energy and developing and implementing peaceful nuclear technologies.",
+        "• Several Turkish government-affiliated companies specialize in research and development of military technologies, including Turkish Aerospace Industries, ASELSAN, HAVELSAN, ROKETSAN, and MKE.",
+        "• The Turkish Satellite Assembly, Integration and Test Center is a spacecraft production and testing facility owned by the Ministry of National Defence and operated by Turkish Aerospace Industries.",
+        "• The Turkish Space Launch System is an ongoing project aimed at developing Turkey’s satellite launch capabilities, encompassing the construction of a spaceport, the development of satellite launch vehicles, and the establishment of remote earth stations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:37.782399",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Construction and contracting sector",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Turkish construction and contracting industry comprises a large number of businesses actively engaged in both domestic and international projects.",
+        "• In 2016, 39 Turkish construction and contracting companies were included in the Top 250 International Contractors List, which is compiled annually by the Engineering News-Record (ENR).",
+        "• From the early 1970s through the end of 2022, Turkish contractors completed over 11,605 projects across 133 countries, demonstrating significant international presence and expertise.",
+        "• The total business volume of Turkish contractors operating abroad reached 472 billion US Dollars by the year 2022, indicating substantial economic impact and growth in the global construction market.",
+        "• Turkey’s susceptibility to strong earthquakes has made building safety a critical issue, particularly for structures erected before the implementation of post-1999 safety standards and regulations.",
+        "• Numerous urban redevelopment and reconstruction projects are ongoing, especially in major cities, aimed at addressing the risks posed by older, potentially unsafe buildings.",
+        "• In 2019, the Turkish government introduced an amnesty plan to register illegally constructed buildings, which generated $3.1 billion in additional tax revenues; however, this plan faced criticism for neglecting building safety concerns.",
+        "• The two major earthquakes that struck southern Turkey on February 6, 2023, exposed that some recently constructed buildings that collapsed were not built in compliance with the latest safety regulations, highlighting ongoing challenges in enforcement and construction quality."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:42.390534",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.3.1",
+      "section_name": "Banking and finance",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Turkish Central Bank and state-owned banks including Ziraat Bank, VakıfBank, and Halkbank have established their new headquarters at the Istanbul Financial Center (IFC) located in Ataşehir.",
+        "• In the 19th and early 20th centuries, Bankalar Caddesi (Banks Street) in Istanbul served as the financial center of the Ottoman Empire, housing the headquarters of the Ottoman Bank—originally established as the _Bank-ı Osmanî_ in 1856 and reorganized as the _Bank-ı Osmanî-i Şahane_ in 1863—and the Ottoman Stock Exchange, founded in 1866.",
+        "• Bankalar Caddesi remained Istanbul’s primary financial district until the 1990s, after which most Turkish banks relocated their headquarters to the modern central business districts of Levent and Maslak.",
+        "• The Istanbul Stock Exchange (ISE), originally established as the Ottoman Stock Exchange (_Dersaadet Tahvilat Borsası_) in 1866, was reorganized into its current structure at the beginning of 1986 and is the sole securities market in Turkey.",
+        "• In 1995, the Istanbul Stock Exchange moved to its current premises in the Istinye quarter, coinciding with the establishment of the Istanbul Gold Exchange in the same year.",
+        "• The Central Bank of the Republic of Turkey (_Türkiye Cumhuriyet Merkez Bankası_, CBRT) was founded in 1930 as a privileged joint-stock company, holding the exclusive right to issue banknotes and tasked with meeting the monetary needs of state agricultural and commercial enterprises.",
+        "• The \"New Turkish lira\" (TRY) was introduced on 1 January 2005, and on 1 January 2009, it was renamed back to the \"Turkish lira\" with the issuance of new banknotes and coins.",
+        "• Beginning in October 2008, the Turkish banking sector experienced stress due to the global 2008 financial crisis, prompting Turkish banking authorities to caution state-run banks against withdrawing loans from the larger financial sectors.",
+        "• The Söğütözü business district in Ankara, Turkey’s capital and second-largest city, is a notable financial hub.",
+        "• Turkey’s economy experienced growth from 2009 to 2013, followed by stagnation and recession from 2014 to 2020, before resuming recovery and growth between 2020 and 2024.",
+        "• In 2020, the total assets of Turkey’s banking sector exceeded $800 billion.",
+        "• As of January 2021, Turkey had 48 banks operating domestically with 9,880 branches and maintained 71 branches abroad.",
+        "• By October 2021, foreign currency deposits held by citizens and residents in Turkish banks amounted to $234 billion, representing approximately half of all deposits.",
+        "• As of October 2024, the Turkish Central Bank’s foreign currency reserves stood at $85 billion, gold reserves at $67.4 billion, and total official reserve assets at $159.8 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:46.194999",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2.3.2",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Turkish Airlines, the flag carrier of Turkey, was selected by Skytrax as Europe's best airline for five consecutive years from 2011 to 2015.",
+        "• As of 2024, Turkish Airlines serves destinations in 129 countries worldwide, making it the largest carrier globally by the number of countries served.",
+        "• Istanbul Airport serves as the main international airport for Istanbul, Turkey, and is recognized as a major global aviation hub.",
+        "• In 2013, Turkey had a total of ninety-eight airports, including 22 designated as international airports.",
+        "• Istanbul Atatürk Airport was ranked as the 11th busiest airport in the world as of 2015, having served 31,833,324 passengers between January and July 2014, according to Airports Council International.",
+        "• The new (third) international airport in Istanbul is planned to become the largest airport in the world, with a projected capacity to serve 150 million passengers annually.",
+        "• The 1915 Çanakkale Bridge, spanning the Dardanelles Strait and connecting Europe and Asia, holds the distinction of being the longest suspension bridge in the world.",
+        "• The Turkish State Railways (TCDD), a state-owned utility, operates a railway network totaling 12,740 kilometers, ranking as the 23rd longest railway network worldwide.",
+        "• Since 2003, Turkish State Railways has invested in high-speed rail lines, which, at 2,175 kilometers (1,353 miles), rank as the ninth longest high-speed rail network globally.",
+        "• As of 2010, Turkey's roadway network extended to 426,951 kilometers, comprising 2,080 kilometers of expressways and 16,784 kilometers of divided highways.",
+        "• The Turkish merchant marine fleet consisted of 1,199 ships as of 2010, with 604 of these vessels registered domestically, ranking Turkey 7th worldwide in merchant marine size.",
+        "• Turkey’s coastline includes 1,200 kilometers of navigable waterways, facilitating maritime transport and trade.",
+        "• In 2008, Turkey’s territory was traversed by 7,555 kilometers (4,694 miles) of natural gas pipelines and 3,636 kilometers (2,259 miles) of petroleum pipelines, supporting the country’s energy infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:42.082903",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "2.3.3",
+      "section_name": "Communications",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2008, Turkey had 17,502,000 operational landline telephones, ranking 18th globally in landline usage.",
+        "• In the same year, Turkey had 65,824,000 registered mobile phones, ranking 15th worldwide in mobile phone registrations.",
+        "• Türk Telekom is the largest landline telephone operator in Turkey and also owns TTNET, the country’s largest internet service provider.",
+        "• The major mobile phone operators in Turkey include Turkcell, Vodafone Turkey, Avea, and TTNET Mobil.",
+        "• The telecommunications liberalization process in Turkey began in 2004 following the establishment of the Telecommunication Authority and remains ongoing.",
+        "• Private sector companies operate in mobile telephony, long-distance telephony, and Internet access services within Turkey.",
+        "• The expansion of digital exchanges is enabling a rapid increase in telecommunications subscribers across the country.",
+        "• Turkey is developing a network of technologically advanced intercity trunk lines utilizing fiber-optic cable and digital microwave radio relay to enhance communication between urban centers.",
+        "• Remote areas in Turkey are serviced by a domestic satellite system, supporting communication access in less accessible regions.",
+        "• The number of subscribers to mobile-cellular telephone services in Turkey is growing rapidly, reflecting increased mobile penetration.",
+        "• International main line telephone service is provided through the SEA-ME-WE 3 submarine communications cable and additional submarine fiber-optic cables in the Mediterranean and Black Seas, linking Turkey with Italy, Greece, Israel, Bulgaria, Romania, and Russia.",
+        "• In 2002, Turkey operated 12 Intelsat satellite earth stations and had 328 mobile satellite terminals connected to the Inmarsat and Eutelsat systems.",
+        "• Türksat A.Ş. serves as Turkey’s primary communications satellite operator, managing the Turksat series of satellites.",
+        "• Turkey’s earth observation satellites for reconnaissance—Göktürk-1, Göktürk-2, and Göktürk-3—are operated by the Turkish Ministry of National Defense.",
+        "• Scientific observation satellites BILSAT-1 and RASAT are operated by the TÜBİTAK Space Technologies Research Institute, which collaborates with Turkish Aerospace Industries and Aselsan in the production of Turkey’s satellites.",
+        "• As of 2001, Turkey had 16 AM radio stations, 107 FM radio stations, and 6 shortwave radio stations (noted as needing update).",
+        "• By 2015, Turkey had 42,275,017 internet users, ranking 15th in the world for internet user population.",
+        "• As of 2012, Turkey had 7,093,000 internet hosts, ranking 16th globally in the number of internet hosts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:45.160860",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "2.3.4",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Turkey was the fifth most visited destination globally, attracting 55.2 million foreign tourists.",
+        "• In 2019, Turkey ranked sixth worldwide in international tourist arrivals, with 51.2 million foreign visitors.",
+        "• Turkey has increasingly become a favored tourist destination for many Europeans over the years.",
+        "• The country competes with other prominent Mediterranean tourist destinations, including Greece, Italy, and Spain.",
+        "• Popular tourist resorts are located in the provinces of Antalya and Muğla, which are situated on the Turkish Riviera.",
+        "• The resorts in Antalya and Muğla have gained significant popularity among international tourists."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:44.853140",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "2.3.5",
+      "section_name": "Medical tourism",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Başakşehir Çam and Sakura City Hospital is a notable medical facility located in Istanbul, Turkey.",
+        "• Turkey has a significant number of private hospitals that have contributed to the growth of medical tourism in recent years.",
+        "• In 2019, health tourism generated revenues amounting to $1 billion for the Turkish economy.",
+        "• During the same year, a total of 662,087 patients received treatment at Turkish hospitals under the scope of health tourism.",
+        "• Approximately 60% of the income derived from health tourism in Turkey in 2019 was generated through plastic surgeries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:43.928917",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "3",
+      "section_name": "Largest companies",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2024, ten publicly traded Turkish companies were included in the Forbes Global 2000 list, which ranks the top 2000 public companies worldwide based on a composite score of revenue, profits, assets, and market value.",
+        "• The banking sector is the most represented among Turkish companies on the 2024 Forbes Global 2000 list, with four companies included: İş Bankası, Akbank, VakıfBank, and Halkbank.",
+        "• Other industries represented by Turkish companies on the list include the airline industry with Turkish Airlines, the automotive industry with Ford Otosan, and retail with BIM.",
+        "• Three Turkish conglomerates are also listed in the 2024 Forbes Global 2000: Koç Holding, Sabancı Holding, and Anadolu Grubu.",
+        "• Koç Holding ranks highest among Turkish companies at world rank 309, operating as a conglomerate with a 2024 revenue of $67.36 billion, profits of $3.03 billion, assets totaling $96.8 billion, and a market value of $19.27 billion.",
+        "• İş Bankası, a banking company, holds the world rank 525 with $17.6 billion in revenue, $3.03 billion in profits, $100.05 billion in assets, and a market value of $11.49 billion.",
+        "• Turkish Airlines, representing the airline industry, is ranked 539 globally, reporting $21.17 billion in revenue, $6.84 billion in profits, $35.55 billion in assets, and a market value of $13.81 billion.",
+        "• Akbank, another banking institution, is ranked 666 worldwide with $14.7 billion in revenue, $2.57 billion in profits, $64.06 billion in assets, and a market value of $10.15 billion.",
+        "• VakıfBank, also in banking, is ranked 759 globally, with revenues of $16.34 billion, profits of $1.33 billion, assets of $96.81 billion, and a market value of $6.59 billion.",
+        "• Sabancı Holding, a conglomerate, is ranked 878 worldwide, generating $23.13 billion in revenue, $0.64 billion in profits, $74.23 billion in assets, and a market value of $6.64 billion.",
+        "• Ford Otosan, representing the automotive industry, is ranked 893 globally with $17.29 billion in revenue, $2.06 billion in profits, $7.35 billion in assets, and a market value of $13.15 billion.",
+        "• Halkbank, a banking company, is ranked 957 worldwide, with $15.81 billion in revenue, $0.65 billion in profits, $77.98 billion in assets, and a market value of $3.9 billion.",
+        "• Anadolu Grubu, a conglomerate, is ranked 1384 globally, reporting $15.77 billion in revenue, $0.82 billion in profits, $13.27 billion in assets, and a market value of $2.78 billion.",
+        "• BIM, the sole retailer on the list, is ranked 1446 worldwide with $13.79 billion in revenue, $0.64 billion in profits, $5.02 billion in assets, and a market value of $9.02 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:53.346029",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "4",
+      "section_name": "Long term GDP forecasts",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The OECD published long-term GDP projections in February 2022 for the 16 largest economies by GDP using Purchasing Power Parity (PPP) exchange rates, covering the years 2030 to 2060.",
+        "• In 2021, the largest economy by GDP at 2010 constant PPP (in billions USD) was China with 26,656 billion USD, followed by the United States at 22,675 billion USD, and India at 10,181 billion USD.",
+        "• By 2030, China is projected to maintain its lead with a GDP of 36,977 billion USD, followed by India at 16,603 billion USD, and the United States at 24,302 billion USD.",
+        "• In 2040, China’s GDP is forecasted to reach 47,306 billion USD, India to 25,083 billion USD, and the United States to 28,063 billion USD, with Indonesia rising to fourth place at 7,507 billion USD.",
+        "• By 2050, India is projected to surpass the United States, reaching 33,363 billion USD compared to the U.S. at 32,119 billion USD; China remains the largest at 54,765 billion USD; Indonesia and Turkey also show significant growth with 9,846 billion USD and 5,934 billion USD respectively.",
+        "• In 2060, China is expected to have a GDP of 62,140 billion USD, India 42,204 billion USD, and the United States 36,527 billion USD; Indonesia is projected at 12,320 billion USD, and Turkey is forecasted to enter the top 6 with 7,068 billion USD.",
+        "• Turkey’s GDP in 2021 was 2,749 billion USD, ranking 11th among the largest economies, and is projected to grow to 3,653 billion USD by 2030, 4,776 billion USD by 2040, 5,934 billion USD by 2050, and 7,068 billion USD by 2060.",
+        "• Japan’s GDP was 5,585 billion USD in 2021, projected to slightly increase to 5,632 billion USD by 2030, then to 5,908 billion USD in 2040, 6,060 billion USD in 2050, and 6,333 billion USD in 2060.",
+        "• Germany’s GDP was 4,743 billion USD in 2021, expected to slightly decline to 4,566 billion USD by 2030, then increase to 4,914 billion USD in 2040, 5,362 billion USD in 2050, and 5,891 billion USD in 2060.",
+        "• Russia’s GDP was 4,328 billion USD in 2021, projected to be 4,233 billion USD in 2030, increasing to 4,624 billion USD in 2040, 4,882 billion USD in 2050, and 5,340 billion USD in 2060.",
+        "• Indonesia’s GDP was 3,507 billion USD in 2021, forecasted to grow to 5,309 billion USD by 2030, 7,507 billion USD by 2040, 9,846 billion USD by 2050, and 12,320 billion USD by 2060.",
+        "• Brazil’s GDP was 3,328 billion USD in 2021, expected to increase gradually to 3,759 billion USD in 2030, 4,492 billion USD in 2040, 5,168 billion USD in 2050, and 5,746 billion USD in 2060.",
+        "• France’s GDP was 3,231 billion USD in 2021, projected to grow to 3,267 billion USD by 2030, 3,679 billion USD by 2040, 4,148 billion USD by 2050, and 4,736 billion USD by 2060.",
+        "• The United Kingdom’s GDP was 3,174 billion USD in 2021, forecasted to be 3,375 billion USD in 2030, 3,800 billion USD in 2040, 4,249 billion USD in 2050, and 4,768 billion USD in 2060.",
+        "• Mexico’s GDP was 2,613 billion USD in 2021, expected to increase to 3,073 billion USD by 2030, 3,832 billion USD by 2040, 4,620 billion USD by 2050, and 5,407 billion USD by 2060.",
+        "• Italy’s GDP was 2,610 billion USD in 2021, projected to be 2,499 billion USD in 2030, 2,692 billion USD in 2040, 2,959 billion USD in 2050, and 3,366 billion USD in 2060.",
+        "• South Korea’s GDP was 2,436 billion USD in 2021, forecasted to be 2,675 billion USD in 2030, 2,866 billion USD in 2040, 2,880 billion USD in 2050, and 3,104 billion USD in 2060.",
+        "• Canada’s GDP was 2,027 billion USD in 2021, expected to grow to 2,062 billion USD in 2030, 2,370 billion USD in 2040, 2,694 billion USD in 2050, and 3,046 billion USD in 2060.",
+        "• Spain’s GDP was 1,959 billion USD in 2021, projected to be 2,094 billion USD in 2030, with no further ranking in the top 16 after 2030.",
+        "• Saudi Arabia is projected to enter the top 16 by 2040 with a GDP of 2,362 billion USD, increasing to 2,698 billion USD in 2050 and 3,066 billion USD in 2060.",
+        "• The projections reflect significant shifts in global economic rankings over the 30-year period, with emerging economies such as India, Indonesia, and Turkey rising in prominence relative to traditional economic powers like Japan, Germany, and the United Kingdom."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:23:18.230557",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "5",
+      "section_name": "External trade and investment",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2016, Turkey's main trading partners include the European Union, Russia, the United Kingdom, the United Arab Emirates (UAE), Iraq, and China, with many of these countries ranking highly in both Turkish exports and imports.",
+        "• Turkey has leveraged a customs union agreement with the European Union, signed in 1995, to boost its industrial production aimed at exports while simultaneously attracting foreign investment originating from the EU.",
+        "• Beyond the European-Turkish Customs Union, the Turkish government has established free-trade agreements with 22 other countries to further enhance its trade relations.",
+        "• The automotive industry constitutes a significant portion of Turkey's trade, with cars being the top export valued at $13.2 billion according to the 1992 revision of the Harmonized System classification.",
+        "• Other major Turkish exports include gold ($6.96 billion), delivery trucks ($5.04 billion), vehicle parts ($4.64 billion), and jewelry ($3.39 billion), all measured using the 1992 Harmonized System classification.",
+        "• Turkey imports many of the same categories it exports, with gold imports valued at $17.1 billion, refined petroleum at $9.8 billion, cars at $8.78 billion, vehicle parts at $6.34 billion, and scrap iron at $5.84 billion.",
+        "• Prominent construction and contracting companies such as Enka, Rönesans Holding, and Tekfen play significant roles in Turkey's economy.",
+        "• Starting in 2024, Turkish exporters to the European Union began hedging against the upcoming EU Carbon Border Adjustment Mechanism, which will require payment from 2026, by purchasing EU Allowances in anticipation of carbon pricing.",
+        "• Turkey has made notable progress in the World Bank's Ease of Doing Business Index, improving its rank from 68th in 2017 to 33rd in 2020, and by 2021 performing better than countries including the Netherlands and Belgium.",
+        "• Trade statistics for Turkey show a steady increase in goods exports from $1.5 billion in 1975 to $251.0 billion in 2023.",
+        "• Goods imports also rose significantly, from $4.5 billion in 1975 to $337.3 billion in 2023.",
+        "• Despite growth in exports, Turkey has maintained a negative net trade balance throughout the years, with deficits ranging from −$3.0 billion in 1975 to −$86.3 billion in 2023."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:55.088737",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Studies indicate that phasing out coal in favor of renewable energy sources in Turkey would lead to increased employment opportunities.",
+        "• In 2022, Turkey's energy trade deficit exceeded 80 billion US dollars, significantly contributing to the country's large foreign trade deficit.",
+        "• The European Union supports Turkey's energy efficiency and renewable energy initiatives through the €1 billion Mid-size Sustainable Energy Financing Facility (MidSEFF), which finances investments in these sectors.",
+        "• In 2021, energy subsidies in Turkey amounted to 200 billion Turkish lira.",
+        "• The Turkish government provides up to 150 kWh of free electricity per month to approximately two million poor families as a social support measure.",
+        "• Fatih Birol, head of the International Energy Agency, stated in 2019 that due to decreasing costs, Turkey should prioritize maximizing onshore wind power development.",
+        "• Carbon Tracker's economic modeling shows that for new power plants, both wind and solar energy are already cheaper than coal power in Turkey.",
+        "• Carbon Tracker forecasts that by 2023, existing coal plants in Turkey will become more expensive to operate than new solar power plants, and by 2027, more expensive than new wind power plants.",
+        "• In 2019, the majority of energy deals in Turkey were related to renewable energy projects, with over 50% of the investment coming from foreign sources.",
+        "• The external costs associated with fossil fuel consumption in Turkey were estimated at 1.5% of the country's GDP in 2018.",
+        "• The Turkish government regulates the prices of residential gas and electricity; as of 2018, the high cost of energy was identified as the most significant problem within Turkey's energy system for residential consumers.",
+        "• In 2022, Turkey's energy import bill reached 97 billion US dollars.",
+        "• Maintaining low consumer energy prices remains a political priority in Turkey.",
+        "• A 2024 report by Shura estimated that the costs of transitioning to clean energy in Turkey amount to about half the benefits, with the majority of benefits arising from reductions in air pollution and carbon emissions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:56.728511",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "5.1.1",
+      "section_name": "Renewable energy",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Renewable energy sources supply approximately 25% of Turkey’s total energy consumption, encompassing both heat and electricity sectors.",
+        "• Residential use of renewable energy includes rooftop solar water heating systems, while geothermal heat from underground sources warms numerous spas and greenhouses across the country.",
+        "• In western regions of Turkey, shallow hot rocks provide geothermal potential sufficient to generate both electricity and heat.",
+        "• Wind energy, primarily concentrated near western cities and industrial areas, contributes about 10% of Turkey’s electricity generation.",
+        "• Hydropower, predominantly generated from dams located in eastern Turkey, represents the only fully exploited modern renewable energy resource in the country.",
+        "• On average, hydropower accounts for roughly 20% of Turkey’s electricity production, though this share decreases significantly during drought years.",
+        "• Other renewable sources—including geothermal, solar, and biogas—collectively produced nearly 10% of Turkey’s electricity in 2022, supplementing wind and hydropower contributions.",
+        "• More than 50% of Turkey’s installed electricity generation capacity is derived from renewable energy technologies.",
+        "• Historically, Turkey has utilized wood burning, windmills, and hot springs for energy and bathing purposes, reflecting a long-standing tradition of renewable resource use.",
+        "• Numerous dams were constructed from the mid-20th century through the early 21st century; however, critics argue that insufficient civil society participation in energy policymaking has led to public protests against dam construction, geothermal plants, and at least one wind farm project.",
+        "• Despite Turkey’s abundant solar radiation, solar power remains underdeveloped due to infrastructural and policy limitations.",
+        "• The existing flexibility of Turkey’s electricity system makes it feasible to increase renewable energy penetration up to 70% without major technical barriers.",
+        "• Accelerated expansion of solar power is contingent upon faster improvements to the electricity grid and revisions to energy policy, particularly the removal of fossil fuel subsidies.",
+        "• Planned developments include numerous hybrid power plants and the integration of battery storage systems to enhance renewable energy utilization.",
+        "• Key companies with significant renewable energy portfolios include the state electricity generation company (primarily hydroelectric), Aydem, and Kalyon.",
+        "• Achieving a coal phase-out by 2030 through increased renewable energy deployment, rather than the national net zero greenhouse gas emissions target year of 2053, would yield substantial health benefits and help reduce inflation in Turkey.",
+        "• As of 2022, renewable energy capacity and generation levels are insufficient to meet the 2053 net zero emissions target.",
+        "• Turkey is manufacturing various electric vehicles, which are expected to utilize increased renewable electricity generation and contribute to reductions in air pollution."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:57.704596",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "5.1.1.1",
+      "section_name": "Gas",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The drilling vessel _Kanuni_ has conducted drilling operations in the Black Sea region of Turkey.",
+        "• Natural gas accounts for over 25% of Turkey's total energy supply, highlighting its significant role in the national energy mix.",
+        "• Turkey's annual natural gas consumption ranges between 50 and 60 billion cubic meters, with nearly the entirety of this volume being imported from abroad.",
+        "• In 2023, production commenced from a large natural gas field located in the Black Sea, marking a notable development in domestic gas production.",
+        "• Following the onset of the Russian invasion of Ukraine in 2022, several European countries ceased purchasing Russian oil and gas; however, Turkey maintained strong bilateral relations with Russia and continued to import both commodities.",
+        "• Approximately 50% of Turkey's natural gas imports originate from Russia, underscoring Russia's dominant position as a gas supplier to Turkey.",
+        "• As of 2023, wholesale natural gas prices in Turkey remain high, contributing substantially to the country's overall import expenditure on energy.",
+        "• The largest consumer segment of natural gas in Turkey is households, followed by industrial users and power generation facilities.",
+        "• More than 80% of Turkey's population has access to natural gas infrastructure, and natural gas fulfills about half of the nation's heating needs.",
+        "• The state-owned oil and gas wholesaler BOTAŞ controls approximately 80% of the Turkish natural gas market, enabling the government to provide subsidies to both residential and industrial gas consumers.",
+        "• Industrial and commercial customers, along with households that consume gas above a specified threshold, have the option to switch their natural gas suppliers, reflecting a degree of market liberalization."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:54.578567",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "5.1.1.2",
+      "section_name": "Oil",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Oil accounts for over 25% of Turkey's energy supply, highlighting its significant role in the national energy mix.",
+        "• Turkey produces only a small fraction of the oil it consumes, specifically about 7%, leading to a heavy reliance on imported oil and oil products.",
+        "• The country is almost entirely dependent on imports for oil and oil derivatives such as petrol and diesel, which constitute over half of the fuel consumed by Turkey's road vehicles.",
+        "• Turkey holds the distinction of being the world's largest consumer of liquefied petroleum gas (LPG) for road transportation purposes.",
+        "• Due to the low domestic oil production relative to consumption, Turkey's total oil imports exceed its exports, creating an economic challenge related to trade balance.",
+        "• Following the onset of the 2022 Russian invasion of Ukraine, several European nations ceased purchasing Russian oil, petrol, and diesel; however, Turkey maintained its imports from Russia due to its strong bilateral relations.",
+        "• Tankers navigating the Bosporus Strait serve as a critical route for exporting oil from Central Asia, facilitating the movement of oil through Turkey."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:57.442502",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "5.1.1.3",
+      "section_name": "Coal",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Coal accounts for one quarter of Turkey's primary energy supply, positioning the country among the largest coal consumers globally.",
+        "• The Turkish coal industry is heavily subsidized and is responsible for generating over one third of the nation's electricity.",
+        "• Coal combustion contributes approximately one third of Turkey's total greenhouse gas emissions, highlighting its significant environmental impact.",
+        "• Coal usage is a major source of air pollution across Turkey, adversely affecting public health nationwide, with coal being burned not only in power stations but also in homes and urban areas.",
+        "• The majority of coal combustion occurs in power stations, and it is estimated that phasing out coal power by 2030, rather than the 2050s, could prevent over 100,000 premature deaths in Turkey.",
+        "• Although flue gas emission limits exist and mandatory emissions reporting is required, the data collected is not publicly accessible.",
+        "• Over 90% of coal mined domestically in Turkey is lignite (brown coal), which is more polluting compared to other coal types.",
+        "• Turkish energy policy promotes lignite mining to fuel coal-fired power plants as a strategy to reduce reliance on imported natural gas.",
+        "• Coal contributes to more than 40% of Turkey’s domestic energy production, underscoring its central role in the national energy mix.",
+        "• Coal burning in Turkey reached its peak in 2018, while coal mining peaked in 2022 at approximately 100 million tonnes.",
+        "• Despite substantial local lignite production, Turkey imports the majority of its bituminous coal, primarily from Russia.",
+        "• The largest coalfield in Turkey is located in Elbistan, which is a significant site for lignite mining.",
+        "• Turkey is bidding to host the 2026 United Nations Climate Change Conference, where securing international agreement on coal phase-out will be a critical issue.",
+        "• The Turkish Coal Operations Authority operates government-owned coal mines, including a notable mine in Yeniköy, Milas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:23:03.289214",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Minerals",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2019, Turkey was the world's 2nd largest producer of chromium, highlighting its significant role in the global chromium market.",
+        "• Turkey held the position of the largest producer of boron worldwide in 2019, underscoring its dominance in boron mineral production.",
+        "• The country ranked as the 6th largest producer of antimony globally in 2019, indicating a substantial output of this mineral.",
+        "• Turkey was the 9th largest global producer of lead in 2019, reflecting its important contribution to lead supply.",
+        "• In 2019, Turkey was the 13th largest producer of iron ore worldwide, demonstrating notable iron ore mining activities.",
+        "• The nation ranked 11th in the world for molybdenum production in 2019, marking its presence in this mineral sector.",
+        "• Turkey was the 4th largest producer of gypsum globally in 2019, showing significant gypsum extraction.",
+        "• The country was the 15th largest producer of graphite worldwide in 2019, contributing to the global graphite market.",
+        "• Additionally, Turkey ranked as the 11th largest producer of salt globally in 2019, indicating its salt production capacity.",
+        "• As a gold producer, Turkey was ranked 22nd globally, reflecting its emerging status in the gold mining industry.",
+        "• Turkey is the largest gold producer in Europe, hosting some of the continent's largest gold deposits.",
+        "• In 2020, Turkey produced 42 tonnes of gold, emphasizing its growing gold production volume.",
+        "• Notable world-class gold deposits in Turkey include the Kisladag Mine with 17 million ounces (Moz) of gold and the Copler deposit with 10 million ounces (Moz) of gold.",
+        "• Marble quarries are present in Turkey, indicating the country's involvement in marble extraction, although specific details on production or ranking were not provided."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:23:04.199226",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "6",
+      "section_name": "Environment",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Almost all post-COVID-19 economic stimulus measures globally were detrimental to the environment, with Russia identified as the only country performing worse than Turkey in this regard.",
+        "• In the 21st century, Turkey’s fossil fuel subsidies amount to approximately 0.2% of its Gross Domestic Product (GDP).",
+        "• Between January 2020 and September 2021, Turkey provided at least US$14 billion in fossil fuel subsidies, which equates to US$169 per person.",
+        "• Detailed data regarding financial support for fossil fuels from Turkey’s state-owned banks and export credit agencies is not publicly available.",
+        "• As of 2023, subsidies for fossil gas in Turkey exceed those for electricity, and equalizing subsidies between fossil gas and electricity is identified as a measure that would benefit the environment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:59.860257",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "7",
+      "section_name": "Employment",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of January 1, 2025, the minimum wage in Turkey is set at ₺22,104, equivalent to US$630.36.",
+        "• TurkStat estimated the national unemployment rate in Turkey at 9.4% for the year 2023.",
+        "• Among Turkish provinces, Hakkari recorded the highest unemployment rate at 23.3% in 2023.",
+        "• Conversely, Sinop province had the lowest unemployment rate in 2023, measured at 4.8%.",
+        "• In 2021, trade unions raised concerns regarding discrepancies between unemployment data sources: TurkStat data indicated a declining unemployment rate, whereas figures from the government’s Employment Agency (İŞKUR) suggested an increasing trend; this discrepancy requires updating.",
+        "• Environmental advocates argue that certain environmental improvement initiatives, such as investments in wind power and solar power within Turkey, would not only benefit ecological sustainability but also stimulate economic growth by creating employment opportunities.",
+        "• Renewable energy sectors like wind and solar power in Turkey are considered competitive with traditional fossil fuel industries, enhancing their potential to contribute positively to the labor market and economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:23:02.050709",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "8",
+      "section_name": "Poverty",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Turkey experienced steady progress in reducing poverty from the early 2000s through the mid-2010s, indicating sustained improvements in living standards over this period.",
+        "• In 2022, Turkey's social security expenditure accounted for 12.4% of its Gross Domestic Product (GDP), as reported by the Organisation for Economic Co-operation and Development (OECD)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:22:59.433359",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "9",
+      "section_name": "Regional disparities",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to Eurostat data, Turkey's GDP per capita adjusted by purchasing power standards was 64 percent of the European Union average in 2018.",
+        "• Istanbul holds the position of having the largest total GDP among Turkish cities.",
+        "• Kocaeli ranks first in Turkey in terms of GDP per capita, surpassing other regions.",
+        "• Economic wealth in Turkey is predominantly concentrated in the northwest and western regions of the country.",
+        "• The eastern and southeastern regions of Turkey experience significant poverty, lower levels of economic production, and higher unemployment rates compared to other parts of the country.",
+        "• Despite regional disparities, the rapid growth of Turkey's GDP during the first two decades of the 21st century, notwithstanding brief periods of economic stagnation and recession, has led to improved economic standards in parts of Anatolia.",
+        "• The cities in Anatolia that have experienced notable economic growth and rising standards of living are collectively referred to as the \"Anatolian Tigers.\""
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:23:03.791432",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Richest and poorest NUTS-2 regions (GDP PPP 2022)",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the GDP per capita of Turkey was €23,800, representing 67% of the EU-28 average according to Eurostat – ESA data.",
+        "• Istanbul was the richest NUTS-2 region in Turkey in 2022, with a GDP per capita of €38,700, which is 109% of the EU-28 average.",
+        "• Kocaeli ranked second among the richest regions, with a GDP per capita of €31,500, equivalent to 89% of the EU-28 average.",
+        "• Ankara followed closely with a GDP per capita of €31,100, representing 88% of the EU-28 average.",
+        "• Tekirdağ had a GDP per capita of €29,700 in 2022, amounting to 84% of the EU-28 average.",
+        "• Izmir’s GDP per capita was €29,500, corresponding to 83% of the EU-28 average.",
+        "• Bursa recorded a GDP per capita of €25,700, which is 73% of the EU-28 average.",
+        "• Antalya’s GDP per capita stood at €23,900, representing 68% of the EU-28 average.",
+        "• Balıkesir had a GDP per capita of €21,600, equal to 61% of the EU-28 average.",
+        "• Aydın’s GDP per capita was €20,900, accounting for 59% of the EU-28 average.",
+        "• Manisa and Adana both had a GDP per capita of €20,000, each representing 56% of the EU-28 average.",
+        "• Konya’s GDP per capita was €19,100, which is 54% of the EU-28 average.",
+        "• Zonguldak recorded a GDP per capita of €18,700, amounting to 53% of the EU-28 average.",
+        "• Kırıkkale had a GDP per capita of €17,700, representing 50% of the EU-28 average.",
+        "• Kayseri’s GDP per capita was €17,500, corresponding to 49% of the EU-28 average.",
+        "• Gaziantep also had a GDP per capita of €17,400, equal to 49% of the EU-28 average.",
+        "• Kastamonu’s GDP per capita was €16,700, which is 47% of the EU-28 average.",
+        "• Hatay recorded a GDP per capita of €15,700, representing 44% of the EU-28 average.",
+        "• Samsun had a GDP per capita of €14,000, amounting to 39% of the EU-28 average.",
+        "• Erzurum’s GDP per capita was €13,900, corresponding to 39% of the EU-28 average.",
+        "• Trabzon recorded a GDP per capita of €13,200, equal to 37% of the EU-28 average.",
+        "• Malatya had a GDP per capita of €12,900, representing 37% of the EU-28 average.",
+        "• Mardin’s GDP per capita was €12,200, which is 34% of the EU-28 average.",
+        "• Ağrı had a GDP per capita of €9,800, amounting to 28% of the EU-28 average.",
+        "• Şanlıurfa recorded a GDP per capita of €9,100, representing 26% of the EU-28 average.",
+        "• Van was the poorest NUTS-2 region in Turkey in 2022, with a GDP per capita of €8,600, which is 24% of the EU-28 average."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:23:14.855644",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "9.2",
+      "section_name": "Richest and poorest NUTS-1 regions (GDP PPP 2022)",
+      "chapter_name": "Economy of Turkey",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the GDP per capita of Turkey was €23,800, which represented 67% of the European Union 28 (EU-28) average according to Eurostat – ESA data.",
+        "• Istanbul was the richest NUTS-1 region in Turkey in 2022, with a GDP per capita of €38,700, equating to 109% of the EU-28 average.",
+        "• The East Marmara region had a GDP per capita of €28,600 in 2022, corresponding to 81% of the EU-28 average.",
+        "• West Anatolia's GDP per capita in 2022 was €27,400, representing 77% of the EU-28 average.",
+        "• West Marmara recorded a GDP per capita of €25,800 in 2022, which was 73% of the EU-28 average.",
+        "• The Aegean region had a GDP per capita of €24,200 in 2022, amounting to 68% of the EU-28 average.",
+        "• The Mediterranean region's GDP per capita was €19,900 in 2022, equating to 56% of the EU-28 average.",
+        "• Central Anatolia had a GDP per capita of €17,600 in 2022, representing 50% of the EU-28 average.",
+        "• West Black Sea's GDP per capita in 2022 was €15,500, which was 44% of the EU-28 average.",
+        "• East Black Sea recorded a GDP per capita of €13,200 in 2022, corresponding to 37% of the EU-28 average.",
+        "• Southeast Anatolia had a GDP per capita of €12,500 in 2022, amounting to 35% of the EU-28 average.",
+        "• Northeast Anatolia's GDP per capita was €11,800 in 2022, representing 33% of the EU-28 average.",
+        "• The poorest NUTS-1 region in Turkey in 2022 was Central East Anatolia, with a GDP per capita of €10,500, which was only 30% of the EU-28 average."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:23:07.836822",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_turkey.json",
+      "original_index": 32
+    }
+  ]
+}

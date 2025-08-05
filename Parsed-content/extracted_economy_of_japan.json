@@ -1,0 +1,777 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_japan.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.166636",
+    "total_sections_in_source": 26,
+    "extracted_sections_count": 26,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Japan is a highly developed mixed economy, often characterized as an East Asian model, combining advanced industrial and service sectors with a significant degree of government intervention.",
+        "• According to the International Monetary Fund (IMF) forecast for 2025, Japan is projected to be the fifth-largest economy globally by both nominal gross domestic product (GDP) and purchasing power parity (PPP).",
+        "• In 2024, Japan's economy constituted approximately 3.7% of the world's total economy on a nominal basis.",
+        "• The IMF forecast for 2025 estimates Japan's per capita GDP (PPP) at $54,678.",
+        "• Due to volatile currency exchange rates, Japan's nominal GDP measured in US dollars experiences sharp fluctuations.",
+        "• Japan is a founding member of the Group of Seven (G7) and an early member of the Organisation for Economic Co-operation and Development (OECD).",
+        "• Japan was the first country in Asia to achieve developed country status.",
+        "• In 2018, Japan ranked as the fourth-largest global importer and exporter, and also had the world's fourth-largest consumer market.",
+        "• Historically, Japan maintained a substantial trade surplus, but this trend has declined since the 1980s due to the decline of its manufacturing sector and increased fossil fuel imports following the Fukushima nuclear accident in 2011.",
+        "• Japan is the world's largest creditor nation, holding a significant net international investment surplus.",
+        "• The country possesses the second-largest foreign exchange reserves in the world, valued at approximately $1.4 trillion.",
+        "• Japan has the third-largest financial assets globally, valued at $12 trillion as of 2020, representing about 8.6% of the global GDP.",
+        "• The social security system in Japan is highly efficient and robust, accounting for roughly 23.5% of GDP.",
+        "• The Tokyo Stock Exchange is the third-largest stock exchange worldwide by market capitalization as of 2024.",
+        "• The Japanese economy is predominantly service-oriented, contributing approximately 70% of GDP, with the remaining majority derived from industrial activities.",
+        "• Japan's industrial sector is dominated by the automobile industry, which is the second-largest in the world, with Toyota being the largest global car manufacturer.",
+        "• Japan is frequently ranked among the most innovative countries, leading several global patent filing measures.",
+        "• Since the 1990s, Japan's manufacturing industry has lost its dominant global position.",
+        "• In 2022, Japan allocated around 3.7% of its GDP to research and development (R&D).",
+        "• As of 2024, 40 companies listed in the Fortune Global 500 are based in Japan.",
+        "• Historically, Japan was an agricultural nation and was estimated to be among the top ten economies in the world before the industrial revolution.",
+        "• Industrialization in Japan began in the late 19th century during the Meiji Restoration, initially focusing on textiles and later on heavy industries.",
+        "• Japan rapidly expanded its colonial empire and developed the third-largest navy in the world during the early 20th century.",
+        "• After World War II, Japan's economy recovered swiftly and grew rapidly, driven mainly by its manufacturing export industries.",
+        "• Japan became the second-largest economy globally in 1968 and maintained this position until 2010.",
+        "• During the 1980s and 1990s, Japan had the highest per capita income among G7 countries.",
+        "• In 1995, Japan's share of the world's nominal GDP was 17.8%, approximately 71% of the US share at that time.",
+        "• The asset price bubble burst in the early 1990s, leading to a prolonged period of economic stagnation known as the \"Lost Decades,\" characterized by deflation and low or negative growth.",
+        "• From 1995 to 2023, Japan's nominal GDP declined from $5.5 trillion to $4.2 trillion.",
+        "• The Bank of Japan implemented quantitative easing policies starting at the turn of the 21st century, purchasing government bonds at an unprecedented scale to combat deflation.",
+        "• In 2016, Japan introduced a negative interest rate policy to stimulate growth and address persistent deflation, which was maintained until 2024.",
+        "• Japan achieved its 2% inflation target through domestic policies and global economic conditions, concluding the policy in 2024.",
+        "• As of 2021, Japan's public debt is approximately 260% of GDP, significantly higher than other developed nations.",
+        "• About 45% of Japan's public debt is held by the Bank of Japan, with most of the remainder held domestically.",
+        "• Japan faces demographic challenges due to an aging and declining population, which peaked at 128.5 million in 2010 and decreased to 122.6 million in 2024.",
+        "• In 2022, Japan's working-age population (ages 15-64) was approximately 59.4% of the total population, the lowest among OECD countries.",
+        "• The Japanese government projects that the population will decline to 87 million by 2070, with only 45 million of working age."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:50:45.665162",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 37
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economic history of Japan is extensively studied due to its significant milestones and unique development trajectory.",
+        "• The foundation of the Tokugawa shogunate in Edo in 1603 marked the beginning of a period characterized by internal economic development and stability.",
+        "• The Meiji Restoration of 1868 was a pivotal event that transformed Japan into the first non-European modern world power, initiating rapid modernization and industrialization.",
+        "• Japan was defeated in World War II in 1945, which led to widespread destruction and economic upheaval.",
+        "• Following World War II, Japan experienced a remarkable economic recovery, ultimately becoming the world's second-largest economy, surpassing many Western nations.",
+        "• The period known as the Lost Decades encompasses the 1990s, 2000s, and arguably the 2010s, during which Japan faced prolonged economic stagnation characterized by persistent deflation and extremely low or negative growth rates."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:50:49.245413",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Edo period (1603–1868)",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 1856 ukiyo-e depicts Echigoya, the predecessor of the current Mitsukoshi department store, highlighting the historical significance of commerce during the Edo period.",
+        "• The Edo period (1603–1868) began concurrently with the final decades of the Nanban trade period, characterized by intense interactions between Japan and European powers.",
+        "• During this time, Japan constructed its first Western-style warships, notably the _San Juan Bautista_, and commissioned approximately 350 Red Seal Ships for intra-Asian trade.",
+        "• Japanese adventurers, including Yamada Nagamasa, were active throughout Asia, promoting Japanese influence and commerce beyond domestic borders.",
+        "• To eliminate Christian influence, Japan adopted a policy of national isolation called _sakoku_ in the 1630s, which resulted in economic stability and limited progress.",
+        "• In the 1650s, Japanese export porcelain production surged significantly due to a civil war in China, particularly affecting the Kyushu region; this trade declined by the 1740s because of renewed Chinese competition but later resumed after Japan’s mid-19th-century reopening.",
+        "• The Edo period saw notable economic development, including urbanization, increased commodity shipping, and expansion of domestic and international commerce.",
+        "• Key sectors such as construction, banking, and merchant associations experienced significant growth, reflecting a thriving economic environment.",
+        "• _Daimyō_-led domains (_han_) oversaw rising agricultural productivity and rural handicrafts, contributing to regional economic stability.",
+        "• By the mid-18th century, Edo’s population exceeded 1 million, while Osaka and Kyoto each had populations over 400,000, establishing them as major centers for trade and handicraft production.",
+        "• Rice served as the primary economic commodity, taxed at approximately 40% of the harvest, and was sold at the fudasashi market in Edo.",
+        "• _Daimyō_ employed forward contracts, akin to modern futures trading, to sell rice before harvest, facilitating risk management and market stability.",
+        "• During the _sakoku_ period, Japan engaged in _rangaku_ (Dutch learning), studying Western sciences and techniques such as geography, medicine, natural sciences, astronomy, and mechanical sciences through Dutch traders based in Dejima.",
+        "• Japan’s economy reopened to Western influence after being pressured by the United States in 1853 and 1854, marking the end of its period of isolation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:50:54.482895",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Pre-war period (1868–1945)",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the Meiji Restoration in the mid-19th century, Japan opened up to Western commerce and influence, initiating a period of significant economic development that continued until the First World War.",
+        "• The prewar economic development was primarily driven by the \"Rich State and Strong Army Policy\" implemented by the Meiji government.",
+        "• During the Meiji period (1868–1912), Japan established a new Western-based education system accessible to all young people, emphasizing modernization and international integration.",
+        "• The government sent thousands of students abroad to Europe and the United States to acquire modern knowledge and skills.",
+        "• Over 3,000 Western experts (_Oyatoi gaikokujin_) were hired to teach modern science, mathematics, technology, and foreign languages in Japan.",
+        "• Infrastructure development included the construction of an extensive railway network, improvements to roads, and the initiation of land reform programs to facilitate economic growth.",
+        "• To promote industrialization, the Japanese government adopted a policy that supported private enterprise, believing that while the government should assist in resource allocation and planning, private businesses were best suited to drive economic growth.",
+        "• The government’s role was to create favorable economic conditions for business, acting as a guide while businesses served as the primary producers.",
+        "• In the early Meiji period, the government built factories and shipyards, which were subsequently sold to entrepreneurs at a fraction of their value, encouraging private ownership and enterprise.",
+        "• Many of these government-founded businesses rapidly expanded into large conglomerates, notably Mitsubishi.",
+        "• The government became the chief promoter of private enterprise by enacting a series of pro-business policies aimed at fostering economic development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:50:59.795508",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Post-war period (1945–1989)",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Japan experienced a significant economic transformation and rapid recovery following World War II, emerging as a global economic powerhouse by the post-war period.",
+        "• The immediate post-war years saw Japan gradually recover as a democratic nation under the Allied Occupation, which contributed to political and economic stabilization.",
+        "• The Korean War (1950–1953) played a crucial role in boosting Japan’s economy, as Japan served as a major supply hub for U.S. forces during the conflict.",
+        "• During the 1950s and 1960s, Japan’s economy entered a period of high growth known as the 'Japanese Economic Miracle,' characterized by rapid industrial expansion.",
+        "• Key factors driving this economic growth included government-industry cooperation, a strong work ethic among the populace, advanced technological development, and a focus on export-oriented manufacturing strategies.",
+        "• Japan’s economic diversification shifted from textiles to steel, shipbuilding, and eventually to electronics and automobiles, with companies such as Toyota, Sony, Hitachi, and Honda becoming internationally renowned brands.",
+        "• In 1968, Japan became the world’s third-largest economy, reflecting its rapid industrial and economic development.",
+        "• By 1988, Japan had ascended to the second-largest economy globally, surpassing the Soviet Union’s economy, a position it maintained until 2010 when China overtook it.",
+        "• Japan’s economic ranking was maintained until 2010, when China surpassed Japan to become the world’s second-largest economy.",
+        "• The Japanese government played a vital role through policies promoting industrial expansion and technological innovation, fostering economic growth.",
+        "• Japan emphasized quality control and continuous improvement (_kaizen_), which significantly enhanced its international competitiveness.",
+        "• By the 1980s, Japan led in various industries, notably automotive and consumer electronics, and was known for its substantial trade surplus and accumulated wealth.",
+        "• The late 1980s saw the signing of the Plaza Accord (1985), which aimed to depreciate the U.S. dollar and address trade imbalances, contributing to economic adjustments.",
+        "• During this period, Japan experienced an asset price bubble characterized by inflated real estate and stock market prices, which peaked in the late 1980s.",
+        "• The economic bubble and subsequent crash set the stage for the 'Lost Decades,' a prolonged period of stagnation and economic slowdown that followed Japan’s peak growth era."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:05.937998",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Heisei period (1989–2019)",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Japan's nominal GDP per capita remained relatively stagnant throughout the Heisei period (1989–2019), hovering around $40,000.",
+        "• The Japanese bond market experienced an inverted yield curve in 1990, signaling economic uncertainty.",
+        "• The Bank of Japan implemented a zero interest-rate policy starting in 1999 to combat deflation and stimulate growth.",
+        "• Various Japanese government bonds include:",
+        "• Japan's money supply and inflation trends:",
+        "• Economic growth slowed significantly in the late 1990s, a period often called the \"Lost Decade,\" following the collapse of the Japanese asset price bubble.",
+        "• To address stagnation, Japan ran large budget deficits, adding trillions of Yen to the financial system to fund extensive public works programs.",
+        "• By 1998, despite these efforts, public works projects failed to sufficiently stimulate demand to end economic stagnation.",
+        "• In response, the Japanese government pursued \"structural reform\" policies aimed at reducing speculative excesses in stock and real estate markets, which inadvertently led to multiple episodes of deflation between 1999 and 2004.",
+        "• The Bank of Japan employed quantitative easing (QE) to expand the money supply, aiming to raise inflation expectations and spur growth; initially, QE failed to generate growth but eventually influenced inflation expectations.",
+        "• By late 2005, Japan experienced what appeared to be a sustained economic recovery, with GDP growth at 2.8% for that year and a fourth-quarter annualized growth rate of 5.5%, surpassing growth rates in the US and EU.",
+        "• Unlike previous recoveries, domestic consumption became the primary driver of growth during this period.",
+        "• Japan's bond market saw the introduction of negative interest rates in 2014, reflecting aggressive monetary easing.",
+        "• The bond maturity spectrum includes:",
+        "• Despite maintaining near-zero interest rates for an extended period, Japan's quantitative easing policies failed to eliminate deflation entirely.",
+        "• Economists like Paul Krugman and Japanese politicians advocated for policies aimed at generating higher inflation expectations to combat persistent deflation.",
+        "• The zero-rate policy was discontinued in July 2006.",
+        "• By 2008, the Bank of Japan still held the lowest interest rates among developed countries, but deflation persisted, and the Nikkei 225 stock index declined approximately 50% from June 2007 to December 2008.",
+        "• On 5 April 2013, the Bank of Japan announced a plan to purchase 60–70 trillion Yen in bonds and securities, aiming to double the money supply over two years to eradicate deflation.",
+        "• Global markets responded positively to Japan's proactive monetary policies, with the Nikkei 225 increasing over 42% since November 2012.",
+        "• _The Economist_ suggested that reforms in bankruptcy law, land transfer law, and tax law could further aid Japan’s economic recovery.",
+        "• Japan has been the top export market for nearly 15 trading nations worldwide in recent years.",
+        "• In December 2018, Japan and the European Union approved a free trade agreement set to commence in February 2019, creating the world's largest free trade zone valued at approximately one-third of global GDP.",
+        "• The agreement reduces tariffs on Japanese cars by 10%, duties by 30% on cheese, and 10% on wines, while opening service markets to increased competition."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:16.694528",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "2020–21 recession",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Japanese economy began to experience adverse effects from the COVID-19 pandemic starting in early January 2020.",
+        "• In early April 2020, Japanese Prime Minister Shinzo Abe announced a state of emergency to address the pandemic's impact.",
+        "• Less than 25% of Japanese citizens expected their living conditions to improve over the coming decades, indicating widespread economic pessimism.",
+        "• During October 2020, amid the pandemic, Japan and the United Kingdom formally signed the first free-trade agreement between the two countries following Brexit.",
+        "• The Japan-UK free-trade agreement is projected to increase bilateral trade by approximately £15.2 billion.",
+        "• The agreement allows for tariff-free trade on 99% of exports from the UK to Japan, significantly reducing trade barriers.",
+        "• On 15 February 2021, the Nikkei 225 stock average surpassed the 30,000 point mark for the first time since November 1991, reaching a historic high.",
+        "• The surge in the Nikkei was attributed to strong corporate earnings, favorable GDP data, and optimism regarding Japan’s COVID-19 vaccination rollout."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:19.455660",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.6",
+      "section_name": "Post-recession (2021–present)",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• At the end of March 2022, the Ministry of Finance announced Japan’s national debt reached exactly 1.017 million billion yen.",
+        "• The total public debt, including debts contracted by local governments, was 1.210 million billion yen (equivalent to approximately 9,200 billion dollars).",
+        "• This total public debt represents nearly 250% of Japan’s Gross Domestic Product (GDP).",
+        "• Economist Kohei Iwahara explained that such an exceptional debt-to-GDP ratio is sustainable because Japanese households hold most of their savings in bank accounts (48%), which are used by commercial banks to purchase Japanese government bonds.",
+        "• As a result, 85.7% of Japanese government bonds are held by Japanese investors.",
+        "• Since the start of the Lost Decades, the Bank of Japan’s main policy goal has been to end deflation and achieve a 2% inflation rate.",
+        "• The increased international economic tension, notably due to the Russian invasion of Ukraine in 2022, helped Japan reach its inflation target of 2%.",
+        "• The Bank of Japan ended its negative interest rate policy, which had been in place since 2016, in March 2024.",
+        "• While other major economies focus on raising interest rates to suppress inflation, Japan aims to establish inflation firmly by maintaining low interest rates.",
+        "• This policy has led to a significantly weakened Japanese yen, which hit a 37.5-year low of 161 yen per US dollar in July 2024.",
+        "• The real effective exchange rate in May 2024 was 68.65, with the 2020 average set at 100, marking the lowest level since the Bank of Japan began statistics in January 1970.",
+        "• The currency devaluation caused Japan to lose its status as the world’s third-largest economy in nominal terms to Germany, which was roughly half the size of Japan’s economy a decade earlier.",
+        "• Factors contributing to economic optimism included an apparent end to Japan’s 30-year struggle against deflation, improvements in corporate governance, and high corporate profits.",
+        "• These factors boosted the stock market, with both the Nikkei 225 and TOPIX indices surpassing their record highs from over 30 years ago in 2024.",
+        "• The market capitalization of the Tokyo Stock Exchange’s prime section exceeded one quadrillion yen for the first time in July 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:25.084844",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.7",
+      "section_name": "GDP composition",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The data on industries by GDP value-added in Japan for the year 2018 is presented, with values converted using the exchange rate on 13 April 2013.",
+        "• The industry with the highest contribution to GDP in 2018 is \"Other service activities,\" accounting for 23.5% of total GDP, with a value-added of 1,238 billion yen.",
+        "• Manufacturing ranks as the second-largest sector, contributing 18.0% to GDP, with a value-added of 947 billion yen.",
+        "• The real estate sector accounts for 13.2% of Japan’s GDP, with a value-added of 697 billion yen.",
+        "• Wholesale and retail trade contribute 12.5% to GDP, with a value-added of 660 billion yen.",
+        "• Transport and communication sectors together make up 6.8% of GDP, with a value-added of 358 billion yen.",
+        "• Public administration activities contribute 6.2% to GDP, with a value-added of 329 billion yen.",
+        "• The construction industry also accounts for 6.2% of GDP, with a value-added of 327 billion yen.",
+        "• The finance and insurance sector contributes 5.8% to GDP, with a value-added of 306 billion yen.",
+        "• Electricity, gas, and water supply sectors together account for 3.4% of GDP, with a value-added of 179 billion yen.",
+        "• Government service activities represent a small portion, contributing 0.7% to GDP, with a value-added of 41 billion yen.",
+        "• Mining has a minimal contribution, accounting for only 0.1% of GDP, with a value-added of 3 billion yen.",
+        "• The total GDP value-added across all industries in 2018 sums to 5,268 billion yen, representing 100% of the GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:28.875679",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1.8",
+      "section_name": "Development of main indicators",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section presents main economic indicators of Japan from 1980 to 2023, with IMF staff estimates for 2024–2029.",
+        "• The data includes figures for GDP in both PPP and nominal terms, GDP per capita in PPP and nominal terms, GDP growth rate (real), inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, Japan’s GDP was $1,068.1 billion (PPP), with a GDP per capita of $9,147.0 (PPP), and $1,127.9 billion (nominal), with a GDP per capita of $9,659.0 (nominal).",
+        "• The GDP growth rate in 1980 was 3.2%, with an inflation rate of 7.8%, unemployment at 2.0%, and government debt at 47.8% of GDP.",
+        "• By 1981, GDP increased to $1,218.4 billion (PPP), with a GDP per capita of $10,358.1 (PPP), and $1,243.8 billion (nominal), with a 4.2% growth rate, inflation at 4.9%, unemployment at 2.2%, and government debt at 52.9%.",
+        "• The trend shows consistent GDP growth through the 1980s, reaching $2,113.5 billion (PPP) in 1988, with a GDP per capita of $17,246.0 (PPP).",
+        "• During the late 1980s, Japan experienced high GDP growth rates, peaking at 6.8% in 1988, with inflation at 0.7%, unemployment at 2.5%, and government debt decreasing to 71.8%.",
+        "• The early 1990s marked the beginning of slower growth; in 1992, GDP was $2,763.7 billion (PPP), with a GDP per capita of $22,222.4 (PPP), and growth slowed to 0.8%.",
+        "• The 1990s saw fluctuating growth, with negative growth of -1.3% in 1998, and a slight recovery to 1.0% in 1997, with government debt rising from 66.6% in 1992 to 116.0% in 1998.",
+        "• The early 2000s experienced modest growth; in 2000, GDP was $3,476.3 billion (PPP), with a growth rate of 2.8%, and government debt at 135.6%.",
+        "• From 2008 to 2009, Japan faced a recession with GDP contracting by -1.2% in 2008 and -5.7% in 2009, coinciding with the global financial crisis, with government debt rising to 180.7% in 2008 and 198.7% in 2009.",
+        "• Post-2009, Japan’s GDP showed signs of recovery; in 2010, GDP was $4,534.1 billion (PPP), with a growth of 4.1%, and government debt at 205.7%.",
+        "• The 2010s saw moderate growth, with GDP reaching $5,471.8 billion (PPP) in 2019, but with a slight decline in growth rate (-0.4%) and government debt increasing to 236.4%.",
+        "• The COVID-19 pandemic caused a GDP decline of -4.1% in 2020, with GDP at $5,314.1 billion (PPP), and government debt rising to 258.3%.",
+        "• From 2021 onwards, Japan’s GDP recovered, reaching $5,700.0 billion (PPP) in 2021 with a 2.6% growth rate, and further growth to $6,159.8 billion (PPP) in 2022, with a 1.0% growth rate.",
+        "• The projected data for 2024–2029 indicates continued slow growth, with GDP in 2029 estimated at $7,628.2 billion (PPP), and GDP per capita in PPP at $63,170.9, with inflation rates remaining under 5%.",
+        "• The inflation rate under 5% is highlighted in green within the data, indicating periods of relatively stable prices.",
+        "• Over the entire period, Japan’s government debt as a percentage of GDP increased from 47.8% in 1980 to approximately 251.7% in 2029 (projected).",
+        "• The data reflects Japan’s economic transition from rapid growth in the 1980s to stagnation and slow recovery in the 2000s and 2010s, with fluctuations influenced by global economic conditions and internal factors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:40.457778",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "1.9",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Rice is a critically important crop in Japan, exemplified by rice paddies such as those in Tawaramoto, Nara, highlighting the cultural and agricultural significance of rice cultivation in the country.",
+        "• The Japanese agricultural sector contributed approximately 1.1% to the nation's total GDP in 2017, reflecting its relatively small economic footprint compared to other sectors.",
+        "• Only about 12% of Japan's land area is suitable for cultivation, necessitating innovative farming methods such as terracing to maximize limited arable land.",
+        "• Due to the scarcity of arable land, Japan employs a system of terraces to farm in small, segmented areas, which results in one of the world's highest crop yields per unit area.",
+        "• Japan's overall agricultural self-sufficiency rate is approximately 50%, with less than 56,000 km² (14 million acres) of land cultivated for agriculture.",
+        "• The small size of Japan's agricultural sector is heavily subsidized and protected by government policies that favor small-scale farming practices over large-scale agriculture, contrasting with North American methods.",
+        "• There is a growing concern about the aging farming population in Japan, with current farmers facing difficulties in finding successors to continue agricultural practices.",
+        "• Rice accounts for nearly all of Japan's cereal production, underscoring its dominance in the country's cereal agriculture.",
+        "• Japan is the second-largest importer of agricultural products globally, indicating a significant reliance on food imports to supplement domestic production.",
+        "• Rice, the most protected crop in Japan, is subject to tariffs of 777.7%, reflecting strong governmental protection measures.",
+        "• Although Japan is generally self-sufficient in rice (except for its use in rice crackers and processed foods) and wheat, it must import about 50% of its requirements for other grains and fodder crops.",
+        "• The country relies on imports for half of its meat supply, highlighting its dependence on foreign sources for animal products.",
+        "• Japan imports large quantities of wheat and soybeans, making these key components of its food supply chain.",
+        "• Japan ranks as the 5th largest market for European Union agricultural exports, though this information requires an update for current accuracy.",
+        "• Over 90% of mandarin oranges consumed in Japan are grown domestically, emphasizing local production for this fruit.",
+        "• Apples are also cultivated within Japan due to restrictions on apple imports, which protect domestic apple growers from foreign competition."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:46.693232",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "1.9.1",
+      "section_name": "Fishery",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1996, Japan ranked fourth in the world in terms of total fish catch by tonnage.",
+        "• Japan captured 4,074,580 metric tons of fish in 2005, representing a decline from 4,987,703 tons in 2000.",
+        "• The fish catch further decreased from 9,558,615 tons in 1990, 9,864,422 tons in 1980, 8,520,397 tons in 1970, 5,583,796 tons in 1960, to 2,881,855 tons in 1950.",
+        "• In 2003, Japan's total aquaculture production was predicted to be approximately 1,301,437 tonnes.",
+        "• Japan's total fisheries production in 2010 was recorded at 4,762,469 fish.",
+        "• During the late 1980s, offshore fisheries contributed an average of 50% of Japan's total fish catches, although this proportion experienced fluctuations over that period.",
+        "• Coastal fishing, utilizing small boats, set nets, or breeding techniques, accounts for about one-third of Japan's total fishing industry production.",
+        "• Offshore fishing by medium-sized boats makes up more than half of the total fish catch in Japan.",
+        "• Deep-sea fishing from larger vessels constitutes the remaining portion of Japan's fish catch.",
+        "• The primary seafood species caught include sardines, skipjack tuna, crab, shrimp, salmon, pollock, squid, clams, mackerel, sea bream, sauries, tuna, and Japanese amberjack.",
+        "• Freshwater fishing, encompassing salmon, trout, and eel hatcheries and fish farms, accounts for approximately 30% of Japan's fishing industry.",
+        "• Japan's rivers host nearly 300 fish species, including native varieties of catfish, chub, herring, and goby, as well as freshwater crustaceans such as crabs and crayfish.",
+        "• Marine and freshwater aquaculture activities are conducted across all 47 prefectures in Japan.",
+        "• Japan maintains one of the world's largest fishing fleets, responsible for nearly 15% of the global fish catch.",
+        "• There are concerns that Japan's extensive fishing activities are leading to depletion of fish stocks, notably tuna.",
+        "• Japan has been involved in controversy due to its support for quasi-commercial whaling practices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:53.042736",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "1.10",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Japanese manufacturing and industry are highly diversified, encompassing a wide range of advanced industries that are notably successful.",
+        "• Industry contributed approximately 30.1% to Japan's gross domestic product (GDP) in 2017.",
+        "• Japan's manufacturing output ranks as the third highest globally, following China and the United States.",
+        "• Industrial activity is predominantly concentrated in several key regions:",
+        "• Additionally, a long, narrow industrial belt called the Taiheiyō Belt extends between Tokyo and Fukuoka, comprising a series of industrial centers established by specific industries that developed as mill towns.",
+        "• Japan exhibits high technological development across numerous fields, including:",
+        "• Despite its technological advancements, many Japanese companies are facing increasing competition from emerging rivals based in the United States, South Korea, and Taiwan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:56.427400",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "1.10.1",
+      "section_name": "Automobile manufacturing",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Lexus LS exemplifies the rapid growth and success of Toyota's luxury brand Lexus, which is a key indicator of Japan's overall strength and global dominance in the automobile industry.",
+        "• Japan ranks as the third largest producer of automobiles globally, highlighting its significant manufacturing capacity and industry influence.",
+        "• Toyota holds the position of the world's largest car manufacturer, underscoring its dominant role in the global automotive market.",
+        "• Other major Japanese automakers include Nissan, Honda, Suzuki, and Mazda, all of which are among the largest car manufacturers worldwide.",
+        "• As of 2021, Japan is the world's largest exporter of cars by number, demonstrating its prominent role in global automobile trade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:51:58.367406",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "1.11",
+      "section_name": "Mining and petroleum exploration",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Japan's overall mining production has been minimal, with very limited mining deposits within the country.",
+        "• Despite the scarcity of domestic mineral deposits, large deposits of rare earth elements have been discovered off the coast of Japan.",
+        "• During the 2011 fiscal year, Japan's domestic crude oil yield was 820 thousand kiloliters.",
+        "• The domestic crude oil production in 2011 accounted for only 0.4% of Japan's total crude processing volume, indicating a negligible contribution to the national energy supply.",
+        "• In 2019, Japan ranked as the second-largest producer of iodine globally, highlighting its significant role in iodine extraction.",
+        "• Japan was the fourth-largest producer of bismuth worldwide in 2019, reflecting its importance in bismuth production.",
+        "• In 2019, Japan was the ninth-largest producer of sulfur globally, emphasizing its contribution to sulfur supply.",
+        "• Japan was also the tenth-largest producer of gypsum in 2019, indicating its position in gypsum production on the world stage."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:02.258706",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "1.12",
+      "section_name": "Services",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2010, Japan Airlines faced massive debts but remained one of the largest airlines in the world, highlighting its significant presence in the global aviation industry.",
+        "• Japan's service sector contributed 68.7% to the country's total economic output in 2017, underscoring the sector's dominant role in Japan's economy.",
+        "• Major industries within Japan's service sector include banking, insurance, real estate, retailing, transportation, and telecommunications.",
+        "• Prominent Japanese companies in these industries include Mitsubishi UFJ, Mizuho, NTT (Nippon Telegraph and Telephone), TEPCO (Tokyo Electric Power Company), Nomura, Mitsubishi Estate, Aeon, Mitsui Sumitomo, Softbank, JR East (East Japan Railway Company), Seven & I Holdings, KDDI, and Japan Airlines.",
+        "• These companies are recognized as some of the largest corporations globally, reflecting Japan's significant corporate influence.",
+        "• Two of the five most circulated newspapers in the world are Japanese newspapers, indicating Japan's prominent media presence.",
+        "• The Koizumi government aimed to privatize Japan Post, one of the country's largest providers of savings and insurance services, by 2015.",
+        "• Japan's financial and industrial structure includes six major _keiretsus_ (business conglomerates): Mitsubishi, Sumitomo, Fuyo, Mitsui, Dai-Ichi Kangyo, and Sanwa.",
+        "• As of 2013, Japan was home to 251 companies listed in the Forbes Global 2000, representing 12.55% of the total, highlighting Japan's substantial corporate footprint on the global stage."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:05.945694",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "1.12.1",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Himeji Castle, located in Himeji, Hyōgo Prefecture, is recognized as one of the most visited tourist attractions in Japan.",
+        "• In 2012, Japan ranked as the fifth most visited country in Asia and the Pacific, attracting over 8.3 million tourists.",
+        "• The year 2013 saw a significant increase in tourism due to the weaker yen and more accessible visa requirements for southwest Asian countries, resulting in a record 11.25 million visitors to Japan.",
+        "• The 2013 visitor count of 11.25 million exceeded the Japanese government's projected goal of 10 million visitors for that year.",
+        "• Japan's government aims to attract 40 million visitors annually by the time of the 2020 Summer Olympics in Tokyo.",
+        "• Popular tourist destinations in Japan include the districts of Shinjuku, Ginza, Shibuya, and Asakusa in Tokyo; the cities of Osaka, Kobe, and Kyoto; and Himeji Castle.",
+        "• Hokkaido is also a favored winter destination, known for its numerous ski resorts and luxury hotels, which are being developed to accommodate increasing tourist demand.",
+        "• Compared to other G7 and OECD countries, Japan's economy is less reliant on international tourism; from 1995 to 2014, it was notably the least visited country within the G7 despite being the second largest country in the group.",
+        "• As of 2013, Japan was among the least visited countries in the OECD on a per capita basis.",
+        "• In 2013, international tourist receipts accounted for only 0.3% of Japan's GDP, whereas the United States had 1.3% and France had 2.3%, indicating Japan's relatively low dependence on tourism revenue."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:11.268550",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "1.13",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Japan ranked 5th overall in the World Bank's Logistics Performance Index, and 2nd specifically in the infrastructure category, indicating a highly developed logistics and infrastructure system.",
+        "• In 2005, Japan's energy production was composed of approximately 50% petroleum, 20% coal, and 14% natural gas, reflecting its reliance on imported fossil fuels.",
+        "• Nuclear power contributed about 25% to Japan's electricity generation before the Fukushima Daiichi nuclear disaster, which led to a significant shift in energy policy.",
+        "• Following the Fukushima disaster, Japan closed its last 50 nuclear power plants nationwide in September 2013, resulting in the country becoming nuclear-free; however, some reactors have since been restarted.",
+        "• Japan's road infrastructure includes approximately 1.2 million kilometers of paved roads, which serve as a major transportation network within the country.",
+        "• The country practices left-hand traffic, with a network of speed-limited, divided, limited-access toll roads connecting major cities, operated by toll-collecting enterprises.",
+        "• Car ownership is encouraged through government policies; new and used cars are inexpensive, and there is a governmental push to promote hybrid vehicles through incentives such as car ownership fees and fuel levies aimed at energy efficiency.",
+        "• Rail transport is a critical component of Japan's infrastructure, with numerous railway companies competing in regional and local passenger markets, including six JR passenger enterprises, Kintetsu Railway, Seibu Railway, and Keio Corporation.",
+        "• Many railway enterprises incorporate real estate or department stores near stations, and major stations often feature large department stores, integrating transportation with commercial activity.",
+        "• Major Japanese cities—Fukuoka, Kobe, Kyoto, Nagoya, Osaka, Sapporo, Sendai, Tokyo, and Yokohama—are equipped with subway systems, facilitating urban transit.",
+        "• Approximately 250 high-speed Shinkansen trains connect major cities across Japan, renowned for their punctuality, with delays exceeding 90 seconds considered late.",
+        "• Japan has 98 passenger airports and a total of 175 airports; air travel is a popular transportation mode within the country.",
+        "• Tokyo International Airport (Haneda) is Japan's largest domestic airport and the second busiest in Asia, while key international gateways include Narita International Airport (Tokyo), Kansai International Airport (Osaka/Kobe/Kyoto), and Chūbu Centrair International Airport (Nagoya).",
+        "• Major ports in Japan include Nagoya Port, Port of Yokohama, Port of Tokyo, and Port of Kobe, serving as vital hubs for maritime trade and transportation.",
+        "• Approximately 84% of Japan's energy is imported, making it heavily dependent on foreign energy sources.",
+        "• Japan is the world's largest importer of liquefied natural gas (LNG), the second-largest coal importer, and the third-largest net oil importer, highlighting its reliance on energy imports.",
+        "• Since the 1970s oil shocks, Japan has reduced petroleum dependence from 77.4% in 1973 to about 43.7% in 2010, shifting towards natural gas and nuclear power.",
+        "• In September 2019, Japan announced a $10 billion investment in LNG projects worldwide to enhance the global LNG market and improve energy security.",
+        "• Coal remains an important energy source for Japan, while hydroelectricity is its largest renewable energy source.",
+        "• Japan's solar energy sector is experiencing rapid growth, contributing to renewable energy development.",
+        "• Kerosene is extensively used for home heating, especially in northern regions, often in portable heaters.",
+        "• Many taxi companies operate fleets powered by liquefied natural gas, reflecting efforts to improve fuel economy and reduce emissions.",
+        "• The introduction of mass-produced hybrid vehicles represents a recent advancement in Japan's pursuit of greater fuel efficiency.",
+        "• Prime Minister Shinzō Abe negotiated treaties with Saudi Arabia and the UAE to stabilize oil supplies and ensure Japan's energy security amid rising global oil prices."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:21.009289",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "2",
+      "section_name": "Finance",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Tokyo Stock Exchange (TSE) features the main trading room, which is notable as one of the largest stock trading floors globally.",
+        "• The TSE ranks as the third largest stock exchange in the world by market capitalization.",
+        "• It is the second largest stock market in Asia, reflecting its significant regional influence.",
+        "• The Tokyo Stock Exchange has a total of 2,292 listed companies.",
+        "• The two primary stock market indexes associated with the TSE are the Nikkei 225 and the TOPIX.",
+        "• On 1 January 2013, the Tokyo Stock Exchange merged with the Osaka Stock Exchange, forming one of the world's largest stock exchanges.",
+        "• Other notable stock exchanges in Japan include the Nagoya Stock Exchange, Fukuoka Stock Exchange, and Sapporo Securities Exchange."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:24.071800",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "3",
+      "section_name": "Labor force",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The unemployment rate in Japan as of December 2013 was 3.7%, representing a significant decrease of 1.5 percentage points from the 5.2% rate recorded in June 2009, which was attributed to a strong economic recovery during that period.",
+        "• In 2008, Japan's labor force comprised approximately 66 million workers, with women constituting about 40% of this workforce.",
+        "• The Japanese labor force was experiencing a rapid decline during this period, raising long-term concerns about labor market sustainability.",
+        "• A major long-term demographic concern for Japan is its low birthrate; in 2005, the number of deaths in Japan exceeded the number of births, indicating that population decline had already begun.",
+        "• To counteract the declining birthrate, increasing immigration has been considered as a potential measure; however, Japan has faced difficulties in attracting migrants despite having relatively lenient immigration laws, especially for high-skilled workers, compared to other developed countries.",
+        "• Japan's work visa program for \"specified skilled workers\" attracted fewer than 3,000 applicants annually, despite an official goal of attracting 40,000 overseas workers per year, highlighting challenges in migrant attraction relative to other developed nations.",
+        "• A Gallup poll indicated that few potential migrants expressed a desire to migrate to Japan compared to other G7 countries, consistent with Japan's low migrant inflow.",
+        "• In 1989, Japan's primarily public sector union confederation, SOHYO (General Council of Trade Unions of Japan), merged with RENGO (Japanese Private Sector Trade Union Confederation) to form the Japanese Trade Union Confederation.",
+        "• The total membership of labor unions in Japan is approximately 12 million workers.",
+        "• As of 2019, Japan had the lowest unemployment rate among the G7 countries.",
+        "• In the same year, Japan's employment rate for the working-age population (ages 15–64) was the highest among G7 nations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:29.497792",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "4",
+      "section_name": "Law and government",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Japan ranked 27th out of 185 countries in the 2013 ease of doing business index, indicating a relatively favorable business environment.",
+        "• Japan possesses one of the smallest tax rates among developed nations, with most workers being exempt from personal income taxes after deductions.",
+        "• The consumption tax rate in Japan is set at 10%, and the country has the second highest corporate tax rate worldwide at 36.8%.",
+        "• In October 2015, the House of Representatives passed legislation to increase the consumption tax to 10%.",
+        "• The Japanese government has committed to reducing corporate tax rates and phasing out automobile taxes as part of its fiscal policy adjustments.",
+        "• In 2016, the International Monetary Fund (IMF) advised Japan to implement an income policy aimed at encouraging firms to raise employee wages, alongside reforms targeting the dual-tiered labor market system, to stimulate higher wages beyond existing monetary and fiscal stimulus measures.",
+        "• Prime Minister Shinzo Abe has urged companies to increase wages by at least three percent annually, aligning with the inflation target plus average productivity growth.",
+        "• Shareholder activism remains uncommon in Japan despite the corporate law granting shareholders significant powers over management decisions.",
+        "• Under Prime Minister Shinzō Abe’s administration, corporate governance reform became a central initiative to promote economic growth.",
+        "• In 2012, approximately 40% of leading Japanese companies had independent directors; by 2016, most companies had begun appointing independent directors, indicating progress in governance reforms.",
+        "• Japan’s government faces substantial liabilities, with the public debt exceeding one quadrillion yen (approximately 8,535,340,000,000 USD), making it the second largest public debt globally.",
+        "• Former Prime Minister Naoto Kan described Japan’s public debt situation as \"urgent.\"",
+        "• Japan’s central bank holds the second largest foreign exchange reserves in the world, after China, with over one trillion US dollars in foreign reserves."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:35.438932",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "5",
+      "section_name": "Culture",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section on the \"Culture\" within the \"Economy of Japan\" discusses the influence of cultural factors on economic activities and development in Japan.",
+        "• It highlights the importance of cultural elements such as societal values, traditions, and practices that shape economic behavior and business operations in Japan.",
+        "• The section emphasizes that Japan's cultural heritage, including its work ethic, emphasis on education, and social cohesion, significantly contributes to its economic resilience and innovation.",
+        "• It notes that cultural factors have historically facilitated Japan's rapid post-war economic recovery and sustained growth during the late 20th century.",
+        "• The section references the global perception of Japanese culture as a driver of economic success, including the popularity of Japanese products, technology, and corporate practices worldwide.",
+        "• It discusses how Japanese cultural traits, such as consensus-building and meticulous craftsmanship, influence corporate management and manufacturing processes.",
+        "• The section mentions the role of cultural institutions, media, and entertainment industries in promoting Japan's economic image internationally.",
+        "• It acknowledges challenges posed by cultural differences and the need for adaptation in international business and foreign investment contexts.",
+        "• The section underscores that cultural considerations are integral to understanding Japan's economic policies, consumer behavior, and market dynamics.",
+        "• It concludes by recognizing that ongoing cultural evolution and globalization continue to impact Japan's economic landscape, requiring continual adaptation of cultural strategies in economic planning."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:39.394351",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• _Nemawashi_ is an informal Japanese cultural practice of building consensus by quietly laying the groundwork for proposed changes or projects through discussions with stakeholders, gathering support and feedback, and ensuring all sides agree before formal steps are taken.",
+        "• Successful _nemawashi_ facilitates the implementation of changes with broad consensus, making it an essential element in major decision-making processes within Japanese organizations.",
+        "• Japanese companies are renowned for management methodologies such as \"The Toyota Way,\" which emphasizes efficiency, continuous improvement, and respect for people.",
+        "• _Kaizen_ (改善), meaning 'improvement' in Japanese, is a philosophy centered on continuous, incremental improvements across all aspects of life and business, aiming to enhance functions from manufacturing to management and from CEOs to assembly line workers.",
+        "• In the workplace, _kaizen_ involves ongoing efforts to improve standardized activities and processes, primarily to eliminate waste, aligning with principles of Lean manufacturing.",
+        "• _Kaizen_ was first adopted by Japanese businesses during the post-World War II recovery period, notably by Toyota, and has since been adopted globally across various industries.",
+        "• The application of _kaizen_ in corporate settings has faced criticism for potentially neglecting worker quality of life, particularly through the enforcement of long working hours; however, according to the OECD, Japan’s average annual hours worked per employee is lower than the OECD average and ranks middling among G7 countries.",
+        "• Some Japanese companies maintain powerful enterprise unions and _shuntō_ (annual wage negotiations).",
+        "• The _nenko_ system (_nenko joretsu_) is a Japanese employment practice favoring the promotion of employees nearing retirement to prioritize experience in executive roles and enable older employees to attain higher salaries before retirement; it has been criticized for disadvantaging younger employees.",
+        "• Relationships between government bureaucrats and companies are often close, exemplified by the practice of _Amakudari_ (天下り), where senior bureaucrats retire to influential positions in private and public sectors; this practice is increasingly viewed as corrupt and a barrier to economic and political reforms.",
+        "• Traditional employment practices such as lifetime employment (_shūshin koyō_) and seniority-based career advancement have historically been common in Japan but have become less prevalent in recent years.",
+        "• The term \"Salaryman\" (_Sararīman_), coined in Japan, refers to male employees whose income is salary-based, primarily working for corporations; it has become widely recognized in English to describe Japanese white-collar workers.",
+        "• Post-World War II, becoming a salaryman was seen as a pathway to a stable, middle-class lifestyle; in contemporary usage, the term is associated with long working hours, low hierarchical prestige, income solely from salary, wage slavery, and _karōshi_ (death from overwork).",
+        "• The term _salaryman_ is almost exclusively used for males.",
+        "• An office lady (OL, オーエル _Ōeru_) is a female office worker in Japan performing clerical, secretarial, or service tasks such as serving tea; OLs often live with their parents into early adulthood, are typically full-time permanent staff, and are expected to leave their jobs upon marriage.",
+        "• _Freeter_ (フリーター, _furītā_) describes individuals aged 15 to 34 who lack full-time employment, are unemployed, or work low-skilled, low-paid jobs, excluding homemakers and students; they often live as parasite singles with their parents, earning minimal income, which hampers their ability to start families or pursue careers later.",
+        "• _Karōshi_ (過労死), meaning \"death from overwork,\" refers to occupational sudden death, primarily caused by heart attack or stroke due to stress, highlighting issues of extreme work hours in Japan.",
+        "• _Sōkaiya_ (総会屋), sometimes called 'corporate bouncers' or 'blackmailers,' are a unique Japanese racketeering group associated with the yakuza; they extort money from companies or threaten to humiliate management during annual meetings (_sōkai_), leveraging intimidation and blackmail.",
+        "• _Sarakin_ (サラ金) are Japanese moneylenders or loan sharks, with about 14 million borrowers—roughly 10% of the population; the market comprises approximately 10,000 firms (down from 30,000 a decade ago), with the top seven firms controlling 70% of the market and total outstanding loans amounting to 100 billion yen; many _sarakin_ are publicly traded and affiliated with major banks.",
+        "• The first \"Western-style\" department store in Japan was Mitsukoshi, founded in 1904, originating from a kimono store called Echigoya established in 1673; Matsuzakaya, with roots back to 1611, became a department store in 1910.",
+        "• Matsuzakaya's Ginza store in 1924 introduced the innovation of allowing street shoes indoors, reflecting early modernization efforts.",
+        "• Early Japanese department stores, often originating from kimono shops, sold luxurious products and cultivated a sophisticated atmosphere; from the 1920s, private railway companies like Seibu and Hankyu built department stores at their line terminuses.",
+        "• Since the 1980s, Japanese department stores have faced increased competition from supermarkets and convenience stores, leading to a decline in their prominence, though they remain symbols of cultural conservatism.",
+        "• Department stores in Japan typically offer diverse services, including foreign exchange, travel bookings, and ticket sales for concerts and events, and gift certificates for department stores are popular presents."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:53.255803",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "6",
+      "section_name": "_Keiretsu_",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• A _keiretsu_ (系列, meaning 'system' or 'series') is a set of companies characterized by interlocking business relationships and shareholdings, functioning as a type of business group.",
+        "• It is considered equivalent to an affiliate or associate in terms of business structure.",
+        "• The prototypical _keiretsu_ emerged in Japan during the post-World War II \"economic miracle.\"",
+        "• Prior to Japan's surrender in 1945, Japanese industry was dominated by large family-controlled vertical monopolies known as _zaibatsu_.",
+        "• The Allies dismantled the _zaibatsu_ in the late 1940s as part of post-war reforms.",
+        "• Companies formed from the dismantling of _zaibatsu_ were subsequently reintegrated through share purchases, creating horizontally integrated alliances across multiple industries.",
+        "• _Keiretsu_ companies often supplied one another, establishing vertical integration within the alliances.",
+        "• During this period, Japanese government policy actively promoted the creation of strong trade corporations capable of resisting intensifying global trade competition.",
+        "• Major _keiretsu_ were each centered around a single bank, which provided financing and held equity stakes in member companies.",
+        "• The central bank in a _keiretsu_ exercised significant control over member companies, serving as a monitoring and emergency bailout entity.",
+        "• This banking-centered structure minimized the likelihood of hostile takeovers in Japan, as no external entities could easily challenge the banks' authority.",
+        "• There are two primary types of _keiretsu_: vertical and horizontal.",
+        "• Vertical _keiretsu_ depict relationships within a single company, such as connections among all factors of production for a specific product.",
+        "• Horizontal _keiretsu_ illustrate relationships between different entities and industries, typically centered on a bank and a trading company.",
+        "• Both types are intricately interconnected and mutually supportive, forming complex networks.",
+        "• The Japanese recession of the 1990s significantly impacted _keiretsu_, with many large banks suffering from bad loan portfolios, leading to mergers or closures.",
+        "• Notable mergers included Sumitomo Bank and Mitsui Bank forming Sumitomo Mitsui Banking Corporation in 2001, and Sanwa Bank (serving the Hankyu-Toho Group) becoming part of Bank of Tokyo-Mitsubishi UFJ, now known as MUFG Bank.",
+        "• During this period, companies outside the _keiretsu_ system, such as Sony, began outperforming their within-system counterparts.",
+        "• The economic downturn and banking crises contributed to a perception that the traditional _keiretsu_ model was no longer effective, prompting a loosening of _keiretsu_ alliances.",
+        "• Although _keiretsu_ still exist, they are less centralized and integrated than before the 1990s.",
+        "• The weakening of _keiretsu_ structures has facilitated a rise in corporate acquisitions in Japan, as companies can no longer rely on banks for bailouts.",
+        "• Additionally, there has been an increase in derivative litigation by more independent shareholders, reflecting a shift toward more open corporate governance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:52:58.681856",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "7",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1985 and 2018, Japanese companies participated in a total of 50,759 mergers and acquisitions (M&A) deals.",
+        "• The cumulative value of these deals amounts to approximately US$2.636 billion, which is equivalent to ¥281.469 trillion.",
+        "• The year 1999 recorded an all-time high in deal value, reaching nearly US$220 billion.",
+        "• The most active year in terms the number of deals was 2017, with over 3,150 transactions, although the total deal value that year was only US$114 billion.",
+        "• A referenced graph titled \"M&A in Japan by number and value\" illustrates the disparity between deal volume and total value across years.",
+        "• The most significant M&A deal in Japanese history, ranked by value in US dollars, was the acquisition of Sakura Bank Ltd by Sumitomo Bank Ltd on 13 October 1999, valued at US$45.494 billion.",
+        "• The second largest deal was Mitsubishi Tokyo Financial Group’s acquisition of UFJ Holdings Inc on 18 February 2005, valued at US$41.431 billion.",
+        "• The third largest was Fuji Bank Ltd’s acquisition of Dai-Ichi Kangyo Bank Ltd on 20 August 1999, valued at US$40.097 billion.",
+        "• The fourth largest deal involved Mitsubishi Bank Ltd acquiring Bank of Tokyo Ltd on 27 March 1995, valued at US$33.788 billion.",
+        "• The fifth largest was SoftBank Group Corp’s acquisition of ARM Holdings PLC from the United Kingdom on 18 July 2016, valued at US$31.879 billion.",
+        "• Other notable deals include Fuji Bank Ltd’s acquisition of Industrial Bank of Japan Ltd on 20 August 1999 (US$30.760 billion), Sumitomo Mitsui Financial Group Inc’s acquisition of UFJ Holdings Inc on 24 August 2004 (US$29.261 billion), and Mitsui Taiyo Kobe Bank Ltd’s acquisition of Taiyo Kobe Bank Ltd on 28 August 1989 (US$23.017 billion).",
+        "• Additional significant transactions include SoftBank Corp’s acquisition of Sprint Nextel Corp in the United States on 15 October 2012 for US$21.640 billion, and KK Pangea’s acquisition of Toshiba Memory Corp in Japan on 20 September 2017 for US$17.930 billion.",
+        "• Among the top 50 deals by value, 92% involved an acquiring entity from Japan, indicating that domestic M&A activity overwhelmingly dominates.",
+        "• Foreign direct investment (FDI) plays a considerably smaller role compared to national M&A activity within Japan."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:53:06.975836",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "8",
+      "section_name": "Other economic indicators",
+      "chapter_name": "Economy of Japan",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The article on Japan's economy requires updating, as the current indicators are approximately 10 years old and lack recent citations, with the last note requesting updates as of February 2019.",
+        "• Japan's net international investment position was valued at 266,223 billion USD, ranking first globally.",
+        "• The industrial production growth rate in Japan was estimated at 7.5% in 2010.",
+        "• Gross fixed investment as a percentage of GDP was approximately 20.3% in 2010.",
+        "• Household income or consumption shares by percentage were reported as 4.8% for the lowest 10% and 21.7% for the highest 10%, based on data from 1993.",
+        "• Japan's primary agricultural products include rice, sugar beets, vegetables, fruit, pork, poultry, dairy products, eggs, and fish.",
+        "• Major export commodities from Japan are machinery and equipment, motor vehicles, semiconductors, and chemicals.",
+        "• The main import commodities include machinery and equipment, fuels, foodstuffs, chemicals, textiles, and raw materials, with data from 2001.",
+        "• Exchange rates over recent years show the Japanese Yen per US dollar as follows: 88.67 (2010), 93.57 (2009), 103.58 (2008), 117.99 (2007), 116.18 (2006), 109.69 (2005), 115.93 (2003), 125.39 (2002), 121.53 (2001), 105.16 (January 2000), 113.91 (1999), 130.91 (1998), 120.99 (1997), 108.78 (1996), and 94.06 (1995).",
+        "• In 2008, Japan's electricity consumption was approximately 925.5 billion kWh, with production slightly higher at 957.9 billion kWh; there were no electricity exports or imports recorded that year.",
+        "• Electricity production sources in 2008 comprised 69.7% fossil fuels, 7.3% hydro, 22.5% nuclear, and 0.5% other sources.",
+        "• Japan's electricity standards vary by region: 100 volts at 50 Hz north of the Ōi River in Shizuoka, and 100 volts at 60 Hz southward.",
+        "• Japan's oil production in 2009 was approximately 132,700 barrels per day (bbl/d), ranking 46th globally.",
+        "• Oil consumption in 2009 was about 4,363,000 bbl/d, ranking 3rd worldwide.",
+        "• Oil exports in 2008 totaled roughly 380,900 barrels per day, ranking 64th globally.",
+        "• Oil imports in 2008 were approximately 5,033,000 barrels per day, ranking 2nd worldwide.",
+        "• Japan's net oil imports in 2008 were estimated at 4,620,000 barrels per day.",
+        "• Proven oil reserves as of January 1, 2010, were approximately 44,120,000 barrels."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T09:53:16.296328",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_japan.json",
+      "original_index": 25
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_singapore.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.899565",
+    "total_sections_in_source": 25,
+    "extracted_sections_count": 24,
+    "skipped_sections_count": 1
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Singapore is characterized as a highly developed mixed market economy with dirigiste characteristics, indicating significant government involvement alongside market mechanisms.",
+        "• Singapore's economy is consistently ranked as the most open economy in the world, reflecting minimal trade barriers and extensive global integration.",
+        "• It holds the position of the joint 4th-least corrupt country globally, underscoring its strong governance and transparent business environment.",
+        "• Singapore is recognized as the most pro-business country worldwide, fostering an environment conducive to entrepreneurship and corporate growth.",
+        "• The nation maintains low tax rates, which contribute to its attractiveness for businesses and investors.",
+        "• Singapore boasts the second highest per-capita GDP globally when measured by purchasing power parity (PPP), highlighting its high standard of living and economic productivity.",
+        "• The Asia-Pacific Economic Cooperation (APEC), a major regional economic forum, is headquartered in Singapore, emphasizing the country's strategic economic role in the Asia-Pacific region.",
+        "• In addition to a robust private sector comprising both global and local privately held and public companies, national state-owned enterprises (SOEs) play a substantial role in Singapore’s economy.",
+        "• The sovereign wealth fund Temasek Holdings holds majority stakes in several of Singapore’s largest and most influential companies, including Singapore Airlines, Singtel, ST Engineering, and Mediacorp.",
+        "• Singapore is a major financier of foreign direct investment (FDI) outflows globally, indicating its role as a significant investor abroad.",
+        "• Historically, Singapore has benefited from large inward flows of FDI from global investors, financial institutions, and multinational corporations (MNCs), driven by its highly attractive investment climate.",
+        "• The country’s stable and conducive political environment throughout its modern history has been a key factor in sustaining its appeal to international investors and multinational corporations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:18.463174",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Singapore employs an extended concept of intermediary trade to support its entrepôt trade by purchasing raw goods, refining them, and re-exporting, which sustains its high levels of export-oriented industrialization, notably in the wafer-fabrication industry and oil refining.",
+        "• The strategic location and port facilities of Singapore enhance its competitiveness in entrepôt activities compared to many neighboring countries.",
+        "• As of 2020, Singapore's trade-to-GDP ratio stood at 320%, placing it among the highest in the world.",
+        "• The Port of Singapore ranks as the second-busiest port globally by cargo tonnage and is the busiest transshipment port worldwide.",
+        "• Singapore serves as a regional, continental, and global hub for the management and operations of multinational corporations (MNCs) due to its strategic proximity to Asia-Pacific markets, advanced connectivity, and infrastructure, including an airline hub, maritime port with diverse destinations, Gigabit fiber-optic communications, efficient road and public transport systems.",
+        "• The country’s immigration policies are designed to attract and welcome global talent, further supporting its role as a business hub.",
+        "• Singapore is a popular international tourist destination, attracting various types of tourism such as business tourism, MICE (Meetings, Incentives, Conferences, Exhibitions) tourism, medical tourism, and urban tourism.",
+        "• Singapore’s economy is often described as a \"miracle\" because of its rapid transformation from a developing country to a developed, high-income economy within a relatively short period during the second half of the 20th century.",
+        "• This economic transformation was led by Prime Minister Lee Kuan Yew and his government, with the country’s strategic location as a key factor enabling its emergence as an ideal hub for international trade and commerce.",
+        "• The main exports of Singapore include electronics, chemicals, and services, with the country also serving as a regional hub for wealth management.",
+        "• Water scarcity is a significant issue in Singapore; a substantial portion of its water supply is imported from Malaysia, making water a precious and carefully managed resource.",
+        "• Small and medium-sized enterprises (SMEs) form the backbone of Singapore’s economy, contributing 48% (S$284 billion) of the total enterprise nominal value-added in 2022 and employing 71% of the total workforce of 3.63 million.",
+        "• Due to limited arable land, Singapore relies heavily on agrotechnology parks, especially vertical hydroponic farms, for agricultural production.",
+        "• Singapore imports 90% of its food supply from a diverse range of supplier countries to ensure food security, ranking it among the most food-secure nations globally.",
+        "• Apart from its strategic trade location, Singapore has minimal natural resources, making human resources critical to its economic health.",
+        "• The services and manufacturing sectors depend heavily on a highly educated and skilled workforce categorized as Professional, Managerial, Executive, and Technical (PMET), composed of both residents and expatriates.",
+        "• In 2014, Singapore’s economy ranked 2nd overall in the Scientific American Biotechnology ranking, highlighted by the presence of Biopolis, a biomedical research hub.",
+        "• To maintain its international economic standing and promote prosperity in the 21st century, Singapore has implemented measures to foster innovation, encourage entrepreneurship, and retrain its workforce.",
+        "• The Ministry of Manpower (MoM) holds primary responsibility for setting, adjusting, and enforcing immigration policies for foreign workers to balance maximum employment of local residents with national economic growth.",
+        "• Approximately 29% of Singapore’s total population consists of non-resident foreigners, including 255,800 foreign domestic workers (FDWs) operating within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:21.129661",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic statistics",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economic data for Singapore from 1980 to 2021, with IMF staff estimates from 2022 to 2027, includes key indicators such as GDP in billion US$ PPP and nominal terms, GDP per capita in US$ PPP and nominal terms, real GDP growth rate, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, Singapore's GDP was 22.9 billion US$ PPP and 12.1 billion US$ nominal, with a GDP per capita of 9,479.4 US$ PPP and 5,005.0 US$ nominal; the real GDP growth was 10.1%, inflation rate 8.5%, unemployment 5.8%, and government debt data was not available.",
+        "• Between 1980 and 1989, Singapore experienced consistent GDP growth, with GDP rising from 22.9 billion US$ PPP in 1980 to 63.7 billion US$ PPP in 1989, and GDP per capita increasing from 9,479.4 US$ PPP to 21,730.1 US$ PPP; inflation rates remained mostly below 5%, except for 1980 and 1981, and unemployment decreased from 5.8% to 1.8%.",
+        "• Government debt as a percentage of GDP was first reported in 1990 at 73.5%, increasing gradually to 79.0% by 1992, then fluctuating around 70-85% through the 1990s.",
+        "• The 1990s saw robust economic growth, with GDP reaching 149.1 billion US$ PPP in 1997 and GDP per capita at 39,283.1 US$ PPP; real GDP growth rates ranged from -2.2% in 1998 (Asian financial crisis impact) to 11.5% in 1993, while inflation remained low, often below 3%.",
+        "• In 1998, Singapore's GDP contracted by -2.2% with deflation of -0.3%, unemployment rose to 2.5%, and government debt increased to 84.6% of GDP.",
+        "• From 1999 to 2007, Singapore's economy recovered and expanded significantly, with GDP growing from 158.1 billion US$ PPP to 315.7 billion US$ PPP, and GDP per capita rising from 39,943.7 US$ PPP to 68,793.8 US$ PPP; real GDP growth rates were strong, mostly above 5%, except for 2001 (-1.1%) and 2008 (1.9%).",
+        "• Inflation rates during 1999-2007 were generally low, mostly under 2%, except for 2008 when inflation spiked to 6.6%; unemployment rates declined steadily from 2.8% in 1999 to 2.1% in 2007.",
+        "• Government debt as a percentage of GDP fluctuated between 82.3% in 2000 and 87.8% in 2007, with a peak of 99.1% in 2003.",
+        "• The global financial crisis in 2008-2009 saw Singapore's GDP growth slow dramatically to 1.9% in 2008 and 0.1% in 2009, with inflation peaking at 6.6% in 2008 then dropping to 0.6% in 2009; unemployment rose from 2.2% to 3.0%, and government debt exceeded 100% of GDP by 2009.",
+        "• From 2010 to 2019, Singapore's GDP expanded from 382.7 billion US$ PPP to 584.2 billion US$ PPP, and GDP per capita increased from 75,389.8 US$ PPP to 102,431.4 US$ PPP; real GDP growth was strong in early 2010s, peaking at 14.5% in 2010, then slowing to 1.1% by 2019.",
+        "• Inflation rates during 2010-2019 were mostly moderate, ranging from -0.5% in 2015 and 2016 to a high of 5.2% in 2011; unemployment remained low, between 1.9% and 2.3%.",
+        "• Government debt as a percentage of GDP rose steadily during this period, from 98.7% in 2010 to 128.2% in 2019.",
+        "• The COVID-19 pandemic caused a contraction in Singapore's economy in 2020, with real GDP growth at -4.1%, inflation at -0.2%, unemployment rising to 3.0%, and government debt reaching 152.0% of GDP.",
+        "• In 2021, Singapore's economy rebounded with a 7.6% real GDP growth rate, inflation at 2.3%, unemployment decreasing to 2.7%, and government debt increasing further to 159.9% of GDP.",
+        "• IMF staff estimates for 2022 to 2027 project continued economic growth with GDP rising from 701.0 billion US$ PPP in 2022 to 886.1 billion US$ PPP in 2027, and GDP per capita increasing from 131,425.7 US$ PPP to 164,987.2 US$ PPP.",
+        "• Real GDP growth is forecasted to moderate to around 2.3%-3.0% annually from 2022 to 2027, with inflation rates expected to decline from 5.5% in 2022 to 1.5% by 2025-2027.",
+        "• Unemployment rates are projected to remain stable at approximately 2.1% throughout 2022 to 2027.",
+        "• Government debt as a percentage of GDP is expected to slightly decrease from 141.1% in 2022 to around 139.9%-141.8% by 2027, indicating a relatively stable fiscal position post-pandemic.",
+        "• Inflation rates below 5% are highlighted in green in the data table, indicating that most years from 1982 onward maintained relatively low inflation, except for notable spikes in 2008 and 2022.",
+        "• The data reflects Singapore's transformation into a high-income economy with significant growth in GDP per capita from 9,479.4 US$ PPP in 1980 to an estimated 164,987.2 US$ PPP in 2027."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:56.580596",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "British colonization",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1819, Stamford Raffles, then Lieutenant-Governor of Bencoolen, established a trading post in Singapore as part of British colonial expansion efforts.",
+        "• Raffles had been searching for a new settlement to serve as an outpost of the British Empire, departing from Calcutta to explore much of South-East Asia.",
+        "• During this period, the Dutch Empire and British Empire were close economic rivals competing for control over militarily weaker and economically less prosperous nations through colonization.",
+        "• Raffles aimed to find a new settlement to replace Malacca, which had been handed over to the Dutch under the Treaty of Vienna of 1815, thereby regaining a key economic advantage over the Dutch Empire.",
+        "• Singapore was identified as an ideal location due to its strategic position just off the edge of the Straits of Malacca, now recognized as one of the world’s most important shipping lanes.",
+        "• The territory offered key economic resources beneficial to the British, including abundant timber, fresh water, and a natural deep water harbor suitable for the British fleet.",
+        "• Upon arrival, Raffles landed on an island at the mouth of the Singapore River, where a small Malay settlement existed.",
+        "• Accompanied by William Farquhar, Raffles negotiated with Temenggong Abdul Rahman, the Chief of Security for the settlement, to secure the right to establish a British trading post on the island.",
+        "• The island was nominally ruled from Johor on the peninsula by Tengku Rahman, Sultan of Johor, who was heavily influenced by the Dutch and the Bugis.",
+        "• The Sultanate was weakened by factional divisions, resulting in Temenggong Abdul Rahman and his officials showing greater loyalty to Tengku Hussein (also known as Tengku Long), the Sultan’s elder brother living in exile in Riau, likely the Riau Archipelago.",
+        "• With the assistance of Temenggong Abdul Rahman, Raffles smuggled Tengku Hussein back to Singapore.",
+        "• Raffles offered to recognize Tengku Hussein as the rightful Sultan of Johor and provide him with a yearly stipend in exchange for granting the British the right to establish a trading post on Singapore.",
+        "• On 6 February 1819, Raffles successfully incorporated Singapore into the British Empire as a formal trading post.",
+        "• The rapid economic growth of the settlement following its establishment is largely attributed to Singapore’s natural suitability as a seaport hub."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:02.241210",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Trade expansion",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• On 17 November 1869, the Suez Canal officially opened, establishing a direct maritime connection between the Mediterranean Sea and the Red Sea.",
+        "• The opening of the Suez Canal significantly reduced travel time for shipping routes, which in turn stimulated an increase in trade volume.",
+        "• Within one year following the canal's opening, Singapore experienced a $32 million rise in trade volume.",
+        "• By 1879, the trade volume in Singapore had reached $105 million Straits dollars.",
+        "• During this period, entrepot trade was the primary source of income for Singapore's economy.",
+        "• Trade activities alone accounted for more than one-third of Singapore’s Gross Domestic Product (GDP) in 1879."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:11.195113",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Independence",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 1950s, social unrest in the region prompted colonial powers to relinquish some decision-making authority to local entities in response to widespread dissatisfaction and instability.",
+        "• The occurrence of race riots during this period motivated colonial authorities to empower and establish a strong local government to maintain order and address underlying issues.",
+        "• High unemployment was identified as a primary cause of social unrest, leading the local government to prioritize solving this economic challenge.",
+        "• To facilitate industrial development and economic growth, the Economic Development Board (EDB) was established to enable the Singapore government to establish, develop, and finance industrial undertakings.",
+        "• In 1955, a Singapore local Legislative Assembly was formed, comprising 35 members, of whom 25 were elected, marking a significant step towards self-governance.",
+        "• Upon gaining independence from Malaysia in 1965, Singapore confronted significant economic challenges including a small domestic market and elevated levels of unemployment and poverty.",
+        "• At the time of independence, 70 percent of Singapore’s households lived in severely overcrowded conditions, highlighting widespread housing inadequacies.",
+        "• Approximately one-third of Singapore’s population resided in slums located on the outskirts of the city, reflecting poor living standards and infrastructural deficits.",
+        "• The unemployment rate averaged 14 percent at independence, indicating a critical need for job creation and economic development.",
+        "• Singapore’s GDP per capita stood at US$516 in 1965, underscoring the low level of economic output and income per individual.",
+        "• Half of the population was illiterate at the time, presenting significant challenges for workforce development and economic progress."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:17.140161",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Industrialisation boom and change",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After Lee Kuan Yew was elected, he implemented significant economic reforms that propelled Singapore's economy through structural change and mechanization during his tenure.",
+        "• Singapore was a small, densely populated nation with very limited natural resources and minimal space for outward expansion, which shaped its economic strategy.",
+        "• Lee Kuan Yew identified Singapore's key advantage as its human capital, emphasizing the development of a highly educated workforce capable of competing in global industry and trade.",
+        "• On 1 August 1961, the Singapore Government established the Economic Development Board (EDB) to lead an investment drive and position Singapore as an attractive destination for foreign direct investment (FDI).",
+        "• FDI inflows increased significantly over the subsequent decades; by 2001, foreign companies accounted for 75% of Singapore's manufactured output and 85% of its manufactured exports.",
+        "• Singapore's savings and investment rates rose to among the highest levels globally, while household consumption and wage shares of GDP declined to among the lowest levels.",
+        "• From 1965 to 1973, during the early years of Lee’s tenure, Singapore experienced an annual real GDP growth rate of 12.7%.",
+        "• Lee directed government spending towards repairing and improving infrastructure, which enhanced economic productivity and established the foundation for developing basic industries.",
+        "• As of 2019, Singapore’s infrastructure quality was ranked the best globally, achieving a score of 95.4 out of 100.",
+        "• Between 1973 and 1979, Singapore faced economic challenges as it shifted focus from basic infrastructure spending to pursuing more sustainable economic progress.",
+        "• The 1973 oil crisis heightened government awareness of economic concentration risks and prompted the convening of a new forum to discuss economic adaptation strategies.",
+        "• During the 1973-1979 period, GDP growth slowed to an annual rate of 8.5%, lower than the previous period, but unemployment remained virtually zero.",
+        "• Most of Singapore’s population experienced significant improvements in productivity during this time.",
+        "• The government emphasized technology and education as critical drivers for future economic gains.",
+        "• Financial services were identified as a key sector for diversification and new growth opportunities.",
+        "• The government made substantial investments in developing Singapore’s emerging financial services industry during this period.",
+        "• Efforts were successful in minimizing inflation and equipping workers with appropriate machinery and tools to sustain economic growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:19.448659",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.4.1",
+      "section_name": "Growth in the service sector",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• By 1992, Singapore's capital stock had increased 33 times, achieving a tenfold increase in the capital-labour ratio as a result of sustained investment efforts.",
+        "• Living standards in Singapore steadily improved, with a significant number of families transitioning from lower-income status to middle-income security due to increased household incomes.",
+        "• In 1987, Prime Minister Lee Kuan Yew stated that, based on the government's home ownership criterion, 80% of Singaporeans could be classified as middle-class.",
+        "• Under Lee's leadership, Singapore maintained both low inflation and low unemployment rates.",
+        "• Singapore adopted a policy of individualizing the social safety net, contrasting with the welfare approaches of Greece and much of Europe, which contributed to a higher-than-average savings rate and a sustainable long-term economy.",
+        "• The absence of a burdensome welfare state fostered a self-reliant and skilled workforce well-prepared for participation in the global economy.",
+        "• During the 1990s, Singapore faced challenges in reinventing its economy due to competition from efficient manufacturing firms emerging in Southeast Asia, compounded by Singapore’s small labor force and land constraints.",
+        "• Economist Friedrich noted that Singapore’s manufacturing sector was unlikely to expand beyond its then-current 25% share of the economy.",
+        "• Despite manufacturing challenges, Singapore thrived as a global financial center, trading hub, and industrial center for international trade.",
+        "• Singapore’s economic strategy yielded an average real growth rate of 8.0% from 1960 to 1999.",
+        "• Since independence in 1965, Singapore’s GDP grew at an average annual rate of 9.5%.",
+        "• Following the 1997 Asian financial crisis, under Prime Minister Goh Chok Tong, Singapore’s economy grew by 5.4% in 1999 and accelerated to 9.9% in 2000.",
+        "• Economic growth slowed to an estimated negative 2.0% in 2001 due to slowdowns in the United States, Japan, the European Union, and a global electronics slump.",
+        "• The economy expanded by 2.2% in 2002 and by 1.1% in 2003, the latter year affected by the SARS outbreak.",
+        "• In 2004, Singapore experienced a major economic turnaround with 8.3% growth, although actual growth fell short of the target by more than half, achieving only 2.5%.",
+        "• Economic growth rates were 6.4% in 2005 and 7.9% in 2006.",
+        "• The 2008 global financial crisis posed challenges for Singapore’s economy due to its status as a financial services hub, with some market commentators doubting its resilience.",
+        "• Despite concerns, Singapore’s economy grew by 3.1% in 2009 and surged to a 15.2% growth rate in 2010.",
+        "• As of 8 June 2013, Singapore’s unemployment rate was approximately 1.9%, while the economy’s growth rate had slowed to 1.8% on a quarter-by-quarter basis, down from 14.8% in 2010.",
+        "• In 2015 and 2016, Singapore experienced an economic downturn with GDP growth shrinking to around 2%, though it avoided negative growth rates.",
+        "• During this period of diminished growth, both unemployment and inflation rates decreased.",
+        "• By 2017, Singapore’s GDP reached US$323.907 billion.",
+        "• Singapore’s economy was expected to slow in 2019, with GDP growth forecasted to decline to 1.9% from 3.1% in 2018, primarily due to tariff hikes imposed by the United States and China.",
+        "• Amid the initial months of the COVID-19 pandemic, on 26 March 2020, Singapore’s Ministry of Trade and Industry (MTI) projected an economic contraction of between 1% and 4% for 2020, following a 2.2% shrinkage in Q1 2020 compared to Q1 2019.",
+        "• On 26 May 2020, MTI revised its 2020 economic contraction forecast downward to between 4% and 7%, prompting economists to downgrade recovery expectations and anticipate a prolonged economic recovery period.",
+        "• In response to pandemic-related economic pressures, Moody’s temporarily downgraded Singapore’s banking sector outlook from “stable” to “negative” in 2020.",
+        "• Economist Chua Hak Bin estimated that Singapore’s circuit breaker measures, initiated on 7 April 2020 to curb COVID-19 spread, could impact the economy by approximately S$10 billion.",
+        "• Lockdowns imposed on construction workers raised concerns about potential delays of up to six months in construction projects.",
+        "• Senior Minister of State for Trade and Industry Chee Hong Tat reported that approximately 3,800 companies closed in April 2020, only slightly above the five-year average of 3,700 closures for the same month.",
+        "• Despite the modest increase in company closures, the number of new company startups in April 2020 declined by about one-third compared to the average April startup numbers since 2015.",
+        "• Chee Hong Tat warned that the number of company closures was likely to rise in the coming months following April 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:29.832180",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 31
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4",
+      "section_name": "State enterprise and investment",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The public sector in Singapore functions both as an investor and as a catalyst for economic development and innovation, playing a pivotal role in the nation's economy.",
+        "• The Government of Singapore manages its national reserves through two sovereign wealth funds: Temasek Holdings and GIC Private Limited.",
+        "• Initially, the state's involvement focused primarily on managing industries to promote economic development; however, in recent decades, the objectives of Singapore's sovereign wealth funds have transitioned towards operating on a commercial basis.",
+        "• Government-linked corporations (GLCs) hold a significant position in Singapore's domestic economy, with the top six Singapore-listed GLCs accounting for approximately 17 percent of the total market capitalization of the Singapore Exchange (SGX) as of November 2011.",
+        "• These GLCs, which are fully or partially state-owned enterprises, operate commercially and are not granted any competitive advantages over privately owned companies.",
+        "• State ownership is especially prominent in strategic sectors of the economy, including telecommunications, media, public transportation, defence, port and airport operations, banking, shipping, airlines, infrastructure, and real estate.",
+        "• As of 2014, Temasek Holdings possessed assets valued at S$69 billion within Singapore, representing 7 percent of the total capitalization of Singapore-listed companies.",
+        "• In 2017, the multinational pharmaceutical company GlaxoSmithKline (GSK) relocated its Asian Headquarters to Singapore, indicating the country's growing importance as a regional business hub.",
+        "• Trade figures in Singapore, measured in billions of Singapore dollars, demonstrate significant growth and fluctuations from 2000 to 2014:",
+        "• In 2000, total trade was S$273 billion, with imports at S$135 billion and exports at S$138 billion, marking a 21% increase from the previous year.",
+        "• In 2001, total trade experienced a decline of 9.4%.",
+        "• By 2002, total trade rose to S$432 billion.",
+        "• In 2003, total trade reached S$516 billion, with imports at S$237 billion and exports at S$279 billion, reflecting a 9.6% increase.",
+        "• In 2004, total trade further increased to S$629 billion, imports to S$293 billion, and exports to S$336 billion, a 21.9% rise.",
+        "• In 2005, total trade was S$716 billion, with imports at S$333 billion and exports at S$383 billion, representing a 14% increase.",
+        "• In 2006, total trade reached S$810 billion, imports S$379 billion, and exports S$431 billion, marking a 13.2% increase.",
+        "• By 2014, total trade was S$983 billion, with imports at S$464 billion and exports at S$519 billion, indicating a 21.3% increase in total trade from 2006 to 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:29.521490",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "5",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• To sustain Singapore’s competitive position amid rising wages, the government aims to promote higher value-added activities within both the manufacturing and services sectors.",
+        "• The government has initiated or is in the process of opening key sectors—including financial services, telecommunications, and power generation and retailing—to foreign service providers to increase competition.",
+        "• Measures such as wage restraint policies have been implemented to control labor costs and maintain economic competitiveness.",
+        "• The government has also taken steps to release unused buildings to alleviate the sharp increase in commercial rents, particularly in the central business district (CBD).",
+        "• This intervention was prompted by a tripling of office rents in the CBD in 2006, which significantly raised the cost of doing business in Singapore."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:21.204617",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Banking",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Singapore is widely regarded as a global financial hub by leading financial analysts, economists, and politicians, with its banks providing world-class corporate bank account facilities.",
+        "• In the 2020 Global Financial Centres Index, Singapore was ranked as having the sixth most competitive financial sector globally and the fourth most competitive in Asia.",
+        "• Singaporean banks offer a comprehensive range of services, including multiple currencies, internet banking, telephone banking, checking accounts, savings accounts, debit and credit cards, fixed term deposits, and wealth management services.",
+        "• The three major local banks in Singapore are DBS, OCBC, and UOB, which dominate the domestic banking sector.",
+        "• In 2020, the Monetary Authority of Singapore (MAS) granted licenses to digital banks for the first time, marking a significant development in the country’s banking landscape.",
+        "• GXS Bank and MariBank are identified as the two largest digital banks operating in Singapore following the issuance of these licenses.",
+        "• Singapore has attracted assets previously held in Swiss banks due to factors such as new taxes imposed on Swiss accounts and the erosion of Swiss bank secrecy.",
+        "• Credit Suisse, the second largest Swiss bank, relocated its head of international private banking to Singapore in 2005, underscoring Singapore’s growing importance in global private banking.",
+        "• Due to these developments and its robust financial services sector, Singapore has earned the nickname \"Switzerland of Asia.\""
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:27.061533",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Biotechnology",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Singapore has been aggressively developing its biotechnology industry through substantial investments aimed at building infrastructure, funding research and development, and recruiting top international scientists to the country.",
+        "• Hundreds of millions of dollars have been invested in the biotechnology sector to support its growth and establish Singapore as a key player in the global biopharma landscape.",
+        "• Leading global pharmaceutical companies, including GlaxoSmithKline (GSK), Pfizer, and Merck & Co., have established manufacturing plants in Singapore, contributing to the sector's expansion.",
+        "• In 2006, GlaxoSmithKline (GSK) invested an additional S$300 million to construct a new plant dedicated to producing paediatric vaccines, marking its first such facility in Asia.",
+        "• Pharmaceuticals constitute more than 8% of Singapore’s total manufacturing production, reflecting the sector’s significant role in the national economy.",
+        "• By 2022, Singapore’s biopharma industry achieved an annual manufacturing output valued at USD 18 billion, representing a threefold increase over the preceding two decades."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:25.430772",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Energy and infrastructure",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Singapore serves as the pricing centre and leading oil trading hub in Asia, highlighting its strategic importance in the regional energy market.",
+        "• The oil industry contributes approximately 5% to Singapore's Gross Domestic Product (GDP), underscoring its significant role in the national economy.",
+        "• Singapore ranks among the top three export refining centres globally, demonstrating its prominence in the international oil refining sector.",
+        "• In 2007, Singapore exported 68.1 million tonnes of oil, reflecting its substantial capacity and activity in oil exports.",
+        "• The development of the oil industry in Singapore has catalyzed growth in related sectors, including the chemical industry and the manufacturing of oil and gas equipment.",
+        "• Singapore controls 70% of the global market for both jack-up rigs and the conversion of Floating Production Storage Offloading (FPSO) units, indicating its dominance in these specialized marine engineering services.",
+        "• The country holds 20% of the global market share for ship repair, further emphasizing its critical role in maritime maintenance and services.",
+        "• In 2008, the marine and offshore industry in Singapore employed nearly 70,000 workers, highlighting its importance as a significant source of employment.",
+        "• Due to Singapore’s limited land area, the potential for renewable energy development is constrained, with solar power identified as having the greatest potential among renewable sources.",
+        "• The Singaporean government has set a target to generate enough solar power by 2030 to supply 350,000 households, which would correspond to 4% of the country’s electricity demand as recorded in 2020.",
+        "• As a major financial hub, Singapore is positioned to play a crucial role in attracting investment for renewable energy projects across the entire ASEAN region, leveraging its financial expertise and infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:31.060562",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "5.4",
+      "section_name": "Real estate",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Singapore government owns 90 percent of the country's land, demonstrating significant state control over real estate assets within the nation.",
+        "• Approximately 80 percent of Singapore's population resides in government-owned housing, indicating a substantial reliance on public housing provisions.",
+        "• In July 2022, a report published by the real estate services provider Savills identified Singapore as tied with New York City for the highest rental growth rate in the luxury home market worldwide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:29.211964",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "5.5",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism constitutes a significant sector within the economy of Singapore, contributing notably to its overall economic performance.",
+        "• Singapore is recognized as one of the most visited cities globally, attracting a substantial number of international tourists annually."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:30.689290",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "6",
+      "section_name": "International trade and investment",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, Singapore's total trade amounted to SGD 1,365.4 billion, comprising imports of SGD 655.4 billion and exports of SGD 710.0 billion, reflecting the country's significant role in global commerce.",
+        "• China was Singapore's largest trading partner in 2021, serving as both its main import partner and largest export market, highlighting the strong bilateral trade relationship.",
+        "• Other major trading partners of Singapore include Malaysia, the United States, and the European Union, indicating a diversified network of international trade relations.",
+        "• Bilateral trade between Singapore and China reached approximately SGD 175 billion in 2022, with Singapore's exports to China exceeding imports since 2009, demonstrating a favorable trade balance for Singapore with China.",
+        "• Conversely, Singapore's trade with the United States has seen imports exceed exports since 2006, reflecting differing trade dynamics with the US.",
+        "• In 2000, re-exports constituted 43% of Singapore's total sales to other countries, underscoring Singapore's role as a global trading hub.",
+        "• Singapore's principal exports include electronic components, refined petroleum, gold, computers, and packaged medications, while its main imports are electronic components, refined petroleum, crude petroleum, gold, and computers, illustrating the country's focus on high-value and technology-driven goods.",
+        "• Singapore's trade benefits from an extensive network of trade agreements, including free trade access to the entire ASEAN network, with reduced import duties when trading with Indonesia, Malaysia, the Philippines, Thailand, Brunei, Burma, Cambodia, Laos, and Vietnam, as reported by Healy Consultants.",
+        "• The Singapore Economic Development Board (EDB) actively attracts large-scale investment despite Singapore's relatively high operating costs, with the United States leading foreign investment by accounting for 40% of new manufacturing sector commitments in 2000.",
+        "• By 1999, cumulative investment by American companies in Singapore's manufacturing and services sectors reached approximately USD 20 billion in total assets, primarily concentrated in electronics manufacturing, oil refining and storage, and the chemical industry, with over 1,500 US firms operating in Singapore.",
+        "• Singapore's largely corruption-free government, skilled workforce, and advanced infrastructure have attracted more than 3,000 multinational corporations (MNCs) from the United States, Japan, and Europe, with MNCs responsible for over two-thirds of manufacturing output and direct export sales, although some service sectors remain dominated by government-linked corporations.",
+        "• The Singapore government encourages outward investment, with total direct investments abroad reaching USD 39 billion by the end of 1998; the People's Republic of China was the top destination (14%), followed by Malaysia (10%), Hong Kong (9%), Indonesia (8%), and the United States (4%).",
+        "• India’s rapidly growing economy, particularly its high-technology sector, is becoming an increasingly important source of foreign investment for Singapore.",
+        "• The United States and Singapore signed the US-Singapore Free Trade Agreement in 2003, reflecting efforts to enhance bilateral trade relations; Singapore’s corporate tax rate is 17%.",
+        "• Singapore is the European Union's 14th largest trading partner, with annual trade valued at over €50 billion, and ranks as the EU's 5th largest trade partner in services and 6th largest destination for foreign direct investment.",
+        "• More than 10,000 European Union companies have established hubs or offices in Singapore, signifying strong EU corporate presence in the country.",
+        "• In 2018, the EU and Singapore signed the EU-Singapore Free Trade Agreement (EUSFTA), designed to boost and promote trade by eliminating tariffs on goods, harmonizing safety, testing, and labeling standards for products such as cars, vehicle parts, electronics, and textiles.",
+        "• The EUSFTA also provides preferential market access and equal treatment for services including telecommunications, financial services, and transport, simplifies customs procedures, improves trade facilitation, enhances intellectual property protection, guarantees access to government procurement contracts, and includes legally binding commitments on environmental protection and workers' rights.",
+        "• Alongside the EUSFTA, the EU and Singapore signed an investment protection agreement to encourage bilateral investment by ensuring equal treatment of investors from both parties and replacing older bilateral investment treaties between Singapore and individual EU countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:44.230033",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "International trade agreements",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Singapore has established multiple bilateral and plurilateral international trade agreements, with signature and entry into force dates as recorded by the World Trade Organization.",
+        "• The Comprehensive Strategic Partnership (CSP) agreement with Australia was concluded on 6 May 2016 and signed in 2015; the effective date is not specified.",
+        "• The Agreement between New Zealand and Singapore on a Closer Economic Partnership (ANZSCEP) was concluded on 18 August 2000, signed on 14 November 2000, and came into effect on 1 January 2001.",
+        "• The Agreement between the European Free Trade Association (EFTA) States and Singapore (EFTA-Singapore FTA) was concluded on 11 April 2002, signed on 26 June 2002, and became effective on 1 January 2003.",
+        "• The Japan–Singapore Economic Partnership Agreement (JSEPA) was concluded in October 2001 and signed on 13 January (year unspecified); the effective date is not provided.",
+        "• The United States-Singapore Free Trade Agreement (USSFTA) was concluded on 19 November 2002, signed on 6 May 2003, and entered into force on 1 January 2004.",
+        "• The Singapore Jordan Free Trade Agreement (SJFTA) was concluded on 29 April 2004 and signed on 16 May 2004; the effective date is not specified.",
+        "• The Trans-Pacific Strategic Economic Partnership Agreement (Trans-Pacific SEP), involving Brunei, Chile, and New Zealand among others, was signed in August 2005 and became effective on 1 January 2006; Chile and New Zealand specifically signed on 18 July 2005.",
+        "• The India–Singapore Comprehensive Economic Cooperation Agreement (India-Singapore CECA) was concluded in November 2004, signed on 29 June 2005, and came into effect on 1 August 2005.",
+        "• The Korea-Singapore Free Trade Agreement (KSFTA) was concluded on 28 November 2004, signed on 4 August 2005, and became effective by the end of 2005.",
+        "• The Peru-Singapore Free Trade Agreement (PesFTA) was concluded in September 2007, signed on 29 May 2008, and entered into force in early 2009.",
+        "• The Sri Lanka-Singapore Free Trade Agreement (Sri Lanka-Singapore FTA) was concluded in 2016, signed on 23 January 2018, and became effective in mid-2018.",
+        "• The European Union-Singapore Free Trade Agreement (EUSFTA) was concluded in 2018, signed on 19 October 2018, and came into effect on 21 November 2019.",
+        "• The Singapore–United Kingdom Free Trade Agreement (SUKFTA) was concluded and signed on 10 December 2020 and became effective on 1 January 2021."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:41.499512",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "7",
+      "section_name": "Singapore workforce",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2000, Singapore had a workforce of approximately 2.2 million individuals, reflecting its focus on human capital development due to limited natural resources.",
+        "• Singapore possesses the largest proficiency of English language speakers in Asia, enhancing its attractiveness to multinational corporations.",
+        "• According to Tilak Abeysinghe, in the 1970s only 2.4% of Singapore’s labor force held degrees; this figure increased to 6.3% by 1990 and reached 31% by 2013, demonstrating significant growth in educational attainment aligned with the nation’s directive toward high-skilled labor jobs.",
+        "• The National Trades Union Congress (NTUC) is the sole trade union federation in Singapore, accounting for nearly 99% of total organized labor, and maintains a symbiotic relationship with the ruling party.",
+        "• Labour and trade union matters in Singapore are predominantly controlled by government policy and proactive measures rather than by labor legislation.",
+        "• The Employment Act provides limited protection to white-collar workers due to an income threshold, restricting its coverage.",
+        "• Labour-management disputes unresolved informally through the Ministry of Manpower are handled by the Industrial Arbitration Court.",
+        "• The Singapore government emphasizes tripartism—cooperation among unions, management, and government—and prioritizes early resolution of labor disputes, resulting in only one strike in the past 15 years.",
+        "• Singapore has historically enjoyed virtually full employment; however, during an economic slump in 2001, the unemployment rate rose from 2.4% early in the year to 4.0% by year-end.",
+        "• By 2012, the unemployment rate had declined to 1.9%, reflecting recovery and labor market stability.",
+        "• The Singapore government opposes minimum wage and unemployment benefit schemes but introduced the Workfare Income Supplement (WIS) scheme in 2007 to supplement wages of low-skilled workers.",
+        "• To encourage employment of older Singaporean workers, the Special Employment Credit (SEC) was introduced in 2011 and enhanced in 2012 to also support hiring Persons with Disabilities (PWDs), helping employers manage increased Central Provident Fund (CPF) contribution costs for older workers.",
+        "• The SEC scheme, initially planned for five years, was extended by three additional years up to 2019 to incentivize employers to voluntarily re-employ workers aged 65 and above.",
+        "• The Singapore Government and NTUC have implemented various programs aimed at increasing productivity and boosting labor force participation rates among women and older workers.",
+        "• Despite these efforts, labor shortages persist in the service sector and in many low-skilled positions within the construction and electronics industries.",
+        "• Foreign workers help address these labor shortages; in 2000, about 600,000 foreign workers were present in Singapore, constituting 27% of the total workforce.",
+        "• The presence of foreign workers contributes to relatively suppressed wage growth or stagnant wages for all workers.",
+        "• To regulate foreign labor, the government imposes a foreign worker levy on employers hiring low-end workers such as domestic helpers and construction workers.",
+        "• In 2012, the Ministry of Trade and Industry (MTI) emphasized the need to fine-tune the inflow of foreign workers in response to Singapore’s aging population and shrinking workforce.",
+        "• The Singapore Parliament accepted recommendations from the Economic Strategies Committee (ESC) regarding the optimal ratio of immigration and foreign manpower for both high- and low-skilled workers.",
+        "• The government recognizes that the foreign workforce should complement, not replace, the local resident workforce, aligning with the Singaporean Core concept.",
+        "• Foreign manpower supports companies in raising productivity through business restructuring and workforce retraining, as well as increasing resident labor force participation rates."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:44.922860",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "8",
+      "section_name": "Poverty and economic inequality",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Singapore is one of the world's wealthiest countries per capita, yet it has a high Gini coefficient relative to other developed countries, indicating significant income inequality.",
+        "• The Singapore Department of Statistics publishes official data on income inequality, which shows that without accounting for taxes and social transfers, Singapore's Gini coefficient places it in the medium range of inequality.",
+        "• Despite this, Singapore ranks in the \"very high\" category on the inequality-adjusted human development index (IHDI), a measure similar to the Human Development Index (HDI) but adjusted to reflect inequality levels.",
+        "• In October 2018, Oxfam ranked Singapore 149th out of 157 countries in its Commitment to Reducing Inequality Index 2018, placing Singapore among the bottom ten countries in terms of efforts to reduce economic inequality.",
+        "• Oxfam's report criticized Singapore for encouraging \"harmful tax practices,\" lacking a universal minimum wage except for janitors and security guards, and demonstrating poor performance on labor rights.",
+        "• The Singapore government responded to Oxfam's report by emphasizing the importance of \"real outcomes\" such as high home ownership rates, good health, education, and employment levels, rather than focusing solely on public spending or tax rates.",
+        "• The government also stated that the Oxfam report \"assumes that high taxation and high public expenditure reflects commitment to combating inequality,\" which Singapore disputes.",
+        "• Social support in Singapore is provided through various government schemes: the Ministry of Social and Family Development administers ComCare, which offers income support to low-income citizen households via short-to-medium term assistance, long-term assistance, child support, and urgent financial aid.",
+        "• Community Development Councils operate local assistance schemes tailored to their respective districts to support residents in need.",
+        "• The Ministry of Manpower manages the Silver Support Scheme, which provides additional financial aid to low-income elderly individuals who lack family support.",
+        "• The Ministry of Health runs MediFund, a program designed to help families struggling to pay medical bills despite existing government subsidies and other health financing schemes.",
+        "• The National Council of Social Service coordinates approximately 450 non-government voluntary welfare organizations that deliver social services and raise funds through The Community Chest of Singapore.",
+        "• Over the past decade, low and middle-income groups in Singapore have received 2.5 times the amount of public subsidies compared to ten years ago, reflecting increased government support for these populations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:36.798746",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "9",
+      "section_name": "Public finance",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Government spending in Singapore increased from approximately 15% of GDP in 2008 to 17% in 2012, following the onset of the 2008 financial crisis.",
+        "• Despite this increase, Singapore’s total government expenditure as a percentage of GDP remains among the lowest internationally, facilitating a competitive tax regime.",
+        "• The Singapore Constitution mandates that the government maintain a balanced budget over each term of government.",
+        "• Singapore government debt is issued solely for investment purposes and is not used to finance government expenditure.",
+        "• Personal income tax rates in Singapore range from 0% to 22% for incomes exceeding S$320,000.",
+        "• Singapore does not impose capital gains tax or inheritance tax.",
+        "• The corporate tax rate in Singapore is set at 17%, with exemptions and incentives available for smaller businesses.",
+        "• Singapore employs a single-tier corporate income tax system, eliminating double taxation for shareholders.",
+        "• The Goods and Services Tax (GST) was introduced on 1 April 1994 at an initial rate of 3%, which increased government revenue by S$1.6 billion (equivalent to US$1 billion or €800 million) and helped stabilize government finances.",
+        "• Subsequent GST rate increases occurred as follows: 4% in 2003, 5% in 2004, 7% in 2007, 8% in 2023, and a planned increase to 9% in 2024.",
+        "• The Singapore government owns two investment companies, GIC Private Limited and Temasek Holdings, which manage the country’s reserves.",
+        "• Both GIC and Temasek operate as commercial investment holding companies independent of the Singapore government’s direct control.",
+        "• Prime Minister Lee Hsien Loong serves as chairman of one of these corporations, while his wife, Ho Ching, serves as CEO of the other.",
+        "• GIC primarily invests internationally, whereas Temasek holds 31% of its investment portfolio within Singapore.",
+        "• Temasek holds majority stakes in several major Singaporean companies, including Singapore Airlines, Singtel, ST Engineering, and Mediacorp.",
+        "• As of 2014, Temasek’s assets in Singapore amounted to S$69 billion, representing 7% of the total capitalization of companies listed in Singapore.",
+        "• In April 2013, Singapore was recognized as an increasingly popular tax haven for wealthy individuals due to its low personal income tax rates, full tax exemption on income generated outside Singapore, and 69 double taxation treaties that reduce withholding and capital gains taxes.",
+        "• Notable wealthy individuals who have relocated to Singapore include Australian millionaire retailer Brett Blundy (in 2013) with an estimated wealth of AU$835 million, and Facebook co-founder Eduardo Saverin (in 2012).",
+        "• Australian mining magnate Gina Rinehart owns property in Singapore, and American investor Jim Rogers moved to Singapore in 2007, motivated by Asia’s anticipated economic dominance in the 21st century and a desire for his daughters to learn Mandarin.",
+        "• Chinese media celebrities Jet Li and Gong Li have also become naturalized citizens of Singapore."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:51.740688",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "10",
+      "section_name": "Monetary policy",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Monetary Authority of Singapore (MAS) serves as Singapore's central bank and financial regulatory authority, overseeing statutes related to money, banking, insurance, securities, and the broader financial sector, as well as currency issuance.",
+        "• As of July 2023, Lawrence Wong holds the position of chairman of the MAS.",
+        "• MAS is empowered to act as a banker to and financial agent of the Singapore Government, with responsibilities including promoting monetary stability and implementing credit and exchange policies that support economic growth.",
+        "• Unlike central banks such as the Federal Reserve System, European Central Bank, or Bank of England, MAS does not regulate the monetary system through interest rate adjustments to influence liquidity.",
+        "• Since 1981, MAS has managed monetary policy primarily via the foreign exchange mechanism, specifically by controlling the Singapore dollar nominal effective exchange rate (S$ NEER), which involves managing the SGD against a basket of undisclosed foreign currencies.",
+        "• MAS intervenes in the Singapore dollar market and conducts operations in the money market to maintain the desired S$ NEER policy stance.",
+        "• The MAS reviews its monetary policy stance approximately every six months, which is less frequent than many other central banks; however, it may adjust the timing of its policy meetings in exceptional circumstances, such as during the COVID-19 pandemic.",
+        "• In May 2022, six major banks—Credit Suisse AG, Deutsche Bank AG, The Hongkong and Shanghai Banking Corporation Limited, ING Bank N.V., Citibank N.A., and JPMorgan Chase & Co.—agreed to pay a total of $64.5 million to settle antitrust allegations related to collusion in rigging benchmark Singapore interest rates.",
+        "• Key MAS policy decisions regarding the SGD NEER band include:",
+        "• 22 February 2001: Initiated a gradual modest appreciation rate of the SGD NEER band.",
+        "• 10 April 2001: Continued gradual modest appreciation rate of the SGD NEER band.",
+        "• 12 July 2001: Set the rate of appreciation of the SGD NEER band to zero percent.",
+        "• 10 October 2001: Maintained zero percent appreciation rate; widened the band’s width.",
+        "• 2 January 2002: Maintained zero percent appreciation rate; narrowed the band’s width.",
+        "• 14 October 2016: Maintained zero percent appreciation rate with no changes to width or central level.",
+        "• 13 April 2017: Maintained zero percent appreciation rate with no changes to width or central level.",
+        "• 13 October 2017: Maintained zero percent appreciation rate with no changes to width or central level.",
+        "• 13 April 2018: Slightly increased the rate of appreciation; no changes to width or central level.",
+        "• 12 October 2018: Slightly increased the rate of appreciation; no changes to width or central level.",
+        "• 12 April 2019: Maintained unchanged rate of appreciation; no changes to width or central level.",
+        "• 14 October 2019: Slightly reduced the rate of appreciation; no changes to width.",
+        "• 30 March 2020: Set zero percent per annum rate of appreciation starting at the prevailing level; no change in width.",
+        "• 14 October 2020: No change in foreign exchange policy from the March 2020 decision, consistent with economist expectations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:55.631034",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "11",
+      "section_name": "Property policy",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Singapore government introduced the Additional Buyer's Stamp Duty (ABSD) in December 2011 as a measure to curb property speculation within the country.",
+        "• The ABSD rates were increased twice after its introduction: first in January 2013 and subsequently in July 2018, reflecting a progressive tightening of property market regulations.",
+        "• As of the latest policy, Singapore citizens purchasing their first residential property are exempt from paying any ABSD, providing an incentive for home ownership among locals.",
+        "• For Singapore citizens acquiring a second residential property and any subsequent properties, the ABSD rate can be as high as 15%, imposing a significant additional cost to deter speculative buying.",
+        "• Foreigners purchasing property in Singapore are subject to a flat ABSD rate of 60%, regardless of whether it is their first or subsequent property, representing a stringent control on foreign investment in the housing market.",
+        "• Entities, including companies and other legal bodies, face an even higher ABSD rate of 65% on property purchases, further restricting speculative activities by corporate investors.",
+        "• Concurrent with the July 2018 increase in ABSD rates, the Monetary Authority of Singapore (MAS) implemented tighter regulations on housing loans by limiting the maximum loan tenure and reducing the Loan-to-Value (LTV) ratio, thereby restricting the amount and duration of borrowing for property purchases."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:49.725816",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "12",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• A total of 16,156 mergers and acquisitions (M&A) deals have been conducted in Singapore to date, with an accumulated total value of US$850 billion.",
+        "• Since 1985, the volume and value of M&A activities in Singapore have shown a consistent upward trend, with exceptions occurring only in the years 2002 and 2009.",
+        "• The year 2017 marked the peak in Singapore’s M&A activity, recording the highest number of deals at 926 and the highest total transaction value at US$78 billion, representing an all-time high.",
+        "• M&A transactions involving Singapore exhibit a nearly equal distribution between inbound deals (foreign entities acquiring Singaporean companies) and outbound deals (Singaporean entities acquiring foreign companies).",
+        "• The top 10 largest M&A deals involving Singaporean participation, either inbound or outbound, are as follows:",
+        "• On 2 January 2008, Shining Prospect Pte Ltd (Other Financials, Singapore) acquired Rio Tinto PLC (Metals & Mining, United Kingdom) for US$14,284.17 million.",
+        "• On 7 September 2015, Petrol Complex Pte Ltd (Oil & Gas, Singapore) acquired Essar Oil Ltd (Oil & Gas, India) for US$12,907.25 million.",
+        "• On 14 July 2017, Nesta Investment Holdings Ltd (Other Financials, China) acquired Global Logistic Properties Ltd (Non Residential, Singapore) for US$11,553.58 million.",
+        "• On 12 October 2016, QHG Shares Pte Ltd (Other Financials, Singapore) acquired Rosneft Oil Co (Oil & Gas, Russian Federation) for US$10,776.55 million.",
+        "• On 12 October 2007, Government of Singapore Investment Corporation (Alternative Financial Investments, Singapore) acquired UBS AG (Banks, Switzerland) for US$9,760.42 million.",
+        "• On 26 March 2001, Singapore Telecommunications (Wireless, Singapore) acquired Cable & Wireless Optus Ltd (Telecommunications Services, Australia) for US$8,491.12 million.",
+        "• On 12 January 2014, an Investor Group (Other Financials, Singapore) acquired IndCor Properties Inc (REITs, United States) for US$8,100.00 million.",
+        "• On 30 March 2007, an Investor Group (Other Financials, Singapore) acquired Alinta Ltd (Oil & Gas, Australia) for US$7,500.98 million.",
+        "• On 13 September 2012, TCC Assets Ltd (Other Financials, British Virgin Islands) acquired Fraser & Neave Ltd (Food and Beverage, Singapore) for US$6,896.48 million.",
+        "• On 15 January 2008, Government of Singapore Investment Corporation (Alternative Financial Investments, Singapore) acquired Citigroup Inc (Banks, United States) for US$6,880.00 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:58:56.558993",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "13",
+      "section_name": "Facts and figures",
+      "chapter_name": "Economy of Singapore",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Singapore's percentage of economic growth was recorded at 1.7% in the year 2016.",
+        "• The industrial production growth rate in Singapore was estimated at 1% in 2016.",
+        "• In 2014, Singapore's electricity production by source was predominantly from fossil fuels, accounting for 95.3% of total production.",
+        "• Hydroelectric power contributed 0% to Singapore's electricity production as of 2014.",
+        "• Nuclear energy accounted for 0% of Singapore's electricity production in 2014.",
+        "• Other sources made up 3.9% of Singapore's electricity production in 2014.",
+        "• Singapore's electricity consumption was 47.5 terawatt-hours (TWh) in 2016.",
+        "• Singapore did not export any electricity in 2007, with electricity exports recorded at 0 kilowatt-hours (kWh).",
+        "• Similarly, Singapore did not import any electricity in 2007, with electricity imports recorded at 0 kWh.",
+        "• The agricultural products of Singapore include rubber, copra, fruit, vegetables, poultry, eggs, fish, orchids, and ornamental fish.",
+        "• The official currency of Singapore is the Singapore dollar, abbreviated as S$ or SGD, with one Singapore dollar equal to 100 cents.",
+        "• The exchange rate of Singapore dollars per US dollar has varied over the years as follows:",
+        "• 1981: 2.0530 SGD per US$1",
+        "• 1985: 2.1213 SGD per US$1",
+        "• 1990: 1.7275 SGD per US$1",
+        "• 1995: 1.4148 SGD per US$1",
+        "• 2000: 1.7361 SGD per US$1",
+        "• 2005: 1.6738 SGD per US$1",
+        "• 2011: 1.2573 SGD per US$1",
+        "• 2012: 1.2498 SGD per US$1",
+        "• 2013: 1.2513 SGD per US$1",
+        "• 2014: 1.2671 SGD per US$1",
+        "• 2015: 1.3748 SGD per US$1",
+        "• 2016: 1.379 SGD per US$1",
+        "• 2017: 1.3807 SGD per US$1",
+        "• 2018: 1.3491 SGD per US$1",
+        "• 2019: 1.3642 SGD per US$1",
+        "• 2020: 1.3792 SGD per US$1",
+        "• 2021: 1.344 SGD per US$1",
+        "• 2022: 1.3789 SGD per US$1",
+        "• 2023: 1.3431 SGD per US$1"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:59:07.718534",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 31
+      },
+      "source_file": "economy_of_singapore.json",
+      "original_index": 24
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+.venv/*
+.venv
+.venv/
+*.mp4
+*.avi
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.svg       
+*.ico
+*.bmp
+*.tiff
+*.webm
+*.mov
+.env
+*.env
+*.DS_Store
+.pdf-venv/*
+.pdf-venv
+.pdf-venv/
+*.pdf-vnev/
+*.pdf 
+*.zip
+*.wiki-venv
+.wiki-venv/
+.wiki-venv/*
+
+# Python virtual environments
+wikipedia/wiki-gov-exam/.wiki-venv/
+*.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Other temporary or generated files
+*.log
+*.zip

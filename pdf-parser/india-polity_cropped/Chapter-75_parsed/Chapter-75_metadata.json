@@ -1,0 +1,397 @@
+{
+  "table_of_contents": [
+    {
+      "title": "75 Coalition Government",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          105.1875
+        ],
+        [
+          404.61328125,
+          105.1875
+        ],
+        [
+          404.61328125,
+          131.291015625
+        ],
+        [
+          105.0,
+          131.291015625
+        ]
+      ]
+    },
+    {
+      "title": "MEANING OF COALITION GOVERNMENT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.888671875,
+          193.2626953125
+        ],
+        [
+          452.126953125,
+          193.2626953125
+        ],
+        [
+          452.126953125,
+          210.568359375
+        ],
+        [
+          104.888671875,
+          210.568359375
+        ]
+      ]
+    },
+    {
+      "title": "FEATURES OF COALITION GOVERNMENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.291015625,
+          87.44677734375
+        ],
+        [
+          459.298828125,
+          87.44677734375
+        ],
+        [
+          459.298828125,
+          106.154296875
+        ],
+        [
+          104.291015625,
+          106.154296875
+        ]
+      ]
+    },
+    {
+      "title": "FORMATION OF COALITION GOVERNMENTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          105.0,
+          88.6552734375
+        ],
+        [
+          482.30859375,
+          88.6552734375
+        ],
+        [
+          482.30859375,
+          106.541015625
+        ],
+        [
+          105.0,
+          106.541015625
+        ]
+      ]
+    },
+    {
+      "title": "MERITS OF COALITION GOVERNMENT",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          104.1416015625,
+          86.625
+        ],
+        [
+          436.88671875,
+          86.625
+        ],
+        [
+          436.88671875,
+          106.4443359375
+        ],
+        [
+          104.1416015625,
+          106.4443359375
+        ]
+      ]
+    },
+    {
+      "title": "DEMERITS OF COALITION GOVERNMENT",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          104.291015625,
+          86.96337890625
+        ],
+        [
+          460.1953125,
+          86.96337890625
+        ],
+        [
+          460.1953125,
+          105.8642578125
+        ],
+        [
+          104.291015625,
+          105.8642578125
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          104.96337890625,
+          701.89453125
+        ],
+        [
+          301.21875,
+          701.89453125
+        ],
+        [
+          301.21875,
+          719.68359375
+        ],
+        [
+          104.96337890625,
+          719.68359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

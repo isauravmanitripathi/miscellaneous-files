@@ -1,0 +1,1180 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_iran.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.091908",
+    "total_sections_in_source": 39,
+    "extracted_sections_count": 39,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Wikipedia section on the \"Economy of Iran\" is marked as needing an update as of April 2023, indicating that recent events or new information may not be reflected.",
+        "• Iran possesses a mixed, centrally planned economy characterized by a large public sector.",
+        "• The economy includes key sectors such as hydrocarbons (oil and gas), agriculture, and services, along with manufacturing and financial services.",
+        "• Over 40 industries are traded on the Tehran Stock Exchange, highlighting a significant stock market presence.",
+        "• Iran holds approximately 10% of the world's proven oil reserves and 15% of its gas reserves, establishing it as an \"energy superpower.\"",
+        "• Since 2024, Iran has been experiencing an energy crisis despite its energy resources.",
+        "• A distinctive feature of Iran's economy is its reliance on large religious foundations known as bonyads, whose combined budgets account for more than 30% of central government spending.",
+        "• In 2007, Iran implemented a subsidy reform plan that introduced price controls and subsidies, especially on food and energy.",
+        "• Factors such as contraband, administrative controls, widespread corruption, and other restrictive measures hinder private sector-led growth.",
+        "• Iran's 20-year economic vision includes market-based reforms, with a five-year development plan from 2016 to 2021 aimed at creating \"a resilient economy\" and advancing \"science and technology.\"",
+        "• The majority of Iran's exports are oil and gas, which constituted most of the government's revenue in 2010.",
+        "• In March 2022, the Iranian parliament, under President Ebrahim Raisi, decided to eliminate a major subsidy valued at $15 billion in 2021 that supported the import of food, medicines, and animal feed.",
+        "• Also in March 2022, Iran agreed to export 20 billion tons of basic goods, including vegetable oil, wheat, barley, and corn, from Russia.",
+        "• Iran's educated population, high human development levels, a constrained economy, and insufficient foreign and domestic investment have led many Iranians to seek employment abroad, causing a significant \"brain drain.\"",
+        "• The 2015 nuclear deal between Iran and the P5+1 countries lifted most international sanctions temporarily, resulting in a boost to Iran's tourism industry and a reduction in inflation, although these gains were hindered after the US withdrew from the JCPOA in 2018.",
+        "• Following the US withdrawal, Iran's economy faced setbacks including contraction in GDP during 2018 and 2019, with a modest rebound expected in 2020.",
+        "• Major economic challenges include the COVID-19 pandemic starting in February 2020, reimposition of US sanctions in mid-2018, increased unemployment, inflation (including food inflation), a weak and undercapitalized banking system, an underperforming private sector, and widespread corruption.",
+        "• The Iranian rial has experienced significant depreciation, reflecting economic instability.",
+        "• Iran has a relatively low ranking in \"Economic Freedom\" and \"ease of doing business,\" indicating a constrained economic environment.",
+        "• The country's economic difficulties are compounded by US sanctions, internal structural issues, and external geopolitical tensions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:00.592434",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 546 BC, Croesus of Lydia was defeated and captured by the Persians, leading to the adoption of gold as the primary metal for Persian coinage.",
+        "• Biblical accounts in the Book of Esther describe dispatches sent from Susa to distant provinces including India and the Kingdom of Kush during Xerxes the Great’s reign (485–465 BC).",
+        "• By approximately 475 BC, Herodotus documented that the Persian Royal Road extended about 2,857 km, connecting Susa on the Karun River (250 km east of the Tigris) to Smyrna (modern İzmir) on the Aegean Sea.",
+        "• Modern Iranian agriculture began in the 1850s under Amir Kabir, who introduced reforms such as importing modified seeds and establishing international collaboration contracts.",
+        "• The Polyakov’s _Bank Esteqrazi_ was acquired in 1898 by Russia’s Tsarist government, later transferred to Iran in 1920, and operated as _Bank Iran_ until 1933, when it was incorporated into the newly founded Keshavarzi Bank.",
+        "• The Imperial Bank of Persia was founded in 1885, establishing branches in all major Persian cities.",
+        "• Reza Shah Pahlavi (reigned 1925–1941) implemented infrastructure improvements, educational reforms, anti-foreign influence campaigns, legal system reforms, and the introduction of modern industries, fostering social change, economic development, and relative political stability.",
+        "• Reza Shah abdicated in 1941, succeeded by his son Mohammad Reza Shah Pahlavi (reigned 1941–1979).",
+        "• During World War II and the immediate post-war years, Iran’s economy saw no fundamental changes.",
+        "• Between 1954 and 1960, Iran experienced rapid economic growth driven by increased oil revenues and foreign aid, leading to higher investment primarily in the government sector.",
+        "• Post-1960, inflation rose, the rial depreciated, and a foreign trade deficit emerged; economic policies to address these issues resulted in reduced rates of nominal growth and per capita income growth by 1961.",
+        "• Prior to 1979, Iran underwent rapid development, transitioning from a traditionally agricultural economy to significant industrialization and modernization by the 1970s.",
+        "• Capital flight reached between $30 billion and $40 billion (1980 US dollars) just before the 1979 Iranian Revolution, slowing economic progress.",
+        "• After the 1979 revolution and the Iran–Iraq War (1980–1988), over 80% of Iran’s economy was under government control.",
+        "• The Iran–Iraq War resulted in at least 300,000 Iranian deaths, over 500,000 injuries, and economic costs estimated at approximately $500 billion.",
+        "• Post-war, Iran’s government prioritized developing communication, transportation, manufacturing, healthcare, education, and energy sectors, including nuclear power facilities, and integrated regional systems.",
+        "• Since the revolution, Iran’s long-term economic goals included achieving independence, full employment, and a high standard of living.",
+        "• Iran’s population more than doubled from 1980 to 2000, with a declining median age, and despite many Iranians being farmers, agricultural output has continuously fallen since the 1960s.",
+        "• By the late 1990s, Iran became a net importer of food due to declining agricultural productivity, prompting rural-to-urban migration driven by economic hardship in the countryside.",
+        "• The section references various statistical data and economic indicators, including:"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:09.587450",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Macroeconomic trends",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran's national science budget in 2005 was approximately $900 million, which was roughly equivalent to the budget in 1990, indicating stagnation in scientific funding over this period.",
+        "• By the early 2000s, Iran allocated around 0.4% of its Gross Domestic Product (GDP) to research and development (R&D), positioning the country behind the global average of 1.4% in R&D expenditure.",
+        "• In 2009, Iran's ratio of research expenditure to GDP was 0.87%, falling short of the government's medium-term target of 2.5%.",
+        "• Iran achieved the distinction of ranking first in scientific growth worldwide in 2011, and in 2012, it was ranked 17th globally in science production, although this claim is marked as needing citation.",
+        "• Iran possesses a broad and diversified industrial base; according to _The Economist_, Iran ranked 39th among industrialized nations, producing $23 billion worth of industrial products in 2008.",
+        "• Between 2008 and 2009, Iran improved its position in annual industrial production growth from 69th to 28th place, partly due to its relative isolation from the 2008 global financial crisis.",
+        "• In the early 21st century, Iran's economy was characterized by a service sector as the largest component, followed by industry (including mining and manufacturing) and agriculture.",
+        "• In 2008, Iran's GDP was estimated at $382.3 billion in nominal terms, with a purchasing power parity (PPP) of approximately $842 billion, and a per capita GDP of $5,470 (nominal) and $12,800 (PPP).",
+        "• In 2010, projections indicated that Iran's nominal GDP would double within five years; however, real GDP growth was expected to average only 2.2% annually during 2012–2016, which was insufficient to significantly reduce unemployment.",
+        "• International sanctions severely impacted Iran's economy by halving its oil exports; these exports began recovering in 2016.",
+        "• The Iranian rial experienced a depreciation of more than 50% in 2012, prompting Iran to adopt import substitution industrialization and a resistive economy strategy.",
+        "• According to the International Monetary Fund (IMF), Iran is classified as a \"transition economy,\" indicating it is transitioning from a planned economy to a market economy.",
+        "• In 2008, the United Nations classified Iran's economy as semi-developed.",
+        "• In 2014, Iran was ranked 83rd out of 144 countries in the World Economic Forum's global competitiveness index; key challenges include political, policy, and currency instability, as well as difficulties in accessing financing, especially for small and medium enterprises.",
+        "• Most of Iran's financial resources are directed toward trading, smuggling, and speculation rather than productive activities such as manufacturing.",
+        "• Goldman Sachs in 2008 identified Iran as having the potential to become one of the world's largest economies in the 21st century.",
+        "• In 2014, Iranian President Hassan Rouhani stated that Iran has the potential to be among the ten largest economies within the next 30 years.",
+        "• A major issue cited by Iranian industrialists is the government's failure to support domestic industries by authorizing the import of similar parts or products, which undermines local activity and the domestic market; this is partly attributed to corruption and mismanagement within the government.",
+        "• Scientific growth in Iran has shown significant increases from 2000 to 2015, with the number of scientific publications rising from approximately 250 in 2000 to over 20,000 in 2015.",
+        "• The GDP in current international dollars (PPP) increased from $4,267 million in 1980 to an estimated $13,077,142 million in 2015, reflecting substantial economic growth over this period.",
+        "• Iran's population grew from 38 million in 1980 to approximately 79 million in 2015.",
+        "• The implied PPP conversion rate (USD/IRR) increased from 40 in 1980 to 9,788 in 2015, indicating inflation and currency devaluation.",
+        "• GDP per capita in PPP terms rose from $4,267 in 1980 to approximately $16,918 in 2015, although the inflation index (average CPI) increased from 100 in 2011/2012 to 253 in 2015, indicating significant inflationary pressures.",
+        "• The current account balance shifted from a deficit of -3.6 billion USD in 1980 to a surplus of 6.9 billion USD in 2015."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:16.102365",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Reform plan",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The fifth plan of Iran's economic reform aims to expand public healthcare and strengthen international relations as primary objectives.",
+        "• This plan encompasses a comprehensive set of measures including subsidy reform, banking recapitalization, currency stabilization, tax reform, customs modernization, construction development, employment initiatives, nationwide goods and services distribution, social justice enhancement, and productivity improvement.",
+        "• The overarching goal is to achieve self-sufficiency for Iran by the year 2015.",
+        "• A key target is to replace the annual $100 billion expenditure on subsidies with targeted social assistance programs.",
+        "• These reforms are designed to address Iran’s major sources of economic inefficiency and price distortion, anticipating significant restructuring across nearly all economic sectors.",
+        "• One of the main strategies involves removing energy subsidies to improve industrial efficiency and competitiveness.",
+        "• By 2016, it is projected that approximately one-third of Iran’s economic growth will stem from productivity improvements.",
+        "• Historically, energy subsidies have contributed to Iran being one of the world's least energy-efficient economies, with energy intensity levels three times the global average and 2.5 times higher than the Middle Eastern average.",
+        "• Despite internal economic challenges, Iran’s banking sector is viewed as a potential hedge against the removal of subsidies, as the reform plan is not expected to have a direct impact on banks."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:19.230776",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3",
+      "section_name": "National planning",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran's national budget is established by the Management and Planning Organization of Iran and is proposed by the government to the parliament (Majlis) before the end of each year.",
+        "• After the Majlis approves the budget, the central bank submits a detailed monetary and credit policy to the Money and Credit Council (MCC) for approval.",
+        "• Major elements of these monetary and credit policies are incorporated into Iran's five-year economic development plan, which is part of the broader \"Vision 2025\" strategy aimed at long-term sustainable growth.",
+        "• The Fifth Economic Development Plan (2010–2015) set specific targets and achievements across various economic indicators, with notable data including:",
+        "• Iran ranked as the 18th largest economy in the world by PPP in 2010, aiming to reach 12th place by 2015.",
+        "• The annual GDP growth rate was 2.6% in 2010, with a target of 8% on average (based on $1.1 trillion domestic and FDI), and a forecast of 3.6% (2009–14).",
+        "• Official unemployment was reported at 11.8%, with unofficial estimates ranging from 12% to 22%, and opposition sources citing up to 30%; the goal was to reduce unemployment to 7% by 2015 through creating 1 million new jobs annually.",
+        "• Inflation rate was 15% as of January 2010, with a target reduction to an average of 12%.",
+        "• Value Added Tax (VAT) was 3%, with a goal to increase it to 8%.",
+        "• Privatization aimed for 20% of state-owned firms to be privatized each year.",
+        "• The share of the cooperative sector in GDP was less than 5%, with a target increase to 25%.",
+        "• R&D expenditure was 0.87% of GDP, aiming to reach 2.5%.",
+        "• The share of non-oil exports was 20%, with a goal to reach 30% ($83 billion) by 2016.",
+        "• Oil price assumptions in the budget were $60 per barrel; actual average oil prices were $65 per barrel, with projected oil and gas revenues of $250 billion in 2015 once current projects are operational, compared to IMF projections of approximately $60 billion.",
+        "• 30% of oil revenues were planned to be allocated to the National Development Fund by 2015.",
+        "• Oil production increased from 4.1 million barrels per day (bpd) to a target of 5.2 million bpd, with about 2,500 oil and gas wells to be drilled and commissioned.",
+        "• Natural gas production was targeted at 900 million cubic meters per day.",
+        "• Implementation of 380 R&D projects in the oil industry was planned by 2015, focusing on recovery enhancement, gas conversion, and hydro conversion.",
+        "• Investment in the oil and gas sector was projected at $20 billion annually from private and foreign sources, partly to expand oil refining capacity.",
+        "• Petrochemical output was expected to double from approximately 50 million tons per year (tpy) to 100 million tpy.",
+        "• Bunkering market share in the Persian Gulf was targeted to increase from 25% to 50%, or to 7.5 million tpy of liquid fuel.",
+        "• Oil products storage capacity was planned to grow from 11.5 billion liters to 16.7 billion liters.",
+        "• Natural gas storage capacity was to reach 14 billion cubic meters.",
+        "• Electricity generation capacity was to increase from 61,000 MW to 86,000 MW.",
+        "• Power plant efficiency was targeted to improve from 38% to 45%.",
+        "• Investment in mining and industry was projected at $70 billion or 700,000 billion rials.",
+        "• Crude steel production was to increase from approximately 10 million tpy to 42 million tpy by 2015.",
+        "• Iron ore production was targeted to rise from about 27 million tpy to 66 million tpy.",
+        "• Cement production was planned to grow from approximately 71 million tpy to 110 million tpy.",
+        "• Limestone extraction was expected to reach 166 million tpy.",
+        "• Construction of 50 new industrial parks was planned by 2015.",
+        "• Ports capacity was to expand from 150 million tons to 200 million tons.",
+        "• Railway network length was to increase from 10,000 km to 15,000 km at an annual cost of $8 billion.",
+        "• Transit of goods was projected to grow from 7 million tons to 40 million tons.",
+        "• Electronic trade was targeted to constitute 20% of domestic trade, 30% of foreign trade, and 80% of government transactions.",
+        "• The Sixth Development Plan (2016–2021) emphasizes \"guidelines\" rather than specific \"hard targets,\" focusing on three main priorities:",
+        "• Development of a resilient economy.",
+        "• Progress in science and technology.",
+        "• Promotion of cultural excellence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:27.161643",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 39
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "4",
+      "section_name": "Fiscal and monetary policy",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the 1979 revolution, Iran's government spending has been allocated approximately as follows: 59% on social policies, 17% on economic matters, 15% on national defense, and 13% on general affairs.",
+        "• Payments by the government have been distributed as: 39% on education, health, and social security; 20% on other social programs; 3% on agriculture; 16% on water, power, and gas; 5% on manufacturing and mining; 12% on roads and transportation; and 5% on other economic affairs.",
+        "• Iran's investment as a percentage of GDP reached 27.7% in 2009.",
+        "• Between 2002 and 2006, inflation fluctuated around an average of 14%.",
+        "• In 2008, approximately 55% of Iran's government revenue was derived from oil and natural gas revenues, while 31% came from taxes and fees.",
+        "• A significant portion of Iran's population operates outside the formal economy due to the virtually non-existent tax payment among millions of individuals.",
+        "• The government’s budget for the year 2012 was $462 billion, representing a 9% decrease compared to 2011, and was based on an assumed oil price of $85 per barrel.",
+        "• The estimated value of the US dollar during this period was IRR 12,260.",
+        "• According to Iran’s Department of Statistics, adherence to proper budgeting rules could enable the government to save at least 30 to 35% of its expenses.",
+        "• The central bank's interest rate stood at 21%, and the inflation rate increased to 22% in 2012, which is 10% higher than in 2011.",
+        "• There is minimal coordination between Iran’s fiscal and monetary policies.",
+        "• The Central Bank of Iran reported that the gap between the rich and the poor narrowed due to monthly subsidies, but this trend could reverse if high inflation persists.",
+        "• Iran's foreign reserves were estimated at $110 billion in 2011; the country balances external payments by pricing oil at approximately $75 per barrel.",
+        "• As of 2013, only between $30 billion and $50 billion of these reserves were accessible due to international sanctions.",
+        "• Iranian media have questioned why the government did not repatriate its foreign reserves prior to the latest sanctions and why it failed to convert reserves into gold.",
+        "• Between December 2011 and April 2012, the Iranian rial depreciated by more than 40%.",
+        "• Despite falling oil prices in FY 2012, Iran's external and fiscal accounts remained in surplus, with the current account expected to reach a surplus of 2.1% of GDP and the net fiscal balance (after payments to Iran’s National Development Fund) a surplus of 0.3% of GDP.",
+        "• In 2013, Iran’s external debt decreased from $17.3 billion in 2012 to approximately $7.2 billion.",
+        "• The overall fiscal deficit was projected to worsen to 2.7% of GDP in FY 2016, up from 1.7% in 2015.",
+        "• Money in circulation in Iran reached $700 billion in March 2020, based on the 2017 pre-devaluation exchange rate, contributing to further depreciation of the rial and rising inflation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:36.332619",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Defense related burden",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2023, Iran allocates approximately 10.3 billion USD to national defense, representing 2.1% of its Gross Domestic Product (GDP), a percentage comparable to that of the United Kingdom, France, and Finland.",
+        "• The Iran Ministry of Defense hosts events such as the New Weapons Ceremony and the Young Soldier Festival, highlighting ongoing military developments and morale initiatives.",
+        "• In the 2025 budget bill, Iran designated 51% of its total oil and gas export revenues, estimated at 12 billion euros, to fund the Islamic Revolutionary Guard Corps (IRGC) and the Law Enforcement Force (LEF).",
+        "• Iran provides financial support to various regional and militant groups, including Hezbollah, the Yemeni Houthis, Iraqi militias, and Hamas.",
+        "• The annual average budget allocated for Iran’s proxies is estimated at US$1.6 billion.",
+        "• Starting from the beginning of 2011, Iran reportedly allocated a total of US$50 billion to sustain the Assad regime in Syria, according to Syrian opposition sources; however, this investment ultimately failed following the regime’s collapse.",
+        "• The most significant and costly component of Iran’s defense expenditure is its nuclear program, with total estimated costs approaching US$500 billion until 2025.",
+        "• Iran’s nuclear program has led to international sanctions, which have caused long-term economic stagnation estimated to have cost Iran an additional US$1.2 trillion over a 12-year period.",
+        "• Sanctions have also resulted in a substantial decline in foreign direct investment (FDI), with Iran experiencing approximately an 80% reduction in FDI between 2011 and 2021."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:40.427087",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "5",
+      "section_name": "Work time",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2024, Iran enacted legislation to establish a two-day weekend, marking a significant change in the country's workweek structure.",
+        "• The new law involved adding Saturday to the existing Friday weekend, thereby creating a combined two-day weekend.",
+        "• As part of this reform, Thursday was removed from the official workweek schedule.",
+        "• The overall workweek hours were reduced from 44 hours to a range of 40 to 42 hours, depending on specific sectors or regulations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:42.986037",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "6",
+      "section_name": "Challenges",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Gross Domestic Product (GDP) of Iran contracted during fiscal years 2018 and 2019, with a modest economic rebound anticipated in 2020/2021, as projected by the April 2020 World Economic Outlook of the International Monetary Fund (IMF).",
+        "• The Iranian economy faces multiple challenges, including the COVID-19 pandemic that began in February 2020, which exacerbated existing issues such as US sanctions reimposed in mid-2018 and other economic factors, leading to a decline in oil production and a projected slow recovery in oil exports.",
+        "• Labor-force participation in Iran has increased; however, the unemployment rate was above 10% as of 2020 and is projected to rise further in 2021 and 2022.",
+        "• Inflation in Iran reached 41.1% in 2019, with expectations from the World Bank that inflation will persist in the coming years but decline to approximately 34-33%.",
+        "• In July 2022, the average inflation rate surged to 40.5%, with food and beverage inflation alone increasing by 87%.",
+        "• Iran’s banking system is described as \"chronically weak and undercapitalized\" by Nordea Bank Abp, holding billions of dollars in non-performing loans, and the private sector remains \"anemic.\"",
+        "• The unofficial exchange rate of the Iranian rial to the US dollar, which stabilized at 40,000 to 1 in 2017, depreciated sharply to approximately 120,000 to 1 by November 2019.",
+        "• Iran’s economy ranks poorly in global indices, with a score of 164 out of 180 in the Heritage Foundation’s \"Index of Economic Freedom\" and a rank of 127 among 190 countries in the World Bank’s ease of doing business index.",
+        "• Critics argue that privatization efforts have largely resulted in state-owned enterprises being taken over not by \"skilled businesspeople\" but by the Islamic Revolutionary Guard Corps (IRGC) and its associates.",
+        "• In 2020, a businessperson in Iran expressed to foreign journalist Dexter Filkins that ongoing \"chronic shortages of material\" and \"unruly inspectors pushing for bribes\" create significant operational difficulties, making future planning nearly impossible.",
+        "• According to the National Iranian Oil Company (NIOC), in 2021, Iran’s daily gasoline consumption exceeded 85 million liters, which is approximately ten times higher than Turkey’s consumption, despite similar population sizes."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:48.310356",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "7",
+      "section_name": "Ownership",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following hostilities with Iraq, the Iranian government announced plans to privatize most industries and to liberalize and decentralize the economy.",
+        "• The privatization process of state-owned companies proceeded slowly, primarily due to opposition from a nationalist majority in the Iranian parliament.",
+        "• As of 2006, approximately 70% of Iran's economy remained under state ownership, with most heavy industries—including steel, petrochemicals, copper, automobiles, and machine tools—still publicly owned.",
+        "• In contrast, most light industries in Iran were privately owned by 2006.",
+        "• Article 44 of the Iranian Constitution mandates that the country's economy should comprise three sectors: state, cooperative, and private.",
+        "• The state sector includes large-scale industries, foreign trade, major minerals, banking, insurance, power generation, dams, large-scale irrigation networks, radio and television, postal, telegraph, and telephone services, aviation, shipping, roads, and railroads—all of which are publicly owned and managed by the government.",
+        "• The cooperative sector consists of companies and enterprises involved in production and distribution in urban and rural areas, operating in accordance with Shariah law; as of 2012, there were 5,923 consumer cooperatives employing 128,396 people and serving over six million members.",
+        "• The private sector operates in construction, agriculture, animal husbandry, industry, trade, and services, supplementing the activities of the state and cooperative sectors.",
+        "• Despite Article 44's stipulations, it has never been strictly enforced, resulting in a significantly larger role for the private sector than originally outlined in the constitution.",
+        "• In recent years, the private sector's role has increased, with a 2004 constitutional amendment allowing up to 80% of state assets to be privatized.",
+        "• Of the assets targeted for privatization, 40% are to be sold through the \"Justice Shares\" scheme, with the remaining sales conducted via the Tehran Stock Exchange; the government retains the remaining 20%.",
+        "• In 2005, Iran's government assets were estimated at $120 billion.",
+        "• Between 2005 and 2010, approximately $63 billion of these assets were privatized, leading to a reduction of the government's direct share of GDP from 80% to 40%.",
+        "• Many Iranian companies remain uncompetitive due to mismanagement over the years, which has made privatization less attractive to potential investors.",
+        "• According to then-President Mahmoud Ahmadinejad, 60% of Iran's wealth is controlled by just 300 individuals."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:51.997907",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Islamic Revolutionary Guard Corps",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Islamic Revolutionary Guard Corps (IRGC) is believed to control approximately one-third of Iran's economy through its subsidiaries and trusts.",
+        "• In 2007, the Los Angeles Times estimated that the IRGC had ties to over one hundred companies and generated annual revenues exceeding $12 billion, with a particular focus on the construction sector.",
+        "• The Ministry of Petroleum awarded the IRGC billions of dollars in no-bid contracts, including major infrastructure projects.",
+        "• The IRGC is tasked with border control and maintains a monopoly on smuggling activities, which cost Iranian companies billions of dollars annually.",
+        "• Smuggling activities are partly encouraged by the Iranian government's policy of generous subsidization of domestic goods, including fuel.",
+        "• The IRGC operates the telecommunication company, manages laser eye-surgery clinics, manufactures cars, and is involved in building bridges and roads.",
+        "• The IRGC also develops oil and gas fields within Iran."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:55.990851",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "Religious foundations",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Welfare programs for the needy in Iran are managed by over 30 public agencies, semi-state organizations known as _bonyads_, and several private non-governmental organizations.",
+        "• _Bonyads_ are a consortium of more than 120 tax-exempt organizations that receive government subsidies and religious donations.",
+        "• These _bonyads_ report directly to the Supreme Leader of Iran and control over 20% of the country's Gross Domestic Product (GDP).",
+        "• _Bonyads_ operate a diverse range of enterprises, including large soybean and cotton farms, hotels, soft drink companies, automobile manufacturing plants, and shipping lines.",
+        "• They are widely perceived as overstaffed, corrupt, and generally unprofitable.",
+        "• _Bonyad_ companies compete with Iran's private sector, which complains about the difficulty of competing with the subsidized and favored _bonyads_.",
+        "• _Bonyads_ are not subject to audits or Iran's standard accounting laws, allowing for a lack of transparency and oversight.",
+        "• _Setad_ (also known as EIKO) is a multi-sector business organization within the _bonyad_ system, holding 37 companies with an estimated total value of approximately $95 billion.",
+        "• _Setad_ is controlled by Iran's Supreme Leader, Ali Khamenei, and was established from thousands of properties confiscated from Iranians."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:51:58.473095",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "8",
+      "section_name": "Labor force",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2003, employment by sector in Iran was distributed as follows: Agriculture employed 4,009,155 persons; Social, personal and household services & Public service employed 3,934,317 persons; Mining & Manufacturing employed 3,019,576 persons; Trade, restaurant & hotel sectors employed 2,820,927 persons; Construction & Real estate services employed 2,395,144 persons; Transportation, warehousing & Telecommunications employed 1,541,401 persons; Financial & monetary institutions services employed 366,352 persons; Oil & gas sector employed 136,803 persons; Electricity sector employed 77,026 persons; Water sector employed 63,510 persons.",
+        "• The total labor force in Iran in 2003 was approximately 18,364,211 persons.",
+        "• A significant issue in Iran’s labor market is the lack of skilled labor.",
+        "• Following the Iranian Revolution, the government established a national education system that significantly improved adult literacy rates.",
+        "• By 2008, 85% of the adult population was literate, surpassing the regional average of 62%.",
+        "• Iran's Human Development Index (HDI) was 0.749 in 2013, categorizing the country within the \"high human development\" bracket.",
+        "• In 2008, Iran needed an annual economic growth rate exceeding 5% to effectively absorb approximately 750,000 new entrants into the labor force each year.",
+        "• In 2020, agriculture contributed 10% to Iran’s Gross Domestic Product (GDP) and employed 16% of the labor force.",
+        "• In 2017, the industrial sector, comprising mining, manufacturing, and construction, accounted for 35% of GDP and employed 35% of the labor force.",
+        "• In 2009, mineral products, especially petroleum, represented 80% of Iran’s export revenues, despite mining employing less than 1% of the labor force.",
+        "• In 2004, the service sector was the largest contributor to Iran’s GDP, accounting for 48% of the economy, and employed 44% of workers.",
+        "• Women constituted approximately 33% of the labor force in 2005.",
+        "• Youth unemployment (ages 15–24) was 29.1% in 2012, leading to significant brain drain.",
+        "• In 2016, the Iranian government reported that about 40% of the public sector workforce was either in excess of requirements or deemed incompetent."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:04.697695",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "8.1",
+      "section_name": "Labor force and the public sector",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Islamic Republic of Iran employs approximately 8 million individuals across various sectors.",
+        "• Of these, roughly 3 million hold formal positions within the three branches of government, the armed forces, and leadership institutions.",
+        "• Formal government roles include bureaucratic staff, civil servants, and uniformed military personnel.",
+        "• An additional approximately 2.3 million individuals are employed in quasi-governmental organizations, which encompass state-owned enterprises, national banks, municipalities, and the Islamic Azad University.",
+        "• About 2.5 million pensioners in Iran receive state stipends, often distributed through the Relief Committee, a government-controlled charitable organization.",
+        "• Consequently, nearly 10% (one in ten) of Iranian citizens maintain a regular financial connection to the state through employment or pension stipends."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:09.074187",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "8.2",
+      "section_name": "Personal income and poverty",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2010, Iran's nominal per capita income was approximately $4,520, while in 2012, the Purchasing Power Parity (PPP) per capita income increased to $13,000.",
+        "• Iran's Gross National Income (GNI) per capita in 2012 was significantly higher when measured by PPP compared to its nominal figure in 2010.",
+        "• Countries with higher GNI per capita than Iran include those with more developed economies, whereas countries with lower GNI per capita include less developed nations.",
+        "• Iran is classified as a middle-income country and has achieved notable progress in health and education services during the period covered by the Millennium Development Goals (MDGs).",
+        "• In 2010, Iran's average monthly income was about $500, translating to an annual income of approximately $6,000.",
+        "• The GNI per capita in 2012 was $13,000 when measured by PPP, indicating substantial economic growth over the period.",
+        "• A minimum national wage is established by the Supreme Labor Council and applies across various sectors; in 2009, this minimum wage was approximately $263 per month, totaling $3,156 annually.",
+        "• In 2001, household expenditure patterns included approximately 20% of consumption on food, 32% on fuel, 12% on healthcare, and 8% on education.",
+        "• By 2015, Iranians generally had minimal personal debt.",
+        "• In 2007, about 70% of Iranians owned their homes, reflecting relatively high homeownership rates.",
+        "• During 2018–2019, the median household income in Iran was 434,905,000 rials, slightly above $3,300, representing an 18.6% increase from 2017 to 2018, when median income was approximately 366,700,000 rials.",
+        "• Adjusted for PPP, Iran's median household income for 2017–2018 was approximately $28,647 based on the 2017 private consumption conversion factor.",
+        "• Given the average household size of 3.5 persons, the median personal income in Iran was estimated at around $8,185.",
+        "• Despite relatively favorable income levels, median wealth in Iran is very low, comparable to countries like Vietnam and Djibouti, indicating high expenditure levels.",
+        "• According to SCI data, median household spending in 2018 was 393,227,000 rials, which is about 90.5% of the median household income of 434,905,000 rials.",
+        "• Post-Revolution, the size of Iran's middle class doubled from approximately 15% of the population in 1979 to over 32% in 2000, though its composition remained relatively unchanged.",
+        "• In 2008, the official poverty line in Tehran was set at $9,612, while the national average poverty line was $4,932.",
+        "• In 2010, Iran's Department of Statistics reported that approximately 10 million Iranians lived below the absolute poverty line, and about 30 million lived under the relative poverty line."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:13.399272",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "8.3",
+      "section_name": "State of income inequality",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the World Bank inequality dataset, in 2002, Iran's Gini index was 34.8, which is considered to be a relatively modest level of income inequality.",
+        "• Despite the modest Gini index, detailed data analysis indicates a significant concentration of wealth, with the top 10% of earners controlling 52.7% of the national income, a share that exceeds that of the United States and European countries.",
+        "• Economic disparity within the public sector is pronounced, with many Iranian state employees experiencing substantial financial hardship, earning as little as $200 per month.",
+        "• In contrast, some members of the Iranian Majlis (parliament) receive monthly salaries ranging from 200 to 250 million tomans, which, based on the January 2024 exchange rate, amounts to more than $59,172.",
+        "• Majlis representatives also receive additional financial benefits, including bonuses during religious holidays and on special days such as \"Parliament Day\" and \"Employee Day.\"",
+        "• Perquisites for officials include festive treats during Nowruz and Yalda Night, highlighting disparities in access to benefits and living standards.",
+        "• Income inequality extends to access to essential services, notably water supply, with impoverished districts in Tehran experiencing inadequate water provision and hazardous water quality.",
+        "• Conversely, affluent districts, which house many of Iran’s economic elite, including high-ranking officials of the government and the Islamic Revolutionary Guard Corps (IRGC), are largely unaffected by water shortages, illustrating spatial disparities in resource access."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:16.470464",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "8.4",
+      "section_name": "Social security",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1996, the Iranian Center for Statistics estimated that over 73% of the Iranian population was covered by social security, despite Iran not offering universal social protection.",
+        "• Membership in the social security system is mandatory for all employees in Iran.",
+        "• Social security in Iran provides employee protection against unemployment, disease, old age, and occupational accidents.",
+        "• In 2003, the Iranian government initiated a consolidation of its welfare organizations to reduce redundancy and improve efficiency.",
+        "• The minimum standard pension in 2003 was set at 50% of the worker's earnings, with a minimum of the minimum wage.",
+        "• Iran allocated 22.5% of its national budget in 2003 to social welfare programs, with over 50% of this expenditure dedicated to pension costs.",
+        "• In 2015, Iran had approximately 15,000 homeless individuals, of whom 5,000 were women.",
+        "• Employees aged between 18 and 65 are covered by the social security system, with financing shared among the employee, employer, and the state.",
+        "• Employee contributions amount to 7% of their salary; employer contributions range from 20% to 23%; the government supplements the employer contribution up to an additional 3%.",
+        "• The state also contributes to social security funding to help cover costs.",
+        "• Self-employed workers in Iran can voluntarily contribute between 12% and 18% of their income, depending on the level of protection they seek.",
+        "• Civil servants, regular military personnel, law enforcement agencies, and members of the Islamic Revolutionary Guard Corps (IRGC) have their own separate pension systems."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:24.576101",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "8.5",
+      "section_name": "Trade unions",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Although Iranian workers have a theoretical right to form labor unions, the country lacks an operational union system.",
+        "• Worker representation is primarily provided by the Workers' House, a state-sponsored institution that attempts to challenge certain government policies.",
+        "• Guild unions exist locally in most areas but are limited mainly to issuing credentials and licenses, with minimal influence on broader labor issues.",
+        "• The right to strike is generally not recognized or respected by the Iranian state; since the 1979 Islamic Revolution, strikes have often been suppressed through police action.",
+        "• A comprehensive labor law governs labor relations in Iran, including provisions for the employment of foreign workers.",
+        "• The labor law provides a broad and inclusive definition of covered individuals, recognizing written, oral, temporary, and indefinite employment contracts.",
+        "• The law is considered employee-friendly, making it difficult for employers to dismiss staff; it prohibits employing personnel on consecutive six-month contracts to avoid paying benefits.",
+        "• Dismissing staff without proof of a serious offense is illegal under Iranian labor law.",
+        "• Labor disputes are resolved by a specialized labor council, which typically rules in favor of the employee, ensuring a degree of legal protection for workers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:29.475514",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "8.6",
+      "section_name": "Agriculture and foodstuffs",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Wheat is the most important crop in Iran, primarily cultivated in the western and northwestern regions of the country.",
+        "• Rice is the major crop in the Caspian region, highlighting regional specialization in crop production.",
+        "• Agriculture contributes approximately 9.5% to Iran's gross domestic product (GDP).",
+        "• The agricultural sector employs about 17% of Iran's total labor force.",
+        "• Approximately 9% of Iran's land area is arable, with key food-producing zones located in the Caspian region and the northwestern valleys.",
+        "• Some northern and western areas rely on rain-fed agriculture, while others depend on irrigation systems for crop cultivation.",
+        "• Principal obstacles to increasing agricultural productivity include primitive farming methods, overworked and under-fertilized soils, poor seed quality, and water scarcity.",
+        "• About one-third of Iran's cultivated land is irrigated, with irrigation infrastructure expanded through the construction of multipurpose dams and reservoirs along rivers in the Zagros and Alborz mountain ranges.",
+        "• Agricultural production has been rising due to modernization efforts, mechanization, crop and livestock improvements, and land redistribution programs.",
+        "• Besides wheat, other significant crops include barley, corn, cotton, sugar beets, tea, hemp, tobacco, fruits, potatoes, legumes (beans and lentils), vegetables, fodder plants (such as alfalfa and clover), almonds, walnuts, and spices like cumin and sumac.",
+        "• Iran is the world's largest producer of saffron, pistachios, honey, berberis, and berries, and the second-largest producer of dates globally.",
+        "• Meat and dairy products produced in Iran include lamb, goat meat, beef, poultry, milk, eggs, butter, and cheese.",
+        "• Non-food agricultural products encompass wool, leather, and silk.",
+        "• Forestry products from the northern slopes of the Alborz Mountains are economically significant; the government strictly controls tree-cutting and manages a reforestation program.",
+        "• Rivers draining into the Caspian Sea are fished for species such as salmon, carp, trout, pike, and sturgeon, the latter used for caviar, of which Iran is the largest producer.",
+        "• Since the 1979 revolution, commercial farming has replaced subsistence farming as the dominant agricultural mode.",
+        "• By 1997, the gross value of agriculture had reached $25 billion.",
+        "• Iran is approximately 90% self-sufficient in essential agricultural products, though limited rice production results in significant imports.",
+        "• In 2007, Iran achieved self-sufficiency in wheat production and became a net exporter of wheat for the first time.",
+        "• By 2003, about 25% of Iran's non-oil exports consisted of agricultural products, including fresh and dried fruits, nuts, animal hides, processed foods, and spices.",
+        "• Iran exported $736 million worth of foodstuffs in 2007 and approximately $1 billion (~600,000 tonnes) in 2010.",
+        "• A total of 12,198 entities are involved in Iran's food industry, representing 12% of all entities in the industry sector.",
+        "• The food industry sector employs roughly 328,000 people, accounting for 16.1% of the entire industry sector workforce."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:37.259236",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "8.7",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran possesses a diversified and extensive industrial base, with the United Nations classifying its economy as \"semi-developed\" in 1998.",
+        "• Large-scale factory manufacturing in Iran began in the 1920s.",
+        "• During the Iran–Iraq War (1980–1988), Iraq bombed many of Iran's petrochemical plants, notably damaging the large oil refinery at Abadan, which brought production to a halt.",
+        "• Reconstruction of Iran's petrochemical infrastructure started in 1988, with production resuming in 1993.",
+        "• Despite wartime disruptions, numerous small factories emerged to produce import-substitution goods and military materials.",
+        "• Iran's major manufactured products include petrochemicals, steel, and copper products.",
+        "• Other significant manufacturing sectors encompass automobiles, home and electric appliances, telecommunications equipment, cement, and industrial machinery.",
+        "• Iran operates the largest operational population of industrial robots in West Asia.",
+        "• Additional manufactured goods include paper, rubber products, processed foods, leather products, and pharmaceuticals.",
+        "• In 2000, textile mills utilizing domestic cotton and wool, such as _Tehran Patou_ and _Iran Termeh_, employed approximately 400,000 people across Tehran, Isfahan, and along the Caspian coast.",
+        "• A notable product is a giant fractionating column manufactured by Machine Sazi Arak (MSA).",
+        "• A 2003 report by the United Nations Industrial Development Organization identified several impediments to the development of small and medium-sized enterprises (SMEs) in Iran, including:",
+        "• Lack of monitoring institutions",
+        "• Inefficient banking system",
+        "• Insufficient research and development (R&D)",
+        "• Shortage of managerial skills",
+        "• Corruption",
+        "• Inefficient taxation policies",
+        "• Socio-cultural apprehensions",
+        "• Absence of social learning loops",
+        "• Shortcomings in international market awareness necessary for global competition",
+        "• Cumbersome bureaucratic procedures",
+        "• Shortage of skilled labor",
+        "• Lack of intellectual property protection",
+        "• Inadequate social capital, social responsibility, and socio-cultural values",
+        "• Despite these challenges, Iran has made advancements in various scientific and technological fields, including petrochemical, pharmaceutical, aerospace, defense, and heavy industry sectors.",
+        "• Even under economic sanctions, Iran is emerging as an industrialized country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:47.089643",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "8.7.1",
+      "section_name": "Handicrafts",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran has a longstanding tradition of producing artisanal goods, including Persian carpets, ceramics, copperware, brassware, glass, leather goods, textiles, and wooden artifacts.",
+        "• The tradition of Persian carpet weaving predates Islam, indicating its origins in pre-Islamic times.",
+        "• Carpet weaving remains a significant industry in Iran, contributing substantially to rural incomes across the country.",
+        "• An estimated 1.2 million weavers in Iran are involved in producing carpets for both domestic consumption and international export markets.",
+        "• Iran exports more than $500 million worth of hand-woven carpets annually, representing a major share of the global market.",
+        "• In 2008, Iranian carpets accounted for approximately 30% of the world market for hand-woven carpets.",
+        "• Approximately 5.2 million people are employed across around 250 different handicraft fields in Iran.",
+        "• The handicraft sector contributes approximately 3% to Iran’s gross domestic product (GDP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:49.752067",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "8.7.2",
+      "section_name": "Automobile manufacturing",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran Khodro is recognized as the largest car manufacturer in the Middle East, with a significant presence across four continents through joint ventures with foreign partners.",
+        "• As of 2001, Iran's automotive industry comprised 13 public and privately owned automakers, with Iran Khodro and Saipa leading the sector and collectively accounting for 94% of domestic vehicle production.",
+        "• The predominant vehicle brand produced by Iran Khodro was the Paykan, which was replaced by the Samand model in 2005.",
+        "• In 2001, Iran Khodro held a 61% share of the domestic automotive market, making it the largest manufacturer, while Saipa contributed 33%.",
+        "• The remaining 6% of the market in 2001 was divided among other automakers, including the Bahman Group, Kerman Motors, Kish Khodro, Raniran, Traktorsazi, Shahab Khodro, and additional manufacturers.",
+        "• Iranian automakers produce a diverse array of vehicles, including motorbikes, passenger cars such as Saipa's Tiba, vans, mini trucks, medium-sized trucks, heavy trucks, minibuses, large buses, and other heavy-duty vehicles used for both commercial and private purposes.",
+        "• In 2009, Iran ranked fifth globally in car production growth, following China, Taiwan, Romania, and India.",
+        "• By 2010, Iran was the 12th largest automaker in the world, operating a fleet of approximately 11.5 million cars.",
+        "• In 2010, Iran's total vehicle production reached 1,395,421 units, which included 35,901 commercial vehicles."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:53.335021",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "8.7.3",
+      "section_name": "Defense industry",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, the International Institute for Strategic Studies estimated Iran's defense budget at $7.31 billion.",
+        "• This defense budget represented approximately 2.6% of Iran's Gross Domestic Product (GDP).",
+        "• The per capita defense expenditure was approximately $102.",
+        "• Iran's defense budget in 2007 ranked it as the 25th largest globally.",
+        "• Iran's defense industry manufactures a wide range of arms and military equipment.",
+        "• Since 1992, Iran's Defense Industries Organization (DIO) has been responsible for producing various military hardware.",
+        "• The DIO has produced tanks, armored personnel carriers, guided missiles, radar systems, guided missile destroyers, military vessels, submarines, and fighter planes.",
+        "• In 2006, Iran exported weapons to 57 countries, including members of NATO.",
+        "• Iran's arms exports in 2006 reached a total value of $100 million.",
+        "• Iran has developed a sophisticated mobile air defense system known as Bavar 373."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:52:55.925609",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "8.7.4",
+      "section_name": "Construction and real estate",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Until the early 1950s, construction activities in Iran were primarily carried out by small domestic companies, with limited involvement of large firms.",
+        "• The discovery and increased income from oil and gas resources, coupled with easy credit availability, triggered a significant building boom in Iran.",
+        "• This construction boom attracted numerous international construction firms to Iran during this period.",
+        "• The construction boom continued until the mid-1970s, when it was abruptly halted due to a sharp rise in inflation and a credit squeeze, leading to a collapse of the growth period.",
+        "• By the mid-1980s, the construction industry in Iran had experienced some revival, but challenges such as housing shortages and real estate speculation persisted, especially in large urban centers.",
+        "• As of January 2011, Iran’s banking sector, notably Bank Maskan, had extended loans totaling up to 102 trillion rials, equivalent to approximately $10.2 billion, to applicants of the Mehr housing scheme.",
+        "• Construction remains a vital sector in Iran’s economy, accounting for between 20% and 50% of total private investment in urban areas.",
+        "• The construction industry has historically been a prime target for investment by affluent Iranians seeking profitable ventures.",
+        "• The annual turnover of Iran’s construction sector was approximately $38.4 billion in 2005 and decreased to about $32.8 billion in 2011.",
+        "• Due to poor construction quality, many buildings in Iran require seismic reinforcement or renovation to meet safety standards.",
+        "• Iran maintains a substantial dam construction industry, contributing significantly to its infrastructure development."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:00.093412",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "8.7.5",
+      "section_name": "Mines and metals",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mobarakeh in Isfahan is Iran's largest steel mill and is publicly traded on the Tehran Stock Exchange.",
+        "• Mineral production contributed approximately 0.6% to Iran's GDP in 2011, with this figure increasing to about 4% when mining-related industries are included.",
+        "• Major gating factors hindering the mining sector include poor infrastructure, legal barriers, exploration difficulties, and government control over all mineral resources.",
+        "• Iran is ranked among the world's top 15 mineral-rich countries.",
+        "• Although the petroleum industry provides the majority of Iran's revenue, approximately 75% of all mining sector employees work in mines producing minerals other than oil and natural gas.",
+        "• Non-oil mineral resources mined in Iran include coal, iron ore, copper, lead, zinc, chromium, barite, salt, gypsum, molybdenum, strontium, silica, uranium, and gold.",
+        "• Gold production in Iran is mainly a by-product of the Sar Cheshmeh copper complex operation.",
+        "• The Sar Cheshmeh mine in Kerman Province hosts the world's second-largest copper reserve.",
+        "• Iran has large iron ore deposits located in central Iran, near Bafq, Yazd, and Kerman.",
+        "• The government owns approximately 90% of all mines and related industries and is actively seeking foreign investment.",
+        "• The mining sector accounts for about 3% of Iran's total exports.",
+        "• In 2019, Iran was the 2nd largest producer of gypsum globally.",
+        "• Iran ranked 8th worldwide in molybdenum production and was the 8th largest producer of antimony.",
+        "• The country was the 11th largest producer of iron ore and the 18th largest producer of sulfur in 2019.",
+        "• Iran was also the 21st largest producer of salt globally.",
+        "• In 2018, Iran was the 13th largest producer of uranium in the world.",
+        "• Iran possesses recoverable coal reserves estimated at nearly 1.9 billion short tonnes.",
+        "• By mid-2008, Iran produced approximately 1.3 million short tonnes of coal annually and consumed about 1.5 million short tonnes, making it a net coal importer.",
+        "• The country planned to increase hard-coal production to 5 million tons in 2012, up from 2 million tons in November 2008.",
+        "• The main steel mills are located in Isfahan and Khuzestan.",
+        "• Iran achieved steel self-sufficiency in 2009.",
+        "• Aluminum and copper production were projected to reach 245,000 tons and 383,000 tons respectively by March 2009.",
+        "• Cement production in Iran reached 65 million tons in 2009, with exports to 40 countries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:05.643119",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "8.7.6",
+      "section_name": "Petrochemicals",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran's manufacturing sector produces approximately 60–70% of its equipment domestically, including key infrastructure such as refineries, oil tankers, drilling rigs, offshore platforms, and exploration instruments.",
+        "• The country's petrochemical exports reached $5.5 billion in 2007, driven by projects such as a fertilizer plant in Shiraz, the world's largest ethylene unit in Asalouyeh, and various special economic zone developments.",
+        "• In 2008, Iran's petrochemical exports increased to $9 billion, reflecting significant growth in the sector.",
+        "• During the first ten months of the Iranian calendar year 2010, petrochemical exports totaled approximately $7.6 billion.",
+        "• The National Petrochemical Company's output capacity was projected to increase to over 100 million tonnes per annum (tpa) by 2015, up from an estimated 50 million tpa in 2010.",
+        "• By 2015, Iran was expected to become the world's second-largest chemical producer after Dow Chemical, hosting some of the world's largest chemical complexes.",
+        "• The Yadavaran gas refinery features a giant gas reactor designed and manufactured by AzarAb Industries Corporation.",
+        "• Major refineries located at Abadan (site of Iran's first refinery), Kermanshah, and Tehran failed to meet domestic gasoline demand in 2009.",
+        "• Iran's refining industry required an investment of $15 billion during 2007–2012 to achieve self-sufficiency and eliminate gasoline imports.",
+        "• Iran has the fifth cheapest gasoline prices globally, which has led to widespread fuel smuggling into neighboring countries.",
+        "• In November 2019, Iran increased gasoline prices by 50% and reintroduced strict rationing policies similar to those implemented in 2007.",
+        "• Under the 2019 rationing system, gasoline prices rose to 15,000 rials per liter, with private cars limited to 60 liters per month; purchasing beyond this limit cost 30,000 rials per liter.",
+        "• Despite the price hikes, the new prices remained below the target prices set in Iran’s subsidy reform plan.",
+        "• The policy changes in 2019 were implemented in response to US sanctions and triggered nationwide protests.",
+        "• One year after the 2019 rationing, outcomes included reduced pollution and domestic wasteful consumption, along with increased exports of petroleum products."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:11.256142",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "8.8",
+      "section_name": "Services",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Despite efforts toward economic liberalization in the 1990s, government spending in Iran remains high, including expenditures by quasi-governmental foundations.",
+        "• Estimates indicate that the service sector's spending consistently exceeds two-fifths (more than 40%) of Iran's Gross Domestic Product (GDP).",
+        "• A significant portion of service sector expenditure is government-related, encompassing military spending, government salaries, and social security disbursements.",
+        "• Urbanization has played a key role in contributing to the growth of the service sector in Iran.",
+        "• Major service industries within Iran include public services (such as education), commerce, personal services, professional services, and tourism.",
+        "• The total value of Iran’s transport and communications sector was projected to reach $46 billion in nominal terms by the year 2013.",
+        "• This sector's value in 2013 was expected to constitute approximately 6.8% of Iran's GDP.",
+        "• Based on employment data from 1996 compiled by the International Labour Organization, Iran’s transport and communications sector employed about 3.4 million people in 2008.",
+        "• The employment in this sector represented roughly 20.5% of Iran’s total labor force in 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:14.020846",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "8.8.1",
+      "section_name": "Energy, gas, and petroleum",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2014, Iran's electricity production was 258 billion kWh, with consumption at 218 billion kWh, exports totaling 9.7 billion kWh, and imports amounting to 3.8 billion kWh.",
+        "• Iran aims to generate 23,000 MW of electricity through nuclear technology by 2025 to meet increasing energy demand, though this plan requires updates.",
+        "• In 2012, the sources of Iran's electricity generation were fossil fuels at 85.6%, hydro at 12.4%, nuclear at 1.2%, and other sources at 0.8%.",
+        "• Iran's oil production in 2015 was approximately 3.3 million barrels per day (520,000 m³/d).",
+        "• In 2013, Iran's oil exports were 1,042,000 barrels per day (165,700 m³/d), while oil imports were 87,440 barrels per day (13,902 m³/d).",
+        "• Proven oil reserves in Iran as of 2016 were 157.8 billion barrels (25.09×10⁹ m³).",
+        "• Iran's natural gas production in 2014 was 174.5 km³, with consumption at 170.2 km³, exports at 9.86 km³, and imports at 6.886 km³.",
+        "• Proven natural gas reserves in Iran as of 2016 are 34,020 km³.",
+        "• According to The World Factbook (2014), Iran has the world's second-largest proven natural gas reserves after Russia.",
+        "• Iran holds approximately 10% of the world's proven oil reserves and 15% of its gas reserves.",
+        "• Domestic energy sources include oil, gas, and hydroelectric power facilities.",
+        "• Energy wastage in Iran amounts to six or seven billion dollars annually, significantly higher than international norms.",
+        "• Iran recycles 28% of its used oil and gas, compared to up to 60% in some other countries.",
+        "• In 2008, Iran paid $84 billion in subsidies for oil, gas, and electricity.",
+        "• Iran is the world's third-largest consumer of natural gas, after the United States and Russia.",
+        "• The first nuclear power plant in Iran, at Bushehr, was completed in 2010 with assistance from Russia.",
+        "• Iran has been a major oil exporter since 1913, with major oil fields located in the central and southwestern parts of the western Zagros mountains, as well as in northern Iran and the Persian Gulf.",
+        "• In 1978, Iran was the fourth-largest oil producer, OPEC's second-largest producer, and the second-largest exporter.",
+        "• Post-1979 revolution, oil production was reduced by the new government, with further declines due to damage during the Iran-Iraq war.",
+        "• Oil production increased in the late 1980s after pipeline repairs and exploitation of new Gulf fields, reaching 1.4 billion barrels annually by 2004, with a net profit of $50 billion.",
+        "• Iranian Central Bank data indicate a declining trend in the share of oil-product exports: 84.9% in FY 2006, 86.5% in 2007/2008, 85.5% in 2008/2009, 79.8% in 2009/2010, and 78.9% in the first three quarters of FY 2010.",
+        "• Iranian officials estimate that annual oil and gas revenues could reach $250 billion by 2015 with the implementation of current projects.",
+        "• Oil is transported via pipelines to refineries and export ports such as Abadan, Bandar-e Mashur, and Kharg Island.",
+        "• Since 1997, Iran's state-owned oil and gas industry has engaged in major exploration and production agreements with foreign consortia.",
+        "• In 2008, Iran inaugurated the Iranian Oil Bourse (IOB) on Kish Island, trading petroleum, petrochemicals, and gas primarily in euros and rials, excluding the US dollar.",
+        "• The Petroleum Ministry plans to invest $500 billion in Iran's oil sector by 2025."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:33.374706",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "8.8.2",
+      "section_name": "Retail and distribution",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran's retail industry is primarily composed of cooperatives, many of which are government-sponsored, alongside independent retailers operating within traditional bazaars.",
+        "• The majority of food sales in Iran occur at street markets, where prices are determined by the Chief Statistics Bureau.",
+        "• Iran has a total of 438,478 small grocery retailers, which are particularly prevalent in cities other than Tehran, where the presence of hypermarkets and supermarkets remains limited.",
+        "• The retail landscape is gradually evolving with an increasing number of mini-markets and supermarkets, most of which are independent operations.",
+        "• The largest chain stores in Iran include state-owned entities such as Etka, Refah, Shahrvand, and Hyperstar Market.",
+        "• Electronic commerce in Iran surpassed the $1 billion threshold in 2009, indicating significant growth in online retail activities.",
+        "• In 2012, Iranian consumers spent approximately $77 billion on food products.",
+        "• In the same year, expenditures on clothing reached about $22 billion.",
+        "• Outward tourism expenditures in 2012 amounted to approximately $18.5 billion.",
+        "• By 2015, total consumer spending in Iran was projected to be $176.4 billion, reflecting overall domestic consumption.",
+        "• Disposable income in Iran was estimated at $287 billion in 2015, indicating the total amount available for personal expenditure after taxes and other deductions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:36.446195",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "8.8.3",
+      "section_name": "Healthcare and pharma",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the Economist Intelligence Unit (EIU), Iran's healthcare data from 2005 to 2010 shows a steady increase in life expectancy, rising from 70.0 years in 2005 to 71.4 years in 2010.",
+        "• During the same period, the average life expectancy improved incrementally each year: 70.3 years in 2006, 70.6 in 2007, 70.9 in 2008, 71.1 in 2009, and 71.4 in 2010.",
+        "• Healthcare spending as a percentage of Iran's Gross Domestic Product (GDP) remained constant at 4.2% from 2005 through 2010.",
+        "• Per capita healthcare expenditure increased annually, from $113 in 2005 to $261 in 2010, indicating rising investment in health services.",
+        "• The Iranian constitution guarantees its citizens access to basic healthcare services.",
+        "• By 2008, approximately 73% of Iranians were covered by the voluntary national health insurance system, ensuring widespread health coverage.",
+        "• Over 85% of the Iranian population utilize insurance to cover their pharmaceutical expenses, highlighting the importance of insurance in healthcare financing.",
+        "• The Iranian government provides substantial subsidies for pharmaceutical production and importation, supporting the pharmaceutical sector financially.",
+        "• The total market value of Iran's health and medical sector was valued at $24 billion in 2002 and was projected to increase to $50 billion by 2013, reflecting significant sector growth.",
+        "• In 2006, Iran's pharmaceutical industry comprised 55 companies producing 96% of the medicines available in the market, which was valued at $1.2 billion at that time.",
+        "• The pharmaceutical market value was forecasted to grow from $1.2 billion in 2006 to $3.65 billion by 2013, indicating rapid expansion in pharmaceutical production and consumption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:39.689127",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "8.8.4",
+      "section_name": "Tourism and travel",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Cyrus' tomb is located in Pasargadae, an important historical site in Iran.",
+        "• Iran is home to 19 historic sites that have been inscribed on the UNESCO World Heritage List, highlighting its rich cultural heritage.",
+        "• Tourism in Iran experienced a significant decline during the Iran-Iraq war (1980-1988), but has since recovered.",
+        "• In 2004, approximately 1,659,000 foreign tourists visited Iran, with numbers increasing to about 2.3 million in 2009.",
+        "• The majority of foreign tourists visiting Iran come from Asian countries, including the republics of Central Asia.",
+        "• Around 10% of international tourists to Iran originate from the European Union and North America.",
+        "• The most popular tourist destinations in Iran are Mazandaran, Isfahan, Mashhad, and Shiraz.",
+        "• In the early 2000s, Iran's tourism industry faced serious limitations related to infrastructure, communications, industry standards, and personnel training.",
+        "• Several organized tours from European countries such as Germany and France visit Iran annually to explore archaeological sites and monuments.",
+        "• In 2003, Iran ranked 68th worldwide in tourism revenues.",
+        "• According to UNESCO and the deputy head of research for Iran Travel and Tourism Organization (ITTO), Iran is rated among the \"10 most touristic countries in the world.\"",
+        "• Domestic tourism in Iran is one of the largest globally, indicating a significant internal travel industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:43.010024",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "8.8.5",
+      "section_name": "Banking, finance and insurance",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Government loans and credits are available to industrial and agricultural projects primarily through banks in Iran.",
+        "• Iran's official currency is the rial, which had an average exchange rate of 9,326 rials to the U.S. dollar in 2007.",
+        "• Rials are exchanged on the unofficial market at a higher rate than the official rate.",
+        "• In 1979, the Iranian government nationalized private banks, transforming the banking sector.",
+        "• The restructured banking system replaced interest on loans with handling fees, in accordance with Islamic law, a system that took effect in the mid-1980s.",
+        "• The Tehran Stock Exchange was one of the world's best performing stock exchanges between 1999 and 2011.",
+        "• Iran's banking system includes a central bank, the Bank Markazi, which issues currency and oversees all state and private banks.",
+        "• The Organization of Islamic Economics functions as a parallel banking authority, acting as a sort of central bank for issuing Qard al-Hasan, operating outside the Central Bank's oversight.",
+        "• The Organization of Islamic Economics supervises 1,200 Islamic loan funds out of 2,500 on behalf of Iran's Central Bank.",
+        "• Several commercial banks have branches across Iran, and two development banks exist alongside a housing bank specializing in home mortgages.",
+        "• The Iranian government began privatizing the banking sector in 2001, issuing licenses to two new privately owned banks.",
+        "• State-owned commercial banks primarily lend to the government, bonyad enterprises, large private firms, and approximately four thousand wealthy or connected individuals.",
+        "• Most Iranians face difficulties obtaining small home loans; however, 90 individuals secured facilities totaling $8 billion (citation needed).",
+        "• In 2009, Iran's General Inspection Office reported that banks held around $38 billion in delinquent loans, with bank capital at only $20 billion (citation needed).",
+        "• Foreign transactions between 2000 and 2007 amounted to $150 billion, including private and government lines of credit.",
+        "• In 2007, Iran held $62 billion in assets abroad.",
+        "• In 2010, Iran attracted nearly $11.9 billion from abroad, comprising $3.6 billion in foreign direct investment (FDI), $7.4 billion from international commercial bank loans, and approximately $900 million from loans and projects from international development banks.",
+        "• As of 2010, the Tehran Stock Exchange listed shares of more than 330 registered companies.",
+        "• In 2011, the market capitalization of listed companies was valued at $100 billion.",
+        "• Insurance premiums in Iran accounted for just under 1% of GDP in 2008, partly due to low average income per capita.",
+        "• The insurance market is dominated by five state-owned firms, four of which are active in commercial insurance; the leading insurer is the Iran Insurance Company, followed by Asia, Alborz, and Dana insurances.",
+        "• In 2001/02, third-party liability insurance represented 46% of total premiums, followed by health insurance (13%), fire insurance (10%), and life insurance (9.9%)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:51.217391",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 22
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "8.8.6",
+      "section_name": "Communications, electronics and IT",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The broadcast media in Iran is predominantly state-controlled, comprising five national radio stations, five national television networks, and numerous local radio and television stations.",
+        "• In 2008, Iran had 345 telephone lines and 106 personal computers per 1,000 residents, indicating the level of telecommunications infrastructure and computer penetration at that time.",
+        "• The affordability of personal computers for home use increased significantly in the mid-1990s, leading to a rapid rise in demand for Internet access across the country.",
+        "• By 2010, Iran ranked as the country with the third largest number of bloggers globally, reflecting a significant online content creation community.",
+        "• The Ministry of Post, Telegraph & Telephone, which was later renamed the Ministry of Information & Communication Technology, began selling Internet accounts to the general public in 1998, marking the start of widespread consumer Internet access.",
+        "• In 2006, the revenues generated by Iran's telecom industry were estimated at $1.2 billion, highlighting its economic significance.",
+        "• Also in 2006, Iran had a total of 1,223 Internet Service Providers (ISPs), all operated by the private sector, indicating a privatized and competitive ISP market.",
+        "• As of 2012, Iran had the largest mobile market in the Middle East, with 83.2 million mobile subscriptions and approximately 8 million smartphones in use by 2012.",
+        "• According to the World Bank, Iran's information and communications technology (ICT) sector contributed approximately 1.4% to the country's Gross Domestic Product (GDP) in 2008.",
+        "• The ICT sector employed around 150,000 people, including 20,000 individuals working specifically in the software industry.",
+        "• In 2002, Iran registered 1,200 IT companies, with 200 of these specializing in software development.",
+        "• Software exports from Iran reached approximately $400 million in 2014, though this figure is cited without a specific source.",
+        "• By the end of 2009, Iran's telecom market was the fourth-largest in the Middle East, valued at $9.2 billion, and was projected to grow to $12.9 billion by 2014.",
+        "• The telecom sector experienced a compound annual growth rate of 6.9% between 2009 and 2014, indicating steady expansion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:53:57.447571",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "8.8.7",
+      "section_name": "Transport",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran possesses an extensive paved road network totaling 173,000 kilometers (107,000 miles) as of 2011, with 73% of these roads being paved, facilitating connectivity between most towns and all cities.",
+        "• In 2007, Iran had approximately 100 passenger cars per 1,000 inhabitants, indicating the level of personal vehicle ownership within the country.",
+        "• The country's rail infrastructure includes 11,106 kilometers (6,901 miles) of operational train tracks, supporting freight and passenger transportation.",
+        "• Bandar-Abbas, located on the Strait of Hormuz, serves as Iran's primary port of entry for imported goods, which are subsequently distributed via trucks and freight trains across the country.",
+        "• The Tehran–Bandar-Abbas railroad, inaugurated in 1995, links Bandar-Abbas to Central Asia through Tehran and Mashhad, enhancing regional trade connectivity.",
+        "• Additional major ports include Bandar Anzali and Bandar Torkaman on the Caspian Sea, and Khoramshahr and Bandar Imam Khomeini on the Persian Gulf, supporting maritime trade.",
+        "• Iran has numerous cities equipped with passenger and cargo airports, supporting domestic and international air travel; Iran Air, the national airline established in 1962, operates both domestic and international flights.",
+        "• All large Iranian cities feature bus transit systems, with private companies providing intercity bus services, improving urban and regional mobility.",
+        "• Major cities such as Tehran, Mashhad, Shiraz, Tabriz, Ahvaz, and Isfahan are constructing underground railway systems to expand urban transit infrastructure.",
+        "• Over one million individuals are employed in Iran's transportation sector, which contributed approximately 9% to the country's GDP in 2008.",
+        "• In August 2022, President Ebrahim Raisi's cabinet approved legislation to permit the importation of fully assembled foreign cars, reversing a previous ban.",
+        "• The ban on importing fully assembled foreign cars was enacted in July 2018 by President Hassan Rouhani due to international sanctions, which prevented ordinary Iranian citizens from purchasing safe and affordable vehicles."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:54:01.844069",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "9",
+      "section_name": "International trade",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iran is a founding member of OPEC (Organization of Petroleum Exporting Countries) and the Organization of Gas Exporting Countries, highlighting its significant role in global energy markets.",
+        "• Petroleum exports constitute 56% of Iran's total exports, valued at $60.2 billion in 2018, underscoring the country's heavy reliance on oil revenues.",
+        "• In 2011, for the first time, Iran's non-oil exports were projected to reach the value of imports at $43 billion, indicating a strategic shift towards diversifying its export base.",
+        "• Major non-oil exports from Iran include pistachios, liquefied propane, methanol (methyl alcohol), hand-woven carpets, and automobiles; other export items encompass copper, cement, leather, textiles, fruits, saffron, and caviar.",
+        "• In fiscal year 2007, Iran exported $2.7 billion worth of technical and engineering services; approximately 40% of these services were delivered to Central Asia and the Caucasus, 30% ($350 million) to Iraq, and nearly 20% ($205 million) to Africa.",
+        "• Iranian firms have developed energy infrastructure, pipelines, irrigation systems, dams, and power generation projects across various countries, reflecting active international engineering and technical service engagement.",
+        "• Iran has prioritized non-oil exports by expanding its industrial base, leveraging an educated and motivated workforce, and utilizing its strategic geographic location near a market of roughly 300 million people in the Caspian region, Persian Gulf, and ECO (Economic Cooperation Organization) countries further east.",
+        "• Total import volume increased by 189% from $13.7 billion in 2000 to $39.7 billion in 2005, and further to $55.189 billion in 2009, indicating rapid growth in Iran’s import activities.",
+        "• Iran’s primary trading partners include China, France, Germany, India, Italy, Japan, Russia, and South Korea, with historical significance given the United States' role from 1950 until 1978 as Iran’s foremost economic and military partner, aiding infrastructure and industry modernization.",
+        "• Approximately 80% of machinery and equipment in Iran are of German origin, reflecting strong economic ties with Germany.",
+        "• In March 2018, Iran officially banned the use of the US dollar in trade transactions; subsequently, in July 2018, France, Germany, and the UK agreed to continue trade with Iran without using the dollar as a medium of exchange.",
+        "• In 2016, Iran’s top import partner was the UAE, with imports valued at $15.958 billion (27.6% of total imports), followed by the EU 28 with $7.755 billion (13.4%), and China with $7.604 billion (13.1%).",
+        "• Iran’s main export destinations in 2016 were China ($12.715 billion, 29.8%), India ($7.061 billion, 16.5%), and the EU 28 ($5.181 billion, 12.1%), with other significant markets including South Korea, Turkey, Japan, Afghanistan, UAE, Taiwan, and Oman.",
+        "• Since the mid-1990s, Iran has increased its \"South–South integration\" efforts, strengthening economic cooperation with developing countries such as Syria, India, China, South Africa, Cuba, and Venezuela.",
+        "• Iran’s trade with India surpassed $13 billion in 2007, marking an 80% increase within a single year, demonstrating rapid expansion of bilateral economic ties.",
+        "• Iran is actively expanding trade relations with Turkey and Pakistan, with shared objectives to establish a common market in West and Central Asia through ECO.",
+        "• Since 2003, Iran has increased investments in neighboring countries, notably Iraq and Afghanistan, reflecting regional economic engagement.",
+        "• In Dubai, UAE, it is estimated that Iranian expatriates control over 20% of the local economy and comprise an equivalent proportion of the population, indicating significant diaspora economic influence.",
+        "• In 2006, migrant Iranian workers abroad remitted less than $2 billion back home, highlighting the scale of remittance flows.",
+        "• Between 2005 and 2009, trade between Dubai and Iran tripled to $12 billion, involving investments in real estate and import-export businesses collectively known as the _Bazaar_, which supply consumer goods to Iran and other countries.",
+        "• An estimated one-third of Iran’s imported and exported goods are delivered through the black market, underground economy, and illegal jetties, which damages the formal economy and complicates trade regulation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:54:12.019019",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Foreign direct investment",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 1990s and early 2000s, Iran engaged in indirect oilfield development agreements with foreign firms, including buyback contracts where contractors provided project finance in exchange for an allocated share of production, with operation transferred to the National Iranian Oil Company (NIOC) after a predetermined period, completing the contract.",
+        "• Unfavorable or complex operating requirements and international sanctions have significantly hindered foreign investment in Iran, despite efforts to liberalize relevant regulations in the early 2000s.",
+        "• Iran attracted a total of $24.3 billion in foreign investment between the Iranian calendar years 1993 and 2007.",
+        "• The Economist Intelligence Unit (EIU) estimates that Iran's net foreign direct investment (FDI) will increase by 100% between 2010 and 2014.",
+        "• Foreign investors in Iran have concentrated their activities primarily in the energy sector, vehicle manufacturing, copper mining, construction, utilities, petrochemicals, clothing, food and beverages, telecommunications, and pharmaceuticals.",
+        "• Iran is a member of the World Bank's Multilateral Investment Guarantee Agency (MIGA).",
+        "• In 2006, the combined net worth of Iranian citizens abroad was approximately $1.3 trillion.",
+        "• According to the head of the Organization for Investment, Economic and Technical Assistance of Iran (OIETAI), in 2008 Iran ranked 142nd out of 181 countries in working conditions.",
+        "• Iran's rankings in various business environment indicators in 2008 included: 96th in business start-ups, 165th in obtaining permits, 147th in employment, 147th in asset registration, 84th in obtaining credit, 164th in legal support for investments, 104th in tax payments, 142nd in overseas trade, 56th in contract feasibility, and 107th in bankruptcy procedures.",
+        "• Between 1992 and 2008, firms from over 50 countries invested in Iran, with Asia and Europe being the largest sources of foreign investment.",
+        "• Asian countries invested a total of $11.6 billion across 190 projects in Iran, with leading nations including India, the United Arab Emirates (UAE), Singapore, Indonesia, and Oman.",
+        "• European countries invested approximately $10.9 billion through 253 projects, with major contributors being Germany, the Netherlands, Spain, the UK, Turkey, Italy, France, and other European nations.",
+        "• North American investors, including Canada, Panama, the United States, and Jamaica, invested 7 projects totaling about $1.4 billion.",
+        "• African investments, primarily from Mauritius, Liberia, and South Africa, amounted to approximately $8 billion, though the number of projects is unspecified.",
+        "• Australian investors participated in 1 project with a total investment of $682 million.",
+        "• The partial lifting of sanctions has had broader economic implications beyond the energy sector, with The New York Times reporting that consumer-oriented companies could find opportunities in Iran’s market, which has 81 million consumers, many of whom are young and favor Western products.",
+        "• Iran’s consumer goods market is projected to grow by $100 billion by 2020.",
+        "• In 2015, Iran was regarded as \"a strong emerging market play\" by investment and trading firms.",
+        "• Opening Iran’s market to foreign investment is viewed as potentially beneficial for multinational firms across manufacturing and service sectors, with estimated new investment opportunities valued between $600 billion and $800 billion over the next decade."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:54:16.487491",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "9.2",
+      "section_name": "World Trade Organization",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The map of the Economic Cooperation Organization (ECO) member states is referenced, indicating Iran's geographical and economic context within this regional grouping.",
+        "• Iran has held observer status at the World Trade Organization (WTO) since 2005.",
+        "• The United States has consistently blocked Iran’s bid to become a full member of the WTO.",
+        "• Iran’s observer status at the WTO was granted as a goodwill gesture aimed at easing nuclear negotiations between Iran and the international community.",
+        "• Iran exports 60 products with revealed comparative advantage, positioning it as the 65th \"most complex country\" in terms of economic complexity.",
+        "• To achieve full WTO membership, Iran would need to implement significant reforms, including the enforcement of copyrights, which would require a major overhaul of its legal and regulatory frameworks.",
+        "• Iran’s government aims to attract billions of dollars in foreign investment by creating a more favorable investment climate through the promotion of freer trade.",
+        "• Free trade zones such as Qeshm, Chabahar, and Kish Island are expected to play a key role in facilitating Iran’s integration into global trade and attracting foreign investment.",
+        "• In 2010, Iran allocated $20 billion in loans to support the launch of twenty trade centers in other countries, demonstrating its efforts to expand international trade presence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:54:19.057322",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "9.3",
+      "section_name": "International sanctions",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the Iranian Revolution in 1979, the United States severed its economic and diplomatic relations with Iran, imposed a ban on Iranian oil imports, and froze approximately $11 billion of Iranian assets.",
+        "• In 1996, the U.S. Government enacted the Iran and Libya Sanctions Act (ILSA), which prohibits both U.S. and non-U.S. companies from investing and trading with Iran in amounts exceeding $20 million annually.",
+        "• Since 2000, certain exceptions to the ILSA restrictions have been granted, notably for items such as pharmaceuticals and medical equipment.",
+        "• Iran’s nuclear program has been a point of contention with Western countries since 2006, due to suspicions regarding its intended purposes.",
+        "• The United Nations Security Council imposed sanctions targeting specific companies associated with Iran’s nuclear activities, thereby increasing Iran’s economic isolation.",
+        "• These UN sanctions notably restrict Iran’s nuclear, missile, and military exports, and also target investments in Iran’s oil, gas, and petrochemical sectors, exports of refined petroleum products, as well as financial and shipping activities involving the Islamic Revolutionary Guard Corps, banks, and insurance companies.",
+        "• In 2012, the European Union intensified its sanctions against Iran by joining the longstanding US oil embargo, further restricting Iran’s economic activities.",
+        "• In 2015, Iran and the P5+1 countries (United States, United Kingdom, France, Russia, China, and Germany) reached a nuclear deal, which was expected to lead to the removal of the main sanctions by early 2016.",
+        "• Despite the easing of some sanctions, Iran faces ongoing difficulties in international trade, primarily because it cannot freely transact in US dollars.",
+        "• Iran’s substantial reserves of oil and gas suggest that, if parity with oil and gas prices is established, the Iranian rial could potentially become a global reserve currency.",
+        "• In 2018, the United States unilaterally withdrew from the Joint Comprehensive Plan of Action (JCPOA) and re-imposed sanctions targeting Iran’s oil exports, petrochemical industry, shipping sector, metals trading, and banking transactions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:54:22.835613",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "9.3.1",
+      "section_name": "Effects",
+      "chapter_name": "Economy of Iran",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Joint Comprehensive Plan of Action (JCPOA) enables Iran to purchase new aircraft, easing some restrictions on its international trade capabilities.",
+        "• U.S. Undersecretary of State William J. Burns estimates that Iran may be losing up to $60 billion annually in energy investment due to sanctions.",
+        "• Sanctions have increased the cost of imports into Iran by an average of 24%.",
+        "• The latest round of sanctions could result in Iran losing approximately $50 billion annually in oil revenues.",
+        "• Iran has been increasingly resorting to barter trade as its access to the international dollar payment system has been denied, prompting a shift in its trade practices.",
+        "• Iranian officials view the large-scale withdrawal of international companies from Iran as an \"opportunity\" for domestic companies to fill the market gap.",
+        "• The International Energy Agency (IEA) reported that Iranian oil exports fell to a record low of 860,000 barrels per day (bpd) in September 2012, down from 2.2 million bpd at the end of 2011.",
+        "• The decline in oil exports led to reduced revenues and caused street protests in Tehran due to the collapse of the Iranian rial, Iran’s local currency.",
+        "• September 2012 marked Iran’s lowest oil output since 1988.",
+        "• The economic impact of sanctions has been severe, causing welfare losses across all income groups in Iran, with wealthier groups experiencing greater losses than poorer groups.",
+        "• Post-sanctions, there was a decline in income concentration and the share of top income groups within Iran’s economy.",
+        "• According to U.S. estimates, Iran could reduce the global crude oil price by 10%, which would save the United States approximately $76 billion annually based on the 2008 world oil price of $100 per barrel.",
+        "• The National Iranian American Council (NIAC) reports that sanctions have cost the United States over $175 billion in lost trade and resulted in 279,000 lost jobs.",
+        "• Between 2010 and 2012, sanctions caused EU member states to lose more than twice the trade revenue lost by the United States, with Germany losing between $23.1 billion and $73.0 billion, Italy between $13.6 billion and $42.8 billion, and France between $10.9 billion and $34.2 billion.",
+        "• Iran’s GDP growth turned negative in 2013, with a contraction of −5%.",
+        "• The unofficial unemployment rate in Iran reached 20% by mid-2012.",
+        "• Iran’s oil exports decreased from 2.5 million bpd in 2011 to 1.4 million bpd in 2014.",
+        "• By 2013, Iran had approximately $80 billion in foreign exchange reserves frozen overseas due to sanctions.",
+        "• Automobile production in Iran declined by 40% between 2011 and 2013.",
+        "• The U.S. government stated in 2015 that Iran’s economy had become \"fundamentally incapable of recovery\" without a nuclear agreement with the West.",
+        "• The tentative rapprochement between Iran and the U.S. starting in the second half of 2013 has the potential to significantly alter geopolitical dynamics and economic opportunities, potentially reducing Middle Eastern tensions and positioning Iran as a promising emerging market.",
+        "• In January 2019, President Hassan Rouhani blamed the U.S. for Iran’s declining economy following the U.S. withdrawal from the nuclear deal and re-imposition of sanctions, estimating damages between $150 billion and $200 billion.",
+        "• Following the August 2024 cyberattack, Iranian banks were targeted by IRLeaks, which Politico described as the \"worst cyberattack\" in Iranian history.",
+        "• The attack resulted in the compromise of approximately 20 out of 29 Iranian credit institutions, with the Iranian government reportedly paying millions of dollars in ransom to IRLeaks.",
+        "• The Iranian supreme leader attributed the cyberattack to Israel and the United States, without explicitly acknowledging the attack on the banking system.",
+        "• Politico suggested possible U.S. or Israeli involvement due to regional tensions and U.S. accusations of Iran interfering in the 2024 American elections.",
+        "• The hackers involved were likely freelance, motivated by monetary gain, with an Iranian firm paying at least $3 million to IRLeaks to halt the attack and recover data."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:54:28.264925",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_iran.json",
+      "original_index": 38
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_guatemala.json",
+    "extraction_timestamp": "2025-08-02T17:13:27.968815",
+    "total_sections_in_source": 16,
+    "extracted_sections_count": 16,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Guatemala is classified as a developing economy with a high dependence on agriculture, especially traditional crops such as coffee, sugar, and bananas.",
+        "• Guatemala's GDP per capita is approximately one-third of Brazil's, indicating a significantly lower level of income per person.",
+        "• It is the largest economy in Central America, with an average growth rate of 3.3% from 2015 to 2018.",
+        "• Despite economic growth, Guatemala remains one of the poorest countries in Latin America and the Caribbean, characterized by highly unequal income distribution and chronic child malnutrition.",
+        "• The country faces challenges including political insecurity, a shortage of skilled workers, and inadequate infrastructure.",
+        "• Remittances constitute nearly 10% (one-tenth) of Guatemala's GDP, serving as a crucial source of foreign income.",
+        "• The 1996 peace accords ended a 36-year-long civil war, removing a major obstacle to foreign investment and enabling reforms and macroeconomic stabilization efforts.",
+        "• On July 1, 2006, the Central American Free Trade Agreement (CAFTA) between the United States and Guatemala came into force, boosting investment in the export sector.",
+        "• Income inequality remains high, with 12% of the population living below the international poverty line.",
+        "• Guatemala has a large expatriate community in the United States, making it the top recipient of remittances in Central America, which account for nearly two-thirds of the country's exports.",
+        "• In 1990, Guatemala's GDP was estimated at $19.1 billion, with real growth around 3.3%; by 2000, growth increased to between 1% and 4%, but by 2010, it had reverted to approximately 3%, according to the World Bank.",
+        "• The final peace accord in December 1996 positioned Guatemala for rapid economic growth, though specific post-accord growth data is cited as needing verification.",
+        "• The private sector dominates Guatemala's economy, generating about 85% of GDP, with most manufacturing focused on light assembly and food processing aimed at domestic, U.S., and Central American markets.",
+        "• Women's labor force participation increased from 42% in 1990 to 51% in 2010, while men's participation was around 89% in 1990, decreasing slightly to 88% in 2000, then rising to 90% in 2010.",
+        "• Self-employment rates are approximately 50% for men and 32% for women.",
+        "• Tourism and exports of textiles, apparel, and nontraditional agricultural products such as winter vegetables, fruit, and cut flowers have experienced significant growth, while traditional exports like sugar, bananas, and coffee still constitute a large share of exports.",
+        "• The percentage of exports of goods and services fluctuated from 21% in 1990, 20% in 2000, to 26% in 2010; imports of goods and services increased from about 25% in 1990, to 29% in 2000, and 36% in 2010.",
+        "• Remittances from migration, particularly from the U.S., are central to Guatemala's economy, with 97% of remittances in 2004 originating from male migrants in the U.S.",
+        "• The United States is Guatemala's largest trading partner, accounting for 36% of its imports and receiving 40% of its exports.",
+        "• The Guatemalan government sector is small and shrinking, primarily limited to public utilities (some privatized), ports, airports, and development-oriented financial institutions.",
+        "• Guatemala received export trade benefits under the U.S. Caribbean Basin Trade and Partnership Act (CBTPA) in October 2000 and has access to the Generalized System of Preferences (GSP), though these benefits are under review due to worker rights concerns.",
+        "• About 49% of the population lives in rural areas, with rural poverty increasing from 74.5% in 2000 to 76.1% in 2014, and extreme rural poverty rising from 23.8% to 35.3% in the same period.",
+        "• Indigenous communities, comprising nearly 40% of the population, experience a poverty rate of approximately 80%.",
+        "• The inequality-adjusted Human Development Index (IHDI) for Guatemala is 0.481 (2019), which is below the Latin American average of 0.596 and significantly lower than countries with very high human development, which have an IHDI of 0.800."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:32.501879",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Historically, the economy of Guatemala was predominantly reliant on the agricultural sector, which served as the primary driver of economic activity.",
+        "• In the year 1930, coffee constituted approximately 77% of Guatemala's total exports, highlighting its dominant role in the country's export economy.",
+        "• During the same period, bananas accounted for about 13% of Guatemala's exports, making them the second most significant export commodity after coffee."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:34.133614",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Economic development and poverty in Guatemala",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1990 and 2018, Guatemala experienced consistent economic growth with an annual GDP growth rate averaging approximately 3.5%.",
+        "• The primary economic sectors in Guatemala are estimated as follows: manufacturing accounts for 20%, commerce for 18%, private services for 14%, and agriculture for 12%.",
+        "• The country's economic structure demonstrates a declining trend in the agricultural sector over time.",
+        "• Guatemala is the third-largest country in Central America by land area.",
+        "• The nation exhibits one of the highest disparities between rich and poor globally, along with elevated poverty levels.",
+        "• In 2006, 54% of Guatemala's population was living below the poverty line; this percentage remained at 54% in 2011.",
+        "• According to the United Nations Development Programme (UNDP), the Multidimensional Poverty Index (MPI)—which assesses multiple household deprivations in education, health, and standard of living—found that in 2011, 25.9% of the population experienced multiple deprivations.",
+        "• Additionally, 9.8% of the population in 2011 was classified as vulnerable to experiencing multiple deprivations based on the MPI.",
+        "• A human development report states that the average percentage of multidimensional poverty in 2011 was 49.1%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:38.594362",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Poor women and unpaid work",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In Guatemala in 2010, 31% of the female population was illiterate.",
+        "• In rural Guatemala, 70.5% of the population are classified as poor, with women being more likely to experience poverty in these rural areas.",
+        "• Gammage argues that women in poor households engage more extensively in domestic tasks, household maintenance, social reproduction, and care work compared to men.",
+        "• Benería states that women perform physically demanding work without remuneration and highlights the opportunity cost, noting that women could potentially be paid for alternative work.",
+        "• Unpaid household work is influenced by factors such as household size, geographic location, and the availability of paid employment opportunities.",
+        "• Women in rural Guatemala are disproportionately affected by poverty compared to urban women, with most poverty concentrated in rural regions.",
+        "• Gammage's research indicates that many rural women perform unpaid work, emphasizing their vulnerability to poverty."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:41.614428",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Educated women and the labor force",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, the labor force participation rate for women in Guatemala was 41%, indicating that less than half of women were actively engaged in the workforce.",
+        "• Women in Guatemala experience a small pay disadvantage, earning approximately 97% of male wages across most occupations, reflecting a gender wage gap.",
+        "• Gender inequality in earnings diminishes when women attain higher educational levels, specifically if they have a second or third educational degree, leading to more equitable treatment compared to their male counterparts.",
+        "• Similar to trends observed in many countries, both men and women tend to earn the highest incomes when they hold a university degree, highlighting the value of higher education in income potential.",
+        "• The percentage of women with a steady income increases among those who have completed secondary education; however, this percentage declines again after women attain university-level education.",
+        "• Consequently, women and men with secondary education tend to earn comparable wages, but after university completion, men generally earn more than women.",
+        "• At the professional level, women earn more than men, indicating a reversal of the typical gender wage gap observed in other sectors.",
+        "• Men work more hours than women across all professions, except within household work, where many women engage in part-time jobs, contributing to differences in total work hours."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:49.865158",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "5",
+      "section_name": "Child labor",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Children in Guatemala are engaged in child labor, primarily within the agricultural sector, as reported by the U.S. Department of Labor (DOL).",
+        "• Approximately 13.4% of children aged 7 to 14 in Guatemala are involved in labor activities.",
+        "• Of these working children, 68% are employed in agriculture, 13% in the industrial sector, and 18% in the services sector.",
+        "• The 2013 DOL report highlighted that the Guatemalan government lacks targeted programs addressing sectors with known exploitative child labor, such as domestic service, mining, quarrying, and construction.",
+        "• In December 2014, the DOL's _List of Goods Produced by Child Labor or Forced Labor_ identified several agricultural products made under conditions involving child labor, including broccoli, coffee, corn, and sugarcane.",
+        "• The report also indicated that child labor is utilized in the production of fireworks and gravel in Guatemala."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:51.936532",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "6",
+      "section_name": "Maquilas",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Guatemala's economy is significantly influenced by a large number of Korean-owned maquila factories located in the highlands region of the country.",
+        "• Korean entrepreneurs have implemented a buyer-driven commodity chain process that relies on a substantial labor force, minimal capital investment, and low skill requirements.",
+        "• Korea positions itself within Guatemalan industry and labor markets through subcontractors responsible for delivering finished products to multiple buyers, predominantly based in the United States.",
+        "• Major buyers associated with Guatemalan maquilas include retail giants such as Macy's and JCPenney, as well as brands like Liz Claiborne, OshKosh, and Tracy Evans.",
+        "• The maquila industry in Guatemala began developing in the 1980s.",
+        "• Initially, workers were highly interested in maquila jobs, viewing them as opportunities to transition from agricultural work to a modern industrial environment.",
+        "• Working conditions in early maquila factories involved long hours, with workers sitting for extended periods on backless benches in front of sewing machines, leading to back pain.",
+        "• Typical work hours started at 7:00 a.m., with a one-hour lunch break at noon, and extended until 7:00 or 8:00 p.m.",
+        "• Approximately 70% of maquila factory workers were female.",
+        "• Over time, there was significant worker turnover due to stress, poor treatment, inadequate pay, and other working conditions.",
+        "• As of 2024, the legal framework governing maquilas is primarily defined by the _Law for the Promotion and Development of Export Activities and Maquilas_.",
+        "• This law mainly targets the apparel and textile sectors, as well as service exporters such as call centers and business process outsourcing (BPO) companies.",
+        "• The Guatemalan government offers a 10-year income tax exemption to investors in these sectors.",
+        "• Additionally, there are exemptions from duties and value-added taxes (VAT) on imported machinery and equipment.",
+        "• There is also a one-year suspension of duties and taxes on imports of production inputs, samples, and packing materials."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:17:57.896339",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "7",
+      "section_name": "Economic priorities",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Current economic priorities in Guatemala include liberalizing the trade regime, reforming the financial services sector, overhauling public finances, simplifying the tax structure, enhancing tax compliance, and broadening the tax base.",
+        "• Additional priorities involve improving the investment climate through procedural and regulatory simplification and adopting a goal of concluding treaties to protect investment and intellectual property rights.",
+        "• Import tariffs have been lowered in coordination with Central American neighbors, resulting in most tariffs falling between 0% and 15%, with further reductions planned.",
+        "• The international community has mobilized substantial resources to support Guatemala’s economic and social development objectives, responding to the country's changed political and economic policy environment.",
+        "• The United States, along with donor countries such as France, Italy, Spain, Germany, Japan, and international financial institutions, have increased financing for development projects.",
+        "• Donors’ support for financial assistance and funds for implementing the Peace Accords is contingent upon reforms by the Guatemalan government and the provision of counterpart financing.",
+        "• Major problems hindering economic growth include high crime rates, illiteracy, low levels of education, and an underdeveloped capital market.",
+        "• Infrastructure deficiencies persist, especially in transportation, telecommunications, and electricity sectors, despite privatization of the state telephone company and electricity distribution in 1998.",
+        "• Income and wealth distribution remain highly skewed; the wealthiest 10% of the population receives nearly half of all income, while the top 20% receives about two-thirds of all income.",
+        "• Approximately 29% of the population lives in poverty, with 6% of that group living in extreme poverty.",
+        "• Social indicators such as infant mortality and illiteracy are improving but remain among the worst in the hemisphere, with low growth rates.",
+        "• Educational attainment improved notably: in 2000, about 52% of girls completed primary school, rising to approximately 81% in 2010; for boys, the completion rate increased from 63% in 2000 to 87% in 2010.",
+        "• In 2005, Guatemala ratified its signature to the Dominican Republic-Central America Free Trade Agreement (DR-CAFTA) with the United States and several other Central American countries.",
+        "• The electricity sector is undergoing privatization, leading to very high electricity prices; rural households, despite low consumption, face costs that can exceed 20% of farmers’ salaries, according to the Comité de desarrollo paysan (Codeca).",
+        "• Since privatization, electricity prices per kilowatt-hour have become among the most expensive in Latin America.",
+        "• Protests against high electricity prices and calls for renationalization have been organized by Codeca, which has faced repression, with 97 people imprisoned, 220 wounded, and 17 killed between 2012 and 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:02.185974",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "2009 food crisis",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In September 2009, Guatemalan President Álvaro Colom announced that the food crisis had significantly reduced the domestic food supply in Guatemala.",
+        "• President Colom also stated that the crisis diminished Guatemala's capacity to import food, exacerbating food insecurity in the country.",
+        "• He declared that the Guatemalan government would immediately seek assistance to secure emergency food supplies to address the crisis.",
+        "• During the same period, several international organizations expressed concern regarding Guatemala's economic situation in 2009.",
+        "• Specifically, the United Nations World Food Programme (WFP) and the World Bank voiced their apprehensions about the country's food security and economic stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:05.474393",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "8",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Guatemala is the world leader in cardamom production and export, highlighting its significant role in the global agricultural market for this spice.",
+        "• As of 2013, increased demand for biofuels led to the diversion of land from subsistence agriculture to the cultivation of sugar cane and African Palm plantations, indicating a shift driven by biofuel market pressures.",
+        "• A substantial portion of agricultural land in Guatemala is owned by large landlords, which influences land use and agricultural practices within the country.",
+        "• Legal requirements for biofuel production in the United States have caused a sharp rise in the price of maize, a staple food in Guatemala, impacting local food security and agricultural economics.",
+        "• Agriculture constitutes approximately 60% of Guatemala’s exports, underscoring its vital role in the national economy.",
+        "• Over 50% of the Guatemalan labor force is employed in agriculture, reflecting its importance as a primary source of employment and livelihood.",
+        "• In 2018, Guatemala produced 35.5 million tons of sugarcane, ranking it among the top 10 largest producers globally, demonstrating its significant contribution to the world sugar industry.",
+        "• The country produced 4 million tons of bananas in 2018, placing it among the 15 largest banana producers worldwide.",
+        "• Other notable 2018 agricultural productions include:",
+        "• In addition to these major crops, Guatemala produces smaller quantities of various other agricultural products, indicating a diverse agricultural sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:12.539716",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "8.1",
+      "section_name": "Scale",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agricultural sector of Guatemala's economy comprises two main types of producers: numerous small-scale peasant-owned farms located primarily in the highlands and fewer medium- to large-scale farms situated in the more fertile lowlands.",
+        "• Small farms mainly produce staples for domestic consumption, such as beans and maize, as well as fruits and vegetables intended for export.",
+        "• Larger farms focus on producing export and plantation crops, including bananas, sugar cane, coffee, rubber, and palm oil.",
+        "• Approximately 88% of Guatemala's agricultural land is utilized by large-scale farms, despite these farms constituting a smaller proportion of total farms.",
+        "• Small farms account for about 92% of all farms in Guatemala, highlighting their prevalence despite their smaller land size.",
+        "• Large farms generate approximately one-third more revenue per hectare compared to small farms, indicating higher productivity per unit area.",
+        "• Despite higher productivity per hectare, large farms employ fewer people overall than small farms, reflecting differences in labor intensity and farm size."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:16.327814",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "8.2",
+      "section_name": "Non-traditional agricultural exports",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The shift to the production of non-traditional agricultural exports (NTAE) is a strategic approach employed by developing countries such as Guatemala to expand the agricultural sector and reduce inequality by integrating the rural poor into the benefits of globalization.",
+        "• The most significant NTAE crops in Guatemala include fruits such as mangos, melons, and berries.",
+        "• Other key NTAE crops are vegetables like cauliflower, cabbage, broccoli, and snow peas.",
+        "• Organic crops, notably coffee, are also classified among Guatemala's important NTAE products.",
+        "• The monetary value of non-traditional agricultural export crops in Guatemala increased from $146 million US in 1992 to $262 million US in 2001.",
+        "• In 1998, NTAE accounted for 8.7 percent of Guatemala’s total exports.",
+        "• The production of NTAE in Guatemala is predominantly carried out by small-scale farmers.",
+        "• Although farmers involved in NTAE are not failing, the market's structure limits their capital accumulation, resulting in slow growth.",
+        "• Due to this limitation, small-scale farmers are unable to generate high profits from NTAE markets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:19.416930",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "8.3",
+      "section_name": "Gender",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agricultural sector of Guatemala exhibits gender-based differentiation, affecting various aspects within the sector.",
+        "• More men than women inherit or purchase land individually, although many households prefer renting land rather than buying it outright.",
+        "• There exists a gender gap in the division of agricultural labor, with traditional roles assigned by gender.",
+        "• Historically, men dominated subsistence farming and agricultural production aimed at domestic markets in Guatemala.",
+        "• Women traditionally engaged in small animal production, craft production, and selling products in regional markets rather than national markets.",
+        "• The shift toward Non-Traditional Agricultural Exports (NTAE) has led to an increase in field labor participation among women.",
+        "• Women have been increasingly included in land-use decision-making processes within NTAE production systems.",
+        "• Scholars Sarah Hamilton, Linda Asturias de Barrios, and Brenda Tevalán have noted that despite Guatemala’s traditional patriarchal social structure, NTAE production is associated with greater independence and gender equality."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:22.984886",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "8.4",
+      "section_name": "Climate change",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Guatemalan farmers have experienced a range of extreme weather events, including hurricanes, erratic weather patterns characterized by fluctuations in temperature, torrential rains, drought, and unexpected frost, which have adversely affected agricultural productivity.",
+        "• One specific crop impacted by these climate-related events is potatoes, which are susceptible to fungal infections, further threatening food security.",
+        "• The western highlands of Guatemala are particularly vulnerable to the effects of climate change, significantly impacting the region’s predominantly indigenous population of subsistence farmers.",
+        "• The primary crops in these highlands, potatoes and maize, have faced increasing environmental pressures, notably due to the rise in frequency of hard frosts since 2013, which can destroy an entire season’s crops in a single event.",
+        "• Since 2013, the occurrence of hard frosts in the western highlands has become more frequent, posing a severe threat to local agriculture and food security.",
+        "• At lower elevations, climate change has led to the emergence and increased prevalence of new pests, alongside a decrease in rainfall, further complicating agricultural challenges.",
+        "• The issues of food security and famine have intensified, particularly in the “corredor seco,” a semi-arid region extending from the departments of Izabal and Baja Verapaz in the north to Santa Rosa and Jutiapa in the south, which is especially vulnerable to climate variability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:28.001354",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "9",
+      "section_name": "Macroeconomic development",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Guatemala experienced increased economic development and stability from 1990 to 2011, with notable improvements in macroeconomic indicators.",
+        "• The annual GDP growth rate in 2000 was 3.6%, which declined to 0.9% in 2009, then slightly increased to 2.0% in 2010.",
+        "• In 2006, Guatemala's poverty rate was 54.8%, and the extreme poverty rate was 26.1%, indicating significant levels of poverty relative to Latin America’s averages of 33% (poverty) and 12.9% (extreme poverty) in 2009.",
+        "• Data suggest Guatemala lags behind other Latin American countries in reducing poverty rates, despite overall increases in GDP and development.",
+        "• The Human Development Index (HDI) of Guatemala increased from 0.462 in 1990 to 0.525 in 2000, 0.550 in 2005, and 0.574 in 2011, with a ranking of 131st in 2011.",
+        "• Human development indicators show a decline in total fertility rate from 4.8 births per woman in 2000 to 4.2 in 2006, and an increase in life expectancy from 67.9 years in 2000 to 69.9 years in 2006.",
+        "• The provided table details Guatemala’s main economic indicators from 1980 to 2021, with IMF staff estimates extending to 2027, including nominal and PPP-adjusted GDP, GDP per capita, growth rates, inflation, unemployment, and government debt as a percentage of GDP.",
+        "• In 1980, Guatemala’s GDP was 19.2 billion US dollars (PPP), with a GDP per capita of 2,660.2 US dollars (PPP), and a real growth rate of 3.7%, inflation at 10.7%, and no available data on unemployment or government debt.",
+        "• Throughout the 1980s and 1990s, Guatemala’s GDP steadily increased from 19.2 billion US dollars (PPP) in 1980 to 52.8 billion in 1999, with GDP per capita rising from 2,660.2 to 4,639.2 US dollars (PPP).",
+        "• The 2000s saw continued growth, with GDP reaching 85.6 billion US dollars (PPP) in 2007, and peaking at 150.1 billion in 2019, with GDP per capita increasing from 4,752.9 to 8,518.5 US dollars (PPP).",
+        "• The global economic downturn in 2009 resulted in a significant slowdown, with GDP growth dropping to 0.6% and a notable decrease in inflation to 1.9%, while unemployment remained around 3.5%.",
+        "• Post-2009, Guatemala’s economy rebounded strongly, with GDP growth reaching 8.0% in 2021, and GDP per capita rising to 9,148.9 US dollars (PPP).",
+        "• Inflation rates fluctuated over the years, with notable low points such as 1.9% in 2009 and 2.4% in 2015, and higher rates like 38.0% in 1990 and 32.8% in 1986.",
+        "• Unemployment rates, although considered unreliable by IMF standards, generally hovered around 2.5% to 3.6% from 1991 onward.",
+        "• Government debt as a percentage of GDP increased from negligible levels in the early 1980s to 31.5% in 2020, then slightly decreased to 30.8% in 2021.",
+        "• The data indicate a trend of steady economic growth, moderate inflation, and manageable government debt levels, with periodic fluctuations influenced by regional and global economic conditions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:34.249318",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Electrical infrastructure in rural Guatemala",
+      "chapter_name": "Economy of Guatemala",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In Guatemala, lack of access to electricity is predominantly concentrated in rural areas, with informal settlements around urban peripheries also tending to lack metered service.",
+        "• Efforts to improve electrical access in the countryside have been undertaken through the Rural Electrification Plan (PER), a public-private partnership between the Guatemalan Ministry of Education and Mines (Mineduc) and private power companies.",
+        "• Between 2000 and 2011, the PER increased the rate of electrical grid connectivity from 62% to 82% among non-indigenous households and from 48% to 70% among indigenous households in Guatemala.",
+        "• The continuity of the electrical grid in rural areas is generally robust, with both indigenous and non-indigenous groups reporting only about one hour per day of power unavailability.",
+        "• Despite grid connection and subsidized rates, rural users often face affordability issues when purchasing electrical appliances, resulting in low power consumption—less than five percent of the average U.S. residential usage.",
+        "• Low power consumption among rural customers is often unprofitable for power companies, creating disincentives for further grid expansion into rural areas.",
+        "• As of 2014, approximately one-third of Guatemala’s poorest rural residents still lacked access to electricity, whereas only about 8% of high-income rural residents lacked service, indicating that affordability significantly influences electrical grid accessibility.",
+        "• In 2016, domestic hydroelectric power was the primary source of electricity in Guatemala, supplying about 34% of the country's total electricity.",
+        "• The Guatemalan Congress updated the planning process for constructing new hydropower dams through Decree 93–96, known as the \"General Law of Electricity,\" in 1996 and 2007, which increased project developers' authority, particularly concerning environmental impact assessments (EIAs).",
+        "• A study covering 2009 to 2014 revealed that private construction firms in Guatemala generally possess limited knowledge of the rights of rural indigenous peoples affected by hydroelectric projects.",
+        "• These firms typically hire consultants to conduct EIAs and communicate with affected communities; however, consultants are often disinterested in adequately informing rural populations about potential project impacts.",
+        "• There are frequent reports of consultants resorting to bribery and manipulation to obtain community consent for hydroelectric projects.",
+        "• Internal government sources indicate pressure exists within the regulatory framework to approve EIAs even when they are performed inadequately, suggesting that national energy development priorities may override community interests."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:18:42.849992",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_guatemala.json",
+      "original_index": 15
+    }
+  ]
+}

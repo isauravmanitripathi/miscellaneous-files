@@ -1,0 +1,327 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_tanzania.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.087200",
+    "total_sections_in_source": 12,
+    "extracted_sections_count": 12,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Tanzania is classified as a lower-middle income economy, with key sectors including Manufacturing, Tourism, Agriculture, and financial services.",
+        "• Since 1985, Tanzania's economy has been transitioning from a planned economy to a market economy, resulting in an overall increase in total GDP, although GDP per capita initially dropped sharply and only surpassed pre-transition levels around 2007.",
+        "• In 2014, following the rebasing of the economy, Tanzania’s GDP increased by one-third, reaching a value of $58.1 billion.",
+        "• In 2020, Tanzania’s real GDP grew by 4.8%, reaching US$89.5 billion compared to US$82.9 billion in 2019, making it the second largest economy in East Africa after Kenya and the seventh largest in Sub-Saharan Africa.",
+        "• Tanzania has maintained relatively high economic growth rates compared to global trends, a characteristic common among African nations; however, World Bank data indicates that the last five years have experienced the slowest growth since 2000.",
+        "• The medium-term economic outlook for Tanzania remains positive, with growth projected at 6 percent for the fiscal year 2020/21, supported primarily by substantial infrastructure spending.",
+        "• The World Bank anticipated a slowdown in Tanzania’s economic growth to 2.5% in 2020 due to the COVID-19 pandemic, which negatively impacted the labor market, production capacity, and productivity; tourism halted, and exports of manufacturing and agricultural goods declined significantly.",
+        "• On 7 September 2021, the International Monetary Fund (IMF) approved emergency financial assistance amounting to US$567.25 million to support Tanzania’s response to the COVID-19 pandemic, addressing urgent health, humanitarian, and economic challenges.",
+        "• The IMF projected Tanzania’s GDP growth rates at +4.0% for 2021, +5.1% for 2022, and 6.0% by 2026, reflecting a gradual recovery from the pandemic’s economic impact.",
+        "• According to the World Bank, Tanzania’s GDP expanded by 4.6% in 2022, an increase from 4.3% growth recorded in 2021.",
+        "• The nominal value of Tanzania’s GDP at current prices reached USD 105.1 billion in 2022.",
+        "• The World Bank projects Tanzania’s GDP growth to reach 5.1% in 2023, indicating continued economic expansion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:00.452477",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Beginning in 1986, the Government of Tanzania initiated an economic adjustment program aimed at dismantling socialist (Ujamaa) economic controls and promoting increased private sector participation in the economy.",
+        "• The adjustment program included a comprehensive policy package that reduced the budget deficit, improved monetary control, substantially depreciated the previously overvalued exchange rate, liberalized the trade regime, removed most price controls, eased restrictions on the marketing of food crops, freed interest rates, and began restructuring the financial sector.",
+        "• Tanzania accepted austerity measures mandated by the International Monetary Fund (IMF) and World Bank structural adjustment policies as part of its economic liberalization efforts.",
+        "• Between 1998 and 2007, Tanzania’s GDP per capita grew by more than 40 percent, reflecting significant economic progress during that period.",
+        "• In May 2009, the IMF approved an Exogenous Shock Facility for Tanzania to assist the country in managing the impacts of the global economic crisis.",
+        "• Tanzania has been engaged in a Policy Support Instrument (PSI) program with the IMF since February 2007, following the completion of its second three-year Poverty Reduction and Growth Facility (PRGF).",
+        "• The first PRGF program was completed in August 2003; the PRGF succeeded the Enhanced Structural Adjustment Facility, in which Tanzania participated from 1996 to 1999.",
+        "• The IMF’s PSI program offers policy support and signaling to low-income countries that have generally achieved reasonable growth, low inflation, adequate official international reserves, and initial steps toward external and net domestic debt sustainability.",
+        "• Tanzania undertook a major restructuring of state-owned enterprises, resulting in the divestiture of 335 out of approximately 425 parastatal entities.",
+        "• The country’s real economic growth has averaged about 4 percent annually, an improvement over the previous two decades, though this growth has not sufficiently enhanced the living standards of average Tanzanians.",
+        "• Despite economic reforms, Tanzania’s economy remains heavily dependent on donor assistance.",
+        "• Tanzania’s external debt stands at $7.9 billion, with debt servicing consuming about 40 percent of total government expenditures.",
+        "• The country qualified for debt relief under the enhanced Heavily Indebted Poor Countries (HIPC) initiative, leading to the cancellation of debts exceeding $6 billion following the implementation of the Paris Club 7 Agreement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:08:53.658096",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Macro-economic trend",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The historical development of Tanzania's real GDP per capita since 1950 is documented through a chart estimating gross domestic product at market prices in millions of Tanzanian shillings, as calculated by the International Monetary Fund.",
+        "• Key GDP figures at selected years include: 45,749 million shillings in 1980 with an exchange rate of 8/21; 115,006 million shillings in 1985 at 17/87; 830,693 million shillings in 1990 at 195/04; 3,020,501 million shillings in 1995 at 536/40; 7,267,133 million shillings in 2000 at 800/43; 13,713,477 million shillings in 2005 at 1,127/10; and no GDP figure for 2010 but an exchange rate of 1,515/10.",
+        "• Mean wages in Tanzania were approximately $0.52 per man-hour in 2009, although this figure requires citation.",
+        "• Since 2007, Tanzania's economy experienced continuous real GDP growth of at least 5% annually.",
+        "• The main economic indicators from 1980 to 2023 reveal trends in GDP (both PPP and nominal), GDP per capita (PPP), real GDP growth, inflation rate, and government debt as a percentage of GDP.",
+        "• In 1980, Tanzania's GDP was 10.9 billion US$ PPP, with a GDP per capita of $900 PPP, nominal GDP of $7.6 billion, real GDP growth of 3.3%, inflation at 30.2%, and government debt data was not available.",
+        "• From 1981 to 1990, GDP (PPP) increased from 12.1 billion to 24.3 billion US$, GDP per capita rose from $919 to $1,103 PPP, nominal GDP grew from $5.8 billion to $9.4 billion, real GDP growth fluctuated between 0.5% and 7.0%, inflation ranged from 25.7% to 36.4%, and government debt data remained unavailable.",
+        "• During 1991–2000, GDP (PPP) grew from 26.3 billion to 40.2 billion US$, GDP per capita increased from $1,126 to $1,878 PPP, nominal GDP rose from $9.9 billion to $16.9 billion, real GDP growth varied between 0.6% and 6.0%, inflation decreased significantly from 25.2% to 6.0%, and government debt data was still not reported.",
+        "• In 2001, government debt was recorded at 50.2% of GDP, with GDP (PPP) at 43.5 billion US$, GDP per capita at $1,969 PPP, nominal GDP at $18.6 billion, real GDP growth at 6.0%, and inflation at 5.1%.",
+        "• Between 2002 and 2010, GDP (PPP) rose from 47.2 billion to 91.7 billion US$, GDP per capita increased from $2,038 to $3,072 PPP, nominal GDP grew from $21.5 billion to $45.5 billion, real GDP growth fluctuated between 4.4% and 7.2%, inflation rates ranged from 4.1% to 12.1%, and government debt declined from 47.0% to 27.3% of GDP.",
+        "• From 2011 to 2023, Tanzania's GDP (PPP) expanded from 100.9 billion to 303.9 billion US$, GDP per capita increased from $3,245 to $6,195 PPP, nominal GDP grew from $47.9 billion to $112.0 billion, real GDP growth ranged between 4.7% and 7.9%, inflation rates remained relatively low between 3.3% and 16.0%, and government debt stabilized around 21.5% to 42.6% of GDP.",
+        "• Inflation rates below 5% during this period are highlighted as positive economic indicators, with several years achieving this benchmark, particularly from the late 1990s onward.",
+        "• Government debt as a percentage of GDP showed a general downward trend from the early 2000s, reaching a low of 21.5% in 2008, before gradually increasing to 42.6% by 2023.",
+        "• Tanzania's economic data reflects steady improvements in GDP and GDP per capita over four decades, with periods of moderate inflation and manageable government debt levels contributing to overall macroeconomic stability."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:00.393266",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture constitutes a fundamental pillar of the Tanzanian economy, contributing 28.7 percent to the gross domestic product (GDP), supplying 85 percent of the country’s exports, and employing half of the national workforce.",
+        "• In 2012, the agricultural sector in Tanzania experienced a growth rate of 4.3 percent, which was significantly below the Millennium Development Goal target of 10.8 percent.",
+        "• Tanzania has 16.4 percent of its land classified as arable, with 2.4 percent of the land area dedicated to permanent crops.",
+        "• The Tanzanian economy’s heavy reliance on agriculture renders it highly susceptible to adverse weather conditions and volatile commodity prices, impacting economic stability.",
+        "• Approximately 76 percent of Tanzania’s population depends on agriculture for subsistence; however, limited agricultural technology, knowledge, and infrastructure exacerbate vulnerability to environmental shocks such as droughts, floods, and temperature fluctuations.",
+        "• These environmental shocks can severely deteriorate living standards, increase unemployment, hunger, malnutrition, and, in extreme cases, cause mortality due to starvation among the population reliant on agriculture.",
+        "• In 2018, Tanzania produced 5.9 million tons of maize, highlighting its role as a staple crop within the country.",
+        "• Cassava production reached 5 million tons in 2018, positioning Tanzania as the 12th largest producer globally.",
+        "• Sweet potato production totaled 3.8 million tons in 2018, ranking Tanzania as the 4th largest producer worldwide, following China, Malawi, and Nigeria.",
+        "• Banana production was recorded at 3.4 million tons in 2018, making Tanzania the 10th largest producer globally; when including plantain production, the country ranks 13th.",
+        "• Rice and sugarcane each had a production volume of 3 million tons in 2018, underscoring their importance in Tanzanian agriculture.",
+        "• Potato production amounted to 1.7 million tons in 2018, contributing significantly to the country’s food supply.",
+        "• Tanzania produced 1.2 million tons of beans in 2018, ranking as the 6th largest producer worldwide.",
+        "• Peanut production was 940 thousand tons in 2018, earning Tanzania the position of the 7th largest global producer.",
+        "• Sunflower seed production reached 930 thousand tons in 2018, ranking Tanzania as the 12th largest producer in the world.",
+        "• Sorghum production was 808 thousand tons in 2018, supporting both food security and local economies.",
+        "• Sesame seed production totaled 561 thousand tons in 2018, making Tanzania the 5th largest producer globally, behind Sudan, Myanmar, India, and Nigeria.",
+        "• Coconut production was 546 thousand tons in 2018, ranking Tanzania as the 11th largest producer worldwide.",
+        "• Mango production, including mangosteen and guava, amounted to 454 thousand tons in 2018.",
+        "• Pineapple production was recorded at 389 thousand tons in 2018, contributing to the fruit sector.",
+        "• Orange production reached 373 thousand tons in 2018, supporting both domestic consumption and export.",
+        "• Tomato production was 356 thousand tons in 2018, reflecting its role in Tanzanian agriculture.",
+        "• Cotton production totaled 238 thousand tons in 2018, indicating its significance as a cash crop.",
+        "• Cashew nut production was 171 thousand tons in 2018, ranking Tanzania as the 6th largest producer globally.",
+        "• Additional agricultural products with smaller production volumes in 2018 include tobacco at 107 thousand tons (8th largest producer worldwide), coffee at 55 thousand tons, tea at 36 thousand tons, and sisal at 33 thousand tons."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:07.588053",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "4",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Industries constituted a significant and expanding sector of the Tanzanian economy, accounting for 22.2 percent of the Gross Domestic Product (GDP) in the year 2013.",
+        "• The industrial sector in Tanzania encompasses several key components, including mining and quarrying activities, manufacturing processes, the production and distribution of electricity and natural gas, water supply services, and construction industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:08:45.463777",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, mining contributed 3.3 percent to Tanzania's Gross Domestic Product (GDP).",
+        "• Gold was the predominant mineral export in 2013, representing 89 percent of the total value of Tanzania's mineral export revenue.",
+        "• Tanzania also exported significant quantities of gemstones in 2013, including diamonds and tanzanite.",
+        "• All coal produced in Tanzania, amounting to 106,000 short tons in 2012, was consumed domestically within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:08:46.795121",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4.1.1",
+      "section_name": "Minerals",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tanzania exploits a variety of minerals including pozzolana, salt, gypsum, kaolinite, silver ore, copper, phosphate, tanzanite, tin, graphite, and bauxite.",
+        "• Modern gold mining in Tanzania began during the German colonial period, with initial gold discoveries near Lake Victoria in 1894.",
+        "• The first gold mine in Tanganyika, the Sekenke Gold Mine, commenced operations in 1909, marking the start of formal gold mining activities in the region.",
+        "• Gold mining in Tanzania experienced a significant boom between 1930 and the outbreak of World War II.",
+        "• By 1967, gold production in Tanzania had declined to an insignificant level, but it was revived in the mid-1970s following a rise in gold prices.",
+        "• In the late 1990s, foreign mining companies began investing in the exploration and development of gold deposits in Tanzania, leading to the opening of new mines such as the Golden Pride mine in 1999, recognized as the first modern gold mine in the country.",
+        "• The Buzwagi Gold Mine opened in 2009, further expanding Tanzania’s modern gold mining industry.",
+        "• Nickel reserves totaling approximately 290,000 tonnes were discovered in October 2012 by Ngwena Company Limited, a subsidiary of the Australian mining company IMX Resources.",
+        "• Since exploration began in 2006, an initial investment of around USD $38 million has been made in nickel mining, with production expected to commence by the end of 2015.",
+        "• Chinese companies have demonstrated significant interest in Tanzania’s mineral resources, exemplified by the Sichuan Hongda Group’s late 2011 announcement to invest about US$3 billion in developing the Mchuchuma coal and Liganga iron ore projects located in southern Tanzania.",
+        "• In August 2012, China National Gold Corp entered into negotiations to purchase mining assets in Tanzania from African Barrick Gold, in a transaction potentially valued at over £2 billion sterling.",
+        "• In November 2012, the Tanzanian government announced investigations into allegations that mining investors were harassing and, in some cases, killing residents living near mining sites, highlighting social tensions related to mining activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:08:52.840286",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Electricity",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Tanzania Electric Supply Company Limited (TANESCO), a government-owned entity, dominates the electric supply industry in Tanzania.",
+        "• Tanzania generated 6.013 billion kilowatt hours (kWh) of electricity in 2013, representing a 4.2 percent increase from the 5.771 billion kWh generated in 2012.",
+        "• Between 2005 and 2012, electricity generation in Tanzania increased by 63 percent.",
+        "• Despite growth in generation, only 15 percent of Tanzanians had access to electric power in 2011.",
+        "• Approximately 18 percent of the electricity generated in 2012 was lost due to theft and transmission and distribution problems.",
+        "• The electrical supply in Tanzania is variable, particularly affected by droughts that disrupt hydropower generation, leading to the implementation of rolling blackouts as necessary.",
+        "• The unreliability of the electrical supply has impeded the development of Tanzanian industry.",
+        "• In 2013, the composition of Tanzania's electricity generation was 49.7 percent from natural gas, 28.9 percent from hydroelectric sources, 20.4 percent from thermal sources, and 1.0 percent imported from outside the country.",
+        "• The government is constructing a 532-kilometre (331-mile) gas pipeline from Mnazi Bay to Dar es Salaam, with a scheduled completion date in 2015.",
+        "• The completion of the Mnazi Bay to Dar es Salaam gas pipeline is expected to enable Tanzania to double its electricity generation capacity to 3,000 megawatts by 2016.",
+        "• The Tanzanian government has set a long-term goal to increase electricity generation capacity to at least 10,000 megawatts by 2025."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:05.277706",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Natural gas",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to PFC Energy, Tanzania has discovered between 25 and 30 trillion cubic feet of recoverable natural gas resources since 2010.",
+        "• The value of natural gas produced in Tanzania in 2013 was US$52.2 million, representing a 42.7 percent increase compared to 2012.",
+        "• Commercial production of natural gas from the Songo Songo Island field in the Indian Ocean began in 2004, thirty years after the field’s initial discovery.",
+        "• In 2013, the Songo Songo field produced over 35 billion cubic feet of gas, with proven, probable, and possible reserves totaling 1.1 trillion cubic feet.",
+        "• Gas from the Songo Songo field is transported by pipeline to Dar es Salaam for distribution and use.",
+        "• As of 27 August 2014, TANESCO owed Orca Exploration Group Inc., the operator of the Songo Songo field, US$50.4 million, a reduction from US$63.8 million two months earlier.",
+        "• The Mnazi Bay natural gas field, newer than Songo Songo, produced about one-seventh of Songo Songo’s 2013 output but has larger combined reserves of 2.2 trillion cubic feet (proven, probable, and possible).",
+        "• Nearly all gas from the Mnazi Bay field is utilized for electricity generation in the city of Mtwara.",
+        "• The Indian Ocean region off the coasts of Mozambique and Tanzania is emerging as a significant area for natural gas exploration.",
+        "• The US Geological Survey estimates that the combined natural gas reserves of Mozambique and Tanzania could reach as high as 250 trillion cubic feet.",
+        "• Mozambique’s proven gas reserves increased dramatically from 4.6 trillion cubic feet in 2013 to 98.8 trillion cubic feet by mid-2015, indicating rapid growth in regional gas resources.",
+        "• Tanzania’s natural gas production in 2014 was 19 billion cubic feet, marking a 30% decline from production levels five years earlier.",
+        "• Production increased in mid-2015 following the start of operations at the Mnazi Bay Concession and the commissioning of a new pipeline to Dar es Salaam.",
+        "• Major gas discoveries in Tanzania include 16 to 17 trillion cubic feet by the BG Group and partners, and 22 trillion cubic feet by Statoil in partnership with ExxonMobil.",
+        "• These discoveries have positioned Tanzania as a potential future exporter of liquefied natural gas (LNG).",
+        "• In 2014, Tanzania Petroleum Development Corporation (TPDC) and international companies agreed on plans to develop an LNG plant, but these plans have not yet reached the sanctioning stage.",
+        "• The decline in global oil and gas prices and the challenges of investing in frontier markets with underdeveloped infrastructure and long project lead times are expected to slow new exploration activities in Tanzania.",
+        "• The development of natural gas resources has contributed positively to Tanzania’s economic framework.",
+        "• In 2024, the Ntorya gas field was granted a 25-year development license, marking a significant advancement in Tanzania’s natural gas sector.",
+        "• The Ntorya gas field is managed by ARA Petroleum Tanzania Limited (APT) and is expected to begin substantial domestic gas production within one year of licensing.",
+        "• Initial production at Ntorya is projected at 40 million cubic feet per day, with potential expansion to 140 million cubic feet per day in subsequent years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:12.807472",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "5",
+      "section_name": "External trade and investment",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tanzania's political stability has historically fostered an environment conducive to foreign direct investment (FDI), attracting international investors to the country.",
+        "• The Tanzanian government has actively sought to enhance the investment climate by implementing reforms such as redrawing tax codes to simplify and improve fiscal policies.",
+        "• Additional measures to improve the investment environment include floating the exchange rate to allow market-driven currency valuation, thereby increasing economic flexibility.",
+        "• The government has licensed foreign banks to operate within Tanzania, facilitating greater financial sector integration and access to international banking services.",
+        "• An investment promotion centre has been established by the Tanzanian government with the objective of reducing bureaucratic obstacles and streamlining procedures for investors.",
+        "• Tanzania's economic management is guided by the Tanzania Mini-Tiger Plan, a strategic framework aimed at accelerating economic growth and development.",
+        "• The country possesses significant mineral resources, which represent a key sector for attracting foreign investment due to their potential for exploitation and export.",
+        "• Tanzania's tourism sector remains largely untapped but holds substantial potential to become a viable market for foreign investment, given its natural and cultural attractions.",
+        "• According to the World Bank, the stock market capitalisation of listed companies in Tanzania was valued at $588 million in 2005, reflecting the scale of the country's formal equity market at that time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:08:57.242092",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "6",
+      "section_name": "Zanzibar",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Zanzibar's economy is predominantly based on clove production, with 90% of cloves grown on the island of Pemba, making cloves the principal foreign exchange earner for the region.",
+        "• The clove export sector has experienced difficulties due to a downturn in the global clove market, negatively impacting Zanzibar's foreign exchange earnings.",
+        "• The Government of Zanzibar has implemented more aggressive economic reforms compared to the Tanzanian mainland, including the legalization of foreign exchange bureaus on the islands.",
+        "• Legalization of foreign exchange bureaus has contributed to loosening the economy and significantly increasing the availability of consumer commodities in Zanzibar.",
+        "• With external funding support, the Government of Zanzibar has plans to establish the port of Zanzibar as a free port, aiming to enhance trade and economic activity.",
+        "• Rehabilitation of existing port facilities and expansion plans are underway as preparatory steps toward the establishment of the free port status.",
+        "• Zanzibar’s manufacturing sector remains limited and primarily focused on import substitution industries, including the production of cigarettes, shoes, and processed agricultural products.",
+        "• In 1992, the Government of Zanzibar designated two export-producing zones to stimulate export growth and also promoted the development of offshore financial services as part of economic diversification efforts.",
+        "• Despite these initiatives, Zanzibar continues to rely heavily on imports for many staple food items, petroleum products, and manufactured goods, indicating ongoing dependency on external sources for essential commodities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:01.857514",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "7",
+      "section_name": "Literature",
+      "chapter_name": "Economy of Tanzania",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Paul Collier authored the book titled _Labour and Poverty in Rural Tanzania. Ujamaa and Rural Development in the United Republic of Tanzania_.",
+        "• The book was published by Oxford University Press, located in New York.",
+        "• The publication year of the book is 1991.",
+        "• The ISBN assigned to this book is 0-19-828315-6."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:09:02.058529",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_tanzania.json",
+      "original_index": 11
+    }
+  ]
+}

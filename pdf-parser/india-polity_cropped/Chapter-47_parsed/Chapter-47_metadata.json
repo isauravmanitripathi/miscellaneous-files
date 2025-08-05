@@ -1,0 +1,328 @@
+{
+  "table_of_contents": [
+    {
+      "title": "47 National Commission for SCs",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.25,
+          105.75
+        ],
+        [
+          481.11328125,
+          105.75
+        ],
+        [
+          481.11328125,
+          131.291015625
+        ],
+        [
+          104.25,
+          131.291015625
+        ]
+      ]
+    },
+    {
+      "title": "EVOLUTION OF THE COMMISSION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.1416015625,
+          119.109375
+        ],
+        [
+          397.44140625,
+          118.5
+        ],
+        [
+          397.44140625,
+          136.51171875
+        ],
+        [
+          104.1416015625,
+          136.51171875
+        ]
+      ]
+    },
+    {
+      "title": "FUNCTIONS OF THE COMMISSION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          103.8427734375,
+          87.01171875
+        ],
+        [
+          396.24609375,
+          87.01171875
+        ],
+        [
+          396.24609375,
+          106.4443359375
+        ],
+        [
+          103.8427734375,
+          106.4443359375
+        ]
+      ]
+    },
+    {
+      "title": "REPORT OF THE COMMISSION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          103.5439453125,
+          87.8818359375
+        ],
+        [
+          363.97265625,
+          87.8818359375
+        ],
+        [
+          363.97265625,
+          106.154296875
+        ],
+        [
+          103.5439453125,
+          106.154296875
+        ]
+      ]
+    },
+    {
+      "title": "POWERS OF THE COMMISSION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          104.06689453125,
+          87.35009765625
+        ],
+        [
+          369.3515625,
+          87.35009765625
+        ],
+        [
+          369.3515625,
+          106.154296875
+        ],
+        [
+          104.06689453125,
+          106.154296875
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          105.0,
+          546.8203125
+        ],
+        [
+          301.21875,
+          546.8203125
+        ],
+        [
+          301.21875,
+          563.0625
+        ],
+        [
+          105.0,
+          563.0625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          32
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

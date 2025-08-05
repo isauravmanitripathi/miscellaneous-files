@@ -1,0 +1,959 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_honduras.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.023890",
+    "total_sections_in_source": 31,
+    "extracted_sections_count": 31,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Honduras is predominantly based on agriculture, which contributed 14% to the country's gross domestic product (GDP) in 2013.",
+        "• The leading export of Honduras is coffee, with exports valued at US$340 million, accounting for 22% of the total Honduran export revenues.",
+        "• Bananas, which were formerly the country's second-largest export, were nearly wiped out by Hurricane Mitch in 1998 but recovered in 2000 to 57% of pre-Mitch export levels.",
+        "• Cultivated shrimp is also an important sector in Honduras's export economy.",
+        "• Since the late 1970s, towns in northern Honduras, particularly San Pedro Sula and Puerto Cortés, began industrial production through maquiladoras, which are assembly plants that import raw materials for manufacturing.",
+        "• Honduras possesses extensive natural resources, including forests, marine resources, and minerals; however, widespread slash-and-burn agricultural practices continue to cause deforestation.",
+        "• The Honduran economy experienced a growth rate of 4.8% in 2000, recovering from a recession of -1.9% in 1999 induced by Hurricane Mitch.",
+        "• The maquiladora sector in Honduras, the third-largest in the world, performed strongly in 2000, providing employment to over 120,000 people and generating more than US$528 million in foreign exchange.",
+        "• Inflation measured by the consumer price index was 10.1% in 2000, slightly down from 10.9% in 1999.",
+        "• The country's international reserves remained robust in 2000, totaling slightly over US$1 billion.",
+        "• Remittances from Hondurans living abroad, primarily in the United States, increased by 28% to US$410 million in 2000.",
+        "• The Honduran currency, the Lempira, experienced years of devaluation but stabilized at a rate of 19 Lempiras to 1 US dollar in 2005.",
+        "• Honduras is among the poorest countries in Latin America, with a gross national income (GNI) per capita of US$1,649 in 2007, compared to the regional average of US$6,736.",
+        "• It ranks as the fourth poorest country in the Western Hemisphere, with only Haiti, Nicaragua, and Guyana being poorer.",
+        "• Alternative statistical measures beyond GDP suggest a broader understanding of the nation's poverty levels.",
+        "• Honduras signed an Enhanced Structural Adjustment Facility (ESAF), later converted to a Poverty Reduction and Growth Facility (PRGF), with the International Monetary Fund (IMF) in March 1999.",
+        "• As of around 2000, Honduras maintained stable macroeconomic policies but was slow in implementing structural reforms such as privatizing state-owned enterprises in telecommunications and energy sectors, which were desired by the IMF and international lenders.",
+        "• Following Hurricane Mitch, Honduras received significant debt relief, including suspension of bilateral debt service payments and bilateral debt reduction by the Paris Club, including the United States, amounting to over US$400 million.",
+        "• In July 2000, Honduras reached its decision point under the Heavily Indebted Poor Countries (HIPC) Initiative, qualifying for interim multilateral debt relief.",
+        "• Although land appears abundant and exploitable, the rugged mountainous terrain limits large-scale agriculture mainly to narrow coastal strips and a few fertile valleys.",
+        "• Honduras's manufacturing sector remains underdeveloped, primarily consisting of simple textile, agricultural processing, and assembly operations, hindered by a small domestic market and regional competition from more industrialized countries.",
+        "• As of 2022, according to the National Institute of Statistics of Honduras (INE), 73% of the population lives in poverty, and 53% in extreme poverty.",
+        "• Honduras is among the most unequal countries in the world in terms of income distribution."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:23:57.632335",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic history",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The colonial economy of Honduras was primarily centered around mining activities.",
+        "• Following independence from Spain in the early 19th century, Honduras's economic development depended heavily on the ability to develop attractive export products.",
+        "• Throughout much of the 19th century, the Honduran economy experienced stagnation, characterized by traditional cattle raising and subsistence agriculture that did not produce significant exports.",
+        "• Economic activity accelerated in the latter part of the 19th century with the emergence of large-scale precious metal mining operations.",
+        "• The most significant mining areas were located in the mountains near Tegucigalpa, the capital city of Honduras.",
+        "• These mining operations were owned by the New York and Honduras Rosario Mining Company (NYHRMC).",
+        "• Silver was the main metal extracted during this period, accounting for approximately 55% of Honduras's exports in the 1880s.",
+        "• The income generated from mining stimulated the growth of commercial and ancillary industries, contributed to infrastructure development, and helped alleviate monetary constraints on trade.",
+        "• Despite these benefits, the overall economic impact of mining was limited because the industry was poorly integrated into the broader Honduran economy.",
+        "• The foreign mining companies employed a small workforce, provided minimal or no revenue to the Honduran government, and depended heavily on imported mining equipment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:24:02.340705",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "20th century",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Honduras's international economic activity experienced a significant surge in the early 20th century, reflecting increased export performance and foreign investment.",
+        "• Between 1913 and 1929, Honduras's agricultural exports grew from $3 million to $25 million, with bananas accounting for $2 million initially and rising to $21 million by 1929, marking a substantial increase.",
+        "• The \"golden\" export period was supported by over $40 million in specialized investment from banana companies into Honduran infrastructure, which was crucial for export growth.",
+        "• US diplomatic and economic pressure played a protective role for the banana industry, especially when companies perceived threats to their interests, safeguarding their investments.",
+        "• The Honduran economy's performance remained closely linked to banana prices and production from the 1920s until after mid-century, due to slow emergence of other export sectors.",
+        "• Until the mid-1950s, a significant portion of the Honduran workforce was employed in banana cultivation, notably on plantations operated by United Fruit Company (later United Brands Company, then Chiquita Brands International) and Standard Fruit Company (later Dole Food Company).",
+        "• Just before the 1954 major banana strike, approximately 35,000 workers were employed on banana plantations owned by these companies.",
+        "• Post-1950, Honduran governments promoted agricultural modernization and export diversification by investing heavily in transportation, communications infrastructure, agricultural credit, and technical assistance.",
+        "• During the 1950s, improved infrastructure and high international export prices led to the emergence of beef, cotton, and coffee as significant export commodities for the first time.",
+        "• Other exports during this period included sugar, timber, and tobacco, which contributed to economic diversification.",
+        "• By 1960, bananas accounted for only 45 percent of total exports, indicating a decline in their dominance.",
+        "• The 1960s saw industrial growth stimulated by the establishment of the Central American Common Market (CACM), which aimed to regional economic integration.",
+        "• The reduction of regional trade barriers and the implementation of a high common external tariff enabled some Honduran manufactured products, such as soaps, to be sold successfully in other Central American countries.",
+        "• Due to the larger and more efficient industrial sectors of El Salvador and Guatemala, Honduras primarily imported manufactured goods from its neighbors rather than exporting to them.",
+        "• The 1969 Soccer War with El Salvador led Honduras to effectively withdraw from the CACM, although subsequent bilateral trade agreements were negotiated with former CACM partners.",
+        "• In the 1980s, a political shift in Honduras had profound economic repercussions, with military leaders supporting US policies amidst regional insurgencies starting in late 1979.",
+        "• US military aid to Honduras increased markedly, rising from less than US$4 million before FY 1980 to US$48.3 million in FY 1983, making Honduras the tenth largest recipient of US aid.",
+        "• Total US economic and military aid to Honduras exceeded US$200 million in 1985 and remained above US$100 million throughout the late 1980s.",
+        "• The Honduran economy became increasingly dependent on foreign aid during the 1980s, which was exacerbated by a severe regional economic decline, with private investment falling sharply in 1980 and capital flight reaching US$500 million that year.",
+        "• International coffee prices plummeted in the mid-1980s and remained low throughout the decade, contributing to economic instability.",
+        "• By 1993, the average annual per capita income was approximately US$580, and about 75 percent of the population was classified as poor according to international standards.",
+        "• Historically, Honduras's economic prospects depended heavily on land and agricultural commodities, but usable land was severely limited due to mountainous terrain, confined to narrow coastal bands and depleted valleys.",
+        "• The country's forest resources had been dramatically reduced, and Honduras had not derived significant income from mineral resources since the 19th century.",
+        "• The industrial sector remained underdeveloped; the mid to late 1960s CACM boom primarily increased imports rather than industrial output, due to Honduras's comparative disadvantages.",
+        "• Bananas and coffee, the main export commodities, proved unreliable due to natural disasters such as Hurricane Fifi in 1974, droughts, and diseases, which caused harvest declines.",
+        "• Although bananas were less vulnerable to international market fluctuations than coffee, their cultivation and marketing were dominated by international corporations that retained most of the generated wealth.",
+        "• Coffee exports surpassed bananas in the mid-1970s as Honduras's leading export income source, but their vulnerability was highlighted by international price declines and fiscal deficits."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:24:16.268361",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 27
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "1990s",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The 1990s in Honduras was characterized by relative peace and a stronger civilian government with reduced military interference in politics and the economy compared to previous years.",
+        "• The country faced significant challenges including horrendous foreign debt, diminished natural resources, and one of the fastest-growing and urbanizing populations in the world.",
+        "• The Honduran government aimed to develop an economic base capable of compensating for the withdrawal of substantial U.S. assistance without becoming overly dependent on traditional agricultural exports.",
+        "• During the 1990s, banana exports experienced a boom, driven by new European trade agreements that expanded market size.",
+        "• Small banana-producing cooperatives sold their land to large commercial firms, and the last banana-producing lands held by the government were privatized.",
+        "• Honduras sought foreign investment, primarily from Asian clothing assembly firms, and anticipated revenue from privatizing national industries.",
+        "• The country faced economic disadvantages such as a highly strike-prone labor force, aging industrial assets burdened by debt, and underdeveloped infrastructure, which hindered competitiveness in export markets against neighboring Central American and Caribbean countries.",
+        "• President Rafael Leonardo Callejas Romero, elected in November 1989, initially struggled to implement austerity measures prescribed by the IMF and World Bank, facing political backlash as elections approached in 1993.",
+        "• To win the 1993 election, Callejas's party needed to improve social programs, address employment, and appease a vocal public sector, which conflicted with policies aimed at fiscal discipline like balancing the budget, lowering inflation, and reducing external debt.",
+        "• The Honduran economy deteriorated rapidly starting in 1989, exacerbated by the U.S. Agency for International Development (AID) halting disbursements of grants to pressure reforms, worsening economic conditions.",
+        "• Multilateral lending institutions' funds, negotiated in 1989, were conditioned on Honduras paying arrears on its enormous external debt.",
+        "• Between 1983 and 1985, Honduras invested heavily in expensive infrastructure projects—roads and dams—financed mainly through multilateral loans and grants, intended to generate employment but primarily benefiting a small elite and increasing public-sector employment without stimulating private investment or employment.",
+        "• Despite foreign aid injections from 1985 to 1988, the economy remained fragile, with per capita income falling and external debt doubling, indicating borrowed time and money.",
+        "• Foreign aid between 1985 and 1989 accounted for approximately 4.6% of GDP, with about 44% of the fiscal shortfall financed through foreign sources, leading to an overvalued lempira and decreased exports.",
+        "• The public sector's growth and increased import capacity temporarily sustained economic growth based on private consumption and government spending, but underlying structural issues—overdependence on few commodities and lack of investment—remained unaddressed.",
+        "• Unemployment increased, and private investment declined significantly during this period.",
+        "• By 1989, Callejas aimed to restore economic growth to levels seen between 1960 and 1980, when the economy grew at an average of 4-5% annually, driven mainly by fluctuating agricultural commodities.",
+        "• Post-1989, Honduras experienced mostly negative or minimal positive per capita GDP growth, despite overall GDP growth of 3.3% in 1991, 5.6% in 1992, and an estimated 3.7% in 1993, amid a population growing at nearly 4% annually.",
+        "• Callejas attempted to meet conditions for new loans by reducing public sector employment, lowering the deficit, and increasing tax revenues, but these efforts were hampered by persistent fiscal deficits.",
+        "• The public-sector deficit grew to 8.6% of GDP in 1991, nearly L1 billion, and further expanded to 10.6% of GDP in 1993.",
+        "• The IMF's medium-term economic goals aimed for real GDP growth of 3.5% in 1992 and 4% in 1993; actual growth was 3.3% in 1991, 5.6% in 1992, and approximately 3.7% in 1993.",
+        "• The Honduran economy operated on an ad hoc basis, lacking coherent tools to implement long-term economic strategies, often prioritizing immediate crises over sustainable development.",
+        "• The devastating effects of Hurricane Mitch in 1998 caused a severe recession in Honduras, leading to significant economic contraction, destruction of infrastructure, and setbacks in development efforts (note: this information was added to expand the section based on missing details)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:25:00.414952",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Inflation",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• By 1991, President Callejas had achieved modest success in controlling inflation in Honduras.",
+        "• Overall inflation for the year 1990 reached 36.4 percent, which, although not hyperinflation, was the highest annual inflation rate in Honduras in forty years.",
+        "• The inflation levels in 1990 represented a significant deviation from previous low inflation rates and indicated economic instability.",
+        "• The Honduran government, in collaboration with the International Monetary Fund (IMF), set an inflation target of 12 percent for 1992.",
+        "• The inflation target was further lowered to 8 percent for 1993, reflecting efforts to stabilize the economy.",
+        "• Actual inflation rates were 8.8 percent in 1992, slightly above the target, and an estimated 10.7 percent for 1993, exceeding the set goals.",
+        "• Historically, Hondurans had been accustomed to low inflation rates, with 3.4 percent in 1985 and rising slightly to 4.5 percent by the end of 1986.",
+        "• The low inflation environment was partly maintained by pegging the lempira to the US dollar, which linked Honduras’s inflation rate to that of developed countries.",
+        "• The expectation of low inflation contributed to a sense of economic stability; however, the reality of high inflation in 1990 intensified pressures on the government to implement corrective measures.",
+        "• The surge in inflation in 1990 created additional economic and political pressures for the Honduran government to address inflationary pressures and stabilize the economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:25:04.501257",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2",
+      "section_name": "Unemployment",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1980 and 1983, the unemployment rate in Honduras was 20 percent, which was double the rate of the late 1970s, indicating a significant increase in joblessness during this period.",
+        "• Throughout the 1980s, job creation in Honduras remained substantially below the growth of the labor force, contributing to persistent unemployment issues.",
+        "• By 1985, the unemployment rate had risen to 25 percent, reflecting ongoing deterioration in employment opportunities.",
+        "• In 1989, combined unemployment and underemployment in Honduras reached 40 percent, illustrating that nearly half of the labor force was either unemployed or not fully employed.",
+        "• By 1993, it was estimated that between 50 and 60 percent of the Honduran labor force was either underemployed or unemployed, indicating a severe employment crisis.",
+        "• During the 1980s, the Honduran government’s reliance on foreign aid, instead of fostering private investment-driven economic growth, led to neglect of job creation initiatives.",
+        "• Honduras’s GDP experienced reasonable growth throughout most of the 1980s, especially relative to Latin America, but this growth was artificially sustained by private consumption and public-sector spending rather than genuine economic expansion.",
+        "• The agricultural sector, which was a mainstay of employment, saw a decline in jobs in the late 1970s due to decreased coffee harvests and plantings in border areas, influenced by spillover conflicts from Nicaragua and El Salvador.",
+        "• Contributing factors to agricultural job scarcity included limited land availability, farmers’ reluctance to invest amid regional wars, and a lack of credit facilities.",
+        "• Small farmers faced increasing difficulties supporting themselves as their landholdings diminished in size and productivity, exacerbating rural poverty.",
+        "• Rural-to-urban migration increased as problems in agriculture drove peasants (campesinos) to cities in search of work, although urban job prospects remained limited.",
+        "• The rural population declined from 77 percent in 1960 to 55 percent in 1992, reflecting significant urbanization driven by agricultural decline and rural impoverishment.",
+        "• The influx of refugees from neighboring countries’ wars, attracted by Honduras’s relatively low population density and peace, further worsened urban unemployment conditions.",
+        "• In 1993, unemployment in the agricultural sector, which employed about 60 percent of the labor force, was estimated to be significantly worse than official figures for the total labor force.",
+        "• Urban employment in the early 1990s was characterized by high levels of underemployment and reliance on marginal informal-sector jobs, as many former rural workers and refugees moved to cities seeking better opportunities.",
+        "• Few new jobs were created in the formal sector due to declining domestic private investment, reduced foreign investment, and public-sector jobs being reserved mainly for the small middle class with political or military connections.",
+        "• In 1991, only one in ten Honduran workers was securely employed in the formal sector, highlighting widespread job insecurity.",
+        "• The World Bank reported in the mid-1980s that Honduras created only about 10,000 new jobs annually, which was insufficient to absorb the 20,000 people entering unemployment each year.",
+        "• The gap between the number of jobs needed for full employment and the actual number of new jobs created exceeded the World Bank’s projections, indicating a worsening employment deficit.",
+        "• Wages for employed individuals declined throughout the 1980s, reducing their purchasing power, while the prices of basic goods, especially food, increased sharply, further straining households."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:25:12.999727",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Role of government",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Throughout the 1960s and most of the 1970s, Honduras was governed by military-led administrations that managed a state-sponsored and state-financed economy.",
+        "• These governments provided most guarantees for loans to a public sector characterized by patronage, corruption, and graft, which was extracted from both foreign and domestic investors.",
+        "• The public sector included recipients of graft and supported costly state-developed enterprises.",
+        "• By 1989, Honduras faced significant economic challenges due to a regional recession, civil wars in neighboring countries, the cessation of most external credit, and capital flight exceeding $1.5 billion.",
+        "• The election of President Rafael Leonardo Callejas Romero in 1989 marked a shift in economic policy towards privatization.",
+        "• President Callejas initiated reforms that focused on privatizing government-owned enterprises, liberalizing trade and tariff regulations, and encouraging foreign investment through tax incentives and other measures.",
+        "• Despite these reforms, the Callejas administration did not aim to reduce government control but sought to reduce public-sector spending, decrease the size of the public-sector workforce, and lower the trade deficit.",
+        "• Overall economic planning was centralized under the National Superior Planning Council, which was directed by the Minister of Economy and Commerce.",
+        "• President Callejas, a U.S.-trained economist, brought professionalism and technical expertise to the government to facilitate long-term economic reforms.",
+        "• The official exchange rate of the lempira had been pegged at US$1 = L2 since 1918 but was dramatically devalued in 1990.",
+        "• Exchange controls introduced in 1982 led to the emergence of a parallel (black) currency market and multiple official exchange rates operating simultaneously.",
+        "• In 1990, President Callejas implemented major economic reforms, including reducing the maximum import tariff from 90% to 40%, and eliminating most surcharges and exemptions.",
+        "• During these reforms, the lempira's value was adjusted to US$1 = L4, except for debt equity conversions, which remained at US$1 = L2.",
+        "• The official exchange rate of the lempira fell to US$1 = L7.26 in December 1993.",
+        "• President Callejas also introduced temporary export taxes aimed at increasing central government revenue.",
+        "• Additional liberalization measures included further price and trade deregulation and a reduction in government regulations as part of ongoing reforms."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:25:25.900034",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Budget",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Throughout the 1980s, the Honduran government was heavily financed by foreign assistance, with external financing primarily consisting of bilateral credit from the United States.",
+        "• External financing increased dramatically during this period, reaching 87 percent of the public deficit in 1985 and continuing to rise in subsequent years.",
+        "• By 1991, the entire public-sector deficit was financed through net external credit, enabling the government to reduce reliance on internal credit and maintain its established exchange rate.",
+        "• In 1991, President Callejas appeared to have reduced the overall fiscal deficit, a prerequisite for obtaining new credit; however, this reduction was mainly an accounting maneuver resulting from the postponement of external payments to Paris Club debtors.",
+        "• The apparent deficit reduction in 1991 was expected to be offset by increased pressure to raise public investment in the future.",
+        "• During 1991, Honduras negotiated with multilateral and bilateral lending institutions, securing $39.5 million in United States development assistance, $70 million in balance-of-payments assistance in the form of cash grants, and $18.8 million in food aid.",
+        "• Honduras also negotiated $302.4 million in concessional loans from multilateral lending institutions.",
+        "• The total external debt as a percentage of GDP decreased from 119 percent in 1990 to 114 percent in 1991, and further to 112 percent in 1993, largely due to debt forgiveness totaling $448.4 million by the United States, Switzerland, and the Netherlands.",
+        "• Despite debt forgiveness, scheduled amortization payments averaged $223.2 million annually, ensuring that Honduras's gross funding requirements would remain substantial indefinitely.",
+        "• The Honduran government projected that overall tax revenues would rise from 13.2 percent of GDP in 1989 to approximately 15.7 percent in 1991.",
+        "• These tax revenue goals were undermined by low coffee prices and continued lax collection methods.",
+        "• Compared to developed countries, Honduras maintained low tax rates, especially with regard to property taxes."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:25:39.316925",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "4",
+      "section_name": "Labor force",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Honduras faces a significant surplus of unskilled and uneducated laborers, impacting overall economic productivity and development.",
+        "• In 1993, the majority of Honduran workers remained employed in agriculture, which constituted approximately 60 percent of the country's labor force.",
+        "• Over half of the rural population in Honduras was landless, heavily reliant on seasonal labor and earning low wages, with many subsisting on less than two hectares of land.",
+        "• Approximately 55 percent of the rural farming population survived on less than two hectares and earned less than $70 per capita annually from these plots, primarily through growing subsistence food crops.",
+        "• In 1993, only about 9–13 percent of the Honduran labor force was employed in the manufacturing sector, which was one of the smallest in Central America.",
+        "• Skilled labor was scarce in Honduras; only about 25,000 individuals graduated annually from the National Institute of Professional Training (Instituto Nacional de Formación Profesional - INFOP), established in 1972, with roughly 21 percent of these graduates being industrial workers.",
+        "• The small manufacturing firms, traditionally the backbone of Honduran enterprise, began to decline in the early 1990s due to rising import costs and increased wages in assembly industries, especially those owned by Asian firms.",
+        "• Most small Honduran manufacturing shops, which mainly produced clothing or food for the domestic market, operated with minimal government or private sector credit support and resembled artisans more than formal manufacturers.",
+        "• Asian-owned export assembly firms, or maquiladoras, primarily located in free zones on the Caribbean coast, employed about 16,000 workers in 1991 and attracted thousands of job seekers, contributing to urban growth in cities such as San Pedro Sula, Tela, and La Ceiba.",
+        "• Approximately one-third of the Honduran labor force was engaged in the service or \"other\" sector in 1993, a category often associated with precarious urban informal employment or low-paid domestic work.",
+        "• During the 1980s, as unemployment increased across Central America, more Hondurans relied on their ingenuity and informal sector activities to survive on the margins of society.",
+        "• Child labor has been predominantly observed in the agricultural sector of Honduras, with evidence documented by research and reports.",
+        "• The U.S. Department of Labor’s 2014 _List of Goods Produced by Child Labor or Forced Labor_ identified three goods produced under such conditions in Honduras: coffee, lobsters, and melons."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:25:44.335338",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Employment indicators and benefits",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1974, Honduran governments have established minimum wages; however, enforcement has generally been weak, with laxity increasing notably at the beginning of the 1980s.",
+        "• Historically, most Honduran workers have not been covered by social security, welfare programs, or minimum wage protections.",
+        "• Multinational companies in Honduras typically paid wages exceeding the official minimum wage, yet overall, Honduran wage earners have experienced a decline in real wages and purchasing power for over a decade.",
+        "• When minimum wage adjustments occurred, they generally failed to keep pace with increases in the cost of living.",
+        "• Following a significant currency devaluation in 1990, average Honduran workers became among the lowest-paid in the Western Hemisphere.",
+        "• In contrast, banana companies paid relatively high wages starting as early as the 1970s, maintaining top-tier wages in the 1990s; however, during the 1980s, as banana production became less labor-intensive, these companies reduced their investments and workforce.",
+        "• As a result, fewer workers were employed as well-paid agricultural wage earners with associated benefits.",
+        "• President Callejas responded to widespread poverty by establishing the Honduran Social Investment Fund (Fondo Hondureño de Inversión Social—FHIS) in 1990, which financed public works projects such as road maintenance and distributed surplus U.S. food to mothers and infants.",
+        "• Despite these efforts, many Hondurans remained outside the reach of this fragile social safety net.",
+        "• As part of ongoing social negotiations and following intense union-government conflicts, President Callejas announced in 1991 a 27.8 percent increase in the minimum wage, supplementing previous raises of 50 percent in January and 22 percent in September 1990.",
+        "• Despite these wage increases, the minimum daily rate in 1991 was only $1.75 for workers employed by small agricultural enterprises and $3.15 for workers in large exporting companies; most workers did not earn the official minimum wage."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:25:52.015509",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Labor unions",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Honduras has historically exhibited a high level of unionization, with approximately 15 to 20 percent of the overall formal workforce represented by unions in 1993, and about 40 percent of urban workers being union members.",
+        "• In 1990, there were forty-eight strikes in the public sector alone, primarily protesting the government's economic austerity measures and layoffs of public-sector workers.",
+        "• Over 4,000 public-sector employees from the Ministry of Communications, Public Works, and Transport were dismissed in 1990.",
+        "• At the beginning of 1991, roughly 70,000 unionized workers remained in the public sector; the government committed to reducing this number by 8,000 to 10,000 throughout 1991 as part of its austerity program.",
+        "• The private sector experienced 94 strikes in 64 firms in 1990, with workers demanding wage increases to counteract inflation.",
+        "• A notable 42-day strike at the Tela Railroad Company, owned by Chiquita Brands International (formerly United Brands and United Fruit Company), was unsuccessful, temporarily halting union confrontations in that sector.",
+        "• In 1993, Honduras had three major labor confederations:",
+        "• The Confederation of Honduran Workers (Confederación de Trabajadores de Honduras—CTH), claiming about 160,000 members.",
+        "• The General Workers Central (Central General de Trabajadores—CGT), claiming approximately 120,000 members.",
+        "• The Unitary Confederation of Honduran Workers (Confederación Unitaria de Trabajadores de Honduras—CUTH), formed in May 1992, with an estimated 30,000 members.",
+        "• These confederations encompassed numerous trade union federations, individual unions, and peasant organizations.",
+        "• The CTH, established in 1964 by the National Association of Honduran Peasants (Asociación Nacional de Campesinos de Honduras—Anach) and unions affiliated with the Inter-American Regional Organization of Workers (Organización Regional Interamericana de Trabajadores—ORIT), was the largest trade confederation.",
+        "• In the early 1990s, CTH included three major components:",
+        "• The Federation of Unions of National Workers of Honduras (Fesitranh) with 45,000 members.",
+        "• The Central Federation of Honduran Free Trade Unions (Federación Central de Sindicatos Libres de Honduras) with 22,000 members.",
+        "• The Federation of National Maritime Unions of Honduras (Federación de Sindicales Marítimas Nacionales de Honduras) with 2,200 members.",
+        "• Anach, claiming between 60,000 and 80,000 members, was affiliated with Fesitranh.",
+        "• Fesitranh was the most influential labor federation, with most unions located in San Pedro Sula and the Puerto Cortés Free Zone, including unions affiliated with U.S.-owned banana companies and petroleum refineries.",
+        "• The CTH received support from foreign labor organizations such as ORIT, the American Institute for Free Labor Development (AIFLD), and Germany's Friedrich Ebert Foundation, and was affiliated with the International Confederation of Free Trade Unions (ICFTU).",
+        "• The CGT, formed in 1970 by Christian Democrats and not legally recognized until 1982, initially received support from the World Confederation of Labour (WCL) and the Latin American Workers Central (CLAT).",
+        "• By the late 1980s and early 1990s, CGT leadership developed close ties to the National Party of Honduras (Partido Nacional de Honduras—PNH), with several leaders serving in the Callejas government.",
+        "• The National Union of Peasants (Unión Nacional de Campesinos—UNC), with about 40,000 members, was affiliated with the CGT for many years and was a significant force within the confederation.",
+        "• The CUTH was established in May 1992 by two main federations:",
+        "• The Unitary Federation of Honduran Workers (FUTH).",
+        "• The Independent Federation of Honduran Workers (FITH).",
+        "• Several smaller labor groups, all opposing the Callejas government's neoliberal reforms.",
+        "• The Marxist FUTH, with approximately 16,000 members in the early 1990s, was organized in 1980 by three communist-influenced unions and gained legal status in 1988.",
+        "• FUTH maintained external affiliations with the World Federation of Trade Unions (WFTU), the Permanent Congress for Latin American Workers Trade Union Unity (CPUSTAL), and the Central American Committee of Trade Union Unity (CUSCA).",
+        "• Its affiliates included unions in water utilities, universities, electricity, breweries, and teachers, as well as peasant organizations like the National Central of Farm Workers (CNTC), active in land occupations during the early 1980s.",
+        "• FUTH also affiliated with leftist popular organizations through the Coordinating Committee of Popular Organizations (CCOP), formed in 1984.",
+        "• Dissident members of FUTH formed FITH, which was granted legal status in 1988, comprising about 14 unions and roughly 13,000 members in the early 1990s."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:26:06.044925",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 31
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "5",
+      "section_name": "Agriculture and land use",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Bananas are one of Honduras' main exports, highlighting their significance in the country's agricultural economy.",
+        "• In 2018, Honduras produced the following key agricultural commodities: 5.5 million tons of sugar cane, 2.5 million tons of palm oil, 771 thousand tons of bananas, and 481 thousand tons of coffee.",
+        "• Additional notable crops produced in 2018 include 704 thousand tons of maize, 261 thousand tons of oranges, 293 thousand tons of melons, 127 thousand tons of beans, and 81 thousand tons of pineapples.",
+        "• Smaller yields were recorded for other agricultural products such as watermelon, potatoes, tomatoes, cabbage, grapefruit, and sorghum.",
+        "• The total land area of Honduras is approximately 11.2 million hectares, with only about 1.7 million hectares (roughly 15 percent) being well suited for agriculture.",
+        "• The majority of Honduras's land is mountainous, earning the country the nickname \"the Tibet of Central America.\"",
+        "• Despite geographic challenges, agriculture has historically been the backbone of the Honduran economy, which in 1992 contributed 28 percent to the GDP, making it the largest economic sector at that time.",
+        "• As of the mid-1980s, less than half of Honduras's cultivable land was actively planted with crops; the remaining land was used for pastures or was forested, with ownership often held by the government or banana corporations.",
+        "• The potential for increasing productivity on fallow land was limited due to the lack of volcanic ash in soil, which is a common fertility enhancer elsewhere in Central America.",
+        "• By 1987, approximately 750,000 hectares of land had experienced serious erosion caused by cattle ranching practices and slash-and-burn methods employed by squatters planting unsuitable food crops.",
+        "• In 1993, the Honduran government and two major banana companies—Chiquita Brands International and Dole Food Company—owned about 60 percent of Honduras's cultivable land.",
+        "• These banana companies acquired most of their land in the early 20th century as compensation for building railroads used to transport bananas from the interior regions to the coast.",
+        "• A significant portion of the land owned by these companies remained unused due to lack of irrigation infrastructure.",
+        "• In 1987, only about 14 percent of cultivated land was irrigated.",
+        "• By 1992, most cultivated land was dedicated to bananas, coffee, and specialized export crops such as melons and winter vegetables."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:26:10.549052",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Agricultural policy",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The agricultural sector's output in Honduras experienced little or no growth between 1970 and 1985.",
+        "• Starting in 1995, the sector benefited from favorable weather and market conditions, leading to an annual growth rate of 2.6 percent, which was slightly above the Latin American average during that period.",
+        "• During this period, production of basic grains and coffee increased significantly.",
+        "• The export price of bananas remained high, contributing positively to the sector's growth.",
+        "• Domestic production of pork, poultry, and milk also increased, supporting local consumption.",
+        "• The value of nontraditional fruits and vegetables produced in Honduras experienced growth.",
+        "• Overall, Honduran agricultural production has been relatively low due to low crop yields per unit of land.",
+        "• Historically, Honduran chocolate yields have been approximately half those of Costa Rica, exemplifying low productivity.",
+        "• Honduran farmers have primarily expanded cultivated land area rather than adopting improved techniques to increase productivity.",
+        "• This expansion has led to the encroachment into forests, causing deforestation and subsequent soil erosion.",
+        "• The reluctance to adopt modern agricultural techniques, combined with poor soil quality, has hindered productivity.",
+        "• Additional factors contributing to low production include limited access to credit and inadequate infrastructure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:26:23.245405",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Land reform",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Honduran government began nominal efforts to address inequitable land ownership in the early 1960s, primarily focusing on organizing rural cooperatives.",
+        "• Starting in 1960, approximately 1,500 hectares of government-owned land were distributed by the National Agrarian Institute (Instituto Nacional Agrario—INA).",
+        "• A military coup in 1963 ended the initial land reform program, halting formal government-led land redistribution initiatives.",
+        "• During the early 1970s, in the absence of official reforms, squatting became the primary means for poor people to acquire land across Honduras.",
+        "• In response to rising land conflicts, the government implemented new agrarian reforms in 1972 and 1975, which exempted all lands planted with export crops from redistribution.",
+        "• Despite the exemption, about 120,000 hectares were redistributed among 35,000 poor families during the 1970s reforms.",
+        "• By 1975, the momentum for land reform diminished significantly, and the reform process was effectively halted.",
+        "• From 1975 through the 1980s, illegal occupations of unused land increased once again, reflecting ongoing land access issues.",
+        "• During this period, land reform efforts mainly involved laws granting titles to squatters and landholders, allowing them to sell land or use it as collateral for loans.",
+        "• In 1989, the Callejas government declared its intent to address social issues such as land tenure and support for small farmers, but tangible progress was limited.",
+        "• The early 1990s saw increased conflicts between peasants and Honduran security forces, highlighting ongoing land disputes.",
+        "• Agricultural credit and government support increasingly favored export crop producers over producers of basic food crops during this period.",
+        "• Under President Callejas (1989–1992), the land reform process was primarily targeted at large landowners, with efforts including an agrarian pact signed in August 1990 by landowners and peasant organizations; however, this pact remained underfunded and largely unimplemented.",
+        "• Violence erupted when discharged members of the Honduran military forcibly attempted to reclaim land already awarded to the peasant organization Anach in 1976.",
+        "• In May 1991, violence initiated by members of the Honduran military resulted in the deaths of eight farmers.",
+        "• To prevent further violence, the government pledged to parcel out land belonging to the National Corporation for Investment (Conadin) and to return land confiscated by the military in 1983 to peasants.",
+        "• The 1992 Agricultural Modernization Law accelerated land titling processes and restructured land cooperatives formed in the 1960s.",
+        "• The law allowed cooperative members to break up their holdings into small personal plots that could be sold, facilitating land sales and fragmentation.",
+        "• As a consequence, some small banana producers facing economic hardship sold their land to large banana companies.",
+        "• Following an agreement with the European Union (EU) to increase Honduras’s banana quota, major banana companies sought additional land to meet the anticipated increased demand from Europe."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:26:35.556672",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "5.3",
+      "section_name": "Traditional crops",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Throughout the 20th century, Honduras's agriculture was primarily dominated by bananas initially, followed by coffee and sugar to a lesser extent.",
+        "• In 1992, bananas and coffee together accounted for 50 percent of the total value of Honduran exports, making these crops the largest contributors to the country's economy.",
+        "• In 1992, total banana sales in Honduras amounted to $287 million, while coffee sales reached $148 million, reflecting significant economic importance.",
+        "• Despite these impressive sales figures, production losses among banana producers and the withholding of coffee exports to combat steep price declines impacted overall export values.",
+        "• The Honduran agriculture sector faced a major setback due to Hurricane Mitch and its aftermath in 1998 and 1999, causing extensive damage.",
+        "• As of 2012, both the banana and coffee industries in Honduras were experiencing an upward recovery.",
+        "• The banana industry in Honduras is dominated by multinational corporations, primarily Chiquita Brands International and Dole Food Company.",
+        "• The coffee industry in Honduras offers better opportunities for small Honduran family farms to compete compared to bananas.",
+        "• Sugar has historically been an important crop for Honduras, contributing to the agricultural economy.",
+        "• Chiquita and Dole now control most of Honduras's banana production and exports, replacing the traditional system of independent banana producers who, until the 1980s, sold their crops directly to international banana companies.",
+        "• In the 1990s, the erosion of the independent banana producer system was accelerated by the lack of policies protecting independent suppliers, leading cooperatives to sell land to large multinational corporations due to economic hardship.",
+        "• Unlike bananas, the coffee industry in Honduras is characterized by approximately 55,000 small producers, who mainly operate small farms.",
+        "• Despite relatively low yields per independent farm, coffee production remains high due to the large number of producers, with Honduras consistently exceeding its international coffee export quota until the 1980s.",
+        "• In the 1980s, Honduran coffee growers began withholding their crop to try to increase prices, which caused international coffee prices to decline from over $2.25 per kilogram in the mid-1970s to less than $0.45 per kilogram in the early 1990s.",
+        "• The decline in coffee prices marginalized many Honduran coffee producers, prompting them to seek alternative production methods.",
+        "• With the help of affordable loans from foreign investors, an increasing number of Honduran coffee growers are transitioning to producing high-value organic coffee suited to the modern economy.",
+        "• The sugar industry, which experienced a boom during the 1980s when Honduran producers filled Nicaragua’s sugar quota to the United States, faced a bleak outlook by 1993.",
+        "• The restoration of the sugar quota to Nicaraguan growers significantly harmed Honduran small independent sugar producers, who had previously expanded their share during the U.S. embargo of Nicaragua.",
+        "• Rising costs for imported fertilizers, driven by the devaluation of the lempira, further challenged the sugar industry.",
+        "• Honduran sugar producers attempt to bypass low official prices (25 lempiras per kilogram) by smuggling sugar across borders into Nicaragua and El Salvador, where support prices are higher.",
+        "• Some sugar growers are diversifying their crops by cultivating pineapples and rice to mitigate industry challenges.",
+        "• Many independent sugar growers, similar to banana producers, are dissatisfied with the high profits reported by sugar refiners and exporters.",
+        "• Strikes by sugar producers during the 1991 harvest temporarily closed the Choluteca refinery but did not significantly alter the long-term negative outlook for the sugar industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:26:43.112712",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "5.4",
+      "section_name": "Nontraditional crops",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1990 and 1991, the total value of export merchandise from Honduras declined, and by 1993, it had not yet recovered to the 1989 level.",
+        "• Despite the decline in export merchandise value, the overall agricultural sector output experienced some growth, primarily due to increased sales of winter vegetables and shrimp.",
+        "• Nontraditional vegetables and fruit exports generated $23.8 million in revenue in 1990, which was nearly double the revenue reported in 1983.",
+        "• In 1990, nontraditional agricultural crops accounted for 4.8 percent of Honduras's total export value, up from 2.8 percent in 1983.",
+        "• Some development experts argue that government protection of small farmers' production of corn, beans, and rice is ineffective in achieving long-term poverty reduction goals.",
+        "• Experts see significant economic potential in nontraditional crops if they are managed properly.",
+        "• Analysts highlight that Honduras faces a distinct disadvantage compared to its Central American neighbors due to its poor transportation infrastructure.",
+        "• The success of nontraditional exports depends heavily on the ability to rapidly transport fresh produce from farms to distant markets."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:26:47.104943",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "5.5",
+      "section_name": "Livestock",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the early 1980s, the cattle industry in Honduras was viewed as having the potential to become a significant component of the national economy.",
+        "• Despite this potential, the Honduran cattle sector never achieved the level of development seen in much of the rest of Central America.",
+        "• Cattle production experienced steady growth until 1980–81, after which it declined sharply due to falling profits caused by high production costs.",
+        "• The decline in cattle industry profitability coincided with the contraction of the small Honduran meat packing industry, leading to the closure of several meat packing plants.",
+        "• As late as 1987, livestock contributed approximately 16 percent to the value-added agricultural sector in Honduras, but the industry continued its downward trend.",
+        "• By 1991–92, beef exports represented only 2.9 percent of the total value of Honduran exports, indicating a significant decrease in export importance.",
+        "• During the mid-1980s, sales of refrigerated meat ranked as the third or fourth highest source of export earnings for Honduras.",
+        "• Honduran beef yields were among the lowest in Central America, paralleling other agricultural products in the country.",
+        "• The global decline in prices and rising production costs, worsened by drought conditions, reduced incentives for cattle raising in Honduras.",
+        "• Some cattle farmers engaged in illegal smuggling of beef cattle to neighboring countries such as Guatemala, where market prices were higher.",
+        "• The Honduran cattle sector was never able to establish international competitiveness despite these smuggling activities.",
+        "• Two large banana companies in Honduras owned extensive cattle ranches where they raised prime beef, but these companies could adapt their crop production based on market demand.",
+        "• Honduran dairy herds experienced similar challenges to beef cattle, with milk yields among the lowest in Central America.",
+        "• The dairy industry was hindered by poor transportation infrastructure, making milk delivery over inadequate roads difficult in a tropical climate.",
+        "• Domestic dairy production faced stiff competition from subsidized foreign imports, predominantly from the United States."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:26:53.556538",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "5.6",
+      "section_name": "Fishing",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 1980s, Honduras experienced significant development of its shrimp industry, establishing a prominent position in the regional market.",
+        "• By 1991, Honduras was the second-largest exporter of shrimp in Latin America, surpassed only by Ecuador.",
+        "• In 1992, the combined export earnings from shrimp and lobster increased to constitute 12 percent of Honduras's total export revenue.",
+        "• Shrimp exports alone contributed approximately $97 million to Honduras's economy in 1992, representing a 33 percent increase compared to the previous year.",
+        "• The shrimp industry relied heavily on imported larvae from the United States to supplement its naturally unstable shrimp populations.",
+        "• In 1991, technicians from Taiwan were contracted by large Honduran shrimp producers to assist in developing laboratory-grown larvae.",
+        "• Conflicts arose between independent shrimpers and corporate producers, leading to bitter disputes over industry practices.",
+        "• Local shrimpers accused corporate methods of environmental damage, specifically citing the destruction of mangrove breeding swamps, which threatened natural shrimp stocks.",
+        "• In response to environmental concerns and resource depletion, corporate shrimp farmers began relocating their operations further inland.",
+        "• This inland shift left local shrimpers to face reduced natural shrimp supplies along the mosquito-infested coastal areas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:26:58.295539",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "5.7",
+      "section_name": "Forestry",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Historically, Honduras's forest resources were once abundant but have been significantly depleted, with forests covering 6.8 million hectares in 1964 and declining to 5 million hectares by 1988.",
+        "• During the 1980s and early 1990s, Honduras experienced an annual deforestation rate of approximately 3.6 percent of its remaining forests.",
+        "• The primary causes of forest loss include squatters utilizing land suitable only for forests to grow low-yield food crops, large-scale clearing of land for cattle ranching, and severe mismanagement of timber resources.",
+        "• The country's focus on logging activities over sustainable forestry management has contributed to the depletion of forest resources.",
+        "• In 1974, the Honduran government initiated an intensive forestry development program aimed at improving sector management and preventing exploitation by foreign-owned firms.",
+        "• The Honduran Corporation for Forestry Development (Corporación Hondureña de Desarrollo Forestal—Cohdefor) was established in 1974 as part of this initiative but quickly evolved into a corrupt monopoly controlling forest exports.",
+        "• Timber production in Honduras was primarily carried out by private sawmills operating under contracts selectively granted by Cohdefor officials, often with little oversight.",
+        "• Wasteful practices, unsustainable debt incurred for infrastructure projects, and poor conservation efforts undermined forest sustainability; much of the debt was contracted by military-dominated governments with multilateral development agencies.",
+        "• The government often extracted timber to service debt obligations, with Cohdefor frequently granting licenses to private lumber companies with minimal preservation requirements and limited enforcement of regulations.",
+        "• Starting in 1985, with support from the United States Agency for International Development (AID), the Honduran government began decentralizing Cohdefor's responsibilities, transferring regulatory authority to mayors and municipal officials in hopes of improved oversight.",
+        "• Despite decentralization and asset sales, Cohdefor's debt remained substantial at $240 million in 1991, and the government continued to assume financial responsibilities for infrastructure projects such as building a new airstrip in timber extraction areas, upgrading facilities at Puerto Castilla and Puerto Lempira, and providing electricity at reduced rates to lumber companies as part of privatization efforts.",
+        "• Major legislation enacted in 1992 aimed to promote reforestation by making large areas of state-owned land more accessible to private investors and providing subsidies for sector development.",
+        "• The 1992 law also included provisions for replanting mountainous regions with pine trees to be used as fuel, supporting reforestation and sustainable resource use."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:27:03.287253",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "6",
+      "section_name": "Natural resources and energy",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Mining was the mainstay of the Honduran economy in the late 19th century but declined dramatically in importance during the 20th century.",
+        "• The New York and Honduras Rosario Mining Company (NYHRMC) produced approximately $60 million worth of gold and silver between 1882 and 1954 before discontinuing most of its operations.",
+        "• During the 1980s, mining's contribution to Honduras's Gross Domestic Product (GDP) steadily declined, reaching only 2 percent by 1992.",
+        "• The El Mochito mine, located in western Honduras and recognized as the largest mine in Central America, accounted for most of the country's mineral production.",
+        "• Ores containing gold, silver, lead, zinc, and cadmium were mined in Honduras and exported primarily to the United States and Europe for refining.",
+        "• In 2021, mining exports in Honduras were valued at approximately 293 million dollars.",
+        "• The NGO Fosdeh (Foundation for Development and Humanitarian Studies) highlights that mineral and hydrocarbon extraction activities are significantly altering Honduras's geography.",
+        "• Fosdeh notes that, with ongoing mining concessions, the area designated for mineral extraction could encompass up to 5% of Honduras's national territory in the coming years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:27:32.776264",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "6.1",
+      "section_name": "Energy sources",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Honduras has historically relied heavily on fuelwood and biomass, primarily waste products from agricultural activities, to meet its energy needs.",
+        "• The country has never been a significant producer of petroleum and depends largely on imported oil to satisfy its energy requirements.",
+        "• In 1991, Honduras's daily oil consumption was approximately 16,000 barrels, equivalent to about 2,500 cubic meters.",
+        "• During the same year, Honduras spent around $143 million on oil imports, which accounted for 13 percent of its total export earnings.",
+        "• The nation's only small refinery, located at Puerto Cortés, was closed in 1993.",
+        "• Various Honduran governments have shown limited initiative in promoting oil exploration, despite long-standing suspicions of substantial oil deposits in the Río Sula valley and offshore along the Caribbean coast.",
+        "• An oil exploration consortium comprising the Venezuelan state oil company, Petróleos de Venezuela S.A. (PDVSA), along with Cambria Oil and Texaco, expressed interest in constructing a refinery at Puerto Castilla in 1993, with the goal of producing for the local market.",
+        "• Gasolineras Uno is a Honduran gas station company that has expanded its operations to include stores across most of Central America and South America.",
+        "• Traditionally, fuelwood and biomass have supplied about 67 percent of Honduras's total energy demand.",
+        "• Petroleum accounts for approximately 29 percent of the country's energy consumption, while electricity contributes about 4 percent.",
+        "• In 1987, Honduran households consumed roughly 60 percent of the total energy used in the country.",
+        "• Transportation and agriculture sectors together used about 26 percent of the energy, while industry accounted for approximately 14 percent.",
+        "• Within the industrial sector, food processing was the largest energy consumer, representing about 50 percent of industrial energy use, followed by petroleum and chemical manufacturing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:28:04.829711",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "6.2",
+      "section_name": "Electric power",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Honduran electrification remains low and uneven compared to other Latin American countries, with only about 36 percent of the population having access to electricity in 1987, including just 20 percent of the rural population.",
+        "• The country's total electricity generation capacity in 1992 was 575 megawatts (MW), producing approximately 2,000 megawatt-hours (MWh).",
+        "• A major hydroelectric project, the 292-MW El Cajón plant, began operations in 1985 to help meet Honduras' energy needs.",
+        "• The El Cajón hydroelectric plant soon accumulated significant debt due to government policies that did not charge public-sector institutions for electricity and the appointment of political cronies to top management positions.",
+        "• Structural problems at El Cajón became costly, requiring extensive maintenance and repairs.",
+        "• In 1990, officials estimated that the government's policy of providing free electricity to public-sector institutions contributed to a 23 percent increase in public-sector electricity consumption.",
+        "• Experts projected that additional electrical generation capacity would be necessary to keep pace with rising demand.",
+        "• The Honduran Congress assumed authority over setting electric prices starting in 1986 but was reluctant to increase rates.",
+        "• Under pressure from the World Bank, Congress approved a 60 percent increase in electricity rates in 1990, with further rate hikes planned for 1991.",
+        "• To mitigate the impact of rate increases on residential users, the government initiated a system of direct subsidies that continued through 1992."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:28:33.604417",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "6.3",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1992, Honduras' manufacturing sector was small, contributing only 15 percent to the total GDP.",
+        "• The sector was primarily driven by textile exports, mainly to the United States.",
+        "• The maquiladora, or assembly industry, experienced growth despite the overall bleak economic conditions.",
+        "• Asian-owned firms dominated the maquiladora sector, with twenty-one South Korean companies operating in export processing zones located in the Río Sula valley in 1991.",
+        "• In 1991, maquiladoras employed approximately 16,000 workers; an additional nine firms opened in 1992.",
+        "• Job creation from maquiladoras is considered the primary contribution of assembly operations to the Honduran domestic economy.",
+        "• The export textile manufacturing industry nearly eliminated small Honduran manufacturers, adversely affecting their market share.",
+        "• Food processors, traditionally focused on the domestic market, were also negatively impacted by the growth of assembly industries.",
+        "• Small Honduran firms struggled to compete with maquiladoras due to higher wage scales, which were close to $4 per day.",
+        "• Small firms faced difficulties in meeting the high costs of imported inputs, further disadvantaging them.",
+        "• Membership in the Honduran Association of Small and Medium Industry (Asociación Hondureña de Empresas Pequeñas y Medianas) declined by 70 percent by 1991 compared to pre-maquiladora levels, indicating a likely decline of most small shops.",
+        "• Honduran domestic manufacturers faced increased regional competition following a trade liberalization pact signed in May 1991 by Honduras, El Salvador, and Guatemala.",
+        "• Overall, the Honduran manufacturing sector remained noncompetitive regionally due to insufficient credit, high input costs, high interest rates, and a complicated investment law.",
+        "• The sector was hindered by the dominance of foreign firms and structural economic challenges.",
+        "• The Puerto Cortés Free Zone, established in 1976, was the first government-sponsored free zone.",
+        "• By 1990, five additional free zones were operational in Omoa, Coloma, Tela, La Ceiba, and Amapala.",
+        "• Privately operated Export Processing Zones (EPZs) were also established, competing with government zones and offering similar import-export incentives.",
+        "• Most free zones, both government and private, were located along the Caribbean coast within a developing industrial belt.",
+        "• Firms outside of these special zones, whether private or government, still benefited from many of the same incentives.",
+        "• The Honduran Temporary Import Law allows companies that export 100 percent of their production outside the Central American Common Market (CACM) to hold ten-year exemptions on corporate income taxes and duty-free import of industrial inputs.",
+        "• Analysts debate the effectiveness of shifting from import-substitution industrialization (ISI) policies of the 1960s and 1970s toward free zones and assembly industries in the 1990s.",
+        "• Critics argue that foreign manufacturers lack commitment to any specific country site or to creating permanent infrastructure and employment.",
+        "• There is concern whether new employment generated by assembly industries compensates for job losses in traditional manufacturing sectors.",
+        "• In 1991, assembly industries contributed $195 million to the Honduran economy, with clothing exports surpassing coffee exports in value, highlighting the sector’s growing importance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:28:39.545104",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 24
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "6.4",
+      "section_name": "Construction",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1993, high interest rates, especially for housing, continued to negatively impact the Honduran construction industry.",
+        "• The adverse effects of high interest rates were partially mitigated by some investment from the public sector.",
+        "• The process of privatizing formerly state-owned industries through debt swaps also had a detrimental effect on construction activities.",
+        "• Privatization led to increased prices for basic construction materials, such as cement, thereby raising overall construction costs.",
+        "• Credit availability was tightened during this period, further constraining the construction sector.",
+        "• A significant devaluation of the Honduran lempira contributed to increased costs for construction imports.",
+        "• In 1992, the construction sector accounted for 6.0 percent of Honduras's gross domestic product (GDP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:28:42.512175",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "6.5",
+      "section_name": "Banking",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Honduran financial sector was relatively small compared to those of neighboring countries but experienced rapid growth after 1985.",
+        "• During the 1980s, the sector's average annual growth rate of value added to the economy was 4 percent, making it the second-highest in Latin America.",
+        "• By 1985, Honduras had established twenty-five financial institutions operating through 300 branch offices nationwide.",
+        "• In 1985, commercial banks in Honduras held 60 percent of the total financial system's assets and nearly 75 percent of all deposits.",
+        "• All commercial banks, except for the Armed Forces Social Security Institute, were privately owned, primarily by Honduran families.",
+        "• In 1985, Honduras operated two government-owned development banks: one specialized in agricultural credit and the other in financing municipal governments.",
+        "• Starting in 1990, under guidance from the International Monetary Fund (IMF) and World Bank, Honduras initiated a process of financial liberalization.",
+        "• The liberalization began with the deregulation of agricultural loan rates, followed by the removal of rate controls in other sectors.",
+        "• By late 1991, Honduran banks were permitted to charge market rates for agricultural loans using their own funds, with the requirement to report rates to monetary authorities and a legal cap of two percentage points above the announced rate.",
+        "• In 1991, commercial banks successfully pressured the government to reduce the minimum reserve ratio from 35 percent; this rate remained until June 1993 when it was temporarily increased to 42 percent.",
+        "• The reserve requirement was later decreased to 36 percent three months after June 1993.",
+        "• During this period, banks held excess reserves, and lending rates ranged from 26 to 29 percent, with few borrowers participating.",
+        "• Prior to liberalization, the Central Bank of Honduras set a maximum interest rate ceiling of 19 percent, while market lending rates hovered around 26 percent in late 1991.",
+        "• Inflation was 33 percent in 1990, resulting in negative real interest rates, but rates increased in 1991 to levels above inflation, which was 13 to 14 percent.",
+        "• Lending rates in 1993 ranged from 35 to 43 percent, significantly exceeding inflation rates, prompting calls from bankers for further liberalization, including easing controls in housing and nonexport agricultural sectors.",
+        "• A Honduran stock exchange was established in August 1990, initially trading only debt securities.",
+        "• In 1991, nine companies were listed on the stock exchange; by 1993, the number had grown to eighteen.",
+        "• The development of the stock market faced skepticism due to the reluctance of family-held firms to disclose financial information publicly."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:28:48.762560",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "6.6",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Foreign tourists are primarily attracted to Honduras by the Mayan ruins located in Copán and the coral reef skin-diving opportunities off the Islas de la Bahía (Bay Islands).",
+        "• The development of substantial international tourism in Honduras has been hindered by poor infrastructure.",
+        "• Despite infrastructural challenges, the number of visitors to Honduras increased from fewer than 200,000 in 1987 to nearly 250,000 in 1989.",
+        "• Small ecotourism projects within Honduras are viewed as having significant potential for future growth in the tourism sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:28:50.808522",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "7",
+      "section_name": "Trade",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the early 1990s, the United States was Honduras's primary trading partner, with Japan ranking as a distant second.",
+        "• In 1992, United States exports to Honduras were valued at US$533 million, representing approximately 54% of Honduras's total imports of US$983 million.",
+        "• The majority of Honduras's remaining imports in 1992 originated from its Central American neighbors.",
+        "• Despite benefiting from the Caribbean Basin Initiative (CBI) and the Generalized System of Preferences (GSP), which provide duty-free access for Honduran imports into the United States, Honduras has maintained a persistent trade deficit with the United States.",
+        "• In 1992, Honduras's total exports of goods and services amounted to US$843 million, with about 52% of these exports directed to the United States.",
+        "• As of 2017, Honduras's total exports increased significantly to US$8.675 billion.",
+        "• In 2017, approximately 34.5% of Honduras's exports were destined for the United States."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:28:54.595326",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Linkages to the United States",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Honduras's economy is closely linked to the United States, similar to most Latin American countries.",
+        "• The United States is Honduras's primary trading partner.",
+        "• Approximately two-thirds of Honduras's foreign direct investment (FDI) originates from the United States.",
+        "• US multinationals Dole Food Company and Chiquita control a significant portion of Honduras's agricultural exports.",
+        "• Currently, Honduras collaborates with the Rainforest Alliance to export agricultural goods to the US.",
+        "• Hondurans working in the United States send over $2 billion annually in remittances to their families in Honduras.",
+        "• These remittances constitute 28.2% of Honduras's Gross Domestic Product (GDP) based on data from 2007."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:28:57.359588",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "8",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• With the exception of relatively recent Asian-dominated investment in assembly firms along Honduras's northern coast, the country remained heavily dependent on United States-based multinational corporations for most of its investment needs in the early 1990s.",
+        "• Overall investment as a percentage of Honduras's GDP declined dramatically during the 1980s, decreasing from about 25 percent in 1980 to a mere 15 percent in 1990.",
+        "• Major companies such as Dole Food Company and Chiquita Brands International invested heavily in various Honduran industries, including breweries, plastics, cement, soap, cans, and shoes.",
+        "• As Honduras entered the 1990s, it faced significant economic challenges, with traditional solutions like reliance on export crops, the maquiladora assembly industry, and development schemes from the 1980s appearing insufficient to generate enough new employment for the rapidly growing population.",
+        "• The primary economic challenge for Honduras over the next decade was to identify reliable sources of sustainable economic growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:29:01.163979",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "9",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Gross Domestic Product (GDP) of Honduras was L 233 billion in 2007.",
+        "• The GDP in US dollars for 2007 was $12.3 billion.",
+        "• Using the purchasing power parity (PPP) method, Honduras's GDP was estimated at $24.69 billion in 2007 international dollars.",
+        "• The real GDP growth rate in 2007 was approximately 6%.",
+        "• The GDP per capita based on purchasing power parity was estimated at $4,700 in 2014.",
+        "• The composition of GDP by sector in 1998 was: agriculture 20%, industry 25%, and services 55%.",
+        "• As of 2006, approximately 22% of the population was below the poverty line.",
+        "• Household income or consumption distribution in 1996 showed the lowest 10% consuming 1.2% of total, while the highest 10% consumed 42.1%.",
+        "• The inflation rate for consumer prices was 14% in 1999.",
+        "• The labor force was approximately 2.3 million in 1997.",
+        "• Employment by occupation in 1998 was: agriculture 29%, industry 21%, services 60%.",
+        "• The unemployment rate was 12% in 1999, with underemployment at 30% in 1997.",
+        "• The national budget revenue was $980 million, while expenditures totaled $1.15 billion in 1998, including unspecified capital expenditures.",
+        "• Key industries include bananas, sugar, coffee, textiles, clothing, and wood products.",
+        "• Industrial production growth rate was approximately 9% in 1992.",
+        "• Electricity production in 1998 was 2,904 GWh.",
+        "• Electricity generation by source in 1998 was fossil fuels 34.44% and hydro 65.56%, with no nuclear power.",
+        "• Electricity consumption in 1998 was 2,742 GWh, with exports of 16 GWh and imports of 57 GWh.",
+        "• Major agricultural products include bananas, coffee, citrus fruits, beef, timber, and shrimp.",
+        "• Exports in 1999 were valued at approximately $1.6 billion (f.o.b.), with main commodities being coffee, bananas, shrimp, lobster, meat, zinc, and lumber.",
+        "• Honduras’s primary export partners in 1998 were the United States (73%), Japan (4%), Germany (4%), Belgium, and Spain.",
+        "• Imports in 1999 totaled about $2.7 billion (f.o.b.), with the US accounting for 60%, Guatemala 5%, and other partners including the Netherlands Antilles, Japan, Germany, Mexico, and El Salvador.",
+        "• External debt was approximately $4.4 billion in 1999.",
+        "• The country received about $557.8 million in economic aid in 1999.",
+        "• The national currency is the lempira (L), subdivided into 100 centavos.",
+        "• Exchange rates varied over the years, with L 19.00 per US$1 in October 2005, L 14.5744 in January 2000, and L 13.0942 in 1997.",
+        "• Historical GDP growth rates and inflation percentages from 1960 to 2009 show fluctuations, with notable periods of growth and decline; for example, in 1976 GDP growth was 10.5% with 8.5% inflation, while in 1982 GDP was negative at −1.4%.",
+        "• In 2007, Honduras's GDP growth was 6.3%, with inflation at 7.3%.",
+        "• The GDP growth rate slowed to 4.0% in 2008, with inflation at 7.0%, reflecting the global economic downturn.",
+        "• The 2008 GDP growth rate was 4%, down from 6.3% in 2007, attributed to decreased global demand and diminished consumer demand, as noted by the Banco Central de Honduras.",
+        "• The 2008 GDP growth rate of 4% was comparable to regional and global trends, with the world at 3.4%, the United States at 1.1%, and Central America at 3.3%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:29:13.146437",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 31
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "10",
+      "section_name": "World development indicators",
+      "chapter_name": "Economy of Honduras",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section presents Honduras' economic and development indicators from 2008 to 2013, based on data extracted from the World Bank Data webpage, illustrating the country's performance in key social and economic metrics over this period.",
+        "• Gross National Income (GNI) per capita, adjusted for purchasing power parity (PPP) and expressed in current international dollars, showed a slight fluctuation:",
+        "• 2008: $4,100",
+        "• 2009: $3,990",
+        "• 2010: $4,000",
+        "• 2011: $4,110",
+        "• 2012: $4,190",
+        "• 2013: $4,270",
+        "• The total population of Honduras increased steadily over the years:",
+        "• 2008: 7,322,368",
+        "• 2009: 7,469,844",
+        "• 2010: 7,621,204",
+        "• 2011: 7,776,669",
+        "• 2012: 7,935,846",
+        "• 2013: 8,097,688",
+        "• The country's Gross Domestic Product (GDP) in current US dollars demonstrated consistent growth:",
+        "• 2008: approximately $13.79 billion",
+        "• 2009: approximately $14.59 billion",
+        "• 2010: approximately $15.84 billion",
+        "• 2011: approximately $17.71 billion",
+        "• 2012: approximately $18.56 billion",
+        "• 2013: approximately $18.55 billion",
+        "• The annual GDP growth rate experienced variability:",
+        "• 2008: approximately 4.23%",
+        "• 2009: a decline of approximately 2.43%",
+        "• 2010: approximately 3.73%",
+        "• 2011: approximately 3.84%",
+        "• 2012: approximately 3.86%",
+        "• 2013: approximately 2.56%",
+        "• Life expectancy at birth for the total population increased gradually:",
+        "• 2008: approximately 72.23 years",
+        "• 2009: approximately 72.53 years",
+        "• 2010: approximately 72.85 years",
+        "• 2011: approximately 73.17 years",
+        "• 2012: approximately 73.49 years",
+        "• 2013: data not provided beyond this point",
+        "• The data collectively reflect Honduras' economic growth, demographic changes, and improvements in health indicators over the period from 2008 to 2013."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:29:21.426943",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 37
+      },
+      "source_file": "economy_of_honduras.json",
+      "original_index": 30
+    }
+  ]
+}

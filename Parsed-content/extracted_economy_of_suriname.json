@@ -1,0 +1,368 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_suriname.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.027752",
+    "total_sections_in_source": 15,
+    "extracted_sections_count": 15,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Suriname was historically heavily reliant on the exportation of aluminium oxide and limited quantities of aluminium, both derived from bauxite mined within the country.",
+        "• Following the exit of the aluminium company Alcoa, Suriname's economic dependence shifted primarily to the export of crude oil and gold.",
+        "• In March 2011, Suriname was ranked as the 124th safest investment destination globally according to the Euromoney Country Risk rankings."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:16.422826",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Suriname is a member of the Caribbean Community (CARICOM), which influences its trade relationships and export activities.",
+        "• The country exports agricultural products in small quantities, including rice, shrimp, timber, bananas, various fruits, and vegetables.",
+        "• The Fernandes Group is a notable Surinamese company specializing in soft drinks, which are bottled and distributed globally by Coca-Cola.",
+        "• Additional agricultural products produced in Suriname include palm kernels, coconuts, and peanuts.",
+        "• Livestock farming in Suriname contributes beef and chickens to the agricultural sector.",
+        "• Suriname also utilizes its forest resources for various forest products.",
+        "• Shrimp is another significant product derived from Suriname’s agricultural and aquaculture activities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:17.902154",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Rice",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Suriname produced a total of 273 thousand tons of rice, marking it as a significant agricultural product within the country.",
+        "• During the same year, Suriname also produced 125 thousand tons of sugar cane, indicating its importance alongside rice in the agricultural sector.",
+        "• In addition to rice and sugar cane, Suriname's agricultural output in 2018 included smaller quantities of other products such as bananas, with a production volume of 48 thousand tons.",
+        "• Orange production in Suriname for 2018 amounted to 19 thousand tons, contributing to the diversity of the country's agricultural sector.",
+        "• Coconut production in Suriname in 2018 was recorded at 14 thousand tons, further exemplifying the range of agricultural commodities produced."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:17.079153",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Hardwood",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Several large companies are engaged in the extraction of hardwood from Suriname's jungle regions.",
+        "• There have been proposals to exploit the country's tropical forests and undeveloped interior areas, which are traditionally inhabited by indigenous and Maroon communities.",
+        "• These proposals have elicited concerns from environmentalists and human rights activists both within Suriname and internationally.",
+        "• Despite these concerns, the opposing groups advocating for environmental protection and human rights are not yet strong or influential within Suriname."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:16.624175",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Bananas",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The state-owned banana producer Surland ceased operations on April 5, 2002, due to its failure to meet payroll expenses for the second consecutive month, creating uncertainty about the company's survival amid the crisis.",
+        "• Following the closure, Surland was restructured and renamed Stichting Behoud Bananen Sector Suriname (SBBS), an organization aimed at sustaining the banana sector in Suriname.",
+        "• There were rumors suggesting that political differences played a role in manipulating Surland into shutting down, indicating possible external influences on the company's closure.",
+        "• Under the management of SBBS, banana production became profitable for the first time in 20 years, marking a significant turnaround in the sector's economic viability.",
+        "• In addition to bananas, Suriname has a widespread cultivation of plantains, contributing to the country's agricultural production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:18.307897",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Gold",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Gold exports constitute between 60% and 80% of Suriname’s total export earnings, highlighting the sector's dominant role in the country’s trade balance.",
+        "• In 2021, the gold industry contributed 8.5% to Suriname’s Gross Domestic Product (GDP), underscoring its significance within the national economy.",
+        "• Large-scale mining operations account for 58% of Suriname’s total gold production, whereas small-scale mining contributes the remaining 42%.",
+        "• The gold sector’s export value reached USD 1.83 billion in 2023, demonstrating its substantial economic contribution and export revenue generation.",
+        "• In early 2025, Suriname’s gold industry came under intense scrutiny due to major oversight failures by the Foreign Currency Committee, the body responsible for monitoring gold exports and foreign currency flows.",
+        "• Finance and Planning Minister Stanley Raghoebarsing revealed that a private plane carrying gold with an official export permit was intercepted, but the shipment generated no revenue for the state, indicating irregularities in export processes.",
+        "• The incident exposed systemic issues including the issuance of numerous opaque and unjustified export permits, some of which were granted to entities not actively engaged in gold exporting activities.",
+        "• Despite elevated gold prices and increased mining activity, official gold export figures were anomalously low, suggesting discrepancies in reported data and actual exports.",
+        "• The government estimated a financial loss of at least US$300 million in recent months due to these irregularities in gold export monitoring and permit issuance.",
+        "• These oversight failures and export irregularities contributed to the depreciation of the Surinamese dollar and an increase in foreign currency prices, negatively impacting the national economy.",
+        "• Minister Stanley Raghoebarsing committed to implementing stricter oversight mechanisms and reforms to address the identified weaknesses in the gold export regulatory framework."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:17.905063",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Bauxite",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The primary foundation of Suriname's economy was the export of aluminium oxide (alumina) and limited quantities of aluminium, both derived from bauxite mined within the country.",
+        "• In 1999, the aluminium smelter located at Paranam was permanently closed, marking a significant change in the country's aluminium production infrastructure.",
+        "• In November 2015, Suralco, the company responsible for bauxite mining in Suriname, completely ceased all bauxite mining operations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:18.509203",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "Oil",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The oil sector contributes approximately 10% to Suriname's Gross Domestic Product (GDP), significantly bolstering the national economy.",
+        "• STAATSOLIE, the national oil company of Suriname, is the principal entity driving the country's oil industry, focusing primarily on oil extraction and refining activities.",
+        "• In 2012, STAATSOLIE produced 16,200 barrels of oil per day, equivalent to 2,580 cubic meters daily.",
+        "• STAATSOLIE operates the Tout Lui Faut refinery located in the District of Wanica, where it refines 16,500 barrels of oil per day.",
+        "• The company owns and manages a 96 megawatt (MW) power plant and a 189 MW hydroelectric power plant, contributing to Suriname’s energy infrastructure.",
+        "• STAATSOLIE also operates its own network of retail gas stations under the brand name Gow2.",
+        "• Additionally, STAATSOLIE is recognized as a well-established bunker fuel supplier within the Caribbean region.",
+        "• In 2022, STAATSOLIE reported total revenue of USD 840 million and contributed USD 320 million to the Surinamese state treasury.",
+        "• In 2023, the company’s revenue declined to USD 722 million due to lower oil prices per barrel, yet its contribution to the state treasury increased to USD 335 million.",
+        "• Other major companies involved in Suriname’s offshore oil sector include Total Energies, Apache, Shell, and Petronas.",
+        "• These international oil companies have entered into production sharing contracts with STAATSOLIE for offshore oil exploration and extraction; the first contract was signed in 2015.",
+        "• In 2023, three additional production sharing contracts were signed between STAATSOLIE and these foreign oil companies.",
+        "• The first offshore oil discovery in Suriname was made in 2020, marking a significant milestone in the country’s oil industry development.",
+        "• STAATSOLIE, along with local partners, Surinamese companies, and the government, is actively preparing for the expansion of the offshore oil sector.",
+        "• The initial offshore oil production is scheduled to commence with the development of oil block 58 in 2028, in which STAATSOLIE holds a 20% stake.",
+        "• It is projected that Suriname will generate approximately USD 7 billion in revenue during the first five years of offshore oil production."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:27.522665",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3",
+      "section_name": "Currency",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In January 2002, the Surinamese government renegotiated civil servant wages, agreeing to increases as high as 100%, affecting a significant portion of the workforce and government expenditure.",
+        "• Following the wage increase agreement but prior to implementation, concerns about the government's ability to meet these expenses led to a weakening of the local currency from Sf 2200 in January 2002 to nearly Sf 2500 by April 2002.",
+        "• On March 26, 2003, the Central Bank of Suriname (CBvS) adjusted the exchange rate of the U.S. dollar, resulting in further devaluation of the Surinamese guilder.",
+        "• The official exchange rate set by CBvS in March 2003 was SF 2,650 for selling and SF 2,600 for purchasing one U.S. dollar.",
+        "• This official rate brought the CBvS exchange rate closer to the parallel market rate, where the U.S. dollar was sold for SF 3,250.",
+        "• At the beginning of 2004, Suriname introduced the Surinamese dollar (SRD) to replace the Surinamese guilder (SRG) at a conversion rate of 1000 SRG to 1 SRD.",
+        "• Prior to 2004, the Surinamese guilder was subdivided into 100 cents; with the introduction of the SRD, the value of coins and currency notes was effectively multiplied by 1000, so that the value in SRD cents equaled the former value in SRG cents.",
+        "• This revaluation applied to coins and currency notes, including denominations such as SRG 1 and SRG 2.50, which had previously held very low official value but higher collector's value.",
+        "• Historical exchange rates of Surinamese guilders per U.S. dollar were as follows: 401 in 1998, 859.44 in 1999, 1,322.47 in 2000, 2,178.5 in 2001, and 2,346.75 in 2002.",
+        "• In 1998, the exchange rate fragmented into four distinct rates; in January 1999, the government floated the guilder but later fixed it when the black-market rate dropped sharply.",
+        "• Subsequently, the government allowed currency trading within a band of SRG 500 around the official exchange rate.",
+        "• Between 2004 and 2022, the value of the Surinamese dollar (SRD) was controlled by the Central Bank of Suriname, which used much of the country’s foreign currency reserves to support official exchange rates.",
+        "• Inflation and other economic factors caused the real value of the SRD to decline against other reserve currencies during this period.",
+        "• The gap between the official exchange rate and the currency’s decreasing real value facilitated the growth of black market currency trading, similar to the situation under the previous Surinamese guilder.",
+        "• In June 2021, the Central Bank of Suriname devalued the SRD by 33% and announced that the currency would float freely thereafter.",
+        "• By June 2022, official exchange rates began to reflect the real floating exchange rate of the Surinamese dollar."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:29.269972",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4",
+      "section_name": "External debt and restructuring",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of February 2021, Suriname's total external debt amounted to US$4 billion.",
+        "• Within this total debt, Suriname aimed to restructure loans totaling US$675 million.",
+        "• The government of Suriname engaged the French investment bank Lazard to serve as its financial advisor throughout the debt restructuring process."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:20.150029",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "5",
+      "section_name": "Stock Exchange",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Suriname Stock Exchange (SSX) serves as the official stock exchange of Suriname.",
+        "• The SSX was established in the year 1994 by the Association for Securities Trading in Suriname (VvES).",
+        "• The Association for Securities Trading in Suriname (VvES) was founded on January 1, 1994.",
+        "• Stock trading on the Suriname Stock Exchange does not occur on a daily basis; instead, trading sessions are held twice a month.",
+        "• These trading sessions take place on the first and third Thursday of each month.",
+        "• There are a total of twelve companies currently listed on the Suriname Stock Exchange."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:21.336314",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Major events",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In April 2025, Suriname experienced a significant increase in the price of the euro, which reached SRD 41.33.",
+        "• Finance and Planning Minister Stanley Raghoebarsing attributed the euro price surge to international developments, specifically the weakening of the U.S. dollar.",
+        "• The weakening of the U.S. dollar was linked to new American trade policies announced by U.S. President Donald Trump on 3 April 2025.",
+        "• On 3 April 2025, President Donald Trump declared a 10% tariff on all imports and higher tariff rates on goods from approximately 60 economies.",
+        "• Analysts warned that these U.S. tariff measures could potentially trigger global economic disruptions.",
+        "• Minister Raghoebarsing stressed that the rise in the euro’s value was not caused by Suriname’s domestic economic policies.",
+        "• Raghoebarsing urged the Surinamese public to remain calm and avoid panic in response to the currency fluctuations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:22.202883",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "6",
+      "section_name": "Mechanisms",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The general Chamber of Commerce and Factories (KKF) in Suriname, located in Paramaribo, was founded on 1 May 1910 and had nearly 30,000 members in 2019, collectively providing more than 150,000 jobs.",
+        "• Several international Chambers of Commerce support Suriname’s economy, including the Suriname-Netherlands Chamber of Commerce, which is established at the embassy of Suriname in The Hague.",
+        "• The Suriname-Netherlands Chamber of Commerce facilitates the founding of Surinamese companies in the Netherlands.",
+        "• Additional international Chambers include the Suriname-Guyana Chamber of Commerce, the Suriname-India Chamber of Commerce and Industry, and the Ghana-Suriname Chamber of Commerce.",
+        "• In 2021, the government of Suriname established the Suriname Investment and Trade Agency (SITA) to promote and support international investments in Suriname and to enhance exports of Surinamese products abroad."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:23.322408",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "7",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The GDP of Suriname in 1980 was 2.19 billion US$ PPP, with a nominal GDP of 1.28 billion US$, and experienced a real GDP growth rate of -6.5%; inflation, unemployment, and government debt data were not available for this year.",
+        "• From 1981 to 1989, Suriname's GDP (PPP) fluctuated between 2.29 billion and 2.79 billion US$, with real GDP growth rates ranging from -8.8% in 1987 to 10.8% in 1988; nominal GDP increased from 1.43 billion to 2.18 billion US$, but inflation, unemployment, and government debt data were not reported.",
+        "• In 1990, Suriname's GDP (PPP) was 2.85 billion US$ with a GDP per capita of 6,984.2 US$ PPP; nominal GDP was 0.58 billion US$ with a per capita of 1,413.6 US$; the real GDP growth rate was -1.5%, and government debt was 72.9% of GDP, while inflation and unemployment data were not available.",
+        "• Between 1991 and 1994, Suriname experienced volatile economic conditions: GDP (PPP) ranged from 2.54 to 2.70 billion US$, GDP per capita hovered around 6,100 to 6,440 US$ PPP, nominal GDP decreased from 0.64 to 0.52 billion US$, real GDP growth rates varied from -13.8% in 1991 to -7.0% in 1994, inflation surged from 14.0% to 255.8%, unemployment was 12.4% in 1994, and government debt declined from 75.7% to 30.5% of GDP.",
+        "• In 1995, the economy showed recovery with GDP (PPP) at 2.92 billion US$, GDP per capita of 6,676.7 US$ PPP, nominal GDP rising to 0.99 billion US$, real GDP growth of 11.3%, deflation of -49.3%, unemployment at 8.4%, and government debt at 16.3% of GDP.",
+        "• From 1996 to 1999, Suriname's GDP (PPP) increased steadily from 3.31 to 3.74 billion US$, GDP per capita rose from 7,470.8 to 8,103.4 US$ PPP, nominal GDP fluctuated between 1.23 and 1.31 billion US$, real GDP growth ranged from 11.2% to -0.9%, inflation varied widely from 4.2% to 71.9%, unemployment ranged from 8.4% to 12.0%, and government debt increased from 11.8% to 32.3% of GDP.",
+        "• In 2000, GDP (PPP) was 3.82 billion US$ with a GDP per capita of 8,180 US$ PPP; nominal GDP was 1.36 billion US$; real GDP growth was -0.1%, inflation was 44.7%, unemployment was 13.8%, and government debt was 35.7% of GDP.",
+        "• Between 2001 and 2005, Suriname's GDP (PPP) grew from 4.09 to 5.57 billion US$, GDP per capita increased from 8,646.6 to 11,171.8 US$ PPP, nominal GDP rose from 1.17 to 2.39 billion US$, real GDP growth fluctuated between 4.9% and 11.3%, inflation varied from 0.9% to 20.1%, unemployment ranged from 6.5% to 13.7%, and government debt decreased from 37.2% to 27.1% of GDP.",
+        "• From 2006 to 2010, GDP (PPP) increased from 6.07 to 7.68 billion US$, GDP per capita rose from 12,042.7 to 13,453.2 US$ PPP, nominal GDP grew from 2.81 to 4.68 billion US$, real GDP growth ranged from 3.0% to 5.8%, inflation varied between 1.3% and 10.3%, unemployment declined from 12.3% to 7.2%, and government debt fluctuated between 14.6% and 22.5% of GDP.",
+        "• In 2011 and 2012, Suriname's GDP (PPP) increased from 8.30 to 9.15 billion US$, GDP per capita rose from 15,363.4 to 16,889.6 US$ PPP, nominal GDP grew from 4.74 to 5.33 billion US$, real GDP growth slowed from 5.8% to 2.7%, inflation decreased from 5.2% to 4.3%, unemployment increased slightly from 7.5% to 8.1%, and government debt rose from 18.7% to 20.1% of GDP.",
+        "• In 2013 and 2014, GDP (PPP) increased from 9.85 to 10.23 billion US$, GDP per capita rose from 17,908.8 to 18,301.2 US$ PPP, nominal GDP grew from 5.51 to 5.61 billion US$, real GDP growth slowed to 0.3% in 2014, inflation remained low at 0.6% and 3.9%, unemployment decreased from 6.6% to 5.5%, and government debt fluctuated between 25.2% and 27.9% of GDP.",
+        "• The years 2015 and 2016 saw economic contraction with GDP (PPP) falling from 9.62 to 8.51 billion US$, GDP per capita declining from 16,962.5 to 14,777.8 US$ PPP, nominal GDP dropping from 5.13 to 3.32 billion US$, real GDP growth rates of -3.4% and -4.9%, inflation rising sharply to 25.1% and 52.4%, unemployment increasing from 7.0% to 10.0%, and government debt escalating from 41.1% to 74.8% of GDP.",
+        "• In 2017 and 2018, Suriname's GDP (PPP) rebounded to 10.23 and 9.62 billion US$, GDP per capita increased to 17,879.6 and 18,997.3 US$ PPP, nominal GDP rose to 3.59 and 4.00 billion US$, real GDP growth was 1.6% and 4.9%, inflation decreased to 9.3% and 5.4%, unemployment was 7.0% and 9.0%, and government debt declined from 71.5% to 66.1% of GDP.",
+        "• In 2019, GDP (PPP) declined to 8.51 billion US$ with a GDP per capita of 19,292.1 US$ PPP; nominal GDP was 3.98 billion US$; real GDP growth was 1.1%, inflation was 4.2%, unemployment was 8.8%, and government debt rose to 80.8% of GDP.",
+        "• The year 2020 marked a severe economic downturn with GDP (PPP) at 9.83 billion US$, GDP per capita at 16,311.2 US$ PPP, nominal GDP at 2.88 billion US$, real GDP contraction of -15.9%, inflation soaring to 60.7%, unemployment at 11.1%, and government debt sharply increasing to 143.8% of GDP.",
+        "• In 2021, GDP (PPP) slightly increased to 9.99 billion US$, GDP per capita was 16,379.9 US$ PPP, nominal GDP was 2.99 billion US$, real GDP growth was -2.7%, inflation remained at 60.7%, unemployment was 11.2%, and government debt decreased to 117.0% of GDP.",
+        "• IMF staff estimates for 2022 project GDP (PPP) at 10.83 billion US$, GDP per capita at 17,549.9 US$ PPP, nominal GDP at 3.52 billion US$, real GDP growth of 1.3%, inflation at 54.6%, unemployment at 10.9%, and government debt at 123.2% of GDP.",
+        "• For 2023, GDP (PPP) is estimated at 11.51 billion US$, GDP per capita at 18,427.1 US$ PPP, nominal GDP at 3.47 billion US$, real GDP growth of 2.3%, inflation at 28.2%, unemployment at 10.6%, and government debt at 112.2% of GDP.",
+        "• Projections for 2024 indicate GDP (PPP) of 12.11 billion US$, GDP per capita of 19,871.4 US$ PPP, nominal GDP of 3.78 billion US$, real GDP growth of 3.0%, inflation at 15.1%, unemployment at 10.3%, and government debt at 103.2% of GDP.",
+        "• For 2025, GDP (PPP) is forecasted at 12.71 billion US$, GDP per"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:06:01.432581",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "8",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Suriname",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, Suriname achieved an electrification rate of 97.4% for its total population, with urban areas reaching 99% and rural areas 94.3%.",
+        "• As of 2020, Suriname's installed electricity generating capacity was 542,000 kW.",
+        "• Electricity consumption in Suriname was estimated at 2,938,391,000 kWh in 2019.",
+        "• Suriname did not export electricity in 2019, with exports recorded at 0 kWh.",
+        "• The country imported 808 million kWh of electricity in 2019.",
+        "• Transmission and distribution losses accounted for 234 million kWh of electricity in 2019.",
+        "• The composition of Suriname’s electricity generation capacity in 2020 was 40.5% from fossil fuels, 58.8% from hydroelectricity, 0.4% from solar energy, and 0.3% from biomass and waste, with no capacity from nuclear, wind, tide and wave, or geothermal sources.",
+        "• In 2020, Suriname reported no production, consumption, exports, or imports of coal and gas reserves.",
+        "• Suriname’s total petroleum production was estimated at 14,800 barrels per day (bbl/day) in 2021.",
+        "• Refined petroleum consumption was 15,800 bbl/day in 2019.",
+        "• Crude oil and lease condensate exports were zero bbl/day in 2018, while imports were 200 bbl/day in the same year.",
+        "• Estimated crude oil reserves in Suriname stood at 89 million barrels in 2021.",
+        "• In 2015, Suriname produced 7,571 bbl/day of refined petroleum products, ranking 101st globally.",
+        "• Refined petroleum product exports were 14,000 bbl/day in 2015, placing Suriname 74th worldwide.",
+        "• Refined petroleum product imports were 10,700 bbl/day in 2015, with a global ranking of 145.",
+        "• Suriname’s carbon dioxide emissions totaled 2.372 million metric tonnes in 2019.",
+        "• Emissions from coal and metallurgical coke were zero metric tonnes of CO2 in 2019.",
+        "• Emissions from petroleum and other liquids accounted for 2.361 million metric tonnes of CO2 in 2019.",
+        "• Emissions from consumed natural gas were 11,000 metric tonnes of CO2 in 2019.",
+        "• Suriname ranked 156th globally in carbon dioxide emissions in 2019.",
+        "• Energy consumption per capita in Suriname was 82.356 million British thermal units (Btu) per person in 2019, ranking 71st in the world."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:05:25.372448",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_suriname.json",
+      "original_index": 14
+    }
+  ]
+}

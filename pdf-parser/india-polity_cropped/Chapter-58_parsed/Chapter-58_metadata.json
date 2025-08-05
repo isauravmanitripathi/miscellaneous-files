@@ -1,0 +1,346 @@
+{
+  "table_of_contents": [
+    {
+      "title": "58 State Information Commission",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          105.75
+        ],
+        [
+          493.6640625,
+          105.75
+        ],
+        [
+          493.6640625,
+          130.904296875
+        ],
+        [
+          105.0,
+          130.904296875
+        ]
+      ]
+    },
+    {
+      "title": "COMPOSITION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.0,
+          87.83349609375
+        ],
+        [
+          231.890625,
+          87.83349609375
+        ],
+        [
+          231.890625,
+          106.154296875
+        ],
+        [
+          105.0,
+          106.154296875
+        ]
+      ]
+    },
+    {
+      "title": "TENURE AND SERVICE CONDITIONS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          104.4404296875,
+          87.978515625
+        ],
+        [
+          412.98046875,
+          87.978515625
+        ],
+        [
+          412.98046875,
+          106.4443359375
+        ],
+        [
+          104.4404296875,
+          106.4443359375
+        ]
+      ]
+    },
+    {
+      "title": "POWERS AND FUNCTIONS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          105.0,
+          87.06005859375
+        ],
+        [
+          327.515625,
+          87.06005859375
+        ],
+        [
+          327.515625,
+          106.154296875
+        ],
+        [
+          105.0,
+          106.154296875
+        ]
+      ]
+    },
+    {
+      "title": "RTI AMENDMENT ACT, 2019",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          104.291015625,
+          87.3984375
+        ],
+        [
+          340.962890625,
+          87.3984375
+        ],
+        [
+          340.962890625,
+          106.154296875
+        ],
+        [
+          104.291015625,
+          106.154296875
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          105.0,
+          684.4921875
+        ],
+        [
+          301.81640625,
+          684.4921875
+        ],
+        [
+          301.81640625,
+          701.5078125
+        ],
+        [
+          105.0,
+          701.5078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          9
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

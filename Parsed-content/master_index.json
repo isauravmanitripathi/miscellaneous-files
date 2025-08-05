@@ -1,0 +1,2315 @@
+{
+  "extraction_summary": {
+    "extraction_timestamp": "2025-08-02T17:13:29.453778",
+    "source_folder": "/Volumes/hard-drive/miscellaneous-files/wikipedia/wiki-gov-exam/json",
+    "total_files_processed": 192,
+    "total_sections_extracted": 3607,
+    "total_sections_skipped": 21
+  },
+  "files": [
+    {
+      "filename": "economy_of_afghanistan.json",
+      "extracted_filename": "extracted_economy_of_afghanistan.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_afghanistan.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.215121",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_albania.json",
+      "extracted_filename": "extracted_economy_of_albania.json",
+      "sections_count": 16,
+      "extraction_info": {
+        "source_file": "economy_of_albania.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.260657",
+        "total_sections_in_source": 16,
+        "extracted_sections_count": 16,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_algeria.json",
+      "extracted_filename": "extracted_economy_of_algeria.json",
+      "sections_count": 15,
+      "extraction_info": {
+        "source_file": "economy_of_algeria.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.276500",
+        "total_sections_in_source": 15,
+        "extracted_sections_count": 15,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_andorra.json",
+      "extracted_filename": "extracted_economy_of_andorra.json",
+      "sections_count": 4,
+      "extraction_info": {
+        "source_file": "economy_of_andorra.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.278729",
+        "total_sections_in_source": 4,
+        "extracted_sections_count": 4,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_angola.json",
+      "extracted_filename": "extracted_economy_of_angola.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_angola.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.283575",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_antigua_and_barbuda.json",
+      "extracted_filename": "extracted_economy_of_antigua_and_barbuda.json",
+      "sections_count": 17,
+      "extraction_info": {
+        "source_file": "economy_of_antigua_and_barbuda.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.292930",
+        "total_sections_in_source": 17,
+        "extracted_sections_count": 17,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_argentina.json",
+      "extracted_filename": "extracted_economy_of_argentina.json",
+      "sections_count": 20,
+      "extraction_info": {
+        "source_file": "economy_of_argentina.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.308145",
+        "total_sections_in_source": 20,
+        "extracted_sections_count": 20,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_armenia.json",
+      "extracted_filename": "extracted_economy_of_armenia.json",
+      "sections_count": 65,
+      "extraction_info": {
+        "source_file": "economy_of_armenia.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.323638",
+        "total_sections_in_source": 66,
+        "extracted_sections_count": 65,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_australia.json",
+      "extracted_filename": "extracted_economy_of_australia.json",
+      "sections_count": 39,
+      "extraction_info": {
+        "source_file": "economy_of_australia.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.363500",
+        "total_sections_in_source": 39,
+        "extracted_sections_count": 39,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_austria.json",
+      "extracted_filename": "extracted_economy_of_austria.json",
+      "sections_count": 14,
+      "extraction_info": {
+        "source_file": "economy_of_austria.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.396627",
+        "total_sections_in_source": 14,
+        "extracted_sections_count": 14,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_azerbaijan.json",
+      "extracted_filename": "extracted_economy_of_azerbaijan.json",
+      "sections_count": 14,
+      "extraction_info": {
+        "source_file": "economy_of_azerbaijan.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.404000",
+        "total_sections_in_source": 14,
+        "extracted_sections_count": 14,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_bahrain.json",
+      "extracted_filename": "extracted_economy_of_bahrain.json",
+      "sections_count": 7,
+      "extraction_info": {
+        "source_file": "economy_of_bahrain.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.414894",
+        "total_sections_in_source": 7,
+        "extracted_sections_count": 7,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_bangladesh.json",
+      "extracted_filename": "extracted_economy_of_bangladesh.json",
+      "sections_count": 26,
+      "extraction_info": {
+        "source_file": "economy_of_bangladesh.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.432783",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 26,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_barbados.json",
+      "extracted_filename": "extracted_economy_of_barbados.json",
+      "sections_count": 22,
+      "extraction_info": {
+        "source_file": "economy_of_barbados.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.449729",
+        "total_sections_in_source": 22,
+        "extracted_sections_count": 22,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_belarus.json",
+      "extracted_filename": "extracted_economy_of_belarus.json",
+      "sections_count": 33,
+      "extraction_info": {
+        "source_file": "economy_of_belarus.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.463963",
+        "total_sections_in_source": 33,
+        "extracted_sections_count": 33,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_belgium.json",
+      "extracted_filename": "extracted_economy_of_belgium.json",
+      "sections_count": 13,
+      "extraction_info": {
+        "source_file": "economy_of_belgium.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.501294",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 13,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_belize.json",
+      "extracted_filename": "extracted_economy_of_belize.json",
+      "sections_count": 9,
+      "extraction_info": {
+        "source_file": "economy_of_belize.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.516839",
+        "total_sections_in_source": 9,
+        "extracted_sections_count": 9,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_benin.json",
+      "extracted_filename": "extracted_economy_of_benin.json",
+      "sections_count": 5,
+      "extraction_info": {
+        "source_file": "economy_of_benin.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.523891",
+        "total_sections_in_source": 5,
+        "extracted_sections_count": 5,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_bhutan.json",
+      "extracted_filename": "extracted_economy_of_bhutan.json",
+      "sections_count": 4,
+      "extraction_info": {
+        "source_file": "economy_of_bhutan.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.525548",
+        "total_sections_in_source": 4,
+        "extracted_sections_count": 4,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_bolivia.json",
+      "extracted_filename": "extracted_economy_of_bolivia.json",
+      "sections_count": 23,
+      "extraction_info": {
+        "source_file": "economy_of_bolivia.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.534094",
+        "total_sections_in_source": 23,
+        "extracted_sections_count": 23,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_bosnia_and_herzegovina.json",
+      "extracted_filename": "extracted_economy_of_bosnia_and_herzegovina.json",
+      "sections_count": 20,
+      "extraction_info": {
+        "source_file": "economy_of_bosnia_and_herzegovina.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.541780",
+        "total_sections_in_source": 20,
+        "extracted_sections_count": 20,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_botswana.json",
+      "extracted_filename": "extracted_economy_of_botswana.json",
+      "sections_count": 11,
+      "extraction_info": {
+        "source_file": "economy_of_botswana.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.554918",
+        "total_sections_in_source": 11,
+        "extracted_sections_count": 11,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_brazil.json",
+      "extracted_filename": "extracted_economy_of_brazil.json",
+      "sections_count": 25,
+      "extraction_info": {
+        "source_file": "economy_of_brazil.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.564181",
+        "total_sections_in_source": 25,
+        "extracted_sections_count": 25,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_brunei.json",
+      "extracted_filename": "extracted_economy_of_brunei.json",
+      "sections_count": 5,
+      "extraction_info": {
+        "source_file": "economy_of_brunei.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.577859",
+        "total_sections_in_source": 5,
+        "extracted_sections_count": 5,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_bulgaria.json",
+      "extracted_filename": "extracted_economy_of_bulgaria.json",
+      "sections_count": 24,
+      "extraction_info": {
+        "source_file": "economy_of_bulgaria.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.586499",
+        "total_sections_in_source": 24,
+        "extracted_sections_count": 24,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_burkina_faso.json",
+      "extracted_filename": "extracted_economy_of_burkina_faso.json",
+      "sections_count": 5,
+      "extraction_info": {
+        "source_file": "economy_of_burkina_faso.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.594127",
+        "total_sections_in_source": 5,
+        "extracted_sections_count": 5,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_burundi.json",
+      "extracted_filename": "extracted_economy_of_burundi.json",
+      "sections_count": 5,
+      "extraction_info": {
+        "source_file": "economy_of_burundi.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.598105",
+        "total_sections_in_source": 5,
+        "extracted_sections_count": 5,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_cambodia.json",
+      "extracted_filename": "extracted_economy_of_cambodia.json",
+      "sections_count": 19,
+      "extraction_info": {
+        "source_file": "economy_of_cambodia.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.609338",
+        "total_sections_in_source": 19,
+        "extracted_sections_count": 19,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_cameroon.json",
+      "extracted_filename": "extracted_economy_of_cameroon.json",
+      "sections_count": 5,
+      "extraction_info": {
+        "source_file": "economy_of_cameroon.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.612956",
+        "total_sections_in_source": 5,
+        "extracted_sections_count": 5,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_canada.json",
+      "extracted_filename": "extracted_economy_of_canada.json",
+      "sections_count": 29,
+      "extraction_info": {
+        "source_file": "economy_of_canada.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.620913",
+        "total_sections_in_source": 30,
+        "extracted_sections_count": 29,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_cape_verde.json",
+      "extracted_filename": "extracted_economy_of_cape_verde.json",
+      "sections_count": 6,
+      "extraction_info": {
+        "source_file": "economy_of_cape_verde.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.629892",
+        "total_sections_in_source": 6,
+        "extracted_sections_count": 6,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_chad.json",
+      "extracted_filename": "extracted_economy_of_chad.json",
+      "sections_count": 4,
+      "extraction_info": {
+        "source_file": "economy_of_chad.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.643731",
+        "total_sections_in_source": 4,
+        "extracted_sections_count": 4,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_chile.json",
+      "extracted_filename": "extracted_economy_of_chile.json",
+      "sections_count": 24,
+      "extraction_info": {
+        "source_file": "economy_of_chile.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.651535",
+        "total_sections_in_source": 24,
+        "extracted_sections_count": 24,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_china.json",
+      "extracted_filename": "extracted_economy_of_china.json",
+      "sections_count": 51,
+      "extraction_info": {
+        "source_file": "economy_of_china.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.665503",
+        "total_sections_in_source": 51,
+        "extracted_sections_count": 51,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_colombia.json",
+      "extracted_filename": "extracted_economy_of_colombia.json",
+      "sections_count": 27,
+      "extraction_info": {
+        "source_file": "economy_of_colombia.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.683670",
+        "total_sections_in_source": 27,
+        "extracted_sections_count": 27,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_costa_rica.json",
+      "extracted_filename": "extracted_economy_of_costa_rica.json",
+      "sections_count": 13,
+      "extraction_info": {
+        "source_file": "economy_of_costa_rica.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.692811",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 13,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_croatia.json",
+      "extracted_filename": "extracted_economy_of_croatia.json",
+      "sections_count": 19,
+      "extraction_info": {
+        "source_file": "economy_of_croatia.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.700511",
+        "total_sections_in_source": 21,
+        "extracted_sections_count": 19,
+        "skipped_sections_count": 2
+      }
+    },
+    {
+      "filename": "economy_of_cuba.json",
+      "extracted_filename": "extracted_economy_of_cuba.json",
+      "sections_count": 25,
+      "extraction_info": {
+        "source_file": "economy_of_cuba.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.708270",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 25,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_cyprus.json",
+      "extracted_filename": "extracted_economy_of_cyprus.json",
+      "sections_count": 15,
+      "extraction_info": {
+        "source_file": "economy_of_cyprus.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.724255",
+        "total_sections_in_source": 15,
+        "extracted_sections_count": 15,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_denmark.json",
+      "extracted_filename": "extracted_economy_of_denmark.json",
+      "sections_count": 26,
+      "extraction_info": {
+        "source_file": "economy_of_denmark.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.736077",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 26,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_djibouti.json",
+      "extracted_filename": "extracted_economy_of_djibouti.json",
+      "sections_count": 11,
+      "extraction_info": {
+        "source_file": "economy_of_djibouti.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.742534",
+        "total_sections_in_source": 11,
+        "extracted_sections_count": 11,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_dominica.json",
+      "extracted_filename": "extracted_economy_of_dominica.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_dominica.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.756498",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_ecuador.json",
+      "extracted_filename": "extracted_economy_of_ecuador.json",
+      "sections_count": 11,
+      "extraction_info": {
+        "source_file": "economy_of_ecuador.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.768674",
+        "total_sections_in_source": 11,
+        "extracted_sections_count": 11,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_egypt.json",
+      "extracted_filename": "extracted_economy_of_egypt.json",
+      "sections_count": 46,
+      "extraction_info": {
+        "source_file": "economy_of_egypt.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.787434",
+        "total_sections_in_source": 46,
+        "extracted_sections_count": 46,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_el_salvador.json",
+      "extracted_filename": "extracted_economy_of_el_salvador.json",
+      "sections_count": 14,
+      "extraction_info": {
+        "source_file": "economy_of_el_salvador.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.790788",
+        "total_sections_in_source": 14,
+        "extracted_sections_count": 14,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_equatorial_guinea.json",
+      "extracted_filename": "extracted_economy_of_equatorial_guinea.json",
+      "sections_count": 6,
+      "extraction_info": {
+        "source_file": "economy_of_equatorial_guinea.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.799184",
+        "total_sections_in_source": 6,
+        "extracted_sections_count": 6,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_eritrea.json",
+      "extracted_filename": "extracted_economy_of_eritrea.json",
+      "sections_count": 14,
+      "extraction_info": {
+        "source_file": "economy_of_eritrea.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.807610",
+        "total_sections_in_source": 14,
+        "extracted_sections_count": 14,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_estonia.json",
+      "extracted_filename": "extracted_economy_of_estonia.json",
+      "sections_count": 18,
+      "extraction_info": {
+        "source_file": "economy_of_estonia.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.819576",
+        "total_sections_in_source": 18,
+        "extracted_sections_count": 18,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_eswatini.json",
+      "extracted_filename": "extracted_economy_of_eswatini.json",
+      "sections_count": 8,
+      "extraction_info": {
+        "source_file": "economy_of_eswatini.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.830558",
+        "total_sections_in_source": 8,
+        "extracted_sections_count": 8,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_ethiopia.json",
+      "extracted_filename": "extracted_economy_of_ethiopia.json",
+      "sections_count": 17,
+      "extraction_info": {
+        "source_file": "economy_of_ethiopia.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.841830",
+        "total_sections_in_source": 17,
+        "extracted_sections_count": 17,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_fiji.json",
+      "extracted_filename": "extracted_economy_of_fiji.json",
+      "sections_count": 25,
+      "extraction_info": {
+        "source_file": "economy_of_fiji.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.850079",
+        "total_sections_in_source": 27,
+        "extracted_sections_count": 25,
+        "skipped_sections_count": 2
+      }
+    },
+    {
+      "filename": "economy_of_finland.json",
+      "extracted_filename": "extracted_economy_of_finland.json",
+      "sections_count": 24,
+      "extraction_info": {
+        "source_file": "economy_of_finland.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.865431",
+        "total_sections_in_source": 24,
+        "extracted_sections_count": 24,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_france.json",
+      "extracted_filename": "extracted_economy_of_france.json",
+      "sections_count": 23,
+      "extraction_info": {
+        "source_file": "economy_of_france.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.871117",
+        "total_sections_in_source": 23,
+        "extracted_sections_count": 23,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_gabon.json",
+      "extracted_filename": "extracted_economy_of_gabon.json",
+      "sections_count": 4,
+      "extraction_info": {
+        "source_file": "economy_of_gabon.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.880949",
+        "total_sections_in_source": 4,
+        "extracted_sections_count": 4,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_germany.json",
+      "extracted_filename": "extracted_economy_of_germany.json",
+      "sections_count": 27,
+      "extraction_info": {
+        "source_file": "economy_of_germany.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.900877",
+        "total_sections_in_source": 27,
+        "extracted_sections_count": 27,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_ghana.json",
+      "extracted_filename": "extracted_economy_of_ghana.json",
+      "sections_count": 26,
+      "extraction_info": {
+        "source_file": "economy_of_ghana.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.920151",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 26,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_greece.json",
+      "extracted_filename": "extracted_economy_of_greece.json",
+      "sections_count": 32,
+      "extraction_info": {
+        "source_file": "economy_of_greece.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.938075",
+        "total_sections_in_source": 32,
+        "extracted_sections_count": 32,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_grenada.json",
+      "extracted_filename": "extracted_economy_of_grenada.json",
+      "sections_count": 7,
+      "extraction_info": {
+        "source_file": "economy_of_grenada.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.953534",
+        "total_sections_in_source": 7,
+        "extracted_sections_count": 7,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_guatemala.json",
+      "extracted_filename": "extracted_economy_of_guatemala.json",
+      "sections_count": 16,
+      "extraction_info": {
+        "source_file": "economy_of_guatemala.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.968815",
+        "total_sections_in_source": 16,
+        "extracted_sections_count": 16,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_guinea-bissau.json",
+      "extracted_filename": "extracted_economy_of_guinea-bissau.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_guinea-bissau.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.980698",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_guinea.json",
+      "extracted_filename": "extracted_economy_of_guinea.json",
+      "sections_count": 8,
+      "extraction_info": {
+        "source_file": "economy_of_guinea.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.986311",
+        "total_sections_in_source": 8,
+        "extracted_sections_count": 8,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_guyana.json",
+      "extracted_filename": "extracted_economy_of_guyana.json",
+      "sections_count": 15,
+      "extraction_info": {
+        "source_file": "economy_of_guyana.json",
+        "extraction_timestamp": "2025-08-02T17:13:27.995326",
+        "total_sections_in_source": 15,
+        "extracted_sections_count": 15,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_haiti.json",
+      "extracted_filename": "extracted_economy_of_haiti.json",
+      "sections_count": 16,
+      "extraction_info": {
+        "source_file": "economy_of_haiti.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.007444",
+        "total_sections_in_source": 16,
+        "extracted_sections_count": 16,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_honduras.json",
+      "extracted_filename": "extracted_economy_of_honduras.json",
+      "sections_count": 31,
+      "extraction_info": {
+        "source_file": "economy_of_honduras.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.023890",
+        "total_sections_in_source": 31,
+        "extracted_sections_count": 31,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_hungary.json",
+      "extracted_filename": "extracted_economy_of_hungary.json",
+      "sections_count": 31,
+      "extraction_info": {
+        "source_file": "economy_of_hungary.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.038871",
+        "total_sections_in_source": 32,
+        "extracted_sections_count": 31,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_iceland.json",
+      "extracted_filename": "extracted_economy_of_iceland.json",
+      "sections_count": 18,
+      "extraction_info": {
+        "source_file": "economy_of_iceland.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.042821",
+        "total_sections_in_source": 18,
+        "extracted_sections_count": 18,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_india.json",
+      "extracted_filename": "extracted_economy_of_india.json",
+      "sections_count": 58,
+      "extraction_info": {
+        "source_file": "economy_of_india.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.057755",
+        "total_sections_in_source": 59,
+        "extracted_sections_count": 58,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_indonesia.json",
+      "extracted_filename": "extracted_economy_of_indonesia.json",
+      "sections_count": 40,
+      "extraction_info": {
+        "source_file": "economy_of_indonesia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.072673",
+        "total_sections_in_source": 40,
+        "extracted_sections_count": 40,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_iran.json",
+      "extracted_filename": "extracted_economy_of_iran.json",
+      "sections_count": 39,
+      "extraction_info": {
+        "source_file": "economy_of_iran.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.091908",
+        "total_sections_in_source": 39,
+        "extracted_sections_count": 39,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_iraq.json",
+      "extracted_filename": "extracted_economy_of_iraq.json",
+      "sections_count": 18,
+      "extraction_info": {
+        "source_file": "economy_of_iraq.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.107087",
+        "total_sections_in_source": 18,
+        "extracted_sections_count": 18,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_israel.json",
+      "extracted_filename": "extracted_economy_of_israel.json",
+      "sections_count": 26,
+      "extraction_info": {
+        "source_file": "economy_of_israel.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.115609",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 26,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_italy.json",
+      "extracted_filename": "extracted_economy_of_italy.json",
+      "sections_count": 24,
+      "extraction_info": {
+        "source_file": "economy_of_italy.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.130236",
+        "total_sections_in_source": 24,
+        "extracted_sections_count": 24,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_ivory_coast.json",
+      "extracted_filename": "extracted_economy_of_ivory_coast.json",
+      "sections_count": 11,
+      "extraction_info": {
+        "source_file": "economy_of_ivory_coast.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.143166",
+        "total_sections_in_source": 11,
+        "extracted_sections_count": 11,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_jamaica.json",
+      "extracted_filename": "extracted_economy_of_jamaica.json",
+      "sections_count": 13,
+      "extraction_info": {
+        "source_file": "economy_of_jamaica.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.156531",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 13,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_japan.json",
+      "extracted_filename": "extracted_economy_of_japan.json",
+      "sections_count": 26,
+      "extraction_info": {
+        "source_file": "economy_of_japan.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.166636",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 26,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_jordan.json",
+      "extracted_filename": "extracted_economy_of_jordan.json",
+      "sections_count": 22,
+      "extraction_info": {
+        "source_file": "economy_of_jordan.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.177808",
+        "total_sections_in_source": 22,
+        "extracted_sections_count": 22,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_kazakhstan.json",
+      "extracted_filename": "extracted_economy_of_kazakhstan.json",
+      "sections_count": 26,
+      "extraction_info": {
+        "source_file": "economy_of_kazakhstan.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.184619",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 26,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_kenya.json",
+      "extracted_filename": "extracted_economy_of_kenya.json",
+      "sections_count": 29,
+      "extraction_info": {
+        "source_file": "economy_of_kenya.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.198471",
+        "total_sections_in_source": 29,
+        "extracted_sections_count": 29,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_kiribati.json",
+      "extracted_filename": "extracted_economy_of_kiribati.json",
+      "sections_count": 5,
+      "extraction_info": {
+        "source_file": "economy_of_kiribati.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.201196",
+        "total_sections_in_source": 5,
+        "extracted_sections_count": 5,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_kuwait.json",
+      "extracted_filename": "extracted_economy_of_kuwait.json",
+      "sections_count": 14,
+      "extraction_info": {
+        "source_file": "economy_of_kuwait.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.210403",
+        "total_sections_in_source": 14,
+        "extracted_sections_count": 14,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_kyrgyzstan.json",
+      "extracted_filename": "extracted_economy_of_kyrgyzstan.json",
+      "sections_count": 13,
+      "extraction_info": {
+        "source_file": "economy_of_kyrgyzstan.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.217727",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 13,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_laos.json",
+      "extracted_filename": "extracted_economy_of_laos.json",
+      "sections_count": 5,
+      "extraction_info": {
+        "source_file": "economy_of_laos.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.225570",
+        "total_sections_in_source": 5,
+        "extracted_sections_count": 5,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_latvia.json",
+      "extracted_filename": "extracted_economy_of_latvia.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_latvia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.228400",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_lebanon.json",
+      "extracted_filename": "extracted_economy_of_lebanon.json",
+      "sections_count": 24,
+      "extraction_info": {
+        "source_file": "economy_of_lebanon.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.241016",
+        "total_sections_in_source": 24,
+        "extracted_sections_count": 24,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_lesotho.json",
+      "extracted_filename": "extracted_economy_of_lesotho.json",
+      "sections_count": 8,
+      "extraction_info": {
+        "source_file": "economy_of_lesotho.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.256520",
+        "total_sections_in_source": 8,
+        "extracted_sections_count": 8,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_liberia.json",
+      "extracted_filename": "extracted_economy_of_liberia.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_liberia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.258619",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_libya.json",
+      "extracted_filename": "extracted_economy_of_libya.json",
+      "sections_count": 11,
+      "extraction_info": {
+        "source_file": "economy_of_libya.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.265282",
+        "total_sections_in_source": 11,
+        "extracted_sections_count": 11,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_liechtenstein.json",
+      "extracted_filename": "extracted_economy_of_liechtenstein.json",
+      "sections_count": 13,
+      "extraction_info": {
+        "source_file": "economy_of_liechtenstein.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.269707",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 13,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_lithuania.json",
+      "extracted_filename": "extracted_economy_of_lithuania.json",
+      "sections_count": 32,
+      "extraction_info": {
+        "source_file": "economy_of_lithuania.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.287289",
+        "total_sections_in_source": 32,
+        "extracted_sections_count": 32,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_luxembourg.json",
+      "extracted_filename": "extracted_economy_of_luxembourg.json",
+      "sections_count": 14,
+      "extraction_info": {
+        "source_file": "economy_of_luxembourg.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.290263",
+        "total_sections_in_source": 14,
+        "extracted_sections_count": 14,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_madagascar.json",
+      "extracted_filename": "extracted_economy_of_madagascar.json",
+      "sections_count": 13,
+      "extraction_info": {
+        "source_file": "economy_of_madagascar.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.298177",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 13,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_malawi.json",
+      "extracted_filename": "extracted_economy_of_malawi.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_malawi.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.309416",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_malaysia.json",
+      "extracted_filename": "extracted_economy_of_malaysia.json",
+      "sections_count": 39,
+      "extraction_info": {
+        "source_file": "economy_of_malaysia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.325133",
+        "total_sections_in_source": 39,
+        "extracted_sections_count": 39,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_mali.json",
+      "extracted_filename": "extracted_economy_of_mali.json",
+      "sections_count": 15,
+      "extraction_info": {
+        "source_file": "economy_of_mali.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.335241",
+        "total_sections_in_source": 15,
+        "extracted_sections_count": 15,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_malta.json",
+      "extracted_filename": "extracted_economy_of_malta.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_malta.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.337541",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_mauritania.json",
+      "extracted_filename": "extracted_economy_of_mauritania.json",
+      "sections_count": 6,
+      "extraction_info": {
+        "source_file": "economy_of_mauritania.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.339500",
+        "total_sections_in_source": 6,
+        "extracted_sections_count": 6,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_mauritius.json",
+      "extracted_filename": "extracted_economy_of_mauritius.json",
+      "sections_count": 13,
+      "extraction_info": {
+        "source_file": "economy_of_mauritius.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.348379",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 13,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_mexico.json",
+      "extracted_filename": "extracted_economy_of_mexico.json",
+      "sections_count": 43,
+      "extraction_info": {
+        "source_file": "economy_of_mexico.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.365127",
+        "total_sections_in_source": 43,
+        "extracted_sections_count": 43,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_moldova.json",
+      "extracted_filename": "extracted_economy_of_moldova.json",
+      "sections_count": 20,
+      "extraction_info": {
+        "source_file": "economy_of_moldova.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.375963",
+        "total_sections_in_source": 20,
+        "extracted_sections_count": 20,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_monaco.json",
+      "extracted_filename": "extracted_economy_of_monaco.json",
+      "sections_count": 7,
+      "extraction_info": {
+        "source_file": "economy_of_monaco.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.384807",
+        "total_sections_in_source": 7,
+        "extracted_sections_count": 7,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_mongolia.json",
+      "extracted_filename": "extracted_economy_of_mongolia.json",
+      "sections_count": 11,
+      "extraction_info": {
+        "source_file": "economy_of_mongolia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.393011",
+        "total_sections_in_source": 11,
+        "extracted_sections_count": 11,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_montenegro.json",
+      "extracted_filename": "extracted_economy_of_montenegro.json",
+      "sections_count": 16,
+      "extraction_info": {
+        "source_file": "economy_of_montenegro.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.406384",
+        "total_sections_in_source": 16,
+        "extracted_sections_count": 16,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_morocco.json",
+      "extracted_filename": "extracted_economy_of_morocco.json",
+      "sections_count": 53,
+      "extraction_info": {
+        "source_file": "economy_of_morocco.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.422691",
+        "total_sections_in_source": 53,
+        "extracted_sections_count": 53,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_mozambique.json",
+      "extracted_filename": "extracted_economy_of_mozambique.json",
+      "sections_count": 19,
+      "extraction_info": {
+        "source_file": "economy_of_mozambique.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.438419",
+        "total_sections_in_source": 19,
+        "extracted_sections_count": 19,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_myanmar.json",
+      "extracted_filename": "extracted_economy_of_myanmar.json",
+      "sections_count": 23,
+      "extraction_info": {
+        "source_file": "economy_of_myanmar.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.442275",
+        "total_sections_in_source": 23,
+        "extracted_sections_count": 23,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_namibia.json",
+      "extracted_filename": "extracted_economy_of_namibia.json",
+      "sections_count": 15,
+      "extraction_info": {
+        "source_file": "economy_of_namibia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.453207",
+        "total_sections_in_source": 15,
+        "extracted_sections_count": 15,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_nauru.json",
+      "extracted_filename": "extracted_economy_of_nauru.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_nauru.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.469931",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_nepal.json",
+      "extracted_filename": "extracted_economy_of_nepal.json",
+      "sections_count": 6,
+      "extraction_info": {
+        "source_file": "economy_of_nepal.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.479224",
+        "total_sections_in_source": 6,
+        "extracted_sections_count": 6,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_new_zealand.json",
+      "extracted_filename": "extracted_economy_of_new_zealand.json",
+      "sections_count": 41,
+      "extraction_info": {
+        "source_file": "economy_of_new_zealand.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.495359",
+        "total_sections_in_source": 42,
+        "extracted_sections_count": 41,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_nicaragua.json",
+      "extracted_filename": "extracted_economy_of_nicaragua.json",
+      "sections_count": 8,
+      "extraction_info": {
+        "source_file": "economy_of_nicaragua.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.507620",
+        "total_sections_in_source": 8,
+        "extracted_sections_count": 8,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_niger.json",
+      "extracted_filename": "extracted_economy_of_niger.json",
+      "sections_count": 24,
+      "extraction_info": {
+        "source_file": "economy_of_niger.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.523127",
+        "total_sections_in_source": 24,
+        "extracted_sections_count": 24,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_nigeria.json",
+      "extracted_filename": "extracted_economy_of_nigeria.json",
+      "sections_count": 54,
+      "extraction_info": {
+        "source_file": "economy_of_nigeria.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.532216",
+        "total_sections_in_source": 54,
+        "extracted_sections_count": 54,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_north_korea.json",
+      "extracted_filename": "extracted_economy_of_north_korea.json",
+      "sections_count": 34,
+      "extraction_info": {
+        "source_file": "economy_of_north_korea.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.553142",
+        "total_sections_in_source": 34,
+        "extracted_sections_count": 34,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_north_macedonia.json",
+      "extracted_filename": "extracted_economy_of_north_macedonia.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_north_macedonia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.570313",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_norway.json",
+      "extracted_filename": "extracted_economy_of_norway.json",
+      "sections_count": 17,
+      "extraction_info": {
+        "source_file": "economy_of_norway.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.585732",
+        "total_sections_in_source": 17,
+        "extracted_sections_count": 17,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_oman.json",
+      "extracted_filename": "extracted_economy_of_oman.json",
+      "sections_count": 6,
+      "extraction_info": {
+        "source_file": "economy_of_oman.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.600355",
+        "total_sections_in_source": 6,
+        "extracted_sections_count": 6,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_pakistan.json",
+      "extracted_filename": "extracted_economy_of_pakistan.json",
+      "sections_count": 48,
+      "extraction_info": {
+        "source_file": "economy_of_pakistan.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.617449",
+        "total_sections_in_source": 48,
+        "extracted_sections_count": 48,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_palau.json",
+      "extracted_filename": "extracted_economy_of_palau.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_palau.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.631409",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_palestine.json",
+      "extracted_filename": "extracted_economy_of_palestine.json",
+      "sections_count": 23,
+      "extraction_info": {
+        "source_file": "economy_of_palestine.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.649278",
+        "total_sections_in_source": 23,
+        "extracted_sections_count": 23,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_panama.json",
+      "extracted_filename": "extracted_economy_of_panama.json",
+      "sections_count": 11,
+      "extraction_info": {
+        "source_file": "economy_of_panama.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.658831",
+        "total_sections_in_source": 11,
+        "extracted_sections_count": 11,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_papua_new_guinea.json",
+      "extracted_filename": "extracted_economy_of_papua_new_guinea.json",
+      "sections_count": 25,
+      "extraction_info": {
+        "source_file": "economy_of_papua_new_guinea.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.669452",
+        "total_sections_in_source": 25,
+        "extracted_sections_count": 25,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_paraguay.json",
+      "extracted_filename": "extracted_economy_of_paraguay.json",
+      "sections_count": 19,
+      "extraction_info": {
+        "source_file": "economy_of_paraguay.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.683833",
+        "total_sections_in_source": 19,
+        "extracted_sections_count": 19,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_peru.json",
+      "extracted_filename": "extracted_economy_of_peru.json",
+      "sections_count": 32,
+      "extraction_info": {
+        "source_file": "economy_of_peru.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.702886",
+        "total_sections_in_source": 34,
+        "extracted_sections_count": 32,
+        "skipped_sections_count": 2
+      }
+    },
+    {
+      "filename": "economy_of_poland.json",
+      "extracted_filename": "extracted_economy_of_poland.json",
+      "sections_count": 24,
+      "extraction_info": {
+        "source_file": "economy_of_poland.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.714262",
+        "total_sections_in_source": 24,
+        "extracted_sections_count": 24,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_portugal.json",
+      "extracted_filename": "extracted_economy_of_portugal.json",
+      "sections_count": 31,
+      "extraction_info": {
+        "source_file": "economy_of_portugal.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.723800",
+        "total_sections_in_source": 31,
+        "extracted_sections_count": 31,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_qatar.json",
+      "extracted_filename": "extracted_economy_of_qatar.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_qatar.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.730078",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_romania.json",
+      "extracted_filename": "extracted_economy_of_romania.json",
+      "sections_count": 32,
+      "extraction_info": {
+        "source_file": "economy_of_romania.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.740438",
+        "total_sections_in_source": 33,
+        "extracted_sections_count": 32,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_russia.json",
+      "extracted_filename": "extracted_economy_of_russia.json",
+      "sections_count": 40,
+      "extraction_info": {
+        "source_file": "economy_of_russia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.755644",
+        "total_sections_in_source": 40,
+        "extracted_sections_count": 40,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_rwanda.json",
+      "extracted_filename": "extracted_economy_of_rwanda.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_rwanda.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.789283",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_saint_kitts_and_nevis.json",
+      "extracted_filename": "extracted_economy_of_saint_kitts_and_nevis.json",
+      "sections_count": 9,
+      "extraction_info": {
+        "source_file": "economy_of_saint_kitts_and_nevis.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.794017",
+        "total_sections_in_source": 9,
+        "extracted_sections_count": 9,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_saint_lucia.json",
+      "extracted_filename": "extracted_economy_of_saint_lucia.json",
+      "sections_count": 7,
+      "extraction_info": {
+        "source_file": "economy_of_saint_lucia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.801637",
+        "total_sections_in_source": 7,
+        "extracted_sections_count": 7,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_saint_vincent_and_the_grenadines.json",
+      "extracted_filename": "extracted_economy_of_saint_vincent_and_the_grenadines.json",
+      "sections_count": 2,
+      "extraction_info": {
+        "source_file": "economy_of_saint_vincent_and_the_grenadines.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.803523",
+        "total_sections_in_source": 2,
+        "extracted_sections_count": 2,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_samoa.json",
+      "extracted_filename": "extracted_economy_of_samoa.json",
+      "sections_count": 9,
+      "extraction_info": {
+        "source_file": "economy_of_samoa.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.814144",
+        "total_sections_in_source": 9,
+        "extracted_sections_count": 9,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_san_marino.json",
+      "extracted_filename": "extracted_economy_of_san_marino.json",
+      "sections_count": 6,
+      "extraction_info": {
+        "source_file": "economy_of_san_marino.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.823959",
+        "total_sections_in_source": 6,
+        "extracted_sections_count": 6,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_saudi_arabia.json",
+      "extracted_filename": "extracted_economy_of_saudi_arabia.json",
+      "sections_count": 26,
+      "extraction_info": {
+        "source_file": "economy_of_saudi_arabia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.831870",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 26,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_são_tomé_and_príncipe.json",
+      "extracted_filename": "extracted_economy_of_são_tomé_and_príncipe.json",
+      "sections_count": 6,
+      "extraction_info": {
+        "source_file": "economy_of_são_tomé_and_príncipe.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.840376",
+        "total_sections_in_source": 6,
+        "extracted_sections_count": 6,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_senegal.json",
+      "extracted_filename": "extracted_economy_of_senegal.json",
+      "sections_count": 11,
+      "extraction_info": {
+        "source_file": "economy_of_senegal.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.862821",
+        "total_sections_in_source": 11,
+        "extracted_sections_count": 11,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_serbia.json",
+      "extracted_filename": "extracted_economy_of_serbia.json",
+      "sections_count": 19,
+      "extraction_info": {
+        "source_file": "economy_of_serbia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.875687",
+        "total_sections_in_source": 19,
+        "extracted_sections_count": 19,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_seychelles.json",
+      "extracted_filename": "extracted_economy_of_seychelles.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_seychelles.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.881839",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_sierra_leone.json",
+      "extracted_filename": "extracted_economy_of_sierra_leone.json",
+      "sections_count": 14,
+      "extraction_info": {
+        "source_file": "economy_of_sierra_leone.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.887422",
+        "total_sections_in_source": 14,
+        "extracted_sections_count": 14,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_singapore.json",
+      "extracted_filename": "extracted_economy_of_singapore.json",
+      "sections_count": 24,
+      "extraction_info": {
+        "source_file": "economy_of_singapore.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.899565",
+        "total_sections_in_source": 25,
+        "extracted_sections_count": 24,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_slovakia.json",
+      "extracted_filename": "extracted_economy_of_slovakia.json",
+      "sections_count": 14,
+      "extraction_info": {
+        "source_file": "economy_of_slovakia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.910566",
+        "total_sections_in_source": 14,
+        "extracted_sections_count": 14,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_slovenia.json",
+      "extracted_filename": "extracted_economy_of_slovenia.json",
+      "sections_count": 7,
+      "extraction_info": {
+        "source_file": "economy_of_slovenia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.925196",
+        "total_sections_in_source": 7,
+        "extracted_sections_count": 7,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_solomon_islands.json",
+      "extracted_filename": "extracted_economy_of_solomon_islands.json",
+      "sections_count": 9,
+      "extraction_info": {
+        "source_file": "economy_of_solomon_islands.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.929879",
+        "total_sections_in_source": 9,
+        "extracted_sections_count": 9,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_somalia.json",
+      "extracted_filename": "extracted_economy_of_somalia.json",
+      "sections_count": 13,
+      "extraction_info": {
+        "source_file": "economy_of_somalia.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.944536",
+        "total_sections_in_source": 13,
+        "extracted_sections_count": 13,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_south_africa.json",
+      "extracted_filename": "extracted_economy_of_south_africa.json",
+      "sections_count": 30,
+      "extraction_info": {
+        "source_file": "economy_of_south_africa.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.953785",
+        "total_sections_in_source": 31,
+        "extracted_sections_count": 30,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_south_korea.json",
+      "extracted_filename": "extracted_economy_of_south_korea.json",
+      "sections_count": 19,
+      "extraction_info": {
+        "source_file": "economy_of_south_korea.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.968796",
+        "total_sections_in_source": 19,
+        "extracted_sections_count": 19,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_south_sudan.json",
+      "extracted_filename": "extracted_economy_of_south_sudan.json",
+      "sections_count": 7,
+      "extraction_info": {
+        "source_file": "economy_of_south_sudan.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.980248",
+        "total_sections_in_source": 7,
+        "extracted_sections_count": 7,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_spain.json",
+      "extracted_filename": "extracted_economy_of_spain.json",
+      "sections_count": 25,
+      "extraction_info": {
+        "source_file": "economy_of_spain.json",
+        "extraction_timestamp": "2025-08-02T17:13:28.990664",
+        "total_sections_in_source": 25,
+        "extracted_sections_count": 25,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_sri_lanka.json",
+      "extracted_filename": "extracted_economy_of_sri_lanka.json",
+      "sections_count": 33,
+      "extraction_info": {
+        "source_file": "economy_of_sri_lanka.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.004682",
+        "total_sections_in_source": 33,
+        "extracted_sections_count": 33,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_sudan.json",
+      "extracted_filename": "extracted_economy_of_sudan.json",
+      "sections_count": 16,
+      "extraction_info": {
+        "source_file": "economy_of_sudan.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.021308",
+        "total_sections_in_source": 17,
+        "extracted_sections_count": 16,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_suriname.json",
+      "extracted_filename": "extracted_economy_of_suriname.json",
+      "sections_count": 15,
+      "extraction_info": {
+        "source_file": "economy_of_suriname.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.027752",
+        "total_sections_in_source": 15,
+        "extracted_sections_count": 15,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_sweden.json",
+      "extracted_filename": "extracted_economy_of_sweden.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_sweden.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.036456",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_switzerland.json",
+      "extracted_filename": "extracted_economy_of_switzerland.json",
+      "sections_count": 21,
+      "extraction_info": {
+        "source_file": "economy_of_switzerland.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.051175",
+        "total_sections_in_source": 21,
+        "extracted_sections_count": 21,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_syria.json",
+      "extracted_filename": "extracted_economy_of_syria.json",
+      "sections_count": 21,
+      "extraction_info": {
+        "source_file": "economy_of_syria.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.067411",
+        "total_sections_in_source": 21,
+        "extracted_sections_count": 21,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_tajikistan.json",
+      "extracted_filename": "extracted_economy_of_tajikistan.json",
+      "sections_count": 16,
+      "extraction_info": {
+        "source_file": "economy_of_tajikistan.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.078923",
+        "total_sections_in_source": 16,
+        "extracted_sections_count": 16,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_tanzania.json",
+      "extracted_filename": "extracted_economy_of_tanzania.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_tanzania.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.087200",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_thailand.json",
+      "extracted_filename": "extracted_economy_of_thailand.json",
+      "sections_count": 28,
+      "extraction_info": {
+        "source_file": "economy_of_thailand.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.099085",
+        "total_sections_in_source": 28,
+        "extracted_sections_count": 28,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_bahamas.json",
+      "extracted_filename": "extracted_economy_of_the_bahamas.json",
+      "sections_count": 9,
+      "extraction_info": {
+        "source_file": "economy_of_the_bahamas.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.114658",
+        "total_sections_in_source": 9,
+        "extracted_sections_count": 9,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_central_african_republic.json",
+      "extracted_filename": "extracted_economy_of_the_central_african_republic.json",
+      "sections_count": 9,
+      "extraction_info": {
+        "source_file": "economy_of_the_central_african_republic.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.117130",
+        "total_sections_in_source": 9,
+        "extracted_sections_count": 9,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_comoros.json",
+      "extracted_filename": "extracted_economy_of_the_comoros.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_the_comoros.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.131866",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_czech_republic.json",
+      "extracted_filename": "extracted_economy_of_the_czech_republic.json",
+      "sections_count": 20,
+      "extraction_info": {
+        "source_file": "economy_of_the_czech_republic.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.145936",
+        "total_sections_in_source": 20,
+        "extracted_sections_count": 20,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_democratic_republic_of_the_congo.json",
+      "extracted_filename": "extracted_economy_of_the_democratic_republic_of_the_congo.json",
+      "sections_count": 25,
+      "extraction_info": {
+        "source_file": "economy_of_the_democratic_republic_of_the_congo.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.157895",
+        "total_sections_in_source": 25,
+        "extracted_sections_count": 25,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_dominican_republic.json",
+      "extracted_filename": "extracted_economy_of_the_dominican_republic.json",
+      "sections_count": 15,
+      "extraction_info": {
+        "source_file": "economy_of_the_dominican_republic.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.163294",
+        "total_sections_in_source": 15,
+        "extracted_sections_count": 15,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_federated_states_of_micronesia.json",
+      "extracted_filename": "extracted_economy_of_the_federated_states_of_micronesia.json",
+      "sections_count": 3,
+      "extraction_info": {
+        "source_file": "economy_of_the_federated_states_of_micronesia.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.174446",
+        "total_sections_in_source": 3,
+        "extracted_sections_count": 3,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_gambia.json",
+      "extracted_filename": "extracted_economy_of_the_gambia.json",
+      "sections_count": 8,
+      "extraction_info": {
+        "source_file": "economy_of_the_gambia.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.186789",
+        "total_sections_in_source": 8,
+        "extracted_sections_count": 8,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_maldives.json",
+      "extracted_filename": "extracted_economy_of_the_maldives.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_the_maldives.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.197182",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_marshall_islands.json",
+      "extracted_filename": "extracted_economy_of_the_marshall_islands.json",
+      "sections_count": 7,
+      "extraction_info": {
+        "source_file": "economy_of_the_marshall_islands.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.206797",
+        "total_sections_in_source": 7,
+        "extracted_sections_count": 7,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_netherlands.json",
+      "extracted_filename": "extracted_economy_of_the_netherlands.json",
+      "sections_count": 20,
+      "extraction_info": {
+        "source_file": "economy_of_the_netherlands.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.216309",
+        "total_sections_in_source": 20,
+        "extracted_sections_count": 20,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_philippines.json",
+      "extracted_filename": "extracted_economy_of_the_philippines.json",
+      "sections_count": 20,
+      "extraction_info": {
+        "source_file": "economy_of_the_philippines.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.222429",
+        "total_sections_in_source": 20,
+        "extracted_sections_count": 20,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_united_arab_emirates.json",
+      "extracted_filename": "extracted_economy_of_the_united_arab_emirates.json",
+      "sections_count": 19,
+      "extraction_info": {
+        "source_file": "economy_of_the_united_arab_emirates.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.228629",
+        "total_sections_in_source": 19,
+        "extracted_sections_count": 19,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_united_kingdom.json",
+      "extracted_filename": "extracted_economy_of_the_united_kingdom.json",
+      "sections_count": 39,
+      "extraction_info": {
+        "source_file": "economy_of_the_united_kingdom.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.236954",
+        "total_sections_in_source": 39,
+        "extracted_sections_count": 39,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_the_united_states.json",
+      "extracted_filename": "extracted_economy_of_the_united_states.json",
+      "sections_count": 56,
+      "extraction_info": {
+        "source_file": "economy_of_the_united_states.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.256038",
+        "total_sections_in_source": 56,
+        "extracted_sections_count": 56,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_timor-leste.json",
+      "extracted_filename": "extracted_economy_of_timor-leste.json",
+      "sections_count": 9,
+      "extraction_info": {
+        "source_file": "economy_of_timor-leste.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.266336",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 9,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_togo.json",
+      "extracted_filename": "extracted_economy_of_togo.json",
+      "sections_count": 7,
+      "extraction_info": {
+        "source_file": "economy_of_togo.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.273939",
+        "total_sections_in_source": 7,
+        "extracted_sections_count": 7,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_tonga.json",
+      "extracted_filename": "extracted_economy_of_tonga.json",
+      "sections_count": 3,
+      "extraction_info": {
+        "source_file": "economy_of_tonga.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.283803",
+        "total_sections_in_source": 3,
+        "extracted_sections_count": 3,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_trinidad_and_tobago.json",
+      "extracted_filename": "extracted_economy_of_trinidad_and_tobago.json",
+      "sections_count": 9,
+      "extraction_info": {
+        "source_file": "economy_of_trinidad_and_tobago.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.290344",
+        "total_sections_in_source": 9,
+        "extracted_sections_count": 9,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_tunisia.json",
+      "extracted_filename": "extracted_economy_of_tunisia.json",
+      "sections_count": 8,
+      "extraction_info": {
+        "source_file": "economy_of_tunisia.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.301290",
+        "total_sections_in_source": 8,
+        "extracted_sections_count": 8,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_turkey.json",
+      "extracted_filename": "extracted_economy_of_turkey.json",
+      "sections_count": 33,
+      "extraction_info": {
+        "source_file": "economy_of_turkey.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.308799",
+        "total_sections_in_source": 33,
+        "extracted_sections_count": 33,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_turkmenistan.json",
+      "extracted_filename": "extracted_economy_of_turkmenistan.json",
+      "sections_count": 32,
+      "extraction_info": {
+        "source_file": "economy_of_turkmenistan.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.326082",
+        "total_sections_in_source": 33,
+        "extracted_sections_count": 32,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_tuvalu.json",
+      "extracted_filename": "extracted_economy_of_tuvalu.json",
+      "sections_count": 19,
+      "extraction_info": {
+        "source_file": "economy_of_tuvalu.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.329691",
+        "total_sections_in_source": 19,
+        "extracted_sections_count": 19,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_uganda.json",
+      "extracted_filename": "extracted_economy_of_uganda.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_uganda.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.338193",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_ukraine.json",
+      "extracted_filename": "extracted_economy_of_ukraine.json",
+      "sections_count": 40,
+      "extraction_info": {
+        "source_file": "economy_of_ukraine.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.355304",
+        "total_sections_in_source": 41,
+        "extracted_sections_count": 40,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_uruguay.json",
+      "extracted_filename": "extracted_economy_of_uruguay.json",
+      "sections_count": 16,
+      "extraction_info": {
+        "source_file": "economy_of_uruguay.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.372050",
+        "total_sections_in_source": 16,
+        "extracted_sections_count": 16,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_uzbekistan.json",
+      "extracted_filename": "extracted_economy_of_uzbekistan.json",
+      "sections_count": 12,
+      "extraction_info": {
+        "source_file": "economy_of_uzbekistan.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.377031",
+        "total_sections_in_source": 12,
+        "extracted_sections_count": 12,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_vanuatu.json",
+      "extracted_filename": "extracted_economy_of_vanuatu.json",
+      "sections_count": 10,
+      "extraction_info": {
+        "source_file": "economy_of_vanuatu.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.382032",
+        "total_sections_in_source": 10,
+        "extracted_sections_count": 10,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_vatican_city.json",
+      "extracted_filename": "extracted_economy_of_vatican_city.json",
+      "sections_count": 2,
+      "extraction_info": {
+        "source_file": "economy_of_vatican_city.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.383670",
+        "total_sections_in_source": 2,
+        "extracted_sections_count": 2,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_venezuela.json",
+      "extracted_filename": "extracted_economy_of_venezuela.json",
+      "sections_count": 26,
+      "extraction_info": {
+        "source_file": "economy_of_venezuela.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.394094",
+        "total_sections_in_source": 26,
+        "extracted_sections_count": 26,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_vietnam.json",
+      "extracted_filename": "extracted_economy_of_vietnam.json",
+      "sections_count": 31,
+      "extraction_info": {
+        "source_file": "economy_of_vietnam.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.404704",
+        "total_sections_in_source": 31,
+        "extracted_sections_count": 31,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_yemen.json",
+      "extracted_filename": "extracted_economy_of_yemen.json",
+      "sections_count": 17,
+      "extraction_info": {
+        "source_file": "economy_of_yemen.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.421114",
+        "total_sections_in_source": 17,
+        "extracted_sections_count": 17,
+        "skipped_sections_count": 0
+      }
+    },
+    {
+      "filename": "economy_of_zambia.json",
+      "extracted_filename": "extracted_economy_of_zambia.json",
+      "sections_count": 53,
+      "extraction_info": {
+        "source_file": "economy_of_zambia.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.437169",
+        "total_sections_in_source": 54,
+        "extracted_sections_count": 53,
+        "skipped_sections_count": 1
+      }
+    },
+    {
+      "filename": "economy_of_zimbabwe.json",
+      "extracted_filename": "extracted_economy_of_zimbabwe.json",
+      "sections_count": 20,
+      "extraction_info": {
+        "source_file": "economy_of_zimbabwe.json",
+        "extraction_timestamp": "2025-08-02T17:13:29.452215",
+        "total_sections_in_source": 20,
+        "extracted_sections_count": 20,
+        "skipped_sections_count": 0
+      }
+    }
+  ]
+}

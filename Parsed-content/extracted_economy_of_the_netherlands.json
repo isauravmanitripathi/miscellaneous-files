@@ -1,0 +1,558 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_netherlands.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.216309",
+    "total_sections_in_source": 20,
+    "extracted_sections_count": 20,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Netherlands is a highly developed market economy emphasizing trade and logistics, manufacturing, services, innovation and technology, and sustainable and renewable energy sectors.",
+        "• As of 2023, the Netherlands ranks as the world's 18th largest economy by nominal GDP and the 28th largest by purchasing power parity (PPP).",
+        "• Within the European Union, the Netherlands holds the position of the fifth largest economy by nominal GDP.",
+        "• The country boasts the 11th highest nominal GDP per capita and the 13th highest GDP per capita by PPP globally, marking it as one of the highest earning nations worldwide.",
+        "• Amsterdam, the capital city, hosts many of the world’s largest technology companies or their European headquarters, including IBM, Microsoft, Google, Oracle, Cisco, Uber, and Netflix.",
+        "• Rotterdam, the second largest city, is a major global trade, logistics, and economic hub and is home to Europe’s largest seaport.",
+        "• The Netherlands ranks fifth on the Global Innovation Index and fourth on the Global Competitiveness Report.",
+        "• Among OECD countries, the Netherlands has a highly efficient and robust social security system, with social expenditure accounting for approximately 25.3% of GDP.",
+        "• The Dutch economy is prosperous and open, heavily reliant on foreign trade, characterized by stable industrial relations, relatively low unemployment and inflation rates, and a sizable current account surplus that exceeds Germany’s relative to country size.",
+        "• The country plays a critical role as a European transportation hub, with Rotterdam as Europe’s largest port and Amsterdam hosting one of the world’s largest airports.",
+        "• Key industrial sectors include food processing, chemicals, petroleum refining, high-tech industries, financial services, the creative sector, and electrical machinery manufacturing.",
+        "• The Netherlands’ highly mechanized agricultural sector employs no more than 2% of the labor force but generates large surpluses for food processing and exports.",
+        "• The Netherlands, along with 11 other EU countries, adopted the euro currency on 1 January 2002.",
+        "• Since the discovery of natural gas resources in 1959, the Netherlands has accounted for more than 25% of all natural gas reserves within the European Union.",
+        "• Revenues from natural gas sales significantly increased Dutch government income over subsequent decades.",
+        "• The discovery of the Groningen gas field led to the economic phenomenon known as \"Dutch disease,\" where energy wealth negatively impacted the competitiveness of other economic sectors.",
+        "• The Netherlands functions as a \"conduit country,\" facilitating the transfer of profits from high-tax countries to tax havens, and is ranked as the 7th largest tax haven worldwide.",
+        "• The Dutch government abandoned the stern financial policy in 2009 due to the global credit crisis, partially nationalizing and bailing out the relatively large banking sector through government interventions.",
+        "• The unemployment rate was 5.0% in summer 2011, rose sharply to 7.3% in May 2013, decreased to 6.8% in 2015, and further dropped to 3.9% by March 2018.",
+        "• The state budget deficit was approximately 2.2% of GDP in 2015, below the EU’s 3.0% norm.",
+        "• In 2016, the Netherlands recorded a state budget surplus of 0.4%, with expectations to increase to over 1.0% surplus in 2017.",
+        "• Historically, the Dutch pioneered the stock market, initially focusing on merchandise trading via the Dutch East India Company.",
+        "• The Netherlands is a founding member of the European Union, the Organisation for Economic Co-operation and Development (OECD), and the World Trade Organization (WTO)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:52.690197",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After declaring independence from the empire of Philip II of Spain in 1581, the Netherlands experienced nearly a century of explosive economic growth.",
+        "• A technological revolution in capital, driven by Protestant traders from Flanders who fled to the Netherlands, contributed significantly to the young Dutch Republic becoming the dominant trade power by the mid-17th century.",
+        "• By 1670, the Dutch merchant marine totaled 568,000 tons of shipping, which constituted about half of the total European shipping tonnage.",
+        "• The dominance of the Amsterdam Entrepôt in European trade and the influential roles of the Dutch East India Company (Verenigde Oost-Indische Companie – VOC) and the Dutch West India Company in intercontinental trade were primary reasons for Dutch maritime supremacy.",
+        "• These trading companies were modeled after English joint-stock enterprises and trading guilds, reflecting the success of England’s commercial institutions.",
+        "• In addition to trade, the Netherlands experienced an early \"industrial revolution\" powered by wind, water, and peat energy sources, alongside significant land reclamation from the sea and an agricultural revolution.",
+        "• By the mid-17th century, these combined factors enabled the Dutch economy to achieve the highest standard of living in Europe, and arguably the world, fostering what is known as the Dutch Golden Age.",
+        "• This period of economic prosperity abruptly ended around 1670 due to a combination of political-military upheavals and adverse economic developments, though the Netherlands maintained a high level of prosperity through continued trade and agriculture.",
+        "• Approaching the 1800s, the Netherlands industrialized more slowly than some other European countries, partly because it was adjusting to the loss of its dominant economic and political position, which had been primarily based on trade and agriculture.",
+        "• According to Griffiths, 19th-century government policies facilitated the creation of a unified Dutch national economy by abolishing internal tariffs and guilds, introducing a unified coinage system, modernizing tax collection, standardizing weights and measures, and constructing extensive infrastructure including roads, canals, and railroads.",
+        "• Throughout the 19th century, the Netherlands gradually transformed into a modern middle-class industrial society, with a decline in agricultural employment and efforts to regain competitiveness in industry and trade.",
+        "• The Netherlands lagged behind Belgium in industrialization until the late 19th century but caught up by approximately 1920.",
+        "• Major industries during this period included textiles and the Philips industrial conglomerate, with Rotterdam emerging as a significant shipping and manufacturing center.",
+        "• Social conditions improved steadily during this time, with poverty declining, begging largely disappearing, and working conditions for the population improving.",
+        "• In 1959, the Netherlands discovered large natural gas fields, leading to substantial windfall profits from natural gas exports.",
+        "• However, these profits are believed to have inadvertently contributed to a decline in the Dutch manufacturing sector as an unforeseen economic consequence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:47.146043",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Government",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Dutch economy is primarily driven by the private sector, yet governments at various levels play a significant role in economic activities.",
+        "• In 2011, public spending in the Netherlands, excluding social security transfer payments, accounted for 28% of the country's Gross Domestic Product (GDP).",
+        "• Total tax revenue in the Netherlands was 38.7% of GDP in 2010, a figure that was below the average tax revenue across the European Union (EU).",
+        "• Beyond direct public expenditure, the Dutch government exerts substantial influence on the economy through permit requirements and regulatory frameworks that affect nearly every aspect of economic activity.",
+        "• The government maintains a rigorous and stable microeconomic policy while simultaneously implementing broad structural and regulatory reforms to enhance economic performance.",
+        "• Since the 1980s, the Dutch government has progressively reduced its direct involvement in the economy, emphasizing privatization and deregulation as ongoing processes.",
+        "• Social and economic policy in the Netherlands is characterized by cooperation between the government and its social partners, which include trade unions and employers' organizations.",
+        "• These three parties—the government, trade unions, and employers' organizations—collaborate within the Social-Economic Council (Sociaal Economische Raad), which serves as the primary platform for social dialogue in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:43.355940",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Social security system",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Dutch social security system is comprehensive and multi-faceted, divided into two main categories: the national security (_Volksverzekering_) and the employee insurance (_Werknemersverzekering_).",
+        "• The _Volksverzekering_ covers all residents living in the Netherlands and provides various social benefits, while the _Werknemersverzekering_ offers employment-related benefits specifically for employed individuals.",
+        "• All persons living in the Netherlands, including non-resident residents, are required to contribute to the social security system, with only a few exceptions.",
+        "• The _Volksverzekering_ is compulsory for all residents and includes coverage under several national insurance schemes:",
+        "• Long-term care under the Long-Term Care Act (_Wet Langdurige Zorg (WLZ)_) which was formerly known as The Exceptional Medical Expenses Act (_Algemene Wet Bijzondere Ziektekosten (AWBZ)_).",
+        "• Pension care under the General Old Age Pensions Act (_Algemene Ouderdomswet (AOW)_).",
+        "• Survivor benefits under the General Surviving Relatives Act (_Algemene nabestaandenwet (ANW)_), formerly known as The General Widow's and Orphans’ Act (_Algemene Weduwen-en Wezenwet (AWW)_).",
+        "• Child benefits under the General Family Allowances Act (_Algemene Kinderbijslagwet (AKW)_).",
+        "• The _Volksverzekering_ is overseen by the Social Insurance Bank (_Sociale Verzekeringsbank (SVB)_).",
+        "• Financing of the _Volksverzekering_ is through earnings-related contributions from both employers and employees, subject to a maximum income ceiling.",
+        "• Contributions for employed persons are automatically deducted from their wages, whereas unemployed individuals must pay their contributions independently.",
+        "• The _AKW_ (child benefits) is financed by employers, while the _AOW_ (old age pension) is financed by employees and supplemented by a small government subsidy.",
+        "• The _Werknemersverzekering_ is mandatory for all employed persons in the Netherlands and covers:",
+        "• Unemployment benefits under the Unemployment Insurance Act (_Werkloosheidswet (WW)_).",
+        "• Sick leave benefits under the Sickness Benefits Act (_Ziektewet (ZW)_).",
+        "• Disability benefits under the Disablement Insurance Act (_Wet werk en inkomen naar arbeidsvermogen (WIA)_).",
+        "• Financing for the _Werknemersverzekering_ is automatically deducted from employees’ income by their employers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:49.106055",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.1.0.1",
+      "section_name": "Coverage",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The unemployment benefits in the Netherlands are governed by the WW (Werkloosheidswet) legislation.",
+        "• The WW unemployment benefits cover almost all employees who are employed based on a formal working contract.",
+        "• Certain groups are excluded from the WW unemployment benefits coverage, including self-employed individuals.",
+        "• Nationally employed persons are also excluded from the WW unemployment benefits.",
+        "• Persons working less than four days per week do not qualify for WW unemployment benefits.",
+        "• Heads of stockholders are excluded from the WW unemployment benefits coverage.",
+        "• Voluntary workers earning up to €150 per year are not covered under the WW unemployment benefits."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:40.693465",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.1.0.2",
+      "section_name": "Right to benefits",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• To receive unemployment benefits in the Netherlands, the unemployed individual must submit an application to the Employee Insurance Agency (Uitvoeringsinstituut Werknemersverzekeringen, UWV) within one week of becoming unemployed.",
+        "• In addition to applying to the UWV, the individual must also register as a job-seeker to qualify for benefits.",
+        "• The unemployment benefit known as WW is only available to employees who have a sufficient work history, specifically requiring that the applicant has worked for at least 26 weeks within the 36 weeks prior to becoming unemployed.",
+        "• Meeting the requirement of 26 working weeks out of the last 36 weeks is necessary to fulfill the working-weeks eligibility criterion for unemployment benefits.",
+        "• Eligibility for unemployment benefits is contingent upon the unemployment not being caused by the employee’s own fault, such as voluntarily terminating the employment contract."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:41.721256",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.1.0.3",
+      "section_name": "Benefits",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The unemployment benefits under the WW (Werkloosheidswet) are earnings-related and initially amount to 75% of the previous daily earnings, calculated based on a five-day working week, for the first two months of unemployment.",
+        "• After the initial two-month period, the unemployment benefits decrease to 70% of the previous daily earnings.",
+        "• Part-time work is factored into the benefit calculation by proportionally adjusting for the number of working hours, although the exact method requires clarification.",
+        "• If the calculated unemployment benefit falls below the minimum income threshold, the benefit may be supplemented under the Additional Allowances Act (Toeslagenwet).",
+        "• In cases where there has been a change of employment, all jobs held within the previous twelve months are considered in the calculation of the unemployment benefits.",
+        "• To maintain eligibility for receiving unemployment benefits, the individual must be actively seeking employment.",
+        "• The unemployed individual is required to participate in e-coaching sessions at three months and again at twelve months after the start of unemployment.",
+        "• After one year of unemployment, the individual must register with an employment agency to continue receiving benefits."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:45.715503",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.1.1",
+      "section_name": "Labour market and social welfare",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Dutch labour market is characterized by relatively strict regulations for employers regarding the dismissal of employees, although the House of Representatives agreed in June 2014 to loosen these regulations.",
+        "• Due to the high costs associated with employing and firing workers, approximately 15% of the Dutch workforce operates as independent one-person companies, known as zelfstandigen zonder personeel (ZZP), who are paid per delivery without incurring higher social costs.",
+        "• A significant portion of the workforce is also employed as temporary workers, reflecting the flexible nature of employment contracts in the Netherlands.",
+        "• State unemployment benefits provide fired employees with 70% of their last-earned salary for up to three years, with a maximum monthly benefit of roughly 2,500 euros, contingent on having worked a minimum qualifying period, usually 26 weeks.",
+        "• Self-employed individuals (ZZP) are not automatically covered under the Dutch social insurance schemes known as Werknemersverzekeringen and are not required to enroll in unemployment, sickness, or disability insurance.",
+        "• Consequently, self-employed persons must obtain private insurance coverage independently to protect against unemployment, sickness, and disability risks.",
+        "• The Dutch Government is actively addressing the issue of bogus self-employment by implementing significant regulatory changes and tightening rules under the Wet Deregulering Beoordeling Arbeidsrelaties (DBA) legislation to better distinguish genuine self-employment from disguised employment relationships."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:46.221434",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.1.2",
+      "section_name": "Age of retirement",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The General Old Age Pensions Act (AOW) of 1956 established that every Dutch citizen was entitled to a state pension starting at age 65.",
+        "• In 2012, the AOW was amended to gradually increase the pension age in several stages, reaching 67 years by 2024.",
+        "• Under the AOW, married couples and cohabiting partners receive a pension amounting to 50% of the minimum wage per person.",
+        "• Single individuals receive a pension equivalent to 70% of the minimum wage under the AOW.",
+        "• Approximately 70% of Dutch citizens earn an additional pension from private pension funds beyond the state pension.",
+        "• Employees in the Netherlands are required to participate in sector-specific pension funds, although the exact details of this obligation require clarification.",
+        "• The total assets held by Dutch pension funds amounted to approximately 664 billion euros at the end of 2009.",
+        "• By the end of 2019, the total pension fund assets had increased substantially to 1,560 billion euros, serving a population of just over 17 million people.",
+        "• On average, employees receive about 70% of their final salary as pension income from combined sources.",
+        "• Pension funds have faced challenges in maintaining returns that keep pace with inflation due to the economic crisis (unspecified) and persistently low interest rates."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:48.960045",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.1.3",
+      "section_name": "Inequality and redistribution",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, the Netherlands exhibited relatively low income inequality, with a Gini coefficient of 25.1.",
+        "• Despite low income inequality, wealth inequality in the Netherlands is high, with the top 1% owning 24% of all net wealth and the top 10% owning 60%.",
+        "• Significant wealth disparities exist across age groups, as individuals under 35 years of age possess only 10% of the wealth owned by older workers.",
+        "• The wealth inequality is partly attributed to the low taxation on home ownership and the generous mortgage interest deductibility, which disproportionately benefits wealthier households.",
+        "• Pension-related savings constitute the most important component of wealth in the Netherlands due to the country's generous pension system.",
+        "• Pension savings are not subject to capital income taxation during the accumulation phase, which contributes to increased wealth inequality.",
+        "• Taxation on pensions occurs as income tax when the saved pension funds are paid out during retirement.",
+        "• Individuals earning only minimum wages typically do not accumulate pension savings.",
+        "• The Dutch retirement law, known as AOW, guarantees a retirement income up to 70% of the minimum wage per person.",
+        "• Consequently, only those earning above the minimum wage need to save additional funds to maintain a net income after retirement comparable to their pre-retirement income."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:51.035568",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.1.4",
+      "section_name": "Home mortgage interest deduction",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Netherlands was historically one of the few countries globally where mortgage interest payments were almost fully deductible from income tax, a policy that underwent significant changes starting in 2013.",
+        "• Since 2013, the maximum allowable mortgage borrowing relative to the home's value was reduced from over 116% to 106%, with this threshold continuing to decrease annually.",
+        "• The mortgage interest deduction rate was capped at 50.5% in 2013 and has been progressively reduced each year thereafter.",
+        "• These changes, combined with the lingering effects of the Great Recession, precipitated a housing crisis in the Netherlands, with property prices declining by nearly 25% in certain regions.",
+        "• In recent years, the housing market has shown signs of recovery, with price increases ranging from 10% to 20% annually in the most sought-after Dutch cities.",
+        "• The service sector contributes to more than half of the Netherlands' national income, with key areas including transportation, distribution and logistics, financial services, software development, and the creative industry.",
+        "• The diversity of financial service providers in the Netherlands helped the country achieve a DAW Index score of 5 in 2012, indicating a strong position in digital and financial services.",
+        "• Industrial sectors in the Netherlands are primarily composed of machinery, electronics and high-tech industries, metalworking, oil refining, chemical production, and food processing.",
+        "• The construction sector accounts for approximately 6% of the Dutch GDP.",
+        "• Agriculture and fishing, while culturally significant and traditional Dutch activities, represent only about 2% of the national economy.",
+        "• The Netherlands remains a leading European destination for foreign direct investment and ranks among the top five largest investors in the United States.",
+        "• After experiencing an economic slowdown in 2005, the Dutch economy rebounded in 2006, achieving its fastest growth in six years driven by increased exports and robust investment.",
+        "• Job growth in the Netherlands reached a ten-year high in 2007, reflecting strong labor market performance.",
+        "• According to the World Economic Forum's Global Competitiveness Report, the Netherlands is ranked as the fifth-most competitive economy worldwide."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:56.978229",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2018, the Netherlands produced 1.2 million tons of onions as part of its agricultural output.",
+        "• The country produced 14 million tons of cow milk in 2018, highlighting its significant dairy industry.",
+        "• Barley production in the Netherlands reached 247 thousand tons in 2018.",
+        "• Apple production amounted to 269 thousand tons in the same year.",
+        "• Lettuce production was recorded at 295 thousand tons in 2018.",
+        "• The Netherlands produced 300 thousand tons of mushrooms and truffles in 2018.",
+        "• Bell pepper production totaled 355 thousand tons during 2018.",
+        "• Pear production reached 402 thousand tons in the Netherlands in 2018.",
+        "• Cucumber production was 410 thousand tons in 2018.",
+        "• Carrot production amounted to 538 thousand tons in the Netherlands in 2018.",
+        "• Potato production was 6.0 million tonnes in 2018, making the Netherlands the 10th largest potato producer globally.",
+        "• Sugar beet production reached 6.5 million tons in 2018, with the crop being used for sugar and ethanol production.",
+        "• Tomato production in the Netherlands was 910 thousand tons in 2018.",
+        "• Wheat production totaled 961 thousand tons in the Netherlands in 2018."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:52.680410",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Natural gas",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Netherlands possesses more than 25% of all natural gas reserves within the European Union, making it a significant player in the EU's natural gas sector.",
+        "• The Groningen natural gas field, discovered in 1959, notably transformed the Dutch economy and led to the formulation of the \"Dutch disease\" theory, which links resource windfalls to a decline in manufacturing.",
+        "• The \"Dutch disease\" theory emerged from observations that the substantial revenues from Groningen's natural gas contributed to a weakening manufacturing sector in the Netherlands over subsequent decades.",
+        "• Although the Netherlands' oil reserves in the North Sea are minimal and of little economic importance, its natural gas reserves remain substantial, estimated at about 600 billion cubic feet as of 2014, representing approximately 0.3% of the global total.",
+        "• Due to environmental concerns including ground subsidence, differential settlement, and induced tremors causing property damage, the Dutch government decided in 2014–2015 to significantly reduce natural gas production in the Groningen province.",
+        "• By the end of 2018, the government committed to a complete phase-out of gas production in Groningen, planning a gradual annual reduction with total cessation expected by 2028.",
+        "• On June 23, 2023, the government announced the closure of the remaining five gas production facilities in Groningen effective October 1, 2023, while maintaining the option to reopen some facilities if international circumstances or severe weather conditions necessitate it.",
+        "• All Groningen gas wells are scheduled for permanent closure and dismantling by October 1, 2024.",
+        "• To mitigate greenhouse gas emissions, the Dutch government is subsidizing a nationwide transition away from natural gas usage in all homes by the year 2050.",
+        "• As of 2023, 98% of Dutch enterprises are actively reducing greenhouse gas emissions, surpassing the EU average of 89%, although only 48% of these firms set and monitor their own emission reduction targets.",
+        "• Dutch companies primarily reduce emissions through waste reduction or recycling initiatives (86%) and energy efficiency programs (76%).",
+        "• In 2023, 78% of Dutch enterprises had invested in measures to reduce carbon emissions and mitigate weather-related disaster impacts, with 60% planning further investments in these areas over the next three years; these figures exceed the EU averages of 56% and 54%, respectively.",
+        "• Dutch firms demonstrate a higher propensity than other European companies to view the transition to stronger climate legislation as an opportunity, with 39% expressing this positive outlook compared to 23% among other European firms."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:00.969964",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Nuclear energy",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Research on nuclear energy in the Netherlands commenced in the 1930s, with construction of the research reactor Dodewaard beginning in 1955, aiming to introduce nuclear power technology by 1962 and replace fossil fuels.",
+        "• In 1968, a test nuclear reactor was connected to the Dutch power grid; this reactor was subsequently shut down in 1997.",
+        "• During the 1970s, Dutch policy mandated the reprocessing of all spent nuclear fuel.",
+        "• In 1984, the Dutch government decided to establish a long-term storage facility designed to hold intermediate and low-level radioactive waste for 100 years, alongside researching strategies for the ultimate disposal of nuclear waste.",
+        "• In September 2003, the Central Organization for Radioactive Waste (COVRA) created an interim storage facility specifically for high-level radioactive waste.",
+        "• The Netherlands' sole commercial nuclear reactor is the Borssele plant, which became operational in 1973 and, as of 2011, generated approximately 4% of the country’s electricity.",
+        "• The Dodewaard nuclear power plant, initially a test reactor later connected to the national grid, was permanently closed in 1997.",
+        "• The Reactor Institute Delft (RID), a 2 MW research reactor located in Delft and part of the physics department at Delft University of Technology, serves as a neutron and positron source for research purposes and is not intended for electricity generation.",
+        "• In 1994, the States General of the Netherlands voted to phase out nuclear power following discussions centered on nuclear waste management.",
+        "• In 1997, the Dodewaard power station was shut down, and the government planned to terminate the operating license of the Borssele plant in 2003; however, this deadline has been postponed to 2034 contingent upon compliance with the highest safety standards.",
+        "• Following the 2010 election, the new Dutch government expressed openness to expanding nuclear power capacity.",
+        "• Both companies owning shares in the Borssele nuclear plant have proposed constructing new reactors.",
+        "• In January 2012, the energy company Delta announced a postponement of any decision regarding the construction of a second nuclear power plant."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:57.020449",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "3",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2011, the Netherlands received 11.3 million foreign tourists, indicating its significance as a travel destination.",
+        "• In 2012, the Dutch tourism industry contributed 5.4% to the country's total Gross Domestic Product (GDP) and accounted for 9.6% of total employment, reflecting its economic impact.",
+        "• Despite these contributions, tourism ranks relatively low in the global context for the Netherlands, positioned 147th in total contribution to GDP and 83rd in total contribution to employment.",
+        "• North Holland was the most popular province for foreign tourists in 2011, attracting 6 million out of the total 11.3 million visitors, making it the primary destination within the country.",
+        "• South Holland was the second most visited province, with 1.4 million foreign tourists in 2011.",
+        "• The majority of foreign tourists to the Netherlands in 2011 were from Germany (3 million), the United Kingdom (1.5 million), and Belgium (1.4 million), highlighting key source markets.",
+        "• As of 2020, the Netherlands is home to nine UNESCO World Heritage Sites, underscoring its cultural and historical significance.",
+        "• The Netherlands is internationally recognized for its art and rich historical heritage, which are important attractions for tourists.",
+        "• In the Dutch fast food restaurant and snackbar sector, McDonald's is the dominant chain and employs the largest number of staff.",
+        "• Burger King is the second largest employer in the Dutch fast food sector, following McDonald's.",
+        "• FEBO is the only national fast food player in the Netherlands and ranks third in employment within the sector.",
+        "• Kwalitaria is another notable fast food chain operating in the Netherlands.",
+        "• Additional international fast food chains present in the Dutch market include Applebee's, Pizza Hut, Domino's Pizza, and Kentucky Fried Chicken (KFC).",
+        "• The Belgian fast food chain Quick exited the Dutch market in the year 2000, indicating a withdrawal of some foreign competitors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:14:54.315935",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "4",
+      "section_name": "Data",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents key economic indicators for the Netherlands from 1980 to 2021, with IMF staff estimates for 2022 to 2027, including GDP (in billion US$ PPP and nominal), GDP per capita (in US$ PPP and nominal), real GDP growth, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, the Netherlands had a GDP of 165.0 billion US$ PPP and a GDP per capita of 11,708.1 US$ PPP, with nominal GDP at 193.8 billion US$ and nominal GDP per capita at 13,750.5 US$, unemployment was 3.4%, and government debt was 43.6% of GDP; inflation data for this year is not available.",
+        "• Between 1981 and 1983, the Netherlands experienced negative real GDP growth rates of -0.5% in 1981 and -1.3% in 1982, with inflation rates of 6.8% in 1981 and 5.9% in 1982; unemployment rose from 4.6% in 1981 to 8.3% in 1983, and government debt increased from 46.9% to 58.5% of GDP.",
+        "• From 1984 to 1989, the economy recovered with positive real GDP growth ranging from 1.8% to 4.6%, inflation rates fluctuated between -1.0% and 1.1%, unemployment rates decreased from 8.1% in 1984 to 5.7% in 1989, and government debt rose steadily from 62.0% to 73.8% of GDP.",
+        "• In the early 1990s (1990-1993), real GDP growth slowed to between 1.3% and 4.2%, inflation rates ranged from 1.6% to 3.2%, unemployment increased slightly from 5.1% to 5.5%, and government debt remained high around 74.9% to 76.8% of GDP.",
+        "• The mid to late 1990s (1994-1999) saw steady economic growth with real GDP growth rates between 2.8% and 5.0%, low inflation rates mostly under 2%, declining unemployment from 6.2% to 4.1%, and a significant reduction in government debt from 73.6% to 57.5% of GDP.",
+        "• In 2000, the Netherlands had a GDP of 531.9 billion US$ PPP and a GDP per capita of 33,528.1 US$ PPP, with nominal GDP at 417.7 billion US$ and nominal GDP per capita at 26,327.9 US$; real GDP growth was 4.2%, inflation was 2.3%, unemployment was 3.7%, and government debt was 50.9% of GDP.",
+        "• From 2001 to 2007, real GDP growth fluctuated between 0.2% and 3.8%, inflation rates remained low (mostly below 2%), unemployment decreased from 3.1% in 2001 to 5.3% in 2007, and government debt steadily declined from 48.2% to 42.0% of GDP.",
+        "• The global financial crisis impacted the Netherlands in 2008-2009, with real GDP growth dropping to -3.7% in 2009, inflation rates remained low (1.0% in 2009), unemployment increased slightly from 4.8% in 2008 to 5.4% in 2009, and government debt rose from 53.8% to 55.8% of GDP.",
+        "• Between 2010 and 2014, the Netherlands experienced modest real GDP growth ranging from -1.0% to 1.6%, inflation rates varied between 0.3% and 2.8%, unemployment increased from 6.1% to 8.3%, and government debt peaked at 68.0% of GDP in 2014.",
+        "• From 2015 to 2019, the economy showed recovery with real GDP growth between 2.0% and 2.9%, inflation rates remained very low (0.1% to 2.7%), unemployment decreased significantly from 7.9% to 4.4%, and government debt declined from 64.6% to 48.5% of GDP.",
+        "• The COVID-19 pandemic caused a contraction in 2020 with real GDP growth at -3.9%, inflation at 1.1%, unemployment at 4.9%, and government debt increased to 54.6% of GDP; GDP was 1,002.9 billion US$ PPP and GDP per capita was 57,612.5 US$ PPP.",
+        "• In 2021, the Netherlands' economy rebounded with real GDP growth of 4.9%, inflation at 2.8%, unemployment at 4.2%, and government debt decreased to 52.3% of GDP; GDP reached 1,095.4 billion US$ PPP and GDP per capita was 62,685.0 US$ PPP.",
+        "• IMF staff estimates for 2022 project GDP at 1,226.7 billion US$ PPP, GDP per capita at 69,714.5 US$ PPP, real GDP growth of 4.5%, inflation at 12.0%, unemployment at 3.5%, and government debt at 48.3% of GDP.",
+        "• For 2023, projected GDP is 1,280.5 billion US$ PPP with GDP per capita of 72,363.5 US$ PPP, real GDP growth slowing to 0.8%, inflation decreasing to 8.0%, unemployment at 3.9%, and government debt at 46.4% of GDP.",
+        "• The forecasts for 2024 to 2027 indicate steady GDP growth from 1,329.6 billion US$ PPP in 2024 to 1,474.1 billion US$ PPP in 2027, GDP per capita rising from 74,842.4 US$ PPP to 82,280.9 US$ PPP, real GDP growth stabilizing around 1.5% to 1.7%, inflation rates declining to around 2.0% by 2027, unemployment remaining low between 3.5% and 4.6%, and government debt gradually increasing from 45.6% to 48.1% of GDP.",
+        "• Inflation rates under 5% are highlighted in green in the table, indicating that most years from 1980 to 2027 maintain relatively low inflation except for spikes such as 1981 (6.8%), 1982 (5.9%), and notably 2022 (12.0%).",
+        "• Unemployment rates have generally fluctuated between approximately 3% and 8%, with the highest rates observed in the early 1980s and early 2010s, and the lowest rates in the late 1990s and mid-2010s.",
+        "• Government debt as a percentage of GDP peaked in the early 1990s at around 75%, decreased steadily through the late 1990s and 2000s to below 50% by 2019, rose again during the COVID-19 pandemic, and is projected to stabilize just below 50% through 2027."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:27.599129",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "5",
+      "section_name": "Companies",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, the sector with the highest number of companies registered in the Netherlands was Services, with 761,749 companies, followed by Finance, Insurance, and Real Estate with 693,255 companies, and Retail Trade with 101,025 companies.",
+        "• Between 2020 and 2023, 91% of Dutch enterprises reported having invested appropriately, surpassing the EU average investment rate of 82%.",
+        "• Dutch firms prioritize investment in new goods or services at a rate of 26%, compared to 34% for replacement investments, indicating a focus on innovation relative to other EU enterprises.",
+        "• Consistent with the EU average of 10%, only 7% of enterprises in the Netherlands do not plan to invest in the near future.",
+        "• The energy crisis of 2022-2023 negatively impacted Dutch companies, but to a lesser extent than firms in other EU countries; only 30% of Dutch companies consider energy prices a critical issue, which is half the EU average of 59%.",
+        "• Dutch firms face significant long-term investment challenges, primarily a lack of trained personnel (71%) and high energy prices (66%).",
+        "• Barriers to investment in the Netherlands are decreasing, with current figures lower than both the EU average and those recorded in 2021; for example, only 23% of Dutch firms cite availability of funding as an impediment, compared to 44% across the EU.",
+        "• In 2023, 13% of Dutch enterprises introduced new goods, processes, or services to either the Dutch or global market.",
+        "• Dutch firms demonstrate a higher technological orientation than their EU counterparts, with 78% employing at least one digital technology in 2023, compared to the EU average of 70%.",
+        "• The majority of Dutch companies utilize digital platform technologies (59%), robots (56%), and the Internet of Things (55%).",
+        "• Usage of advanced technologies such as 3D printing (19%) and augmented/virtual reality (15%) remains relatively low among Dutch firms."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:03.230052",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "6",
+      "section_name": "Largest companies",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Netherlands hosts several prominent multinational corporations headquartered in Amsterdam, including Heineken, Ahold, Philips, TomTom, Randstad NV, and ING.",
+        "• Numerous non-Dutch companies, such as EADS, LyondellBasell, and IKEA, have established their headquarters in the Netherlands, attracted by favorable corporate tax rates.",
+        "• As of 2022, the largest Dutch companies listed in the Fortune Global 500 include:",
+        "• Stellantis, ranked 29 globally, operates in the automotive industry with revenues of USD 176,663.0 million, profits of USD 16,789.1 million, assets totaling USD 195,297.9 million, and employs 281,595 people; its headquarters are in Amsterdam.",
+        "• Ahold Delhaize, ranked 115 globally, is in the retail sector with revenues of USD 89,385.6 million, profits of USD 2,655.5 million, assets of USD 51,974.5 million, and 259,000 employees; headquartered in Zaandam.",
+        "• Aegon, ranked 200 globally, operates in financial services, generating USD 63,662.7 million in revenue, USD 2,341.0 million in profits, with assets of USD 532,402.5 million and 22,271 employees; headquartered in The Hague.",
+        "• Airbus, ranked 207 globally, is in aerospace and defense, with revenues of USD 61,657.5 million, profits of USD 4,981.2 million, assets of USD 121,712.4 million, and 126,495 employees; headquartered in Leiden.",
+        "• Louis Dreyfus Company, ranked 276 globally, operates in food production, reporting revenues of USD 49,569.0 million, profits of USD 697.0 million, assets of USD 23,626.0 million, and employs 15,737 people; headquartered in Rotterdam.",
+        "• INGKA Holding, ranked 287 globally, is a retail company with revenues of USD 47,545.8 million, profits of USD 1,887.1 million, assets of USD 65,010.9 million, and 174,225 employees; headquartered in Leiden.",
+        "• LyondellBasell, ranked 305 globally, operates in the chemicals industry, with revenues of USD 46,173.0 million, profits of USD 5,610.0 million, assets of USD 36,742.0 million, and 19,100 employees; headquartered in Rotterdam.",
+        "• ING Group, ranked 425 globally, is in banking, generating USD 33,851.4 million in revenue, USD 7,036.1 million in profits, assets totaling USD 1,079,297.3 million, and employing 57,660 people; headquartered in Amsterdam.",
+        "• X5 Group, ranked 477 globally, operates in retail with revenues of USD 29,921.7 million, profits of USD 580.0 million, assets of USD 17,164.8 million, and 340,928 employees; headquartered in The Hague.",
+        "• Randstad NV, ranked 491 globally, is a consulting firm with revenues of USD 29,126.8 million, profits of USD 908.0 million, assets of USD 12,552.5 million, and 39,530 employees; headquartered in Diemen."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:06.599557",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "7",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1985 and 2018, a total of 22,484 mergers and acquisitions deals were conducted in the Netherlands, with a cumulative transaction value of 2,226.6 billion USD.",
+        "• The year 2000 recorded the highest number of deals in the Netherlands, totaling 1,169 transactions.",
+        "• The year 2007 witnessed the highest overall value of mergers and acquisitions in the Netherlands, reaching nearly 394.9 billion USD.",
+        "• Following 2007, the Netherlands experienced a significant decline in mergers and acquisitions activity due to the Great Recession.",
+        "• On 25 April 2007, RFS Holdings BV (Netherlands, Other Financials sector) acquired ABN-AMRO Holding NV (Netherlands, Banks sector) for 98,189.19 million USD.",
+        "• On 19 March 2007, Barclays PLC (United Kingdom, Banks sector) acquired ABN-AMRO Holding NV (Netherlands, Banks sector) for 92,606.80 million USD.",
+        "• On 28 October 2004, Royal Dutch Petroleum Co (Netherlands, Oil & Gas sector) acquired Shell Transport & Trading Co (United Kingdom, Oil & Gas sector) for 74,558.58 million USD.",
+        "• On 4 August 2015, Royal Dutch Shell PLC (Netherlands, Petrochemicals sector) acquired BG Group PLC (United Kingdom, Oil & Gas sector) for 69,445.02 million USD.",
+        "• On 2 March 2016, CNAC Saturn (NL) BV (Netherlands, Chemicals sector) acquired Syngenta AG (Switzerland, Chemicals sector) for 41,840.11 million USD.",
+        "• On 27 January 2006, Mittal Steel Co NV (Netherlands, Metals & Mining sector) acquired Arcelor SA (Luxembourg, Metals & Mining sector) for 32,240.47 million USD.",
+        "• On 3 September 2017, PPG Industries Inc (United States, Chemicals sector) acquired Akzo Nobel NV (Netherlands, Chemicals sector) for 26,560.76 million USD.",
+        "• On 4 August 2015, Royal Dutch Shell PLC (Netherlands, Petrochemicals sector) conducted a transaction valued at 25,000.00 million USD involving itself in the Petrochemicals sector within the Netherlands.",
+        "• On 29 September 2008, the National Government of the Netherlands acquired Fortis Bank Nederland (Holding) (Netherlands, Banks sector) for 23,137.31 million USD.",
+        "• On 10 April 2010, VimpelCom Ltd (Netherlands, Wireless sector) acquired Weather Investments Srl (Italy, Telecommunications Services sector) for 22,382.31 million USD."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:08.445821",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "8",
+      "section_name": "Caribbean Netherlands",
+      "chapter_name": "Economy of the Netherlands",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Bonaire is primarily driven by tourism, with a significant focus on diving and ecotourism due to its coral reefs and marine biodiversity, contributing substantially to local income and employment.",
+        "• Bonaire’s economy also benefits from salt production, historically significant and still active, alongside small-scale agriculture and livestock farming supporting local consumption.",
+        "• The island of Saba’s economy relies heavily on tourism, particularly eco-tourism and diving, with a smaller population and limited infrastructure compared to Bonaire, leading to a more niche market focus.",
+        "• Saba’s economic activities include small-scale agriculture and fishing, supporting local needs, with some government employment and public services forming a part of the economic structure.",
+        "• Sint Eustatius has an economy historically based on oil transshipment and storage, leveraging its strategic location; however, this sector has fluctuated, impacting economic stability.",
+        "• Sint Eustatius also engages in tourism, particularly heritage and nature tourism, though on a smaller scale compared to Bonaire and Saba, alongside agriculture and government services contributing to the economy.",
+        "• The wider Dutch Kingdom includes the economies of Aruba, Curacao, and Sint Maarten, which are autonomous countries within the Kingdom of the Netherlands, each with distinct economic profiles.",
+        "• Aruba’s economy is heavily dependent on tourism, especially from the United States and Europe, supported by oil refining and offshore banking sectors, contributing to its GDP and employment.",
+        "• Curacao’s economy is diversified with significant contributions from tourism, oil refining, financial services, and shipping industries, making it one of the more economically developed islands in the Kingdom.",
+        "• Sint Maarten’s economy is predominantly tourism-based, with a well-developed cruise ship industry and hospitality sector, alongside financial services and retail trade playing important roles.",
+        "• Collectively, the Caribbean Netherlands and the wider Dutch Kingdom islands maintain economies largely centered on tourism, with varying degrees of diversification into oil-related industries, financial services, and local agriculture."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:03.017297",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_netherlands.json",
+      "original_index": 19
+    }
+  ]
+}

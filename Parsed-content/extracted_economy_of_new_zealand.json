@@ -1,0 +1,1044 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_new_zealand.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.495359",
+    "total_sections_in_source": 42,
+    "extracted_sections_count": 41,
+    "skipped_sections_count": 1
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of New Zealand is characterized as a highly developed free-market economy.",
+        "• It ranks as the 52nd-largest national economy globally by nominal gross domestic product (GDP).",
+        "• When measured by purchasing power parity (PPP), New Zealand is the 63rd-largest economy in the world.",
+        "• New Zealand possesses one of the most globalised economies worldwide, with a significant dependence on international trade.",
+        "• The country's main trading partners include China, Australia, the European Union, the United States, Japan, and Korea.",
+        "• The 1983 Closer Economic Relations agreement with Australia aligns New Zealand’s economy closely with that of Australia.",
+        "• Among OECD nations, New Zealand maintains a highly efficient and strong social security system, with social expenditure at approximately 19.4% of GDP.",
+        "• New Zealand’s economy comprises a diverse range of informal and formal organisations, divided between public and private sectors.",
+        "• The service sector is the largest component of the economy, accounting for 73% of all GDP activity as of 2024.",
+        "• As a large island nation, New Zealand benefits from abundant natural resources and mineral wealth.",
+        "• Key manufacturing industries include aluminium production, food processing, metal fabrication, and wood and paper products.",
+        "• Goods-producing industries represent 20% of GDP as of 2024.",
+        "• Despite constituting only 7% of GDP as of 2024, the primary sector remains dominant in New Zealand’s export profile.",
+        "• The information technology sector in New Zealand is experiencing rapid growth.",
+        "• The major capital market in New Zealand is the New Zealand Exchange (NZX).",
+        "• As of February 2023, the NZX listed a total of 338 securities, including equity, debt, and funds, with a combined market capitalisation of NZD $226 billion.",
+        "• The New Zealand dollar circulates not only within New Zealand but also in four Pacific Island territories.",
+        "• Globally, the New Zealand dollar ranks as the 10th-most traded currency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:03:34.849773",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture, particularly dairy farming exemplified by facilities such as the Fonterra plant, is a major export earner for New Zealand, with forestry exports also constituting an important component of the national economy, as illustrated by the Kinleith Mill.",
+        "• From the 1850s until the 1970s, New Zealand's economy was predominantly based on a narrow range of agricultural products, including wool, meat, and dairy, which served as the country's staple and most valuable exports, fundamentally supporting economic success.",
+        "• Between 1920 and the late 1930s, dairy exports typically accounted for around 35% of New Zealand’s total exports, reaching nearly 45% in certain years, highlighting the sector’s significant contribution to the economy.",
+        "• The high global demand for primary products, notably demonstrated by the New Zealand wool boom of 1951, contributed to New Zealand maintaining one of the highest standards of living worldwide for approximately 70 years.",
+        "• In the 1960s, prices for traditional agricultural exports declined, and in 1973 New Zealand lost its preferential trading relationship with the United Kingdom following the UK’s accession to the European Economic Community, adversely affecting export markets.",
+        "• As a consequence of these trade changes and other factors, New Zealand’s GDP per capita relative to the OECD average, adjusted for purchasing power, declined from about 115% in 1970 to 80% by 1990.",
+        "• From 1984 to 1993, New Zealand underwent significant economic reforms, transitioning from a relatively closed and centrally controlled economy to one of the most open economies within the OECD, through a series of liberalization policies collectively known as Rogernomics.",
+        "• Successive New Zealand governments during this period implemented policies that dramatically liberalized the economy, fostering increased openness and competitiveness in global markets.",
+        "• By 2005, the World Bank recognized New Zealand as the most business-friendly country in the world, reflecting the success of its economic reforms and regulatory environment.",
+        "• Economic diversification continued, and by 2008 tourism had emerged as the single largest generator of foreign exchange for New Zealand, marking a shift from traditional agricultural export dependence."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:03:43.758832",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Early years",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to European settlement and colonisation, Māori maintained a subsistence economy organized around the sub-tribe or hapū, within which labour was divided to meet basic needs.",
+        "• From the 1790s, British, French, and American whaling, sealing, and trading ships frequented New Zealand waters, exchanging European goods such as guns and metal tools for Māori food, water, wood, flax, and sexual services.",
+        "• The increasing lawlessness of these foreign crews and the New Zealand Company’s plans for formal settlement were significant factors leading to the signing of the Treaty of Waitangi in 1840, which established New Zealand as a British colony.",
+        "• European settlers remained dependent on Māori for food supplies until the 1860s, after which immigrants became self-sufficient through farming and began exploiting mineral resources, including gold.",
+        "• Gold was discovered at Gabriel's Gully in Central Otago, sparking the Otago gold rush in 1861, which led to the flourishing of settlements around mining areas.",
+        "• By the 1880s, Dunedin had become the wealthiest city in New Zealand, largely due to investments and economic activity generated by the gold rush.",
+        "• Sheep farming originated in the Wairarapa region and rapidly expanded along the east coast from Southland to the East Cape as rudimentary roads and transport infrastructure developed.",
+        "• Much of the farmland used for sheep farming was either taken from or leased from Māori landowners.",
+        "• Sheep numbers in New Zealand grew rapidly, reaching one million by the mid-1850s and escalating to 10 million by the early 1870s.",
+        "• Wool emerged as New Zealand’s first staple export, initially shipped from the Wellington settlement in the late 1850s; unrefrigerated meat and dairy products were also exported, primarily to Australia.",
+        "• In the 1870s, Julius Vogel served intermittently as both colonial treasurer and premier, envisioning New Zealand as a \"Britain of the South Seas\" and initiating extensive infrastructure development including roads, railways, telegraphs, and bridges.",
+        "• Vogel’s infrastructure projects were heavily funded through public borrowing, but progress slowed significantly after the 1878 collapse of the City of Glasgow Bank, which caused a contraction of credit from London, the global financial center at the time.",
+        "• Economic activity remained depressed for several years until the introduction of refrigeration technology in 1882, which enabled New Zealand to export frozen meat and other products to the United Kingdom.",
+        "• The advent of refrigeration fundamentally transformed New Zealand’s economy, establishing a strong economic dependence on Britain as the primary export market.",
+        "• The success of refrigeration was closely linked to the growth and development of farming, which dominated economic activity in the 19th century, particularly in the South Island.",
+        "• Around 1900, dairy farming became increasingly viable in North Island regions less suited to sheep farming, including Northland, the Waikato, and Taranaki, leading to the gradual economic ascendancy of the North Island.",
+        "• Britain became the exclusive market for New Zealand’s meat and animal products, driven by increased land cultivation and farming activities.",
+        "• The expansion of dairy farming was a direct response to strong market demand from Europe, which not only transformed New Zealand’s rural landscape and agricultural production techniques but also influenced migration patterns to supply labor for the dairy industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:03:58.306307",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "20th century",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Reserve Bank of New Zealand was established on 1 August 1934 as New Zealand's central bank, marking the first time the New Zealand government had control over its monetary policy, which had previously been set in the United Kingdom with the New Zealand Pound issued by private banks.",
+        "• Despite establishing its own central bank, New Zealand remained part of the sterling area by pegging its pound to the British pound sterling until 1967, when the New Zealand dollar was introduced and initially pegged to the United States dollar before being floated in 1985.",
+        "• By the mid-20th century, pastoral-farming products accounted for more than 90% of New Zealand’s exports, with 65% of these exports going to Britain during the 1950s, benefiting from preferential trade quotas as a former British colony.",
+        "• The preferential trade quotas from the United Kingdom allowed New Zealand to impose high tariffs on imports from other countries, enabling local manufacturers to produce similar goods domestically, thereby broadening employment opportunities and allowing competition against higher-priced imports.",
+        "• This period of economic prosperity continued until 1955, when Britain began phasing out preferential quotas, transitioning New Zealand’s export market access to free market conditions, which led to a decline in New Zealand’s standard of living during the 1950s and 1960s due to the export sector’s inability to finance the growing demand for imported consumer goods.",
+        "• The Tiwai Point Aluminium Smelter was opened in 1971, representing a significant industrial development in New Zealand’s economy.",
+        "• Britain’s initial application to join the European Economic Community (EEC) in 1961 was vetoed by France, prompting New Zealand’s government under Prime Minister Keith Holyoake to diversify export markets by signing the Australia New Zealand Free Trade Agreement in 1965 and establishing new diplomatic posts in Hong Kong, Jakarta, Saigon, Los Angeles, and San Francisco.",
+        "• Britain reapplied for EEC membership in 1967 and entered negotiations in 1970; during this period, Holyoake’s deputy and successor, Jack Marshall (Prime Minister briefly in 1972), negotiated continued access for New Zealand exports to the UK through the \"Luxembourg Agreement.\"",
+        "• Britain gained full membership of the EEC on 1 January 1973, terminating all trade agreements with New Zealand except the Luxembourg Agreement, resulting in a sharp decline of New Zealand exports to Britain to 26.8% by the end of 1973.",
+        "• The loss of unrestricted access to the British market had a significant negative impact on New Zealand’s standard of living, which had ranked third highest globally in 1953 but fell to 22nd place by 1978.",
+        "• In response to the loss of its traditional export market, New Zealand sought to diversify its economy and export markets, with the government of Norman Kirk placing greater emphasis on expanding trade with South East Asia.",
+        "• The 1973 oil crisis, triggered by the Yom Kippur War and the subsequent oil embargo by Middle Eastern oil exporters, exacerbated New Zealand’s economic difficulties by causing inflation to rise sharply due to increased costs of transport and imported goods, further reducing the standard of living."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:04:04.138756",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.2.1",
+      "section_name": "Think Big",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Following the 1979 energy crisis caused by the Iranian Revolution, Robert Muldoon, who served as New Zealand's prime minister from 1975 to 1984, implemented an economic strategy known as Think Big.",
+        "• Think Big involved establishing large-scale industrial plants utilizing New Zealand's abundant natural gas resources to produce a new range of export products including ammonia, urea fertilizer, methanol, and petrol.",
+        "• The strategy also emphasized increased electricity use, exemplified by the electrification of the North Island Main Trunk railway, aiming to reduce New Zealand's reliance on imported oil.",
+        "• Key infrastructure projects under Think Big included the construction of the Clyde Dam on the Clutha River to meet rising electricity demand and the expansion of the New Zealand Steel plant located at Glenbrook.",
+        "• The Tiwai Point Aluminium Smelter, originally opened in 1971, was upgraded as part of the Think Big initiative and currently generates approximately NZ$1 billion in exports annually.",
+        "• Many Think Big projects were poorly timed, coming online during the 1980s oil glut when crude oil prices plummeted from over US$90 per barrel in 1980 to about US$30 a few years later, undermining their economic rationale.",
+        "• The initiation of these projects required substantial borrowing, causing New Zealand’s public debt to escalate from $4.2 billion in 1975, when Muldoon became prime minister, to $21.9 billion by the end of his tenure in 1984.",
+        "• Inflation remained high throughout the 1980s, averaging 11%, exacerbating economic challenges during the Think Big period.",
+        "• After the Labour Party assumed power in 1984, many Think Big projects were privatized as part of a broader program of state asset sales.",
+        "• Despite the overall interventionist approach, the Muldoon Government introduced some deregulatory measures, such as removing transport licensing restrictions in 1982 for road carriers transporting goods over distances greater than 150 km.",
+        "• Additionally, the Railways Department was transformed into a statutory corporation during this period, marking a step towards deregulation within the transport sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:04:11.820566",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.2.2",
+      "section_name": "Rogernomics",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1984 and 1993, New Zealand underwent radical economic reform, transitioning from one of the most protected, regulated, and state-dominated capitalist economies to an extreme free-market, open, and competitive system.",
+        "• The Fourth Labour government, elected in July 1984, initiated these reforms known as \"Rogernomics,\" named after Finance Minister Roger Douglas (1984–1988), emphasizing reduced government intervention and dominance of free market mechanisms.",
+        "• Key reforms under Rogernomics included granting independence to the Reserve Bank from political decisions, introducing performance contracts for senior civil servants, implementing public sector finance reform based on accrual accounting, promoting tax neutrality, removing agricultural subsidies, and establishing industry-neutral competition regulation.",
+        "• Government subsidies, including agricultural subsidies, were eliminated; import regulations were relaxed; the New Zealand dollar exchange rate was floated; and controls on interest rates, wages, and prices were removed, alongside reductions in personal tax rates.",
+        "• Tight monetary policy and efforts to reduce the government budget deficit lowered inflation from over 18% annually in 1987.",
+        "• Deregulation of government-owned enterprises during the 1980s and 1990s reduced the government's economic role and allowed partial retirement of public debt.",
+        "• Upon election, the new government faced an exchange rate crisis as speculators anticipated a 20% devaluation of the New Zealand dollar, leading to the 1984 constitutional crisis due to Prime Minister Robert Muldoon's refusal to devalue, exacerbating the currency crisis.",
+        "• Consequently, the New Zealand dollar was floated on 4 March 1985, allowing its value to fluctuate with the market; prior to this, it was pegged to a basket of currencies.",
+        "• Financial markets were deregulated, tariffs on imports were lowered and phased out, and subsidies to many industries, especially agriculture, were removed or significantly reduced.",
+        "• Income and company taxes were reduced; notably, the top marginal tax rate fell from 66% to 33%.",
+        "• A comprehensive Goods and Services Tax (GST) was introduced, initially at 10%, raised to 12.5% in 1989, and further increased to 15% in 2010.",
+        "• A surtax on universal superannuation was introduced.",
+        "• Many government departments were corporatised and became State Owned Enterprises (SOEs) from 1 April 1987, required to operate profitably.",
+        "• The corporatisation process led to significant job losses: Electricity Corporation shed 3,000 jobs; Coal Corporation 4,000; Forestry Corporation 5,000; and New Zealand Post 8,000.",
+        "• The early 1980s wage and price freeze, combined with financial deregulation and limited investment opportunities, caused a speculative bubble in New Zealand’s sharemarket.",
+        "• The 1987 sharemarket crash resulted in a 60% loss from the peak, with recovery taking several years.",
+        "• Inflation remained a major economic problem; between 1985 and 1992, inflation averaged 9% annually while the economy was in recession.",
+        "• Unemployment increased sharply from 3.6% to 11% between 1986 and 1993.",
+        "• New Zealand’s credit rating was downgraded twice during this period, and foreign debt quadrupled.",
+        "• The Reserve Bank Act 1989 established strict monetary policy under the sole control of the Reserve Bank Governor, focusing on low and stable inflation using the Official Cash Rate (OCR) as the primary tool.",
+        "• Inflation rates fell to an average of 2.5% in the 1990s, compared to 12% in the 1970s, although tighter monetary policy contributed to rising unemployment in the early 1990s.",
+        "• The Labour Party became deeply divided over Rogernomics, especially after the 1987 sharemarket crash and the subsequent early 1990s global recession.",
+        "• The National Party won the 1990 general election; Ruth Richardson became Minister of Finance under Prime Minister Jim Bolger.",
+        "• The state-owned Bank of New Zealand required a bailout shortly after the National Party took office.",
+        "• Ruth Richardson’s 1991 budget, dubbed the \"Mother of all Budgets,\" aimed to reduce fiscal deficits by cutting state spending, including reductions in unemployment and social welfare benefits.",
+        "• The budget introduced 'market rents' for state housing, sometimes tripling rents for low-income tenants, and implemented user-pays charges in hospitals and schools; these reforms were pejoratively called \"Ruthanasia.\"",
+        "• Between 1989 and 1992, poverty in New Zealand increased by at least 35%, raising concerns about the social impact of economic reforms and questioning the benefits of privatisation.",
+        "• Gross Domestic Product (GDP) per capita stagnated between 1986–87 and 1993–94.",
+        "• From 1985 to 1992, New Zealand’s economy grew by only 4.7%, compared to an average OECD growth of 28.2%.",
+        "• By March 1992, unemployment reached 11.1%.",
+        "• Deregulation of the postal sector allowed multiple postal operators to install mail collection boxes in New Zealand streets, increasing competition.",
+        "• Deregulation created a business-friendly regulatory environment; a 2008 survey by The Heritage Foundation and The Wall Street Journal ranked New Zealand 99.9% in \"Business freedom\" and 80% overall in \"Economic freedom.\"",
+        "• The survey noted that establishing a business in New Zealand takes an average of 12 days, compared to the global average of 43 days.",
+        "• However, deregulation also had negative consequences, notably the leaky homes crisis, caused by relaxed building standards and reliance on market forces for quality assurance.",
+        "• The leaky homes crisis led to thousands of defective residential buildings and apartments constructed over about a decade.",
+        "• The estimated cost to repair damage from the leaky homes crisis exceeded NZ$11 billion as of 2009."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:04:38.031801",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 36
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "21st century",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The unemployment rate in New Zealand continued to decline from the 1993 to 1994 fiscal year until the 1997 Asian financial crisis caused an increase in unemployment levels.",
+        "• By 2016, New Zealand's unemployment rate had decreased to 5.3 percent, marking the lowest rate in seven years.",
+        "• Between 2000 and 2007, the New Zealand economy grew at an average annual rate of 3.5 percent, primarily driven by private consumption and a buoyant housing market.",
+        "• During the 2000 to 2007 period, inflation in New Zealand averaged 2.6 percent annually, remaining within the Reserve Bank of New Zealand's target inflation range of 1 percent to 3 percent.",
+        "• In early 2008, New Zealand's economy entered a recession prior to the global impacts of the Great Recession later that year.",
+        "• A drought during the 2007/08 summer resulted in reduced dairy product output in the first half of 2008, negatively affecting agricultural production.",
+        "• Domestic economic activity in New Zealand slowed significantly throughout 2008 due to high fuel and food prices, which suppressed domestic consumption.",
+        "• Elevated interest rates combined with falling house prices caused a rapid decline in residential investment during 2008.",
+        "• Global financial sector instability escalated throughout 2008, culminating in the bankruptcy of Lehman Brothers in September 2008, which triggered the peak of the 2008 global financial crisis."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:04:44.379106",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "1.3.1",
+      "section_name": "Finance company collapses (2006–2012)",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 2008 financial crisis, business and consumer confidence in New Zealand drastically declined as dozens of finance companies collapsed within a short timeframe.",
+        "• To prevent a flight of funds from New Zealand financial institutions to Australian ones, the New Zealand Government established the Crown Retail Deposit Guarantee Scheme, which insured depositors' funds in the event of a bank or finance company failure.",
+        "• Despite the guarantee scheme, at least 67 finance companies collapsed between 2006 and 2012, marking a significant period of financial instability in New Zealand.",
+        "• The largest finance company collapse was South Canterbury Finance in August 2010, which resulted in a taxpayer cost of NZ$1.58 billion.",
+        "• Following the collapses, many directors of these finance companies were investigated for fraud, with several high-profile directors subsequently imprisoned.",
+        "• In response to the economic downturn, the Reserve Bank of New Zealand lowered the Official Cash Rate (OCR) from a high of 8.25% in July 2008 to an all-time low of 2.5% by the end of April 2009, aiming to stimulate economic activity.",
+        "• New Zealand's recession was relatively shallow compared to other OECD countries, ranking as the sixth least affected among 34 member nations, with a total negative real GDP growth of 3.5%.",
+        "• The New Zealand economy began to recover in 2009, driven by strong demand from major trading partners Australia and China, as well as historically high prices for dairy and log exports.",
+        "• In 2010, New Zealand's GDP grew modestly by 1.6%, with continued economic improvement over the next few years fueled by the Canterbury rebuild following the Christchurch earthquakes and a recovery in domestic demand.",
+        "• Despite initial recovery, global economic conditions worsened through 2011, and New Zealand’s terms of trade declined from their peak in 2011, continuing to moderate until September 2012."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:04:52.876308",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "1.3.2",
+      "section_name": "\"Rock star\" economy",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, New Zealand's economy grew by 3.3%, marking a significant expansion in economic activity for the country.",
+        "• Paul Bloxham, HSBC chief economist for Australia and New Zealand, praised New Zealand's economic performance and predicted that its growth would surpass that of most peer countries, dubbing New Zealand the \"rock star economy of 2014.\"",
+        "• A financial commentator described the New Zealand dollar as the \"hottest\" currency of 2014, reflecting strong currency performance during that period.",
+        "• Despite the positive economic indicators, the New Zealand Productivity Commission expressed concerns only three months into 2014 about low living standards and challenges affecting the long-term drivers of economic growth.",
+        "• Paul Conway, Director of Economics and Research at the Productivity Commission, highlighted a significant discrepancy between expected and actual GDP per capita, stating that New Zealand’s policy settings should yield GDP per capita 20% above the OECD average, but the actual figure was more than 20% below the OECD average.",
+        "• Conway metaphorically remarked that New Zealand was \"punching above our weight, but that's only because we are in the wrong weight division,\" emphasizing structural economic issues despite apparent short-term success.",
+        "• In August 2014, Paul Bloxham acknowledged that a sharp decline in dairy prices over the preceding six months had introduced uncertainty and negatively affected the economic outlook.",
+        "• By December 2014, however, Bloxham maintained optimism, stating that he believed the New Zealand economy would continue to experience strong growth despite earlier concerns.",
+        "• In 2014, public and media attention increasingly focused on the widening gap between rich and poor in New Zealand.",
+        "• Max Rashbrook, writing in The Guardian, argued that policies from both Labour and National governments over the past twenty years had contributed to increased economic inequality.",
+        "• Rashbrook noted that public outrage over inequality had been muted for two decades but was beginning to rise, with recent polling indicating that three-quarters of New Zealanders believed their country was no longer an egalitarian society."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:05:01.687082",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "1.3.3",
+      "section_name": "COVID-19 pandemic and recession (2020–22)",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• New Zealand recorded its first case of COVID-19 on 28 February 2020, marking the beginning of the pandemic's impact on the country.",
+        "• In response to the pandemic, New Zealand closed its borders to all except citizens and residents on 19 March 2020 to limit the virus's spread.",
+        "• The country implemented a full lockdown from 26 March to 27 April 2020, followed by a partial lockdown from 28 April to 13 May 2020.",
+        "• The combination of border closures and lockdowns caused significant declines in the retail, accommodation, hospitality, and transport sectors.",
+        "• On 17 September 2020, New Zealand officially entered a recession, with the gross domestic product (GDP) contracting by 12.2% in the June 2020 quarter.",
+        "• The GDP rebounded sharply by 14% in the September 2020 quarter, resulting in a 2.2% year-on-year GDP contraction by the end of that quarter.",
+        "• After successfully containing COVID-19, New Zealand experienced a V-shaped economic recovery, ending 2020 with an overall economic expansion of 0.4%, outperforming the predicted 1.7% contraction.",
+        "• Unemployment decreased to 4.9% in December 2020, down from a peak of 5.3% in September 2020 during the height of the pandemic’s economic impact.",
+        "• COVID-19 restrictions were reintroduced in late 2021 due to renewed virus presence and continued until late 2023.",
+        "• By 23 September 2021, Marisa Bidois, Chief Executive of the Restaurant Association, estimated that approximately 1,000 hospitality businesses nationwide had closed due to the pandemic, resulting in the loss of 13,000 jobs.",
+        "• The Restaurant Association lobbied the New Zealand Government for continued wage subsidies and incentives to increase customer patronage in the hospitality sector.",
+        "• On 13 November 2021, the Bay of Plenty Times reported that 26,774 companies had been liquidated in New Zealand during the first eight months of 2021.",
+        "• On 27 January 2022, New Zealand’s inflation rate reached a 30-year record high of 5.9% at the end of 2021.",
+        "• Statistics New Zealand reported that the consumer price index increased by 1.4% between October and December 2021, driven by rising costs in construction, petrol, and rents.",
+        "• Household utilities expenses rose by 2%, influenced by a 16% increase in the cost of new dwellings from 2020 and a 30% increase in fuel prices, from NZ$1.87 per litre to NZ$2.45 per litre.",
+        "• Prime Minister Jacinda Ardern attributed the sharp inflation rise primarily to increasing crude oil prices in international markets.",
+        "• Opposition National Party leader Christopher Luxon and Finance spokesperson Simon Bridges blamed the inflation surge on the Government’s \"wasteful\" spending policies.",
+        "• On 1 February 2022, the Organisation for Economic Cooperation and Development (OECD) released an annual report identifying New Zealand’s border restrictions and declining house prices as the main economic risks for 2022.",
+        "• The OECD report praised New Zealand’s COVID-19 elimination strategy and macroeconomic stimulus measures, including wage and socio-economic subsidies, for helping the economy recover to pre-pandemic levels.",
+        "• The OECD warned that excessive Government spending was causing the economy to overheat and leading to substantial increases in both household and government debt.",
+        "• The OECD welcomed the Reserve Bank of New Zealand’s decision to raise interest rates as a measure to control inflation.",
+        "• The OECD urged the New Zealand Government to raise the superannuation age, remove barriers to housing construction, and reduce government spending to ensure sustainable economic growth.",
+        "• The OECD also supported the introduction of a social insurance scheme aimed at providing support for unemployed workers in New Zealand."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:05:18.410707",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 23
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "1.3.4",
+      "section_name": "Post COVID-19 pandemic (2023–present)",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• After the final COVID-19 restrictions were lifted in 2023, New Zealand experienced a period of economic stagnation and recession.",
+        "• The economy faced ongoing inflationary pressures coupled with successive increases in interest rates.",
+        "• Consumer spending remained low, contributing to subdued economic activity.",
+        "• These factors collectively resulted in low to negative economic growth spanning from 2022 through 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:05:21.246197",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "2",
+      "section_name": "Overview",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2015, the Social Progress Index ranked New Zealand's economy fifth globally, assessing areas such as basic human needs, foundations of well-being, and the level of opportunity available to citizens.",
+        "• Historically, New Zealand's income levels were above many Western European countries prior to the economic crisis of the 1970s; however, these income levels declined in relative terms after the crisis and have not recovered since.",
+        "• The decline in relative income levels has contributed to an increase in poverty rates and a dramatic rise in income inequality within New Zealand.",
+        "• Since the early 1970s, New Zealand has experienced persistent current-account deficits, with the deficit peaking at −7.8% of GDP in 2006 and subsequently decreasing to −2.6% of GDP in the fiscal year 2014.",
+        "• According to the CIA World Fact Book, New Zealand's public debt in 2017, defined as government debt, was estimated at 31.7% of GDP.",
+        "• Between 1984 and 2006, New Zealand's net external foreign debt increased elevenfold, reaching NZ$182 billion.",
+        "• As of 2018, New Zealand's gross core crown debt stood at NZ$84,524 million, equivalent to 29.5% of GDP, while net core crown debt was NZ$62,114 million, representing 21.7% of GDP.",
+        "• Despite ongoing current-account deficits, New Zealand has generally maintained a positive balance on external goods and services; in fiscal year 2014, export receipts exceeded imports by NZ$3.9 billion.",
+        "• New Zealand has faced an investment income imbalance characterized by a net outflow for debt-servicing of external loans; in fiscal year 2014, investment income received from the rest of the world was NZ$7 billion, whereas outgoings amounted to NZ$16.3 billion, resulting in a deficit of NZ$9.3 billion.",
+        "• The share of the current-account deficit attributable to the investment income imbalance, largely a net outflow to the Australian-owned banking sector, increased from approximately one third in 1997 to about 70% in 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:05:30.973161",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Taxation",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Inland Revenue Department (IRD) is responsible for collecting taxes at the national level in New Zealand on behalf of the New Zealand Government.",
+        "• New Zealanders are required to pay national taxes on personal income, business income, and the supply of goods and services, which is subject to Goods and Services Tax (GST).",
+        "• New Zealand does not have a capital gains tax; however, certain gains such as profits from the sale of patent rights are treated as income and taxed accordingly.",
+        "• Income tax applies to property transactions in specific circumstances, particularly those involving speculation.",
+        "• Local property taxes, known as rates, are managed and collected by local authorities rather than the national government.",
+        "• Certain goods and services are subject to specific taxes called excises or duties, including alcohol excise and gaming duty, which are collected by various government agencies such as the New Zealand Customs Service.",
+        "• New Zealand does not impose a social security (payroll) tax or a land tax.",
+        "• The 2010 New Zealand budget introduced cuts to personal income tax rates, reducing the top personal tax rate from 38% to 33%.",
+        "• Following the 2010 tax cuts, New Zealand had the second-lowest personal tax burden among OECD countries, with only Mexico having a higher percentage-wise \"take home\" proportion of salaries.",
+        "• The reduction in income tax was estimated to decrease government revenue by $2.46 billion.",
+        "• To offset the revenue loss from income tax cuts, the National government increased the GST rate from 12.5% to 15%.",
+        "• Treasury data indicated that top income earners in New Zealand pay between 6% and 8% of their income on GST.",
+        "• Individuals earning less than $356 per week spend between 11% and 14% of their income on GST, according to Treasury figures.",
+        "• Based on these statistics, The New Zealand Herald predicted that raising the GST to 15% would disproportionately increase living costs for low-income individuals, impacting the poor more than twice as much as the rich."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:05:39.577354",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Corruption",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, New Zealand was ranked 1st on the Transparency International Corruption Perceptions Index (CPI) with a score of 89 out of 100.",
+        "• In 2018, New Zealand’s ranking on the Corruption Perceptions Index dropped to 2nd place, with a score of 87 out of 100.",
+        "• In 2019, New Zealand regained the 1st position on the Corruption Perceptions Index, maintaining a score of 87 out of 100.",
+        "• Despite consistently high rankings indicating low levels of corruption, New Zealand still experiences instances of corruption within the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:05:43.794782",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Regional economies",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In March 2024, Statistics New Zealand published detailed data on the gross domestic product (GDP) of New Zealand's regions for the year ended March 2023, providing figures in NZ$ million, share of national GDP, GDP per capita in NZ$, and GDP growth from 2022 to 2023.",
+        "• Northland (region 1) recorded a GDP of NZ$10,061 million, representing 2.6% of the national GDP, with a GDP per capita of NZ$49,710 and a growth rate of +6.4% between 2022 and 2023.",
+        "• Auckland (region 2) had the largest regional GDP at NZ$148,732 million, accounting for 38.2% of New Zealand’s total GDP, with a GDP per capita of NZ$86,734 and a GDP growth of +10% over the year.",
+        "• Waikato (region 3) contributed NZ$34,613 million to GDP, making up 8.9% of the national total, with a GDP per capita of NZ$67,028 and an 8.2% growth rate from 2022 to 2023.",
+        "• Bay of Plenty (region 4) reported a GDP of NZ$22,581 million, 5.8% of the national GDP, a GDP per capita of NZ$64,462, and a growth rate of +6.2%.",
+        "• Gisborne (region 5) had a GDP of NZ$2,665 million, representing 0.7% of the national GDP, with a GDP per capita of NZ$50,955 and a growth rate of +5.5%.",
+        "• Hawke’s Bay (region 6) recorded NZ$11,385 million in GDP, 2.9% of the national share, a GDP per capita of NZ$61,977, and a growth rate of +7%.",
+        "• Taranaki (region 7) contributed NZ$10,241 million to GDP, 2.6% of the national total, with a GDP per capita of NZ$80,072 and a growth rate of +5.5%.",
+        "• Manawatū-Whanganui (region 8) had a GDP of NZ$15,289 million, accounting for 3.9% of national GDP, a GDP per capita of NZ$59,010, and a growth rate of +7.1%.",
+        "• Wellington (region 9) contributed NZ$47,465 million to GDP, representing 12.2% of the national GDP, with a GDP per capita of NZ$86,805 and a growth rate of +6.9%.",
+        "• The combined GDP of the North Island regions totaled NZ$303,033 million, which is 77.9% of New Zealand’s national GDP, with an average GDP per capita of NZ$76,645 and an overall GDP growth of +8.4% between 2022 and 2023.",
+        "• Tasman and Nelson (regions 10 and 11), although separate regions, are combined by Statistics New Zealand for reporting purposes; together they had a GDP of NZ$7,100 million, 1.8% of national GDP, a GDP per capita of NZ$62,277, and an 8% growth rate.",
+        "• Marlborough (region 12) recorded a GDP of NZ$3,947 million, 1.0% of the national GDP, with a GDP per capita of NZ$76,049 and the highest regional growth rate of +10.4%.",
+        "• West Coast (region 13) contributed NZ$2,095 million to GDP, 0.5% of the national total, with a GDP per capita of NZ$63,876 and a growth rate of +7%.",
+        "• Canterbury (region 14) had a GDP of NZ$47,944 million, representing 12.3% of national GDP, a GDP per capita of NZ$72,620, and a growth rate of +9%.",
+        "• Otago (region 15) reported a GDP of NZ$16,755 million, 4.3% of the national GDP, with a GDP per capita of NZ$66,700 and a growth rate of +9.8%.",
+        "• Southland (region 16) contributed NZ$8,271 million to GDP, 2.1% of the national total, with a GDP per capita of NZ$80,148 and a growth rate of +6.3%.",
+        "• The combined GDP of the South Island regions was NZ$86,112 million, accounting for 22.1% of New Zealand’s total GDP, with an average GDP per capita of NZ$70,973 and an overall GDP growth of +8.8% between 2022 and 2023.",
+        "• The total GDP of New Zealand for the year ended March 2023 was NZ$389,145 million, with a national GDP per capita of NZ$75,311 and an overall GDP growth rate of +8.5% from 2022 to 2023.",
+        "• The data includes the Chatham Islands within the regional figures and notes that Nelson and Tasman, while reported together by Statistics New Zealand, are distinct regions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:05:54.935230",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Unemployment",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to 1973, unemployment in New Zealand was very low, despite a recession and a collapse in wool prices in 1966 that caused unemployment to rise by 131%, which represented only a 0.7 percentage point increase in the unemployment rate.",
+        "• The economic shock caused by Britain joining the European Economic Community (EEC) in 1973 removed the UK as New Zealand's primary export market, leading to unemployment becoming a persistent economic and social issue in New Zealand.",
+        "• Recessions from 1976 to 1978 and from 1982 to 1983 significantly increased unemployment levels in New Zealand.",
+        "• Between 1985 and 2012, the average unemployment rate in New Zealand was 6.29%.",
+        "• Following the 1987 stock market crash, unemployment rose by 170%, reaching an all-time high of 11.20% in September 1991.",
+        "• The 1997 Asian financial crisis caused unemployment to increase again by 28%.",
+        "• By December 2007, the unemployment rate had dropped to 3.5%, the lowest level since the current method of surveying began in 1986, ranking New Zealand 5th-best among OECD countries, where the average unemployment rate was 5.5% at that time.",
+        "• The low unemployment rate in 2007 correlated with a robust economy and a large backlog of job vacancies at all levels.",
+        "• Unemployment statistics are not always directly comparable between OECD nations due to differences in how labour market data are collected.",
+        "• The percentage of the population employed increased to 68.8%, with full-time employment rising slightly and part-time employment decreasing; this increase is attributed (though unverified) to rising wages and higher living costs motivating more people to seek employment.",
+        "• The low unemployment rate also had drawbacks, as many companies experienced difficulties filling job vacancies.",
+        "• Starting with the 2008 global financial crisis, unemployment in New Zealand began to rise, continuing until September 2012 when it peaked at 6.7%.",
+        "• After September 2012, the unemployment rate began to recover, reaching 3.9% as of June 2019."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:04.155267",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Housing affordability",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Shamubeel Eaqub, formerly a principal economist at the New Zealand Institute of Economic Research (NZIER), stated in 2014 that thirty years earlier, the average house price in New Zealand was two to three times the average household income.",
+        "• House prices in New Zealand rose dramatically in the early 21st century, and by 2007, the average house cost more than six times the average household income.",
+        "• International surveys conducted in 2013 indicated that housing was unaffordable in all eight of New Zealand's major markets, with \"unaffordable\" defined as house prices exceeding three times the median regional income.",
+        "• Demand for property has been strongest in Auckland, where the average sales price increased from $619,136 to $696,047 in 2014, representing a 12% rise within that 12-month period.",
+        "• In 2015, Auckland house prices rose an additional 14%, making it New Zealand's least affordable housing market and one of the most expensive cities globally, with house prices costing eight times the average income.",
+        "• Between 2012 and April 2016, the average home price in Auckland increased by just over two-thirds, reaching $931,000, surpassing the average home cost in Sydney.",
+        "• The rising house prices have resulted in more people being priced out of the property market, with low-income groups, particularly Maori and Pasifika communities, being hardest hit.",
+        "• New Zealand's relatively high mortgage interest rates exacerbate housing affordability issues, making it difficult for young people with steady employment to purchase their first home.",
+        "• A 2012 submission to the Housing Affordability Inquiry highlighted that escalating house prices also impact many middle-income groups, especially those with large families.",
+        "• Mortgage adviser Bruce Patten described the trend of rising house prices as \"disturbing,\" noting it contributes to widening the gap between the \"haves and have-nots.\"",
+        "• Property-analysis company CoreLogic reported that 45% of house purchases in New Zealand are made by investors who already own a home, while 28% are made by people moving from one property to another.",
+        "• Approximately 8% of house purchases are made by overseas-based cash buyers, primarily Australians, Chinese, and British nationals; however, most economists believe that foreign investment is currently too small to significantly affect property prices.",
+        "• Regardless of whether buyers are New Zealanders or foreigners, the majority of property purchases are made by individuals who are already financially well-off.",
+        "• This trend has dramatically affected home-ownership rates among New Zealanders, which are currently at their lowest level since 1951.",
+        "• In 1991, 76% of New Zealand homes were owner-occupied, but by 2013, this figure had declined to 63%, indicating an increasing number of people are renting.",
+        "• Raewyn Cox, chief executive of the Federation of Family Budgeting, stated that high house prices and high interest rates have condemned a growing number of New Zealanders to be \"lifetime tenants,\" trapped in expensive rental situations and facing retirement without home ownership."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:16.952103",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Inequality",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the interwar and post-war periods, successive New Zealand governments implemented a massive state housing programme aimed at addressing housing needs.",
+        "• Between 1982 and 2011, New Zealand's gross domestic product (GDP) increased by 35%, with nearly half of this economic growth accruing to a small group of individuals who were already the wealthiest in the country.",
+        "• During the same period (1982–2011), the average income of the top 10% of earners in New Zealand, defined as those earning more than $72,000, nearly doubled, rising from $56,300 to $100,200.",
+        "• Conversely, the average income of the poorest 10% of earners increased by only 13%, moving from $9,700 to $11,000 between 1982 and 2011.",
+        "• Statistics New Zealand monitors income disparity using the P80/20 ratio, which measures the income difference between households at the 80th percentile (high incomes) and those at the 20th percentile (low incomes).",
+        "• The P80/20 income inequality ratio in New Zealand increased from 1988 until 2004, then decreased until the onset of the Great Recession (circa 2007–2008), after which it rose again until 2011, followed by another decline from 2011 onward.",
+        "• By 2013, the disposable income of high-income households in New Zealand was more than two-and-a-half times greater than that of low-income households, indicating significant income inequality.",
+        "• In 2020, the Organisation for Economic Co-operation and Development (OECD) reported New Zealand’s Gini coefficient, a measure of income inequality, as 0.320, ranking New Zealand 25th out of 37 OECD member countries in terms of inequality."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:28.009842",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "2.7",
+      "section_name": "Superannuation",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• New Zealand operates a universal superannuation scheme available only to individuals aged 65 years or older who are New Zealand citizens or permanent residents and residing in New Zealand at the time of application.",
+        "• Eligibility requires applicants to have lived in New Zealand for at least 10 years since turning 20, with a minimum of five of those years occurring after the age of 50.",
+        "• Certain periods spent overseas in specific countries and for designated reasons may be counted towards the residency requirement for New Zealand superannuation.",
+        "• New Zealand superannuation payments are subject to taxation, with the tax rate varying depending on the superannuitants' other income sources.",
+        "• The amount of superannuation paid is contingent upon the recipient’s household situation; for married couples, legislation mandates that the net superannuation amount must be no less than 66% of the net average wage.",
+        "• Superannuation costs increased significantly due to the growing elderly population, rising from NZ$7.3 billion annually in 2008 to NZ$10.2 billion in 2014.",
+        "• Demographic shifts indicate that in 2011, there were twice as many children as elderly people (aged 65 and over) in New Zealand; however, projections for 2051 estimate there will be 60% more elderly than children.",
+        "• Between 2014 and 2024, the population of New Zealanders aged over 65 was projected to increase by approximately 200,000 individuals.",
+        "• The increasing elderly population presents a substantial challenge for the sustainability of the superannuation scheme.",
+        "• To address this, the government incrementally raised the eligibility age for superannuation from 61 to 65 between 1993 and 2001.",
+        "• In 2001, under the Labour Government led by Prime Minister Helen Clark, the New Zealand Superannuation Fund was established, commonly referred to as the \"Cullen Fund\" after then Minister of Finance Michael Cullen, to partially finance future superannuation obligations.",
+        "• As of October 2014, the New Zealand Superannuation Fund managed NZ$27.11 billion in assets, with 15.9% of its investments held within New Zealand.",
+        "• In 2007, the Labour Government introduced KiwiSaver, a voluntary, work-based individual savings scheme managed by private-sector entities known as \"KiwiSaver providers,\" aimed primarily at increasing retirement savings.",
+        "• KiwiSaver also allows younger participants to save for a deposit on their first home, expanding its utility beyond retirement savings.",
+        "• By 2014, KiwiSaver had 2.3 million active members, representing 60.9% of New Zealand’s population under the age of 65.",
+        "• Annual contributions to KiwiSaver amounted to NZ$4 billion as of 2014, with total contributions since its inception in 2007 reaching NZ$19.1 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:41.631955",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "2.8",
+      "section_name": "Consumption",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• New Zealanders perceive themselves as first-world consumers, exhibiting consumption patterns and preferences characteristic of developed countries, though these are somewhat moderated by the nation's geographic remoteness from major global producers.",
+        "• In the year 2023, New Zealand's Final Consumption Expenditure amounted to 199.99 billion, reflecting the total value of goods and services consumed within the country during that period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:44.191555",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "3",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The National Infrastructure Unit of the Treasury states that New Zealand continues to face significant challenges regarding its infrastructure, emphasizing that all forms of infrastructure represent long-term investments and that changes in this sector do not occur easily or rapidly.",
+        "• A 2020 report prepared for the Association of Consulting and Engineering New Zealand identified an infrastructure deficit in the country amounting to $75 billion, which is approximately one quarter of New Zealand's Gross Domestic Product (GDP).",
+        "• The identified infrastructure deficit is attributed to decades of under-investment, with the period of insufficient funding beginning in the 1980s."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:47.178142",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Transport",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• New Zealand's transport infrastructure encompasses highways, rail lines, and an inter-island ferry service, notably exemplified in central Wellington.",
+        "• The country's transport infrastructure is characterized as \"generally well developed,\" indicating a comprehensive and functional network supporting economic activities and connectivity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:48.800907",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "3.1.1",
+      "section_name": "Road network",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The New Zealand state highway network comprises a total of 11,000 kilometers of road infrastructure.",
+        "• Of this total, 5,981.3 kilometers are located in the North Island, while 4,924.4 kilometers are situated in the South Island.",
+        "• The construction and maintenance of the state highway network are the responsibilities of the New Zealand Transport Agency (NZTA).",
+        "• Funding for the state highways is derived primarily from general taxation and fuel excise duty revenues.",
+        "• In addition to these funding sources, heavy road users are required to pay Road User Charges (RUC) to contribute to road maintenance and development costs.",
+        "• The use of tolling on state highways in New Zealand is limited and not widespread.",
+        "• Beyond the state highway network, there exists an additional 83,000 kilometers of local roads.",
+        "• These local roads are constructed and maintained by various local authorities across New Zealand."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:53.004905",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "3.1.2",
+      "section_name": "Railway network",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The railway network in New Zealand is owned and operated by the state-owned enterprise KiwiRail.",
+        "• The total length of the railway network is 3,898 kilometers.",
+        "• The railway lines are constructed using a narrow gauge measuring 1,067 millimeters (3 feet 6 inches).",
+        "• Out of the total railway network, 506 kilometers are electrified."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:55.148730",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "3.1.3",
+      "section_name": "Airways",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• New Zealand has a total of seven international airports facilitating global air travel.",
+        "• The country also operates twenty-eight domestic airports to support internal air transportation.",
+        "• Air New Zealand serves as the national airline carrier and is classified as a state-owned enterprise.",
+        "• The government holds a 52% ownership stake in Air New Zealand, indicating majority public ownership.",
+        "• Airways New Zealand is another state-owned enterprise responsible for providing air traffic control services.",
+        "• In addition to air traffic control, Airways New Zealand manages communications essential for aviation safety and operations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:06:58.261358",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Telecommunications",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Present-day telecommunications in New Zealand encompass telephony, radio, television, and internet usage, reflecting a diverse and modern communication infrastructure.",
+        "• The telecommunications market in New Zealand is competitive, resulting in mobile prices that have decreased to some of the lowest levels within the Organisation for Economic Co-operation and Development (OECD) countries.",
+        "• The majority of the country's copper wire and fibre cable networks are owned by Chorus Limited, a publicly listed company responsible for the wholesale provision of these network services.",
+        "• Chorus Limited supplies wholesale telecommunications services to retail providers, including prominent companies such as Spark.",
+        "• The mobile telecommunications sector in New Zealand is served by three main operators: Spark, One NZ, and 2degrees, each offering mobile services to consumers."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:02.933373",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "3.2.1",
+      "section_name": "Internet",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of October 2014, New Zealand had a total of 1,916,000 broadband connections and 65,000 dial-up connections, with 1,595,000 connections classified as residential and 386,000 as business or government.",
+        "• The New Zealand Government has established two plans to extend Ultra-Fast Broadband (UFB) coverage to 97.8% of the population by the year 2019.",
+        "• The Government is investing NZ$1.35 billion through public-private partnerships to deploy fibre-to-the-home connections in all main towns and cities with populations exceeding 10,000 residents.",
+        "• The Ultra-Fast Broadband program aims to provide internet speeds of at least 100 Mbit/s download and 50 Mbit/s upload to 75% of New Zealanders by 2019.",
+        "• The initiative targets connecting 1,340,000 households across 26 towns and cities with ultra-fast broadband infrastructure.",
+        "• On 1 October 2016, Chorus announced the availability of gigabit internet, offering 1000 Mbit/s download speeds, across the entire Ultra-Fast Broadband footprint in New Zealand.",
+        "• The Government also introduced the Rural Broadband Initiative (RBI) with a budget of A$300 million, aiming to deliver broadband speeds of at least 5 Mbit/s to 86% of rural customers by 2016."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:07.047924",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Energy",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1995 to 2013, New Zealand experienced a 25 percent decline in the energy intensity of its economy per unit of GDP, indicating improved energy efficiency relative to economic output.",
+        "• A significant factor contributing to this reduction in energy intensity was the expansion of relatively less energy-intensive service industries within New Zealand’s economy.",
+        "• New Zealand is positioned to be one of the primary beneficiaries following the global transition to renewable energy, reflecting its advantageous energy profile.",
+        "• According to the Geopolitical Gains and Losses after energy transition (GeGaLo) Index, New Zealand ranks 5th out of 156 countries in terms of potential geopolitical gains resulting from the shift to renewable energy sources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:10.099829",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "3.3.1",
+      "section_name": "Electricity",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The electricity market in New Zealand is regulated by the Electricity Industry Participation Code, which is administered by the Electricity Authority (EA).",
+        "• New Zealand's electricity sector predominantly utilizes renewable energy sources, including hydropower, geothermal power, and an increasing contribution from wind energy.",
+        "• Renewable energy sources account for 83% of New Zealand's electricity generation, positioning the country as one of the most sustainable economies globally in terms of electricity production.",
+        "• When considering total energy consumption across the New Zealand economy, renewable sources contribute approximately 30%.",
+        "• There exists a geographical imbalance in New Zealand between electricity production and consumption: the majority of electricity generation capacity, both existing and potential, is concentrated on the South Island and, to a lesser extent, the central North Island.",
+        "• The primary demand for electricity is located in the northern North Island, especially within the Auckland Region, where demand continues to grow.",
+        "• Due to this spatial mismatch, electricity must be transmitted northwards through the national power grid, which is increasingly reaching its capacity limits."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:13.579640",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Water",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2021, nearly all assets related to the three waters—drinking water, stormwater, and wastewater—are owned by local councils and territorial authorities in New Zealand.",
+        "• There are currently 67 distinct organisations that own these three waters assets across the country.",
+        "• Local governments face significant challenges in funding infrastructure deficits associated with the three waters systems.",
+        "• Preparing for large-scale reinvestments in water infrastructure is a critical issue, with estimated costs projected at $110 billion over the next 30 to 40 years.",
+        "• Meeting statutory requirements for the safety of drinking water presents a substantial challenge for local authorities.",
+        "• Environmental expectations for the management of stormwater and wastewater add further complexity to local government responsibilities.",
+        "• Climate change adaptation is a key factor that intensifies the challenges faced in managing water infrastructure.",
+        "• Accommodating population growth also contributes to the increasing demands on water infrastructure and services."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:19.009007",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "4",
+      "section_name": "Trade",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2024, New Zealand's largest trading partners are China, Australia, the European Union, the United States, and Japan.",
+        "• These five trading partners collectively account for 63% of New Zealand's two-way trade.",
+        "• China alone represents over 30% of New Zealand's two-way trade.",
+        "• New Zealand's total annual exports exceed US $44 billion.",
+        "• New Zealand's total annual imports exceed US $49 billion.",
+        "• New Zealand Trade and Enterprise (NZTE) provides strategic advice and support to New Zealand businesses aiming to export goods and services internationally."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:22.285888",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Trade agreements",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since the 1960s, New Zealand has actively pursued free trade agreements (FTAs) with numerous countries to diversify its export markets and enhance the global competitiveness of its exports.",
+        "• The primary objectives of New Zealand’s trade agreements include reducing trade barriers and ensuring the maintenance of existing market access for New Zealand exporters.",
+        "• New Zealand’s trade agreements establish formal rules governing trade activities, facilitating smoother and more predictable trade relations.",
+        "• These agreements promote close cooperation between regulatory bodies and officials in New Zealand and its trading partner countries to support effective implementation and compliance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:26.278083",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "China",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• China is New Zealand's largest trading partner, primarily importing meat, dairy products, and pine logs from New Zealand.",
+        "• In 2013, the total trade value between New Zealand and China reached NZ$16.8 billion.",
+        "• The significant growth in trade is largely attributed to the increased demand for imported dairy products in China, particularly following the Chinese milk scandal in 2008.",
+        "• The Chinese milk scandal in 2008 heightened demand for safe and reliable milk products, which New Zealand was able to supply.",
+        "• In the 12 months leading up to March 2014, New Zealand's total exports to China increased by 51%, reflecting the strong demand for dairy products.",
+        "• The New Zealand–China Free Trade Agreement, which came into effect on 1 October 2008, played a crucial role in facilitating the increase in trade between the two countries.",
+        "• Since the implementation of the Free Trade Agreement in 2008, New Zealand's exports to China have more than tripled."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:33.653878",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Australia",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Australia New Zealand Closer Economic Relations Trade Agreement (CER) was signed on 28 March 1983 by Laurie Francis and Lionel Brown.",
+        "• In 2013, Australia was New Zealand's largest bilateral trading partner, with trade between the two countries valued at NZ$25.6 billion, prior to China surpassing Australia in trade volume.",
+        "• The CER agreement underpins the economic and trading links between Australia and New Zealand, allowing free trade in goods and most services between the two countries.",
+        "• Since 1990, the CER has established a single market comprising more than 25 million people across Australia and New Zealand.",
+        "• Australia accounts for 19% of New Zealand's exports, which include light crude oil, gold, wine, cheese, timber, and a diverse range of manufactured products.",
+        "• The CER facilitates a free labour market, permitting New Zealand and Australian citizens to live and work freely in each other's countries.",
+        "• The agreement includes mutual recognition of professional qualifications, enabling individuals registered to practise an occupation in one country to register for an equivalent occupation in the other country.",
+        "• Banking regulation and supervision between Australia and New Zealand are coordinated through the Trans-Tasman Council on Banking Supervision.",
+        "• There are ongoing discussions aimed at coordinating Australian and New Zealand business law to further integrate economic relations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:41.125591",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "4.4",
+      "section_name": "European Union",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The European Union (EU) is New Zealand's third largest trading partner, reflecting a significant but not dominant role in New Zealand's international trade relations.",
+        "• An increasing number of New Zealand companies utilize the United Kingdom as a strategic base to distribute their products across the broader European market, indicating the UK's importance as a gateway to Europe.",
+        "• Despite this, trade between New Zealand and the European Union is experiencing a decline, primarily due to the rising demand for New Zealand exports from Asian markets, which are growing more rapidly.",
+        "• The European Union accounts for only 8% of New Zealand's total exports, demonstrating a relatively modest share of New Zealand's export destinations.",
+        "• Conversely, the EU supplies approximately 12% of New Zealand's imports, indicating a slightly higher proportion of goods and services imported from the EU compared to exports sent there.",
+        "• In July 2014, New Zealand and the European Union concluded negotiations on the Partnership Agreement on Relations and Cooperation (PARC), marking a formal step to enhance bilateral relations.",
+        "• The PARC agreement encompasses the trade and economic relationship between New Zealand and the EU, aiming to promote further liberalization of trade and investment flows between the two parties.",
+        "• The agreement also recognizes the European Union's intention to strengthen its diplomatic presence in New Zealand by appointing a resident ambassador, signaling deeper political and diplomatic engagement.",
+        "• In 2024, a free trade agreement between New Zealand and the European Union officially entered into force, representing a significant development in the economic relationship and potentially facilitating increased trade and investment."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:50.547264",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "4.5",
+      "section_name": "United States",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, the United States was New Zealand's third largest trading partner, with bilateral trade valued at NZ$11.8 billion, prior to being surpassed by the European Union.",
+        "• New Zealand's primary exports to the United States include beef, dairy products, and lamb.",
+        "• Imports from the United States to New Zealand consist mainly of specialised machinery, pharmaceutical products, oil, and fuel.",
+        "• Beyond trade, there exists a significant level of corporate and individual investment between New Zealand and the United States.",
+        "• As of March 2012, the United States had a total investment of $44 billion in New Zealand.",
+        "• Numerous US companies maintain subsidiary branches in New Zealand, with many operating through local agents and some engaging in joint venture associations.",
+        "• The United States Chamber of Commerce maintains an active presence in New Zealand, with its main office located in Auckland and a branch committee in Wellington.",
+        "• According to the New Zealand Ministry of Foreign Affairs, the two countries share a deep and longstanding friendship founded on common heritage, shared values and interests, and a mutual commitment to promoting a free, democratic, secure, and prosperous world.",
+        "• Despite this close relationship and shared background, New Zealand and the United States have not established a free trade agreement."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:07:56.690811",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "4.6",
+      "section_name": "Japan, Korea and other Asian economies",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Japan is New Zealand's fourth largest trading partner, reflecting a significant bilateral trade relationship.",
+        "• In the 21st century, Asian economies have experienced rapid development, resulting in substantial demand for New Zealand's exports.",
+        "• Korea ranks as New Zealand's fifth largest trading partner and serves as a crucial source of imports for New Zealand.",
+        "• Korea is also considered an important export market for New Zealand, highlighting its dual role in trade.",
+        "• New Zealand maintains trade relations with several other Asian economies, including Taiwan, Hong Kong, Malaysia, Indonesia, Singapore, Thailand, India, and the Philippines.",
+        "• Collectively, trade with these Asian economies accounts for approximately 16% of New Zealand's total exports.",
+        "• In September 2000, New Zealand initiated a free trade agreement (FTA) with Singapore, marking a significant step in trade liberalization.",
+        "• This initial FTA was extended in 2005 to include Chile and Brunei, forming the P4 agreement, which further expanded New Zealand's trade partnerships."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:08:00.788851",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "4.7",
+      "section_name": "Relationship with Pacific Islands",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Pacific region, comprising numerous islands, constitutes New Zealand's sixth largest trading market and is experiencing annual growth.",
+        "• In 2011, New Zealand's exports to Pacific Islands were valued at over $1.5 billion, marking a 12% increase compared to the previous year.",
+        "• Fiji is identified as the largest individual market within the Pacific Islands for New Zealand exports, closely followed by Papua New Guinea, French Polynesia, and New Caledonia.",
+        "• The range of goods exported from New Zealand to the Pacific Islands includes refined oil, construction materials, medicines, sheep meat, milk, butter, fruit, and vegetables.",
+        "• New Zealand extends assistance to Pacific Islands in areas of defence and regional security, as well as in the management of environmental resources and fisheries.",
+        "• Due to their small size, Pacific Islands are among the most environmentally vulnerable regions globally and are frequently affected by numerous cyclones annually.",
+        "• Natural disasters in the Pacific Islands often result in severe social and economic impacts that can persist for several years.",
+        "• Since 1992, New Zealand has collaborated with Australia and France to provide disaster response in the Pacific region.",
+        "• New Zealand's disaster response efforts include supplying emergency materials and transport, funding infrastructure projects such as roading and housing, and deploying specialists to affected areas.",
+        "• The Ministry of Foreign Affairs and Trade administers New Zealand’s international aid and development funding aimed at fostering sustainable economic development in underdeveloped economies, particularly in the Pacific.",
+        "• The New Zealand Aid Programme allocates approximately $550 million annually, primarily focused on promoting development within the Pacific Islands.",
+        "• The $550 million aid allocation represents about 0.26% of New Zealand's gross national income (GNI)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:08:06.006744",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 38
+    },
+    {
+      "section_number": "5",
+      "section_name": "Foreign investment",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• New Zealand actively welcomes and encourages foreign investment, which is regulated and overseen by the Overseas Investment Office.",
+        "• In 2014, foreign direct investment in New Zealand amounted to NZ$107.69 billion.",
+        "• Between 1989 and 2013, foreign investment in New Zealand increased dramatically from NZ$9.7 billion to NZ$101.4 billion, representing a growth of over 1,000%.",
+        "• Foreign ownership of the New Zealand sharemarket rose from 19% in 1989 to 41% in 2007, but subsequently declined to 33% by the time of the report.",
+        "• Approximately 7% of all agriculturally productive land in New Zealand was foreign-owned in 2014.",
+        "• Economist Bill Rosenberg stated in 2011 that when including foreign ownership of forestry land, the total foreign-owned land was closer to 9%.",
+        "• As of March 2013, the financial sector, which includes the \"big-four\" Australian-owned banks, was valued at NZ$39.3 billion.",
+        "• The financial sector represented the largest portion of foreign ownership within New Zealand companies, contributing significantly to the total NZ$101.4 billion foreign ownership at that time."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:08:12.152976",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 39
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Impact",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Between 1997 and 2014, foreign investors generated NZ$50.3 billion in profit from New Zealand investments, with 68% of these profits being repatriated overseas.",
+        "• The Campaign Against Foreign Control of Aotearoa (CAFCA) argues that foreign ownership negatively impacts the New Zealand economy by leading to staff reductions and wage suppression when foreign investors acquire New Zealand companies.",
+        "• CAFCA further contends that increasing foreign ownership has not contributed to a reduction in New Zealand’s foreign debt levels.",
+        "• In 1984, New Zealand’s combined private and public foreign debt was NZ$16 billion, equivalent to NZ$50 billion in March 2013 dollars, representing less than half of New Zealand’s GDP at that time.",
+        "• By March 2013, New Zealand’s total foreign debt had escalated to NZ$251 billion, exceeding 100% of the country’s GDP, indicating a significant rise in foreign liabilities over the intervening decades.",
+        "• At the Singapore International Energy Week (SIEW) conference, leaders from New Zealand and Cambodia addressed the challenge of sustaining public support for clean energy transitions amid rising electricity costs.",
+        "• These leaders underscored the critical need to balance electricity affordability with sustainability objectives to ensure the long-term success of clean energy initiatives."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:08:17.292354",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 40
+    },
+    {
+      "section_number": "6",
+      "section_name": "Data",
+      "chapter_name": "Economy of New Zealand",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism is a major export earner for New Zealand, exemplified by attractions such as Milford Sound, which features special buses with viewing galleries.",
+        "• The May 2023 IMF World Economic Outlook report provides New Zealand’s main economic indicators from 1980 to 2022, with staff estimates projected for 2023 to 2026; inflation rates below 2% are highlighted in green.",
+        "• In 1980, New Zealand’s GDP (PPP) was US$28.5 billion with GDP per capita at US$9,176.3; nominal GDP was US$22.6 billion with per capita US$7,257.5; real GDP growth was 1.0%, inflation 17.1%, unemployment 4.0%, and government debt data was not available.",
+        "• From 1980 to 1990, New Zealand experienced fluctuating GDP growth rates ranging from -0.1% to 6.9%, inflation rates between 6.1% and 17.1%, unemployment rates from 3.9% to 8.0%, and government debt data became available from 1985, starting at 64.1% of GDP.",
+        "• The 1990s saw GDP (PPP) grow from US$51.8 billion in 1990 to US$80.4 billion in 1999, with GDP per capita rising from US$15,204.9 to US$20,961.2; nominal GDP increased from US$45.8 billion to US$58.9 billion; real GDP growth varied between -1.3% and 5.6%; inflation rates dropped significantly to as low as -0.1% in 1999; unemployment peaked at 10.7% in 1992 and decreased to 7.1% by 1999; government debt decreased from 55.4% to 32.0% of GDP.",
+        "• During the 2000s, GDP (PPP) increased from US$85.7 billion in 2000 to US$218.7 billion in 2019, with GDP per capita rising from US$22,207.2 to US$43,864.4; nominal GDP grew from US$54.1 billion to US$210.8 billion; real GDP growth fluctuated between -1.4% and 4.8%; inflation rates mostly remained below 4%; unemployment rates decreased from 6.2% in 2000 to around 4.1% in 2019; government debt as a percentage of GDP declined from 30.0% in 2000 to 31.8% in 2019.",
+        "• The 2020s data show GDP (PPP) at US$218.5 billion in 2020 with a decline in real GDP growth of -1.4% due to the COVID-19 pandemic; inflation was 1.7%, unemployment 4.6%, and government debt rose to 43.3% of GDP.",
+        "• In 2021, GDP (PPP) rebounded to US$241.4 billion with 5.6% real growth, inflation at 3.9%, unemployment at 3.8%, and government debt at 47.5% of GDP.",
+        "• Projections for 2023 to 2026 indicate continued GDP growth from US$276.0 billion to US$309.2 billion (PPP), GDP per capita rising from US$52,676.5 to US$56,843.4, nominal GDP increasing from US$249.0 billion to US$277.7 billion, real GDP growth between 0.6% and 2.4%, inflation rates ranging from 2.4% down to 2.4%, unemployment rates fluctuating between 3.7% and 5.4%, and government debt stabilizing around 45.9% to 48.8% of GDP.",
+        "• Industrial production growth rates were 5.9% in 2004 and slowed to 1.5% by 2007.",
+        "• Household income distribution in 1991 showed the lowest 10% of earners received 0.3% of total income or consumption, while the highest 10% received 29.8%.",
+        "• New Zealand’s agricultural products include wheat, barley, potatoes, pulses, fruits, vegetables, wool, beef, dairy products, and fish.",
+        "• Key export commodities are dairy products, meat, wood and wood products, fish, and machinery.",
+        "• Major import commodities consist of machinery and equipment, vehicles and aircraft, petroleum, electronics, textiles, and plastics.",
+        "• Electricity consumption increased from 34.88 terawatt-hours (TWh) in 2001 to 37.39 TWh in 2006; production rose from 38.39 TWh in 2004 to 42.06 TWh in 2006; there were no electricity exports or imports recorded in 2006.",
+        "• Electricity production sources in 2020 were 60% hydroelectric, 17% geothermal, 5% wind, 17% fossil fuel, 0% nuclear, with other sources accounting for 3.4% in 2010.",
+        "• Oil production declined from 42,160 barrels (6,703 m³) in 2001 to 25,880 barrels (4,115 m³) in 2006; consumption increased from 132,700 barrels (21,100 m³) in 2001 to 156,000 barrels (24,800 m³) in 2006.",
+        "• Oil exports decreased from 30,220 barrels (4,805 m³) in 2001 to 15,720 barrels (2,499 m³) in 2004; imports increased from 119,700 barrels (19,030 m³) in 2001 to 140,900 barrels (22,400 m³) in 2004.",
+        "• Proven oil reserves were estimated at 89.62 million barrels (14,248,000 m³) as of January 2002.",
+        "• Exchange rates of New Zealand dollars (NZ$) per US$1 fluctuated over the years: 1.5235 (1995), 1.4543 (1996), 1.5083 (1997), 1.8632 (1998), 1.8886 (1999), 2.2012 (2000), 2.3788 (2001), 2.1622 (2002), 1.9071 (2003), 1.5248 (2004), 1.3869 (2005), 1.2652 (2012), and 1.4771 (2016)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T11:08:46.532556",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_new_zealand.json",
+      "original_index": 41
+    }
+  ]
+}

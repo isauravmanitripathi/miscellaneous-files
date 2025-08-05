@@ -1,0 +1,332 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_malawi.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.309416",
+    "total_sections_in_source": 12,
+    "extracted_sections_count": 12,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2019, Malawi's economy has a gross domestic product (GDP) of $7.522 billion, reflecting its status as a low-income country.",
+        "• The economy is predominantly agricultural, with approximately 80% of Malawi's population residing in rural areas and relying on agriculture for their livelihoods.",
+        "• Malawi is a landlocked country located in south-central Africa, ranking among the world's least developed and poorest nations.",
+        "• About 50% of Malawi’s population lives below the national poverty line, with 25% of the population experiencing extreme poverty conditions.",
+        "• In 2017, agriculture contributed roughly one-third of Malawi’s GDP and generated about 80% of the country’s export revenue, underscoring its critical role in the economy.",
+        "• Malawi’s economy is heavily dependent on substantial inflows of economic assistance from international organizations such as the International Monetary Fund (IMF), the World Bank, and various individual donor nations.",
+        "• The IMF and World Bank have been instrumental in leading structural economic reforms in Malawi for several decades to promote stability and growth.",
+        "• The Malawian government faces significant challenges including the need to increase export levels, improve educational and healthcare infrastructure, address environmental issues such as deforestation and soil erosion, and combat the widespread impact of HIV/AIDS in the country."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:20:46.510148",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tobacco is Malawi's most important export crop, accounting for 30% of export revenue in 2012, and the country was the tenth-largest tobacco producer globally in 2000.",
+        "• Malawi's economy is heavily reliant on tobacco, which poses risks due to declining world prices and international pressure to reduce tobacco production.",
+        "• The dependence on tobacco increased significantly between 2007 and 2008, with tobacco export revenues rising from 53% to 70%.",
+        "• Alongside tobacco, Malawi's economy depends heavily on tea, sugarcane, and coffee; these four crops collectively contribute over 90% of the country's export revenue.",
+        "• Tea cultivation in Malawi began in 1878, with the majority of tea grown in the Mulanje and Thyolo districts.",
+        "• Other important agricultural products include cotton, corn (maize), potatoes, sorghum, cattle, and goats.",
+        "• Secondary industries in Malawi include tobacco and sugar processing.",
+        "• Malawi has traditionally been self-sufficient in maize, its staple food, and during the 1980s, it exported significant quantities of maize to drought-affected neighboring countries.",
+        "• Approximately 90% of Malawi's population is engaged in subsistence farming, producing crops such as maize, beans, rice, cassava, tobacco, and groundnuts (peanuts).",
+        "• Wealth distribution in Malawi is highly unequal, with financial wealth concentrated in the hands of a small elite.",
+        "• Malawi's manufacturing industries are primarily located around the city of Blantyre.",
+        "• Lake Malawi and Lake Chilwa are the main sources of fish for the region, with fish being a crucial protein source for many Malawians.",
+        "• Dried fish is consumed locally and exported to neighboring countries, with most fishing conducted on a small scale by hand.",
+        "• Maldeco Fisheries operates several commercial fishing boats and fish farms in the southern part of Lake Malawi.",
+        "• Malawi has limited exploitable mineral resources; a South African-Australian consortium operates a uranium mine near Karonga, and coal is extracted in Mzimba District.",
+        "• Malawi's economic dependence on agricultural exports makes it vulnerable to external shocks such as declining terms of trade and drought.",
+        "• High transport costs, which can exceed 30% of Malawi's total import bill, significantly hinder economic development and trade.",
+        "• Malawi imports all its fuel products, contributing to economic challenges.",
+        "• Additional obstacles to economic development include a shortage of skilled labor, difficulties in obtaining expatriate employment permits, bureaucratic red tape, corruption, and inadequate infrastructure in roads, electricity, water, and telecommunications.",
+        "• Recent government initiatives aimed at improving road infrastructure, along with private sector participation in railroads and telecommunications, have begun to improve Malawi's investment climate.",
+        "• In 2009, Malawi's top agricultural commodities by production value and volume included maize (462,330 thousand international dollars; 3,582,500 tonnes) and cassava (404,764 thousand international dollars; 3,823,240 tonnes).",
+        "• Tobacco production in 2009 was valued at 331,542 thousand international dollars with a volume of 208,155 tonnes.",
+        "• Groundnuts had a production value of 116,638 thousand international dollars and a volume of 275,176 tonnes in 2009.",
+        "• Bananas (excluding plantains) produced 95,152 thousand international dollars worth and 400,000 tonnes, while sugar cane production was valued at 82,093 thousand international dollars with 2,500,000 tonnes produced.",
+        "• Indigenous cattle meat production was valued at 80,688 thousand international dollars, though no volume data was reported.",
+        "• Pigeon peas and dry beans had production values of 80,274 and 75,706 thousand international dollars, with volumes of 184,156 and 164,712 tonnes, respectively.",
+        "• Fresh fruit production was valued at 74,456 thousand international dollars with 213,321 tonnes produced, and plantains had a value of 72,634 thousand international dollars with 351,812 tonnes.",
+        "• Indigenous pig meat production was valued at 68,788 thousand international dollars, and tea production was valued at 55,895 thousand international dollars with a volume of 52,559 tonnes.",
+        "• Indigenous goat meat had a production value of 53,512 thousand international dollars, while mangoes, mangosteens, and guavas were valued at 49,527 thousand international dollars with 82,659 tonnes produced.",
+        "• Cotton lint production was valued at 39,017 thousand international dollars with 27,300 tonnes produced, and paddy rice had a value of 36,896 thousand international dollars with 135,988 tonnes produced.",
+        "• Fresh vegetables were valued at 30,530 thousand international dollars with a volume of 162,012 tonnes, indigenous chicken meat had a value of 25,713 thousand international dollars, and cow peas were valued at 18,073 thousand international dollars with 72,082 tonnes produced.",
+        "• FAO data sources for these figures include estimates (F), imputation methodology (Im), and provisional official data (P)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:20:59.719385",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 32
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Macro-economic trends",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1980, Malawi's GDP measured at 2.70 billion US$ PPP, with a GDP per capita of 412 US$ PPP, a nominal GDP of 3.02 billion US$, a real GDP growth rate of 0.4%, and inflation at 19.2%; government debt data was not available.",
+        "• By 1985, GDP increased to 3.88 billion US$ PPP, GDP per capita rose to 503 US$ PPP, nominal GDP decreased to 2.76 billion US$, real GDP growth improved to 4.6%, inflation dropped to 10.6%, with government debt data still unavailable.",
+        "• In 1990, Malawi's GDP reached 5.07 billion US$ PPP, GDP per capita was 505 US$ PPP, nominal GDP was 4.22 billion US$, real GDP growth was 5.7%, inflation was 11.9%, and government debt data remained unavailable.",
+        "• The year 1995 saw GDP at 6.45 billion US$ PPP, GDP per capita at 605 US$ PPP, nominal GDP at 3.41 billion US$, a significant real GDP growth of 13.8%, inflation sharply increased to 83.1%, with government debt data not reported.",
+        "• In 2000, GDP rose to 8.67 billion US$ PPP, GDP per capita to 718 US$ PPP, nominal GDP to 4.26 billion US$, real GDP growth slowed to 0.8%, inflation decreased to 29.6%, and government debt data was not available.",
+        "• For 2001, GDP slightly decreased to 8.50 billion US$ PPP, GDP per capita dropped to 689 US$ PPP, nominal GDP was 4.18 billion US$, real GDP contracted by -4.1%, inflation fell to 22.7%, with no government debt data.",
+        "• In 2002, GDP increased to 8.78 billion US$ PPP, GDP per capita was 686 US$ PPP, nominal GDP rose to 4.92 billion US$, real GDP growth was 1.8%, inflation declined to 14.7%, and government debt was recorded at 101.5% of GDP.",
+        "• The 2003 data shows GDP at 9.47 billion US$ PPP, GDP per capita at 723 US$ PPP, nominal GDP at 4.52 billion US$, real GDP growth at 5.7%, inflation at 9.6%, and government debt reduced to 84.7% of GDP.",
+        "• In 2004, GDP reached 10.25 billion US$ PPP, GDP per capita was 766 US$ PPP, nominal GDP was 4.90 billion US$, real GDP growth was 5.4%, inflation increased slightly to 11.4%, and government debt further decreased to 74.7% of GDP.",
+        "• By 2005, GDP increased to 10.92 billion US$ PPP, GDP per capita to 800 US$ PPP, nominal GDP to 5.15 billion US$, real GDP growth slowed to 3.3%, inflation rose to 15.5%, and government debt declined to 70.9% of GDP.",
+        "• In 2006, GDP was 11.78 billion US$ PPP, GDP per capita 839 US$ PPP, nominal GDP 5.63 billion US$, real GDP growth improved to 4.7%, inflation dropped to 13.9%, and government debt sharply decreased to 17.9% of GDP.",
+        "• The year 2007 recorded GDP at 13.26 billion US$ PPP, GDP per capita at 919 US$ PPP, nominal GDP at 6.24 billion US$, a high real GDP growth rate of 9.6%, inflation at 7.9%, and government debt slightly increased to 18.9% of GDP.",
+        "• In 2008, GDP rose to 14.55 billion US$ PPP, GDP per capita to 980 US$ PPP, nominal GDP to 7.49 billion US$, real GDP growth was 7.6%, inflation increased to 8.7%, and government debt rose to 23.5% of GDP.",
+        "• For 2009, GDP reached 15.86 billion US$ PPP, GDP per capita was 1,038 US$ PPP, nominal GDP was 8.72 billion US$, real GDP growth was 8.3%, inflation slightly decreased to 8.4%, with government debt stable at 23.5% of GDP.",
+        "• In 2010, GDP increased to 17.16 billion US$ PPP, GDP per capita to 1,092 US$ PPP, nominal GDP to 9.80 billion US$, real GDP growth slowed to 6.9%, inflation declined to 7.4%, and government debt decreased to 19.3% of GDP.",
+        "• The 2011 figures show GDP at 18.36 billion US$ PPP, GDP per capita at 1,136 US$ PPP, nominal GDP at 11.24 billion US$, real GDP growth at 4.9%, inflation slightly increased to 7.6%, and government debt rose marginally to 20.0% of GDP.",
+        "• In 2012, GDP was 19.06 billion US$ PPP, GDP per capita 1,146 US$ PPP, nominal GDP dropped to 8.42 billion US$, real GDP growth slowed to 1.9%, inflation surged to 21.3%, and government debt increased to 28.6% of GDP.",
+        "• The year 2013 saw GDP rise to 20.39 billion US$ PPP, GDP per capita to 1,192 US$ PPP, nominal GDP at 7.65 billion US$, real GDP growth recovered to 5.2%, inflation increased to 28.3%, and government debt climbed to 35.3% of GDP.",
+        "• In 2014, GDP increased to 21.93 billion US$ PPP, GDP per capita to 1,246 US$ PPP, nominal GDP rose to 8.53 billion US$, real GDP growth was 5.7%, inflation decreased to 23.8%, and government debt slightly declined to 33.5% of GDP.",
+        "• For 2015, GDP was 22.78 billion US$ PPP, GDP per capita 1,258 US$ PPP, nominal GDP 9.01 billion US$, real GDP growth slowed to 3.0%, inflation dropped to 21.9%, and government debt increased to 35.5% of GDP.",
+        "• In 2016, GDP reached 23.52 billion US$ PPP, GDP per capita was 1,262 US$ PPP, nominal GDP decreased to 7.73 billion US$, real GDP growth slowed further to 2.3%, inflation remained steady at 21.7%, and government debt rose to 37.1% of GDP.",
+        "• The 2017 data shows GDP at 24.90 billion US$ PPP, GDP per capita at 1,299 US$ PPP, nominal GDP at 8.94 billion US$, real GDP growth improved to 4.0%, inflation dropped significantly to 11.5%, and government debt increased to 40.0% of GDP.",
+        "• In 2018, GDP was 25.27 billion US$ PPP, GDP per capita 1,282 US$ PPP, nominal GDP 9.88 billion US$, real GDP growth increased to 4.4%, inflation further declined to 9.2%, and government debt rose slightly to 40.8% of GDP.",
+        "• For 2019, GDP increased to 27.52 billion US$ PPP, GDP per capita to 1,356 US$ PPP, nominal GDP to 11.03 billion US$, real GDP growth was 5.4%, inflation remained stable at 9.4%, and government debt marginally increased to 41.2% of GDP.",
+        "• In 2020, GDP rose to 29.54 billion US$ PPP, GDP per capita to 1,415 US$ PPP, nominal GDP to 11.85 billion US$, real GDP growth slowed to 1.0%, inflation decreased to 8.6%, and government debt sharply increased to 53.9% of GDP.",
+        "• The year 2021 recorded GDP at 33.83 billion US$ PPP, GDP per capita at 1,575 US$ PPP, nominal GDP at 12.48 billion US$, real GDP growth rebounded to 4.6%, inflation rose slightly to 9.3%, and government debt increased significantly to 66.5% of GDP.",
+        "• In 2022, GDP increased to 36.58 billion US$ PPP, GDP per capita to 1,656 US$ PPP, nominal GDP remained stable at 12.53 billion US$, real GDP growth slowed to 0.9%, inflation surged to 20.8%, and government debt rose to 76.7% of GDP.",
+        "• For 2023, GDP reached 38.45 billion US$ PPP, GDP per capita was 1,692 US$ PPP, nominal GDP slightly increased to 12.67 billion US$, real GDP growth improved to 1.5%, inflation increased to 28.8%, and government debt escalated to 91.3% of GDP.",
+        "• The 2024 projections indicate GDP at 40.07 billion US$ PPP, GDP per capita at 1,714 US$ PPP, nominal GDP declining to 10.84 billion US$, real GDP growth at 1.8%, inflation rising to 30"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:21:43.240717",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 29
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Industry",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, Malawi's manufacturing sector accounted for 10.7% of the country's Gross Domestic Product (GDP).",
+        "• The primary industries within Malawi's manufacturing sector include food processing, construction, consumer goods, cement production, fertilizer manufacturing, ginning, furniture production, and cigarette production.",
+        "• The Malawian government has endeavored to diversify the agriculture sector and enhance its position in the global value chain; however, these efforts have been significantly hindered by poor infrastructure, an inadequately trained workforce, and an unfavorable business climate.",
+        "• To support companies in adopting innovative practices and technologies, Malawi implemented the National Export Strategy in 2013, which provides firms with greater access to international research outcomes and improved information regarding available technologies.",
+        "• The National Export Strategy also facilitates companies in obtaining grants to invest in new technologies through funding sources such as the Export Development Fund and the Malawi Innovation Challenge Fund.",
+        "• Concurrently, the Malawian government increased its investment in research and development to reach 1% of GDP, aiming to bolster innovation and industrial growth."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:21:47.952369",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Food and beverages",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Most fruits and vegetables produced in Malawi are exported in their raw form, while processed food products are predominantly imported from South Africa.",
+        "• Carlsberg established its first brewery outside Denmark in Blantyre, Malawi, in 1965, marking a significant development in the local beverage industry.",
+        "• The Carlsberg brewery in Blantyre also holds a license to bottle Coca-Cola products, diversifying its production portfolio.",
+        "• In 2013, a mango processing plant was inaugurated in Salima, Malawi, specifically for the export of fruit concentrate, enhancing the country’s agro-processing capabilities.",
+        "• Universal Industries, a key player in Malawi’s food manufacturing sector, operates multiple factories in Blantyre producing a variety of food products including sweets, crisps, biscuits, milk powder, soy products, and baby food.",
+        "• Coffee and tea processing in Malawi is conducted by approximately six different companies located in the regions of Thyolo, Mulanje, and around Mzuzu, indicating a dispersed yet active agro-processing industry in these areas."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:21:52.559311",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Pharmaceutical companies",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malawi hosts four pharmaceutical companies engaged in the manufacturing of a limited range of drugs tailored primarily to meet high local market demand.",
+        "• Pharmanova Ltd. is recognized as the largest pharmaceutical manufacturer in Malawi, leading the sector in production capacity and market presence.",
+        "• Following Pharmanova Ltd., the other pharmaceutical companies operating in Malawi include SADM, Malawi Pharmacies (Pharmaceuticals Limited), and Kentam Products Limited, each contributing to the local pharmaceutical supply."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:21:54.398475",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Forestry",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Large man-made pine tree forests are established in the Viphya Mountains, as well as around the Mulanje and Zomba regions in Malawi.",
+        "• Timber production in these areas constitutes a significant industry focused on supplying building materials and furniture.",
+        "• Despite the presence of these managed forests, most regions in Malawi experience extensive deforestation.",
+        "• The primary causes of deforestation in Malawi include illegal logging activities aimed at producing charcoal and the widespread use of firewood as fuel."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:21:57.779896",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.4",
+      "section_name": "Electricity",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malawi's sole power supplier is the state-owned Electricity Supply Commission of Malawi (ESCOM), responsible for generating nearly all electricity in the country.",
+        "• ESCOM primarily generates power from hydroelectric plants located along the Shire River.",
+        "• The total installed electricity generation capacity in Malawi is approximately 351 megawatts (MW).",
+        "• According to 2014 World Bank data, only about 12% of Malawi’s population has access to electricity.",
+        "• Malawi has experienced intermittent power outages due to an ongoing drought that has significantly impacted hydroelectric power generation.",
+        "• The drought has caused water levels in the Shire River to drop substantially, reducing hydroelectric output by half.",
+        "• Under normal conditions, the Shire River generates about 300 MW of electricity, which constitutes 98% of Malawi’s total electricity supply.",
+        "• Due to the drought, ESCOM reported that the hydroelectric capacity from the Shire River fell to 160 MW."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:22:03.618683",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "4",
+      "section_name": "Services",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The service sector constitutes 51.7% of Malawi's national Gross Domestic Product (GDP), highlighting its significant role in the country's economy.",
+        "• Key industries within Malawi's service sector include tourism, retail, transport, education, health services, telecommunication, and the banking sector.",
+        "• The Government of Malawi maintains ownership stakes in several major companies, notably holding a 51% share in Malawian Airlines.",
+        "• Press Corporation Limited, in which the government also holds shares, is recognized as Malawi's largest company.",
+        "• Press Corporation Limited operates through various subsidiaries across multiple sectors, including tobacco, banking, sugar, fishing, ethanol production, steel production, retail, telecommunication, and petrol."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:22:06.997543",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "5",
+      "section_name": "International support",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1981, Malawi has implemented economic structural adjustment programs supported by the World Bank (International Bank for Reconstruction and Development - IBRD), the International Monetary Fund (IMF), and various other donors.",
+        "• The broad objectives of these economic reforms include stimulating private sector activity and participation by eliminating price controls and industrial licensing.",
+        "• Additional reform goals encompass the liberalization of trade and foreign exchange regimes, rationalization of the tax system, privatization of state-owned enterprises, and reform of the civil service.",
+        "• Malawi qualified for debt relief under the Heavily Indebted Poor Country (HIPC) initiative and is actively refining its poverty reduction strategy as part of this process.",
+        "• Malawi maintains bilateral trade agreements with its two primary trading partners, South Africa and Zimbabwe, both of which grant duty-free entry to Malawian products into their respective markets.",
+        "• The Malawian government faces significant challenges in improving the country’s educational and health infrastructure, issues that are particularly critical due to rising rates of HIV/AIDS (specific timeframe for the rise is not provided).",
+        "• Environmental concerns confronting Malawi include deforestation, soil erosion, and the degradation of overworked soils, which pose ongoing challenges to sustainable development.",
+        "• In September 2008, former President Bingu wa Mutharika addressed Malawi’s recent unilateral agricultural reforms at the World Economic Forum on Africa, held at the United Nations."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:22:13.960842",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Move towards economic independence",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, Malawi initiated a fertilizer subsidy program aimed at revitalizing agricultural productivity following disastrously low harvests, spearheaded by the late President Bingu Mutharika, who was an economist by profession.",
+        "• The fertilizer subsidy program, strongly supported and championed by President Mutharika, significantly improved Malawi's agricultural sector, enabling the country to transition into a net exporter of food to neighboring countries.",
+        "• Despite initial agricultural successes, economic grievances worsened during President Mutharika’s second term in office.",
+        "• These escalating economic grievances culminated in widespread dissatisfaction that triggered the 2011 economic protests in Malawi, which occurred in July of that year."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:22:17.852099",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 4
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "6",
+      "section_name": "Economic indicators",
+      "chapter_name": "Economy of Malawi",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the CIA World Factbook, Malawi's GDP based on purchasing power parity was estimated at $22.37 billion in 2017.",
+        "• The real GDP growth rate for Malawi was approximately 4% in 2017.",
+        "• Malawi's GDP per capita, measured by purchasing power parity, was estimated at $1,200 in 2017.",
+        "• The composition of Malawi's GDP by sector in 2016 was 28.1% agriculture, 15.8% industry, and 56.1% services.",
+        "• In 2010, 50.7% of Malawi's population was living below the poverty line.",
+        "• The inflation rate based on consumer prices was estimated at 23% in 2014.",
+        "• Malawi's labor force was estimated at 7 million people in 2013.",
+        "• Of the labor force in 2013, 76.9% were employed in agriculture, while 23.1% worked in industry and services combined.",
+        "• The unemployment rate for Malawi was not available (NA%).",
+        "• Malawi's government budget in 2017 included revenues of $1.346 billion and expenditures of $1.556 billion.",
+        "• Public debt was estimated at 59.3% of GDP in 2017.",
+        "• Key industries in Malawi include tobacco, tea, sugar, sawmill products, cement, consumer goods, cotton, uranium, and coal mining.",
+        "• The industrial production growth rate was estimated at 2.8% in 2013.",
+        "• Electricity production in Malawi was 1.973 billion kWh in 2010, with consumption slightly lower at 1.835 billion kWh the same year.",
+        "• Major agricultural products include tobacco, sugar cane, cotton, tea, maize, potatoes, cassava (tapioca), sorghum, pulses, as well as livestock such as cattle and goats.",
+        "• Malawi's exports were valued at $1.427 billion in 2013.",
+        "• Export commodities included tobacco, tea, sugar, cotton, coffee, peanuts, wood products, apparel, uranium, and its compounds.",
+        "• In 2012, Malawi's main export partners were Canada (10.6%), Zimbabwe (9.3%), Germany (7.3%), South Africa (6.6%), Russia (6.5%), the United States (6.1%), and China (4.2%).",
+        "• Imports into Malawi totaled $2.42 billion in 2013.",
+        "• Major import commodities were food, petroleum products, semimanufactures, consumer goods, and transportation equipment.",
+        "• Malawi's primary import partners in 2012 included South Africa (27%), China (16.6%), India (8.7%), Zambia (8.5%), Tanzania (5.1%), and the United States (4.3%).",
+        "• The current account balance was negative, at -$280.1 million in 2013.",
+        "• External debt stood at $1.556 billion as of 31 December 2013.",
+        "• Malawi received economic aid amounting to $575.3 million in 2005.",
+        "• Foreign direct investment inflow was $129.5 million in 2014.",
+        "• The national currency is the Malawian kwacha (MK), subdivided into 100 tambala.",
+        "• Exchange rates of the Malawian kwacha per US dollar were 730.00 on 20 June 2016, 460.00 on 20 January 2015, 360.00 on 6 February 2013, 165.961 on 1 September 2011, 145.179 in 2009, 135.96 in 2006, 108.894 in 2005, 108.898 in 2004, 97.433 in 2003, and 76.687 in 2002.",
+        "• Malawi’s fiscal year runs from 1 July to 30 June."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:22:25.427177",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 28
+      },
+      "source_file": "economy_of_malawi.json",
+      "original_index": 11
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "table_of_contents": [
+    {
+      "title": "72 Election Laws",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          105.380859375
+        ],
+        [
+          314.25,
+          105.380859375
+        ],
+        [
+          314.25,
+          131.291015625
+        ],
+        [
+          105.0,
+          131.291015625
+        ]
+      ]
+    },
+    {
+      "title": "REPRESENTATION OF THE PEOPLE ACT, 1950",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          193.8427734375
+        ],
+        [
+          484.1015625,
+          193.8427734375
+        ],
+        [
+          484.1015625,
+          210.568359375
+        ],
+        [
+          105.0,
+          210.568359375
+        ]
+      ]
+    },
+    {
+      "title": "REPRESENTATION OF THE PEOPLE ACT, 1951",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          105.0,
+          87.978515625
+        ],
+        [
+          484.1015625,
+          87.978515625
+        ],
+        [
+          484.1015625,
+          106.6376953125
+        ],
+        [
+          105.0,
+          106.6376953125
+        ]
+      ]
+    },
+    {
+      "title": "DELIMITATION ACT, 2002",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          103.91748046875,
+          88.8486328125
+        ],
+        [
+          318.251953125,
+          88.8486328125
+        ],
+        [
+          318.251953125,
+          106.2509765625
+        ],
+        [
+          103.91748046875,
+          106.2509765625
+        ]
+      ]
+    },
+    {
+      "title": "OTHER ACTS RELATING TO ELECTIONS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          105.0,
+          87.3017578125
+        ],
+        [
+          443.162109375,
+          87.3017578125
+        ],
+        [
+          443.162109375,
+          106.927734375
+        ],
+        [
+          105.0,
+          106.927734375
+        ]
+      ]
+    },
+    {
+      "title": "RULES RELATING TO ELECTIONS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          105.0,
+          87.44677734375
+        ],
+        [
+          391.46484375,
+          87.44677734375
+        ],
+        [
+          391.46484375,
+          106.6376953125
+        ],
+        [
+          105.0,
+          106.6376953125
+        ]
+      ]
+    },
+    {
+      "title": "ORDERS RELATING TO ELECTIONS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          105.0,
+          87.591796875
+        ],
+        [
+          404.61328125,
+          87.591796875
+        ],
+        [
+          404.61328125,
+          106.4443359375
+        ],
+        [
+          105.0,
+          106.4443359375
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          105.0,
+          319.236328125
+        ],
+        [
+          302.2646484375,
+          319.236328125
+        ],
+        [
+          302.2646484375,
+          336.638671875
+        ],
+        [
+          105.0,
+          336.638671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}

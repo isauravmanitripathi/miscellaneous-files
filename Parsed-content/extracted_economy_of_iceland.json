@@ -1,0 +1,538 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_iceland.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.042821",
+    "total_sections_in_source": 18,
+    "extracted_sections_count": 18,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Iceland is characterized as small and highly volatile, with significant fluctuations in economic indicators over time.",
+        "• In 2011, Iceland's gross domestic product (GDP) was valued at US$12 billion, reflecting the country's modest economic size.",
+        "• By 2018, Iceland's nominal GDP had increased to US$27 billion, indicating substantial economic growth over the seven-year period.",
+        "• The population of Iceland is approximately 387,000 residents, resulting in a per capita GDP of about US$55,000 when calculated based on purchasing power parity (PPP) estimates.",
+        "• The 2008–2011 Icelandic financial crisis led to a notable decline in GDP and employment levels; however, these economic indicators were fully recovered following a period of growth.",
+        "• The recovery was significantly driven by a tourism boom that began in 2010, which became a key sector for economic revitalization.",
+        "• In 2017, tourism contributed to more than 10% of Iceland's GDP, underscoring its importance to the national economy.",
+        "• Following a phase of robust economic growth, Iceland's economy experienced a slowdown, as projected in an economic outlook published by Arion Research in April 2018 covering the years 2018–2020.",
+        "• Iceland maintains a mixed economy characterized by high levels of free trade combined with government intervention in economic activities.",
+        "• Government consumption in Iceland is relatively lower compared to other Nordic countries, indicating a smaller role of government spending in the economy.",
+        "• Hydro-power is the primary source of electricity for both domestic use and industrial purposes in Iceland, highlighting the country's reliance on renewable energy sources.",
+        "• During the 1990s, Iceland implemented extensive free market reforms that initially resulted in strong economic growth and increased economic freedom.",
+        "• As a consequence of these reforms, Iceland was ranked among the countries with the highest levels of economic freedom globally and also enjoyed high civil liberties.",
+        "• In 2007, Iceland ranked at the top of the Human Development Index (HDI), reflecting high standards of health, education, and income.",
+        "• Iceland was recognized as one of the most egalitarian nations, with a low Gini coefficient indicating significant income equality.",
+        "• Starting in 2006, Iceland's economy faced challenges such as rising inflation and current account deficits, signaling economic instability.",
+        "• The financial system expanded rapidly in response to these issues and prior reforms but ultimately collapsed during the 2008–2011 Icelandic financial crisis.",
+        "• In November 2008, Iceland required emergency financial assistance from the International Monetary Fund (IMF) and several European countries to stabilize its economy.",
+        "• Since 2010, Iceland's economy has experienced a recovery and continued growth, demonstrating resilience post-crisis.",
+        "• In 2008, Iceland's bonds exhibited an inverted yield curve across various maturities, including 10-year, 5-year, and 2-year bonds, indicating market expectations of economic downturn or interest rate declines."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:35:46.762797",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In medieval Iceland, trade was traditionally conducted through barter systems, reflecting early economic practices.",
+        "• The traditional nationalistic historical narrative claims Iceland experienced a golden age from 874 until the 11th century, characterized by prosperity, followed by foreign rule and economic decline, which supposedly caused \"humiliation\"; however, there is very little evidence supporting this narrative.",
+        "• At the start of the 20th century, Iceland had among the lowest GDP per capita compared to all Western European countries, indicating a relatively underdeveloped economy at that time.",
+        "• An assessment by economists at the Central Bank of Iceland noted that post-World War II economic growth was significantly higher and more volatile than in other OECD countries, with Iceland's business cycle largely independent of those in other industrialized nations.",
+        "• Since 1875, Iceland has experienced a total of twenty financial crashes, as reported by Reuters, highlighting ongoing financial instability.",
+        "• The Icelandic economy saw a significant shift after the 1880s with the expansion of fishing activities, particularly through the use of sailing smacks, which became a major economic sector.",
+        "• During World War II, the UK imposed trade sanctions on Iceland to prevent trade with Germany, which impacted Iceland’s economy.",
+        "• Following the British occupation and later American occupation during WWII, Iceland's economy was substantially boosted, transforming it from one of Europe's poorest countries to one of the wealthiest.",
+        "• Iceland was included in the post-WWII Marshall Plan, receiving the largest amount per capita between 1948 and 1951, nearly double the amount received by the next highest recipient, which significantly aided economic recovery.",
+        "• In the late 20th century, Iceland's economy continued to grow, driven by political coalitions such as between the Independence and Progressive parties, which led to privatization of state-owned banks and telecommunications.",
+        "• During this period, corporate income tax was reduced to 18%, inheritance tax was significantly lowered, and the net wealth tax was abolished entirely, fostering a more liberal economic environment.",
+        "• The economic prosperity experienced in Iceland during the 1990s was popularly termed the \"Nordic Tiger,\" reflecting rapid growth and development.",
+        "• The \"Nordic Tiger\" period abruptly ended with the 2008 financial crisis, which caused Iceland to fall from the 10th to the 21st position in the global wealth ranking by 2010.",
+        "• The crisis involved risky loans and market manipulation by banks, with inadequate regulatory oversight, leading to sharp inflation of the Icelandic króna and the government placing the three largest banks under state control.",
+        "• In response to the crisis, Iceland’s central bank raised interest rates to 18% to combat inflation.",
+        "• With assistance from the International Monetary Fund (IMF), Iceland stabilized its economy and repaid all loans by the end of 2015.",
+        "• Economists Ásgeir Jónsson and Hersir Sigurjónsson noted that Iceland was treated differently from developing countries and other IMF clients, as it was not required to implement sharp austerity measures initially.",
+        "• Instead, Iceland was allowed to maintain large public deficits in 2009, enabling fiscal multipliers to counteract economic contraction, and was not asked to downsize its Scandinavian-style welfare system."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:35:54.972723",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Geography and resources",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iceland covers a land area of 103,000 square kilometers, making it a relatively large island nation in the North Atlantic.",
+        "• The country has a 4,790-kilometer-long coastline, providing extensive maritime access and influence.",
+        "• Iceland's exclusive economic zone (EEZ) extends 200 nautical miles (370.4 km) from its coast, covering an area of approximately 758,000 square kilometers of water.",
+        "• Only about 0.7% of Iceland's surface area is arable land, primarily due to the country's predominantly mountainous and volcanic terrain.",
+        "• The nation possesses few proven mineral resources; historically, deposits of sulphur have been mined, and diatomite (skeletal algae) was extracted from Lake Mývatn until recent times.",
+        "• Currently, most sulphur is obtained through the refining of oil, rather than direct mining.",
+        "• The diatomite extraction plant in Iceland has been closed for environmental reasons, indicating environmental considerations influence resource utilization.",
+        "• The only significant natural resource processing in Iceland is the manufacture of cement, with concrete being a widely used building material, including for all types of residential housing.",
+        "• Iceland harnesses abundant hydroelectric and geothermal energy sources, making its renewable energy industry account for approximately 85% of the country's total primary energy supply, which is higher proportionally than any other country.",
+        "• An impressive 99.9% of Iceland's electricity is generated from renewable sources, predominantly hydroelectric and geothermal power.",
+        "• The largest hydroelectric power station in Iceland is the Kárahnjúkar Hydropower Plant, with a capacity of 690 MW, located north of Vatnajökull.",
+        "• Other notable hydroelectric stations include Búrfell (270 MW), Hrauneyjarfoss (210 MW), Sigalda (150 MW), and Blanda (150 MW).",
+        "• Iceland has explored the feasibility of exporting hydroelectric energy via submarine cables to mainland Europe, aiming to leverage its renewable resources for international energy trade.",
+        "• The country actively seeks to expand its energy-intensive industries, including aluminium and ferro-silicon smelting plants, to capitalize on its abundant renewable energy resources."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:12.876898",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "3",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2017, Iceland's exports were distributed across several key sectors, reflecting the country's diverse economic activities.",
+        "• Tourism accounted for 42% of Iceland's total exports, making it the largest export sector in that year.",
+        "• The seafood industry contributed 17% to the nation's exports, highlighting Iceland's significant role as a major seafood exporter.",
+        "• Aluminium exports comprised 16% of total exports, indicating the importance of aluminium production and processing in Iceland's economy.",
+        "• The remaining 24% of exports consisted of various other goods and services, representing a diverse range of economic activities beyond the primary sectors listed."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:18.301797",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism is Iceland's largest export sector by a significant margin.",
+        "• In 2019, tourism contributed to more than 33% of Iceland's Gross Domestic Product (GDP).",
+        "• Iceland is considered one of the most tourism-dependent countries in the world.",
+        "• As of October 2017, the tourism sector directly employed approximately 26,800 individuals.",
+        "• The total employment in Iceland across all sectors was about 186,900 people in October 2017.",
+        "• The initial growth phase of Iceland's tourism industry began around 2010, benefiting from a weak Icelandic Krona (ISK).",
+        "• A subsequent strengthening of the ISK led to a cooling effect on the tourism sector.",
+        "• Between 2010 and 2018, the number of tourist arrivals in Iceland increased by 378%."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:20.541631",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iceland is the world's largest electricity producer per capita, benefiting from abundant electrical power generated primarily through geothermal and hydroelectric energy sources.",
+        "• The availability of extensive electrical power has significantly contributed to the growth of Iceland's manufacturing sector.",
+        "• The manufacturing sector in Iceland is predominantly composed of power-intensive industries, which primarily produce goods for export markets.",
+        "• Manufactured products accounted for 36% of Iceland's total merchandise exports, representing a substantial increase from 22% in 1997.",
+        "• Power-intensive products constitute 21% of Iceland's merchandise exports, up from 12% in 1997, indicating a notable expansion in this segment over the years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:23.422849",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3.2.1",
+      "section_name": "Aluminium",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Aluminium smelting is the most significant power-intensive industry in Iceland, playing a central role in the country's industrial sector.",
+        "• As of 2019, Iceland operates three aluminium smelting plants with a combined capacity exceeding 850,000 metric tons per year (t/yr).",
+        "• By 2023, Iceland ranks 12th globally among aluminium-producing nations based on its total production capacity.",
+        "• The first aluminium smelter in Iceland is operated by Rio Tinto Alcan, located in Straumsvík near Hafnarfjörður, known as ISAL.",
+        "• ISAL has been operational since 1969, initially with a capacity of 33,000 t/yr, and has undergone multiple expansions to reach approximately 189,000 t/yr.",
+        "• The second plant began production in 1998 and is operated by Norðurál, a wholly owned subsidiary of Century Aluminum Company based in the United States.",
+        "• Norðurál's plant is situated in Grundartangi, Western Iceland, near Akranes, with a former capacity of 220,000 t/yr, which was expanded to 260,000 t/yr.",
+        "• In 2012, Norðurál produced 280,000 metric tons of aluminium, valued at 610 million dollars or 76 billion krónur.",
+        "• The 2012 production consumed 4,300 gigawatt-hours of electricity, accounting for nearly 25% of Iceland's total electrical energy production that year.",
+        "• In October 2013, Norðurál announced a five-year project to increase its aluminium production capacity by an additional 50,000 t/yr.",
+        "• The third major plant is operated by Alcoa, an American aluminium manufacturer, near Reyðarfjörður, known as Fjardaál, with a capacity of 346,000 t/yr, commissioned in April 2008.",
+        "• The construction of Fjardaál involved the development of Kárahnjúkar, a 690-MW hydropower station built by Landsvirkjun, significantly increasing Iceland’s total installed electric power capacity from under 1,600 MW to approximately 2,300 MW.",
+        "• Alcoa reports that the construction of Fjardaál caused no displacement of humans, no impact on endangered species, and no threat to commercial fisheries, reindeer, birds, or seal populations.",
+        "• The project faced opposition from environmental groups such as the World Wide Fund for Nature, which urged Alcoa to abandon the project.",
+        "• Icelandic singer Björk was a prominent early opponent; her mother, Hildur Rúna Hauksdóttir, notably went on a hunger strike in 2002 protesting the construction.",
+        "• Between 2005 and 2011, Alcoa conducted a feasibility study for a second plant near Húsavík with a planned capacity of 250,000 t/yr, intended to be powered entirely by geothermal energy.",
+        "• Later estimates indicated that additional power sources might be necessary for the Húsavík project.",
+        "• In October 2011, Alcoa announced the cancellation of the Bakki project near Húsavík.",
+        "• In 2006, Norðurál signed a memorandum of understanding with Icelandic geothermal power producers Hitaveita Suðurnesja and Orkuveita Reykjavíkur to supply electricity for its aluminium reduction project in Helguvík.",
+        "• The Helguvík plant's initial capacity is planned at 150,000 t/yr, with potential expansion to 250,000 t/yr as the project develops."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:32.005933",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Fisheries",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The fisheries sector, historically known as \"the ocean cluster,\" was the most significant component of the Icelandic economy, contributing 27.1% to GDP in 2011, but has since been surpassed by tourism in economic importance.",
+        "• The fisheries sector directly employs approximately 9,000 individuals, with around 4,900 working in fishing activities and 4,100 in fish processing, representing about 5% of Iceland's total workforce.",
+        "• An estimated total of between 25,000 and 35,000 people (up to 20% of the workforce) depend on the ocean cluster for their livelihoods, including jobs created by technological companies manufacturing equipment for fisheries and firms involved in advanced marine product processing and biotechnical production.",
+        "• Aquaculture in Iceland remains a small industry, employing roughly 250 people and producing about 5,000 tonnes of fish annually.",
+        "• Iceland is the second-largest fisheries nation in the North East Atlantic, ranking behind Norway, and overtook the United Kingdom in fisheries output during the early 1990s.",
+        "• Since 2006, Icelandic fishing waters have yielded an annual catch ranging from 1.1 million to 1.4 million tonnes of fish, a decline from a peak of over 2 million tonnes in 2003.",
+        "• Cod is the most significant species in Icelandic fisheries, with a total catch of 178,516 tonnes recorded in 2010.",
+        "• Cod catches have stagnated in recent years due to quota restrictions, and the catch has been supplemented by blue whiting, which is primarily used for processing.",
+        "• The catch of blue whiting increased dramatically from a negligible 369 tonnes in 1995 to a peak of 501,505 tonnes in 2003, making it a previously insignificant species in Icelandic fisheries.",
+        "• Following the peak, blue whiting stocks showed signs of instability, leading to quota reductions and a subsequent decline in catch to 87,121 tonnes in 2010.",
+        "• The Atlantic mackerel population has increased in the 21st century, a phenomenon referred to as the \"Miracle of the Mackerel,\" attributed to the slight warming of the Atlantic Ocean."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:39.498188",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3.3.1",
+      "section_name": "Banks",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Icelandic banking system was completely overhauled following the 2008 financial crisis, resulting in significant structural reforms.",
+        "• Currently, there are three major commercial banks in Iceland: Landsbankinn (renamed the National Bank in 2008), Arion Bank (formerly Kaupthing Bank), and Islandsbanki (formerly Glitnir).",
+        "• In addition to the major banks, there are smaller banks and savings banks operating within Iceland; however, these smaller institutions are not publicly traded.",
+        "• Extensive consolidation has occurred among smaller banks, including the takeover of Sparisjodur Keflavikur by Landsbanki and the acquisition of Byr by Islandsbanki.",
+        "• Of the banks in Iceland, only Arion Bank, Islandsbanki, and Kvika Banki are listed on the Iceland Stock Exchange.",
+        "• Ownership structures vary among the major banks: Arion Bank is predominantly owned by foreign creditors, whereas Landsbanki and Islandsbanki are now wholly owned by the Icelandic State.",
+        "• The ownership stake of the Icelandic State in these banks is managed by Bankasysla rikisins (State Financial Investments), which is responsible for overseeing state holdings.",
+        "• The State Financial Investments agency aims to privatize its shares in the banks in the coming years, although specific timelines are not provided."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:47.894233",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.3.2",
+      "section_name": "Stock market",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The development of Iceland's equity markets was historically slow due to persistent inflation, reliance on fish production, and the long-standing public ownership of commercial banks.",
+        "• Nasdaq Iceland, formerly known as the Iceland Stock Exchange (XICE), was established in 1985 to facilitate stock trading in the country.",
+        "• Trading in Icelandic Treasury Bonds (T-Bonds) commenced in 1986, marking the beginning of organized debt market activity.",
+        "• Equity trading in Iceland started in 1990, expanding the country's financial market activities.",
+        "• All domestic trading of Icelandic stocks, bonds, and mutual funds is conducted exclusively on Nasdaq Iceland.",
+        "• Since its inception, Nasdaq Iceland has employed electronic trading systems to facilitate market transactions.",
+        "• Since the year 2000, Nasdaq Iceland has utilized SAXESS, a trading system developed through the NOREX alliance, to operate its markets.",
+        "• Nasdaq Iceland features two equities markets: the Main Market, which is larger and more prominent, and the Alternative Market, a less regulated over-the-counter (OTC) market.",
+        "• Due to the small size of the Icelandic market, trading activity is relatively illiquid compared to larger international markets.",
+        "• A diverse range of firms from all sectors of the Icelandic economy are listed on Nasdaq Iceland, reflecting broad market participation.",
+        "• The primary stock market index was the OMX Iceland 15, which served as the benchmark for Icelandic equities.",
+        "• The OMX Iceland 15 index was discontinued after the 2008 financial crisis, which severely impacted the market.",
+        "• During its decade of existence, the OMX Iceland 15 was the worst-performing stock market index globally, effectively being \"more or less wiped out\" by the crisis."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:54.858355",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.3.3",
+      "section_name": "Other financial markets",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Historically, investors in Icelandic bonds were reluctant due to persistent high inflation and volatility of the Icelandic króna.",
+        "• The available bond market was largely limited to bonds issued by the central government.",
+        "• The bond market on the Iceland Stock Exchange (ICEX) experienced significant growth since the 2010s, primarily driven by the resale of mortgages as housing bonds.",
+        "• A mutual fund market exists on the ICEX in theory; however, no mutual funds are currently listed on the exchange.",
+        "• A small derivatives market previously operated in Iceland but was closed in 1999 due to illiquidity issues.",
+        "• By the end of 2018, Bitcoin mining in Iceland was projected to consume more electricity than all the country's residents combined."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:36:58.161100",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "4",
+      "section_name": "Data",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section on the economy of Iceland requires updating as of September 2024 to include recent events and newly available information.",
+        "• The section includes a comparative analysis of GDP per capita development among Norway, Iceland, Denmark, Sweden, and Finland.",
+        "• It presents data on labor union membership by country, hours worked, and earnings per week, although specific figures are not detailed in this excerpt.",
+        "• The main economic indicators are provided for the years 1980 through 2017, illustrating trends over nearly four decades.",
+        "• The table highlights that inflation under 2% is marked in green, indicating periods of low inflation.",
+        "• In 1980, Iceland’s GDP was 2.5 billion US dollars (PPP), with a GDP per capita of US$10,686, and a nominal GDP of 3.4 billion US dollars.",
+        "• The GDP growth rate in 1980 was 5.7%, with an inflation rate of 58.5%, and unemployment was 0.3%; government debt as a percentage of GDP was not available.",
+        "• By 1981, GDP increased to 2.8 billion US dollars (PPP), with GDP per capita rising to US$12,032, and nominal GDP to 3.5 billion US dollars.",
+        "• The 1981 GDP growth was 4.3%, inflation decreased to 50.9%, and unemployment remained at 0.4%.",
+        "• In 1982, GDP reached 3.0 billion US dollars (PPP), with GDP per capita at US$12,868, and nominal GDP at 3.3 billion US dollars.",
+        "• The GDP growth rate in 1982 was 2.2%, inflation was 51.0%, and unemployment was 0.7%; government debt was 29.1% of GDP.",
+        "• During 1983, GDP was 3.1 billion US dollars (PPP), with a GDP per capita of US$12,931, and nominal GDP of 2.8 billion US dollars.",
+        "• The economy contracted with a -2.2% real GDP growth, inflation surged to 84.3%, unemployment increased to 1.0%, and government debt was 30.9%.",
+        "• In 1984, GDP grew to 3.3 billion US dollars (PPP), GDP per capita increased to US$13,815, and nominal GDP was 2.9 billion US dollars.",
+        "• The GDP growth was 4.1%, inflation dropped sharply to 29.2%, unemployment rose to 1.3%, and government debt was 32.6%.",
+        "• By 1985, GDP reached 3.5 billion US dollars (PPP), with GDP per capita at US$14,630, and nominal GDP at 3.0 billion US dollars.",
+        "• The economy grew by 3.3%, inflation was 32.3%, unemployment was 0.9%, and government debt was 32.1%.",
+        "• In 1986, GDP increased to 3.8 billion US dollars (PPP), with GDP per capita at US$15,733, and nominal GDP at 4.0 billion US dollars.",
+        "• The GDP growth rate was 6.3%, inflation decreased to 21.3%, unemployment was 0.7%, and government debt was 30.0%.",
+        "• In 1987, GDP rose to 4.3 billion US dollars (PPP), with GDP per capita at US$17,273, and nominal GDP at 5.6 billion US dollars.",
+        "• The economy experienced 8.5% growth, inflation was 18.8%, unemployment was 0.4%, and government debt was 27.4%.",
+        "• In 1988, GDP was 4.4 billion US dollars (PPP), with GDP per capita at US$17,553, and nominal GDP at 6.1 billion US dollars.",
+        "• The GDP growth was nearly flat at -0.1%, inflation increased to 25.5%, unemployment was 0.6%, and government debt was 30.7%.",
+        "• By 1989, GDP increased to 4.6 billion US dollars (PPP), with GDP per capita at US$18,148, and nominal GDP at 5.7 billion US dollars.",
+        "• The economy grew by 0.3%, inflation decreased to 14.5%, unemployment rose to 1.7%, and government debt was 35.4%.",
+        "• In 1990, GDP was 4.8 billion US dollars (PPP), with GDP per capita at US$18,884, and nominal GDP at 6.5 billion US dollars.",
+        "• The GDP growth was 1.2%, inflation was 15.5%, unemployment increased to 2.6%, and government debt was 35.6%.",
+        "• In 1991, GDP reached 5.0 billion US dollars (PPP), with GDP per capita at US$19,180, and nominal GDP at 6.9 billion US dollars.",
+        "• The economy experienced a slight contraction with -0.2% growth, inflation dropped to 6.8%, unemployment was 2.5%, and government debt was 37.7%.",
+        "• In 1992, GDP declined to 4.9 billion US dollars (PPP), with GDP per capita at US$18,763, and nominal GDP at 7.1 billion US dollars.",
+        "• The economy shrank by -3.4%, inflation was 4.0%, unemployment increased to 4.2%, and government debt rose to 45.5%.",
+        "• In 1993, GDP recovered to 5.1 billion US dollars (PPP), with GDP per capita at US$19,265, and nominal GDP at 6.2 billion US dollars.",
+        "• The economy grew by 1.3%, inflation was 4.1%, unemployment was 5.3%, and government debt was 52.4%.",
+        "• In 1994, GDP was 5.4 billion US dollars (PPP), with GDP per capita at US$20,239, and nominal GDP at 6.4 billion US dollars.",
+        "• The GDP growth rate was 3.6%, inflation was 1.6%, unemployment was 5.3%, and government debt was 54.9%.",
+        "• In 1995, GDP increased to 5.5 billion US dollars (PPP), with GDP per capita at US$20,610, and nominal GDP at 7.1 billion US dollars.",
+        "• The economy grew by 0.1%, inflation was 1.7%, unemployment was 4.8%, and government debt was 58.2%.",
+        "• In 1996, GDP reached 5.9 billion US dollars (PPP), with GDP per capita at US$21,834, and nominal GDP at 7.4 billion US dollars.",
+        "• The GDP growth was 4.8%, inflation was 2.3%, unemployment was 3.7%, and government debt was 55.4%.",
+        "• In 1997, GDP was 6.3 billion US dollars (PPP), with GDP per capita at US$23,084, and nominal GDP at 7.6 billion US dollars.",
+        "• The economy grew by 4.9%, inflation was 1.8%, unemployment was 3.7%, and government debt was 52.2%.",
+        "• In 1998, GDP increased to 6.8 billion US dollars (PPP), with GDP per capita at US$24,678, and nominal GDP at 8.5 billion US dollars.",
+        "• The GDP growth rate was 7.1%, inflation was 1.7%, unemployment was 2.9%, and government debt was 43.9%.",
+        "• In 1999, GDP was 7.2 billion US dollars (PPP), with GDP per capita at US$25,721, and nominal GDP at 9.0 billion US dollars.",
+        "• The economy grew by 3.9%, inflation was 3.2%, unemployment was 2.0%, and government debt was 39.2%.",
+        "• In 2000, GDP reached 7.7 billion US dollars (PPP), with GDP per capita at US$27,098, and nominal GDP at 9.0 billion US dollars.",
+        "• The GDP growth was 4.6%, inflation was 5.1%, unemployment was 2.2%, and government debt was 37.5%.",
+        "• In 2001, GDP was 8.2 billion US dollars (PPP), with GDP per capita at US$28,481, and nominal GDP at 8.2 billion US dollars.",
+        "• The economy grew by 3.9%, inflation was 6.4%, unemployment was 2.3%, and government debt was 42.8%.",
+        "• In 2002, GDP increased to 8.3 billion US dollars (PPP), with GDP per capita at US$28,886, and nominal GDP at 9.3 billion US dollars.",
+        "• The GDP growth rate was 0.6%, inflation was 5.2%, unemployment was 3.1%, and government debt was 39.4%.",
+        "• In 2003, GDP was 8.7 billion US dollars (PPP), with GDP per capita at US$29,939, and nominal GDP at 11.4 billion US dollars.",
+        "• The economy grew by 2.4%, inflation was 2.1%,"
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:37:14.323011",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 53
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "5",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iceland's economy is predominantly driven by exports, with marine products constituting the majority of goods exports.",
+        "• Other significant exports include aluminium, ferro-silicon alloys, machinery and electronic equipment used in the fishing industry, software, and woollen goods.",
+        "• In 2020, the total value of Iceland's exports was $7.43 billion FOB (Free on Board).",
+        "• The primary export destinations are the European Union (EU), European Free Trade Association (EFTA) countries, the United States, and Japan.",
+        "• Iceland's main imports consist of machinery and equipment, petroleum products, foodstuffs, and textiles, with cement being the most imported product.",
+        "• The total value of imports in 2020 was $7.55 billion.",
+        "• In 2019, Iceland's leading import partner was Norway, accounting for 11% of imports, followed by the Netherlands (10%), Germany (8%), Denmark (8%), the United States (7%), the United Kingdom (6%), the People's Republic of China (PRC) (6%), and Sweden (5%).",
+        "• Most agricultural products imported into Iceland face high tariffs; some imports, such as uncooked meat, are heavily restricted due to phytosanitary regulations.",
+        "• Iceland's relatively liberal trade policy has been reinforced through accession to the European Economic Area (EEA) in 1993 and participation in the Uruguay Round, which enhanced market access for Icelandic exports, especially seafood.",
+        "• Despite liberalization, the agricultural sector remains heavily subsidized and protected, with some tariffs reaching as high as 700%.",
+        "• The fishing industry is a critical sector, contributing approximately 40% of Iceland's export income and employing 7.0% of the workforce, making the economy sensitive to fluctuations in global fish prices.",
+        "• Following a significant depreciation of the Icelandic króna in 2008—approximately 50% against the euro and US dollar—imports since the 2007 peak have been negative, indicating a decline in import values.",
+        "• The article notes that the information requires updating to reflect recent events or new data, with the last update request noted as February 2025."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:37:24.043265",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "5.1",
+      "section_name": "Imports",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section provides detailed data on Iceland's import values measured in millions of Icelandic Krona (ISK) across the years from 1988 to 2012, including annual percentage changes.",
+        "• In 1988, Iceland's imports were valued at 68,723.2 million ISK, serving as the baseline with a 0.00% change from the previous year.",
+        "• Imports increased significantly in subsequent years, reaching 80,599.4 million ISK in 1989, representing a 17.28% rise.",
+        "• The upward trend continued in 1990 with imports at 96,620.7 million ISK, a 19.88% increase from 1989.",
+        "• In 1991, imports grew to 104,129.1 million ISK, a 7.77% increase, while in 1992, they slightly decreased to 96,895.3 million ISK, a 6.95% decline.",
+        "• The year 1993 saw imports decline further to 91,306.6 million ISK, a 5.77% decrease, but rebounded in 1994 to 102,541.3 million ISK, a 12.30% increase.",
+        "• The upward trend persisted with imports reaching 113,613.6 million ISK in 1995, a 10.80% rise, and then sharply increasing in 1996 to 135,994.5 million ISK, a 19.70% increase.",
+        "• In 1997, imports grew modestly to 143,226.6 million ISK, a 5.32% increase, followed by a significant jump in 1998 to 176,072.1 million ISK, a 22.93% rise.",
+        "• The growth slowed slightly in 1999 to 182,321.5 million ISK, a 3.55% increase, and continued in 2000 with imports at 203,222.1 million ISK, an 11.46% rise.",
+        "• In 2001, imports increased to 220,874.0 million ISK, an 8.69% rise, then decreased in 2002 to 207,607.5 million ISK, a 6.01% decline.",
+        "• In 2003, imports rose again to 216,525.1 million ISK, a 4.30% increase, followed by a substantial increase in 2004 to 260,430.8 million ISK, a 20.28% rise.",
+        "• The upward trend continued in 2005 with imports at 313,854.6 million ISK, a 20.51% increase, and in 2006 reaching 437,086.3 million ISK, a 39.26% surge.",
+        "• In 2007, imports slightly decreased to 429,468.9 million ISK, a 1.74% decline, but then increased again in 2008 to 514,739.3 million ISK, a 19.86% rise.",
+        "• In 2009, imports decreased to 446,128.2 million ISK, a 13.33% decline, then rose in 2010 to 477,222.3 million ISK, a 6.97% increase.",
+        "• The upward trend resumed in 2011 with imports at 561,626.1 million ISK, a 17.69% increase, and continued in 2012 to 597,262.2 million ISK, a 6.35% rise.",
+        "• The data is sourced from Statistics Iceland (statice.is), providing a comprehensive overview of Iceland's import values and their annual percentage changes over the specified period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:37:52.815685",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "5.2",
+      "section_name": "Exports",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The section provides a detailed overview of Iceland's export values from 1988 to 2012, measured in millions of Icelandic Krona (ISK), along with the annual percentage change.",
+        "• In 1988, Iceland's exports were valued at 61,600.0 million ISK, serving as the baseline with a 0.00% change from the previous year.",
+        "• Between 1989 and 1991, exports increased significantly: by 29.85% in 1989 to 80,071.7 million ISK, 15.68% in 1990 to 92,625.1 million ISK, and a slight decrease of 1.15% in 1991 to 91,560.4 million ISK.",
+        "• From 1992 to 1994, exports fluctuated with a modest decline of 4.07% in 1992 to 87,832.8 million ISK, followed by increases of 7.77% in 1993 to 94,657.6 million ISK and a substantial rise of 19.01% in 1994 to 112,653.8 million ISK.",
+        "• The period from 1995 to 1999 saw steady growth: 3.51% in 1995 (116,606.7 million ISK), 8.32% in 1996 (126,303.8 million ISK), 3.89% in 1997 (131,213.2 million ISK), 4.10% in 1998 (136,592.0 million ISK), and 6.10% in 1999 (144,928.1 million ISK).",
+        "• In 2000, exports increased by 3.00% to 149,272.8 million ISK.",
+        "• A significant surge occurred in 2001 with a 31.69% increase, reaching 196,582.2 million ISK.",
+        "• The growth trend continued with modest increases: 3.93% in 2002 (204,303.0 million ISK), a decline of 10.63% in 2003 (182,580.0 million ISK), and a recovery with a 10.84% rise in 2004 (202,373.0 million ISK).",
+        "• The years 2005 to 2007 experienced moderate growth: 3.96% in 2005 (194,355.3 million ISK), 24.90% in 2006 (242,740.0 million ISK), and 25.69% in 2007 (305,095.8 million ISK).",
+        "• The most notable increase occurred in 2008, with a 53.02% rise to 466,859.5 million ISK, marking a sharp growth phase.",
+        "• In 2009, exports grew by 7.28% to 500,854.5 million ISK, followed by a 12.02% increase in 2010 to 561,032.2 million ISK.",
+        "• The upward trend persisted in 2011 with a 10.53% increase to 620,127.4 million ISK, and a smaller growth of 2.08% in 2012 to 633,029.1 million ISK.",
+        "• Overall, Iceland's export values demonstrated periods of rapid growth, especially post-2000, with notable peaks in 2008 and 2011, reflecting significant shifts in export performance over the years."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:37:59.081381",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "6",
+      "section_name": "Economic agreements and policies",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Iceland became a full member of the European Free Trade Association (EFTA) in 1970.",
+        "• Iceland entered into a free trade agreement with the European Community (EC) in 1973.",
+        "• The European Economic Area (EEA) agreement, which came into effect on January 1, 1994, facilitates essentially free cross-border movement of capital, labor, goods, and services between Iceland, Norway, and the European Union (EU) countries.",
+        "• Despite the EEA agreement, many Icelandic political parties oppose EU membership, primarily due to concerns over losing sovereignty over Iceland’s fishing resources.",
+        "• Iceland maintains bilateral free trade agreements with several countries outside the EEA framework.",
+        "• The most comprehensive of these agreements is the Hoyvík Agreement between Iceland and the Faroe Islands, which surpasses the EEA by establishing free trade specifically in agricultural products between the two nations.",
+        "• Iceland signed a free trade agreement with Mexico on November 27, 2000."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:38:01.929069",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "7",
+      "section_name": "Currency and monetary policy",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The official currency of Iceland is the _króna_ (plural: _krónur_), which has been issued exclusively by the Central Bank of Iceland since its establishment in 1961.",
+        "• Iceland is notable for being the least populous country to possess its own currency and independent monetary policy.",
+        "• From 2000 to mid-2010, the exchange rate of the Icelandic króna relative to the euro experienced fluctuations, influenced by various economic events.",
+        "• During the 1970s, Iceland was severely impacted by the oil shocks of 1973 and 1979, which contributed to high inflation rates.",
+        "• Inflation rates reached 43% in 1974 and surged to 59% in 1980.",
+        "• Inflation decreased to 15% in 1987 but rose again to 30% in 1988.",
+        "• Between 1995 and 2004, Iceland experienced moderately strong GDP growth averaging 3% annually.",
+        "• Economic growth slowed between 2000 and 2002, but the economy expanded by 4.3% in 2003 and by 6.2% in 2004.",
+        "• In 2005, GDP growth exceeded 6%.",
+        "• Inflation was relatively low during the early 1990s, averaging 1.5% from 1993 to 1994 and 1.7% from 1994 to 1995.",
+        "• Inflation increased to 8.6% in 2006, with a rate of 6.9% recorded as of January 2007.",
+        "• In December 2006, Standard & Poor's downgraded Iceland’s credit rating from A+ to AA− (long-term), citing concerns over fiscal policy loosening ahead of the 2007 elections.",
+        "• Foreign debt in Iceland rose to more than five times the country's GDP, indicating significant external borrowing.",
+        "• The Central Bank of Iceland raised short-term interest rates to nearly 15% in 2007 to counteract currency instability.",
+        "• During the 2008 financial crisis, the Icelandic krona plummeted against the euro and dollar, with inflation speculated to be between 20-25%.",
+        "• Between 2008 and 2011, inflation increased markedly amid the financial crisis, prompting the Central Bank to peg the krona to the euro at increasingly higher rates, ultimately setting the peg at 340 kronur per euro before suspending all currency trade.",
+        "• The krona also depreciated against the US dollar, falling from approximately 50–80 per dollar to about 110–115 per dollar, and further to 135 per dollar by November 2008.",
+        "• By early April 2009, the exchange rate stabilized around 119 kronur per dollar, maintaining this level for the following two years.",
+        "• As of September 2024, the Icelandic krona has stabilized, with 1 US dollar equivalent to 137.22 Icelandic kronur.",
+        "• Despite Iceland's integration into the European Union via the European Economic Area (EEA) and the Schengen Agreement, the country does not adopt the euro as its official currency.",
+        "• Arnór Sighvatsson, then Deputy Governor of the Central Bank of Iceland, stated that Iceland would not adopt the euro due to the additional costs associated with purchasing new base money for the banking system and the need for larger foreign exchange reserves."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:38:07.980728",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "8",
+      "section_name": "Growth",
+      "chapter_name": "Economy of Iceland",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• During the 1990s, Iceland's economy began diversifying into manufacturing and service industries, indicating a shift from traditional sectors.",
+        "• New developments in software production, biotechnology, and financial services emerged as key growth areas within Iceland's economy during this period.",
+        "• The tourism sector experienced expansion, with particular growth in ecotourism and whale watching activities, reflecting diversification and increased international interest.",
+        "• In 2008, Iceland's economy entered a significant downturn, experiencing a deep recession coinciding with the global Great Recession.",
+        "• Despite the recession, Iceland's economy showed signs of recovery, growing by 3.3% in the last quarter of 2009.",
+        "• The overall GDP contraction for Iceland in 2009 was 6.5%, which was less severe than the initially forecasted decline of 10% by the International Monetary Fund (IMF)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-07-31T22:38:12.393927",
+        "openai_model": "gpt-4.1-nano-2025-04-14",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_iceland.json",
+      "original_index": 17
+    }
+  ]
+}

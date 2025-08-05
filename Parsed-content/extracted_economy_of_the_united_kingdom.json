@@ -1,0 +1,1045 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_united_kingdom.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.236954",
+    "total_sections_in_source": 39,
+    "extracted_sections_count": 39,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Kingdom has a highly developed social market economy and, from 2017 to 2025, ranks as the sixth-largest national economy globally by nominal gross domestic product (GDP), the tenth-largest by purchasing power parity (PPP), and approximately 18th by nominal GDP per capita, contributing 2.4% of world GDP and 2.2% by PPP.",
+        "• The UK is one of the most globalised economies, comprising four constituent countries: England, Scotland, Wales, and Northern Ireland.",
+        "• In 2022, the United Kingdom was the fifth-largest exporter and the fourth-largest importer of goods and services worldwide.",
+        "• The UK held the fourth-largest outward foreign direct investment (FDI) and the fifteenth-largest inward FDI in 2022.",
+        "• Trade with the European Union in 2022 accounted for 42% of the UK’s exports and 48% of its total imports.",
+        "• The UK maintains a highly efficient and robust social security system, which constitutes approximately 24.5% of its GDP.",
+        "• The service sector dominates the UK economy, contributing 82% of GDP, with the financial services industry being particularly significant.",
+        "• London is the world’s second-largest financial centre, while Edinburgh was ranked 17th globally and 6th in Europe for its financial services industry in 2021.",
+        "• The UK’s technology sector is valued at US$1 trillion, ranking third globally behind the United States and China.",
+        "• The aerospace industry in the UK is the second-largest national aerospace industry worldwide.",
+        "• The pharmaceutical industry ranks as the tenth-largest globally and plays an important role in the UK economy.",
+        "• Among the world’s 500 largest companies, 17 have their headquarters in the United Kingdom.",
+        "• The UK economy benefits from North Sea oil and gas production, with reserves estimated at 2.5 billion barrels in 2021, although the UK has been a net importer of oil since 2005.",
+        "• There are significant regional disparities in prosperity within the UK, with South East England and North East Scotland identified as the richest areas per capita.",
+        "• London’s economy is the wealthiest city by GDP per capita in Europe.",
+        "• In 2022, the United Kingdom invested approximately 2.8% of its GDP in research and development.",
+        "• Historically, Britain was the first nation to industrialise in the 18th century.",
+        "• During the 19th century, Britain’s expansive colonial empire and technological superiority secured its preeminent role in the global economy, accounting for 9.1% of the world’s GDP in 1870.",
+        "• The Second Industrial Revolution, occurring rapidly in the United States and the German Empire, presented increasing economic challenges to the UK leading into the 20th century.",
+        "• The financial and human costs of fighting both the First and Second World Wars further weakened the UK’s relative economic position.",
+        "• Despite a relative decline in global dominance, the UK retains significant power and influence worldwide in the 21st century.",
+        "• The UK economy experienced a significant decline during the Great Recession of 2008, followed by a period of weak growth.",
+        "• Government economic involvement is primarily exercised by His Majesty’s Treasury, led by the Chancellor of the Exchequer, and the Department for Business and Trade.",
+        "• Since 1979, the UK’s economic management has generally followed a broadly laissez-faire approach.",
+        "• The Bank of England serves as the UK’s central bank, and since 1997, its Monetary Policy Committee has been responsible for setting interest rates, implementing quantitative easing, and providing forward guidance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:06.119023",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 25
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "0.1",
+      "section_name": "1945 to 1979",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The net losses in British national wealth due to World War II amounted to 18.6%, equivalent to £4.595 billion, based on prewar wealth valued at £24.68 billion at 1938 prices.",
+        "• Following the Second World War, the Labour government fully nationalised key sectors including the Bank of England, civil aviation, telephone networks, railways, gas, electricity, and the coal, iron, and steel industries, impacting 2.3 million workers.",
+        "• The post-war period in the United Kingdom was marked by a prolonged absence of major recessions, with rapid growth in prosperity during the 1950s and 1960s, and unemployment remaining low, not exceeding 3.5% until the early 1970s.",
+        "• Between 1960 and 1973, the UK’s annual economic growth rate averaged 2.9%, which was significantly lower than growth rates experienced by other European countries such as France, West Germany, and Italy.",
+        "• Deindustrialisation led to the closure of mining, heavy industry, and manufacturing operations, resulting in the loss of highly paid working-class jobs.",
+        "• The UK’s share of global manufacturing output increased from 9.5% in 1830 during the Industrial Revolution to 22.9% in the 1870s, before declining to 13.6% by 1913, 10.7% by 1938, and further to 4.9% by 1973.",
+        "• Factors contributing to deindustrialisation included overseas competition, lack of innovation, trade unionism, the welfare state, the loss of the British Empire, and prevailing cultural attitudes.",
+        "• The 1970s saw a crisis point for the UK economy amid a global energy crisis, high inflation, and a significant influx of low-cost manufactured goods from Asia.",
+        "• The 1973 oil crisis caused oil prices to quadruple, coinciding with the 1973–74 stock market crash and the secondary banking crisis of 1973–75, which precipitated the 1973–75 recession in the UK.",
+        "• The Conservative government of Edward Heath was replaced by the Labour Party under Harold Wilson following the February 1974 general election, which resulted in a hung parliament; Wilson formed a minority government in March 1974 and secured a narrow three-seat majority in a second election in October 1974.",
+        "• Throughout the 1970s, the UK economy experienced weaker growth compared to many European nations, with persistent rising unemployment and double-digit inflation that exceeded 20% on multiple occasions and rarely fell below 10% after 1973.",
+        "• In 1976, the UK sought a £2.3 billion loan from the International Monetary Fund (IMF), which required Chancellor of the Exchequer Denis Healey to implement public spending cuts and economic reforms to secure the loan.",
+        "• Following IMF-mandated reforms, the British economy showed signs of improvement, achieving a growth rate of 4.3% in early 1979.",
+        "• The discovery of substantial North Sea oil reserves enabled the UK to become a net exporter of oil by the late 1970s, contributing to a significant appreciation of the pound sterling, which made UK exports more expensive and imports cheaper.",
+        "• Oil prices doubled between 1979 and 1980, further undermining the profitability of the UK’s manufacturing sector.",
+        "• The Winter of Discontent in 1978–79, characterized by widespread public sector strikes, culminated in the government of James Callaghan losing a vote of no confidence in March 1979.",
+        "• The subsequent general election on 3 May 1979 resulted in Margaret Thatcher’s Conservative Party forming a new government, marking a political and economic turning point.",
+        "• Retrospectively, the 1970s are regarded as a \"lost decade\" for Britain both economically and culturally due to stagnation, industrial decline, and social unrest."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:00.064852",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "0.2",
+      "section_name": "1979 to 1997",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The period from 1979 to 1997 in the United Kingdom marked the beginning of a new era of neo-liberal economics, initiated by the election that brought Margaret Thatcher to power.",
+        "• Throughout the 1980s, the UK government implemented widespread privatisation of state-owned industries and utilities, enacted trade union reforms, reduced taxes, and deregulated markets.",
+        "• Initially, the UK’s GDP fell by 5.9%, but economic growth resumed and peaked at an annual rate of 5% in 1988, ranking among the highest growth rates in Europe at that time.",
+        "• Inflation in 1980 reached a high of 21.9%, prompting Thatcher’s government to engage in a vigorous battle against inflation, which led to a significant rise in unemployment.",
+        "• Unemployment increased from 5.3% in 1979 to over 10.4% by early 1982, peaking at nearly 11.9% in 1984, a level not seen since the Great Depression in Britain.",
+        "• The rise in unemployment coincided with the global recession of the early 1980s; UK GDP did not return to its pre-recession level until 1983.",
+        "• Despite economic difficulties, Thatcher won a landslide re-election victory in June 1983; by then, inflation had fallen to 3.7%, though interest rates remained relatively high at 9.56%.",
+        "• The increase in unemployment was largely attributed to government policies that led to the closure of outdated factories and coal pits, accelerating structural changes in the economy.",
+        "• Manufacturing employment in England and Wales declined from approximately 38% of jobs in 1961 to around 22% by 1981, a trend that continued through the 1980s.",
+        "• Growth was concentrated in newer industries and the service sector, while manufacturing became more efficient, reducing the number of workers required.",
+        "• By the time of Thatcher’s third consecutive election victory in June 1987, unemployment had fallen below 3 million, and by the end of 1989, it had decreased further to 1.6 million.",
+        "• The UK economy entered another global recession in late 1990, shrinking by a total of 6% from peak to trough, with unemployment rising from about 6.9% in spring 1990 to nearly 10.7% by the end of 1993.",
+        "• Inflation dropped significantly during this period, from 10.9% in 1990 to 1.3% three years later, indicating successful anti-inflationary measures despite economic contraction.",
+        "• The economic recovery after the early 1990s recession was robust and featured a rapid and substantial decline in unemployment, which fell to 7.2% by 1997.",
+        "• Despite the economic upturn, the Conservative government’s popularity did not improve; the party won a fourth successive election in 1992 under John Major, who had succeeded Thatcher in November 1990.",
+        "• The Conservative government’s reputation for economic competence was damaged by Black Wednesday in 1992, after which the Labour Party gained ascendancy in opinion polls.",
+        "• Labour’s rise in popularity was further bolstered by Tony Blair’s election as party leader in July 1994, following the sudden death of his predecessor John Smith.",
+        "• Throughout the period from 1980 to 1997, despite two recessions, real wages consistently grew by approximately 2% per year and continued to increase until 2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:08.564404",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "0.3",
+      "section_name": "1997 to 2009",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In May 1997, the Labour Party, led by Tony Blair, won the UK general election, ending 18 years of Conservative government and inheriting a strong economy characterized by low inflation, falling unemployment, and a current account surplus.",
+        "• Tony Blair's Labour government promoted \"New Labour,\" which combined neo-liberal economic policies with support for a strong welfare state, and was commonly described in Britain as a \"Third Way\" blending socialist and capitalist approaches.",
+        "• Four days after the 1997 election, Gordon Brown, appointed Chancellor of the Exchequer, granted the Bank of England independence to control monetary policy, a function previously directed by the government.",
+        "• During Blair’s decade in office, the UK experienced 40 consecutive quarters of economic growth, lasting until the second quarter of 2008, marking a sustained period of economic expansion.",
+        "• UK GDP growth averaged 2.68% annually between 1992 and 2007, which was lower than the 4% peak in the early 1990s and significantly less than the 6.5% peak in the early 1970s, but growth was smoother and more consistent during this period.",
+        "• The finance sector’s contribution to GDP growth increased substantially during this period, making the UK’s growth rate one of the highest among developed economies and the strongest in Europe.",
+        "• Household debt in the UK rose sharply from £420 billion in 1994 to £1 trillion in 2004, and further to £1.46 trillion by 2008, exceeding the entire UK GDP at that time.",
+        "• The prolonged growth period ended in the second quarter of 2008 when the UK entered the Great Recession, triggered by the 2008 global financial crisis.",
+        "• The UK’s financial sector was particularly vulnerable to the crisis due to being the most highly leveraged among major economies, leading to the collapse and subsequent public ownership of Northern Rock in February 2008.",
+        "• Other banks required partial nationalisation, including the Royal Bank of Scotland Group (RBS), which was effectively nationalised in October 2008; at its peak, RBS was the fifth-largest bank worldwide by market capitalization.",
+        "• By mid-2009, HM Treasury held a 70.33% controlling share in RBS and a 43% shareholding in Lloyds Banking Group through UK Financial Investments Limited.",
+        "• The Great Recession caused UK unemployment to rise significantly from just over 1.6 million in January 2008 to nearly 2.5 million by October 2009.",
+        "• In August 2008, the International Monetary Fund (IMF) warned that the UK’s economic outlook had deteriorated due to a \"twin shock\" of financial turmoil and rising commodity prices, which disproportionately affected the UK compared to other developed countries.",
+        "• The UK’s vulnerability stemmed from its reliance on revenue from exporting financial services while running deficits in goods and commodities, including food.",
+        "• In 2007, the UK recorded the world’s third-largest current account deficit, primarily driven by a substantial deficit in manufactured goods.",
+        "• In May 2008, the IMF recommended that the UK government broaden fiscal policy measures to promote external balance in response to the economic challenges.",
+        "• The UK’s labor productivity, measured as output per hour worked, was comparable to the average of the \"old\" European Union 15 (EU-15) member countries during this period."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:05.495024",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "0.4",
+      "section_name": "2009 to 2020",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In March 2009, the Bank of England (BoE) reduced interest rates to a historic low of 0.5% and initiated quantitative easing (QE) to stimulate lending and support the UK economy during the Great Recession.",
+        "• The UK exited the Great Recession in the fourth quarter (Q4) of 2009 after enduring six consecutive quarters of negative economic growth, with a total contraction of 6.03% from peak to trough, marking the longest recession on record and the deepest since World War II.",
+        "• During the recession, public support for the Labour Party declined significantly, culminating in the 2010 general election which resulted in a coalition government formed by the Conservative Party and the Liberal Democrats.",
+        "• By 2011, the combined household, financial, and business debts in the UK amounted to 420% of GDP, positioning the UK as the world's most indebted country and constraining spending and investment post-recession, contributing to economic stagnation.",
+        "• Government borrowing increased from 52% to 76% of GDP during this period, which was acknowledged as a critical factor in preventing a depression akin to that of the 1930s.",
+        "• Within three years following the 2010 general election, austerity measures aimed at reducing the budget deficit led to public sector job losses in the six-figure range, while the private sector experienced robust employment growth.",
+        "• The decade following the Great Recession was marked by economic extremes: by 2015, UK employment reached its highest recorded level, and GDP growth was the fastest among the Group of Seven (G7) nations and Europe.",
+        "• Despite strong employment and GDP growth, workforce productivity in 2015 was the lowest since the 1820s, with any growth attributed primarily to a reduction in working hours rather than increased output per hour.",
+        "• UK output per hour worked was 18% below the G7 average in 2015, indicating significant productivity challenges.",
+        "• Real wage growth during this period was the worst since the 1860s; wages fell by 10% in real terms over the eight years leading to 2016, contrasting with an average real wage increase of 6.7% across OECD countries.",
+        "• The Governor of the Bank of England described the 2010s as a \"lost decade\" for the UK economy due to stagnant wages and productivity.",
+        "• In 2015, the UK’s current account deficit reached a record high of 5.2% of GDP (£96.2 billion), the largest among developed nations, and in Q4 2015, it exceeded 7%, a peacetime record since 1772.",
+        "• The UK economy relied heavily on foreign investors to finance its balance of payments shortfall during this period.",
+        "• Housing affordability worsened, exacerbated by quantitative easing; the BoE’s analysis suggested that without QE, house prices would have declined by 22%.",
+        "• In 2016, rising unsecured household debt raised concerns about the sustainability of the economic recovery, although the BoE maintained there was no cause for alarm despite previously describing the recovery as \"neither balanced nor sustainable.\"",
+        "• Following the 2016 Brexit referendum, the BoE further reduced interest rates to a new historic low of 0.25%, maintaining this rate for just over a year, and increased the total QE amount since the Great Recession to £435 billion.",
+        "• By Q4 2018, the UK’s net borrowing was the highest in the OECD at 5% of GDP, with households running a deficit for an unprecedented nine consecutive quarters.",
+        "• Since the Great Recession, the UK ceased generating profits on its foreign investments, marking a significant shift in its international financial position.",
+        "• The long-term impact of the Great Recession included a slowdown in UK GDP growth from an annual average of 3.0% between 1993 and 2007 to 1.5% between 2009 and 2023.",
+        "• Labour productivity growth also decelerated significantly, from an annual average of 1.9% between 1993 and 2008 to just 0.4% between 2008 and 2023.",
+        "• As of early 2024, average wages in the UK, when adjusted for inflation, remained roughly at the same level as in 2008, indicating a prolonged period of wage stagnation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:09.588336",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "0.5",
+      "section_name": "2020 to present",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In March 2020, the UK imposed a temporary ban on non-essential business and travel in response to the COVID-19 pandemic, while the Bank of England (BoE) cut the interest rate to 0.1%.",
+        "• Prior to the pandemic, economic growth in the UK was weak, with zero growth recorded in the fourth quarter of 2019.",
+        "• By May 2020, 23% of the British workforce was furloughed (temporarily laid off), and the government launched schemes to support affected workers.",
+        "• During the first half of 2020, the UK’s GDP shrank by 22.6%, marking the deepest recession in UK history and a contraction worse than any other G7 or European country.",
+        "• Throughout 2020, the BoE purchased £450 billion of government bonds, increasing the total quantitative easing (QE) since the Great Recession to £895 billion.",
+        "• Overall, UK GDP contracted by 9.9% in 2020, representing the worst economic contraction since the Great Frost of 1709.",
+        "• In 2021, consumer price inflation (CPI) in the UK began rising sharply, driven by higher energy and transport costs.",
+        "• By the first nine months of 2022, annual inflation approached 11%, prompting the BoE to gradually increase the base interest rate to 2.25%.",
+        "• The UK experienced some of the highest domestic electricity and gas prices in Europe as of September 2022, contributing to a significant cost of living crisis.",
+        "• Global inflation rates in 2022 were the highest in 40 years, influenced by the COVID-19 pandemic and Russia’s invasion of Ukraine.",
+        "• In February 2022, the BoE initiated quantitative tightening by not renewing mature government bonds, and in November 2022, it began offloading bonds to private investors, signaling an end to an era of easy borrowing.",
+        "• In October 2022, year-on-year CPI reached 11.1%, the highest in 41 years; food price inflation was 16.2%, gas prices increased by 130%, and electricity prices rose by 66%.",
+        "• In August 2023, the Office for National Statistics (ONS) revised its analysis, stating that UK GDP had surpassed its pre-COVID-19 level in the final quarter of 2021, indicating an earlier recovery than previously estimated and ahead of other major European economies.",
+        "• The revised data showed the British economy was 0.6% larger in Q4 2021 than in Q4 2019, contrasting with earlier estimates that it was 1.2% smaller.",
+        "• Following the summer 2024 election, the new Labour government implemented the most significant enhancement of employment regulations in a generation, including increases in minimum wages and the introduction of a wide array of new workers’ rights."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:06.719312",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1",
+      "section_name": "Economic charts",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The GDP year-on-year growth chart covers the period from 1949 to 2020, illustrating the annual percentage changes in the United Kingdom's gross domestic product over seven decades.",
+        "• Workforce distribution data is presented for Great Britain from 1841 to 1911, and separately for England and Wales from 1921 to 2011, detailing the composition and shifts in employment sectors during these historical intervals.",
+        "• Unemployment rates are documented from 1881 to 2017, providing a long-term view of labor market fluctuations and economic health across more than a century.",
+        "• Recovery periods following each recession, measured by GDP per capita, are analyzed for the years 1920 to 2009, highlighting the duration and pace of economic rebound after downturns.",
+        "• Productivity trends are charted from 1971 to 2019, reflecting changes in output per worker or per hour worked within the UK economy over nearly five decades.",
+        "• Interest rates data spans from 1800 to 2020, offering insight into the historical cost of borrowing and monetary policy shifts across more than two centuries.",
+        "• The balance of trade figures are provided for the years 1948 to 2020, showing the difference between the value of exports and imports and indicating periods of trade surplus or deficit.",
+        "• Balance of trade specifically in crude oil and petroleum is tracked from 1890 to 2015, illustrating the UK's trade performance in these key energy commodities over 125 years.",
+        "• The United Kingdom bonds inverted yield curve is documented for the period 1988 to 1991, capturing an unusual financial phenomenon where short-term interest rates exceeded long-term rates, often interpreted as a recession indicator."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:08.598866",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "Government spending and economic management",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Government involvement in the UK economy is primarily conducted by HM Treasury, which is headed by the Chancellor of the Exchequer.",
+        "• Since 1997, the Bank of England's Monetary Policy Committee, led by the Governor of the Bank of England, has been responsible for setting interest rates to meet the inflation target established annually by the Chancellor.",
+        "• The UK economy has been managed in recent years according to principles of market liberalisation, low taxation, and reduced regulation.",
+        "• The Scottish Government, with approval from the Scottish Parliament, holds the power to vary the basic rate of income tax in Scotland by plus or minus 3 pence in the pound, although this power has not yet been exercised.",
+        "• Between the fiscal years 1986/87 and 2006/07, government spending in the UK averaged approximately 40% of GDP.",
+        "• In July 2007, UK government debt stood at 35.5% of GDP.",
+        "• Following the 2008 financial crisis and the Great Recession, government spending rose to a historic peak of 48% of GDP in 2009–10, partly due to the costs associated with multiple bank bailouts.",
+        "• As of the end of June 2014, public sector net debt in the UK, excluding financial sector interventions, was £1304.6 billion, equivalent to 77.3% of GDP.",
+        "• For the financial year 2013–2014, public sector net borrowing totaled £93.7 billion, which was £13.0 billion higher than the borrowing in the financial year 2012–2013.",
+        "• Taxation in the UK involves payments to at least two levels of government: local government and central government, the latter administered by HM Revenue & Customs.",
+        "• Local government funding sources include grants from central government, business rates, council tax, and an increasing reliance on fees and charges such as those from on-street parking.",
+        "• Central government revenues are primarily derived from income tax, national insurance contributions, value added tax (VAT), corporation tax, and fuel duty."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:10.214126",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3",
+      "section_name": "Sectors",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The UK's Office for National Statistics' Blue Book categorizes the UK economy into 10 broad sectors, detailing their contributions in terms of Gross Value Added (GVA) and employee compensation.",
+        "• The Agriculture sector contributes £16,206 million to GVA, representing 0.8% of the total GVA, and accounts for £4,887 million in employee compensation, which is 0.4% of total employee compensation.",
+        "• The Production sector contributes £259,522 million to GVA, making up 12.7% of the total GVA, with employee compensation amounting to £143,992 million or 12.5% of the total.",
+        "• The Construction sector adds £119,920 million to GVA, equating to 5.9% of the total GVA, and provides £53,142 million in employee compensation, representing 4.6% of the total.",
+        "• The Distribution sector contributes £335,709 million to GVA, which is 16.4% of the total, and has employee compensation of £235,682 million, accounting for 20.4% of total employee compensation.",
+        "• The Information sector contributes £131,244 million to GVA, or 6.4% of the total, with employee compensation of £87,369 million, representing 7.6% of total employee compensation.",
+        "• The Financial sector contributes £185,434 million to GVA, comprising 9.1% of the total, and employee compensation totals £87,738 million, which is 7.6% of the total.",
+        "• The Real Estate sector contributes £266,136 million to GVA, accounting for 13.0% of the total GVA, but employee compensation is comparatively low at £18,011 million, or 1.6% of total employee compensation.",
+        "• The Professional sector contributes £264,877 million to GVA, representing 12.9% of the total, with employee compensation of £176,238 million, equating to 15.2% of total employee compensation.",
+        "• The Government sector, including health and education, is the largest contributor with £405,455 million to GVA, making up 19.8% of the total, and employee compensation of £313,594 million, which is 27.1% of total employee compensation.",
+        "• The Other Services sector contributes £62,133 million to GVA, or 3.0% of the total, and employee compensation is £35,499 million, representing 3.1% of total employee compensation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:15.319125",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "3.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture in the United Kingdom is characterized by intensive practices, high mechanization, and efficiency that ranks well by European standards.",
+        "• The UK produces approximately 65% of its own food requirements, reflecting a significant level of domestic food production.",
+        "• The self-sufficiency level in food production was just under 50% during the 1950s, increased to a peak of 80% in the 1980s, and subsequently declined to around 65% by the turn of the 21st century.",
+        "• In 2018, agriculture contributed a gross value of £12.18 billion to the UK economy, indicating its economic importance within the national context.",
+        "• Employment in agriculture, hunting, forestry, and fishing sectors totaled approximately 467,000 people in 2018, highlighting the sector’s role as a source of rural employment.",
+        "• Agriculture accounts for about 0.5% of the United Kingdom’s national Gross Domestic Product (GDP), demonstrating its relatively small but significant economic share.",
+        "• Approximately two-thirds of agricultural production by value in the UK is devoted to livestock farming, while one-third is dedicated to arable crop production.",
+        "• The broader agri-food sector, encompassing agriculture, food manufacturing, wholesale, catering, and retail, was valued at £120 billion and provided employment for around 4 million people across the UK."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:14.500077",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "3.2",
+      "section_name": "Construction",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The construction industry in the United Kingdom employed approximately 2.3 million people in 2019 and contributed a gross value of £123.2 billion to the national economy during the same year.",
+        "• Crossrail, one of the largest construction projects in the UK in recent years, had an estimated cost of £19 billion and was recognized as the largest construction project in Europe.",
+        "• Crossrail officially opened in 2022 and consists of a new railway line running east to west through London, extending into the surrounding areas, and includes a branch line to Heathrow Airport.",
+        "• A key feature of the Crossrail project was the construction of 42 kilometers (26 miles) of new tunnels that connect various stations in central London.",
+        "• High Speed 2 (HS2), a major infrastructure project connecting London and the West Midlands, is considered one of Europe’s largest infrastructure undertakings.",
+        "• Crossrail 2 is a proposed rail route planned for the South East of England, intended to further enhance the region’s rail network."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:13.171924",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3.2.1",
+      "section_name": "Electricity, gas and water",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The electricity, gas, and water sector contributed a gross value of £51.4 billion to the United Kingdom's economy in the year 2018.",
+        "• The United Kingdom has plans to initiate the construction of new nuclear reactors aimed at replacing existing nuclear generators.",
+        "• The development of new nuclear reactors is also intended to enhance and increase the UK's overall energy reserves."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:10.210089",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "3.2.2",
+      "section_name": "Manufacturing",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 1970s, manufacturing constituted 25 per cent of the UK economy, reflecting its significant role during that decade.",
+        "• Employment in the UK manufacturing sector declined from 7.1 million workers in 1979 to 4.5 million in 1992, further decreasing to 2.7 million by 2016, at which point manufacturing accounted for 10% of the economy.",
+        "• According to the Office for National Statistics, the manufacturing industry was valued at £451.6 billion (equivalent to $588 billion) in 2023, underscoring its substantial economic contribution.",
+        "• Manufacturing output in the UK increased in 36 of the 50 years leading up to 2023 and was twice as large in 2007 compared to 1958, indicating long-term growth despite fluctuations.",
+        "• In 2011, the UK manufacturing sector generated approximately £140.5 billion in gross value added and employed about 2.6 million people, highlighting its economic and employment significance.",
+        "• Of the roughly £16 billion invested in research and development (R&D) by UK businesses in 2008, manufacturing businesses accounted for approximately £12 billion, demonstrating the sector’s central role in innovation.",
+        "• In 2008, the UK ranked as the sixth-largest manufacturer globally by value of output, reflecting its prominent position in international manufacturing.",
+        "• The UK automotive manufacturing sector employed around 180,000 people directly in 2008, with a turnover of £52.5 billion, exports valued at £26.6 billion, and production of approximately 1.45 million passenger vehicles and 203,000 commercial vehicles.",
+        "• The UK is a major global centre for engine manufacturing, producing about 3.16 million engines in 2008, emphasizing its technical expertise in this field.",
+        "• The UK aerospace industry is the second-largest worldwide after the United States and the largest in Europe, employing approximately 113,000 people directly and around 276,000 indirectly, with an annual turnover of about £20 billion.",
+        "• Major British aerospace companies include BAE Systems and Rolls-Royce, the latter being the world’s second-largest aircraft engine manufacturer.",
+        "• European aerospace companies with significant operations in the UK include Airbus, whose commercial aircraft, space, helicopter, and defence divisions employ over 13,500 people across more than 25 UK sites.",
+        "• The UK pharmaceutical industry employed around 67,000 people in 2007, contributed £8.4 billion to the UK’s GDP, and invested £3.9 billion in research and development that year.",
+        "• Pharmaceutical exports from the UK in 2007 totaled £14.6 billion, generating a trade surplus of £4.3 billion in pharmaceutical products.",
+        "• The UK is home to GlaxoSmithKline and AstraZeneca, ranked respectively as the world’s third- and seventh-largest pharmaceutical companies, underscoring the country’s global pharmaceutical significance."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:24.089961",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "3.2.3",
+      "section_name": "Mining, quarrying and hydrocarbons",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Blue Book 2013 reports that the mining, quarrying, and hydrocarbons sector contributed a gross value of £31.4 billion to the UK economy in 2011.",
+        "• In 2007, the UK had a total energy output of 9.5 quadrillion Btus (10 exajoules), composed of oil (38%), natural gas (36%), coal (13%), nuclear energy (11%), and other renewables (2%).",
+        "• In 2009, the UK produced 1.5 million barrels per day (bbl/d) of oil while consuming 1.7 million bbl/d, indicating production was insufficient to meet domestic demand.",
+        "• The UK’s oil production has been in decline since 2005, and the country has been a net importer of oil from that year onward.",
+        "• As of 2010, the UK possessed approximately 3.1 billion barrels of proven crude oil reserves, the largest amount held by any European Union member state.",
+        "• In 2009, the UK ranked as the 13th largest natural gas producer globally and was the largest natural gas producer within the European Union.",
+        "• UK natural gas production has been declining, with the country becoming a net importer of natural gas since 2004.",
+        "• Coal production in the UK in 2009 was 19.7 million tons, while coal consumption was significantly higher at 60.2 million tons.",
+        "• In 2005, the UK had proven recoverable coal reserves totaling 171 million tons.",
+        "• Identified onshore areas in the UK have the potential to yield between 7 billion and 16 billion tonnes of coal through underground coal gasification (UCG).",
+        "• Based on current coal consumption rates, these UCG reserves could supply the UK with coal for between 200 and 400 years.",
+        "• The UK hosts several major energy companies, including two of the six global oil and gas \"supermajors\": BP and Shell plc.",
+        "• The UK is endowed with a variety of natural resources, including coal, tin, limestone, iron ore, salt, clay, chalk, gypsum, lead, and silica."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:20.144574",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "3.3",
+      "section_name": "Service industries",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The service sector is the dominant sector of the United Kingdom's economy.",
+        "• In 2023, the service sector accounted for 82% of the UK's Gross Domestic Product (GDP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:11.321590",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "3.3.1",
+      "section_name": "Creative industries",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The creative industries contributed 7% of the United Kingdom's gross value added (GVA) in 2005, reflecting a significant portion of the national economy.",
+        "• Between 1997 and 2005, the creative industries in the UK experienced an average annual growth rate of 6%, indicating robust expansion over this period.",
+        "• London and the North West of England are identified as the two largest creative industry clusters in Europe, highlighting their importance as key regional hubs for creative economic activity.",
+        "• According to the British Fashion Council, the fashion industry’s contribution to the UK economy was valued at £26 billion in 2014, demonstrating substantial growth from £21 billion in 2009.",
+        "• The United Kingdom is the headquarters of WPP, recognized as the world’s largest advertising company, underscoring the country’s global leadership in the advertising sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:14.725644",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "3.3.2",
+      "section_name": "Education, health and social work",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Queen Elizabeth Hospital Birmingham is a university hospital affiliated with the University of Birmingham and features the largest single-floor critical care unit in the world.",
+        "• According to The Blue Book 2013, the education sector in the UK contributed a gross value of £84.6 billion in 2011, while human health and social work activities contributed £104.0 billion in the same year.",
+        "• The majority of the UK healthcare sector is composed of the state-funded and operated National Health Service (NHS), which accounts for over 80% of all healthcare spending in the UK.",
+        "• The NHS employs approximately 1.7 million people, making it the largest employer in Europe and one of the largest employers worldwide.",
+        "• The NHS operates independently in each of the four constituent countries of the UK: England, Scotland, Wales, and Northern Ireland.",
+        "• The NHS in England is the largest of the four NHS organizations, with a turnover of £92.5 billion in 2008.",
+        "• In the 2007/08 academic year, higher education institutions in the UK had a total income of £23 billion and employed 169,995 staff.",
+        "• During 2007/08, there were 2,306,000 higher education students in the UK, distributed as follows: 1,922,180 in England, 210,180 in Scotland, 125,540 in Wales, and 48,200 in Northern Ireland."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:17.675828",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "3.3.3",
+      "section_name": "Financial and business services",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2011, the UK financial services industry contributed a gross value of £116.4 billion to the UK economy, highlighting its significant economic impact.",
+        "• The UK's exports of financial and business services play a crucial role in positively influencing the country's balance of payments.",
+        "• London is recognized as a major global centre for international business and commerce, identified as one of the three \"command centres\" of the global economy alongside New York City and Tokyo.",
+        "• Over 500 banks maintain offices in London, establishing the city as the leading international hub for banking, insurance, Eurobonds, foreign currency transactions, and energy futures trading.",
+        "• The financial services industry in London is primarily concentrated in two key areas: the City of London and Canary Wharf.",
+        "• The City of London hosts several major financial institutions and markets, including the London Stock Exchange, the London Metal Exchange, Lloyd's of London, and the Bank of England.",
+        "• Canary Wharf, developed beginning in the 1980s, houses major financial institutions such as Barclays Bank, Citigroup, HSBC, and the UK Financial Services Authority.",
+        "• London also serves as a major centre for other business and professional services, with four of the six largest law firms in the world headquartered in the city.",
+        "• Outside London, several other UK cities have significant financial sectors and related services: Edinburgh is one of Europe's largest financial centres and hosts the headquarters of Lloyds Banking Group, NatWest Group, and Standard Life.",
+        "• Leeds is the largest centre for business and financial services in the UK outside London and ranks as the second-largest centre for legal services in the UK after London.",
+        "• Research papers and reports from the mid-2010s reveal that British financial firms provide sophisticated mechanisms facilitating the laundering of billions of pounds annually, including funds derived from global corruption and the international drug trade, positioning London as a global hub for illicit finance.",
+        "• A Deutsche Bank study published in March 2015 found that Britain attracted approximately one billion pounds of capital inflows per month that were not recorded in official statistics, with up to 40 percent likely originating from Russia.",
+        "• The unrecorded capital inflows suggest misreporting by financial institutions, advanced tax avoidance strategies, and the UK's reputation as a \"safe-haven\" for capital."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:25.151340",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "3.3.4",
+      "section_name": "Hotels and restaurants",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Blue Book 2013 reports that the hotels and restaurants industry contributed a gross value of £36.6 billion to the United Kingdom economy in the year 2011.",
+        "• InterContinental Hotels Group (IHG), which is headquartered in Denham, Buckinghamshire, is recognized as the world's largest hotelier.",
+        "• IHG owns and operates several prominent hotel brands, including InterContinental, Holiday Inn, and Crowne Plaza."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:16.959112",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "3.3.5",
+      "section_name": "Informal",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• A 2014 study determined that sex work and related services contributed in excess of £5 billion annually to the United Kingdom's economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:16.444261",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "3.3.6",
+      "section_name": "Public administration and defence",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Blue Book 2013 reports that the public administration and defence sector contributed a gross value of £70.4 billion to the United Kingdom economy in the year 2011."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:17.376358",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 1
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "3.3.7",
+      "section_name": "Real estate and renting activities",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Trafford Centre shopping complex in Manchester was sold in 2011 for £1.6 billion, marking the largest property sale in British history.",
+        "• Prominent real estate companies in the United Kingdom include British Land, Landsec, and the Peel Group.",
+        "• The UK property market experienced a boom for seven years leading up to 2008, during which property values in some areas trebled.",
+        "• Several factors contributed to the increase in property prices during this period: low interest rates, credit growth, overall economic growth, rapid expansion in buy-to-let property investment, foreign investment in London property, and planning restrictions limiting the supply of new housing.",
+        "• Between 1997 and 2016, average house prices in England and Wales rose by 259%, while average earnings increased by only 68%.",
+        "• The ratio of average home cost to annual earnings increased significantly, from 3.6 times in 1997 to 7.6 times in 2016.",
+        "• Since 1985, rent has nearly doubled as a share of the UK’s GDP and has grown to exceed the size of the manufacturing sector.",
+        "• In 2014, rent and imputed rent—which estimates the rental value homeowners would pay if they rented their own homes—accounted for 12.3% of the United Kingdom’s GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:23.207359",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "3.3.8",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The British Museum attracted 6.2 million visitors in the year 2019.",
+        "• Inbound tourism to the United Kingdom accounted for over 40 million visits in 2019, generating £28.5 billion in revenue for the British economy.",
+        "• More than half of the inbound tourism expenditure in 2019 was concentrated in London, which ranked as the third most visited city globally with 21.7 million visitors.",
+        "• London was surpassed only by Hong Kong, the most visited city, and Bangkok, the second most visited city worldwide in 2019.",
+        "• In 2023, the United States was the largest inbound tourism market for the UK, contributing £6.3 billion in spending from 5,122,000 visitors.",
+        "• Germany ranked second among the UK's inbound tourism markets in 2023, with £1.8 billion spent by 2,957,000 visitors.",
+        "• France was the third largest market in 2023, generating £1.6 billion from 3,172,000 visitors to the UK.",
+        "• Australia also contributed £1.6 billion in 2023, with 1,169,000 visitors, making it the fourth largest inbound tourism market for the UK.",
+        "• Ireland ranked fifth in 2023, with £1.2 billion spent by 2,889,000 visitors to the UK.",
+        "• Spain was the sixth largest inbound market in 2023, contributing £1.1 billion from 2,210,000 visitors.",
+        "• The Netherlands also contributed £1.1 billion in 2023, with 1,960,000 visitors, ranking seventh among inbound tourism markets.",
+        "• Italy was the eighth largest inbound tourism market in 2023, generating £973 million from 1,696,000 visitors.",
+        "• Canada ranked ninth in 2023, with £970 million spent by 1,003,000 visitors to the UK.",
+        "• The United Arab Emirates was the tenth largest inbound tourism market in 2023, contributing £914 million from 477,000 visitors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:23.816423",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "3.3.8.1",
+      "section_name": "Effects of the COVID-19 pandemic",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The COVID-19 pandemic led to travel restrictions and lockdowns in 2020, causing a 76% reduction in inbound tourism to the UK, as reported by VisitBritain.",
+        "• VisitBritain's January 2021 forecast estimated that visits from other nations in 2021 would increase by 21% compared to 2020 but would only reach 29% of the 2019 levels.",
+        "• The tourism authority anticipated a slow recovery in 2021, concluding that the number of visits would not come \"even close to normal levels\" during that year.",
+        "• Domestic travel within the UK also suffered significantly in 2020, with spending declining by an estimated 62% compared to the previous year, according to the same VisitBritain report.",
+        "• As of January 2021, forecasts predicted that domestic travel spending would increase by 79% over 2020 levels and reach 84% of the 2019 spending value by the end of 2021.",
+        "• Some COVID-19 restrictions on domestic travel were scheduled to be loosened on 12 April 2021.",
+        "• The UK planned to begin relaxing certain travel restrictions on international arrivals in mid-May 2021.",
+        "• On 8 April 2021, the plan to ease international travel restrictions became uncertain due to reports from European Union sources about a \"third wave of the pandemic\" sweeping the continent, with particular concern over the B117 variant.",
+        "• On 6 April 2021, UK Prime Minister Boris Johnson emphasized the government's stance against allowing the virus to be reimported into the UK from abroad.",
+        "• All travel restrictions in the UK were officially ended on 18 March 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:25.154464",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "3.3.9",
+      "section_name": "Transport, storage and communication",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The East Coast Main Line (ECML) is a high-speed railway line measuring 393 miles (632 km) in length, connecting London King's Cross station in the south to Edinburgh Waverley in the north, passing through Peterborough, Doncaster, York, Darlington, Durham, and Newcastle.",
+        "• In 2011, the transport and storage industry contributed a gross value of £59.2 billion to the UK economy, while the telecommunication industry added a gross value of £25.1 billion in the same year.",
+        "• The United Kingdom possesses a total road network of 246,700 miles (397,025 km), which includes 31,400 miles (50,533 km) of major roads; among these major roads, 2,300 miles (3,701 km) are designated motorways.",
+        "• Network Rail owns the railway infrastructure in Great Britain, encompassing 19,291 miles (31,046 km) of railway lines, of which 9,866 miles (15,878 km) are currently open for traffic.",
+        "• Northern Ireland has an additional 206.5 miles (332.3 km) of railway track, which is owned and operated by Northern Ireland Railways.",
+        "• The UK government has committed to spending £56 billion on the High Speed 2 (HS2) railway project, with the first phase from London to Birmingham estimated to cost £27 billion.",
+        "• Crossrail, later branded as the Elizabeth line, was completed and officially opened in 2022; it is recognized as Europe's largest infrastructure project with a projected cost of £15 billion.",
+        "• National Highways is a government-owned company responsible for managing trunk roads and motorways in England, excluding the M6 Toll, which is privately owned and operated.",
+        "• Between February 2017 and January 2018, UK airports collectively handled 284.8 million passengers.",
+        "• The three largest UK airports by passenger numbers during this period were London Heathrow Airport with 78.0 million passengers, Gatwick Airport with 45.6 million passengers, and Manchester Airport with 27.8 million passengers.",
+        "• London Heathrow Airport, located 14.5 miles (23.3 km) west of central London, handles the highest volume of international passenger traffic of any airport worldwide.",
+        "• Heathrow Airport serves as the primary hub for the UK flag carrier British Airways and for Virgin Atlantic.",
+        "• The six commercial airports serving London collectively form the world's largest city airport system by passenger traffic, accommodating 171 million passengers in 2017."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:31.666435",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "3.3.10",
+      "section_name": "Wholesale and retail trade",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The wholesale and retail trade sector in the United Kingdom encompasses the motor trade, auto repairs, and personal and household goods industries.",
+        "• According to The Blue Book 2013, this sector contributed a gross value of £151.8 billion to the UK economy in 2011.",
+        "• As of 2016, high-street retail spending represented approximately 33% of total consumer spending and accounted for 20% of the UK’s Gross Domestic Product (GDP).",
+        "• Despite high consumer spending, the sector contributes only 5.7% of gross value added to the British economy, largely because 75% of goods purchased in the UK are imported from overseas.",
+        "• Online retail sales constitute 22% of total retail spending in the UK, ranking third globally behind China and South Korea, and are twice the proportion of online sales in the United States.",
+        "• The UK grocery market is predominantly controlled by four major supermarket chains known as the \"Big Four\": Tesco with a 26.9% market share, Sainsbury’s with 14.8%, Asda with 14.3%, and Morrisons with 8.8%, as of March 2023.",
+        "• Discount supermarket chains Aldi and Lidl have increased in popularity, with Aldi holding a 9.9% market share as of March 2023.",
+        "• London serves as a major retail hub, having recorded the highest non-food retail sales of any city worldwide in 2010, with total spending around £64.2 billion.",
+        "• Outside London, Manchester and Birmingham are significant retail centers, and the UK features numerous large out-of-town shopping centers such as Meadowhall, located away from traditional high streets in town and city centers.",
+        "• While international retail chains dominate most urban areas, many UK towns and cities maintain streets or districts characterized by numerous independent and often unique businesses.",
+        "• Tesco, a UK-based company, was the fourth-largest retailer in Europe by turnover in 2019, ranking behind Schwarz Group, Aldi, and Carrefour."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:31.399265",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "4",
+      "section_name": "Currency",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• London is recognized as the world capital for foreign exchange trading, holding a global market share of 43.1% in 2019 of the daily $6.6 trillion global turnover.",
+        "• The highest daily trading volume in foreign exchange, measured in trillions of US dollars, occurs when New York enters the market.",
+        "• Sterling is the official currency of the United Kingdom, with its primary unit being the pound, symbolized by \"£\".",
+        "• The Bank of England serves as the central bank of the UK and is responsible for issuing the national currency.",
+        "• Banks located in Scotland and Northern Ireland retain the legal right to issue their own banknotes, provided they hold sufficient Bank of England notes in reserve to cover their issuance.",
+        "• Sterling functions as a reserve currency for various governments and financial institutions worldwide, ranking as the third-largest reserve currency after the US dollar and the euro.",
+        "• The United Kingdom opted not to join the euro currency at its inception, maintaining the pound sterling as its currency.",
+        "• Under former Prime Minister Tony Blair, the UK government pledged to hold a referendum on euro membership contingent upon meeting \"five economic tests.\"",
+        "• Debate over adopting the euro persisted until at least 2007, when then-Prime Minister Gordon Brown, previously Chancellor of the Exchequer, promised a public referendum based on specific economic criteria.",
+        "• After evaluating the economic tests, Gordon Brown concluded that the UK should not join the euro at that time, citing the decision as appropriate for both the UK and Europe.",
+        "• Brown specifically highlighted fluctuations in UK house prices as a significant barrier to immediate entry into the eurozone.",
+        "• Public opinion polls have consistently shown a majority of Britons opposing adoption of the euro; in 2005, 55% were against joining the single currency, while only 30% supported it.",
+        "• Opposition to adopting the euro has intensified in recent years, solidifying the stance against membership.",
+        "• The prospect of the UK joining the euro became effectively irrelevant following the 2016 referendum decision to withdraw from the European Union and the subsequent formal withdrawal in 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:28.740051",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Exchange rates",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The exchange rate data for the British pound (GBP) against the US dollar (USD) and the euro (EUR) is presented as annual averages, showing values in both directions: US dollars and euros per pound, and inversely, pounds per US dollar and euro.",
+        "• Prior to 1999, the euro exchange rate is represented by the synthetic Euro (XEU), reflecting the pre-euro currency basket.",
+        "• These annual averages mask significant intra-year volatility in exchange rates; the coefficient of variation (C.var) is used to quantify this variability and to indicate how closely the pound tracks the euro or the dollar within each year.",
+        "• A notable event impacting exchange rates was Black Wednesday in late 1992, which caused a marked change in the pound’s value; this is evident by comparing the average exchange rates for 1992 and 1993.",
+        "• Specific exchange rate data for 1990 to 2019 includes:",
+        "• In 1990, the pound was valued at £0.5633 per US dollar and £0.7161 per synthetic euro (₠1.397 XEU per £).",
+        "• By 1992, just before Black Wednesday, the pound was £0.5699 per US dollar and £0.7365 per XEU.",
+        "• In 1993, following Black Wednesday, the pound depreciated to £0.6663 per US dollar and £0.7795 per XEU, reflecting a weaker pound.",
+        "• From 1999 onwards, the synthetic euro (XEU) was replaced by the euro (€), with the pound at £0.6595 per euro in 1999.",
+        "• Exchange rates fluctuated over the years, with the pound reaching £0.770 per US dollar and £0.8193 per euro in 2016, and £0.748 per US dollar and £0.8773 per euro in 2019.",
+        "• The coefficient of variation (C.var) for the pound against the US dollar and euro is reported from 2004 onwards, indicating the degree of exchange rate volatility:",
+        "• For example, in 2004, the C.var was 2.26% against the US dollar and 1.92% against the euro.",
+        "• The highest volatility recorded was in 2015, with a C.var of 7.20% against the US dollar and 11.04% against the euro.",
+        "• Volatility fluctuated in subsequent years, with 2013 and 2014 showing C.var values above 4% for both currencies.",
+        "• The data presentation conventionally shows forex rates as dollars per pound and pounds per euro, but for consistency and comparison, the coefficient of variation is measured on the \"per pound\" ratios.",
+        "• The exchange rate trends and volatility measures provide insight into the pound’s performance relative to major currencies over three decades, reflecting economic events, policy changes, and market dynamics influencing the UK economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:37.440405",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "4.2",
+      "section_name": "Gross domestic product (2022)",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, England had the largest constituent economy within the United Kingdom as measured by gross domestic product (GDP), according to data from the Office for National Statistics (ONS).",
+        "• Northern Ireland had the smallest economy in terms of GDP among the UK nations in 2022, consistent with its smaller population size relative to other UK nations.",
+        "• England also recorded the highest GDP per capita within the UK in 2022, while Wales had the lowest GDP per capita among the four constituent nations.",
+        "• England's population in 2022 was 57,106,398, with a GDP of £2,161,593 million (equivalent to $2,664,325 million USD), representing 86.25% of the total UK GDP.",
+        "• England’s GDP per capita in 2022 was £37,852, which equates to $46,655 USD per person.",
+        "• Scotland had a population of 5,447,698 in 2022, with a GDP of £186,851 million (or $230,445 million USD), accounting for 7.46% of the UK’s total GDP.",
+        "• Scotland’s GDP per capita in 2022 was £34,299, equivalent to $42,301 USD.",
+        "• Wales had a population of 3,131,640 in 2022, with a GDP of £85,412 million (or $105,337 million USD), contributing 3.41% to the UK’s total GDP.",
+        "• Wales recorded the lowest GDP per capita among the UK nations in 2022, at £27,274 or $33,636 USD per person.",
+        "• Northern Ireland’s population in 2022 was 1,910,543, with a GDP of £56,694 million (equivalent to $69,813 million USD), representing 2.26% of the total UK GDP.",
+        "• Northern Ireland’s GDP per capita in 2022 was £29,674, which is $36,541 USD per person.",
+        "• The total population of the United Kingdom in 2022 was 67,596,279, with an aggregate GDP of £2,506,170 million (or $3,089,072 million USD).",
+        "• The UK’s overall GDP per capita in 2022 was £37,076, equivalent to $45,758 USD per person."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:30.781469",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "4.2.1",
+      "section_name": "By English region",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• England accounts for 84.3% of the total United Kingdom population and contributes an even larger proportion to the UK's GDP, representing 86.25% of the total GDP.",
+        "• Significant regional economic variation within the UK primarily occurs within England due to its dominant share of population and GDP.",
+        "• London, serving as the capital city of both the United Kingdom and England, possesses the largest regional economy in England and the highest GDP per capita among English regions.",
+        "• North East England has the smallest regional economy in England based on total nominal GDP and also records the lowest GDP per capita within England.",
+        "• According to the Office for National Statistics (ONS) data for the year 2022, the regions of England ranked by GDP and GDP per capita are as follows:",
+        "• London: Population of 8,866,180; GDP of £562,179 million (US$693,096 million); accounts for 22.43% of UK GDP; GDP per capita of £63,407 (US$78,154).",
+        "• South East England: Population of 9,379,833; GDP of £374,453 million (US$461,665 million); accounts for 14.94% of UK GDP; GDP per capita of £39,921 (US$49,208).",
+        "• North West England: Population of 7,516,113; GDP of £247,199 million (US$304,755 million); accounts for 9.86% of UK GDP; GDP per capita of £32,889 (US$40,538).",
+        "• East of England: Population of 6,398,497; GDP of £213,828 million (US$263,556 million); accounts for 8.53% of UK GDP; GDP per capita of £33,419 (US$41,191).",
+        "• South West England: Population of 5,764,881; GDP of £194,030 million (US$239,186 million); accounts for 7.74% of UK GDP; GDP per capita of £33,657 (US$41,485).",
+        "• West Midlands: Population of 6,021,653; GDP of £181,354 million (US$223,599 million); accounts for 7.23% of UK GDP; GDP per capita of £30,117 (US$37,118).",
+        "• Yorkshire and the Humber: Population of 5,541,262; GDP of £170,304 million (US$209,933 million); accounts for 6.79% of UK GDP; GDP per capita of £30,734 (US$37,888).",
+        "• East Midlands: Population of 4,934,939; GDP of £146,482 million (US$180,663 million); accounts for 5.84% of UK GDP; GDP per capita of £29,683 (US$36,610).",
+        "• North East England: Population of 2,683,040; GDP of £71,763 million (US$88,526 million); accounts for 2.86% of UK GDP; GDP per capita of £26,747 (US$33,000).",
+        "• The total population of England in 2022 was 57,106,398, with a combined GDP of £2,161,593 million (US$2,664,325 million), representing 86.25% of the UK's total GDP.",
+        "• The entire United Kingdom had a population of 67,596,279 in 2022, with a total GDP of £2,506,170 million (US$3,089,072 million).",
+        "• The overall GDP per capita for England was £37,852 (US$46,655), which is higher than the UK-wide GDP per capita of £37,076 (US$45,758) in 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:41.433693",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "4.3",
+      "section_name": "Gross value added (2020)",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Excluding the effects of North Sea oil and gas, which are classified in official statistics as extra-regio, England has the highest gross value added (GVA) per head among the countries of the United Kingdom in 2020.",
+        "• Wales has the lowest GVA per head among the UK's countries in 2020 when excluding North Sea oil and gas effects.",
+        "• In 2020, England's GVA per head was £32,866, equivalent to $42,136.",
+        "• Scotland ranked second in GVA per head in 2020 with £29,629, equivalent to $37,986.",
+        "• Northern Ireland held the third position with a GVA per head of £25,575, equivalent to $32,788 in 2020.",
+        "• Wales had the lowest GVA per head in 2020 at £23,882, equivalent to $30,618."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:32.728127",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "4.3.1",
+      "section_name": "By English region",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Within England, the Gross Value Added (GVA) per capita is highest in London, indicating the region's leading economic productivity on a per-person basis.",
+        "• In 2020, London ranked first among the nine statistical regions of England with a GVA per head of £55,974, equivalent to $71,762.",
+        "• South East England held the second position with a GVA per capita of £34,516 ($44,251) in 2020.",
+        "• The East of England was ranked third, reporting a GVA per head of £29,176 ($37,405) for the year 2020.",
+        "• North West England occupied the fourth rank with a GVA per capita of £28,257 ($36,227) in 2020.",
+        "• South West England was fifth, with a GVA per head of £28,012 ($35,913) in 2020.",
+        "• The West Midlands region ranked sixth, showing a GVA per capita of £26,281 ($33,694) in 2020.",
+        "• East Midlands was seventh, with a GVA per head of £25,956 ($33,277) in 2020.",
+        "• Yorkshire and the Humber ranked eighth, reporting a GVA per capita of £25,696 ($32,944) in 2020.",
+        "• North East England was ninth and last among the English regions listed, with a GVA per head of £23,109 ($29,627) in 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:37.027994",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "5",
+      "section_name": "Trade",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the three months to November 2018, the UK trade deficit (goods and services) narrowed by £0.2 billion to £7.9 billion, as exports of both goods and services each increased by £0.1 billion more than their respective imports.",
+        "• When excluding erratic commodities, primarily aircraft, the total trade deficit widened by £1.2 billion to £9.5 billion in the same period (three months to November 2018).",
+        "• Large increases in export prices of oil and aircraft contributed to the narrowing of the total trade deficit; however, after adjusting for inflation, the total trade deficit actually widened by £0.3 billion to £6.5 billion in the three months to November 2018.",
+        "• The trade in goods deficit with European Union (EU) countries widened by £0.8 billion, while the deficit with non-EU countries narrowed by £0.9 billion in the three months to November 2018, primarily due to increased imports from EU countries and increased exports to non-EU countries.",
+        "• Over the 12 months to November 2018, the total trade deficit widened by £4.1 billion, mainly driven by a £4.4 billion reduction in the trade in services surplus.",
+        "• Following the United Kingdom's withdrawal from the European Union, trade negotiations between the UK and the EU (comprising 27 member states) may result in the EU having the same status as third countries in UK import and export statistics.",
+        "• According to OEC World 2017 data, the EU-27-2020 is projected to remain a significant trade partner for the UK, with UK exports to the EU reaching nearly $200 billion, compared to exports to the United States at $45 billion and China at $21 billion.",
+        "• The same OEC World 2017 data indicates that UK imports from the EU-27-2020 could reach nearly $330 billion, compared to imports from the United States at $46 billion and China at $58 billion.",
+        "• In July 2023, the UK economy received a £1 billion boost aimed at promoting innovative trade digitalisation through a dedicated act.",
+        "• The United Kingdom is actively negotiating several trade deals, including the Canada–United Kingdom Free Trade Agreement, India–United Kingdom Free Trade Agreement, Gulf Cooperation Council–United Kingdom Free Trade Agreement, United Kingdom–United States Free Trade Agreement, and its accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP).",
+        "• The UK also maintains other free trade agreements under the broader category of Free Trade Agreements of the United Kingdom."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:41.451979",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "6",
+      "section_name": "Investment",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2013, the United Kingdom was the leading country in Europe for inward foreign direct investment (FDI), attracting $26.51 billion, which represented a 19.31% share of the European market.",
+        "• During the same year, the UK ranked second in Europe for outward FDI, with investments totaling $42.59 billion, accounting for a 17.24% share of the European market.",
+        "• In October 2017, the Office for National Statistics (ONS) revised the UK's balance of payments, altering the net international investment position from a reported surplus of £469 billion to a deficit of £22 billion.",
+        "• The revision was based on a deeper analysis of outward investment, which revealed that a significant portion of what was previously classified as foreign debt securities owned by British companies were, in fact, loans to British citizens.",
+        "• Inward investment figures also declined sharply, moving from a surplus of £120 billion in the first half of 2016 to a deficit of £25 billion in the same period of 2017.",
+        "• The UK had been relying on a surplus of inward investment to compensate for its persistent long-term current account deficit.",
+        "• In April 2021, Lord Grimstone established the UK Investment Council with the objectives of enhancing UK inward investment and informing UK trade policy by providing a platform for global investors to offer high-level advice to the government.",
+        "• According to the Office for National Statistics, the United Kingdom is the largest foreign investor in the United States and the second largest foreign investor in China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:37.878514",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "7",
+      "section_name": "Mergers and acquisitions",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 1985, a total of 103,430 mergers and acquisitions (M&A) deals involving UK participation have been announced, indicating significant activity in the UK M&A market over several decades.",
+        "• There have been three major waves of increased M&A activity in the UK, occurring in the years 2000, 2007, and 2017, as illustrated by the referenced graph \"M&A in the UK.\"",
+        "• The year 1999 recorded the highest cumulative value of M&A deals involving the UK, amounting to £490 billion, which is approximately 50% greater than the peak value recorded in 2017.",
+        "• From 2000 until 2018, the Finance industry and the Energy & Power sector each contributed about 15% of the total value of M&A deals involving UK companies, making them the dominant sectors in terms of deal value during this period.",
+        "• The Vodafone–Mannesmann deal, completed on 14 November 1999, remains the largest M&A deal in global history, with a value of £126.95 billion; Vodafone AirTouch PLC (United Kingdom) acquired Mannesmann AG (Germany).",
+        "• The second largest deal was the acquisition of SABMiller PLC (United Kingdom) by Anheuser-Busch Inbev SA/NV (Belgium) on 16 September 2015, valued at £77.24 billion.",
+        "• On 4 August 2015, Royal Dutch Shell PLC (Netherlands) acquired BG Group PLC (United Kingdom) in a deal worth £46.70 billion, ranking as the third largest UK-involved M&A transaction.",
+        "• The fourth largest deal was the merger of Glaxo Wellcome PLC and SmithKline Beecham PLC, both UK companies, on 17 January 2000, valued at £46.48 billion.",
+        "• On 28 October 2004, Royal Dutch Petroleum Co (Netherlands) acquired Shell Transport & Trading Co (United Kingdom) for £40.75 billion, marking the fifth largest UK-related M&A deal.",
+        "• British American Tobacco PLC (United Kingdom) acquired Reynolds American Inc (United States) on 21 October 2016 in a transaction valued at £40.10 billion, ranking sixth in size.",
+        "• Vodafone Group PLC (United Kingdom) acquired AirTouch Communications Inc (United States) on 15 January 1999 for £36.35 billion, the seventh largest deal involving UK companies.",
+        "• France Telecom SA (France) acquired Orange PLC (United Kingdom) on 30 May 2000 in a deal valued at £31.14 billion, ranking eighth among top UK-involved M&A deals.",
+        "• British Petroleum Co PLC (United Kingdom) acquired Amoco Corp (United States) on 8 November 1998 for £29.51 billion, the ninth largest M&A deal involving UK companies.",
+        "• GE Oil & Gas (United Kingdom) acquired Baker Hughes Inc (United States) on 31 October 2016 in a transaction valued at £26.63 billion, ranking tenth in the list of largest UK-involved deals.",
+        "• An additional significant deal includes the UK government's HM Treasury acquisition of Royal Bank of Scotland Group (United Kingdom) on 26 February 2009, valued at £25.50 billion.",
+        "• In most cases, both acquiring and target companies involved in these M&A deals have shareholders distributed globally, not limited to the countries of the acquirer or target company, reflecting the international nature of these transactions."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:44.139325",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "8",
+      "section_name": "European Union membership",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Over the past decade, the proportion of the United Kingdom's exports going to the European Union has decreased from 54 percent to 47 percent, despite the total value of exports increasing from £130 billion (€160 billion) to £240 billion (€275 billion) during the same period.",
+        "• In June 2016, the United Kingdom held a national referendum in which the electorate voted to leave the European Union, marking a pivotal moment in the country's relationship with the EU.",
+        "• Following the referendum, the UK government activated Article 50 of the Lisbon Treaty, initially setting the UK's departure date from the EU for Friday, 29 March 2019.",
+        "• The original leave date was subsequently extended multiple times: first to Friday, 12 April 2019; then to Thursday, 31 October 2019; and finally to Friday, 31 January 2020, with provisions allowing for an earlier exit if agreements were reached.",
+        "• Negotiations concerning the future relationship between the UK and the EU continued until the end of October 2019, amid significant political and economic uncertainty.",
+        "• The UK experienced a slowdown in economic growth during 2019, which was attributed to the uncertainty surrounding Brexit as well as a broader global economic slowdown.",
+        "• The United Kingdom officially left the European Union in January 2020, concluding its membership after over four decades.",
+        "• On 16 July 2020, the UK government affirmed that, following the end of the Brexit transition period, businesses across the United Kingdom would continue to benefit from internal trade protections and that jobs would remain safeguarded despite the uncertain economic environment.",
+        "• Beginning 1 January 2021, powers previously exercised at the EU level in at least 70 policy areas were transferred directly to the devolved administrations in Edinburgh (Scotland), Cardiff (Wales), and Belfast (Northern Ireland) for the first time, marking a significant constitutional and administrative change within the UK."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:44.092081",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "9",
+      "section_name": "Poverty",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Kingdom is classified as a developed country with an established social welfare infrastructure, leading to poverty discussions that use a relatively high minimum income threshold compared to developing countries.",
+        "• Eurostat data indicates that the proportion of Britons at risk of poverty decreased from 19% in 2005 to 17.1% in 2010, and further declined to 15.9% in 2014, after accounting for social transfers.",
+        "• The welfare state in the United Kingdom plays a central role in mitigating poverty.",
+        "• The poverty line in the UK is conventionally defined as 60% of the median household income.",
+        "• For the period 2007–2008, the poverty line was quantified as £115 per week for single adults without dependent children.",
+        "• For couples without dependent children in 2007–2008, the poverty line was set at £199 per week.",
+        "• Single adults with two dependent children under the age of 14 had a poverty threshold of £195 per week in 2007–2008.",
+        "• Couples with two dependent children under 14 had a poverty line of £279 per week during 2007–2008.",
+        "• In 2007–2008, approximately 13.5 million people, equating to 22% of the UK population, lived below the poverty line.",
+        "• This 22% relative poverty rate in 2007–2008 was higher than all but four member states of the European Union.",
+        "• In the same period, 4.0 million children, representing 31% of all children, lived in households below the poverty line after housing costs were considered.",
+        "• The number of children living in poverty decreased by 400,000 between 1998–1999 and 2007–2008."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:46.658468",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "10",
+      "section_name": "Economic impacts of climate change",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the UK Government, the number of households at risk of flooding is projected to increase to up to 970,000 homes in the 2020s, rising from approximately 370,000 in January 2012.",
+        "• The annual cost to the UK of flooding effects and flood risk management is about £2.2 billion, which significantly exceeds the less than £1 billion spent on flood protection and management measures.",
+        "• UK agriculture is adversely impacted by drought conditions and changing weather patterns linked to climate change.",
+        "• In 2020, PricewaterhouseCoopers estimated that the damage caused by Storm Dennis to homes, businesses, and vehicles ranged between £175 million and £225 million, while Storm Ciara resulted in costs of up to £200 million.",
+        "• Friends of the Earth criticized the British government for planned cuts to flood defence spending, emphasizing that protecting against increasing flood risks due to climate change necessitates rising investment.",
+        "• The Environment Agency, in 2009, calculated that the UK needs to increase spending by £20 million annually from the 2010-2011 baseline each year through to 2035 to keep pace with climate change-related flood risks.",
+        "• The British government, in collaboration with economist Nicholas Stern, published the Stern Review on the Economics of Climate Change in 2006, identifying climate change as the greatest and most extensive market failure ever encountered, posing a unique economic challenge.",
+        "• The Stern Review recommends policy measures including environmental taxes to minimize economic and social disruptions caused by climate change.",
+        "• The Review’s principal conclusion is that the benefits of strong, early action on climate change substantially outweigh the costs of inaction.",
+        "• The Stern Review highlights potential adverse effects of climate change on water resources, food production, public health, and the environment.",
+        "• According to the Stern Review, without intervention, the overall costs of climate change could equate to losing at least 5% of global gross domestic product (GDP) annually, indefinitely.",
+        "• When considering a broader range of risks and costs, the economic impact of climate change could rise to 20% of global GDP or more.",
+        "• The Review’s overarching conclusion is that the economic benefits of prompt and robust climate action far exceed the associated costs.",
+        "• Climate change increased the probability of unusual rainfall during autumn and winter 2023-2024 by a factor of 10 and intensified the rainfall by 20%.",
+        "• This extreme rainfall caused severe damage to homes and infrastructure, power outages, travel disruptions, and significant losses in crops and livestock.",
+        "• Damage to arable crops alone from the 2023-2024 rainfall events is estimated at £1.2 billion, excluding losses to vegetable crops.",
+        "• Insurance claims for houses related to weather disasters increased by more than one-third following these climate-induced events."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:17:44.609152",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "11",
+      "section_name": "Data",
+      "chapter_name": "Economy of the United Kingdom",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents key economic indicators for the United Kingdom from 1980 to 2021, including IMF staff estimates for 2022 to 2027, with inflation rates below 5% highlighted in green.",
+        "• In 1980, the UK’s GDP was $511.8 billion (PPP), GDP per capita was $9,085.1 (PPP), nominal GDP was $603.6 billion, nominal GDP per capita was $10,715.4, real GDP growth was -2.1%, inflation was 16.8%, unemployment was 7.1%, and government debt was 42.6% of GDP.",
+        "• From 1980 to 1990, GDP (PPP) increased from $511.8 billion to $1,024.8 billion, GDP per capita (PPP) rose from $9,085.1 to $17,904.8, nominal GDP grew from $603.6 billion to $1,195.4 billion, and nominal GDP per capita increased from $10,715.4 to $20,884.2.",
+        "• Real GDP growth fluctuated during the 1980s, with negative growth in 1980 (-2.1%) and 1981 (-0.7%), peaking at 5.4% in both 1987 and 1988.",
+        "• Inflation rates significantly decreased from 16.8% in 1980 to 7.0% in 1990, with unemployment rising from 7.1% in 1980 to 7.1% in 1990, and government debt as a percentage of GDP declining from 42.6% to 28.5%.",
+        "• In the early 1990s, GDP (PPP) continued to rise, reaching $1,074.1 billion in 1992, with GDP per capita (PPP) at $18,653.1, while nominal GDP was $1,292.1 billion and nominal GDP per capita was $22,438.0.",
+        "• The UK experienced a recession in 1991 with real GDP growth of -1.4%, inflation at 7.5%, unemployment at 8.9%, and government debt stable at 28.4% of GDP.",
+        "• Throughout the 1990s, GDP and GDP per capita steadily increased, with nominal GDP reaching $1,559.9 billion and nominal GDP per capita $26,749.9 in 1997, while inflation declined to 1.8% and unemployment decreased to 7.0%.",
+        "• By 2000, GDP (PPP) was $1,604.8 billion, GDP per capita (PPP) was $27,253.1, nominal GDP was $1,665.3 billion, nominal GDP per capita was $28,279.7, real GDP growth was 4.3%, inflation was 0.8%, unemployment was 5.5%, and government debt was 36.6% of GDP.",
+        "• The 2000s saw continued growth in GDP and GDP per capita, with nominal GDP reaching $3,107.4 billion and nominal GDP per capita $50,675.5 in 2007, while inflation remained low, generally below 3%, and unemployment decreased to 5.4%.",
+        "• The global financial crisis impacted the UK economy in 2008 and 2009, with real GDP growth falling to -0.2% in 2008 and -4.6% in 2009, inflation at 3.6% and 2.2% respectively, unemployment rising to 7.6% in 2009, and government debt sharply increasing to 62.8% of GDP.",
+        "• Post-crisis recovery was gradual, with GDP (PPP) reaching $2,795.1 billion in 2015, GDP per capita (PPP) at $42,928.5, nominal GDP at $2,957.2 billion, nominal GDP per capita at $45,418.9, real GDP growth at 2.2%, zero inflation in 2015, unemployment at 5.4%, and government debt at 86.0% of GDP.",
+        "• From 2016 to 2019, GDP and GDP per capita continued to grow, with nominal GDP peaking at $2,904.5 billion and nominal GDP per capita at $43,719.0 in 2018, while inflation remained below 3%, unemployment decreased to 3.8% in 2019, and government debt slightly declined to 83.9%.",
+        "• The COVID-19 pandemic caused a significant economic contraction in 2020, with real GDP growth plummeting to -10.4%, inflation at 0.9%, unemployment at 4.6%, government debt rising sharply to 102.6% of GDP, nominal GDP falling to $2,758.9 billion, and nominal GDP per capita dropping to $41,127.4.",
+        "• In 2021, the UK economy rebounded with real GDP growth of 8.7%, inflation at 2.6%, unemployment at 4.5%, government debt decreasing to 95.3% of GDP, nominal GDP increasing to $3,187.6 billion, and nominal GDP per capita rising to $47,328.8.",
+        "• IMF staff estimates project continued growth from 2022 to 2027, with GDP (PPP) increasing from $3,776.0 billion in 2022 to $4,524.5 billion in 2027, GDP per capita (PPP) rising from $55,862.1 to $65,857.4, nominal GDP growing from $3,198.5 billion to $4,449.8 billion, and nominal GDP per capita increasing from $47,317.6 to $64,768.9.",
+        "• Projected real GDP growth rates for 2022–2027 range from 0.1% in 2023 to 4.3% in 2022, with inflation fluctuating between 1.8% and 9.1%, unemployment rates estimated between 3.7% and 9.0%, and government debt as a percentage of GDP expected to decline from 87.0% in 2022 to 68.0% in 2027.",
+        "• Inflation rates below 5% are highlighted in green throughout the table, indicating periods of relatively low inflation across the decades, with notable exceptions during the early 1980s, late 2000s, and 2022.",
+        "• Unemployment peaked at 11.8% in 1984, declined steadily to 3.8% in 2019, then increased during the COVID-19 pandemic period, with estimates showing a decrease again by 2027 to 4.2%.",
+        "• Government debt as a percentage of GDP showed a general downward trend from 42.6% in 1980 to a low of 28.4% in 1991, then increased substantially post-2008 financial crisis, peaking at 102.6% in 2020, with projections indicating a gradual reduction to 68.0% by 2027."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:18:08.673160",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_the_united_kingdom.json",
+      "original_index": 38
+    }
+  ]
+}

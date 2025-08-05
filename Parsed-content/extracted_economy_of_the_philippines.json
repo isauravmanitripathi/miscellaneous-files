@@ -1,0 +1,588 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_the_philippines.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.222429",
+    "total_sections_in_source": 20,
+    "extracted_sections_count": 20,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of the Philippines is classified as an emerging market and is considered a newly industrialized country within the Asia-Pacific region.",
+        "• In 2025, the Philippine economy is estimated to reach ₱28.50 trillion (equivalent to $497.5 billion), ranking it as the 32nd largest economy globally by nominal GDP and the 9th largest in Asia, according to the International Monetary Fund.",
+        "• The Philippine economy is predominantly service-oriented, with manufacturing and agriculture sectors contributing more modestly to the overall economic output.",
+        "• The country has undergone significant economic growth and transformation, achieving one of the highest GDP growth rates in Asia, with an average annual growth rate of approximately 6 percent since 2010.",
+        "• The Philippines is recognized as one of the fastest-growing economies worldwide due to its sustained economic expansion over the past decade.",
+        "• The Philippines is a founding member of several international organizations, including the United Nations (UN), Association of Southeast Asian Nations (ASEAN), Asia-Pacific Economic Cooperation (APEC), East Asia Summit, and the World Trade Organization (WTO).",
+        "• The Asian Development Bank (ADB) is headquartered in the Ortigas Center, located in Mandaluyong City, Metro Manila, Philippines.",
+        "• The country’s primary exports consist of semiconductors and electronic products, transport equipment, garments, chemical products, copper, nickel, abaca, coconut oil, and fruits.",
+        "• Major trading partners of the Philippines include Japan, China, the United States, Singapore, South Korea, the Netherlands, Hong Kong, Germany, Taiwan, and Thailand.",
+        "• Projections made in 2017 indicated that by 2050, the Philippine economy would become the 9th largest in Asia and the 19th largest globally.",
+        "• By 2035, the Filipino economy is predicted to rank as the 22nd largest economy in the world.",
+        "• The Philippines is identified as one of the Tiger Cub Economies, a group that includes Indonesia, Malaysia, Vietnam, and Thailand, known for rapid economic growth and industrialization.",
+        "• Despite economic progress, the Philippines faces significant challenges such as addressing wide income and growth disparities across different regions and socioeconomic classes, combating corruption, and investing in infrastructure to sustain future growth.",
+        "• In 2024, Børge Brende, chief of the World Economic Forum, stated that the Philippines has a “real opportunity to become a $2-trillion economy,” highlighting the country’s potential for substantial economic expansion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:37.242205",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Overview",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Philippine economy has demonstrated steady growth over multiple decades, with the International Monetary Fund (IMF) reporting it as the 39th largest economy globally in 2014.",
+        "• In 2022, the Philippines achieved a high real GDP growth rate of 7.6 percent, reflecting robust economic performance.",
+        "• Despite its growth, the Philippines is not a member of the Group of 20 (G20) nations; instead, it is classified among second-tier emerging markets or newly industrialized countries.",
+        "• Economic growth trends from 1980 to 2023 reveal several distinct phases:",
+        "• 1980-1982: Period of slower economic growth attributed to mismanagement.",
+        "• 1983-1986: Recession caused by factors including corruption.",
+        "• 1987-1990: Economic recovery following the 1984 crisis.",
+        "• 1991-1992: Slower growth due to inflation and natural disasters, notably the Mount Pinatubo eruption.",
+        "• 1993-1997: Phase of rapid economic growth.",
+        "• 1998: Minor recession linked to the 1997 Asian Financial Crisis.",
+        "• 1999-2001: Recovery period following the Asian Financial Crisis.",
+        "• 2002: Recession triggered by the EDSA II Protest.",
+        "• 2002-2008: Post-EDSA II recovery phase.",
+        "• 2009: Economic impact from the global Great Recession.",
+        "• 2010-2019: Recognition of the Philippines as a \"Tiger Economy\" due to sustained high growth.",
+        "• 2020: Economic contraction caused by the Coronavirus (COVID-19) outbreak and related lockdowns.",
+        "• 2021-2023: Economic rebound following the pandemic-induced downturn.",
+        "• The IMF data from 1980 to 2025 presents detailed statistics on the Philippines' GDP in various measures:",
+        "• GDP in billion US dollars (PPP) is projected to rise from 64.4 in 1980 to 1,479.4 in 2025.",
+        "• GDP per capita in US$PPP increases from 1,334 in 1980 to an estimated 12,934 in 2025.",
+        "• Nominal GDP in billion Philippine pesos (PHP) grows from 270.1 in 1980 to 28,502 in 2025.",
+        "• Nominal GDP in billion US dollars rises from 35.9 in 1980 to 497.5 in 2025.",
+        "• GDP per capita in nominal US dollars increases from 744 in 1980 to 4,349 in 2025.",
+        "• Real GDP growth rates fluctuate over the years, with notable peaks such as 9.20% in 1973, 7.76% in 2022, and lows including −9.50% in 2020 due to the COVID-19 pandemic.",
+        "• The Philippine peso to US dollar exchange rate has varied significantly, from 7.78 PHP/USD in 1980 to approximately 57.29 PHP/USD forecasted in 2024.",
+        "• Specific years of economic contraction include 1984 and 1985 with growth rates of −7.31% and −7.30% respectively, 1998 with −0.58%, and 2020 with a sharp −9.50% decline due to the COVID-19 pandemic lockdowns.",
+        "• The data highlights the impact of external shocks and domestic events on economic performance, such as the 1997 Asian Financial Crisis, the EDSA II Protest in 2002, the Great Recession in 2009, and the COVID-19 pandemic in 2020.",
+        "• The Philippine economy’s recovery phases are marked by steady GDP growth, particularly from 2010 to 2019, when the country earned the designation of a \"Tiger Economy\" for its rapid development.",
+        "• The IMF forecasts continued economic growth for the Philippines through 2025, with real GDP growth rates projected at 5.50% in 2025 and 5.70% in 2024, indicating sustained positive momentum.",
+        "• The exchange rate trends reflect a general depreciation of the Philippine peso against the US dollar over the decades, influencing nominal GDP and per capita income figures when expressed in US dollars.",
+        "• The data set uses GDP growth measured at constant 1985 prices in Philippine pesos, and the exchange rate is given as the amount of PHP required to purchase one US dollar.",
+        "• The economic contraction in 2020 is explicitly attributed to the shutdown of businesses imposed by lockdowns aimed at containing the COVID-19 pandemic, highlighting the pandemic’s significant economic disruption."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:53.193549",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 32
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Composition by sector",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Philippines, classified as a newly industrialized country, maintains a substantial agricultural sector despite recent expansions in its service industry.",
+        "• The industrial sector in the Philippines predominantly involves processing and assembly operations, particularly in the manufacturing of electronics and other high-technology components.",
+        "• Much of the industrial manufacturing is conducted by foreign multinational corporations operating within the country.",
+        "• Overseas Filipino Workers (OFWs), Filipinos employed abroad, play a significant economic role through remittances, although their contributions are not included in the domestic sectoral economic analysis.",
+        "• Remittances from OFWs have been a critical factor in the Philippines' recent economic growth and have contributed to upgrades in the country’s investment status by credit rating agencies such as Fitch Group and Standard & Poor’s.",
+        "• The value of remittances sent by Overseas Filipinos increased dramatically from over US$2 billion in 1994 to a record US$38.34 billion in 2024.",
+        "• In 2024, remittances from OFWs accounted for 8.3 percent of the Philippines’ Gross Domestic Product (GDP)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:31.865094",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of 2022, agriculture employs 24 percent of the Filipino workforce and contributes 8.9 percent to the total GDP of the Philippines, encompassing activities from small subsistence farming and fishing to large commercial ventures with significant export focus.",
+        "• The Philippines is the world's third largest producer of coconuts and the largest exporter of coconut products, with coconut production generally concentrated in medium-sized farms.",
+        "• In 2021, the Philippines produced 2,862,000 metric tons (2,817,000 long tons; 3,155,000 short tons) of pineapples, making it the world's third largest producer of this fruit.",
+        "• Rice production is critical to the Philippine food supply and economy; as of 2019, the country ranked as the 8th largest rice producer globally, accounting for 2.5 percent of global rice production.",
+        "• Rice is the most important food crop and staple food in most of the Philippines, with extensive production in the regions of Central Luzon, Western Visayas, Cagayan Valley, Soccsksargen, and the Ilocos Region.",
+        "• The Philippines is among the largest sugar producers worldwide, with sugarcane crops grown in at least 17 provinces across eight regions; the Negros Island Region alone accounts for half of the nation's total sugar production.",
+        "• During the Crop Year 2012–2013, there were 29 operational sugar mills distributed as follows: 13 mills in Negros, 6 mills in Luzon, 4 mills in Panay, 3 mills in Eastern Visayas, and 3 mills in Mindanao.",
+        "• Sugarcane production covers between 360,000 to 390,000 hectares (890,000 to 960,000 acres), with the largest areas in the Negros Island Region (51 percent), followed by Mindanao (20 percent), Luzon (17 percent), Panay (7 percent), and Eastern Visayas (4 percent).",
+        "• Visual representations of Philippine agriculture include a coconut grove in Dapitan, a banana plantation in Padada, vast sugarcane plantations in Bacolod, a rice field in Bulacan, and pineapples displayed in a market in Laguna."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:47.770548",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Automotive and aerospace",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Anti-lock Braking Systems (ABS) used in Mercedes-Benz, BMW, and Volvo vehicles are manufactured in the Philippines.",
+        "• Automotive sales in the Philippines rose to 467,252 units in 2024, up from 429,807 units in 2023.",
+        "• Toyota is the leading vehicle seller in the Philippines, followed by Mitsubishi, Ford, Nissan, and Suzuki.",
+        "• Honda and Suzuki produce motorcycles domestically within the Philippines.",
+        "• Since approximately the 2010s, several Chinese automotive brands, including Chery and Foton Motor, have entered the Philippine market.",
+        "• The aerospace sector in the Philippines primarily produces products for export, including manufacturing parts for aircraft constructed by Boeing and Airbus.",
+        "• Moog, headquartered in Baguio, is the largest aerospace manufacturer in the Philippines, specializing in the production of aircraft actuators at its manufacturing facility.",
+        "• The total export value of aerospace products from the Philippines reached US$780 million in 2019."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:32.304267",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2.3",
+      "section_name": "Electronics",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Texas Instruments plant located in Baguio, Philippines, has been operational for 20 years and holds the distinction of being the largest producer of Digital Signal Processing (DSP) chips globally.",
+        "• Texas Instruments' Baguio facility manufactures all the chips used in Nokia cell phones worldwide and produces 80% of the chips used in Ericsson cell phones globally.",
+        "• Toshiba hard disk drives are produced in the city of Santa Rosa, Laguna, Philippines.",
+        "• Lexmark, a printer manufacturing company, operates a factory in Cebu City, Philippines.",
+        "• Electronics and other light industries in the Philippines are primarily concentrated in the provinces of Laguna, Cavite, Batangas, and other areas within the Calabarzon region.",
+        "• A significant number of electronics manufacturing operations are also located in the Southern Philippines, which collectively contribute the majority of the country’s export output.",
+        "• According to the Semiconductor and Electronics Industries in the Philippines, Inc. (SEIPI), the largest organization representing both foreign and Filipino electronics companies in the country, the Philippine Electronics Industry is divided into 73% Semiconductor Manufacturing Services (SMS) and 27% Electronics Manufacturing Services (EMS).",
+        "• Electronic products remained the Philippines’ top export category in 2022, generating total earnings of US$45.66 billion.",
+        "• In 2022, electronic products accounted for 57.8% of the total export value of goods from the Philippines."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:36.401487",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "2.4",
+      "section_name": "Mining and extraction",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Philippines possesses abundant mineral and geothermal energy resources, contributing significantly to its economy and energy sector.",
+        "• In 2019, the Philippines generated 1,928 megawatts (2,585,000 horsepower) of electricity from geothermal sources, accounting for 7.55% of the country's total electricity production.",
+        "• A major natural gas reserve was discovered in 1989 in the Malampaya oil fields located off the island of Palawan, which is currently utilized to produce electricity through three gas-powered plants.",
+        "• The country hosts some of the largest deposits globally of several minerals, including gold, nickel, copper, palladium, and chromite.",
+        "• Other important minerals found in the Philippines include silver, coal, gypsum, and sulphur, alongside significant deposits of clay, limestone, marble, silica, and phosphate.",
+        "• Non-metallic minerals constitute about 60 percent of the total mining production in the Philippines, playing a crucial role in the industry's steady growth between 1993 and 1998, during which the value of production increased by 58 percent.",
+        "• Philippine mineral exports reached a value of US$4.22 billion in 2020, reflecting the sector's contribution to the national economy.",
+        "• The mining industry faced challenges such as low metal prices, high production costs, insufficient infrastructure investment, and legal disputes over new mining laws, leading to an overall decline prior to 2004.",
+        "• The industry experienced a rebound starting in late 2004 after the Supreme Court upheld the constitutionality of a law permitting foreign ownership of Philippine mining companies, which encouraged investment and growth.",
+        "• In 2019, the Philippines ranked as the world’s 2nd largest producer of nickel and the 4th largest producer of cobalt, highlighting its global significance in these minerals.",
+        "• According to the Philippine Statistics Authority, the total monetary value of four key metallic minerals—copper, chromite, gold, and nickel—classified as Class A (commercially recoverable and economically contributory) was appraised at US$9.01 billion in 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:41.008773",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2.5",
+      "section_name": "Offshoring and outsourcing",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Business process outsourcing (BPO) and the call center industry significantly contribute to the Philippines' economic growth, leading to investment status upgrades from credit rating agencies such as Fitch and Standard & Poor's (S&P).",
+        "• In 2008, the Philippines surpassed India to become the world leader in business process outsourcing (BPO).",
+        "• The BPO industry generated 100,000 jobs and recorded total revenues of US$960 million in 2005.",
+        "• By 2011, employment in the BPO sector expanded to over 700,000 people, contributing to the growth of the Philippine middle class.",
+        "• BPO employment further increased to approximately 1.3 million employees by 2022.",
+        "• BPO facilities are primarily located in IT parks and centers within economic zones across the Philippines, including Metro Manila, Metro Cebu, Metro Clark, Bacolod, Davao City, and Iloilo City.",
+        "• Other significant locations with a notable presence of the BPO industry include Baguio, Cagayan de Oro, Dasmariñas, Dumaguete, Lipa, Naga, and Santa Rosa, Laguna.",
+        "• The majority of the top ten BPO firms from the United States operate within the Philippines.",
+        "• The call center industry in the Philippines originated as providers of email response and management services and has become a major source of employment.",
+        "• Call center services encompass customer relations functions such as travel services, technical support, education, customer care, financial services, online business-to-customer support, and online business-to-business support.",
+        "• The Philippines is considered a preferred outsourcing destination due to several advantages: lower operational and labor costs, high proficiency in spoken English among a significant portion of the population, and a highly educated labor force.",
+        "• The Philippine government actively promotes the growth of the BPO industry, identifying it as one of the ten high potential and priority development areas in the Philippines Development Plan.",
+        "• Government incentives to support the BPO sector include tax holidays, tax exemptions, and simplified export and import procedures.",
+        "• The government also provides training programs specifically designed for BPO applicants to enhance workforce readiness."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:42.334238",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "2.6",
+      "section_name": "Renewable energy resources",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Philippines possesses significant potential for solar energy utilization, yet as of 2021, the majority of domestically produced electricity relies on fossil fuel resources, with coal being particularly predominant.",
+        "• In 2019, the Philippines generated a total of 7,399 megawatts (9,922,000 horsepower) of renewable energy.",
+        "• On November 15, 2022, the renewable energy sector in the Philippines was authorized to operate with 100 percent foreign ownership, an increase from the previous 40 percent ownership limit, facilitating greater foreign capital investment in renewable energy industries.",
+        "• The Department of Energy of the Philippines has set targets to increase the share of renewable energy in the national power generation mix to 35 percent by 2030 and 50 percent by 2040, up from the current share of 22 percent.",
+        "• Danish firm Copenhagen Infrastructure Partners (CIP) is investing US$5 billion to develop three offshore wind energy projects in the Philippines, with a combined potential capacity of 2,000 megawatts (2,700,000 horsepower).",
+        "• The CIP offshore wind projects will be located in the following areas: Camarines Norte and Camarines Sur with a combined capacity of 1,000 MW, Northern Samar with 650 MW, and Pangasinan and La Union with 350 MW.",
+        "• In 2022, the share of renewable energy in the Philippines’ energy mix was recorded at 22.8 percent."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:45.268923",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "2.7",
+      "section_name": "Shipbuilding and repair",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Philippines is a significant participant in the global shipbuilding industry, with 118 registered shipyards as of 2021, located in Subic, Cebu, Bataan, Navotas, and Batangas.",
+        "• In 2022, the Philippines ranked as the seventh largest shipbuilding nation worldwide by gross tonnage.",
+        "• Cargo vessels manufactured in Subic are exported to countries where the shipping operators are based, indicating an international market reach.",
+        "• South Korea's Hanjin began ship production in Subic in 2007, fulfilling an order of 20 ships from German and Greek shipping operators.",
+        "• The shipyards in the Philippines construct various types of vessels, including bulk carriers, container ships, and large passenger ferries.",
+        "• The shipyard in General Santos primarily focuses on ship repair and maintenance rather than new shipbuilding.",
+        "• The Philippines is geographically advantaged with abundant natural deep-sea ports, making it ideal for ship production, construction, and repair activities.",
+        "• The Navotas ship repair complex in Metro Manila is designed to accommodate up to 96 vessels simultaneously for repair services.",
+        "• Shipbuilding is an integral part of the Philippines’ maritime heritage, employing over 600,000 people nationwide.",
+        "• The shipbuilding and repair sector contributes nearly 15 percent of the revenues generated by the country’s ocean-based industries."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:48.997825",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "2.8",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism is a significant sector in the Philippine economy, contributing 8.6% to the country's GDP in 2023, which is a decline from the 12.7% contribution recorded in 2019 before the COVID-19 lockdowns.",
+        "• Coastal tourism, which includes beach and diving activities, accounts for 25% of the Philippines' tourism revenue, making it the primary income source within the tourism sector.",
+        "• Key tourist destinations in the Philippines include Boracay, Palawan, Cebu, and Siargao, all of which are popular among both domestic and international visitors.",
+        "• The Philippines has faced political and social challenges that have impacted its tourism industry; however, the government and stakeholders have implemented measures to improve political stability, enhance security, and promote social inclusivity.",
+        "• Efforts such as the rehabilitation of Boracay have been undertaken to create a more favorable environment for tourism development and sustainability.",
+        "• In 2023, the tourism industry employed approximately 6.21 million Filipinos, highlighting its role as a major source of employment in the country.",
+        "• By 2024, the Philippines generated ₱760.5 billion (equivalent to US$13.1 billion) in revenue from foreign tourists, with the majority of visitors originating from South Korea, the United States, and Japan.",
+        "• The Philippines attracted 5,360,682 foreign visitors in 2015, aided by the national tourism campaign titled _It's More Fun in the Philippines!_",
+        "• Foreign tourist arrivals peaked in 2019 at 8,260,913, representing the highest recorded number prior to the COVID-19 pandemic.",
+        "• The country is home to notable global recognitions including one of the New 7 Wonders of Nature, the Puerto Princesa Subterranean River National Park.",
+        "• The Heritage City of Vigan is recognized as one of the New 7 Wonders Cities, further enhancing the Philippines' cultural tourism appeal.",
+        "• The Philippines hosts six UNESCO World Heritage Sites distributed across nine different locations, underscoring its rich cultural and natural heritage.",
+        "• Additionally, the country contains three UNESCO biosphere reserves, three UNESCO intangible cultural heritage elements, four UNESCO Memory of the World documentary heritage items, and three UNESCO Creative Cities.",
+        "• The Philippines also features two UNESCO World Heritage Cities, seven Ramsar wetland sites recognized for their ecological importance, and eight ASEAN Heritage Parks, emphasizing its biodiversity and environmental conservation efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:49.412571",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "3",
+      "section_name": "Regional accounts",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, all 17 regional economies in the Philippines experienced positive economic growth, indicating a nationwide economic expansion across all regions.",
+        "• Western Visayas recorded the highest regional economic growth in 2022, with a growth rate of 9.3 percent, making it the fastest-growing regional economy in the country for that year.",
+        "• The Cordillera Administrative Region followed Western Visayas with the second-highest growth rate of 8.7 percent in 2022, demonstrating significant economic development in this mountainous region.",
+        "• The Davao Region ranked third in economic growth among the 17 regions in 2022, achieving a growth rate of 8.15 percent, highlighting its robust economic performance.",
+        "• The Philippine Statistics Authority (PSA) defines Gross Regional Domestic Product (GRDP) as the measure of Gross Domestic Product (GDP) calculated at the regional level, providing a localized view of economic activity.",
+        "• The available GRDP data referenced pertains to the year 2019, serving as a baseline for understanding regional economic contributions prior to the 2022 growth figures.",
+        "• The GRDP data for 2019 is detailed by region and broken down into three main economic sectors: Agriculture, Industry, and Services, each measured in thousands of Philippine pesos (PHP).",
+        "• Additionally, the 2019 GRDP data includes the GRDP per capita for each region, expressed in Philippine pesos, which reflects the average economic output per person within the region.",
+        "• The table structure for the 2019 GRDP data includes the following columns: Region name, total GRDP in thousands of PHP, Agriculture sector output in thousands of PHP, Industry sector output in thousands of PHP, Services sector output in thousands of PHP, and GRDP per capita in PHP.",
+        "• This regional economic data from the PSA provides critical insights into the economic composition and relative wealth of each Philippine region as of 2019, serving as a foundation for analyzing subsequent growth trends such as those observed in 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:50.945379",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "invalid_level",
+      "section_name": "| %  | #  | %  | #  | %  | #  | %",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Metro Manila recorded a total economic value of ₱6,309,290,637 million, representing 32.33% of the total, with 442,597 establishments accounting for 0.03%, ₱1,230,125,141 million in exports (20.89%), ₱5,078,722,899 million in imports (42.65%), and a labor force of 462,779 as of October 21, 2020.",
+        "• The Cordillera region contributed ₱322,093,866 million (1.65%) to the economy, with 27,045,337 establishments (1.57%), exports worth ₱77,990,725 million (1.32%), imports totaling ₱217,057,804 million (1.82%), and a labor force of 179,752.",
+        "• Ilocos Region's economic output was ₱629,772,047 million (3.23%), with 104,471,256 establishments (6.07%), exports valued at ₱192,218,332 million (3.26%), imports of ₱333,082,459 million (2.80%), and a labor force of 120,512.",
+        "• Cagayan Valley contributed ₱397,625,523 million (2.04%) to the economy, had 103,563,850 establishments (6.01%), exports of ₱115,614,177 million (1.96%), imports of ₱178,447,496 million (1.50%), and a labor force of 109,851.",
+        "• Central Luzon’s economic value stood at ₱2,177,046,900 million (11.15%), with 231,995,441 establishments (13.47%), exports totaling ₱950,969,430 million (16.15%), imports amounting to ₱994,082,029 million (8.35%), and a labor force of 179,840.",
+        "• Calabarzon recorded ₱2,861,724,791 million (14.66%) in economic output, 154,312,287 establishments (8.96%), exports of ₱1,445,358,775 million (24.55%), imports of ₱1,262,053,729 million (10.60%), and a labor force of 181,781.",
+        "• Mimaropa contributed ₱377,014,287 million (1.93%) to the economy, with 64,116,478 establishments (3.72%), exports of ₱125,427,469 million (2.13%), imports of ₱187,470,340 million (1.57%), and a labor force of 120,240.",
+        "• Bicol Region had an economic output of ₱560,314,934 million (2.87%), 85,820,150 establishments (4.98%), exports worth ₱202,529,524 million (3.44%), imports of ₱271,965,260 million (2.28%), and a labor force of 92,288.",
+        "• Western Visayas contributed ₱916,379,059 million (4.70%) to the economy, with 144,256,702 establishments (8.38%), exports totaling ₱194,479,931 million (3.30%), imports of ₱577,642,425 million (4.85%), and a labor force of 116,946.",
+        "• Central Visayas recorded ₱1,266,701,029 million (6.49%) in economic output, 79,478,668 establishments (4.61%), exports of ₱342,195,668 million (5.81%), imports of ₱845,026,693 million (7.10%), and a labor force of 161,289.",
+        "• Eastern Visayas had an economic value of ₱465,694,628 million (2.39%), 61,219,158 establishments (3.55%), exports of ₱181,914,842 million (3.09%), imports of ₱222,560,628 million (1.87%), and a labor force of 99,492.",
+        "• Zamboanga Peninsula contributed ₱397,206,561 million (2.04%) to the economy, with 74,695,151 establishments (4.34%), exports totaling ₱110,467,600 million (1.88%), imports of ₱212,043,810 million (1.78%), and a labor force of 105,798.",
+        "• Northern Mindanao recorded ₱882,204,432 million (4.52%) in economic output, 182,955,342 establishments (10.62%), exports of ₱208,580,211 million (3.54%), imports of ₱490,668,878 million (4.12%), and a labor force of 177,998.",
+        "• Davao Region contributed ₱922,094,956 million (4.72%) to the economy, with 149,438,384 establishments (8.68%), exports of ₱233,452,398 million (3.97%), imports of ₱539,204,175 million (4.53%), and a labor force of 176,983.",
+        "• Soccsksargen had an economic output of ₱470,422,524 million (2.41%), 130,802,115 establishments (7.60%), exports worth ₱103,321,113 million (1.75%), imports totaling ₱236,299,297 million (1.98%), and a labor force of 108,561.",
+        "• Caraga contributed ₱306,308,490 million (1.57%) to the economy, with 39,908,783 establishments (2.32%), exports of ₱109,464,024 million (1.86%), imports of ₱156,935,683 million (1.32%), and a labor force of 112,489.",
+        "• Bangsamoro recorded ₱254,523,606 million (1.30%) in economic output, 87,689,432 establishments (5.09%), exports of ₱63,191,105 million (1.07%), imports of ₱103,643,069 million (0.87%), and a labor force of 55,151.",
+        "• The total economic value for the Philippines as of October 21, 2020, was ₱19,516,418,271 million, with 1,722,211,131 establishments, exports totaling ₱5,887,300,465 million, imports amounting to ₱11,906,906,674 million, and a total labor force of 181,907."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:11.527071",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "4",
+      "section_name": "Provincial Accounts",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the Philippine Statistics Authority (PSA), the Provincial Product Account (PPA) represents the Gross Domestic Product (GDP) measured at the provincial level within the Philippines.",
+        "• The data provided for the Provincial Product Account pertains specifically to the year 2022."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:49.411581",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 2
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "invalid_level",
+      "section_name": "| Province  | Region  | 2022 PPA GDP (PHP)  | 2020 Popn.  | PPA GDP per capita (PHP)",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, Metro Manila, located in the Metro Manila region, had the highest Provincial Product Account (PPA) GDP of PHP 6,265,608,000,000 with a 2020 population of 13,484,462, resulting in a PPA GDP per capita of PHP 464,654.",
+        "• Laguna, part of the Calabarzon region, recorded a 2022 PPA GDP of PHP 990,690,000,000 and a 2020 population of 3,382,193, yielding a PPA GDP per capita of PHP 292,914.",
+        "• Cebu province, including Cebu City, Lapu-Lapu City, and Mandaue in Central Visayas, had a 2022 PPA GDP of PHP 937,750,000,000 with a population of 5,151,274 in 2020, and a PPA GDP per capita of PHP 182,042.",
+        "• Cavite in Calabarzon reported a 2022 PPA GDP of PHP 731,390,000,000, a 2020 population of 4,344,829, and a PPA GDP per capita of PHP 168,336.",
+        "• Pampanga, including Angeles City in Central Luzon, had a 2022 PPA GDP of PHP 658,070,000,000, with 2,900,637 people in 2020, and a PPA GDP per capita of PHP 226,871.",
+        "• Batangas, part of Calabarzon, showed a 2022 PPA GDP of PHP 615,810,000,000, a 2020 population of 2,908,494, and a PPA GDP per capita of PHP 211,728.",
+        "• Bulacan in Central Luzon had a 2022 PPA GDP of PHP 604,710,000,000, with a 2020 population of 3,708,890, and a PPA GDP per capita of PHP 163,043.",
+        "• Davao del Sur, including Davao City in the Davao Region, posted a 2022 PPA GDP of PHP 599,000,000,000, a population of 2,457,430 in 2020, and a PPA GDP per capita of PHP 243,751.",
+        "• Misamis Oriental, including Cagayan de Oro in Northern Mindanao, had a 2022 PPA GDP of PHP 419,220,000,000, a 2020 population of 1,685,302, and a PPA GDP per capita of PHP 248,751.",
+        "• Negros Occidental, including Bacolod in Western Visayas, recorded a 2022 PPA GDP of PHP 379,200,000,000, a 2020 population of 3,223,955, and a PPA GDP per capita of PHP 117,620.",
+        "• Pangasinan in the Ilocos Region had a 2022 PPA GDP of PHP 352,930,000,000, a 2020 population of 3,163,190, and a PPA GDP per capita of PHP 111,574.",
+        "• Iloilo, including Iloilo City in Western Visayas, reported a 2022 PPA GDP of PHP 351,050,000,000, a 2020 population of 2,509,525, and a PPA GDP per capita of PHP 139,887.",
+        "• Rizal in Calabarzon had a 2022 PPA GDP of PHP 340,630,000,000, a 2020 population of 3,330,143, and a PPA GDP per capita of PHP 102,287.",
+        "• Nueva Ecija in Central Luzon recorded a 2022 PPA GDP of PHP 298,570,000,000, a 2020 population of 2,310,134, and a PPA GDP per capita of PHP 129,244.",
+        "• Leyte, including Tacloban in Eastern Visayas, had a 2022 PPA GDP of PHP 296,950,000,000, a 2020 population of 2,028,728, and a PPA GDP per capita of PHP 146,373.",
+        "• Quezon, including Lucena in Calabarzon, posted a 2022 PPA GDP of PHP 264,460,000,000, a 2020 population of 2,229,383, and a PPA GDP per capita of PHP 118,625.",
+        "• South Cotabato, including General Santos in Soccsksargen, had a 2022 PPA GDP of PHP 263,830,000,000, a 2020 population of 1,672,791, and a PPA GDP per capita of PHP 157,718.",
+        "• Bataan in Central Luzon recorded a 2022 PPA GDP of PHP 256,890,000,000, a 2020 population of 853,373, and a PPA GDP per capita of PHP 301,029.",
+        "• Bukidnon in Northern Mindanao had a 2022 PPA GDP of PHP 248,750,000,000, a 2020 population of 1,541,308, and a PPA GDP per capita of PHP 161,389.",
+        "• Zamboanga del Sur, including Zamboanga City in Zamboanga Peninsula, posted a 2022 PPA GDP of PHP 241,000,000,000, a 2020 population of 2,027,902, and a PPA GDP per capita of PHP 118,842.",
+        "• Benguet, including Baguio in the Cordillera region, had a 2022 PPA GDP of PHP 233,810,000,000, a 2020 population of 827,041, and a PPA GDP per capita of PHP 282,707.",
+        "• Camarines Sur in the Bicol Region recorded a 2022 PPA GDP of PHP 194,840,000,000, a 2020 population of 2,068,244, and a PPA GDP per capita of PHP 94,206.",
+        "• Tarlac in Central Luzon had a 2022 PPA GDP of PHP 193,290,000,000, a 2020 population of 1,503,456, and a PPA GDP per capita of PHP 128,564.",
+        "• Isabela in Cagayan Valley posted a 2022 PPA GDP of PHP 188,890,000,000, a 2020 population of 1,697,050, and a PPA GDP per capita of PHP 111,305.",
+        "• Palawan, including Puerto Princesa in Mimaropa, had a 2022 PPA GDP of PHP 180,320,000,000, a 2020 population of 1,246,673, and a PPA GDP per capita of PHP 144,641.",
+        "• Bohol in Central Visayas recorded a 2022 PPA GDP of PHP 171,090,000,000, a 2020 population of 1,394,329, and a PPA GDP per capita of PHP 122,704.",
+        "• Davao del Norte in the Davao Region had a 2022 PPA GDP of PHP 168,610,000,000, a 2020 population of 1,125,057, and a PPA GDP per capita of PHP 149,868.",
+        "• Negros Oriental in Central Visayas posted a 2022 PPA GDP of PHP 166,460,000,000, a 2020 population of 1,432,990, and a PPA GDP per capita of PHP 116,163.",
+        "• Cagayan in Cagayan Valley recorded a 2022 PPA GDP of PHP 148,780,000,000, a 2020 population of 1,268,603, and a PPA GDP per capita of PHP 117,279.",
+        "• Albay in the Bicol Region had a 2022 PPA GDP of PHP 145,130,000,000, a 2020 population of 1,374,768, and a PPA GDP per capita of PHP 105,567.",
+        "• Zambales, including Olongapo in Central Luzon, posted a 2022 PPA GDP of PHP 140,630,000,000, a 2020 population of 909,932, and a PPA GDP per capita of PHP 154,550.",
+        "• Lanao del Norte, including Iligan in Northern Mindanao, had a 2022 PPA GDP of PHP 136,850,000,000, a 2020 population of 1,086,017, and a PPA GDP per capita of PHP 126,011.",
+        "• Cotabato in Soccsksargen recorded a 2022 PPA GDP of PHP 120,350,000,000, a 2020 population of 1,490,618, and a PPA GDP per capita of PHP 80,738.",
+        "• Misamis Occidental in Northern Mindanao had a 2022 PPA GDP of PHP 119,380,000,000, a 2020 population of 617,333, and a PPA GDP per capita of PHP 193,380.",
+        "• La Union in the Ilocos Region posted a 2022 PPA GDP of PHP 118,600,000,000, a 2020 population of 822,352, and a PPA GDP per capita of PHP 144,220."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:06.508844",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 35
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "5",
+      "section_name": "City Accounts",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The data presented are Provincial Product Accounts (PPA) specifically for Highly Urbanized Cities (HUC) or Independent Cities within the Philippines.",
+        "• There is no available PPA data for cities located within Metro Manila, indicating a gap or exclusion in the dataset for this region.",
+        "• The PPA figures provide economic output information at the city level, focusing on cities that are administratively independent from provinces.",
+        "• The classification of cities as Highly Urbanized Cities or Independent Cities is significant for the compilation and reporting of these economic accounts.",
+        "• The absence of data for Metro Manila cities suggests that economic assessments for this metropolitan area are either aggregated differently or not disaggregated at the city level in the PPA framework."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:15:52.680941",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "invalid_level",
+      "section_name": "| City  | Province  | Region  | Island Group  | 2022 PPA GDP (PHP)  | 2020 Popn.  | PPA GDP per Capita (PHP)",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, Davao City, located in the province of Davao del Sur within the Davao Region of Mindanao, recorded a Philippine Peso (PHP) Gross Domestic Product (GDP) based on Purchasing Power Parity (PPA) of 495,310,000,000, with a population of 1,776,949 in 2020, resulting in a PPA GDP per capita of 278,742 PHP.",
+        "• Cebu City, situated in Cebu province in the Central Visayas region of the Visayas island group, had a 2022 PPA GDP of 288,640,000,000 PHP, a 2020 population of 964,169, and a PPA GDP per capita of 299,367 PHP.",
+        "• Cagayan de Oro, in Misamis Oriental province within Northern Mindanao of Mindanao island, reported a 2022 PPA GDP of 261,780,000,000 PHP, a 2020 population of 728,402, and a PPA GDP per capita of 359,389 PHP.",
+        "• Baguio City, located in Benguet province in the Cordillera region of Luzon, had a 2022 PPA GDP of 155,030,000,000 PHP, a 2020 population of 366,358, and a PPA GDP per capita of 423,165 PHP.",
+        "• Lapu-Lapu City, in Cebu province of Central Visayas in the Visayas island group, recorded a 2022 PPA GDP of 151,420,000,000 PHP, a 2020 population of 497,604, and a PPA GDP per capita of 304,298 PHP.",
+        "• Iloilo City, located in Iloilo province within Western Visayas of the Visayas island group, had a 2022 PPA GDP of 145,050,000,000 PHP, a 2020 population of 457,626, and a PPA GDP per capita of 316,962 PHP.",
+        "• Zamboanga City, in Zamboanga del Sur province of the Zamboanga Peninsula region in Mindanao, reported a 2022 PPA GDP of 139,470,000,000 PHP, a 2020 population of 977,234, and a PPA GDP per capita of 142,719 PHP.",
+        "• Bacolod City, situated in Negros Occidental province within Western Visayas of the Visayas island group, had a 2022 PPA GDP of 132,810,000,000 PHP, a 2020 population of 600,783, and a PPA GDP per capita of 221,062 PHP.",
+        "• Angeles City, located in Pampanga province in Central Luzon of Luzon island, recorded a 2022 PPA GDP of 132,420,000,000 PHP, a 2020 population of 462,928, and a PPA GDP per capita of 286,049 PHP.",
+        "• General Santos City, in South Cotabato province within the Soccsksargen region of Mindanao, had a 2022 PPA GDP of 129,020,000,000 PHP, a 2020 population of 697,315, and a PPA GDP per capita of 185,024 PHP.",
+        "• Mandaue City, located in Cebu province in Central Visayas of the Visayas island group, reported a 2022 PPA GDP of 109,580,000,000 PHP, a 2020 population of 364,116, and a PPA GDP per capita of 300,948 PHP.",
+        "• Iligan City, in Lanao del Norte province within Northern Mindanao of Mindanao island, had a 2022 PPA GDP of 77,020,000,000 PHP, a 2020 population of 363,115, and a PPA GDP per capita of 212,109 PHP.",
+        "• Butuan City, located in Agusan del Norte province in the Caraga region of Mindanao, recorded a 2022 PPA GDP of 57,370,000,000 PHP, a 2020 population of 372,910, and a PPA GDP per capita of 153,844 PHP.",
+        "• Puerto Princesa City, in Palawan province within the Mimaropa region of Luzon, had a 2022 PPA GDP of 53,080,000,000 PHP, a 2020 population of 307,079, and a PPA GDP per capita of 172,855 PHP.",
+        "• Olongapo City, located in Zambales province in Central Luzon of Luzon island, reported a 2022 PPA GDP of 52,260,000,000 PHP, a 2020 population of 260,317, and a PPA GDP per capita of 200,755 PHP.",
+        "• Tacloban City, in Leyte province within Eastern Visayas of the Visayas island group, had a 2022 PPA GDP of 51,530,000,000 PHP, a 2020 population of 251,881, and a PPA GDP per capita of 204,581 PHP.",
+        "• Lucena City, located in Quezon province in the Calabarzon region of Luzon, recorded a 2022 PPA GDP of 46,620,000,000 PHP, a 2020 population of 278,924, and a PPA GDP per capita of 167,142 PHP.",
+        "• Isabela City, in Basilan province within the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) of Mindanao island, had the lowest 2022 PPA GDP among the listed cities at 11,760,000,000 PHP, a 2020 population of 130,379, and a PPA GDP per capita of 90,199 PHP.",
+        "• The data source for all economic and demographic statistics is the Philippine Statistics Authority."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:08.760236",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "6",
+      "section_name": "International comparisons",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to the Fraser Institute's \"Economic Freedom of the World\" report in 2021, the Philippines ranked 70th out of 144 countries, showing an improvement of 3 positions from the previous ranking.",
+        "• The International Monetary Fund (IMF) ranked the Philippines 29th globally in GDP based on purchasing power parity (PPP) as of 2023, with no change in ranking reported.",
+        "• In terms of nominal GDP, the IMF placed the Philippines 34th worldwide in 2023, marking an advancement of 5 positions from the prior ranking.",
+        "• The IMF ranked the Philippines 116th in GDP per capita based on PPP in 2023, reflecting a rise of 3 ranks compared to the previous data.",
+        "• For nominal GDP per capita, the IMF positioned the Philippines at 124th in 2023, which is an improvement of 4 places from the earlier ranking.",
+        "• The Philippines held the 28th position globally for foreign exchange reserves according to the IMF data in 2023, with no change in ranking indicated.",
+        "• The Heritage Foundation and The Wall Street Journal's 2016 \"Index of Economic Freedom\" placed the Philippines 76th out of 178 countries, improving by 13 ranks from the previous report.",
+        "• The World Factbook ranked the Philippines 35th in external debt in 2023, showing a positive change of 3 positions from the earlier ranking.",
+        "• The United Nations' Human Development Index (HDI) in 2021 ranked the Philippines 116th out of 191 countries, with no change in ranking specified.",
+        "• The World Economic Forum's 2019 Global Competitiveness Report ranked the Philippines 64th out of 141 countries, improving by 8 ranks from the previous assessment.",
+        "• In the 2014 Global Enabling Trade Report by the World Economic Forum, the Philippines was ranked 64th out of 138 countries, reflecting an 8-place improvement from prior data.",
+        "• The World Economic Forum's Financial Development Index in 2012 ranked the Philippines 49th out of 60 countries, showing a positive change of 5 ranks from the previous report.",
+        "• The World Bank's Ease of Doing Business Index in 2014 placed the Philippines 95th out of 183 countries, marking an improvement of 13 positions from the earlier ranking."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:00.059931",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "7",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The population of the Philippines increased from 104.2 million in 2017 to 111.9 million in 2023, showing steady growth over the six-year period.",
+        "• Poverty incidence data is available for 2021 and 2018, with 18.1% in 2021 and 16.6% in 2018; no data is provided for other years in the range 2017-2023.",
+        "• The labor force expanded from 40.3 million in 2017 to 51.2 million in 2023, indicating a growing workforce.",
+        "• Unemployment rates fluctuated between 5.7% in 2017 and peaked at 10.3% in 2020, before declining to 4.3% in 2023.",
+        "• Nominal wage rates in Philippine pesos rose from ₱512.00 at the end of 2017 to ₱610.00 by the end of 2023, with a plateau at ₱537.00 from 2018 to 2021.",
+        "• Inflation rates, measured at constant 2018 prices, varied from a low of 2.4% in 2019 and 2020 to a high of 6.0% in 2023.",
+        "• The trade balance consistently showed deficits, worsening from -US$40,215 million in 2017 to -US$69,701 million in 2022, before slightly improving to -US$65,778 million in 2023.",
+        "• Exports of goods increased from US$51,814 million in 2017 to a peak of US$57,710 million in 2022, then slightly declined to US$55,316 million in 2023.",
+        "• Imports of goods rose from US$92,029 million in 2017 to US$127,412 million in 2022, then decreased to US$121,104 million in 2023.",
+        "• The current account balance fluctuated significantly, with a surplus of US$11,578 million (3.2% of GDP) in 2020, but deficits in other years, reaching -US$18,261 million (-4.5% of GDP) in 2022 and -US$11,206 million (-2.6% of GDP) in 2023.",
+        "• External debt increased steadily from US$73,098 million (22.3% of GDP) in 2017 to US$125,394 million (28.7% of GDP) in 2023.",
+        "• Personal remittances from overseas Filipinos grew from US$31,288 million in 2017 to US$37,210 million in 2023, reflecting the importance of remittances to the economy.",
+        "• Foreign reserves rose from US$81,567 million in 2017 to a peak of US$110,115 million in 2020, before declining to US$103,725 million in 2023.",
+        "• Inward foreign direct investment (FDI) flows fluctuated, with US$10,236 million in 2017, a low of US$6,822 million in 2020, and US$8,900 million in 2023.",
+        "• The inward FDI stock increased from US$73,016 million in 2017 to US$118,985 million in 2023, indicating accumulated foreign investment.",
+        "• The national budget balance showed increasing deficits, from -₱351 billion (-2.1% of GDP) in 2017 to -₱1,512 billion (-6.2% of GDP) in 2023.",
+        "• Government revenues rose from ₱2,473 billion (14.9% of GDP) in 2017 to ₱3,824 billion (15.7% of GDP) in 2023.",
+        "• Government expenditures increased from ₱2,824 billion (17.1% of GDP) in 2017 to ₱5,336 billion (21.9% of GDP) in 2023, reflecting expanded fiscal activity.",
+        "• Bangko Sentral ng Pilipinas (BSP) nominal Overnight Reverse Repurchase (O-RRP) rates varied, with a low of -5.03% in 2022 and a positive rate of 0.16% in 2023.",
+        "• Public debt in Philippine pesos rose from ₱6,652 billion (40.2% of GDP) in 2017 to ₱14,616 billion (60.1% of GDP) in 2023, indicating increased government borrowing.",
+        "• The average peso-dollar exchange rate depreciated from ₱50.404 per US dollar in 2017 to ₱55.630 in 2023.",
+        "• Key industries in the Philippines include electronics assembly, aerospace, agribusiness, automotive, information technology and business process outsourcing, shipbuilding, garments, footwear, pharmaceuticals, chemicals, wood products, financial services, food processing, petrochemical, metalcasting and mining, real estate, textile, and tourism.",
+        "• Electricity production in 2021 was recorded at 106,115 GWh.",
+        "• Major agricultural products include abaca, bananas, sugarcane, coconuts, durian, rice, corn, cassavas, mangoes, pork, eggs, beef, pineapples, and fish.",
+        "• Principal export commodities are semiconductors and electronic products, machinery, transport equipment, aerospace parts, automotive parts, garments, chemicals, copper, nickel, petroleum products, coconut oil, and fruits.",
+        "• Major import commodities include electronic products, machinery, telecommunication and transport equipment, automotive products, chemicals, petroleum, cereals, livestock, cement and steel, and fruits.",
+        "• Manufacturing growth was reported at 5.9% in April 2024, with the Purchasing Managers’ Index (PMI) for manufacturing at 52.2 in the same month, indicating expansion.",
+        "• The 10-year government bond yield stood at 6.70% as of June 2024.",
+        "• The net international investment position was estimated at -US$51.317 billion in 2023.",
+        "• All economic and financial data were sourced from the Bangko Sentral ng Pilipinas and the United Nations Conference on Trade and Development (UNCTAD)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:15.008807",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "8",
+      "section_name": "Government budget",
+      "chapter_name": "Economy of the Philippines",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The national government budget for the Philippines in 2025 allocates PHP 977.6 billion (USD 16.78 billion) to the Department of Education, reflecting a 0.89% increase from the fiscal year 2024.",
+        "• The Department of Public Works and Highways is allocated PHP 900.0 billion (USD 15.44 billion) in the 2025 budget, marking a significant 10.88% increase compared to the previous fiscal year.",
+        "• The Department of Health receives PHP 297.6 billion (USD 5.11 billion) in the 2025 budget, which is a modest 0.36% increase from the fiscal year 2024.",
+        "• The Department of the Interior and Local Government is allocated PHP 278.4 billion (USD 4.78 billion) in 2025, representing a 5.33% increase from the prior year’s budget.",
+        "• The Department of National Defense is assigned PHP 256.1 billion (USD 4.39 billion) in the 2025 budget, showing a 6.05% increase from fiscal year 2024.",
+        "• The Department of Social Welfare and Development’s budget for 2025 is PHP 230.1 billion (USD 3.95 billion), which is a 0.78% increase over the previous fiscal year.",
+        "• The Department of Agriculture receives PHP 211.3 billion (USD 3.60 billion) in the 2025 budget, reflecting a 0.49% increase from the 2024 allocation.",
+        "• The Department of Transportation is allocated PHP 180.9 billion (USD 3.10 billion) in 2025, which is a substantial 59.15% increase compared to the fiscal year 2024.",
+        "• The Judiciary’s budget for 2025 is PHP 63.6 billion (USD 1.09 billion), marking a 5.35% increase from the previous year.",
+        "• The Department of Labor and Employment is assigned PHP 40.6 billion (USD 0.70 billion) in the 2025 budget, representing a 5.91% increase from fiscal year 2024."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:16:02.934145",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_the_philippines.json",
+      "original_index": 19
+    }
+  ]
+}

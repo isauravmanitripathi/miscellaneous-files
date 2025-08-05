@@ -1,0 +1,524 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_tuvalu.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.329691",
+    "total_sections_in_source": 19,
+    "extracted_sections_count": 19,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tuvalu is a Polynesian island nation situated in the Pacific Ocean, located midway between Hawaii and Australia, with a population of 11,192 according to the 2017 census.",
+        "• The Tuvaluan economy is limited by its geographic remoteness and lack of economies of scale, impacting its overall economic development and revenue generation.",
+        "• Major sources of government revenue include fishing licences, primarily issued under the South Pacific Tuna Treaty, direct grants from international donors including government donors and the Asian Development Bank, and income from the Tuvalu Trust Fund.",
+        "• Additional revenue is generated from leasing the country’s highly valuable .tv Top Level Domain (TLD), which is considered a fortuitous asset.",
+        "• Since gaining independence in 1976, the sale of postage stamps has been an important revenue source for Tuvalu, although this income has significantly declined in recent years.",
+        "• Tuvalu has minimal tourism infrastructure, with no tour guides, tour operators, organised activities, or cruise ship visits, resulting in negligible tourism revenue.",
+        "• According to World Bank statistics, in 2010 Tuvalu’s Gross Domestic Product (GDP) was $31,350,804, with a Gross National Income (GNI) per capita of $4,760, which is higher than other Pacific Small Island Developing States (SIDS) such as Kiribati ($2,010) and the Marshall Islands ($3,640).",
+        "• Approximately 15% of adult male Tuvaluans are employed overseas in the maritime industry, contributing significantly to the national income through remittances valued at an estimated A$4 million in 2006, accounting for about 10% of GDP.",
+        "• A United Nations report highlights the vulnerability of Tuvalu’s revenue streams to macroeconomic changes, noting that the national budget remains heavily subsidised by international aid and funding mechanisms such as the Tuvalu Trust Fund.",
+        "• Tuvalu relies heavily on food imports, which were estimated at $15.5 million in 2007, reflecting the country’s limited domestic agricultural production.",
+        "• The Tuvalu Trust Fund was established in 1987 by the United Kingdom, Australia, and New Zealand to supplement national budget deficits, support economic development, and promote financial autonomy for Tuvalu.",
+        "• Since 1990, the Tuvalu Trust Fund has contributed approximately A$79 million annually, representing about 15% of the government’s yearly budget.",
+        "• The Trust Fund’s capital value is approximately 2.5 times Tuvalu’s GDP, providing a financial buffer against the volatility of income sources such as fishing revenues and royalties from the .tv domain.",
+        "• Tuvalu became a member of the International Monetary Fund (IMF) on 24 June 2010.",
+        "• On 5 August 2012, the IMF Executive Board reported a slow economic recovery in Tuvalu, noting GDP growth in 2011 driven by the private retail sector and increased education spending.",
+        "• In 2022, inflation in Tuvalu rose sharply due to a drought that negatively impacted food production and global food price increases following Russia’s invasion of Ukraine; food imports constitute 19% of GDP, while agriculture accounts for only 10%.",
+        "• The government declared a national state of emergency in November 2022 due to drought conditions that depleted rainwater supplies.",
+        "• To mitigate inflation, the government implemented untargeted “inflation mitigation payouts” totaling AUD 400,000 (equivalent to AUD 40 per eligible household) and expanded price controls on various products.",
+        "• The 2023 IMF Article IV consultation noted that Tuvalu’s successful COVID-19 vaccination campaign enabled the lifting of containment measures at the end of 2022.",
+        "• The economic impact of the COVID-19 pandemic was significant, with real GDP growth declining from 13.8% in 2019 to -4.3% in 2020, followed by a recovery to 1.8% growth in 2021.",
+        "• Inflation peaked at 11.5% in 2022 but is projected to decrease to 2.8% by 2028 according to IMF forecasts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:46.096782",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Geography of Tuvalu",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture in Tuvalu primarily focuses on coconut trees and the cultivation of pulaka, which is grown in large pits of composted soil located below the water table.",
+        "• Subsistence farming of coconut palms for copra production and fishing constitute the main economic activities, especially around the capital island of Funafuti.",
+        "• There is no significant income disparity among Tuvaluan residents; however, the only consistent wage or salary-paying jobs are predominantly government positions, which account for about two-thirds of formal employment.",
+        "• Approximately 15% of adult males in Tuvalu are employed as seamen on foreign-flagged merchant ships.",
+        "• Population growth on the outer islands, limited available land, and scarce employment opportunities have led to migration from outer islands to the capital, Funafuti, with additional pressure for further migration to Australia or New Zealand.",
+        "• The country experiences high youth unemployment and a shortage of new job creation.",
+        "• Tuvalu’s economy faces constraints due to the absence of natural resources (except tuna in territorial waters), geographic remoteness, and lack of economies of scale, necessitating practical policies to improve livelihoods for the growing youth population aspiring to higher living standards.",
+        "• Geographically, Tuvalu consists of four reef islands and five true atolls, resulting in a contiguous zone of 24 nautical miles (44 km), an exclusive economic zone (EEZ) of 200 nautical miles (370 km), and a territorial sea of 12 nautical miles (22 km).",
+        "• Tuvalu’s nearest neighbors include Kiribati, Nauru, Samoa, and Fiji.",
+        "• Tuvalu has collaborated with the Secretariat of the Pacific Community (SPC) and the European Union, enacting the Seabed Minerals Act 2014 to regulate seabed mineral activities.",
+        "• The SPC-EU Pacific Deep Sea Minerals Project involves cooperation between the Cook Islands, Fiji, Tonga, and Tuvalu, aiming to enable these countries to make informed decisions regarding future deep seabed mineral exploitation.",
+        "• According to the 2017 Census, Tuvalu’s population is 10,507, making it the third-least populous sovereign state globally.",
+        "• Compared to its immediate neighbors, Tuvalu has a larger population than Nauru but a smaller population than Kiribati, which had just over 100,000 residents as of 2011.",
+        "• Tuvalu’s total land area is approximately 26 square kilometers (10 square miles), ranking it as the fourth smallest country worldwide by physical land size.",
+        "• In comparison, Nauru is smaller at 21 square kilometers (8.1 square miles), while Kiribati is significantly larger, consisting of dispersed atolls covering 3.5 million square kilometers (1,351,000 square miles) of the Pacific Ocean.",
+        "• Tuvalu’s Exclusive Economic Zone (EEZ) encompasses an oceanic area of about 900,000 square kilometers.",
+        "• The country is regarded as safe, with unspoiled natural beauty and friendly inhabitants.",
+        "• Due to its remoteness, high travel costs, and limited air traffic, Tuvalu receives relatively few tourists annually.",
+        "• The majority of visitors to Tuvalu are government officials, aid workers, NGO personnel, or consultants rather than leisure tourists."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:34.204494",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Fishing resources",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The primary economic activities of Tuvaluans include traditional agriculture and fishing, with additional employment opportunities as observers on tuna fishing boats to monitor compliance with tuna fishing licenses.",
+        "• Fishing is a critical component of the Tuvaluan economy, involving 42% of the population in various fishing activities.",
+        "• The main species caught within Tuvalu’s Exclusive Economic Zone (EEZ) are Skipjack Tuna, Yellowfin Tuna, and Bigeye Tuna.",
+        "• According to UN data from 2007, the gross value of fisheries in Tuvalu was estimated at US$43,773,582, encompassing coastal commercial fishing, coastal subsistence fishing, locally based offshore fishing, foreign-based offshore fishing, freshwater fishing, and aquaculture.",
+        "• In recent years, all fishing income has been generated from activities within Tuvalu waters rather than from direct exports from Tuvalu.",
+        "• In 2008, international fishing vessels operating in Tuvalu waters included 42 longline fishing vessels, 3 pole/line vessels, and 126 purse seiners, which significantly exceeded domestic fishing activity.",
+        "• The total production volume from these international vessels was 35,541 tonnes, valued at US$40,924,370 in 2009, accounting for 93.5% of the gross fisheries value.",
+        "• Despite the dominance of foreign vessels, Tuvalu retains a substantial portion of income through fishing license fees.",
+        "• Fishing licensing agreements with countries including Taiwan, Japan, South Korea, New Zealand, and the United States generated A$9 million in revenue for Tuvalu in 2009.",
+        "• By 2013, revenue from fishing licenses had doubled, constituting more than 45% of Tuvalu’s Gross Domestic Product (GDP).",
+        "• On 29 June 2017, the National Fishing Corporation of Tuvalu (NAFICOT) entered into a joint venture agreement with South Korea’s SAJO Fishing Industry to operate the fishing vessel _M.V. Taina_ within the Tuvaluan EEZ and other Pacific Island waters.",
+        "• The 2021 Tuvalu government budget indicated a policy shift away from joint venture fishing operations, including the sale of the fishing vessel _FV Taumoana_ for $10.4 million, towards a strategy focused solely on receiving revenue from fishing licenses and management fees for flagged ships."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:35.348112",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Remittances from Tuvaluan seafarers",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tuvaluan men have historically been employed abroad as seafarers, primarily working on German-owned container ships, with remittances from these seafarers constituting a major income source for their families in Tuvalu.",
+        "• In 2002, the Asian Development Bank (ADB) approved an assistance package to upgrade the Tuvalu Maritime Training Institute (TMTI), which trains young Tuvaluans for employment aboard foreign vessels; this project was completed in 2011.",
+        "• The Great Recession negatively impacted global export-import activities and shipping demand, resulting in a reduced need for Tuvaluan seafarers.",
+        "• According to the 1991 census, there were 272 Tuvaluan seamen working on merchant ships, while the Tuvaluan Overseas Seaman's Union (TOSU) estimated 417 seamen in 2002.",
+        "• The ADB estimated in 2011 that 800 TMTI graduates were registered for employment as seafarers, but noted a steady decline in actual employment from approximately 340 in 2001 to only 205 in 2010, leaving nearly 450 of the 800 qualified seafarers unemployed, including those on leave.",
+        "• This decline in seafarer employment led to a reduction in remittances from $2.4 million in 2001 to a projected $1.2 million in 2010.",
+        "• The International Labour Organization (ILO) estimated that around 200 Tuvaluan seafarers were employed on ships in 2010.",
+        "• The International Monetary Fund’s 2014 Country Report highlighted the Global Financial Crisis (GFC) as a factor reducing demand for Tuvaluan seafarer services.",
+        "• By October 2013, the number of Tuvaluan seafarers working on cargo ships had fallen to about 112, compared to 361 in 2006.",
+        "• The decline in seafarer employment caused remittances to fall by approximately 9% of Tuvalu’s GDP; in 2012, remittances from seafarers accounted for 10% of Tuvalu’s GDP.",
+        "• Despite a projected budget deficit of A$0.4 million for 2015, the ADB assessed Tuvalu’s budget as having a surplus of A$14.3 million due to high tuna fish license fees.",
+        "• The ADB predicted that Tuvalu’s economic growth rate of 2% in 2015 would continue into 2016."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:36.660195",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Economic vulnerability",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• From 1996 to 2002, Tuvalu was one of the best performing Pacific Island economies, achieving an average real gross domestic product (GDP) growth rate of 5.6% per annum.",
+        "• Since 2002, Tuvalu’s economic growth has slowed significantly due to exposure to rapid increases in world prices of fuel and food.",
+        "• Inflation in Tuvalu peaked at 10% in 2008 and subsequently fell to 0% by November 2010.",
+        "• Tuvalu’s economy is characterized by acute geographic, macroeconomic, and financial isolation, compounded by its small scale in terms of area, population, infrastructure, and agriculture.",
+        "• The country faces significant challenges from climate change and oil dependency, contributing to a contracting GDP and increased economic dependency.",
+        "• Tuvalu is heavily dependent on imported fuel, with gas prices quoted at $12 per gallon in 2009.",
+        "• The high cost of petroleum products has incentivized the development of renewable energy projects within Tuvalu.",
+        "• Although classified by the United Nations as a Lower Middle Income Least Developed Country (LDC), Tuvalu scores very high on the Economic Vulnerability Index, receiving a rating of 79.7 out of 100 in 2009.",
+        "• The United Nations has identified Tuvalu as the most \"economically vulnerable country in the world\" based on its Economic Vulnerability Index rating.",
+        "• Due to the aforementioned factors, including isolation and limited productive capacity, Tuvalu generates limited revenue from exports."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:29.091569",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "2",
+      "section_name": "Public sector enterprises",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The public sector enterprises in Tuvalu include the National Fishing Corporation of Tuvalu (NAFICOT), National Bank of Tuvalu, Development Bank of Tuvalu, Tuvalu Electricity Corporation, Tuvalu Telecommunications Corporation, Tuvalu Philatelic Bureau, Tuvalu Maritime Training Institute, and Vaiaku Lagi Hotel.",
+        "• The Government of Tuvalu is the primary provider of medical services through Princess Margaret Hospital located on Funafuti, which also operates medical clinics on the other islands.",
+        "• Banking services in Tuvalu are provided by the National Bank of Tuvalu.",
+        "• On 7 October 2016, Tuvalu accepted the Article VIII obligations of the International Monetary Fund (IMF) Articles of Agreement, committing to maintain an exchange system free of restrictions on payments for international transactions.",
+        "• The Tuvalu Media Department, a government entity, operates a single AM frequency radio station known as Radio Tuvalu.",
+        "• The Tuvalu Media Department publishes a free digital news publication titled Fenui – news from Tuvalu, which is distributed via email to subscribers and maintains a Facebook page that disseminates news about government activities and Tuvaluan events, including a special edition covering the results of the 2015 general election.",
+        "• The Tuvalu National Provident Fund (TNPF) and the Copra Trading Co-operative (CTC) are member-owned organizations.",
+        "• The TNPF provides loans to its members, using each member’s account as collateral for the loans.",
+        "• The Tuvalu Cooperative Society functions as the main wholesaler and retailer in Tuvalu."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:32.474580",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "3",
+      "section_name": "Private sector enterprises",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Tuvalu National Private Sector Organisation, the Tuvalu National Chamber of Commerce, and the Tuvalu Business Centre actively support private sector enterprises in Tuvalu.",
+        "• To establish a business in Tuvalu, an investor must have a start-up capital of AUD$20,000, secure a Tuvaluan partner, and pay a business registration fee of AUD$100.",
+        "• As of 2010, there were only seven foreign-owned businesses operating in Tuvalu, primarily established by Asian small business operators in the retail and restaurant sectors.",
+        "• Mackenzie Trading Limited, founded by Mackenzie Kiritome in 2008, operates small retail outlets on the outer islands of Tuvalu, competing with the Co-operative Society, which is a community-owned enterprise.",
+        "• In 2010, Mackenzie Trading Limited employed 40 people.",
+        "• Other supermarkets operating on Funafuti include Edwin Food City, Messamasui Supermarket, SULANI Trading store, and JY Ocean Trading stores.",
+        "• Government regulations in Tuvalu prohibit trading on Sundays."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:31.931580",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "4",
+      "section_name": "Development of economic and social policy (_Te Kakeega_ /_Te Kete_)",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• _Te Kakeega_ was the national strategy statement for the sustainable development of Tuvalu, outlining economic and social goals targeted for achievement during the period 2005 to 2015.",
+        "• Prior to the formulation of _Te Kakeega_, consultations were conducted on each of Tuvalu’s islands, culminating in the National Summit on Sustainable Development (NSSD) held at the _Tausoalima Falekaupule_ in Funafuti from 28 June to 9 July 2004.",
+        "• The NSSD resulted in the _Malefatuga_ Declaration, which served as the foundational document for _Te Kakeega II - National Strategy for Sustainable Development 2005-2015_.",
+        "• _Te Kakeega II_ comprehensively incorporated all known aid projects, programs, development initiatives, and ideas adopted by international donors and the two successive Tuvalu governments covering the periods 2004-2006 and 2006 to the present.",
+        "• The subsequent strategy, _Te Kakeega III - National Strategy for Sustainable Development 2016-2020_ (TK III), expanded upon the eight strategic areas identified in TK II by adding new focus areas including climate change, environment, migration and urbanization, and oceans and seas.",
+        "• For the national strategy plan covering 2021–2030, the strategy’s name was changed from _Te Kakeega_ to _Te Kete_, which refers to a traditional domestic basket woven from green or brown coconut leaves.",
+        "• The name _Te Kete_ holds symbolic and biblical significance within Tuvaluan Christian traditions, referencing the basket or cradle that saved the life of Moses, thereby imbuing the strategy with cultural and spiritual meaning."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:42.409343",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "5",
+      "section_name": "Tuvalu Trust Fund",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Tuvalu Trust Fund (TTF) was established in 1987 by the United Kingdom, Australia, and New Zealand with an initial capital of approximately A$27 million.",
+        "• The TTF is a prudently managed overseas investment fund that has contributed roughly A$79 million, equivalent to 15% of Tuvalu’s annual government budget each year since 1990.",
+        "• The capital value of the TTF is about 3.5 times Tuvalu’s GDP, providing a significant financial cushion against the country’s volatile income sources, including fishing revenues and royalties from the sale of the dot-TV internet domain.",
+        "• According to the IMF 2014 Country Report, the market value of the TTF declined during the Great Recession but had recovered by 2014 to over A$140 million, maintaining a value approximately 3.5 times GDP.",
+        "• By 2018, the TTF’s value had increased to about A$179 million, and by 2021 it further rose to approximately A$192 million.",
+        "• In 2021, the market value of the TTF increased by 12%, reaching its highest recorded level at 261% of GDP.",
+        "• However, due to volatility in global equity markets in 2022, the TTF’s value fell to A$191 million.",
+        "• The Trust Fund’s capital is held in the “A Account,” while the “B Account,” also called the “Consolidated Investment Fund” (CIF), functions as a revolving buffer account receiving disbursements from the A Account’s returns.",
+        "• The two-account structure stabilizes Tuvalu’s long-term financial position and addresses short-term budgetary needs by holding income distributions in the B Account until required for the national budget.",
+        "• The B Account, owned exclusively by the Government of Tuvalu, buffers against fluctuations in returns from the A Account, especially in years with low or no returns.",
+        "• Brian Bell, a member of the Tuvalu Trust Fund Advisory Committee from 1987 to 2002, explained that the Trust Fund was designed to provide revenue to overcome chronic budget deficits, with funds distributed from the A Account to the B Account and then drawn into the consolidated revenue account for government expenditure.",
+        "• A 20th-anniversary review of the TTF (as of 30 June 2007) reported the Fund’s market value had grown to $106.6 million.",
+        "• Over its first twenty years, the Fund achieved a real rate of return averaging 6.2% per annum, generating $65.7 million in revenue for Tuvalu.",
+        "• Of this revenue, $24.1 million was used to help fund budget deficits, $29.2 million was reinvested into the Fund, and $12.4 million was held in the CIF awaiting drawdown as of 30 June 2007.",
+        "• Since inception, the Government of Tuvalu has reinvested funds into the Trust Fund, raising Tuvalu’s total contributions to $29.8 million, which includes an initial contribution of $1.6 million.",
+        "• Tuvalu is the major contributor to the Fund, demonstrating the nation’s commitment to the long-term sustainability of the Trust Fund."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:47.219720",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "6",
+      "section_name": "Falekaupule Trust Fund",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1999, the Asian Development Bank (ADB) and the government of Tuvalu established the Falekaupule Trust Fund (FTF) with the objective of improving services on the outer islands of Tuvalu.",
+        "• The island councils, which consist of traditional leaders, are responsible for managing their own finances derived from a budget allocated by the Tuvaluan government sourced from the Falekaupule Trust Fund.",
+        "• According to the Falekaupule Act, \"Falekaupule\" is defined as the traditional assembly on each island, composed in accordance with the \"Aganu\" of each island; \"Aganu\" refers to the traditional customs and culture of the island.",
+        "• The initial capital of the Falekaupule Trust Fund was set at A$12 million.",
+        "• By 30 June 2007, the market value of the FTF had increased to $25.3 million.",
+        "• Over eight years of operation, the FTF made three distributions totaling $4.7 million.",
+        "• In 2005, a Reserve Account was established within the FTF to smooth out revenue streams from the main investment, serving the same purpose as the Consolidated Investment Fund (CIF).",
+        "• As of 30 June 2007, the Reserve Account held $1.4 million.",
+        "• The Great Recession negatively impacted the FTF, which is mandated to maintain its value in real terms before any further distributions can be made.",
+        "• As of 30 September 2010, the maintained value of the FTF was $27.3 million, reflecting capital growth and contributions from development partners.",
+        "• The market value at the same date was $23.8 million, creating a 15% gap ($3.5 million) between the market value and the maintained value that must be recovered before additional distributions can occur.",
+        "• Since the inception of the FTF, distributions have been made in four separate years.",
+        "• The total amount distributed by the FTF is $6.4 million, with approximately $5.3 million allocated directly to island development projects.",
+        "• The remaining $1.1 million of distributed funds is held in reserve by the island communities.",
+        "• On average, the FTF has facilitated spending of about $55,000 per island per year for development purposes."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:43.735753",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "7",
+      "section_name": "Government revenue",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The government revenues of Tuvalu primarily derive from multiple sources including the sales of stamps and coins, which constitute a significant portion of the national income.",
+        "• Fishing licences issued by Tuvalu represent a critical revenue stream, capitalizing on the country's maritime resources.",
+        "• Income generated from the Tuvalu Ship Registry contributes notably to government funds, reflecting the country's engagement in international maritime commerce.",
+        "• The Tuvalu Trust Fund (TTF) provides a steady income source for the government, supporting fiscal stability and development initiatives.",
+        "• A substantial portion of government revenue is obtained from leasing the .tv Internet Top Level Domain (TLD), a highly valuable digital asset due to its commercial appeal and global recognition."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:38.926688",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Tuvalu Trust Fund",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Tuvalu Trust Fund was established with the primary objectives of supplementing national budget deficits, supporting economic development, and enhancing Tuvalu’s financial autonomy.",
+        "• Since 1990, the Tuvalu Trust Fund has contributed approximately A$79 million annually, accounting for about 15% of the Tuvaluan government’s yearly budget.",
+        "• The capital value of the Tuvalu Trust Fund is roughly 2.5 times the country’s Gross Domestic Product (GDP), providing a significant financial buffer for the nation.",
+        "• The Trust Fund serves as a critical financial cushion against Tuvalu’s volatile income streams, which primarily come from fishing revenues and royalties generated from the sale of the country’s internet domain “.tv.”",
+        "• To meet the financial requirements of the Tuvaluan Government’s 2013/14 budget, it was necessary to draw funds from the “Consolidated Investment Fund” (CIF), which is part of the Tuvalu Trust Fund structure."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:41.584463",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "7.2",
+      "section_name": "Fishing Licenses",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Fishing licenses constitute a significant source of revenue for Tuvalu, derived from fishing activities within its 900,000 km² maritime zone.",
+        "• The primary fish species targeted in Tuvalu’s waters include Skipjack Tuna, Yellowfin Tuna, and Bigeye Tuna.",
+        "• In 1999, payments from the United States government under the South Pacific Tuna Treaty (SPTT) amounted to approximately $9 million.",
+        "• In May 2013, representatives from the United States and Pacific Island countries reached an agreement to sign interim arrangement documents extending the Multilateral Fisheries Treaty, which includes the South Pacific Tuna Treaty, thereby confirming access for US tuna vessels to fisheries in the Western and Central Pacific for an additional 18 months.",
+        "• In 2015, Tuvalu took a stance by refusing to sell fishing days to certain nations and fleets that opposed Tuvaluan initiatives aimed at developing and sustaining its own fishery resources.",
+        "• In 2016, Dr. Puakena Boreham, then Minister of Natural Resources, highlighted Article 30 of the Western and Central Pacific Fisheries Commission (WCPF) Convention, emphasizing the collective responsibility of member states to consider the disproportionate burden that fisheries management measures may impose on small-island developing states like Tuvalu."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:43.324301",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "7.3",
+      "section_name": ".tv Domain",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The \".tv\" domain name generates approximately A$7 million annually in royalties for Tuvalu.",
+        "• In 2019, royalties from the .tv domain accounted for 8.4% of the total government revenue of Tuvalu.",
+        "• The .tv domain is highly sought after because it closely resembles the abbreviation for the word \"television.\"",
+        "• VeriSign, Inc. managed the .tv domain under an agreement that was valid until the year 2021.",
+        "• On 14 December 2021, the Ministry of Justice, Communication and Foreign Affairs of the Tuvalu Government announced the selection of GoDaddy Registry as the new registry service provider for the .tv domain.",
+        "• VeriSign did not participate in the selection process for the new registry service provider.",
+        "• The growing popularity and success of platforms such as Twitch.tv, along with other esports and video game services, are expected to increase Tuvalu’s revenue derived from the .tv domain in the future."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:44.952920",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "7.4",
+      "section_name": "Economic Assessment",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Asian Development Bank identified three primary impacts of the Global Economic Crisis (GEC) on Tuvalu: (i) reduced demand for Tuvalu seafarers leading to decreased remittances; (ii) volatile exchange rate movements affecting remittance values, fishing licence fee revenues, and food prices; and (iii) a decline in the market value of the Tuvalu Trust Fund (TTF), which was approximately 12% below its maintained value at the end of May 2010.",
+        "• Due to the GEC’s impact, no financial distribution was made from the Tuvalu Trust Fund to the national budget in 2010, and further distributions were considered unlikely amid ongoing uncertainty in international financial markets.",
+        "• The International Monetary Fund (IMF) 2010 Country Report characterized Tuvalu’s economic activity as subdued by lower offshore earnings, projecting almost no economic growth for 2010, with expectations of zero or negative growth in 2011 driven by reduced government spending, and a continuation of low growth over the medium term.",
+        "• According to the IMF 2014 Country Report, Tuvalu’s real GDP growth had been volatile over the previous decade, averaging only 1 percent annually.",
+        "• The 2014 IMF report assessed Tuvalu’s economic growth prospects as generally positive, attributing this to substantial revenues from fishing licenses and significant foreign aid inflows.",
+        "• However, the 2014 report also highlighted medium to long-term growth challenges, including the predominance of inefficient public enterprises within the economy, uncertainty in the fisheries sector, and weak overall competitiveness.",
+        "• The IMF 2021 Country Report concluded that Tuvalu successfully avoided a recession in 2020 due to the rapid implementation of COVID-19 containment measures and COVID-related fiscal expenditures, which were financed by strong fishing revenues and donor grants."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:51.550416",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "8",
+      "section_name": "Least developed country status",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The United Nations designates Tuvalu as a least developed country (LDC) due to its limited potential for economic development, lack of exploitable natural resources, small geographic size, and vulnerability to external economic and environmental shocks.",
+        "• Tuvalu participates in the Enhanced Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries, a program established in October 1997 under the auspices of the World Trade Organisation (WTO).",
+        "• In 2013, Tuvalu deferred its scheduled graduation from least developed country status to developing country status until 2015.",
+        "• Prime Minister Enele Sopoaga stated that the deferral was necessary to maintain Tuvalu’s access to funding from the United Nations' National Adaptation Programme of Action (NAPA), which provides financial support for climate change adaptation.",
+        "• According to Prime Minister Sopoaga, once Tuvalu graduates to developed country status, it would no longer be eligible for funding assistance from climate change adaptation programs like NAPA, which are exclusively available to LDCs.",
+        "• Tuvalu had met the criteria required for graduation from LDC status prior to the deferral.",
+        "• Prime Minister Enele Sopoaga advocates for the United Nations to reconsider the criteria used for graduation from LDC status, arguing that the current framework does not sufficiently account for the environmental vulnerabilities of small island states such as Tuvalu.",
+        "• Specifically, Sopoaga highlights that the Environmental Vulnerability Index, as applied in the graduation criteria, does not give adequate weight to the environmental challenges faced by small island developing states like Tuvalu."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:48.685212",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "9",
+      "section_name": "International aid",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Australia and New Zealand continue to contribute capital to the Tuvalu Trust Fund and provide other forms of development assistance to Tuvalu, with additional financial support also provided by Japan, South Korea, and the European Union.",
+        "• Tuvalu became a member of the Asian Development Bank (ADB) in 1993, marking its integration into regional development financing mechanisms.",
+        "• In 2009, the government of Tuvalu, the ADB, AusAID (Australian Agency for International Development), and NZAID (New Zealand Aid Programme) signed the Development Partners Declaration (DPD), a framework designed to improve aid effectiveness both in implementing specific projects and in assisting the Tuvaluan government to achieve performance benchmark indicators.",
+        "• Tuvalu joined the International Monetary Fund (IMF) in July 2010 and also became a member of the World Bank, expanding its access to international financial institutions.",
+        "• In 2013, the World Bank approved US$6.06 million in financing for the Tuvalu Aviation Investment Project (TvAIP), aimed at improving operational safety, oversight of international air transport, and associated infrastructure at Funafuti International Airport.",
+        "• Tuvalu participates in the Enhanced Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries (LDCs), a program established in October 1997 under the auspices of the World Trade Organisation to support trade capacity building.",
+        "• In 2013, Tuvalu deferred its graduation from Least Developed Country (LDC) status to developing country status until 2015, a decision influenced by the need to maintain access to funding from the United Nations' National Adaptation Programme of Action (NAPA), which exclusively supports LDCs for climate change adaptation.",
+        "• Prime Minister Enele Sopoaga stated that the deferral was necessary because graduation to developed country status would disqualify Tuvalu from receiving NAPA funds, which are critical for climate change adaptation programs.",
+        "• Although Tuvalu had met the criteria for graduation from LDC status, Prime Minister Sopoaga urged the United Nations to reconsider its graduation criteria, arguing that insufficient weight is given to the environmental vulnerabilities faced by small island states like Tuvalu.",
+        "• Sopoaga emphasized that the current application of the graduation criteria is “totally unrealistic and perhaps very very wrong,” advocating for the inclusion of the Environmental Vulnerability Index as one of the key factors in the assessment process.",
+        "• On 18 February 2016, Tuvalu signed the Pacific Islands Development Forum (PIDF) Charter, formally joining the PIDF to enhance regional cooperation and development.",
+        "• In June 2017, Tuvalu signed the Pacific Agreement on Closer Economic Relations (PACER), further integrating its economy within the Pacific regional framework."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:51.471664",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "10",
+      "section_name": "Climate change mitigation and cyclone recovery programs",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The South Pacific Applied Geoscience Commission (SOPAC) identifies Tuvalu as highly vulnerable to climate change, while also highlighting environmental challenges such as population growth and poor coastal management that impede sustainable development.",
+        "• SOPAC classifies Tuvalu as extremely vulnerable according to the Environmental Vulnerability Index, underscoring the country's susceptibility to environmental risks.",
+        "• Tuvalu's National Adaptation Programme of Action (NAPA) outlines a climate change response strategy that involves collaboration among multiple local bodies on each island, working closely with community leaders known as the Falekaupule.",
+        "• The Department of Environment serves as the main coordinating office responsible for organizing efforts among non-governmental organizations, religious groups, and other stakeholders to implement Tuvalu’s NAPA, which is the principal plan for adapting to the adverse effects of human activity and climate change.",
+        "• In the 2016 Tuvaluan budget, the Tuvalu Survival Fund (TSF) was established with an allocation of A$5 million, aimed at financing climate change mitigation initiatives and covering recovery costs following Cyclone Pam’s impact in 2015.",
+        "• The Tuvalu Coastal Adaptation Project (TCAP) was initiated in 2017 to strengthen the resilience of Tuvalu’s islands against challenges posed by rising sea levels.",
+        "• Tuvalu became the first Pacific nation to access climate finance from the Green Climate Fund, facilitated with support from the United Nations Development Programme (UNDP).",
+        "• In December 2022, the Funafuti reclamation project commenced, involving dredging sand from the lagoon to build a platform on Fongafale, Funafuti, measuring 780 meters in length and 100 meters in width; this platform is engineered to remain above projected sea level rise and storm wave reach beyond the year 2100.",
+        "• The Australian Department of Foreign Affairs and Trade (DFAT) provided financial support for the TCAP.",
+        "• Additional TCAP projects include capital works on the outer islands of Nanumea and Nanumaga, focused on reducing vulnerability to coastal damage caused by storms.",
+        "• On 26 September 2023, the World Bank approved US$11.5 million (AUD$18 million) in grant financing for Tuvalu under the First Climate and Disaster Resilience Development Policy Financing program.",
+        "• This World Bank support comprises a US$7.5 million (AUD$11.8 million) development policy grant aimed at assisting Tuvalu’s National Disaster Management Office in coordinating post-disaster response activities.",
+        "• The grant also supports the National Building Code Assessment Unit within Tuvalu’s Public Works Department to develop infrastructure that is more resilient to disasters.",
+        "• The World Bank program includes a Catastrophe Deferred Drawdown Option (Cat DDO) of US$4 million (AUD$6.3 million), which provides funds to Tuvalu in the event of a natural disaster.",
+        "• The overall purpose of the World Bank grant is to enhance monitoring and reporting systems for assessing Tuvalu’s climate and disaster risks and to expedite the delivery of critical supplies to Tuvalu’s islands following emergencies and natural disasters."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:24:55.922717",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "11",
+      "section_name": "GDP and other economic performance indicators",
+      "chapter_name": "Economy of Tuvalu",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The official currencies of Tuvalu are the Tuvaluan dollar ($T) and the Australian dollar (A$), each subdivided into 100 cents.",
+        "• Tuvalu's nominal GDP was estimated at A$0.068 billion in 2019, A$0.07 billion in 2020, and A$0.074 billion in 2021.",
+        "• The purchasing power parity (PPP) GDP estimates were A$0.049 billion in 2019, A$0.05 billion in 2020, and A$0.052 billion in 2021.",
+        "• Nominal GDP figures from 2015 to projections for 2025 are as follows: A$47 million (2015), A$49 million (2016), A$59.1 million (2017), A$64.4 million (2018), A$77.9 million (2019), A$75.2 million (2020), A$80.1 million (2021), A$85.2 million (2022 est.), A$93.8 million (2023 proj.), A$100.9 million (2024 proj.), and A$107.9 million (2025 proj.).",
+        "• Gross National Income (GNI) per capita was $4,760 in 2010.",
+        "• GDP per capita estimates include $2,447 in 2009; $3,400 in 2015; $3,700 in 2016; $3,898 in 2017; $3,948 in 2018; $4,281 in 2019; and A$7,152 (equivalent to $4,515) in 2021.",
+        "• GDP composition by sector in 2012 was: agriculture 24.5%, industry 5.6%, and services 70%.",
+        "• Real GDP growth rates from 2008 to 2016 were: 6% (2008), -4% (2009), -2.7% (2010), 8.4% (2011), 0.2% (2012), 1.3% (2013), 2.2% (2014), 9.1% (2015), and 3.0% (2016).",
+        "• Consumer price inflation (end of period) from 2008 to 2016 was: 10% (2008), 0% (2009), -1.9% (2010), 0.5% (2011), 1.4% (2012), 2% (2013), 3.3% (2014), 4.0% (2015), and 2.6% (2016).",
+        "• Real GDP growth rates from 2017 to projections for 2025 were: 3.2% (2017), 4.3% (2018), 13.8% (2019), -4.3% (2020), 1.8% (2021), 0.7% (2022), 3.9% (2023 proj.), 3.5% (2024 proj.), and 2.4% (2025 proj.).",
+        "• Consumer price inflation (period average) from 2017 to projections for 2025 was: 4.1% (2017), 2.2% (2018), 3.5% (2019), 1.9% (2020), 6.2% (2021), 11.5% (2022), 5.9% (2023 proj.), 3.7% (2024 proj.), and 3.4% (2025 proj.).",
+        "• Industrial production growth rate was -26.1% in 2012.",
+        "• The total population of Tuvalu was 10,632 according to the 2022 Census.",
+        "• The labor force in 2004 was estimated at 3,615 individuals, with main livelihoods derived from exploitation of the sea, reefs, and atolls, remittances from Tuvaluans working abroad in Australia and New Zealand, and sailors on merchant ships.",
+        "• The unemployment rate was 16.3% in 2004.",
+        "• Approximately 26.3% of the population lived below the poverty line as of 2010.",
+        "• Budget data from 2010 to 2013 show total revenues and grants increasing from A$24.9 million in 2010 to A$42.7 million in 2013, while total expenditures decreased from A$33.2 million in 2010 to A$32.2 million in 2013.",
+        "• Budget figures from 2014 to 2019 indicate total domestic revenue fluctuated from A$41.97 million (2014) to A$55.74 million (2019), total recurrent expenditure ranged from A$37.07 million (2014) to A$58.35 million (2019), structural balance varied from a surplus of A$21.09 million (2018) to a deficit of A$2.61 million (2019), non-recurrent expenditure increased from A$4.42 million (2014) to A$26.5 million (2019), statutory expenditure ranged between A$549,222 (2018) and A$772,181 (2019), and the domestic funding gap fluctuated between a deficit of A$8.5 million (2015) and a surplus of A$4.3 million (2018).",
+        "• Budget surplus (deficit) from 2014 to 2019 ranged from a surplus of A$14.12 million in 2018 to a deficit of A$1.36 million in 2019.",
+        "• Budget data from 2020 to 2023 show total domestic revenue estimated at A$64.99 million (2020), declining to A$44.83 million projected for 2023; total recurrent expenditure increased from A$56.61 million (2020) to a projected A$73.49 million (2023); structural balance improved from A$8.38 million (2020) to a projected A$28.66 million (2023); non-recurrent expenditure was stable at around A$16 million (2022 and 2023 projections); statutory expenditure ranged from A$769,700 (2020) to A$1.33 million (2023 proj.); domestic funding gap was negative, with deficits of A$29.89 million (2020) and A$14.72 million (2022 proj.); development partner assistance funded deficits with amounts from A$28.66 million (2020) to A$34.58 million (2023 proj.); and budget surplus was A$5.54 million (2020), A$10.82 million (2022 proj.), and A$11.33 million (2023 proj.).",
+        "• Government finance as a percentage of GDP from 2015 to projections for 2025 shows revenue and grants ranging from 102.6% (2021) to 156.1% (2018), current revenue from 67.9% (2023 proj.) to 118.1% (2014), with fishing license fees comprising a significant portion (ranging from 38.6% in 2023 proj. to 79.8% in 2014).",
+        "• Grants as a percentage of GDP ranged from 16.2% (2021) to 38% (2014).",
+        "• Total expenditure as a percentage of GDP ranged from 104.7% (2025 proj.) to 131% (2016), with current expenditure between 70.8% (2019) and 111% (2016), and capital expenditure (including Special Development Fund and infrastructure development) ranging from 19% (2016) to 46.1% (2020).",
+        "• The overall fiscal balance fluctuated from a surplus of 30.3% of GDP (2014) to deficits such as -13.8% (2021) and projected -3.3% (2025), while the overall balance excluding grants showed persistent deficits ranging from -22% (2022 est.) to -67% (2016).",
+        "• The domestic current balance (excluding fishing revenue, grants, and capital expenditure) showed deficits ranging from -32.6% (2020) to -60.8% (2021).",
+        "• Installed electricity generating capacity was 5,100 kW in 2011, with 96% of capacity generated from fossil fuels as of 2015.",
+        "• Key industries in Tuvalu include fishing, tourism, and copra production.",
+        "• Agricultural products primarily consist of coconuts and fish.",
+        "• Export values were $2.232 million in 2022, $1 million f.o.b. in 2004, and $600,000 in 2010.",
+        "• Export commodities include copra and fish.",
+        "• Major export partners in 2023 were Thailand (88%), Japan (6%), Philippines (3%), Ireland (1%), and the USA (1%).",
+        "• Imports were valued at $57.388 million in 2022, $12.91 million c.i.f. in 2005, $238.6 million in 2012, and $136.5 million in 2013.",
+        "• Import commodities include food, animals, mineral fuels, machinery, and manufactured goods.",
+        "• Major import partners in 2023 were China (42%), Fiji (24%), Japan (11%), Australia (11%), and New Zealand (4%).",
+        "• Tuvalu received economic aid amounting to $30."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:25:35.858905",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 35
+      },
+      "source_file": "economy_of_tuvalu.json",
+      "original_index": 18
+    }
+  ]
+}

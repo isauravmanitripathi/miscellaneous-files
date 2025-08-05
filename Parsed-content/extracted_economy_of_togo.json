@@ -1,0 +1,213 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_togo.json",
+    "extraction_timestamp": "2025-08-02T17:13:29.273939",
+    "total_sections_in_source": 7,
+    "extracted_sections_count": 7,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Togo",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Togo has faced significant challenges and is considered one of the poorest globally.",
+        "• According to the International Monetary Fund (IMF), Togo ranks as the tenth poorest country in the world.",
+        "• Key factors undermining Togo’s economic development include political instability, declining commodity prices, and burdensome external debts.",
+        "• Although the industrial and service sectors contribute to the economy, Togo remains heavily reliant on subsistence agriculture.",
+        "• Industrialization efforts and the regional banking sector have experienced major setbacks, limiting economic diversification and growth.",
+        "• In January 2017, the IMF established an Extended Credit Facility arrangement with Togo, providing a three-year loan package totaling $238 million.",
+        "• The success of this IMF program is contingent upon Togo’s commitment to privatization initiatives, enhancing transparency in government financial operations, advancing legislative elections, and maintaining ongoing support from foreign donors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:46.984314",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_togo.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Agriculture",
+      "chapter_name": "Economy of Togo",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The majority of the Togolese population relies on subsistence agriculture as their primary means of livelihood.",
+        "• Key agricultural products in Togo include coffee, cocoa, cotton, yams, cassava (tapioca), corn, beans, rice, pearl millet, sorghum, and livestock such as fish.",
+        "• Food and cash crop production employs the majority of Togo’s labor force and contributes approximately 42% to the country’s gross domestic product (GDP).",
+        "• Traditionally, coffee and cocoa have been the major cash crops for export in Togo.",
+        "• Cotton cultivation experienced rapid growth during the 1990s, reaching a production volume of 173,000 metric tons in 1999.",
+        "• In 2001, Togo suffered a disastrous cash crop harvest, producing only 113,000 metric tons.",
+        "• Cash crop production rebounded significantly in 2002, increasing to 168,000 metric tons.",
+        "• Despite experiencing insufficient rainfall in some areas, the Togolese Government successfully achieved self-sufficiency in food crops, including maize, cassava, yams, sorghum, pearl millet, and groundnut.",
+        "• Most food crops are produced by small and medium-sized farms, with the average farm size ranging from one to three hectares.",
+        "• In 2018, Togo’s agricultural production included:",
+        "• 1 million tons of cassava",
+        "• 886 thousand tons of maize",
+        "• 858 thousand tons of yam",
+        "• 277 thousand tons of sorghum",
+        "• 207 thousand tons of beans",
+        "• 156 thousand tons of palm oil",
+        "• 143 thousand tons of vegetables",
+        "• 145 thousand tons of rice",
+        "• 127 thousand tons of cotton",
+        "• 43 thousand tons of peanuts",
+        "• 41 thousand tons of cocoa",
+        "• 26 thousand tons of millet",
+        "• 26 thousand tons of bananas",
+        "• 21 thousand tons of coffee",
+        "• In addition to the above, Togo produces smaller quantities of various other agricultural products.",
+        "• Choco Togo is recognized as the country’s first bean-to-bar chocolate manufacturer, marking a significant development in the local agricultural processing industry."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:53.538604",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_togo.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Mining",
+      "chapter_name": "Economy of Togo",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Phosphates constitute the most important commodity in Togo's industrial sector, with the country possessing an estimated 60 million metric tons of phosphate reserves.",
+        "• Phosphate production in Togo peaked at 2.7 million tons in 1997 but declined significantly to approximately 1.1 million tons by 2002.",
+        "• The reduction in phosphate production is attributed to the depletion of easily accessible phosphate deposits and insufficient funding for new investments in the sector.",
+        "• The Société Nouvelle des Phosphates du Togo (New Phosphate Company of Togo), formerly a state-run enterprise, transitioned to private management in 2001, which appears to have benefited the company’s operations.",
+        "• In addition to phosphates, Togo has substantial deposits of limestone and marble, contributing to its mineral resource base.",
+        "• During the mid-1970s commodity boom, characterized by a fourfold increase in phosphate prices, Togo experienced sharply increased government revenues.",
+        "• This economic upturn encouraged Togo to pursue an ambitious program of large-scale investments in infrastructure, alongside efforts to industrialize and develop state enterprises in manufacturing, textiles, and beverages.",
+        "• However, subsequent declines in world commodity prices led to economic challenges, including fiscal imbalances, heavy borrowing, and the proliferation of unprofitable state enterprises, which burdened Togo’s economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:47.802582",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_togo.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Other",
+      "chapter_name": "Economy of Togo",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Togo does not produce any crude oil domestically.",
+        "• The term \"Togo Triangle\" refers to an illegal market for stolen oil originating from the Niger Delta.",
+        "• The \"Togo Triangle\" is named after Togo, despite the country not being a crude oil producer."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:47.291037",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 3
+      },
+      "source_file": "economy_of_togo.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2",
+      "section_name": "IMF relationship",
+      "chapter_name": "Economy of Togo",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Togo sought assistance from the International Monetary Fund (IMF) in 1979, concurrently initiating a stringent economic adjustment program supported by a series of IMF standby arrangements, World Bank loans, and Paris Club debt rescheduling agreements.",
+        "• The Togolese Government implemented austerity measures and major restructuring initiatives targeting state enterprises and rural development sectors under these international financial programs.",
+        "• Key reforms included the elimination of most state monopolies, simplification of tax and customs duty structures, reduction of public sector employment, and privatization of major state-owned enterprises.",
+        "• During the late 1980s, Togo achieved significant progress in implementing reforms under the guidance of international financial institutions; however, reform momentum halted with the onset of political instability in 1990.",
+        "• Following the establishment of a new elected government, Togo negotiated new three-year economic programs with both the World Bank and the IMF in 1994.",
+        "• In 1995, Togo returned to the Paris Club and secured Naples terms, which represent the most concessionary debt rescheduling rates offered by the club.",
+        "• Due to economic decline linked to political difficulties, Togo’s scheduled external debt service obligations in 1994 exceeded 100% of projected government revenues, excluding bilateral and multilateral assistance.",
+        "• By 2001, Togo was engaged in an IMF Staff Monitored Program aimed at restoring macroeconomic stability and financial discipline; however, this program did not include new IMF funding pending the outcome of legislative elections.",
+        "• Resumption of new lending from the IMF, World Bank, and African Development Bank (ADB) depended on the willingness of Togo’s traditional donors, primarily the European Union and the United States, to reinstate aid flows.",
+        "• Donor reluctance to provide additional aid was influenced by Togo’s problematic legislative and presidential elections and the government’s persistent resistance to transitioning from an Eyadéma-led autocracy to a democratic system.",
+        "• As of fall 2002, Togo was in arrears of $15 million to the World Bank and owed $3 million to the African Development Bank.",
+        "• Togo is a member of the Economic Community of West African States (ECOWAS), which comprises 16 countries; the ECOWAS development fund is headquartered in Lomé, Togo’s capital.",
+        "• Togo also belongs to the West African Economic and Monetary Union (UEMOA), a group of seven West African countries that use the CFA franc as their common currency.",
+        "• The West African Development Bank (BOAD), affiliated with UEMOA, is based in Lomé, reinforcing Togo’s regional financial significance.",
+        "• Historically, Togo served as a regional banking center; however, its position was weakened by political instability and economic decline during the early 1990s.",
+        "• France has traditionally been Togo’s principal trading partner, although other European Union countries also play significant roles in Togo’s economy.",
+        "• Annual trade between the United States and Togo amounts to approximately $16 million."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:00.301225",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 17
+      },
+      "source_file": "economy_of_togo.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Open Market",
+      "chapter_name": "Economy of Togo",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Trade plays a critical role in Togo's economy, with the combined value of exports and imports amounting to 105 percent of the country's Gross Domestic Product (GDP).",
+        "• The average applied tariff rate in Togo is 11.4 percent, indicating moderate taxation on imported goods.",
+        "• Despite tariff regulations, non-tariff barriers exist and impede certain aspects of trade, affecting the free flow of goods and services.",
+        "• The Togolese government demonstrates an above-average openness to foreign investment, facilitating international capital inflows.",
+        "• Capital transactions in Togo are subject to some degree of government controls or require official approval, reflecting regulatory oversight in financial operations.",
+        "• Togo's banking system is evolving and continues to expand in scope and services; however, it faces challenges related to insufficient liquidity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:20:45.559419",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_togo.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Togo",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 1980, Togo's GDP measured at 2.6 billion US$ PPP with a GDP per capita of 934 US$ PPP, nominal GDP of 2.0 billion US$, a real GDP growth rate of −2.3%, inflation at 12.3%, and government debt data was not available (n/a).",
+        "• The year 1981 saw a GDP of 2.8 billion US$ PPP, GDP per capita of 955 US$ PPP, nominal GDP of 1.7 billion US$, a real GDP decline of −3.4%, inflation at 19.7%, and government debt remained n/a.",
+        "• In 1982, GDP remained at 2.8 billion US$ PPP, GDP per capita slightly decreased to 942 US$ PPP, nominal GDP was 1.4 billion US$, real GDP growth was −3.7%, inflation dropped to 11.1%, with government debt still n/a.",
+        "• For 1983, GDP stayed at 2.8 billion US$ PPP, GDP per capita declined to 898 US$ PPP, nominal GDP was 1.3 billion US$, real GDP growth fell sharply by −5.2%, inflation was 9.4%, and government debt data was n/a.",
+        "• In 1984, GDP increased to 3.1 billion US$ PPP, GDP per capita rose to 953 US$ PPP, nominal GDP was 1.2 billion US$, real GDP growth rebounded to 5.9%, inflation turned negative at −3.5%, and government debt remained n/a.",
+        "• The 1985 economic indicators showed GDP at 3.3 billion US$ PPP, GDP per capita at 988 US$ PPP, nominal GDP of 1.3 billion US$, real GDP growth at 3.7%, inflation at −1.8%, with government debt data still unavailable.",
+        "• In 1986, GDP was 3.5 billion US$ PPP, GDP per capita reached 1,009 US$ PPP, nominal GDP was 1.8 billion US$, real GDP growth was 3.3%, inflation increased to 4.1%, and government debt was not reported.",
+        "• For 1987, GDP remained 3.5 billion US$ PPP, GDP per capita slightly decreased to 978 US$ PPP, nominal GDP rose to 2.1 billion US$, real GDP growth declined by −2.5%, inflation was 0.1%, and government debt data was n/a.",
+        "• In 1988, GDP increased to 4.0 billion US$ PPP, GDP per capita rose to 1,082 US$ PPP, nominal GDP was 2.3 billion US$, real GDP growth surged to 10.1%, inflation was −0.2%, and government debt was not available.",
+        "• The 1989 figures showed GDP at 4.3 billion US$ PPP, GDP per capita at 1,137 US$ PPP, nominal GDP steady at 2.3 billion US$, real GDP growth at 4.1%, inflation at −1.0%, with no government debt data.",
+        "• In 1990, GDP reached 4.7 billion US$ PPP, GDP per capita was 1,213 US$ PPP, nominal GDP increased to 2.8 billion US$, real GDP growth was 5.9%, inflation at 1.1%, and government debt data remained unavailable.",
+        "• The year 1991 recorded GDP at 4.8 billion US$ PPP, GDP per capita at 1,210 US$ PPP, nominal GDP at 2.7 billion US$, real GDP growth slightly negative at −0.6%, inflation at 0.2%, and government debt was n/a.",
+        "• In 1992, GDP remained at 4.8 billion US$ PPP, GDP per capita decreased to 1,164 US$ PPP, nominal GDP was 2.9 billion US$, real GDP growth declined by −3.2%, inflation rose to 1.6%, with no government debt data.",
+        "• For 1993, GDP dropped to 4.1 billion US$ PPP, GDP per capita fell to 1,004 US$ PPP, nominal GDP was 2.2 billion US$, real GDP growth plummeted to −16.3%, inflation was −0.1%, and government debt data was unavailable.",
+        "• In 1994, GDP rebounded to 4.8 billion US$ PPP, GDP per capita rose to 1,165 US$ PPP, nominal GDP declined to 1.7 billion US$, real GDP growth surged to 13.9%, inflation sharply increased to 35.3%, with government debt data n/a.",
+        "• The 1995 economic data showed GDP at 5.8 billion US$ PPP, GDP per capita at 1,361 US$ PPP, nominal GDP at 2.2 billion US$, real GDP growth at 19.7%, inflation at 15.8%, and government debt was not reported.",
+        "• In 1996, GDP slightly decreased to 5.7 billion US$ PPP, GDP per capita was 1,282 US$ PPP, nominal GDP rose to 2.4 billion US$, real GDP growth was −3.9%, inflation dropped to 4.6%, with government debt data unavailable.",
+        "• For 1997, GDP increased to 6.0 billion US$ PPP, GDP per capita was 1,311 US$ PPP, nominal GDP at 2.5 billion US$, real GDP growth was 3.8%, inflation at 5.3%, and government debt data was n/a.",
+        "• In 1998, GDP remained at 6.0 billion US$ PPP, GDP per capita decreased to 1,258 US$ PPP, nominal GDP was 2.4 billion US$, real GDP growth declined by −2.3%, inflation was 1.0%, with no government debt data.",
+        "• The year 1999 showed GDP at 6.2 billion US$ PPP, GDP per capita at 1,271 US$ PPP, nominal GDP steady at 2.4 billion US$, real GDP growth was 2.5%, inflation at −0.1%, and government debt was not available.",
+        "• In 2000, GDP was 6.3 billion US$ PPP, GDP per capita slightly decreased to 1,251 US$ PPP, nominal GDP dropped to 2.0 billion US$, real GDP growth was −1.0%, inflation rose to 1.6%, with government debt data n/a.",
+        "• For 2001, GDP increased to 6.5 billion US$ PPP, GDP per capita was 1,256 US$ PPP, nominal GDP remained at 2.0 billion US$, real GDP growth was 0.8%, inflation at 5.1%, and government debt data was not reported.",
+        "• In 2002, GDP rose to 6.8 billion US$ PPP, GDP per capita increased to 1,290 US$ PPP, nominal GDP was 2.3 billion US$, real GDP growth was 3.8%, inflation at 2.7%, with government debt data unavailable.",
+        "• The 2003 economic indicators showed GDP at 7.4 billion US$ PPP, GDP per capita at 1,368 US$ PPP, nominal GDP at 2.9 billion US$, real GDP growth was 6.7%, inflation was −0.9%, and government debt data was n/a.",
+        "• In 2004, GDP was 7.5 billion US$ PPP, GDP per capita slightly decreased to 1,354 US$ PPP, nominal GDP increased to 3.0 billion US$, real GDP growth was −1.0%, inflation at 0.7%, with government debt data not available.",
+        "• The year 2005 recorded GDP at 7.4 billion US$ PPP, GDP per capita at 1,298 US$ PPP, nominal GDP at 3.1 billion US$, real GDP growth declined by −4.7%, inflation rose to 5.3%, and government debt was 63.1% of GDP.",
+        "• In 2006, GDP increased to 7.8 billion US$ PPP, GDP per capita rose to 1,335 US$ PPP, nominal GDP was 3.2 billion US$, real GDP growth was 2.7%, inflation at 1.1%, and government debt rose to 67.7% of GDP.",
+        "• For 2007, GDP reached 8.2 billion US$ PPP, GDP per capita was 1,349 US$ PPP, nominal GDP increased to 3.8 billion US$, real GDP growth was 1.2%, inflation was 0.4%, and government debt was 70.5% of GDP.",
+        "• In 2008, GDP rose to 8.6 billion US$ PPP, GDP per capita increased to 1,390 US$ PPP, nominal GDP was 4.6 billion US$, real GDP growth was 4.0%, inflation increased to 7.7%, and government debt declined to 67.3% of GDP.",
+        "• The 2009 data showed GDP at 9.2 billion US$ PPP, GDP per capita at 1,434 US$ PPP, nominal GDP at 4.7 billion US$, real GDP growth was 5.5%, inflation at 4.1%, and government debt decreased to 57.6% of GDP."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T12:21:33.997582",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 30
+      },
+      "source_file": "economy_of_togo.json",
+      "original_index": 6
+    }
+  ]
+}

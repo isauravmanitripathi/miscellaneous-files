@@ -1,0 +1,306 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_libya.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.265282",
+    "total_sections_in_source": 11,
+    "extracted_sections_count": 11,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Libya is predominantly reliant on the petroleum sector, which accounts for over 95% of the country's export earnings and contributes approximately 60% to its Gross Domestic Product (GDP).",
+        "• Libya's substantial oil revenues combined with its relatively small population have resulted in one of the highest nominal per capita GDP figures in the African continent.",
+        "• Following the year 2000, Libya experienced favorable economic growth, culminating in an estimated GDP growth rate of 10.6% in 2010.",
+        "• The onset of the Libyan Civil War in 2011 caused a severe economic contraction, with the GDP shrinking by 62.1% during that year.",
+        "• In the aftermath of the civil war, Libya's economy demonstrated a significant recovery, expanding by 104.5% in 2012.",
+        "• The economic recovery was short-lived as the outbreak of the Second Libyan Civil War led to another economic collapse.",
+        "• By the year 2024, Libya's per capita GDP measured in Purchasing Power Parity (PPP) terms had declined to only 65% of its pre-war level recorded in 2010.",
+        "• The article containing this information was noted as needing an update to reflect recent events or newly available data as of March 2015."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:09:00.676010",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "Macroeconomic trends",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Libyan GDP per capita was approximately $40 in the early 1920s, increasing significantly to $1,018 by 1967, with a notable 42 percent rise in per capita GDP in 1947 alone.",
+        "• The economic indicators for Libya from 1980 to 2021, including IMF staff estimates for 2022 to 2027, reveal fluctuations in GDP (both PPP and nominal), GDP per capita, real GDP growth, inflation rates, unemployment, and government debt as a percentage of GDP.",
+        "• In 1980, Libya’s GDP was $97.8 billion PPP and $40.2 billion nominal, with a GDP per capita of $32,745.5 PPP and $13,449.6 nominal; real GDP growth was 0.6%, inflation was 14.3%, and unemployment and government debt data were not available.",
+        "• The early 1980s saw volatile GDP growth with a sharp decline of -20.0% in 1981, followed by minor recoveries and contractions, with inflation rates consistently above 9% until 1986, when inflation dropped to 3.4%.",
+        "• From 1987 to 1990, GDP growth fluctuated, with a significant contraction of -14.7% in 1987 and a recovery to 7.6% in 1988; inflation rates remained low, between 0.7% and 4.5%, and government debt was recorded at 4.7% of GDP in 1990.",
+        "• The 1991 economic boom showed an 18.3% GDP growth, inflation at 11.7%, unemployment at 19.8%, and government debt rising to 9.6% of GDP.",
+        "• The early to mid-1990s experienced negative GDP growth rates, including -4.5% in 1992 and -15.4% in 1995, with inflation ranging from 3.6% to 10.7%, unemployment steady at approximately 20%, and government debt fluctuating from -4.6% to 12.2% of GDP.",
+        "• Between 1996 and 2000, Libya’s GDP growth was modest and occasionally negative, with inflation rates dropping below 5% by 1997 and turning negative in 2000 (-2.9%), unemployment remained around 19.7%, and government debt peaked at 30.4% of GDP in 2005.",
+        "• The early 2000s saw a recovery with GDP growth reaching 16.1% in 2003 and inflation rates mostly negative or low, unemployment steady near 19.5%, and government debt varying between 0.4% and 30.4% of GDP.",
+        "• From 2005 to 2010, Libya experienced positive GDP growth rates, peaking at 10.6% in 2005, with inflation generally below 7%, unemployment stable at 19.4%, and government debt fluctuating between 11.5% and 30.4% of GDP.",
+        "• The year 2011 marked a severe economic contraction with a -50.3% GDP growth rate, inflation rising to 15.9%, unemployment at 19.4%, and government debt at -11.5% of GDP, reflecting the impact of political instability.",
+        "• Post-2011, the economy showed volatility with GDP growth rebounding to 86.8% in 2012 but declining again in subsequent years, inflation rates varying widely from 2.4% to 25.9%, unemployment remaining near 19.5%, and government debt fluctuating significantly, reaching -30.5% of GDP in 2014.",
+        "• The period 2015 to 2021 was characterized by negative or low GDP growth rates, with a sharp decline of -29.5% in 2020, inflation rates ranging from -2.9% to 25.9%, unemployment steady around 19.5% to 20.1%, and government debt varying from -29.3% to 24.6% of GDP.",
+        "• IMF staff estimates for 2022 to 2027 project gradual GDP growth recovery from -18.5% in 2022 to 4.1% in 2027, inflation rates stabilizing around 3%, and government debt decreasing from 15.8% of GDP in 2022 to 9.7% in 2027; unemployment data for these years is not available.",
+        "• The exchange rate for purchasing power parity comparisons is set at 0.77 Libyan Dinars to one US Dollar.",
+        "• In 2009, the mean wage in Libya was $9.51 per man-hour, equating to a monthly compensation of approximately $1,598 based on 21 working days of 8 hours each."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:09:25.821099",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 16
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "2",
+      "section_name": "Oil sector",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Libya is a member of the Organization of the Petroleum Exporting Countries (OPEC) and possesses the largest proven oil reserves in Africa, totaling 41.5 billion barrels (6.60×10^9 m³) as of January 2007, an increase from 39.1 billion barrels (6.22×10^9 m³) in 2006.",
+        "• Approximately 80% of Libya's proven oil reserves are situated in the Sirte Basin, which contributes to 90% of the nation's oil production.",
+        "• The oil industry in Libya is predominantly controlled by the state-owned National Oil Corporation (NOC) and its subsidiaries, which collectively produce about 50% of the country's oil output.",
+        "• Among the NOC subsidiaries, the Waha Oil Company (WOC) is the largest oil producer, followed by the Arabian Gulf Oil Company (Agoco), Zueitina Oil Company (ZOC), and Sirte Oil Company (SOC).",
+        "• Oil resources constitute roughly 95% of Libya's export earnings, 75% of government revenues, and over 50% of the Gross Domestic Product (GDP), making oil revenues the principal source of foreign exchange.",
+        "• Reflecting Libya's command economy legacy, about 75% of employment is in the public sector, while private investment remains minimal at approximately 2% of GDP.",
+        "• In the early 1980s, falling global oil prices combined with economic sanctions led to a significant decline in Libya's economic activity, resulting in a gradual rehabilitation of the private sector.",
+        "• During the 1990s, Libya experienced modest and volatile real GDP growth averaging 2.6% per year.",
+        "• Libya's GDP growth improved in 2001 due to elevated oil prices, the end of a prolonged drought cycle, and increased foreign direct investment following the suspension of United Nations sanctions in 1999.",
+        "• Real GDP growth was further stimulated by high oil revenues, reaching 4.6% in 2004 and 3.5% in 2005.",
+        "• Despite government efforts to diversify the economy and promote private sector participation, extensive controls over prices, credit, trade, and foreign exchange continue to restrict economic growth.",
+        "• Although UN sanctions were lifted in 1999, foreign investment in Libya's oil and gas sectors remained limited due to the U.S. Iran and Libya Sanctions Act (ILSA), which capped annual foreign investments at $20 million, reduced from $40 million in 2001.",
+        "• In May 2006, the United States removed Libya from its list of state sponsors of terrorism, normalized diplomatic relations, and lifted sanctions, thereby facilitating the entry of U.S. oil companies into the Libyan market and expectedly benefiting the Libyan economy.",
+        "• The National Oil Corporation aimed to increase oil production from 1.80 million barrels per day (bpd) in 2006 to 2 million bpd by 2008.",
+        "• Libya's oil sector is attractive for foreign direct investment due to its low oil recovery costs, high-quality crude oil, and geographic proximity to European markets.",
+        "• Most Libyan oil is sold on a term basis through the country's Oilinvest marketing network in Europe and to international companies such as Agip, OMV, Repsol YPF, Tupras, CEPSA, and Total, with smaller volumes sold to Asian and South African firms.",
+        "• Key statistics for Libya's oil and gas sector as of 2006-2007 include:",
+        "• Proven Oil Reserves (2007 estimate): 41.5 billion barrels (6.60×10^9 m³)",
+        "• Oil Production (2006 estimate): 1.8 million barrels per day (290,000 m³/day), with 95% being crude oil",
+        "• Oil Consumption (2006 estimate): 284,000 barrels per day (45,200 m³/day)",
+        "• Net Oil Exports (2006 estimate): 1.5 million barrels per day (240,000 m³/day)",
+        "• Crude Oil Distillation Capacity (2006 estimate): 378,000 barrels per day (60,100 m³/day)",
+        "• Proven Natural Gas Reserves (2007 estimate): 52.7 trillion cubic feet (1.49×10^12 m³)",
+        "• Natural Gas Production (2006 estimate): 3.999 trillion cubic feet (1.132×10^11 m³)",
+        "• Natural Gas Consumption (2005 estimate): 206 billion cubic feet (5.8×10^9 m³)",
+        "• These data are sourced from the U.S. Energy Information Administration (EIA) as of 2007."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:09:41.301428",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 26
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "2.1",
+      "section_name": "Field Development and Exploration",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Oil constitutes the primary natural resource and economic driver for Libya, underpinning the country's energy sector and export revenues.",
+        "• In November 2005, Repsol YPF discovered a significant deposit of light, sweet crude oil in the Murzuq Basin, marking one of the largest oil discoveries in Libya in several years according to industry experts.",
+        "• The Repsol YPF discovery in the Murzuq Basin is supported by a consortium of partners including OMV, Total, and Norsk Hydro, indicating a collaborative international investment in Libyan oil exploration.",
+        "• The Murzuq Basin also hosts the Elephant oil field, operated by the Italian energy company Eni, highlighting the basin's strategic importance for Libya's oil production.",
+        "• In October 1997, a consortium led by the British company Lasmo, together with Eni and a group of five South Korean companies, announced the discovery of large recoverable crude oil reserves approximately 800 kilometers (500 miles) south of Tripoli.",
+        "• Lasmo estimated that production costs at the Elephant field would be approximately $1 per barrel, suggesting highly economical extraction potential.",
+        "• The Elephant oil field commenced production in February 2004, contributing to Libya's overall oil output.",
+        "• The Waha oil fields, operated by the Western Oil Company (WOC), currently produce around 350,000 barrels per day (56,000 cubic meters per day), representing a significant portion of Libya's oil production capacity.",
+        "• In 2005, ConocoPhillips and its co-venturers reached an agreement with the National Oil Corporation (NOC) to resume operations in Libya and extend the Waha concession for an additional 25 years, reflecting renewed foreign investment and long-term commitment.",
+        "• ConocoPhillips holds a 16.33% operational share in the Waha fields project, demonstrating its active role in Libyan oil production.",
+        "• The National Oil Corporation (NOC) maintains the largest share of the Waha concession, underscoring its dominant position in Libya's oil sector.",
+        "• Other partners involved in the Waha concession include Marathon Oil and Amerada Hess, indicating a consortium-based approach to field development and exploration in Libya."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:09:45.806671",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "2.2",
+      "section_name": "Refining and Downstream",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Libya operates five domestic oil refineries with varying processing capacities and operators.",
+        "• The Zawia Refinery has a processing capacity of 120,000 barrels per day and is operated by the Zawia Oil Company (ZOC).",
+        "• The Ras Lanuf Refinery is the largest in Libya, with a capacity of 220,000 barrels per day, and is operated by the Ras Lanuf company.",
+        "• The El-Brega Refinery processes 10,000 barrels per day and is operated by the state-owned National Oil Corporation (SOC).",
+        "• The Tobruk Refinery has a capacity of 20,000 barrels per day and is operated by the Arabian Gulf Oil Company (Agoco).",
+        "• The Sarir Refinery also has a capacity of 10,000 barrels per day and is operated by Agoco.",
+        "• All refinery capacities are measured in barrels per day, reflecting Libya’s domestic refining capabilities."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:09:49.493249",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "3",
+      "section_name": "Diversification",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2007, mining and hydrocarbon industries constituted well over 95 percent of Libya's economy, highlighting the country's heavy reliance on these sectors for economic activity.",
+        "• Economic diversification into manufacturing industries remains a long-term challenge for Libya, indicating limited progress beyond the dominant mining and hydrocarbon sectors.",
+        "• Agriculture is the second-largest sector in Libya's economy, yet the country depends heavily on food imports due to climatic constraints and poor soil quality that severely limit domestic farm output.",
+        "• Domestic food production in Libya meets only about 25 percent of the national demand, reflecting a significant gap between local agricultural capacity and consumption needs.",
+        "• Rising food consumption in Libya is driven by higher incomes and a growing population, exacerbating the reliance on imported food products.",
+        "• Libya experiences low rainfall levels, making agricultural projects such as those in the Kufra oasis reliant on underground water sources for irrigation.",
+        "• The Great Manmade River (GMMR) is Libya’s primary agricultural water source, supplying vital water resources for farming in the Sahara Desert region.",
+        "• Significant investments are being directed towards desalinization research in Libya to address the increasing demand for water in agricultural and other sectors.",
+        "• Agricultural projects and policies in Libya are managed by a General Inspector, as the country does not have a formal Ministry of Agriculture.",
+        "• In 2018, Libya produced 348 thousand tons of potatoes, making it the highest quantity among listed agricultural products.",
+        "• Watermelon production in Libya reached 236 thousand tons in 2018, ranking as the second-largest crop by volume.",
+        "• Tomato production was recorded at 215 thousand tons in 2018, indicating substantial cultivation of this vegetable.",
+        "• Olive production in Libya amounted to 188 thousand tons in 2018, reflecting the importance of olives in the agricultural sector.",
+        "• Onion production totaled 183 thousand tons in 2018, contributing significantly to Libya’s vegetable output.",
+        "• Date production was 176 thousand tons in 2018, underscoring the role of date palms in Libyan agriculture.",
+        "• Wheat production reached 138 thousand tons in 2018, indicating limited but notable cereal crop cultivation.",
+        "• Barley production was 93 thousand tons in 2018, supplementing the cereal crop output in Libya.",
+        "• Vegetable production overall was 72 thousand tons in 2018, encompassing various types of vegetables beyond those individually listed.",
+        "• Plum production was 60 thousand tons in 2018, representing a smaller but significant fruit crop.",
+        "• Orange production in Libya was 53 thousand tons in 2018, contributing to the country’s citrus fruit output.",
+        "• Libya also produced smaller quantities of other agricultural products in 2018, demonstrating some diversity in its agricultural sector beyond the major crops listed."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:10:00.141990",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 21
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "4",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The tourism industry in Libya experienced a significant decline due to the impact of the Libyan Civil War.",
+        "• Prior to the conflict, the tourism sector was showing signs of development, with the number of tourists increasing from 149,000 in 2004 to 180,000 in 2007.",
+        "• Despite this growth, tourism contributed less than 1% to Libya's Gross Domestic Product (GDP) during that period.",
+        "• In addition to overnight tourists, Libya received approximately 1,000,000 day visitors in 2007.",
+        "• Libya's tourism appeal primarily stems from its ancient Greek and Roman archaeological ruins as well as its distinctive Sahara desert landscapes."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:10:03.726686",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "5",
+      "section_name": "Labor market",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Libya experienced a population growth rate of 3.3% annually during the period from 1960 to 2003.",
+        "• In 2003, 86% of Libya’s population was urban, a significant increase from 45% urbanization recorded in 1970.",
+        "• Unemployment in Libya is reportedly acute, particularly among the youth, with over 50% of the population under the age of 20 being unemployed, although no reliable estimates are available.",
+        "• Labor market regulations in Libya favor Libyan workers; however, a mismatch between the educational system and market demand has resulted in a large pool of expatriate workers who generally have better-suited education and higher productivity.",
+        "• Due to shortages in manual labor, Libya has attracted a significant number of less skilled immigrant workers alongside skilled expatriates.",
+        "• Expatriate workers constitute an estimated 20% (one-fifth) of Libya’s total labor force.",
+        "• Despite the notable presence of expatriate workers, their proportion remains lower than that found in oil-producing countries of the Persian Gulf.",
+        "• The majority of foreign workers in Libya originate from countries including the Maghreb region, Egypt, Turkey, India, the Philippines, Malaysia, Thailand, Vietnam, Poland, Chad, Sudan, and Bosnia and Herzegovina.",
+        "• Expatriate workers in Libya tend to earn relatively high wages and occupy either skilled positions or demanding manual labor jobs.",
+        "• According to census data from the year 2000, 20% of expatriate workers earned over LD 300 (equivalent to US$230) per month, compared to only 12% of Libyan nationals earning above this threshold.",
+        "• A government campaign aimed at encouraging qualified civil servants to transition into entrepreneurship, intended to address issues of public sector overemployment and declining productivity, has so far failed to achieve significant results."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:10:13.352401",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "6",
+      "section_name": "External trade and finance",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2006, Libya had specific export destinations that shaped its external trade profile, although detailed country-specific data from that year is not provided in this section.",
+        "• The Libyan Government is actively preparing a financial sector reform program aimed at improving the overall management and operational independence of financial institutions.",
+        "• Recent legislation has introduced corporate governance standards for financial institutions, marking progress toward better management practices and increased autonomy for public banks in Libya.",
+        "• Despite legislative progress, Libyan public banks continue to suffer from inadequate management structures and lack essential skills in critical areas such as credit analysis, investment decision-making, risk management, and information and control systems.",
+        "• The new banking law in Libya strengthens the independence of the Central Bank of Libya (CBL) and establishes a legal framework for regulating banking activities, although some provisions within the law require further improvement.",
+        "• Although the new banking law clarifies and limits the duties and responsibilities of the CBL, the Central Bank remains the owner of public banks, creating a potential conflict of interest between its regulatory role and ownership responsibilities.",
+        "• Financial sector reforms have included partial liberalization of interest rates: deposit interest rates have been liberalized, while a ceiling has been imposed on lending rates, set above the discount rate.",
+        "• The Libyan Stock Exchange was established in 2007, representing the first stock exchange of its kind in the country and marking a significant development in Libya’s financial sector infrastructure.",
+        "• In 2011, Libya Oil Holdings had its €38 million stake in the Irish exploration firm Circle Oil frozen under a European Union order, which was part of sanctions aimed at pressuring the Gaddafi regime during the political crisis.",
+        "• Between 2020 and 2024, Tunisia’s exports to Libya experienced growth exceeding 18%, highlighting Libya’s importance as a trading partner in the region.",
+        "• Libya is a key transit country for two major trans-African automobile routes: the Cairo-Dakar Highway and the Tripoli-Cape Town Highway, facilitating continental trade and transport connectivity."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:10:21.851139",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "7",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Household income or consumption by percentage share data for Libya is not available for both the lowest 11% and the highest 10% segments.",
+        "• Libya's industrial production growth rate was recorded at 2.7% in the year 2009.",
+        "• The total electricity production in Libya was estimated at 24 billion kilowatt-hours (kWh) in 2007.",
+        "• In 1998, Libya's electricity production was entirely dependent on fossil fuels, accounting for 100% of the production, with no contribution from hydroelectric, nuclear, or other sources.",
+        "• Electricity consumption in Libya was estimated at 22.17 billion kWh in 2007.",
+        "• Libya exported 104 million kWh of electricity in 2007.",
+        "• Electricity imports into Libya amounted to 77 million kWh in 2007.",
+        "• The primary agricultural products of Libya include wheat, barley, olives, dates, citrus fruits, vegetables, peanuts, soybeans, cattle, and corn."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:10:27.184789",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "8",
+      "section_name": "International rankings",
+      "chapter_name": "Economy of Libya",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• According to The Economist's \"The World in 2005\" Worldwide Quality-of-Life Index, Libya was ranked 70th out of 111 countries in the year 2005.",
+        "• The Energy Information Administration ranked Libya 9th out of 20 countries in terms of greatest oil reserves by country in 2006.",
+        "• Reporters Without Borders placed Libya at 155th out of 169 countries in the Press Freedom Index for the year 2007.",
+        "• Transparency International's Corruption Perceptions Index for 2007 ranked Libya 131st out of 180 countries.",
+        "• The United Nations Development Programme ranked Libya 58th out of 177 countries on the Human Development Index in 2005."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:10:30.863048",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_libya.json",
+      "original_index": 10
+    }
+  ]
+}

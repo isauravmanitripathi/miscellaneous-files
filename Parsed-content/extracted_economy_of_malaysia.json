@@ -1,0 +1,985 @@
+{
+  "extraction_info": {
+    "source_file": "economy_of_malaysia.json",
+    "extraction_timestamp": "2025-08-02T17:13:28.325133",
+    "total_sections_in_source": 39,
+    "extracted_sections_count": 39,
+    "skipped_sections_count": 0
+  },
+  "sections": [
+    {
+      "section_number": "1",
+      "section_name": "Introduction",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The economy of Malaysia is characterized as an emerging and developing, upper-middle income, highly industrialized, mixed economy.",
+        "• Malaysia ranks as the 36th largest economy globally by nominal GDP, and 30th largest when measured by purchasing power parity (PPP).",
+        "• By the end of 2024, Malaysia’s nominal GDP is forecasted to approach nearly half a trillion US dollars.",
+        "• Malaysian labor productivity is ranked 62nd highest worldwide, significantly surpassing that of China, Indonesia, Vietnam, and the Philippines.",
+        "• Malaysia outperforms peers within its income group in business competitiveness and innovation.",
+        "• According to the Global Competitiveness Report 2024, Malaysia is ranked as the 34th most competitive economy globally.",
+        "• The Global Innovation Index 2024 places Malaysia as the 33rd most innovative nation in the world.",
+        "• Malaysia is the 35th most trade-intensive economy globally, with total trade activities amounting to 132% of its GDP, exceeding countries such as Denmark, Norway, Germany, and Sweden.",
+        "• The Malaysian economy has developed both vertical and horizontal integration across multiple export-linked industries.",
+        "• Malaysia holds significant global market shares in manufactured products and commodities including integrated circuits, semiconductors, palm oil, and liquefied natural gas.",
+        "• Malaysia is a critical hub in the global semiconductor market, ranking as the third largest exporter of semiconductor devices worldwide.",
+        "• The country has announced plans to attract over US$100 billion in investment for its semiconductor industry to establish itself as a global manufacturing hub.",
+        "• By mid-2024, Malaysia attracted substantial foreign direct investment (FDI) driven by the global artificial intelligence boom.",
+        "• Major foreign technology companies such as Google, Microsoft, and ByteDance invested US$2 billion, US$2.2 billion, and US$2.1 billion respectively in Malaysia.",
+        "• These investments leverage Malaysia’s competitive advantages including a highly educated workforce, inexpensive land acquisition, low water and electricity costs, and absence of natural disasters.",
+        "• Malaysia is expected to consolidate its position as a cloud computing hub for wider Asia, enhancing its high-value sectors and advancing its government’s high-income economy objectives.",
+        "• The Malaysian economy is robust and diversified, with the export value of high-tech products reaching approximately US$66 billion in 2022, ranking third highest in ASEAN.",
+        "• Malaysia is the world’s second largest exporter of palm oil products by volume and value, following Indonesia.",
+        "• Malaysians enjoy a relatively affluent lifestyle compared to many Southeast Asian neighbors, attributed to a fast-growing export-oriented economy, relatively low national income tax, affordable local food and transport fuel, and a fully subsidized single-payer public healthcare system.",
+        "• Malaysia’s economy is classified as a newly industrialized market economy that is relatively open and state-oriented."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:22:34.338212",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 20
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 0
+    },
+    {
+      "section_number": "1",
+      "section_name": "History",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia, as one of the three countries controlling the strategic Strait of Malacca, has an economy significantly influenced by international trade, historically being the world's largest producer of tin, rubber, and palm oil.",
+        "• Manufacturing constitutes a major component of Malaysia’s economy, contributing over 40% to the country’s Gross Domestic Product (GDP).",
+        "• In the 1980s, Malaysia emulated the economic development strategies of the Four Asian Tigers—Hong Kong, Singapore, South Korea, and Taiwan—shifting from a mining and agriculture-based economy to one focused on manufacturing and industrialization.",
+        "• The transition in the 1980s marked a move towards a multi-sector economy, with the industrial sector becoming the primary driver of Malaysia’s economic growth, supported by substantial investment, particularly from Japan, which fostered the growth of heavy industries.",
+        "• During the 1980s and 1990s, Malaysia consistently achieved GDP growth rates exceeding 7% annually, accompanied by low inflation rates.",
+        "• In 1991, Prime Minister Mahathir Mohamad introduced Vision 2020, aiming for Malaysia to become a self-sufficient, fully industrialized nation by the year 2020.",
+        "• In 2013, Tan Sri Nor Mohamed Yakcop, Minister in the Prime Minister’s Department, projected that Malaysia could attain developed country status by 2018, contingent on sustained or increased economic growth.",
+        "• In 2023, the Malaysian government launched the New Industrial Master Plan (NIMP) 2030, an industrial policy designed to guide the manufacturing sector’s expansion with targets to increase its GDP contribution from RM364.1 billion to RM587.5 billion, raise employment from 2.7 million to 3.3 million persons, and boost the median salary from RM1,976 to RM4,510 by 2030.",
+        "• Malaysia experienced rapid economic development and a boom in the late 20th century, achieving a nominal GDP per capita of US$11,648.70 in 2023, classifying it as a newly industrialized country.",
+        "• In 2009, Malaysia’s GDP (Purchasing Power Parity) was US$378.5 billion with a GDP per capita (PPP) of US$13,468, approximately one-third of the 2023 nominal GDP per capita figure.",
+        "• The 2022 Household Income Survey revealed that Malaysia had 7.9 million households with an average household size of 3.8 members, and the average monthly household income rose by 69.6% from RM5,000 in 2012 to RM8,479 in 2022.",
+        "• A 2012 HSBC report forecasted Malaysia to become the world’s 21st largest economy by 2050, with a GDP of US$1.2 trillion and a GDP per capita of US$29,247 (both in Year 2000 dollars), attributing this growth to sectors such as electronic equipment, petroleum, and liquefied natural gas production.",
+        "• The HSBC report also highlighted Malaysia’s relatively high life expectancy, above-average fertility rate, and elevated educational attainment as factors contributing to its rapid economic expansion.",
+        "• Viktor Shvets, Managing Director at Credit Suisse, affirmed that Malaysia possesses all necessary elements to achieve developed nation status.",
+        "• The Malaysian economy was severely impacted by the COVID-19 pandemic beginning in early 2020, resulting in an economic shutdown and the worst downturn since 2008.",
+        "• In December 2020, Fitch Ratings downgraded Malaysia’s credit rating from A− to BBB+, with some analysts such as Hoo Ke Ping of the Kingsley Strategic Institute attributing the downgrade to poor communication between the new government and the ratings agency.",
+        "• Other commentators, including Carmelo Ferlito from the Centre for Market Education, suggested the downgrade reflected a lack of a clear recovery strategy and unresolved political tensions, while Shan Saeed of Juwai IQI questioned the relevance of the ratings agency’s analysis, describing it as \"behind the curve.\"",
+        "• The COVID-19 induced recession in Malaysia concluded by 1 April 2022, as the Omicron variant infection rates declined, signaling the transition towards the endemic phase of the pandemic."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:22:50.005472",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 18
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 1
+    },
+    {
+      "section_number": "1.1",
+      "section_name": "Monetary policy",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Prior to the 1997 Asian Financial Crisis, the Malaysian Ringgit (MYR) operated as a floating currency, trading at approximately RM2.50 to the US dollar.",
+        "• During the crisis, speculative activities caused the Ringgit to depreciate sharply, falling to as low as RM4.10 to the US dollar within a matter of weeks.",
+        "• In response, then Prime Minister Mahathir Mohamad made an executive decision to peg the MYR to the US dollar and implement capital controls to prevent excessive outflows of the Ringgit in the open market.",
+        "• The Ringgit was officially pegged at a fixed rate of RM3.80 to the US dollar.",
+        "• Under the capital control measures, travelers were required to declare to Bank Negara Malaysia if they intended to take out more than RM10,000 in Ringgit from the country.",
+        "• The fixed exchange rate regime was maintained until July 2005, when it was abandoned in favor of a floating exchange rate system, coinciding with China’s announcement of a similar move.",
+        "• At the time of the float in 2005, the Ringgit was still not internationalized, meaning it was not widely used or accepted outside Malaysia.",
+        "• Following the reintroduction of the floating exchange rate, the Ringgit strengthened, reaching RM3.18 to the US dollar by March 2008 and appreciating further to as low as RM2.94 to the US dollar in May 2011.",
+        "• Concurrently, Bank Negara Malaysia gradually relaxed many aspects of the capital controls imposed during the crisis period.",
+        "• Despite these relaxations, the Malaysian government has maintained a policy of not internationalizing the Ringgit, stating that internationalization will occur only when the currency and economy are deemed ready.",
+        "• Currently, Bank Negara Malaysia employs interest rate targeting as its primary monetary policy tool.",
+        "• The central bank’s key policy instrument is the Overnight Policy Rate (OPR), which is used to guide short-term interbank interest rates.",
+        "• The manipulation of the OPR aims to influence broader economic variables such as inflation and economic growth within Malaysia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:22:58.722187",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 2
+    },
+    {
+      "section_number": "1.2",
+      "section_name": "Affirmative action",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tun Abdul Razak, then Prime Minister of Malaysia, implemented the affirmative action policy known as the New Economic Policy (NEP) shortly after the 13 May Incident in 1969.",
+        "• Prior to the 1969 incident, poverty rates among Malays were extremely high at 65%, and there was significant racial discontent, particularly towards the Chinese community, which controlled 74% of the Malaysian economy at that time.",
+        "• The NEP prioritized the Bumiputera majority by granting them special privileges in areas such as housing developments, scholarship admissions, and ownership of publicly listed companies.",
+        "• Established in 1971, the NEP aimed to increase Malay economic participation to a 30% share of Malaysia’s economy and to eradicate poverty among Malays primarily by encouraging enterprise ownership by Bumiputeras.",
+        "• After 40 years of the NEP, Bumiputera equity ownership had risen to 23%, valued at RM167.7 billion in 2010, compared to only 2.4% in 1970.",
+        "• The NEP faced criticism for allegedly creating an oligarchy and fostering a \"subsidy mentality\" among beneficiaries.",
+        "• Political parties such as Parti Keadilan Rakyat and the Democratic Action Party (DAP) proposed replacing the NEP with a new policy that would treat all Malaysians equally, regardless of race.",
+        "• Upon its election in the state of Penang in 2008, the DAP announced its intention to abolish the NEP, arguing that it \"breeds nepotism, corruption and systemic inefficiency.\"",
+        "• Wolfgang Kasper, a professor of economics at the University of New South Wales and former adviser to Malaysia’s Finance Ministry, criticized the NEP, stating that NEP handouts were causing Malays to become \"lazy, corrupt & swell-headed,\" and that the policy ultimately kept them poor.",
+        "• Kasper also criticized the Federal Government’s approach of providing cash handouts and financial aid instead of ensuring equal access to education to help marginalized poor Malays improve their income status.",
+        "• On 21 April 2009, Prime Minister Najib Tun Razak announced the liberalization of 27 service sub-sectors by abolishing the 30% Bumiputera ownership requirement, aiming to increase investment in Malaysia’s service sector.",
+        "• Najib Tun Razak indicated that additional sectors of the economy would be liberalized following this initial move.",
+        "• On 30 June 2009, further liberalization measures were announced, including dismantling Bumiputera equity quotas and repealing guidelines of the Foreign Investment Committee, which monitored foreign shareholding in Malaysian companies.",
+        "• Despite these reforms, Malaysian companies wishing to list on the Malaysian stock exchange were still required to offer 50% of public shareholding to Bumiputera investors."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:23:06.490458",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 3
+    },
+    {
+      "section_number": "1.3",
+      "section_name": "Subsidies and price controls",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Malaysian government subsidizes and controls prices on numerous essential items, including palm oil, cooking oil, petrol, flour, bread, rice, and other necessities, to maintain prices below market levels and keep the cost of living low.",
+        "• In 2022, government expenditure on subsidies amounted to RM70.3 billion (US$15.96 billion), with fuel subsidies alone accounting for RM52 billion (US$11.8 billion), representing 74% of the total subsidy budget.",
+        "• Since 2010, Malaysia has been gradually reforming its subsidy system by reducing subsidies on fuel and sugar to enhance government fiscal health and improve economic efficiency.",
+        "• In December 2014, the Malaysian government officially terminated all fuel subsidies and introduced a 'managed float' pricing system for fuel, capitalizing on low global oil prices at the time, which potentially saved the government nearly RM20 billion (US$5.72 billion) annually.",
+        "• On 10 June 2024, the government ended the blanket subsidies on diesel fuel that had been previously reinstated, replacing them with a more selective and targeted subsidy approach.",
+        "• Under the new diesel subsidy system, cash assistance is directly disbursed to qualified individuals, and fleet cards are provided to eligible logistics vehicles to ensure targeted support.",
+        "• Plans to remove petrol subsidies have not yet been announced but are anticipated to occur in 2025.",
+        "• The planned withdrawal of petrol subsidies will focus on the top 15% of income earners, while the remaining 85% of the population will continue to receive subsidies under the current system."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:23:11.305063",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 4
+    },
+    {
+      "section_number": "1.4",
+      "section_name": "Sovereign wealth funds",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Malaysian government owns and operates several sovereign wealth funds that invest in both local and foreign companies.",
+        "• Khazanah Nasional Berhad, established in 1993, is one such sovereign wealth fund; as of 31 December 2023, it had an asset size of RM126.2 billion (US$27.46 billion).",
+        "• Khazanah Nasional invests in major Malaysian companies across various sectors, including CIMB in banking, UEM Group in construction, Telekom Malaysia and Axiata in communications, Malaysia Airports and Malaysia Airlines in aerospace, and Tenaga Nasional in energy.",
+        "• The Employees Provident Fund (EPF) is another government-owned fund, functioning as a retirement fund; as of 31 March 2024, it had an asset size of RM1.19 trillion (US$251.61 billion).",
+        "• Overseas investments constitute 38% of EPF’s total assets, positioning it as the 4th largest pension fund in Asia and the 13th largest globally.",
+        "• EPF invests in and owns several major Malaysian companies, including RHB Bank, with a diversified portfolio where nearly 40% of investments are in the services sector.",
+        "• Permodalan Nasional Berhad (PNB) is another significant fund manager controlled by the Malaysian government, offering capital-guaranteed mutual funds such as Amanah Saham Bumiputera and Amanah Saham Wawasan 2020.",
+        "• The mutual funds managed by PNB are exclusively open to Malaysians and, in some cases, specifically to Bumiputeras."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:23:20.420311",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 5
+    },
+    {
+      "section_number": "1.5",
+      "section_name": "Government influence",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The federal government of Malaysia promotes private enterprise and ownership but exerts significant influence over the country's economic direction through five-year development plans implemented since independence.",
+        "• Key government agencies influencing the economy include the Economic Planning Unit and government-linked wealth funds such as Khazanah Nasional Berhad, the Employees Provident Fund, and Permodalan Nasional Berhad.",
+        "• The government's development plans, known as the Malaysian Plan, began in 1950 during British colonial rule and have continued to guide economic policy and growth.",
+        "• These Malaysian Plans primarily focus on accelerating economic growth by selectively investing in specific sectors and developing infrastructure to support these sectors.",
+        "• The current iteration, the Twelfth Malaysia Plan, concentrates on three main national priorities: energizing and maintaining economic empowerment, promoting environmental sustainability, and advancing social reengineering.",
+        "• Government-linked investment entities—Khazanah Nasional Berhad, Employees Provident Fund, and Permodalan Nasional Berhad—actively invest in and hold ownership stakes in companies across major sectors of the Malaysian economy."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:23:24.754717",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 6
+    },
+    {
+      "section_number": "2",
+      "section_name": "Data",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The table presents Malaysia's main economic indicators from 1980 to 2021, with International Monetary Fund (IMF) staff estimates for 2022 to 2027, including GDP in both purchasing power parity (PPP) and nominal US dollars, GDP per capita, real GDP growth, inflation rate, unemployment rate, and government debt as a percentage of GDP.",
+        "• In 1980, Malaysia's GDP was 46.3 billion US$ PPP and 26.8 billion US$ nominal, with a GDP per capita of 3,337.8 US$ PPP and 1,927.0 US$ nominal; the real GDP growth was 7.4%, inflation was 6.7%, and unemployment and government debt data were not available.",
+        "• Inflation rates below 5% are highlighted in green throughout the data, indicating periods of relatively low inflation.",
+        "• From 1980 to 1997, Malaysia experienced consistent GDP growth, with real GDP growth peaking at 10.0% in 1996 and inflation rates generally below 5%, except for 1981 (9.7%) and 1980 (6.7%).",
+        "• The unemployment rate was first recorded in 1985 at 6.9%, rising to a peak of 8.3% in 1986, then gradually declining to 2.4% by 1997.",
+        "• Government debt as a percentage of GDP was first reported in 1990 at 74.1%, decreasing steadily to 29.6% by 1997.",
+        "• The Asian Financial Crisis impacted Malaysia in 1998, with GDP contracting by -7.4%, inflation rising to 5.3%, unemployment increasing to 3.2%, and government debt rising to 33.6%.",
+        "• Post-crisis recovery saw GDP growth rebound to 6.1% in 1999 and continued growth through the early 2000s, with inflation rates remaining low (mostly below 3%) and unemployment stabilizing around 3.1% to 3.7%.",
+        "• Government debt increased gradually from 32.5% in 2000 to 42.0% in 2004 and fluctuated around 40% to 42% through 2006.",
+        "• Between 2007 and 2008, GDP growth slowed to 4.8% and 4.8%, respectively, with inflation rising to 5.4% in 2008; unemployment remained low at approximately 3.2% to 3.3%, and government debt hovered near 39%.",
+        "• The global financial crisis in 2009 caused a GDP contraction of -1.5%, inflation dropped to 0.6%, unemployment rose slightly to 3.7%, and government debt increased to 50.4%.",
+        "• From 2010 to 2014, Malaysia's economy recovered with GDP growth rates between 4.7% and 7.5%, inflation mostly below 3.2%, unemployment decreasing to 2.9%, and government debt rising gradually from 51.2% to 55.4%.",
+        "• In 2015 and 2016, GDP growth slowed to 5.0% and 4.5%, inflation remained steady at 2.1%, unemployment rose slightly to 3.5%, and government debt fluctuated around 55.8% to 57.0%.",
+        "• Between 2017 and 2019, GDP growth ranged from 4.4% to 5.8%, inflation rates stayed low (0.7% to 3.8%), unemployment remained stable at approximately 3.3% to 3.4%, and government debt increased modestly from 54.4% to 57.1%.",
+        "• The COVID-19 pandemic in 2020 caused a GDP contraction of -5.5%, deflation of -1.1%, unemployment increased to 4.5%, and government debt rose sharply to 67.7%.",
+        "• In 2021, Malaysia's GDP grew by 3.1%, inflation returned to 2.5%, unemployment slightly increased to 4.7%, and government debt further increased to 69.0%.",
+        "• IMF staff estimates from 2022 to 2027 project continued GDP growth ranging from 3.9% to 5.4%, inflation rates maintained between 2.4% and 3.2%, unemployment rates stable around 4.2% to 4.5%, and government debt gradually rising from 69.6% in 2022 to 70.6% in 2027.",
+        "• By 2027, Malaysia's GDP is projected to reach 1,522.7 billion US$ PPP and 615.0 billion US$ nominal, with GDP per capita estimated at 43,387.1 US$ PPP and 17,523.6 US$ nominal.",
+        "• The data reflects Malaysia's economic resilience and growth trajectory over four decades, including recovery from financial crises and the COVID-19 pandemic, with government debt showing a long-term upward trend since 1990."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:23:44.584277",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 19
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 7
+    },
+    {
+      "section_number": "3",
+      "section_name": "Currency",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Malaysian ringgit is the sole legal tender in Malaysia.",
+        "• As of September 2024, the exchange rate of the ringgit was MYR 4.12 to the US dollar.",
+        "• This rate represented a significant appreciation of 16.5% compared to the rate of MYR 4.80 to the US dollar recorded in February 2024.",
+        "• The Malaysian ringgit is not internationalised and is not traded on international currency markets.",
+        "• Since September 1998, following the 1997 Asian financial crisis, Malaysia imposed capital controls on the ringgit under then Prime Minister Mahathir Mohamad to curb speculative short-selling of the currency.",
+        "• As part of these capital controls, the ringgit was pegged at MYR 3.80 to the US dollar from September 1998 until July 2005.",
+        "• Prior to the peg, the ringgit had dropped from MYR 2.50 to the US dollar to as low as MYR 4.80 to the US dollar.",
+        "• In recent years, Bank Negara Malaysia, the country’s central bank, has begun to relax some capital control regulations, although the ringgit remains non-internationalised.",
+        "• The Governor of Bank Negara Malaysia has stated that the ringgit will be internationalised only when it is deemed ready.",
+        "• In September 2010, Dato' Seri Najib Tun Razak, then Prime Minister and Finance Minister of Malaysia, expressed openness to allowing offshore trading of the ringgit if it would benefit the Malaysian economy.",
+        "• Najib emphasized that before permitting offshore trading, the government would ensure that appropriate rules and regulations were established to prevent abuse of the currency."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:23:54.109538",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 8
+    },
+    {
+      "section_number": "4",
+      "section_name": "Natural resources",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia possesses abundant natural resources across agriculture, forestry, and minerals, making it a significant exporter of natural and agricultural commodities, with petroleum being the most valuable exported resource.",
+        "• In the agricultural sector, Malaysia ranks among the top global exporters of natural rubber and palm oil; these, along with timber and timber products, cocoa, pepper, pineapple, and tobacco, are the primary contributors to the sector's growth.",
+        "• As of 2023, arable land constituted 9.7% of Malaysia's total land area, croplands accounted for 17.49%, and other land uses made up 77.07%.",
+        "• Irrigated land covered an area of 3,800 square kilometers as of 2009, supporting agricultural productivity.",
+        "• Malaysia's total renewable water resources were estimated at 580 cubic kilometers as of 2011, indicating substantial water availability for various uses.",
+        "• Tin and petroleum are the two principal mineral resources with major economic significance in Malaysia; historically, Malaysia was the world's largest tin producer until the tin market collapse in the early 1980s.",
+        "• During the 19th and 20th centuries, tin was a dominant economic driver, with Malaysia contributing over 31% of global tin output.",
+        "• In 1972, petroleum and natural gas surpassed tin as the leading mineral extraction sector in Malaysia, marking a shift in the country's resource economy.",
+        "• Other minerals of economic importance include copper, bauxite, iron ore, and coal, alongside industrial minerals such as clay, kaolin, silica, limestone, barite, phosphates, and dimension stones like granite, as well as marble blocks and slabs.",
+        "• Malaysia produces small quantities of gold, adding to its mineral resource diversity.",
+        "• In 2019, Malaysia ranked as the 11th largest global producer of manganese and tin, the 12th largest producer of bauxite, and the 19th largest producer of lime, reflecting its continued significance in the global mineral market."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:03.346853",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 9
+    },
+    {
+      "section_number": "4.1",
+      "section_name": "Energy resources",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• As of January 2022, Malaysia possessed proven oil reserves totaling 6.9 billion barrels, ranking it fourth in the Asia-Pacific region behind China, India, and Vietnam.",
+        "• The vast majority of Malaysia's oil production originates from offshore fields, with the continental shelf divided into three main producing basins: the basin offshore Eastern Peninsular Malaysia in the west, and the Sarawak and Sabah basins in the east.",
+        "• The bulk of Malaysia's oil reserves are situated in the Peninsular basin, characterized predominantly by light and sweet crude oil.",
+        "• Malaysia's benchmark crude oil, known as Tapis Blend, is classified as a light and sweet crude, possessing an API gravity of 42.7° and a sulphur content of 0.04% by weight.",
+        "• By 2021, Malaysia held proven natural gas reserves amounting to 87.8 trillion cubic feet (Tcf), making it the third-largest natural gas reserve holder in the Asia-Pacific region after China and Indonesia.",
+        "• Over 50% of Malaysia's natural gas reserves are located in the eastern regions of the country, primarily offshore Sarawak.",
+        "• The majority of Malaysia's natural gas reserves are associated with oil basins; however, the Sarawak and Sabah basins have seen a growing quantity of non-associated gas reserves.",
+        "• The increase in non-associated gas reserves in Sarawak and Sabah has helped to offset declines in reserves from mature oil and gas basins located offshore Peninsular Malaysia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:07.832034",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 10
+    },
+    {
+      "section_number": "5",
+      "section_name": "Business environment",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2015, Malaysia's economy was recognized as one of the most competitive globally, achieving a ranking of 14th worldwide and 5th among countries with populations exceeding 20 million, surpassing nations such as Australia, the United Kingdom, South Korea, and Japan.",
+        "• In the same year, 2015, Malaysia was identified as the 6th most attractive country for foreign investors according to the Baseline Profitability Index (BPI) published by Foreign Policy Magazine.",
+        "• The Malaysian government has initiated efforts to create a more business-friendly environment by establishing a special task force named PEMUDAH, which translates to \"simplifier\" in Malay, aimed at facilitating business operations.",
+        "• Key initiatives by PEMUDAH include easing restrictions and requirements related to hiring expatriates, reducing the time required to complete land transfers, and increasing the allowable limit for sugar storage, which is a controlled commodity in Malaysia, for companies.",
+        "• Malaysia improved its position in the Global Innovation Index, moving from 35th place in 2019 to 33rd place in 2020."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:11.773679",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 11
+    },
+    {
+      "section_number": "6",
+      "section_name": "Taxation",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2016, the Inland Revenue Board of Malaysia reduced the effective corporate tax rate to 24% for businesses with capital exceeding RM2.5 million, which is approximately US$550,000.",
+        "• For smaller companies with capital below RM2.5 million, the effective tax rate was set at 19% in 2016 by the Inland Revenue Board of Malaysia.",
+        "• The Malaysian government imposes additional government taxes including the Sales and Services Tax (SST) and real estate taxes.",
+        "• The current rate of the Sales and Services Tax (SST) in Malaysia is fixed at 6%.",
+        "• Disposal of property in Malaysia is subject to real estate taxes, which are calculated based on a schedule related to the holding period of the property."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:15.125070",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 12
+    },
+    {
+      "section_number": "7",
+      "section_name": "External trade",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2021, Malaysia's total external trade amounted to RM2,227 billion (approximately US$530 billion), comprising RM1,239 billion (approximately US$295 billion) in exports and RM987 billion (approximately US$235 billion) in imports, positioning Malaysia as the world's 21st largest exporter and 25th largest importer.",
+        "• China is Malaysia's largest trading partner, with Malaysia being China's top trading partner within ASEAN for five consecutive years since 2008.",
+        "• The two-way trade volume between China and Malaysia reached US$106 billion in 2013, making Malaysia China's third-largest trade partner in Asia after Japan and South Korea, and the eighth largest globally.",
+        "• On 31 May 2014, during Malaysian Prime Minister Najib Razak's visit to China, where he was received by Chinese Premier Li Keqiang, both countries pledged to increase bilateral trade to US$160 billion by 2017.",
+        "• During the 2014 visit, Malaysia and China agreed to enhance economic and financial cooperation, focusing particularly on halal food production, water processing, and railway construction.",
+        "• Malaysia's second largest trading partner is Singapore, with bilateral trade totaling approximately US$91 billion in 2012, which accounted for over one-fifth of total trade within ASEAN.",
+        "• Malaysia ranks as Singapore's biggest trading partner, reflecting the strong trade ties between the two nations.",
+        "• Japan is Malaysia's third largest trading partner, with total trade amounting to RM137.45 billion (US$42 billion) in 2014, marking a 1.4% increase compared to 2013.",
+        "• In 2014, Malaysian exports to Japan were valued at RM82.71 billion (US$25.6 billion), showing a growth of 4.4%, while imports from Japan decreased by 2.9% to RM54.75 billion (US$16.74 billion).",
+        "• According to Malaysian Ambassador to Japan Datuk Ahmad Izlan Idris, Malaysia’s main exports to Japan include liquefied natural gas (LNG), electrical and electronics products, and chemical-based products.",
+        "• Malaysia’s primary imports from Japan consist of electrical and electronics goods, machinery and equipment, as well as spare parts and accessories for vehicles and cars.",
+        "• Malaysia is a significant trading partner for the United States; in 1999, bilateral trade between the US and Malaysia totaled US$30.5 billion.",
+        "• In 1999, US exports to Malaysia amounted to US$9.1 billion, while US imports from Malaysia increased to US$21.4 billion.",
+        "• Malaysia was the United States' 10th-largest trading partner and its 12th-largest export market as of 1999.",
+        "• During the first half of 2000, US exports to Malaysia reached US$5 billion, and US imports from Malaysia totaled US$11.6 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:28.310985",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 15
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 13
+    },
+    {
+      "section_number": "7.1",
+      "section_name": "Statistics",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2023, Malaysia's goods exports amounted to $231.4 billion, goods imports were $201.5 billion, resulting in a net trade surplus of $30.0 billion.",
+        "• In 2020, goods exports were valued at $186.1 billion, goods imports at $153.2 billion, with a net trade surplus of $32.8 billion.",
+        "• In 2015, Malaysia recorded goods exports of $174.6 billion and goods imports of $146.7 billion, yielding a net trade surplus of $27.9 billion.",
+        "• In 2010, goods exports reached $187.3 billion, goods imports were $148.9 billion, and the net trade surplus stood at $28.4 billion.",
+        "• In 2005, goods exports totaled $141.6 billion, goods imports were $108.7 billion, producing a net trade surplus of $33.0 billion.",
+        "• In 2000, Malaysia's goods exports were $98.2 billion, goods imports were $77.5 billion, with a net trade surplus of $20.7 billion.",
+        "• In 1990, goods exports amounted to $28.8 billion, goods imports were $26.3 billion, resulting in a net trade surplus of $2.5 billion.",
+        "• In 1980, goods exports were valued at $13.0 billion, goods imports at $10.6 billion, with a net trade surplus of $2.3 billion.",
+        "• In 1975, Malaysia's goods exports stood at $3.8 billion, goods imports at $3.6 billion, and the net trade surplus was $0.2 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:36.298416",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 14
+    },
+    {
+      "section_number": "8",
+      "section_name": "Agriculture sector",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Agriculture constituted 7.1% of Malaysia's Gross Domestic Product (GDP) in 2014, indicating its status as a minor sector within the national economy at that time.",
+        "• In 2014, the agricultural sector employed 11.1% of Malaysia's total labour force, reflecting a significant decline in agricultural employment compared to earlier decades.",
+        "• During the 1960s, agriculture was a dominant sector in Malaysia, accounting for 37% of the country's GDP and employing 66.2% of the labour force, demonstrating a major shift in economic structure over subsequent decades.",
+        "• The composition of crops cultivated in Malaysia's agricultural sector has transitioned markedly from primarily food crops, such as paddy (rice) and coconut, to industrial crops.",
+        "• By 2005, industrial crops, specifically palm oil and rubber, occupied 83.7% of the total agricultural land use in Malaysia, showing a substantial increase from 68.5% in 1960.",
+        "• This shift towards industrial crops like palm oil and rubber reflects changes in agricultural priorities and land use patterns in Malaysia over the latter half of the 20th century and into the 21st century."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:41.725065",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 15
+    },
+    {
+      "section_number": "8.1",
+      "section_name": "Palm Oil Industry",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2012, Malaysia was the world's second largest producer of palm oil, producing 18.79 million tonnes of crude palm oil on approximately 5,000,000 hectares (19,000 square miles) of land, despite palm oil contributing only a minor share to Malaysia's GDP.",
+        "• Although Indonesia produces a greater volume of palm oil than Malaysia, Malaysia holds the position of the world's largest exporter of palm oil, having exported 18 million tonnes of palm oil products in 2011.",
+        "• In March 2019, the European Commission determined that palm oil cultivation causes excessive deforestation and recommended phasing out its use in transport fuel by the year 2030.",
+        "• In response to the European Commission's decision, then Malaysian Prime Minister Mahathir Mohamad criticized the European Union's policies as \"grossly unfair,\" warning that such measures could provoke a trade war between Malaysia and the EU.",
+        "• Mahathir Mohamad described the EU's stance on reducing palm oil usage as unfair and characterized it as an example of \"rich people...[trying] to impoverish poor people,\" highlighting the socio-economic implications for Malaysia.",
+        "• In July 2024, Hong Wai Onn, affiliated with the Research Institute for Sustainable Excellence and Leadership, challenged the European Union’s classification of palm oil as a high indirect land use change (ILUC) risk biofuel, labeling this classification as flawed.",
+        "• Hong Wai Onn advocated for a reevaluation of ILUC factors to achieve more precise measurements of carbon intensity associated with palm oil biofuels.",
+        "• He argued that disregarding the need to reassess ILUC factors unjustly restricts palm oil’s potential as a low ILUC-risk biofuel and undermines its contribution to global climate change mitigation efforts."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:46.743410",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 16
+    },
+    {
+      "section_number": "9",
+      "section_name": "Industry sector",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Science policies in Malaysia are regulated by the Ministry of Science, Technology, and Innovation, which oversees the development and implementation of scientific and technological initiatives in the country.",
+        "• Malaysia is recognized as one of the world's largest exporters of semiconductor devices, electrical devices, and information technology (IT) and communication products, highlighting its significant role in the global electronics market.",
+        "• In 2014, Malaysia's industrial sector contributed 36.8% to the national Gross Domestic Product (GDP), representing over one-third of the country's economic output.",
+        "• The industrial sector employed 36% of Malaysia's labor force as of 2012, indicating its importance as a major source of employment within the country.",
+        "• Key components of Malaysia's industrial sector include the electronics industry, which is a primary contributor to industrial output and exports.",
+        "• The automotive industry is another significant segment within Malaysia's industrial sector, contributing to both domestic manufacturing and export activities.",
+        "• The construction industry also plays a vital role in the industrial sector, supporting infrastructure development and economic growth in Malaysia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:52.375345",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 17
+    },
+    {
+      "section_number": "9.1",
+      "section_name": "Electrical and electronics",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The electrical and electronics (E&E) industry is the leading sector within Malaysia's manufacturing industry, playing a crucial role in the nation's economic framework.",
+        "• In 2023, the E&E industry accounted for 40% of Malaysia's total export output, underscoring its significance in the country's trade activities.",
+        "• The sector contributes approximately 5.8% to Malaysia's Gross Domestic Product (GDP) as of 2023, highlighting its substantial impact on the national economy.",
+        "• Malaysia produces 13% of the global supply of back-end semiconductors, positioning the country as a key player in the global semiconductor manufacturing landscape.",
+        "• The industry benefits from strong global demand driven by the widespread use of mobile devices, including smartphones and tablets, which are integral to modern communication technologies.",
+        "• Storage devices such as those used in cloud computing and data centers also contribute to the demand for Malaysia’s E&E products, reflecting the growth of digital infrastructure worldwide.",
+        "• The E&E sector in Malaysia encompasses optoelectronics, including photonics, fibre optics, and light-emitting diodes (LEDs), which are critical components in advanced electronic and communication systems.",
+        "• Embedded technology, including integrated circuits, printed circuit boards (PCBs), and LEDs, forms a significant part of the industry’s product portfolio, supporting various high-tech applications."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:24:59.032040",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 18
+    },
+    {
+      "section_number": "9.1.1",
+      "section_name": "Electronic components",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The electronic components sub-sector in Malaysia encompasses products and activities including semiconductor devices, passive components, printed circuits, and other components such as media, substrates, and connectors.",
+        "• Within the electronic components sub-sector, semiconductor devices represent the leading contributor to exports in Malaysia's Electrical and Electronics (E&E) industry.",
+        "• In 2013, exports of semiconductor devices amounted to RM111.19 billion, accounting for 47% of the total E&E products exported from Malaysia.",
+        "• Malaysia serves as a major hub for electrical component manufacturing, hosting factories of numerous international companies such as Intel, AMD, Freescale Semiconductor, ASE, Infineon, STMicroelectronics, Texas Instruments, Fairchild Semiconductor, Renesas, and X-Fab.",
+        "• In addition to multinational corporations, significant Malaysian-owned companies including Green Packet, Silterra, Globetronics, Unisem, and Inari have played a crucial role in the steady growth of Malaysia’s semiconductor industry.",
+        "• Currently, there are more than 50 companies operating in Malaysia that produce semiconductor devices, with the majority being multinational corporations (MNCs)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:25:04.150495",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 19
+    },
+    {
+      "section_number": "9.1.2",
+      "section_name": "Photovoltaics",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia serves as a major global hub for solar equipment manufacturing, hosting factories of prominent companies including First Solar, Panasonic, TS Solartech, Jinko Solar, JA Solar, SunPower, Hanwha Q Cells, and SunEdison.",
+        "• Key manufacturing locations in Malaysia include Kulim, Penang, Malacca, Cyberjaya, and Ipoh, which collectively support the country’s photovoltaic industry.",
+        "• First Solar operates a significant factory in Kulim, Malaysia, contributing substantially to the country's solar manufacturing capacity.",
+        "• In 2013, Malaysia’s total production capacity for solar wafers, solar cells, and solar panels reached 4,042 megawatts (MW).",
+        "• By 2014, Malaysia had become the world’s third largest manufacturer of photovoltaic equipment, ranking behind only China and the European Union in production capacity.",
+        "• Several international companies maintain the majority of their photovoltaic production capacity in Malaysia rather than in their home countries.",
+        "• The American company First Solar has over 2,000 MW of its production capacity located in Kulim, Malaysia, compared to only 280 MW in Ohio, USA.",
+        "• Hanwha Q Cells, formerly a German-based company, produces 1,100 MW worth of solar cells in Cyberjaya, Malaysia, while its production in Germany is limited to 200 MW.",
+        "• SunPower’s largest manufacturing facility, with a capacity of 1,400 MW, is situated in Malacca, Malaysia, underscoring the country’s importance in the global solar manufacturing sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:25:10.846261",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 20
+    },
+    {
+      "section_number": "9.2",
+      "section_name": "Automotive",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Proton Prevé is a vehicle manufactured by the Malaysian car company Proton.",
+        "• Malaysia's automotive industry comprises 27 vehicle producers and more than 640 component manufacturers.",
+        "• The Malaysian automotive sector ranks as the third largest in Southeast Asia and the 23rd largest globally, with an annual production output exceeding 500,000 vehicles.",
+        "• The automotive industry contributes approximately 4% to Malaysia's Gross Domestic Product (GDP), equivalent to RM 40 billion.",
+        "• The industry employs over 700,000 workers across a comprehensive nationwide ecosystem.",
+        "• Malaysia is the only country in Southeast Asia to have indigenous car manufacturers, specifically Proton and Perodua.",
+        "• In 2002, Proton enabled Malaysia to become the 11th country worldwide capable of fully designing, engineering, and manufacturing cars independently from the ground up.",
+        "• The Malaysian automotive industry includes several domestic-foreign joint ventures that assemble a wide range of vehicles using imported complete knock down (CKD) kits.",
+        "• Carsome, Malaysia's first technology unicorn startup and an automotive e-commerce platform, secured $290 million in a Series E funding round.",
+        "• The funding aims to expand Carsome’s product offerings, technology, and infrastructure across Malaysia, Indonesia, and Thailand.",
+        "• This latest investment values Carsome, a used-car online marketplace, at $1.7 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:25:17.560091",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 11
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 21
+    },
+    {
+      "section_number": "9.3",
+      "section_name": "Construction",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia's construction industry is valued at over RM102.2 billion (US$32 billion), reflecting its significant role in the national economy.",
+        "• The construction sector's highest percentage share is from non-residential buildings, which constitute 34.6% of the total construction value.",
+        "• The civil engineering sub-sector contributes 30.6% to the construction industry, making it the second-largest segment.",
+        "• Residential buildings account for 29.7% of the construction industry's total value, ranking third among sub-sectors.",
+        "• Special trades represent the smallest share within the construction industry at 5.1%.",
+        "• Among Malaysian states, Selangor leads with the highest value of construction work done, contributing 24.5% of the national total.",
+        "• Johor follows as the second-highest contributor with 16.5% of the total construction work value.",
+        "• Kuala Lumpur ranks third, accounting for 15.8% of the construction industry's total value.",
+        "• Sarawak contributes 8.6% to the total value of construction work in Malaysia.",
+        "• Penang holds a 6.4% share of the total construction work value among the states.",
+        "• Collectively, Selangor, Johor, Kuala Lumpur, Sarawak, and Penang contribute 71.8% of Malaysia's total construction work value.",
+        "• The growth and expansion of Malaysia's construction industry have been driven by major capital expenditure projects.",
+        "• A significant catalyst for industry expansion is the government's Economic Transformation Programme (ETP), aimed at accelerating economic growth.",
+        "• Public-private partnership (PPP) mega-projects such as the Tun Razak Exchange, Klang Valley Mass Rapid Transit (KVMRT), and Iskandar Malaysia have played key roles in stimulating the construction sector."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:25:23.726820",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 22
+    },
+    {
+      "section_number": "9.4",
+      "section_name": "Defence",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia’s defence industry is relatively new, established following the creation of the Malaysia Defence Industry Council in 1999, which was formed to encourage local companies to participate in the national defence sector.",
+        "• The land defence sector in Malaysia is primarily dominated by DefTech, a subsidiary of DRB-HICOM, Malaysia’s largest automotive manufacturer, specializing in the production of armoured vehicles and specialised logistics vehicles.",
+        "• DefTech has previously supplied ACV-15 infantry fighting vehicles to the Malaysian Army and is currently providing the DefTech AV8 amphibious multirole armoured vehicle to the Malaysian Army.",
+        "• The maritime defence sector is led by Boustead Heavy Industries, which constructs warships for the Royal Malaysian Navy (RMN) through technology transfer agreements with foreign companies.",
+        "• Boustead Heavy Industries has built four Kedah-class offshore patrol vessels for the RMN and is presently engaged in a project to build six additional Second Generation Patrol Vessels for the RMN."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:25:29.136324",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 23
+    },
+    {
+      "section_number": "9.5",
+      "section_name": "Finance and banking",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Kuala Lumpur hosts a large financial sector and is ranked 22nd globally in the Global Financial Centres Index.",
+        "• Malaysia's banking system comprises 27 commercial banks (8 domestic and 19 foreign), 16 Islamic banks (10 domestic and 6 foreign), 15 investment banks (all domestic), and 2 other financial institutions (both domestic).",
+        "• Commercial banks are the largest and most significant providers of funds within Malaysia's banking system.",
+        "• The largest banks in Malaysia’s financial sector include Maybank, CIMB, Public Bank Berhad, followed by RHB Bank, Hong Leong Bank, and AmBank.",
+        "• Malaysia is the world’s largest center for Islamic Finance, with 16 fully-fledged Islamic banks, including five foreign-owned institutions.",
+        "• Total Islamic bank assets in Malaysia amount to US$168.4 billion, representing 25% of Malaysia’s total banking assets.",
+        "• Malaysia’s Islamic banking assets constitute over 10% of the world’s total Islamic banking assets.",
+        "• The United Arab Emirates (UAE), Malaysia’s main rival in Islamic finance, holds US$95 billion in Islamic banking assets.",
+        "• Malaysia leads globally in the sukuk (Islamic bond) market, issuing RM62 billion (US$17.74 billion) worth of sukuk in 2014, which accounted for over 66.7% of the global sukuk issuance total of US$26.6 billion.",
+        "• Malaysia controls approximately two-thirds of the global outstanding sukuk market, holding US$178 billion out of the US$290 billion global total.",
+        "• The Malaysian government plans to transform Kuala Lumpur into a major financial center through the construction of the Tun Razak Exchange (TRX), aiming to enhance international trade and investment.",
+        "• The TRX project is intended to enable Malaysia to compete with regional financial hubs such as Singapore and Hong Kong by leveraging its established strength in the Islamic financial marketplace.",
+        "• Bursa Malaysia, based in Kuala Lumpur, is the country’s sole national stock exchange, with share trading commencing in 1960.",
+        "• Bursa Malaysia is currently one of the largest stock exchanges in Southeast Asia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:25:39.344705",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 24
+    },
+    {
+      "section_number": "9.6",
+      "section_name": "Tourism",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Tourism constitutes a significant sector of the Malaysian economy, with 20.14 million tourists generating RM71.3 billion (US$15.5 billion) in tourist receipts in 2023.",
+        "• Total tourist receipts in 2023 increased by 9% compared to the 2013 figure of RM65.4 billion (US$20 billion).",
+        "• Malaysia is ranked as the 14th most visited country in the world in 2024, attracting 26.1 million tourists.",
+        "• The country is endowed with diverse natural attractions, which serve as a key asset to its tourism industry.",
+        "• The World Travel & Tourism Council (WTTC) recognized Malaysia as \"a destination full of unrealised potential,\" highlighting its main strengths as a vast range of diverse attractions catering to all tastes, relatively affordable prices, and largely unspoilt destinations.",
+        "• Malaysia’s top tourist destinations include the Mulu Caves, Perhentian Islands, Langkawi, Petronas Towers, and Mount Kinabalu."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:25:43.852787",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 6
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 25
+    },
+    {
+      "section_number": "9.6.1",
+      "section_name": "Medical tourism",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2022, approximately 850,000 individuals traveled to Malaysia specifically for medical treatments, generating RM1.3 billion (US$295 million) in revenue for the Malaysian economy.",
+        "• The 2022 medical tourism figures represent a decline from pre-pandemic levels, where 1.2 million medical tourists contributed RM1.7 billion (US$416 million) in revenue.",
+        "• The Malaysia Healthcare Travel Council (MHTC) projects that by 2024, medical tourism revenue will exceed previous figures, expecting RM2.4 billion (US$558 million) in earnings.",
+        "• Malaysia is widely regarded as one of the most preferred destinations for medical tourism due to its modern private healthcare facilities and highly efficient medical professionals.",
+        "• In 2014, Malaysia was ranked the world's best destination for medical tourism by Nomad Capitalist.",
+        "• Malaysia has also been consistently included in the top 10 medical tourism destinations globally, as recognized by CNBC.",
+        "• Prince Court Medical Centre, a Malaysian hospital, was ranked the world's best hospital for medical tourists in 2014 by the Medical Travel Quality Alliance (MTQUA).",
+        "• The Malaysia Healthcare Travel Council (MHTC) announced that two Malaysian hospitals, Gleneagles Kuala Lumpur and Sunway Medical Centre, were recognized in Newsweek & Statista's World's Best Hospitals 2024 list.",
+        "• Tuaran Hospital in Sabah is mentioned in the context of Malaysia’s healthcare infrastructure supporting medical tourism."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:25:50.539095",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 26
+    },
+    {
+      "section_number": "9.7",
+      "section_name": "Oil and gas",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia possesses a vibrant oil and gas industry, with the national oil company Petronas playing a central role in the sector.",
+        "• Petronas was ranked 216th in the Fortune 500 list in 2022, reflecting its significant global standing among corporations.",
+        "• In the first half of 2024, Petronas generated revenue exceeding RM171 billion (US$36.5 billion) and held total assets valued at over RM798 billion (US$169 billion).",
+        "• Between 2018 and 2023, Petronas contributed more than 20% of the Malaysian government's revenue, underscoring its importance to national finances.",
+        "• The Malaysian government has been actively reducing its dependence on petroleum revenues, with expected contributions of approximately RM32 billion (around US$7 billion) from Petronas and RM64 billion (US$13.9 billion) from petroleum-derived revenues in recent years.",
+        "• Petroleum-derived revenues have declined from RM69.8 billion (US$15.2 billion) to RM64 billion (US$13.9 billion), indicating a strategic shift in government revenue sources.",
+        "• Petronas serves as the custodian of Malaysia’s oil and gas reserves, holding regulatory authority over all oil and gas activities within the country.",
+        "• Malaysia promotes foreign oil company participation through production sharing contracts, wherein foreign companies receive a significant portion of oil production until predetermined production milestones are achieved.",
+        "• Major international oil companies involved in Malaysia’s production sharing contracts include ExxonMobil, Royal Dutch Shell, Nippon Oil, and Murphy Oil.",
+        "• Approximately 40% of Malaysia’s oil fields are currently developed under these production sharing arrangements.",
+        "• The Malaysian oil and gas sector comprises over 3,500 businesses, including international oil companies, independent firms, and service and manufacturing companies that support the entire oil and gas value chain domestically and regionally.",
+        "• Numerous major global machinery and equipment (M&E) manufacturers have established operations in Malaysia to complement local M&E companies.",
+        "• Malaysian oil and gas companies focus on strategic segments such as marine services, drilling, engineering, fabrication, offshore installation, and operations and maintenance (O&M)."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:02.113474",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 13
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 27
+    },
+    {
+      "section_number": "10",
+      "section_name": "Infrastructure",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia's infrastructure is recognized as one of the most developed in Asia, reflecting significant advancements in various sectors.",
+        "• In 2016, Malaysia was ranked 18th out of 140 countries in the World Economic Forum's Global Competitiveness Report, marking it as the highest-ranked developing economy in Asia.",
+        "• Malaysia's telecommunications network is the second most advanced in Southeast Asia, surpassed only by Singapore.",
+        "• As of 2023, Malaysia had 4.5 million fixed-broadband subscribers, 8.4 million fixed-line subscribers, and 50.1 million cellular subscribers, indicating widespread telecommunication access.",
+        "• The country operates seven international ports, with Port Klang identified as the major port facilitating international trade and logistics.",
+        "• Malaysia hosts 200 industrial parks, including specialized zones such as Technology Park Malaysia and Kulim Hi-Tech Park, which support industrial and technological development.",
+        "• Access to fresh water is available to over 95% of Malaysia’s population, demonstrating substantial infrastructure in water supply.",
+        "• During the colonial period, infrastructure development was primarily concentrated in economically powerful cities and strategic areas of security concern.",
+        "• Despite focused development efforts in rural areas, these regions continue to lag behind more developed areas, particularly those located on the west coast of Peninsular Malaysia.",
+        "• The telecommunications network, while robust in urban centers, remains less accessible to the rural population, highlighting ongoing disparities in infrastructure distribution."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:08.983265",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 28
+    },
+    {
+      "section_number": "10.1",
+      "section_name": "Energy",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia's energy infrastructure sector is predominantly controlled by Tenaga Nasional, which is recognized as the largest electric utility company in Southeast Asia, possessing assets exceeding RM99.03 billion.",
+        "• Electricity distribution to customers in Malaysia is facilitated through the National Grid, which comprises more than 420 transmission substations located in the Peninsular Malaysia, interconnected by approximately 11,000 kilometers of transmission lines operating at voltage levels of 132, 275, and 500 kilovolts.",
+        "• In the year 2013, Malaysia's total installed power generation capacity was recorded at over 29,728 megawatts (MW).",
+        "• The total electricity generated in Malaysia in 2013 amounted to 140,985.01 gigawatt-hours (GWh), while total electricity consumption during the same year was 116,087.51 GWh.",
+        "• Malaysia's energy production is primarily reliant on oil and natural gas resources, supported by the country’s substantial oil reserves and natural gas reserves, which rank as the fourth largest in the Asia-Pacific region after China, India, and Vietnam.",
+        "• The country possesses significant renewable energy resources, with particularly high potential for the development of large-scale solar power projects.",
+        "• Malaysia has established one of the most advanced legal frameworks within the ASEAN region aimed at promoting renewable energy development.",
+        "• The Malaysian government has set a target to achieve a 20% share of renewable energy in the national energy mix by the year 2025.",
+        "• To meet the 2025 renewable energy target, the government needs to enhance renewable energy governance, improve investment policies, facilitate market entry for foreign investors, and develop a regulatory framework that simplifies grid connection and utilization for renewable energy sources.",
+        "• As of 2021, Malaysia is a major global producer of solar panels for the international market; however, despite this industrial capacity, the country has not yet fully leveraged solar energy for domestic electricity generation."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:14.708669",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 10
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 29
+    },
+    {
+      "section_number": "10.1.1",
+      "section_name": "Road network",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia's road network is one of the most comprehensive in Asia, covering approximately 280,000 kilometres (173,984 miles) in total length.",
+        "• The primary national road network is the Malaysian Federal Roads System, which extends over 41,930 kilometres (26,050 miles).",
+        "• The majority of federal roads in Malaysia are 2-lane roads; however, in urban areas, some federal roads expand to 4 lanes to manage increased traffic volumes.",
+        "• Nearly all federal roads are paved with tarmac, with exceptions including parts of the Skudai–Pontian Highway, which are paved with concrete, and sections of the Federal Highway linking Klang to Kuala Lumpur, which are paved with asphalt.",
+        "• Malaysia has approximately 5,027 kilometres (3,124 miles) of highways within its road network.",
+        "• The longest highway in Malaysia is the North–South Expressway, which spans 772 kilometres (480 miles) along the West Coast of Peninsular Malaysia, connecting major urban centres such as Kuala Lumpur and Johor Bahru.",
+        "• The Pan-Borneo Highway, connecting the states of Sabah and Sarawak on the island of Borneo in East Malaysia, has been undergoing a major upgrade to dual carriageway standards since 2015.",
+        "• A total of 1,663 kilometres (1,033 miles) of the Pan-Borneo Highway is being reconstructed to elevate the quality of East Malaysian highways to the same standard as those in Peninsular Malaysia."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:21.670609",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 8
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 30
+    },
+    {
+      "section_number": "10.1.2",
+      "section_name": "Rail network",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia currently has a railway network exceeding 2,900 kilometres (1,800 miles) in length, of which 767 kilometres (477 miles) are double-tracked and electrified.",
+        "• Rail transport in Malaysia consists of three main types: heavy rail operated by KTM, light rapid transit (LRT) and monorail systems managed by Rapid Rail, and a single funicular railway line known as the Penang Hill Railway.",
+        "• Heavy rail primarily serves intercity passenger travel and freight transport, as well as some urban public transportation functions.",
+        "• Light rapid transit (LRT) systems are utilized mainly for intra-city urban public transport within Malaysian cities.",
+        "• There are two commuter rail services that connect Kuala Lumpur with the Kuala Lumpur International Airport, facilitating airport transit.",
+        "• Malaysia’s only monorail line operates as a public transport system within Kuala Lumpur.",
+        "• The sole funicular railway line in Malaysia is located in Penang and serves as a tourist and transport attraction.",
+        "• The Kuala Lumpur Mass Rapid Transit (KVMRT) project is an ongoing rapid transit development aimed at enhancing the public transportation infrastructure in Kuala Lumpur.",
+        "• The Malaysian railway network covers the majority of the 11 states located in Peninsular Malaysia.",
+        "• In East Malaysia, railway services exist only in the state of Sabah, with no rail networks in other East Malaysian states.",
+        "• The Malaysian railway system is connected to the Thai railway network, which uses a 1,000 mm (3 ft 3+3⁄8 in) gauge, facilitating cross-border rail travel in the northern region.",
+        "• Potential future railway expansions include the rebuilding of the Burma Railway, which could enable rail services linking Malaysia to Myanmar, India, and China."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:28.738333",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 31
+    },
+    {
+      "section_number": "10.1.3",
+      "section_name": "Air network",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia has a total of 118 airports, of which 38 have paved runways, facilitating both domestic and international air travel.",
+        "• The majority of Malaysian airports are managed by Malaysia Airports Holdings Berhad (MAHB), a key organization overseeing airport operations in the country.",
+        "• Malaysia Airlines serves as the national airline, providing extensive international and domestic air services across Malaysia.",
+        "• Major international and domestic routes, especially those connecting West Malaysia and East Malaysia, are primarily served by Malaysia Airlines and AirAsia.",
+        "• Smaller domestic routes within Malaysia are supplemented by regional airlines such as MASwings, Firefly, and Berjaya Air, enhancing connectivity to less accessible areas.",
+        "• Key cargo airlines operating in Malaysia include MASkargo and Transmile Air Services, which handle significant air freight transport.",
+        "• Kuala Lumpur International Airport (KLIA) is Malaysia’s main and busiest airport, serving as a central hub for international and domestic flights.",
+        "• In 2019, KLIA ranked as the world’s 12th busiest airport by international passenger traffic, accommodating over 44.8 million international passengers.",
+        "• By 2023, KLIA was the world’s 35th busiest airport in terms of total passenger traffic, with over 47.2 million passengers recorded.",
+        "• As of 2024, KLIA holds the position of the second most connected airport globally in terms of international connectivity, ranking just behind London Heathrow Airport and ahead of Haneda Airport.",
+        "• Kota Kinabalu International Airport is Malaysia’s second busiest airport overall and the busiest airport in East Malaysia, handling over 9 million passengers in 2019.",
+        "• Penang International Airport is another major Malaysian airport, with approximately 6.8 million passengers recorded in 2023, reflecting its significant role in regional air travel."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:33.241698",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 12
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 32
+    },
+    {
+      "section_number": "10.1.4",
+      "section_name": "Sea network",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Malaysia is strategically situated on the Strait of Malacca, recognized as one of the most critical shipping lanes globally, enhancing its maritime significance.",
+        "• The country possesses a highly developed maritime shipping sector, contributing to its global connectivity in shipping trade routes.",
+        "• According to the United Nations Conference on Trade and Development (UNCTAD), Malaysia ranks as the fifth-best linked country worldwide in terms of shipping trade route connectivity, surpassing developed economies such as Germany and the Netherlands.",
+        "• Malaysia has two ports ranked among the top 20 busiest ports globally: Port Klang and Port of Tanjung Pelepas.",
+        "• Within Southeast Asia, Port Klang and Port of Tanjung Pelepas are the second and third busiest ports respectively, following the Port of Singapore.",
+        "• Port Klang is the busiest port in Malaysia and ranks as the 12th busiest port worldwide, handling over 14 million twenty-foot equivalent units (TEUs).",
+        "• The Port of Tanjung Pelepas is Malaysia’s second busiest port and the 16th busiest port globally, managing over 10.4 million TEUs."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:39.181468",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 33
+    },
+    {
+      "section_number": "10.2",
+      "section_name": "International trade agreements",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• The Malaysia–Japan Economic Partnership Agreement (MJEPA) was concluded and signed on 13 December 2005, and became effective on 13 July 2006.",
+        "• The Malaysia–Pakistan Closer Economic Partnership Agreement (MPCEPA) was concluded and signed on 8 November 2007, with effectiveness starting on 1 January 2008.",
+        "• The Malaysia–New Zealand Free Trade Agreement (MNZFTA) was concluded on 30 May 2009, signed on 26 October 2009, and became effective on 1 August 2010.",
+        "• The Malaysia–India Comprehensive Economic Cooperation Agreement (MICECA) was signed on 18 February 2011 and became effective on 1 July 2011; the date of conclusion is not specified.",
+        "• The Malaysia–Chile Free Trade Agreement (MCFTA) was concluded in May 2010, signed on 13 November 2010, and became effective on 25 February 2012.",
+        "• The Malaysia–Australia Free Trade Agreement (MAFTA) was concluded on 30 March 2012 and became effective on 1 January 2013; the signing date is not provided.",
+        "• The Malaysia–Turkey Free Trade Agreement (MTFTA) was concluded on 15 January 2014, signed on 17 April 2014, and became effective on 1 August 2015.",
+        "• The ASEAN–China Free Trade Agreement (ATFTA) was signed in November 2002 and became effective on 1 January 2010; the date of conclusion is not specified.",
+        "• The ASEAN–Japan Comprehensive Economic Partnership Agreement (AJCEP) was signed on 14 April 2008 and became effective on 1 February 2009; the date of conclusion is not provided.",
+        "• The ASEAN–Korea Free Trade Agreement (AKFTA) became effective on 1 January 2010; the dates of conclusion and signing are not specified.",
+        "• The ASEAN–India Free Trade Agreement (AIFTA) was signed on 13 August 2009 and became effective on 1 January 2010; the date of conclusion is not mentioned.",
+        "• The ASEAN–Australia-New Zealand Free Trade Area Agreement (AANZFTA) was signed on 27 February 2009 and became effective on 1 January 2010; the date of conclusion is not provided.",
+        "• The ASEAN–Hong Kong Free Trade Agreement (AHKFTA) was signed on 12 November 2017 and became effective on 13 October 2019; the date of conclusion is not specified.",
+        "• The Regional Comprehensive Economic Partnership (RCEP), involving ASEAN, China, Japan, South Korea, Australia, and New Zealand, was signed on 15 November 2020 and became effective on 18 March 2022; the date of conclusion is not provided."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:49.421291",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 14
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 34
+    },
+    {
+      "section_number": "10.3",
+      "section_name": "Trade agreements under negotiation",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• Since 2012, Malaysia has been engaged in negotiations for the Malaysia-EFTA Economic Partnership Agreement, aiming to enhance trade relations with the European Free Trade Association member countries.",
+        "• Malaysia is actively pursuing the Malaysia–European Union Free Trade Agreement (MEUFTA), which seeks to establish a comprehensive trade framework between Malaysia and the European Union to facilitate market access and economic cooperation.",
+        "• Malaysia is a participant in the Trans-Pacific Partnership Agreement (TPP), a multilateral trade agreement designed to promote economic integration and trade liberalization among member countries across the Asia-Pacific region.",
+        "• Malaysia is involved in the Trade Preferential System of the Organisation of Islamic Cooperation (TPS-OIC), which provides preferential tariff rates among member states to strengthen economic ties within the Islamic world.",
+        "• Malaysia is a member of the Developing Eight (D-8) Preferential Tariff Agreement (PTA), a trade pact among eight developing Muslim-majority countries aimed at reducing tariffs and enhancing trade cooperation among member states."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:26:53.415303",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 5
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 35
+    },
+    {
+      "section_number": "11",
+      "section_name": "Investments",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In 2014, Malaysia's total accumulated investments amounted to RM235.9 billion, with domestic sources contributing 72.6% (RM171.3 billion) and foreign sources accounting for 27.4% (RM64.6 billion).",
+        "• The Foreign Direct Investment (FDI) Confidence Index, compiled by global management consulting firm A.T. Kearney, ranked Malaysia 15th in 2014, reflecting the country's attractiveness to foreign investors based on political, economic, and regulatory factors.",
+        "• Malaysia's FDI Confidence Index rankings over recent years were 9th in 2012, 21st in 2010, and 16th in 2007, indicating fluctuations in investor confidence over time.",
+        "• The FDI Confidence Index measures the impact of political, economic, and regulatory changes on the FDI intentions and preferences of top global company leaders.",
+        "• In the 2014 FDI Confidence Index, the United States ranked 1st with a score of 2.16, China 2nd with 1.95, and Canada 3rd with 1.93, demonstrating the leading positions of these countries in attracting foreign direct investment.",
+        "• Other top-ranking countries in 2014 included the United Kingdom (4th, 1.91), Brazil (5th, 1.91), Germany (6th, 1.84), India (7th, 1.81), Australia (8th, 1.76), Singapore (9th, 1.75), and France (10th, 1.74).",
+        "• Malaysia’s 15th place in 2014 was accompanied by an FDI Confidence Index score of 1.65, placing it behind countries such as Switzerland (14th, 1.68) and ahead of Sweden (16th, 1.64).",
+        "• The rankings illustrate Malaysia’s position relative to other emerging and developed economies, such as South Africa (13th in 2014), Mexico (12th), and Indonesia (25th).",
+        "• The data highlights Malaysia’s moderate but stable appeal to foreign investors in the context of global economic and political dynamics during the period from 2007 to 2014."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:27:01.503437",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 36
+    },
+    {
+      "section_number": "11.1",
+      "section_name": "Fortune Global 500",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the 2022 Fortune Global 500 ranking, Malaysia is represented by a single company.",
+        "• The Malaysian company listed is Petronas, which operates in the oil and gas industry.",
+        "• Petronas holds the world rank of 216 among the Fortune Global 500 companies in 2022.",
+        "• The company reported sales amounting to $59,873 million in the ranking year.",
+        "• Petronas achieved profits totaling $10,091 million as recorded in the 2022 ranking.",
+        "• The total assets held by Petronas were valued at $152,498 million according to the Fortune Global 500 data.",
+        "• Petronas employed a workforce of 46,884 individuals as per the 2022 Fortune Global 500 listing."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:27:05.294372",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 7
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 37
+    },
+    {
+      "section_number": "11.2",
+      "section_name": "Forbes Global 2000",
+      "chapter_name": "Economy of Malaysia",
+      "chapter_id": "1",
+      "openai_summarised_points": [
+        "• In the Forbes Global 2000 ranking for the year 2022, Malaysia is represented by eight companies across various industries.",
+        "• Maybank, ranked 485th globally, operates in the banking sector with reported sales of $9.2 billion, profits of $2.0 billion, total assets amounting to $213.2 billion, and a market value of $24.7 billion.",
+        "• Tenaga Nasional, positioned at 837th in the global ranking, belongs to the utilities industry and has sales of $12.7 billion, profits of $0.883 billion, assets totaling $43.8 billion, and a market capitalization of $11.8 billion.",
+        "• Public Bank Berhad holds the 751st place worldwide in the banking industry, with sales of $4.5 billion, profits of $1.4 billion, assets valued at $111.1 billion, and a market value of $21.2 billion.",
+        "• CIMB Group Holdings is ranked 895th globally in the banking sector, reporting sales of $5.7 billion, profits of $1.0 billion, assets of $149.3 billion, and a market value of $12.2 billion.",
+        "• RHB Capital, another banking institution, is ranked 1525th worldwide, with sales amounting to $2.6 billion, profits of $0.631 billion, assets totaling $69.5 billion, and a market value of $5.7 billion.",
+        "• Hong Leong Financial Group, classified under business services and supplies, is ranked 1641st globally, with sales of $1.9 billion, profits of $0.567 billion, assets of $66.7 billion, and a market value of $5.1 billion.",
+        "• Top Glove, operating in the health care equipment and services industry, is ranked 1448th in the Forbes Global 2000, with sales of $3.6 billion, profits of $1.6 billion, assets of $3.1 billion, and a market value of $10.8 billion.",
+        "• Petronas Chemicals, in the chemicals sector, holds the 1236th position globally, reporting sales of $5.6 billion, profits of $1.8 billion, assets totaling $11.5 billion, and a market value of $19.1 billion."
+      ],
+      "metadata": {
+        "processed_timestamp": "2025-08-01T10:27:12.056810",
+        "openai_model": "gpt-4.1-mini",
+        "bullet_points_count": 9
+      },
+      "source_file": "economy_of_malaysia.json",
+      "original_index": 38
+    }
+  ]
+}
