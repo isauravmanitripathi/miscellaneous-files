@@ -241,8 +241,17 @@ def process_folder(parser_instance, folder_path, **kwargs):
     skipped_count = 0
     failed_count = 0
     
+    # Keep track of skip_all state
+    skip_all_remaining = False
+    
     for i, pdf_path in enumerate(pdf_files, 1):
         try:
+            # If user previously chose skip_all, don't ask again
+            if skip_all_remaining:
+                print(f"⏭️  Skipping {pdf_path.name} (skip all remaining)")
+                skipped_count += 1
+                continue
+            
             # Ask user for confirmation
             user_choice = ask_user_confirmation(pdf_path, i, len(pdf_files))
             
@@ -250,10 +259,10 @@ def process_folder(parser_instance, folder_path, **kwargs):
                 print("\n👋 User requested to quit. Exiting...")
                 break
             elif user_choice == 'skip_all':
-                remaining = len(pdf_files) - i + 1
-                print(f"\n⏭️  Skipping all remaining {remaining} PDF(s). Exiting...")
-                skipped_count += remaining
-                break
+                print(f"\n⏭️  Skipping {pdf_path.name} and all remaining PDFs...")
+                skip_all_remaining = True
+                skipped_count += 1
+                continue
             elif user_choice == 'skip':
                 print(f"⏭️  Skipping {pdf_path.name}")
                 skipped_count += 1
@@ -270,6 +279,11 @@ def process_folder(parser_instance, folder_path, **kwargs):
                 processed_count += 1
                 print(f"✅ Successfully processed: {pdf_path.name}")
                 print(f"📂 Output saved to: {result['output_dir']}")
+                
+                # After successful processing, continue to next PDF automatically
+                print(f"\n{'='*30}")
+                print("Moving to next PDF...")
+                print(f"{'='*30}")
                 
         except KeyboardInterrupt:
             print(f"\n❌ Process interrupted by user")
@@ -289,13 +303,19 @@ def process_folder(parser_instance, folder_path, **kwargs):
                 else:
                     print("❌ Invalid choice. Please enter 'y' or 'n'")
     
-    # Final summary
+    # Final summary (accounting for skip_all behavior)
+    remaining_skipped = 0
+    if skip_all_remaining:
+        # Count how many were skipped due to skip_all
+        for j in range(i, len(pdf_files)):
+            remaining_skipped += 1
+    
     print(f"\n{'='*60}")
     print("📊 BATCH PROCESSING SUMMARY")
     print(f"{'='*60}")
     print(f"📄 Total PDFs found: {len(pdf_files)}")
     print(f"✅ Successfully processed: {processed_count}")
-    print(f"⏭️  Skipped: {skipped_count}")
+    print(f"⏭️  Skipped: {skipped_count + remaining_skipped}")
     print(f"❌ Failed: {failed_count}")
     print(f"{'='*60}")
 

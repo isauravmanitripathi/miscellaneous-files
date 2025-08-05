@@ -1,0 +1,322 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TERM AND VACANCY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          104.21630859375,
+          87.35009765625
+        ],
+        [
+          287.47265625,
+          87.35009765625
+        ],
+        [
+          287.47265625,
+          106.6376953125
+        ],
+        [
+          104.21630859375,
+          106.6376953125
+        ]
+      ]
+    },
+    {
+      "title": "Term of Office",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.0,
+          138.05859375
+        ],
+        [
+          183.48046875,
+          138.05859375
+        ],
+        [
+          183.48046875,
+          156.62109375
+        ],
+        [
+          75.0,
+          156.62109375
+        ]
+      ]
+    },
+    {
+      "title": "Vacancy in Office",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          74.25,
+          475.6640625
+        ],
+        [
+          206.19140625,
+          475.6640625
+        ],
+        [
+          206.19140625,
+          493.453125
+        ],
+        [
+          74.25,
+          493.453125
+        ]
+      ]
+    },
+    {
+      "title": "POWERS AND FUNCTIONS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          104.51513671875,
+          87.6884765625
+        ],
+        [
+          326.91796875,
+          87.6884765625
+        ],
+        [
+          326.91796875,
+          106.0576171875
+        ],
+        [
+          104.51513671875,
+          106.0576171875
+        ]
+      ]
+    },
+    {
+      "title": "INDIAN AND AMERICAN VICEPRESIDENTS\nCOMPARED",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          103.39453125,
+          88.41357421875
+        ],
+        [
+          536.09765625,
+          88.41357421875
+        ],
+        [
+          536.09765625,
+          124.91015625
+        ],
+        [
+          103.39453125,
+          124.91015625
+        ]
+      ]
+    },
+    {
+      "title": "NOTES AND REFERENCES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          105.0,
+          299.900390625
+        ],
+        [
+          301.21875,
+          299.900390625
+        ],
+        [
+          301.21875,
+          318.076171875
+        ],
+        [
+          105.0,
+          318.076171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ]
+}
